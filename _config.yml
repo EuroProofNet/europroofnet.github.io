@@ -84,12 +84,12 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _events
+  # _wg
   - scope:
       path: "_wg"
       type: wg
     values:
-      layout: single
+      layout: posts
       author_profile: true
   # _pages
   - scope:
