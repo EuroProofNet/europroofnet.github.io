@@ -1,9 +1,9 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
-  - title: "About"
-    url: /about/
+  - title: "Working Groups"
+    url: /wg/
+  - title: "Events and Activities"
+    url: /events/
+  - title: "Dissemination"
+    url: /dissemination/
+  - title: "Contact"
+    url: /contact/
