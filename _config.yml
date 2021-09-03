@@ -84,6 +84,13 @@ defaults:
     values:
       layout: single
       author_profile: true
+  # _events
+  - scope:
+      path: "_wg"
+      type: wg
+    values:
+      layout: single
+      author_profile: true
   # _pages
   - scope:
       path: "_pages"
