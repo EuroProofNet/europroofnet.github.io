@@ -19,7 +19,7 @@ for network communication, HTML for web pages, etc. This is however not the
 case for formal proofs, which is a major bottleneck for their adoption by the
 industry. The main reason is that, currently, proof systems use mutually
 incompatible logical foundations. Fortunately, only small parts of the proofs
-developed in a system use features that are incompatible with other systems.</p>
+developed in a system use features that are incompatible with other systems.
 
 Europe is a leading actor in the area of formal proofs: about 65% of the proof
 systems of the world are developed in Europe, including the two mostly used
