@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## [EuroProofNet](https://www.cost.eu/actions/CA20111/): European Research Network on Formal Proofs
 
 You can use the [editor on GitHub](https://github.com/EuroProofNet/europroofnet.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
