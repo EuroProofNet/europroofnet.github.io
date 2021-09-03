@@ -79,15 +79,8 @@ footer:
 defaults:
   # _events
   - scope:
-      path: "_events"
+      path: ""
       type: events
-    values:
-      layout: single
-      author_profile: true
-  # _wg
-  - scope:
-      path: "_wg"
-      type: wg
     values:
       layout: posts
       author_profile: true
