@@ -1,6 +1,6 @@
 ---
 title: "Working Groups"
-layout: wg
+layout: posts
 permalink: /wg/
 author_profile: true
 ---
