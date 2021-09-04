@@ -1,6 +1,7 @@
 main:
   - title: "Working Groups"
     url: /wg/
+	children:
   	- title: "WG 1"
     	url: /wg1/
   	- title: "WG 2"

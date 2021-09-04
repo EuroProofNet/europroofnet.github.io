@@ -57,7 +57,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Cost Action CA20111"
+  name   : "COST Action CA20111"
   bio    : "EuroProofNet: European Research Network on Formal Proofs"
   links:
     - label: "COST Website"
