@@ -5,7 +5,7 @@ permalink: /dissemination/
 author_profile: true
 ---
 
-#### Publications
-#### Formalization Artifacts
-#### Tools
-#### Industrial Outreach
+### Publications
+### Formalization Artifacts
+### Tools
+### Industrial Outreach
