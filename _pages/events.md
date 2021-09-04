@@ -1,6 +1,7 @@
 ---
 title: "Events and Activities"
-layout: posts
+layout: category
 permalink: /events/
+taxonomy: event
 author_profile: true
 ---
