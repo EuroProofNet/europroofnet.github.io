@@ -1,11 +1,6 @@
 main:
   - title: "Working Groups"
     url: /wg/
-	children:
-  	- title: "WG 1"
-    	url: /wg1/
-  	- title: "WG 2"
-    	url: /wg2/
   - title: "Events and Activities"
     url: /events/
   - title: "Dissemination"
