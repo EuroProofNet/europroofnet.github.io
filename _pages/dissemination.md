@@ -1,7 +1,8 @@
 ---
 title: "Dissemination"
-layout: single
+layout: collection
 permalink: /dissemination/
+collection: publication
 author_profile: true
 ---
 
