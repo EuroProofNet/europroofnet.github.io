@@ -1,7 +1,7 @@
 ---
 title: "Dissemination"
 layout: collection
-permalink: /publications/
+permalink: /dissemination/
 collection: publications
 author_profile: true
 ---
