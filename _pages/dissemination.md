@@ -2,11 +2,6 @@
 title: "Dissemination"
 layout: collection
 permalink: /dissemination/
-collection: publication
+collection: publications
 author_profile: true
 ---
-
-### Publications
-### Formalization Artifacts
-### Tools
-### Industrial Outreach
