@@ -77,6 +77,13 @@ footer:
       url: "https://github.com/EuroProofNet"
 
 defaults:
+  # _publications
+  - scope:
+	  path: ""
+	  type: publications
+    values:
+	  layout: post
+	  author_profile: true
   # _posts
   - scope:
       path: ""
