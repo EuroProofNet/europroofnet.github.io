@@ -79,11 +79,11 @@ footer:
 defaults:
   # _publications
   - scope:
-	  path: ""
-	  type: publications
+      path: ""
+      type: publications
     values:
-	  layout: post
-	  author_profile: true
+      layout: single
+      author_profile: true
   # _posts
   - scope:
       path: ""
