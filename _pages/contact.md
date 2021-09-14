@@ -5,5 +5,5 @@ title: "Contact"
 
 Core group:
 
-* Frédéric Blanqui
+* [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/)
 * ...
