@@ -76,6 +76,11 @@ footer:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/EuroProofNet"
 
+collections:
+  publications:
+    output: true
+	permalink: /:collection/:path/
+
 defaults:
   # _publications
   - scope:
