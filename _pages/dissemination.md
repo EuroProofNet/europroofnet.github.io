@@ -1,6 +1,6 @@
 ---
 title: "Dissemination"
-layout: collection
+layout: categories
 permalink: /dissemination/
 collection: publications
 author_profile: true
