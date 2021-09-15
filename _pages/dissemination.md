@@ -1,6 +1,6 @@
 ---
 title: "Dissemination"
 layout: categories
-permalink: /categories/
+permalink: /dissemination/
 author_profile: true
 ---
