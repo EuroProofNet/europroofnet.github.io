@@ -13,3 +13,9 @@ systems. It gathers more than 180 researchers on proof systems and
 formal proofs, from 30 different countries.
 
 [Public Zulip chat](https://epn.zulipchat.com/)
+
+[Description](../desrciption)
+
+[Objectives](../objectives)
+
+[Deliverables](../deliverables)
