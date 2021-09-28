@@ -13,7 +13,6 @@ author_profile: true
 
 **WG4** [Libraries of Formal Proofs](../wg6)
 
-**WG5** [Machine Learning in Proofs](../wg5)<br />One-line desc
+**WG5** [Machine Learning in Proofs](../wg5)
  
 **WG6** [Type Theory](../wg6)
- 
