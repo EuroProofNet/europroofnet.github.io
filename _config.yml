@@ -76,11 +76,16 @@ footer:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/EuroProofNet"
 
+collections:
+  events:
+    output: true
+    permalink: /:collection/:path/
+
 defaults:
-  # _publications
+  # _events
   - scope:
       path: ""
-      type: publications
+      type: events
     values:
       layout: single
       author_profile: true

@@ -1,7 +1,7 @@
 ---
 title: "Events and Activities"
-layout: category
+layout: collection
 permalink: /events/
-taxonomy: event
+collection: events
 author_profile: true
 ---
