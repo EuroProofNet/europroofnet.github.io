@@ -11,7 +11,7 @@ author_profile: true
 
 **WG3** [Program Verification](../wg3)
 
-**WG4** [Libraries of Formal Proofs](../wg6)
+**WG4** [Libraries of Formal Proofs](../wg4)
 
 **WG5** [Machine Learning in Proofs](../wg5)
  
