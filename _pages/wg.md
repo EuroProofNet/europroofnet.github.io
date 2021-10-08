@@ -5,6 +5,10 @@ permalink: /wg/
 author_profile: true
 ---
 
+To join the action, you need to
+[apply](https://e-services.cost.eu/action/CA20111/working-groups/apply)
+to the working groups you are interested in:
+
 **WG1** [Tools on Proof Systems Interoperability](../wg1)
 
 **WG2** [Automated Theorem Provers](../wg2)
