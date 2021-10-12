@@ -32,4 +32,8 @@ foundations of their systems and develop tools for inter-translation of the
 proofs developed in individual systems to and from this common logical
 framework.
 
+[Objectives](../objectives)
+
+[Deliverables](../deliverables)
+
 For more details, see the [Memorandum of Understanding](https://e-services.cost.eu/files/domain_files/CA/Action_CA20111/mou/CA20111-e.pdf).
