@@ -3,9 +3,9 @@ main:
     url: /description/
   - title: "Working Groups"
     url: /wg/
-  - title: "Events and Activities"
+  - title: "Events"
     url: /events/
-  - title: "Dissemination"
-    url: /dissemination/
+  - title: "Publications"
+    url: /publications/
   - title: "Contact"
     url: /contact/

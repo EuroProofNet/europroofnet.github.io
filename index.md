@@ -9,8 +9,8 @@ author_profile: true
 
 EuroProofNet is the European research network on digital proofs. It
 aims at boosting the interoperability and usability of proof
-systems. It gathers more than 180 researchers on proof systems and
-formal proofs, from 30 different countries. To join the action,
+systems. It gathers [190 researchers](../teams) on proof systems and
+formal proofs, from [30 different countries](../teams). To join the action,
 [apply](https://e-services.cost.eu/action/CA20111/working-groups/apply)
 to the [working groups](../wg) you are interested in.
 
@@ -19,3 +19,9 @@ to the [working groups](../wg) you are interested in.
 [Objectives](../objectives)
 
 [Deliverables](../deliverables)
+
+[Teams](../teams)
+
+[Tools](../tools)
+
+[Publications](../publications)
