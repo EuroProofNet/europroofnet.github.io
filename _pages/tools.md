@@ -26,6 +26,7 @@ author_profile: true
 **Proof translation tools**
 
 - [Agda2Dedukti](https://github.com/Deducteam/Agda2Dedukti): Agda to Dedukti/Agda
+- [Vodk](https://github.com/Deducteam/CoqInE): Coq to Dedukti/Coq
 - [Dk2agda](https://github.com/Deducteam/dk2agda): Dedukti to Agda
 - [Ekstrakto](https://github.com/Deducteam/ekstrakto): TSTP to Dedukti/FOL or Lambdapi/FOL
 - [Holide](https://github.com/Deducteam/Holide): OpenTheory to Dedukti/STTfa
@@ -35,8 +36,7 @@ author_profile: true
 - [Logipedia](https://github.com/Deducteam/Logipedia): Dedukti/STTfa to Coq, Lean, Matita, OpenTheory, HOL-Light, PVS
 - [Personoj](https://github.com/Deducteam/personoj): PVS to Lambdapi
 - [Skonverto](https://github.com/Deducteam/SKonverto): deskolemization tool
-- [Universo](https://github.com/Deducteam/universo): type universes rewriting
-- [ZenonModulo](https://github.com/Deducteam/zenon_modulo): TPTP to Dedukti/FOL or Lambdapi/FOL
+- [Universo](https://github.com/Deducteam/universo): type universes rewriting tool
 
 **Interactive theorem provers**
 

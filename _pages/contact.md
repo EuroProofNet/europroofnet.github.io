@@ -3,7 +3,7 @@ permalink: /contact/
 title: "Contact"
 ---
 
-[Public Zulip chat](https://epn.zulipchat.com/)
+[Zulip chat](https://epn.zulipchat.com/)
 
 **Core group**
 
@@ -36,7 +36,7 @@ title: "Contact"
 - WG6 (type theory) leader: [Benedikt Ahrens](https://benediktahrens.gitlab.io/)
 - WG6 vice leader: [Roussanka Loukanova](https://staff.math.su.se/rloukanova/)
 
-**Management Committee/Country represetatives**
+**Management Committee/Country representatives**
 
 - Austria: [Laura Kovács](http://lkovacs.com/) and [Cezary Kaliszyk](http://cl-informatik.uibk.ac.at/cek/)
 - Belgium: [Pascal Fontaine](https://people.montefiore.uliege.be/pfontain/) and Christophe Scholliers
