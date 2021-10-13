@@ -26,4 +26,4 @@ to the [working groups](../wg) you are interested in.
 
 [Publications](../publications)
 
-[![COST](/assets/images/cost.jpg)](https://e-services.cost.eu/action/CA20111/working-groups/apply)
+[![COST](/assets/images/cost.jpg)](https://www.cost.eu/actions/CA20111/)
