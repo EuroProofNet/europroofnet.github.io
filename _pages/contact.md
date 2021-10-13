@@ -41,7 +41,7 @@ title: "Contact"
 **Management Committee/Country representatives**
 
 - Austria: [Laura Kovács](http://lkovacs.com/) and [Cezary Kaliszyk](http://cl-informatik.uibk.ac.at/cek/)
-- Belgium: [Pascal Fontaine](https://people.montefiore.uliege.be/pfontain/) and Christophe Scholliers
+- Belgium: [Christophe Scholliers](https://users.ugent.be/~chscholl/) and [Pascal Fontaine](https://people.montefiore.uliege.be/pfontain/)
 - Bulgaria: [Roussanka Loukanova](https://staff.math.su.se/rloukanova/)
 - Croatia: [Zvonko Iljazović](https://www.pmf.unizg.hr/en/zvonko.iljazovic)
 - Czech Republic: [Martin Suda](http://people.ciirc.cvut.cz/~sudamar2/) and [David Cerna](https://www.cs.cas.cz/staff/dcerna/)
@@ -52,7 +52,7 @@ title: "Contact"
 - Germany: [Chuangjie Xu](https://cj-xu.github.io/) and [Erika Ábrahám](https://ths.rwth-aachen.de/people/erika-abraham/)
 - Greece: [Petros Stefaneas](https://ntua.academia.edu/PStefaneas)
 - Hungary: András Kovács and [Ambrus Kaposi](https://akaposi.github.io/)
-- Iceland: [Dylan McDermott](https://dylanm.org/) and Valentina Castiglioni
+- Iceland: [Valentina Castiglioni](https://sites.google.com/view/valentinacastiglioni/home) and [Dylan McDermott](https://dylanm.org/)
 - Ireland: [Madhusanka Liyanage](https://sites.google.com/view/madhusanka/home)
 - Israel: [Liron Cohen](https://in.bgu.ac.il/en/Pages/Liron-Cohen.aspx) and [Yakir Vizel](http://www.cs.technion.ac.il/~yvizel/)
 - Italy: [Claudio Sacerdoti Coen](http://www.cs.unibo.it/~sacerdot/)
