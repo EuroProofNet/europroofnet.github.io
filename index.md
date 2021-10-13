@@ -25,12 +25,3 @@ to the [working groups](../wg) you are interested in.
 [Tools](../tools)
 
 [Publications](../publications)
-
-[![COST](/assets/images/COST_LOGO_rgb_highresolution_height100.jpg)](https://www.cost.eu/)
-[![COST](/assets/images/COST-H2020-acknowledgement-4lines_height100.jpg)](https://ec.europa.eu/programmes/horizon2020/)
-
-[COST](https://www.cost.eu/) (European Cooperation in Science and
-Technology) is a funding agency for research and innovation
-networks. Our Actions help connect research initiatives across Europe
-and enable scientists to grow their ideas by sharing them with their
-peers. This boosts their research, career and innovation.
