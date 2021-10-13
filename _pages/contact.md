@@ -64,7 +64,7 @@ title: "Contact"
 - Portugal: [Maria João Frade](https://haslab.uminho.pt/mjf/) and [Sandra Alves](https://www.dcc.fc.up.pt/~sandra/)
 - Romania: [Rodica Condurache](https://profs.info.uaic.ro/~rodica.condurache/)
 - Serbia: [Silvia Ghilezan](http://imft.ftn.uns.ac.rs/~silvia/) and [Danijela Simić](http://poincare.matf.bg.ac.rs/~danijela/) 
-- Slovakia: Zuzana Bilanová and [Ján Perháč](https://kpi.fei.tuke.sk/en/person/jan-perhac)
+- Slovakia: [Zuzana Bilanová](https://kpi.fei.tuke.sk/en/person/zuzana-bilanova) and [Ján Perháč](https://kpi.fei.tuke.sk/en/person/jan-perhac)
 - Slovenia: [Anja Petković Komel](https://anjapetkovic.com/) and [Andrej Bauer](http://www.andrej.com/)
 - Spain: [Montserrat Hermo](http://www.sc.ehu.es/jiwhehum2/LoRea/Mhermo/research.html) and [Alicia Villanueva](http://personales.upv.es/alvilga1/)
 - Sweden: [Anders Mörtberg](https://staff.math.su.se/anders.mortberg/) and Robin Adam
