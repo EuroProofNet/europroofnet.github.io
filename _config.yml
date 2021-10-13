@@ -66,6 +66,10 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/EuroProofNet"
+    - label: "COST"
+      url: "https://www.cost.eu"
+    - label: "H2020"
+      url: "https://ec.europa.eu/programmes/horizon2020/"
 
 footer:
   links:
@@ -75,6 +79,10 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/EuroProofNet"
+    - label: "COST"
+      url: "https://www.cost.eu"
+    - label: "H2020"
+      url: "https://ec.europa.eu/programmes/horizon2020/"
 
 collections:
   events:
