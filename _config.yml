@@ -57,28 +57,29 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "COST Action CA20111"
-  bio    : "EuroProofNet: European Research Network on Formal Proofs"
+  name   : "EuroProofNet"
+  bio    : "European Research Network on Formal Proofs"
   links:
-    - label: "COST Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://www.cost.eu/actions/CA20111/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/EuroProofNet"
+    - label: "CA20111"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.cost.eu/actions/CA20111/"
     - label: "COST"
       url: "https://www.cost.eu"
     - label: "H2020"
       url: "https://ec.europa.eu/programmes/horizon2020/"
+  image: "/assets/images/COST_LOGO_rgb_highresolution_height100.jpg"
 
 footer:
   links:
-    - label: "COST Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://www.cost.eu/actions/CA20111/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/EuroProofNet"
+    - label: "CA20111"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.cost.eu/actions/CA20111/"
     - label: "COST"
       url: "https://www.cost.eu"
     - label: "H2020"
