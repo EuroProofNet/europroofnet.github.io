@@ -304,6 +304,7 @@ DEPENDENCIES
   jekyll-paginate
   jekyll-sitemap
   jemoji
+  nokogiri (>= 1.12.5)
   tzinfo-data
   webrick (~> 1.7)
 
