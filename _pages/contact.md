@@ -5,6 +5,8 @@ title: "Contact"
 
 [Zulip chat](https://epn.zulipchat.com/)
 
+[Report a problem on the web site](https://github.com/EuroProofNet/europroofnet.github.io/issues)
+
 **Core group**
 
 - Chair: [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/)
