@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: EuroProofNet
+title: COST action CA20111
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   Cost Action CA20111 [EuroProofNet](https://www.cost.eu/actions/CA20111/)
@@ -57,8 +57,14 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "EuroProofNet"
-  bio    : "European Research Network on Formal Proofs"
+  name: "EuroProofNet"
+  bio: "European Research Network on Formal Proofs"
+  image: "/assets/images/COST_LOGO_rgb_highresolution_height100.jpg"
+  text: "[COST](https://www.cost.eu/) (European Cooperation in Science and
+Technology) is a funding agency for research and innovation
+networks. Our Actions help connect research initiatives across Europe
+and enable scientists to grow their ideas by sharing them with their
+peers. This boosts their research, career and innovation."
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
@@ -70,7 +76,6 @@ author:
       url: "https://www.cost.eu"
     - label: "H2020"
       url: "https://ec.europa.eu/programmes/horizon2020/"
-  image: "/assets/images/COST_LOGO_rgb_highresolution_height100.jpg"
 
 footer:
   links:
