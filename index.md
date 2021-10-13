@@ -25,3 +25,5 @@ to the [working groups](../wg) you are interested in.
 [Tools](../tools)
 
 [Publications](../publications)
+
+[![COST](/assets/images/cost.jpg)](https://e-services.cost.eu/action/CA20111/working-groups/apply)
