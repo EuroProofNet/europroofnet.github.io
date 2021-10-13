@@ -26,5 +26,5 @@ to the [working groups](../wg) you are interested in.
 
 [Publications](../publications)
 
-<a href="https://www.cost.eu/"><img src=“/assets/images/COST_LOGO_rgb_lowresolution.jpg" alt=“COST logo" height=“50”/></a>
-<a href="https://www.cost.eu/"><img src=“/assets/images/COST-H2020-acknowledgement-4lines.jpg" alt=“EU logo" height=“50”/></a>
+[![COST](/assets/images/COST_LOGO_rgb_highresolution_height100.jpg)](https://www.cost.eu/)
+[![COST](/assets/images/COST-H2020-acknowledgement-4lines_height100.jpg)](https://www.cost.eu/)
