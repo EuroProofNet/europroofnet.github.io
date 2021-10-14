@@ -59,8 +59,8 @@ plugins:
 author:
   bio: "[COST action CA20111](https://www.cost.eu/actions/CA20111/):
 **European Research Network on Formal Proofs**
-[<img src=\"/assets/images/COST_LOGO_rgb_highresolution.jpg\" alt=\"COST\" height=\"100\">](https://www.cost.eu/)
-[<img src=\"/assets/images/COST-H2020_acknowledgement_4lines.pdf\" alt=\"COST\" height=\"100\">](https://ec.europa.eu/programmes/horizon2020/)
+[<img src=\"/assets/images/COST_LOGO_rgb_highresolution.jpg\" alt=\"COST logo\" height=\"100\">](https://www.cost.eu/)
+[<img src=\"/assets/images/COST-H2020-acknowledgement-4lines.jpg\" alt=\"EU flag and COST H2020 acknowledgement\" height=\"100\">](https://ec.europa.eu/programmes/horizon2020/)
 [COST](https://www.cost.eu/) (European Cooperation in Science and
 Technology) is a funding agency for research and innovation
 networks. Our Actions help connect research initiatives across Europe
@@ -69,7 +69,7 @@ peers. This boosts their research, career and innovation."
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/EuroProofNet"
+      url: "https://github.com/EuroProofNet/europroofnet.github.io"
     - label: "CA20111"
       icon: "fas fa-fw fa-link"
       url: "https://www.cost.eu/actions/CA20111/"
@@ -82,7 +82,7 @@ footer:
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/EuroProofNet"
+      url: "https://github.com/EuroProofNet/europroofnet.github.io"
     - label: "CA20111"
       icon: "fas fa-fw fa-link"
       url: "https://www.cost.eu/actions/CA20111/"
