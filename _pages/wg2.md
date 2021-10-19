@@ -8,15 +8,11 @@ breadcrumbs: true
 
 ### Description
 
-The goal of this WG is to promote the output of detailed, checkable
-proofs from automated theorem provers. For the least expressive
-language, the current status is already very satisfactory:
-propositional (SAT) solvers nowadays output proofs in a standardised
-language, several checkers exist, and many tools embed SAT solvers
-using proof exchange to attain high confidence in the integration. The
-work is under way for FOL/HOL theorem provers and SMT solvers, but the
-expressivity of their input languages renders the task significantly
-more complicated, with a higher need of coordination.
+The aim of this WG is to promote the output of detailed, checkable proofs from
+automated theorem provers. Work is under way for FOL/HOL theorem provers and
+SMT solvers, but the expressivity of their input languages renders the task
+significantly more complicated than e.g., in the propositional SAT world, with
+a higher need of coordination.
 
 ### People
 
