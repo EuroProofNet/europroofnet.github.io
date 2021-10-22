@@ -3,7 +3,8 @@ permalink: /contact/
 title: "Contact"
 ---
 
-![Zulip icon](/assets/images/zulip_icon.png) [Zulip chat](https://epn.zulipchat.com/)
+<img src="/assets/images/zulip_icon.png" alt="Zulip icon" height="30"/>
+[Zulip chat](https://epn.zulipchat.com/)
 
 [Report a problem on the web site](https://github.com/EuroProofNet/europroofnet.github.io/issues)
 
