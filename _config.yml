@@ -65,15 +65,14 @@ author:
 Technology) is a funding agency for research and innovation
 networks. Our Actions help connect research initiatives across Europe
 and enable scientists to grow their ideas by sharing them with their
-peers. This boosts their research, career and innovation.
-
-[Zulip](https://epn.zulipchat.com/)"
+peers. This boosts their research, career and innovation."
   links:
+    - label: "Zulip"
+      url: "https://epn.zulipchat.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/EuroProofNet/europroofnet.github.io"
     - label: "CA20111"
-      icon: "fas fa-fw fa-link"
       url: "https://www.cost.eu/actions/CA20111/"
     - label: "COST"
       url: "https://www.cost.eu"
@@ -86,7 +85,6 @@ footer:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/EuroProofNet/europroofnet.github.io"
     - label: "CA20111"
-      icon: "fas fa-fw fa-link"
       url: "https://www.cost.eu/actions/CA20111/"
     - label: "COST"
       url: "https://www.cost.eu"
