@@ -8,10 +8,10 @@ breadcrumbs: true
 
 ### Description
 
-This WG will investigate various approaches for efficiently
-maintaining libraries of formal proofs. The goal is to make a corpus
-that can be modified, extended and queried by users who do not have
-expert knowledge of the entire corpus or the underlying system.
+The aim of this WG is to investigate various approaches to efficiently maintain
+libraries of formal proofs. The goal is to make a collection of proofs that can
+be modified, extended, and queried by users who do not have expert knowledge of
+the entire collection nor of the system that was used to develop the proofs.
 
 ### People
 
