@@ -5,6 +5,7 @@
 layout: collection
 collection: events
 author_profile: true
+sort_order: reverse
 ---
 
 EuroProofNet is the European research network on digital proofs. It
