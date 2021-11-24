@@ -3,8 +3,12 @@ permalink: /contact/
 title: "Contact"
 ---
 
-<img src="/assets/images/zulip_icon_30.png" alt="Zulip icon"/>
-[Zulip chat](https://epn.zulipchat.com/)
+<img src="/assets/images/zulip.svg" width='32px' alt="Zulip icon"/>
+[Zulip chat](https://epn.zulipchat.com/)&emsp;
+<img src="/assets/images/facebook.pdf" width='32px' alt="Facebook icon"/>
+[Facebook](https://www.facebook.com/EuroProofNet)&emsp;
+<img src="/assets/images/Twitter.svg" width='32px' alt="Twitter icon"/>
+[Twitter](https://twitter.com/EuroProofNet)
 
 [Report a problem on the web site](https://github.com/EuroProofNet/europroofnet.github.io/issues)
 
