@@ -57,8 +57,8 @@ plugins:
   - jekyll-include-cache
 
 author:
-  bio: "[COST action CA20111](https://www.cost.eu/actions/CA20111/):
-**European Research Network on Formal Proofs**<br/>
+  bio: "**European Research Network on Formal Proofs**<br/>
+  [COST action CA20111](https://www.cost.eu/actions/CA20111/)<br/>
 [<img src=\"/assets/images/COST_LOGO_rgb_highresolution.jpg\" alt=\"COST logo\" height=\"100\">](https://www.cost.eu/)<br/>
 [<img src=\"/assets/images/COST-H2020-acknowledgement-4lines.jpg\" alt=\"EU flag and COST H2020 acknowledgement\" height=\"100\">](https://ec.europa.eu/programmes/horizon2020/)<br/>
 [COST](https://www.cost.eu/) (European Cooperation in Science and
