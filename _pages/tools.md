@@ -5,10 +5,13 @@ permalink: /tools/
 author_profile: true
 ---
 
+Page under construction.
+
 **Type-checkers for the λΠ-calculus modulo theory**
 
 - [Dedukti](https://deducteam.github.io/)
-- [Lambdapi](https://github.com/Deducteam/lambdapi): interactive extension of Dedukti with metavariables, tactics, etc.
+- [Kontroli](https://github.com/01mf02/kontroli-rs): parallel version of Dedukti
+- [Lambdapi](https://github.com/Deducteam/lambdapi): interactive extension of Dedukti with metavariables and tactics
 
 **Encodings**
 

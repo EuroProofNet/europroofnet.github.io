@@ -1,9 +1,13 @@
 ---
-title: "Teams"
+title: "Research groups working on formal proofs in Europe"
 layout: single
 permalink: /teams/
 author_profile: true
 ---
+
+Page under construction.
+
+Groups marked with (EPN) have members participating to EPN.
 
 **Austria**
 
@@ -23,7 +27,7 @@ author_profile: true
 
 **France**
 
-- [Deducteam](https://deducteam.gitlabpages.inria.fr/), INRIA Paris-Saclay
+- [Deducteam](https://deducteam.gitlabpages.inria.fr/), INRIA Paris-Saclay (EPN)
 
 **Germany**
 
