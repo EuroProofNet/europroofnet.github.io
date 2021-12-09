@@ -27,7 +27,17 @@ Groups marked with (EPN) have members participating to EPN.
 
 **France**
 
-- [Deducteam](https://deducteam.gitlabpages.inria.fr/), INRIA Paris-Saclay (EPN)
+- [Deducteam](https://deducteam.gitlabpages.inria.fr/), Gif-sur-Yvette (EPN)
+- [Gallinette](https://gallinette.gitlabpages.inria.fr/website/), Nantes (EPN)
+- [Acadie](https://www.irit.fr/departement/fiabilite-des-systemes-et-des-logiciels/equipe-acadie/), Toulouse (EPN)
+- [Types](https://members.loria.fr/DGalmiche/files/TYPES.html), Nancy (EPN)
+- [VeriDis](https://team.inria.fr/veridis/), Nancy (EPN)
+- [IGG](https://igg.icube.unistra.fr/en/index.php/Main_Page), Strasbourg (EPN)
+- [Kairos](https://team.inria.fr/kairos/), Sophia-Antipolis (EPN)
+- [Stamp](https://team.inria.fr/stamp/), Sophia-Antipolis (EPN)
+- [PPS](https://www.irif.fr/poles/pps/index), Paris (EPN)
+- [Whisper](https://team.inria.fr/whisper/), Paris (EPN)
+- [Méthodes](https://samovar.telecom-sudparis.eu/spip.php?rubrique128), Evry (EPN)
 
 **Germany**
 

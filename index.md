@@ -33,3 +33,5 @@ to the [working groups](../wg) you are interested in (it is free and open to any
 [Proof tools](../tools)
 
 [Publications of the action](../publications)
+
+[Research groups on proofs in Europe](../groups)
