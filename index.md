@@ -8,10 +8,15 @@ author_profile: true
 sort_order: reverse
 ---
 
-EuroProofNet is the European research network on digital proofs. It
-aims at boosting the interoperability and usability of proof
-systems. It gathers more than [210 researchers](../teams) on proof systems and
-formal proofs, from [30 different countries](../teams). To join the action,
+EuroProofNet is the European research network on digital proofs.
+
+**EuroProofNet aims at boosting the interoperability and usability of
+proof systems**.
+
+It is a [COST](http://cost.eu) action started in November 2021 and
+already gathering more than [210 researchers](https://www.cost.eu/actions/CA20111/#tabs+Name:Working%20Groups%20and%20Membership) on proof systems and formal proofs from [30 different countries](../groups).
+
+To join the action,
 [apply](https://e-services.cost.eu/action/CA20111/working-groups/apply)
 to the [working groups](../wg) you are interested in.
 
@@ -20,8 +25,6 @@ to the [working groups](../wg) you are interested in.
 [Objectives](../objectives)
 
 [Deliverables](../deliverables)
-
-[Research groups on proofs in Europe](../groups)
 
 [Proof tools](../tools)
 
