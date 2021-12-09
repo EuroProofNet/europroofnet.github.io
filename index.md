@@ -21,8 +21,8 @@ to the [working groups](../wg) you are interested in.
 
 [Deliverables](../deliverables)
 
-[Teams](../teams)
+[Research groups on proofs in Europe](../groups)
 
-[Tools](../tools)
+[Proof tools](../tools)
 
-[Publications](../publications)
+[Publications of the action](../publications)
