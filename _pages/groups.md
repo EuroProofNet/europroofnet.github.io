@@ -1,7 +1,7 @@
 ---
 title: "Research groups working on formal proofs in Europe"
 layout: single
-permalink: /teams/
+permalink: /groups/
 author_profile: true
 ---
 
@@ -77,6 +77,22 @@ Groups marked with (EPN) have members participating to EPN.
 **Slovenia**
 
 **Spain**
+
+- [Extensions of Logic Programming](http://elp.webs.upv.es/)
+  <!--[publications](http://elp.webs.upv.es/papers.html)--> (EPN)
+- [Psycotrip - GRUPO DE INFORMÁTICA DE LA UNIVERSIDAD DE LA RIOJA](https://investigacion.unirioja.es/grupos/45/detalle)
+  <!--[publications](https://investigacion.unirioja.es/grupos/45/publicaciones)--> (EPN)
+- [BCNLOGIC - Grup de Lògica de Barcelona](https://www.ub.edu/web/ub/es/recerca_innovacio/recerca_a_la_UB/grups/fitxa/G/DELOGICA/index.html) (EPN)
+- [CryptULL - Grupo de Investigación Criptología](http://cryptull.webs.ull.es/)
+  <!--[publications](http://cryptull.webs.ull.es/publicaciones.html)--> (EPN)
+- [Models and Applications of Distributed Systems (MADS)](https://investigacion.udc.es/gl/Research/Details/G000397) (EPN)
+- [Barcelona Group on Pure and Applied Proof Theory](https://www.ub.edu/prooftheory/)
+  [seminar](https://www.ub.edu/prooftheory/event/) (EPN)
+- [Lorea: Logic and Reasoning Group](https://www.ehu.eus/es/web/lorea)
+  <!--[publications](https://www.ehu.eus/es/web/lorea/ss)--> (EPN)
+- [Formal Analysis and Design of Software Systems (FADoSS)](http://maude.sip.ucm.es/fadoss/) (EPN)
+  <!--[publications](http://maude.sip.ucm.es/fadoss/publicaciones.html)-->
+- [Multi-paradigm Software Technology (MiST)](http://personales.upv.es/gvidal/german/mist/) (EPN)
 
 **Sweden**
 
