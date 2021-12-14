@@ -5,6 +5,8 @@ main:
     url: /wg/
   - title: "Events"
     url: /events/
+  - title: "Grants"
+    url: /grants/
   - title: "Publications"
     url: /publications/
   - title: "Contact"
