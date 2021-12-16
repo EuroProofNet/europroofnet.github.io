@@ -5,7 +5,7 @@ title: "Contact"
 
 <img src="/assets/images/zulip.svg" width='32px' alt="Zulip icon"/>
 [Zulip chat](https://epn.zulipchat.com/)&emsp;
-<img src="/assets/images/facebook.pdf" width='32px' alt="Facebook icon"/>
+<img src="/assets/images/icons8-facebook-48.png" width='32px' alt="Facebook icon"/>
 [Facebook](https://www.facebook.com/EuroProofNet)&emsp;
 <img src="/assets/images/Twitter.svg" width='32px' alt="Twitter icon"/>
 [Twitter](https://twitter.com/EuroProofNet)

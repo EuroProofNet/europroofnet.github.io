@@ -5,9 +5,11 @@ permalink: /wg/
 author_profile: true
 ---
 
-To join the action, you need to
+[Research groups on proofs in Europe](../groups)
+
+To join the action, you simply need to
 [apply](https://e-services.cost.eu/action/CA20111/working-groups/apply)
-to the working groups you are interested in:
+to the working groups you are interested in (it's free and open to anyone):
 
 **WG1** [Tools on Proof Systems Interoperability](../wg1)
 
