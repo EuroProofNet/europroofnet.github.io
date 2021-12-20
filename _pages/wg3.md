@@ -18,3 +18,5 @@ and mathematics.
 ### People
 
 ### Activities
+
+* February 2021 - [Kick-off meeting](../wg3-meeting1)
