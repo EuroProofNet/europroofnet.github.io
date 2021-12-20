@@ -9,14 +9,9 @@ Page under construction.
 
 **Type-checkers for the λΠ-calculus modulo theory**
 
-- [Dedukti](https://deducteam.github.io/)
-- [Kontroli](https://github.com/01mf02/kontroli-rs): parallel version of Dedukti
-- [Lambdapi](https://github.com/Deducteam/lambdapi): interactive extension of Dedukti with metavariables and tactics
-
-**Encodings**
-
-- Dedukti/FOL: classical polymorphic first-order logic
-- Dedukti/STTfa: intuitionistic higher-order logic with prenex polymorphism
+- [Dkcheck](https://deducteam.github.io/): type-checker 
+- [Kontroli](https://github.com/01mf02/kontroli-rs): parallel version of dkcheck
+- [Lambdapi](https://github.com/Deducteam/lambdapi): interactive extension of dkcheck with metavariables and tactics
 
 **Proof data bases**
 
