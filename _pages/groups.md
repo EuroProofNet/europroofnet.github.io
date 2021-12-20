@@ -13,6 +13,11 @@ Groups marked with (EPN) have members participating to EPN.
 
 **Belgium**
 
+- [Department of Applied mathematics, computer science and statistics](https://www.ugent.be/we/twist/en), [Ghent University](https://www.ugent.be/en) (EPN)
+- [Distrinet research group](https://distrinet.cs.kuleuven.be/), [Department of Computer Science](https://wms.cs.kuleuven.be/cs/english) [University of Leuven](https://www.kuleuven.be/english/) (EPN)
+- [Montefiore Institute](https://www.montefiore.uliege.be/), [University of Liège](https://www.uliege.be/) (EPN)
+- [Namur Digital Institute (NADI)](https://nadi.unamur.be/), [University of Namur](https://www.unamur.be/en) (EPN)
+
 **Bulgaria**
 
 **Croatia**
