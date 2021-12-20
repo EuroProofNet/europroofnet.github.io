@@ -6,7 +6,6 @@ author_profile: true
 breadcrumbs: true
 ---
 
-# WG3 Kick-off meeting
 ## February 10-11, 2022
 
 This is the first EuroProofNet WG3 meeting, taking place February 10-11, 2022. Due to the current pandemic situation, the meeting will take place at _Universitat Politècnica de València_ (Spain) and also online.
