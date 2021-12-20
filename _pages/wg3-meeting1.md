@@ -9,7 +9,7 @@ breadcrumbs: true
 # WG3 Kick-off meeting
 ## February 10-11, 2022
 
-This is the first EuroProofNet WG3 meeting, taking place February 10-11, 2022. Due to the current pandemic situation, the meeting will take place at _Universitat Politècnica de València_ (Spain) and also online.
+This is the first EuroProofNet WG3 meeting, taking place February 10-11, 2022. Due to the current pandemic situation, the meeting will take place at _Universitat PolitÃ¨cnica de ValÃ¨ncia_ (Spain) and also online.
 
 This meeting aims to
 * bring together members of the different communities working on proofs and verification,
@@ -30,7 +30,7 @@ On site participants can apply to be funded by the Action. The application proce
 
 ### Venue & Accomodation
 
-The meeting will take place at the DSIC department, building 1F of the _Universitat Politècnica de València_ (UPV).
+The meeting will take place at the DSIC department, building 1F of the _Universitat PolitÃ¨cnica de ValÃ¨ncia_ (UPV).
 
 * How to [reach the UPV](http://www.upv.es/otros/como-llegar-upv/campus-vera/index-en.html)
 
