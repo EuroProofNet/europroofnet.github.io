@@ -7,9 +7,9 @@ author_profile: true
 
 Upcoming deadlines for STSM applications:
 
-- **16 Jan 2021** for STSMs during the period Feb─Oct 2022, notification of acceptance 26 Jan
-- 1 Apr 2021 for STSMs during the period May─Oct 2022, notification of acceptance 15 Apr
-- 1 Jul 2021 for STSMs during the period Aug─Oct 2022, notification of acceptance 15 Jul
+- **16 Jan 2022** for STSMs during the period Feb─Oct 2022, notification of acceptance 26 Jan
+- 1 Apr 2022 for STSMs during the period May─Oct 2022, notification of acceptance 15 Apr
+- 1 Jul 2022 for STSMs during the period Aug─Oct 2022, notification of acceptance 15 Jul
 
 
 **What is an STSM?**
