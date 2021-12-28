@@ -50,6 +50,8 @@ Groups marked with (EPN) have members participating to EPN.
 
 **Hungary**
 
+- [Type Theory Group, Eötvös Loránd University, Budapest](https://bitbucket.org/akaposi/tipuselmelet) (EPN)
+
 **Iceland**
 
 **Ireland**
