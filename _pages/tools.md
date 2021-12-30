@@ -48,4 +48,5 @@ Page under construction.
 **Automated theorem provers**
 
 - [ArchSAT](https://github.com/Gbury/archsat): SMT solver generating Dedukti/FOL
+- [veriT](https://verit-solver.org/): SMT solver generating detailed proof traces
 - [ZenonModulo](https://github.com/Deducteam/zenon_modulo): ATP generating Dedukti/FOL or Lambdapi/FOL
