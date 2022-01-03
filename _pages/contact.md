@@ -12,6 +12,8 @@ title: "Contact"
 
 [Report a problem on the web site](https://github.com/EuroProofNet/europroofnet.github.io/issues)
 
+To contribute to the web site, please create a [pull request](https://github.com/EuroProofNet/europroofnet.github.io) or send a mail to the science communication coordinators.
+
 **Core group**
 
 - Chair: [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/)
