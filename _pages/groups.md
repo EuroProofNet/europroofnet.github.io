@@ -85,6 +85,8 @@ Groups marked with (EPN) have members participating to EPN.
 
 **Portugal**
 
+- [LASIGE - Reliable Software Systems]https://www.lasige.pt/research-line/reliable-software-systems#info) (EPN)
+
 **Romania**
 
 **Serbia**
