@@ -5,9 +5,11 @@ permalink: /grants/
 author_profile: true
 ---
 
-Upcoming deadlines for STSM applications:
+**/!\ Please note that the application website is not open yet. We will inform EuroProofNet members as soon as it will be available.**
 
-- **16 Jan 2022** for STSMs during the period Feb─Oct 2022, notification of acceptance 26 Jan
+Provisional deadlines for STSM applications:
+
+- 16 Jan 2022 for STSMs during the period Feb─Oct 2022, notification of acceptance 26 Jan
 - 1 Apr 2022 for STSMs during the period May─Oct 2022, notification of acceptance 15 Apr
 - 1 Jul 2022 for STSMs during the period Aug─Oct 2022, notification of acceptance 15 Jul
 
