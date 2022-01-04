@@ -50,6 +50,8 @@ Groups marked with (EPN) have members participating to EPN.
 
 **Hungary**
 
+- [Type Theory Group, Eötvös Loránd University, Budapest](https://bitbucket.org/akaposi/tipuselmelet) (EPN)
+
 **Iceland**
 
 **Ireland**
@@ -82,6 +84,8 @@ Groups marked with (EPN) have members participating to EPN.
 **Poland**
 
 **Portugal**
+
+- [LASIGE - Reliable Software Systems]https://www.lasige.pt/research-line/reliable-software-systems#info) (EPN)
 
 **Romania**
 
