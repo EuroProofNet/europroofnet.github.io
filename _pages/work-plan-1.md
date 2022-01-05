@@ -5,7 +5,7 @@ permalink: /work-plan-1/
 author_profile: true
 ---
 
-* 20% of the budget will be dedicated to short-term scientific missions (STSMs). STSMs are a very important tool for the action since the development of tools for interoperability is facilitated when people can meet and work together at the same place. A call for STSM proposals will be launched soon.
+* 20% of the budget will be dedicated to short-term scientific missions (STSMs). STSMs are a very important tool for the action since the development of tools for interoperability is facilitated when people can meet and work together at the same place. A [call for STSM proposals](grants) will be launched soon.
 
 * For the first year, some schools will be (co-)organized to give EuroProofNet members the knowledge necessary to work on the objectives of the action:
 
@@ -21,7 +21,7 @@ author_profile: true
 
     - At the end of March, a WG6 meeting on syntax and semantics of type theory at Stockholm (Sweden).
 
-    - In August, a WG2 meeting co-located with the PAAR workshop and a workshop dedicated to sharing libraries of formal proofs during [FLOC](https://www.floc2022.org/) at Haifa (Israel).
+    - In August 11-12, a WG2 meeting co-located with the [PAAR'22 workshop](https://paar2022.github.io/) and a workshop dedicated to sharing libraries of formal proofs during [FLOC](https://www.floc2022.org/) at Haifa (Israel).
 
     - On September 4-7, WG5 meeting at the [AITP'22](http://aitp-conference.org/2022/) conference at Aussois (France).
     
