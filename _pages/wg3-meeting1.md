@@ -21,7 +21,7 @@ Registration is free of charge. Coffee breaks are included. Convenient caffeteri
 
 <!--The link of the registration form will be available soon. -->
 
-Link to the registration form [here](https://forms.office.com/Pages/DesignPage.aspx?fragment=FormId%3D31VGvnOsH0CnrhmMO3LQxmrI_MLrIYFFjlTIHtv5EmJUOFlIUVBMWFRVRkNGMUZKRlRDQzVBMFg0Ry4u%26Token%3D4fa3b7a8030549ddb7633346f0c1f637)
+Link to the registration form [here](https://forms.office.com/Pages/ResponsePage.aspx?id=31VGvnOsH0CnrhmMO3LQxmrI_MLrIYFFjlTIHtv5EmJUOFlIUVBMWFRVRkNGMUZKRlRDQzVBMFg0Ry4u)
 
 ### Funding applications
 
