@@ -5,7 +5,7 @@ permalink: /work-plan-1/
 author_profile: true
 ---
 
-* 20% of the budget will be dedicated to short-term scientific missions (STSMs). STSMs are a very important tool for the action since the development of tools for interoperability is facilitated when people can meet and work together at the same place. A [call for STSM proposals](grants) will be launched soon.
+* 20% of the budget will be dedicated to short-term scientific missions (STSMs). STSMs are a very important tool for the action since the development of tools for interoperability is facilitated when people can meet and work together at the same place. A [call for STSM proposals](../grants) will be launched soon.
 
 * For the first year, some schools will be (co-)organized to give EuroProofNet members the knowledge necessary to work on the objectives of the action:
 
@@ -17,7 +17,7 @@ author_profile: true
 
 * Finally, a number of small and big meetings have been planned:
 
-    - On February 10-11, the [kick-off meeting of the WG3](wg3-meeting1) on program verification at Valencia (Spain).
+    - On February 10-11, the [kick-off meeting of the WG3](../wg3-meeting1) on program verification at Valencia (Spain).
 
     - At the end of March, a WG6 meeting on syntax and semantics of type theory at Stockholm (Sweden).
 
