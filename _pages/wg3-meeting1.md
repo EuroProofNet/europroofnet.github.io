@@ -6,6 +6,8 @@ author_profile: true
 breadcrumbs: true
 ---
 
+**/!\ Deadline for funding applications: January 16.**
+
 ## February 10-11, 2022
 
 This is the first EuroProofNet WG3 meeting, taking place February 10-11, 2022. Due to the current pandemic situation, the meeting will take place at _Universitat Polit&egrave;cnica de Val&egrave;ncia_ (Spain) and also online.
@@ -19,29 +21,23 @@ This meeting aims to
 
 Registration is free of charge. Coffee breaks are included. Convenient caffeterias and restaurants are available at the campus. 
 
-<!--The link of the registration form will be available soon. -->
-
-Link to the registration form [here](https://forms.office.com/Pages/ResponsePage.aspx?id=31VGvnOsH0CnrhmMO3LQxmrI_MLrIYFFjlTIHtv5EmJUOFlIUVBMWFRVRkNGMUZKRlRDQzVBMFg0Ry4u)
+Link to the registration form [here](https://forms.office.com/Pages/ResponsePage.aspx?id=31VGvnOsH0CnrhmMO3LQxmrI_MLrIYFFjlTIHtv5EmJUOFlIUVBMWFRVRkNGMUZKRlRDQzVBMFg0Ry4u).
 
 ### Funding applications
 
-On site participants can apply to be funded by the Action. The application process will open in January 2022.
+The action can fund the travel to Valencia of about 10 participants. If you want to go to Valencia and be reimbursed, you need to send a mail to Alicia Villanueva <villanue@dsic.upv.es> **before January 16**. The action members who will be reimbursed will be chosen by taking into account the following criteria in order: importance wrt the research coordination objectives; inclusive target countries; age; gender; team with low resources; balance over the action life time between people, teams, countries and working groups.
 
-### Venue & Accomodation
+### Venue & Accommodation
 
 The meeting will take place at the DSIC department, building 1F of the _Universitat Polit&egrave;cnica de Val&egrave;ncia_ (UPV).
 
 * How to [reach the UPV](http://www.upv.es/otros/como-llegar-upv/campus-vera/index-en.html)
-
-
 
 * We have some rooms blocked at the [Silken Puerta de Valencia](https://www.hoteles-silken.com/es/hotel-puerta-valencia/). <!--Please use the event identifier "COST" when booking.--> The price for a single room is 66&euro; (breakfast included).
 
 Other hotels near the campus (no rooms blocked):
 * [Renasa](https://sweethotelrenasa.com/en/home/)
 * [Eurostars Rey Don Jaime](https://eurostarsreydonjaime.com-hotel.com/en/)
-
-
 
 ### Program
 
