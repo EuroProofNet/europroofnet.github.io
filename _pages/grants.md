@@ -5,7 +5,7 @@ permalink: /grants/
 author_profile: true
 ---
 
-**/!\ Please note that the application website is not open yet. We will inform EuroProofNet members as soon as it will be available.**
+**/!\ Monday 10 January 2022: the [application website](https://e-services.cost.eu/activity/grants/add?type=STSM) is now open.**
 
 Provisional deadlines for STSM applications:
 
@@ -18,7 +18,7 @@ Provisional deadlines for STSM applications:
 
 A Short-Term Scientific Mission (STSM) is a research visit of an individual researcher from a country participating in the Action in a different country also participating in the Action. We encourage STSMs, as they are an effective way of starting and maintaining collaborations.
 
-Proposals are made through the [e-COST system](https://e-services.cost.eu/stsm).
+Proposals must be made through the [e-COST system](https://e-services.cost.eu/activity/grants/add?type=STSM) (you need to add a bank account on your profile first).
 
 The coordinators for STSMs are [Danijela Simic](http://poincare.matf.bg.ac.rs/~danijela) (University of Belgrade, Serbia) and [Ambrus Kaposi](http://akaposi.web.elte.hu) (Eötvös Loránd University, Hungary).
 
