@@ -20,6 +20,7 @@ Page under construction.
 - [Coq Opam Packages](https://coq.inria.fr/opam/www/)
 - [Isabelle Archive of Formal Proofs](https://www.isa-afp.org/)
 - [Mizar Mathematical Library](http://mizar.org/library/)
+- [MathLib](https://github.com/leanprover-community/mathlib) Library of formalized mathematics, including algebras, topology, analysis, geometry, data-structures and computation
 
 **Proof translation tools**
 
@@ -49,6 +50,5 @@ Page under construction.
 
 - [ArchSAT](https://github.com/Gbury/archsat): SMT solver generating Dedukti/FOL
 - [cvc5](https://cvc5.github.io/): efficient versatile SMT solver generating proof traces
-- [z3](https://github.com/Z3Prover/z3/wiki): efficient SMT solver that generates [proofs](https://stackoverflow.com/questions/29577754/getting-proof-from-z3py) (for a subset of checks, at least).
 - [veriT](https://verit-solver.org/): SMT solver generating detailed proof traces
 - [ZenonModulo](https://github.com/Deducteam/zenon_modulo): ATP generating Dedukti/FOL or Lambdapi/FOL
