@@ -23,6 +23,12 @@ Registration is free of charge. Coffee breaks are included. Convenient caffeteri
 
 [Registration form](https://forms.office.com/Pages/ResponsePage.aspx?id=31VGvnOsH0CnrhmMO3LQxmrI_MLrIYFFjlTIHtv5EmJUOFlIUVBMWFRVRkNGMUZKRlRDQzVBMFg0Ry4u).
 
+<!--Please contact xxx if you have any problem during the registration process.-->
+
+We plan to have at least a session to present and discuss topics raised by WG3 members in the context of the Action goals and deliverables. If you are interested in briefly presenting a specific problem, please let us know through the dedicated question in the registration form. You can also contact Rodica Condurache (Rodica.b.condurache@gmail.com) and/or Alicia Villanueva (villanue@dsic.upv.es) for any question related to the program.
+
+
+
 ### Funding applications
 
 The action can fund the travel to Valencia of about 10 participants. If you want to go to Valencia and be reimbursed, you need to send a mail to Alicia Villanueva <villanue@dsic.upv.es> **before January 16**. The action members who will be reimbursed will be chosen by taking into account the following criteria in order: importance wrt the research coordination objectives; inclusive target countries; age; gender; team with low resources; balance over the action life time between people, teams, countries and working groups.
@@ -43,7 +49,7 @@ Other hotels near the campus (no rooms blocked):
 
 The event is scheduled as a two-day meeting. 
 
-<!--Tentative program:
+Tentative program:
 
 **Day 1**
 
@@ -55,7 +61,7 @@ The event is scheduled as a two-day meeting.
 | 12:00-12:30 | Session 2: Interaction |
 | 12:30-13:30 | Session 3: The first deliverable |
 | 13:30-15:00 | _Lunch_ |
-| 15:00-16:00 | Session 4: Specific problems |
+| 15:00-16:00 | Session 4: Short talks |
 | 16:00-17:00 | Discussion & Conclusion day 1 |
 
 **Day 2**
@@ -65,10 +71,17 @@ The event is scheduled as a two-day meeting.
 | 10:00-10:30      | Day organization       |
 | 10:30-11:30   | Session 5: Towards the deliverables        |
 | 11:30-12:00 | _Coffee Break_ |
-| 12:00-13:30 | Session 6: Wrapping up |
+| 12:00-13:30 | Session 6: Discussion. Wrapping up |
 | 13:30-15:00 | _Lunch_ |
-| 15:00-16:00 | Discussion: setting the agenda for the year |
--->
+| 15:00-16:00 | Discussion. setting the agenda for the year |
 
-### Participants
+<br>
 
+### Local Organization
+
+* Dami&aacute;n Aparicio 
+* Ra&uacute;l L&oacute;pez-Rueda 
+* Cristina Padr&oacute;
+* Julia Sapi&ntilde;a 
+* Germ&aacute;n Vidal 
+* Alicia Villanueva 
