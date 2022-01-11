@@ -31,7 +31,7 @@ We plan to have at least a session to present and discuss topics raised by WG3 m
 
 ### Funding applications
 
-The action can fund the travel to Valencia of about 10 participants. If you want to go to Valencia and be reimbursed, you need to send a mail to Alicia Villanueva <villanue@dsic.upv.es> **before January 16**. The action members who will be reimbursed will be chosen by taking into account the following criteria in order: importance wrt the research coordination objectives; inclusive target countries; age; gender; team with low resources; balance over the action life time between people, teams, countries and working groups.
+The action can fund the travel to Valencia of about 10 participants with a daily allowance fixed at 100 euros. If you want to go to Valencia and be reimbursed, you need to send a mail to Alicia Villanueva <villanue@dsic.upv.es> **before January 16**. The action members who will be reimbursed will be chosen by taking into account the following criteria in order: importance wrt the research coordination objectives; inclusive target countries; age; gender; team with low resources; balance over the action life time between people, teams, countries and working groups.
 
 ### Venue & Accommodation
 
