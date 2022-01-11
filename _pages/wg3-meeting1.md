@@ -21,7 +21,7 @@ This meeting aims to
 
 Registration is free of charge. Coffee breaks are included. Convenient caffeterias and restaurants are available at the campus. 
 
-Link to the registration form [here](https://forms.office.com/Pages/ResponsePage.aspx?id=31VGvnOsH0CnrhmMO3LQxmrI_MLrIYFFjlTIHtv5EmJUOFlIUVBMWFRVRkNGMUZKRlRDQzVBMFg0Ry4u).
+[Registration form](https://forms.office.com/Pages/ResponsePage.aspx?id=31VGvnOsH0CnrhmMO3LQxmrI_MLrIYFFjlTIHtv5EmJUOFlIUVBMWFRVRkNGMUZKRlRDQzVBMFg0Ry4u).
 
 ### Funding applications
 
@@ -31,7 +31,7 @@ The action can fund the travel to Valencia of about 10 participants. If you want
 
 The meeting will take place at the DSIC department, building 1F of the _Universitat Polit&egrave;cnica de Val&egrave;ncia_ (UPV).
 
-* How to [reach the UPV](http://www.upv.es/otros/como-llegar-upv/campus-vera/index-en.html)
+* [How to reach the UPV ?](http://www.upv.es/otros/como-llegar-upv/campus-vera/index-en.html)
 
 * We have some rooms blocked at the [Silken Puerta de Valencia](https://www.hoteles-silken.com/es/hotel-puerta-valencia/). <!--Please use the event identifier "COST" when booking.--> The price for a single room is 66&euro; (breakfast included).
 
