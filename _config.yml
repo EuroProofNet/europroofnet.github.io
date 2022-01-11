@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: "<img src=\"/assets/images/epn-logo.jpg\" alt=\"EuroProofNet\" height=\"100\"/>"
+title: EuroProofNet
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   Cost Action CA20111 [EuroProofNet](https://www.cost.eu/actions/CA20111/)
