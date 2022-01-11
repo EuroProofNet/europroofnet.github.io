@@ -33,9 +33,12 @@ proofs developed in individual systems to and from this common logical
 framework.
 
 [Objectives](../objectives)
-
-[Deliverables](../deliverables)
-
-[Working groups](../wg)
+- [Deliverables](../deliverables)
+- [Working groups](../wg)
 
 For more details, see the [Memorandum of Understanding](https://e-services.cost.eu/files/domain_files/CA/Action_CA20111/mou/CA20111-e.pdf).
+
+**Management Committee meetings:**
+
+- 11-12 October 2021: [1st meeting](/assets/documents/MC1-minutes.pdf)
+
