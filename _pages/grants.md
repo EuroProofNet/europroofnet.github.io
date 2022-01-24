@@ -50,31 +50,31 @@ Within 15 days of the end of the STSM, a short scientific report must be submitt
 
 * **Sabanci Coq Workshop and Research Visit**  
   Visitor: Emilio Jesús Gallego Arias (Inria, Paris, FR)  
-  Host: Suha Orhun Mutluergil (Sabanci University, Istanbul, TR)
+  Host: Suha Orhun Mutluergil (Sabanci University, Istanbul, TR)  
   Sum: 1400 EUR  
   Dates: 2022-09-01 to 2022-01-10
 * **Algebraic Session Types**  
   Visitor: Andreia Mordido (Faculdade de Ciências, Universidade de Lisboa, PT  
-  Host: Peter Thiemann (Technical Faculty, Freiburg University, DE)
+  Host: Peter Thiemann (Technical Faculty, Freiburg University, DE)  
   Sum: 1200 EUR  
   Dates: 2022-05-30 to 2022-06-06
-* **Compiling dependent pattern matching to elimination principles in Dedukti**
+* **Compiling dependent pattern matching to elimination principles in Dedukti**  
   Visitor: Thiago Felicissimo (Faculté des Sciences d'Orsay, FR)  
-  Host: Jesper Cockx (TU Delft, NL)
-  Sum: 1500 EUR
+  Host: Jesper Cockx (TU Delft, NL)  
+  Sum: 1500 EUR  
   Dates: 2022-05-08 to 2022-05-21
 * **A bootstrapping verified compiler for a concurrent functional language: the design**  
   Visitor: Gergely Buday (Institute of Technology, Gyöngyös, HU)  
-  Host: Alcides Fonseca (LASIGE, Faculdade de Ciências da Universidade de Lisboa, PT)
+  Host: Alcides Fonseca (LASIGE, Faculdade de Ciências da Universidade de Lisboa, PT)  
   Sum: 1000 EUR  
   Dates: 2022-04-11 to 2022-04-15
 * **Signatures for second-order essentially algebraic theories**  
   Visitor: Rafaël Bocquet (Eötvös Loránd University, Budapest, HU)  
-  Host: Christian Sattler (Chalmers University of Technology, Gothenburg, SE)
+  Host: Christian Sattler (Chalmers University of Technology, Gothenburg, SE)  
   Sum: 1600 EUR  
   Dates: 2022-03-30 to 2022-04-09
 * **Infrastructure for Automated Theorem Provers Inventory**  
   Visitor: Alexander Steen (University of Greifswald, DE)  
-  Host: Pascal Fontaine (University of Liège, BE)
+  Host: Pascal Fontaine (University of Liège, BE)  
   Sum: 1550 EUR  
   Dates: 2022-03-14 to 2022-03-20
