@@ -52,7 +52,7 @@ Within 15 days of the end of the STSM, a short scientific report must be submitt
   Visitor: Emilio Jesús Gallego Arias (Inria, Paris, FR)  
   Host: Suha Orhun Mutluergil (Sabanci University, Istanbul, TR)  
   Sum: 1400 EUR  
-  Dates: 2022-09-01 to 2022-01-10
+  Dates: 2022-09-01 to 2022-09-10
 * **Algebraic Session Types**  
   Visitor: Andreia Mordido (Faculdade de Ciências, Universidade de Lisboa, PT  
   Host: Peter Thiemann (Technical Faculty, Freiburg University, DE)  
