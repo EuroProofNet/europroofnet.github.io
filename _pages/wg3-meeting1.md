@@ -21,7 +21,7 @@ This meeting aims to
 
 Registration is free of charge. Coffee breaks are included. Convenient caffeterias and restaurants are available at the campus. 
 
-Link to the registration form [here](https://forms.office.com/Pages/ResponsePage.aspx?id=31VGvnOsH0CnrhmMO3LQxmrI_MLrIYFFjlTIHtv5EmJUOFlIUVBMWFRVRkNGMUZKRlRDQzVBMFg0Ry4u).
+[Registration form](https://forms.office.com/Pages/ResponsePage.aspx?id=31VGvnOsH0CnrhmMO3LQxmrI_MLrIYFFjlTIHtv5EmJUOFlIUVBMWFRVRkNGMUZKRlRDQzVBMFg0Ry4u).
 
 <!--Please contact xxx if you have any problem during the registration process.-->
 
@@ -31,13 +31,13 @@ We plan to have at least a session to present and discuss topics raised by WG3 m
 
 ### Funding applications
 
-The action can fund the travel to Valencia of about 10 participants. If you want to go to Valencia and be reimbursed, you need to send a mail to Alicia Villanueva <villanue@dsic.upv.es> **before January 16**. The action members who will be reimbursed will be chosen by taking into account the following criteria in order: importance wrt the research coordination objectives; inclusive target countries; age; gender; team with low resources; balance over the action life time between people, teams, countries and working groups.
+The action can fund the travel to Valencia of about 10 participants with a daily allowance fixed at 100 euros. If you want to go to Valencia and be reimbursed, you need to send a mail to Alicia Villanueva <villanue@dsic.upv.es> **before January 16**. The action members who will be reimbursed will be chosen by taking into account the following criteria in order: importance wrt the research coordination objectives; inclusive target countries; age; gender; team with low resources; balance over the action life time between people, teams, countries and working groups.
 
 ### Venue & Accommodation
 
 The meeting will take place at the DSIC department, building 1F of the _Universitat Polit&egrave;cnica de Val&egrave;ncia_ (UPV).
 
-* How to [reach the UPV](http://www.upv.es/otros/como-llegar-upv/campus-vera/index-en.html)
+* [How to reach the UPV ?](http://www.upv.es/otros/como-llegar-upv/campus-vera/index-en.html)
 
 * We have some rooms blocked at the [Silken Puerta de Valencia](https://www.hoteles-silken.com/es/hotel-puerta-valencia/). <!--Please use the event identifier "COST" when booking.--> The price for a single room is 66&euro; (breakfast included). To get this rate you need to directly contact the hotel or send an email to <villanue@dsic.upv.es> including the check-in, check-out dates, full name and personal ID number. 
 
