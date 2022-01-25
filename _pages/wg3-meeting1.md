@@ -39,11 +39,12 @@ The meeting will take place at the DSIC department, building 1F of the _Universi
 
 * How to [reach the UPV](http://www.upv.es/otros/como-llegar-upv/campus-vera/index-en.html)
 
-* We have some rooms blocked at the [Silken Puerta de Valencia](https://www.hoteles-silken.com/es/hotel-puerta-valencia/). <!--Please use the event identifier "COST" when booking.--> The price for a single room is 66&euro; (breakfast included).
+* We have some rooms blocked at the [Silken Puerta de Valencia](https://www.hoteles-silken.com/es/hotel-puerta-valencia/). <!--Please use the event identifier "COST" when booking.--> The price for a single room is 66&euro; (breakfast included). To get this rate you need to directly contact the hotel or send an email to <villanue@dsic.upv.es> including the check-in, check-out dates, full name and personal ID number. 
 
 Other hotels near the campus (no rooms blocked):
 * [Renasa](https://sweethotelrenasa.com/en/home/)
 * [Eurostars Rey Don Jaime](https://eurostarsreydonjaime.com-hotel.com/en/)
+
 
 ### Program
 
@@ -80,8 +81,9 @@ Tentative program:
 ### Local Organization
 
 * Dami&aacute;n Aparicio 
+* Daniel Gal&aacute;n Pascual
 * Ra&uacute;l L&oacute;pez-Rueda 
-* Cristina Padr&oacute;
+* Cristina Padr&oacute; Ferragut
 * Julia Sapi&ntilde;a 
 * Germ&aacute;n Vidal 
 * Alicia Villanueva 
