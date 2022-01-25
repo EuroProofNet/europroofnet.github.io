@@ -32,7 +32,7 @@ The main points about STSMs are:
     - up to EUR 120 for daily allowance (depending on the location)
     - up to EUR 400 for travel.
     - the total may not exceed EUR 4000 (this is a hard limit)
-* As part of the application form submitted through e-COST, the goals of the mission have to be described including how it contributes to the [objectives of the Action](https://www.cost.eu/actions/CA20111), which working group(s) it contributes to, and a confirmation from the host that he or she will receive the applicant.
+* As part of the application form submitted through e-COST, the goals of the mission have to be described including how it contributes to the [objectives and deliverables of the action](../description), which working group(s) it contributes to, and a confirmation from the host that he or she will receive the applicant.
 * Proposals should be submitted by the deadlines.
 * STSMs must end before the end of October.
 
@@ -48,4 +48,4 @@ Within 15 days of the end of the STSM, a short scientific report must be submitt
 
 **Past deadlines**
 
-- ~~16~~ 18 January 2022 (notification 26 Jan)
+- ~~16~~ 18 January 2022 (notification 26 January)
