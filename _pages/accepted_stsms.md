@@ -5,9 +5,6 @@ permalink: /accepted_stsms/
 author_profile: true
 ---
 
-
-**Accepted STSMs**
-
 * **Sabanci Coq Workshop and Research Visit**  
   Visitor: Emilio Jesús Gallego Arias (Inria, Paris, FR)  
   Host: Suha Orhun Mutluergil (Sabanci University, Istanbul, TR)  
