@@ -25,3 +25,10 @@ To join the action, simply
 to the [working groups](../wg) you are interested in (it is free and open to anyone).
 
 [Description](../description) - [Objectives](../objectives) - [Deliverables](../deliverables) - [Proof tools](../tools)
+
+[Work plan for January-October 2022](../work-plan-1)
+
+Next [STSM proposal](../grants) deadline: April 1st
+
+Next meeting: February 10-11, Valencia, Spain,
+[WG3 kick-off meeting](../wg3-meeting1)
