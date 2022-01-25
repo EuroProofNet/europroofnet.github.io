@@ -9,8 +9,8 @@ author_profile: true
 
 Next provisional deadlines for STSM proposals for the period Feb-Oct 2022:
 
-- 1 Apr 2022 (notification 15 Apr)
-- 1 Jul 2022 (notification 15 Jul)
+- 1st April 2022 (notification 15 April)
+- 1st July 2022 (notification 15 July)
 
 **What is an STSM?**
 
@@ -46,6 +46,6 @@ The criteria according to which funding will be decided are in order:
 
 Within 15 days of the end of the STSM, a short scientific report must be submitted through the e-cost system along with the Host’s approval of the report.
 
-**Past calls**
+**Past deadlines**
 
-- ~~16~~ 18 Jan 2022 (notification 26 Jan)
+- ~~16~~ 18 January 2022 (notification 26 Jan)
