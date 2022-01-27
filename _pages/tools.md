@@ -23,19 +23,20 @@ Page under construction.
 
 **Proof translation tools**
 
-- [Agda2Dedukti](https://github.com/Deducteam/Agda2Dedukti): Agda to Dedukti/Agda
+- [Agda2Dedukti](https://github.com/Deducteam/Agda2Dedukti): Agda to Dedukti/Agda or Lambdapi/Agda
 - [Vodk](https://github.com/Deducteam/CoqInE): Coq to Dedukti/Coq
 - [Dk2agda](https://github.com/Deducteam/dk2agda): Dedukti to Agda
 - [Ekstrakto](https://github.com/Deducteam/ekstrakto): TSTP to Dedukti/FOL or Lambdapi/FOL
 - [Holide](https://github.com/Deducteam/Holide): OpenTheory to Dedukti/STTfa
 - [HOLLightToDk](https://github.com/Deducteam/HOLLightToDk): HOL-Light to Dedukti/STTfa
 - [Krajono](https://github.com/Deducteam/Krajono): Matita to Dedukti/Matita
-- [Isabelle\_dedukti](https://github.com/Deducteam/isabelle_dedukti): Isabelle to Dedukti/Lambdapi
+- [Isabelle\_dedukti](https://github.com/Deducteam/isabelle_dedukti): Isabelle to Dedukti or Lambdapi
 - [Logipedia](https://github.com/Deducteam/Logipedia): Dedukti/STTfa to Coq, Lean, Matita, OpenTheory, HOL-Light, PVS
 - [Personoj](https://github.com/Deducteam/personoj): PVS to Lambdapi
-- [Skonverto](https://github.com/Deducteam/SKonverto): deskolemization tool
+- [Skonverto](https://github.com/Deducteam/SKonverto): construct a proof of a formula from a proof of its skolemized version
 - [Universo](https://github.com/Deducteam/universo): type universes rewriting tool
-- [SMTCoq](https://smtcoq.github.io/): tool to use and check proofs from SMT solver in Coq
+- [SMTCoq](https://smtcoq.github.io/): reconstruct proofs from SMT solvers in Coq
+- [CoqHammer](https://coqhammer.github.io/): reconstruct proofs from ATPs in Coq
 
 **Interactive theorem provers**
 
