@@ -14,6 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: EuroProofNet
+logo: /assets/images/epn-logo.svg
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   Cost Action CA20111 [EuroProofNet](https://www.cost.eu/actions/CA20111/)
