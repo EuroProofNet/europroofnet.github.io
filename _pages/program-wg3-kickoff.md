@@ -37,7 +37,8 @@ The event is scheduled as a two-day meeting.
   - _Legal certified software through proof assistants: a global scientific and managerial perspective_ &nbsp; by J. Joosten
   <!-- - _Software contracts and change_ &nbsp; by A. Villanueva-->
   - To confirm
-* Participants (11:30-13:30): _Towards the deliverables_
+* Interaction (11:00-11:30)
+* Participants (12:00-13:30): _Towards the deliverables_
   - Groups
 * Wrapping-up (15:00-16:00): Setting the agenda for the year
 

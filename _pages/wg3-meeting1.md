@@ -50,7 +50,7 @@ Other hotels near the campus (no rooms blocked):
 
 The event is scheduled as a two-day meeting. 
 
-[Full program](programWG3meeting)
+[Full program](program-wg3-kickoff)
 
 Program schedule: 
 
