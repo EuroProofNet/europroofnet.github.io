@@ -31,7 +31,7 @@ We plan to have at least a session to present and discuss topics raised by WG3 m
 
 ### Funding applications
 
-The action can fund the travel to Valencia of about 10 participants with a daily allowance fixed at 100 euros. If you want to go to Valencia and be reimbursed, you need to send a mail to Alicia Villanueva <villanue@dsic.upv.es> **before January 16**. The action members who will be reimbursed will be chosen by taking into account the following criteria in order: importance wrt the research coordination objectives; inclusive target countries; age; gender; team with low resources; balance over the action life time between people, teams, countries and working groups.
+The action can fund the travel to ValencShort talkst countries; age; gender; team with low resources; balance over the action life time between people, teams, countries and working groups.
 
 ### Venue & Accommodation
 
@@ -50,31 +50,33 @@ Other hotels near the campus (no rooms blocked):
 
 The event is scheduled as a two-day meeting. 
 
-Tentative program:
+[Full program](programWG3meeting)
+
+Program schedule: 
 
 **Day 1**
 
 | Time      | Session |
 | ----------- | ----------- |
 | 10:00-10:30      | Opening & Presentation       |
-| 10:30-11:30   | Session 1: Perspectives        |
+| 10:30-11:30   | Session 1: Deliverables        |
 | 11:30-12:00 | _Coffee Break_ |
-| 12:00-12:30 | Session 2: Interaction |
-| 12:30-13:30 | Session 3: The first deliverable |
+| 12:00-13:30 | Session 2: Talks |
 | 13:30-15:00 | _Lunch_ |
-| 15:00-16:00 | Session 4: Short talks |
-| 16:00-17:00 | Discussion & Conclusion day 1 |
+| 15:00-16:00 | Interaction: Identifying goals |
+| 16:00-17:00 | Wrapping-up: Conclusion & Plan |
 
 **Day 2**
 
 | Time      | Session |
 | ----------- | ----------- |
-| 10:00-10:30      | Day organization       |
-| 10:30-11:30   | Session 5: Towards the deliverables        |
+| 10:00-10:20      | Day organization       |
+| 10:20-11:00   | Session 5: Talks       |
+| 11:00-11:30 | Interaction |
 | 11:30-12:00 | _Coffee Break_ |
-| 12:00-13:30 | Session 6: Discussion. Wrapping up |
+| 12:00-13:30 | Session 6: Towards the deliverables |
 | 13:30-15:00 | _Lunch_ |
-| 15:00-16:00 | Discussion. setting the agenda for the year |
+| 15:00-16:00 | Wrapping-up: Setting the agenda for the year |
 
 <br>
 
