@@ -1,7 +1,7 @@
 ---
 title: "WG3 Kick-off meeting"
 layout: single
-permalink: /wg3-meeting1/
+permalink: /program-wg3-kickoff/
 author_profile: true
 breadcrumbs: true
 ---
