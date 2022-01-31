@@ -6,8 +6,6 @@ author_profile: true
 breadcrumbs: true
 ---
 
-**/!\ Deadline for funding applications: January 16.**
-
 ## February 10-11, 2022
 
 This is the first EuroProofNet WG3 meeting, taking place February 10-11, 2022. Due to the current pandemic situation, the meeting will take place at _Universitat Polit&egrave;cnica de Val&egrave;ncia_ (Spain) and also online.
@@ -27,11 +25,9 @@ Registration is free of charge. Coffee breaks are included. Convenient caffeteri
 
 We plan to have at least a session to present and discuss topics raised by WG3 members in the context of the Action goals and deliverables. If you are interested in briefly presenting a specific problem, please let us know through the dedicated question in the registration form. You can also contact Rodica Condurache (Rodica.b.condurache@gmail.com) and/or Alicia Villanueva (villanue@dsic.upv.es) for any question related to the program.
 
-
-
 ### Funding applications
 
-The action can fund the travel to ValencShort talkst countries; age; gender; team with low resources; balance over the action life time between people, teams, countries and working groups.
+The action can fund the travel to Valencia of about 10 participants with a daily allowance fixed at 100 euros. If you want to go to Valencia and be reimbursed, you need to send a mail to Alicia Villanueva <villanue@dsic.upv.es>. The action members who will be reimbursed will be chosen by taking into account the following criteria in order: importance wrt the research coordination objectives; inclusive target countries; age; gender; team with low resources; balance over the action life time between people, teams, countries and working groups.
 
 ### Venue & Accommodation
 
