@@ -12,7 +12,7 @@ breadcrumbs: true
 
 ### Program
 
-The event is scheduled as a two-day meeting. 
+The event is scheduled as a two-day meeting. Times are CET.
 
 **Day 1**
 

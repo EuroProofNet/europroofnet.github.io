@@ -17,7 +17,7 @@ This meeting aims to
 
 ### Registration 
 
-Registration is free of charge. Coffee breaks are included. Convenient caffeterias and restaurants are available at the campus. 
+Registration is free of charge. Coffee breaks are included. Convenient cafeterias and restaurants are available at the campus. 
 
 [Registration form](https://forms.office.com/Pages/ResponsePage.aspx?id=31VGvnOsH0CnrhmMO3LQxmrI_MLrIYFFjlTIHtv5EmJUOFlIUVBMWFRVRkNGMUZKRlRDQzVBMFg0Ry4u).
 
