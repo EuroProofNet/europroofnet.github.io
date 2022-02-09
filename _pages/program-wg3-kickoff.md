@@ -25,7 +25,7 @@ The event is scheduled as a two-day meeting. Times are CET.
   - _Data accounting, Invariants for testing of smart contracts_ &nbsp; by M. Gajda
   <!-- - _Formal verification of logic proposals_ &nbsp; by A. Sayin -->
   - _Language-agnostic program verification_ &nbsp; by J. Conejero
-  - _TBA_ &nbsp; by Ren&eacute; Thiemann
+  - _CPF: The Certification Problem Format_ &nbsp; by Ren&eacute; Thiemann
 * Interaction (15:00-16:00): _Identifying goals_
 * Wrapping-up (16:00-17:00): Conclusion & Plan
 
@@ -34,7 +34,7 @@ The event is scheduled as a two-day meeting. Times are CET.
 * Day presentation (10:00-10:20)
 * Talks (10:20-11:00)
   - _Legal certified software through proof assistants: a global scientific and managerial perspective_ &nbsp; by J. Joosten
-  - _TBA_ &nbsp; by Santiago Escobar
+  - _Equational Unification and Symbolic Reachability in Maude_ &nbsp; by Santiago Escobar
   - _TBA_ &nbsp; by Antonio Ravara
 * Interaction (11:00-11:30)
 * Participants (12:00-13:30): _Towards the deliverables_
