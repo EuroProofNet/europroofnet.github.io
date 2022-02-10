@@ -35,7 +35,7 @@ The event is scheduled as a two-day meeting. Times are CET.
 * Talks (10:20-11:00)
   - _Legal certified software through proof assistants: a global scientific and managerial perspective_ &nbsp; by J. Joosten
   - _Equational Unification and Symbolic Reachability in Maude_ &nbsp; by Santiago Escobar
-  - _TBA_ &nbsp; by Antonio Ravara
+  - _Converging two directions of program verification: deductive verification meets smart types for smart contracts_ &nbsp; by Antonio Ravara
 * Interaction (11:00-11:30)
 * Participants (12:00-13:30): _Towards the deliverables_
   - Groups
