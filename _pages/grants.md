@@ -20,7 +20,7 @@ Proposals must be made through the [e-COST system](https://e-services.cost.eu/ac
 
 The coordinators for STSMs are [Danijela Simic](http://poincare.matf.bg.ac.rs/~danijela) (University of Belgrade, Serbia) and [Ambrus Kaposi](http://akaposi.web.elte.hu) (Eötvös Loránd University, Hungary).
 
-The procedure for proposing an STSM is described in [Annex 2 of the Annotated Rules](https://www.cost.eu/uploads/2021/10/COST-094-21-Annotated-Rules-for-COST-Actions-Level-C-2021-11-01-1.pdf).
+The procedure for proposing an STSM is described in [Annex 2 of the Annotated Rules](https://www.cost.eu/uploads/2021/10/COST-094-21-Annotated-Rules-for-COST-Actions-Level-C-2021-11-01-1.pdf#page=92).
 
 
 The main points about STSMs are:
