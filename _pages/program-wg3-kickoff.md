@@ -25,7 +25,7 @@ The event is scheduled as a two-day meeting. Times are CET.
   - _Data accounting, Invariants for testing of smart contracts_ &nbsp; by M. Gajda
   <!-- - _Formal verification of logic proposals_ &nbsp; by A. Sayin -->
   - _Language-agnostic program verification_ &nbsp; by J. Conejero
-  - _CPF: The Certification Problem Format_ &nbsp; by Ren&eacute; Thiemann
+  - _CPF: The Certification Problem Format_ &nbsp; by Ren&eacute; Thiemann &nbsp; [Presentation](./WG3-resources/Feb2022/CPF_presentation_Thiemann.pdf)
 * Interaction (15:00-16:00): _Identifying goals_
 * Wrapping-up (16:00-17:00): Conclusion & Plan
 
