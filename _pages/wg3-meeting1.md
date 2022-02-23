@@ -46,7 +46,7 @@ Other hotels near the campus (no rooms blocked):
 
 The event is scheduled as a two-day meeting. 
 
-[Full program](../program-wg3-kickoff)
+[Full program](../program-wg3-kickoff) with presentations.
 
 Program schedule: 
 
@@ -74,7 +74,7 @@ Program schedule:
 | 13:30-15:00 | _Lunch_ |
 | 15:00-16:00 | Wrapping-up: Setting the agenda for the year |
 
-<br>
+
 
 ### Local Organization
 
@@ -82,6 +82,7 @@ Program schedule:
 * Daniel Gal&aacute;n Pascual
 * Ra&uacute;l L&oacute;pez-Rueda 
 * Cristina Padr&oacute; Ferragut
+* Sergio P&eacute;rez
 * Julia Sapi&ntilde;a 
 * Germ&aacute;n Vidal 
 * Alicia Villanueva 
