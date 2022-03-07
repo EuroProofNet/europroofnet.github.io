@@ -9,8 +9,8 @@ author_profile: true
 
 Next provisional deadlines for STSM proposals for the period Feb-Oct 2022:
 
-- 1st April 2022 (notification 15 April)
-- 1st July 2022 (notification 15 July)
+- 3 April 2022 (notification on 15 April): We are especially looking for applications from women and working groups other than WG3
+- 1st June or July 2022 (notification 15 June or July)
 
 **What is an STSM?**
 
