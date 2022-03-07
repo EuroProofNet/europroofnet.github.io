@@ -31,4 +31,4 @@ to the [working groups](../wg) you are interested in (it is free and open to any
 **Next [STSM proposal](../grants) deadline**: April 3
 
 <!--**Next meeting**: February 10-11, Valencia, Spain,
-[WG3 kick-off meeting](../WG3/Feb2022/meeting)-->
+[WG3 kick-off meeting](../wg3-meeting1)-->
