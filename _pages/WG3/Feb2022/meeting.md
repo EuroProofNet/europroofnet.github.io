@@ -46,7 +46,7 @@ Other hotels near the campus (no rooms blocked):
 
 The event is scheduled as a two-day meeting. 
 
-[Full program](../wg3-meeting1-program) with presentations.
+[Full program](https://europroofnet.github.io/wg3-meeting1-program) with presentations.
 
 Program schedule: 
 
