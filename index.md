@@ -24,7 +24,7 @@ To join the action, simply
 [apply](https://e-services.cost.eu/action/CA20111/working-groups/apply)
 to the [working groups](../wg) you are interested in (it is free and open to anyone).
 
-[Description](../description) - [Objectives](../objectives) - [Deliverables](../deliverables) - [Proof tools](../tools)
+[Description](../description) &nbsp; [Objectives](../objectives) &nbsp; [Deliverables](../deliverables) &nbsp; [Proof tools](../tools)
 
 [Work plan for January-October 2022](../work-plan-1)
 
