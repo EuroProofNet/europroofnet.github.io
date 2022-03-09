@@ -1,6 +1,4 @@
 main:
-  - title: "Description"
-    url: /description/
   - title: "Working Groups"
     url: /wg/
   - title: "Events"

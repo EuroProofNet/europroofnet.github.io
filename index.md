@@ -10,6 +10,7 @@ layout: single
 ---
 
 EuroProofNet is the European research network on digital proofs.
+
 **EuroProofNet aims at boosting the interoperability and usability of
 proof systems**.
 
