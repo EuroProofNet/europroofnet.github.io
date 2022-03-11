@@ -15,6 +15,6 @@ and mathematics.
 
 ### Activities
 
-* 10-11 February 2022: [Kick-off meeting](../wg3-meeting1)
-
 * Summer 2022: next edition of VTSA at Saarbrücken (Germany) with a focus on proof-generating verification systems
+
+* 10-11 February 2022: [Kick-off meeting](../wg3-meeting1)

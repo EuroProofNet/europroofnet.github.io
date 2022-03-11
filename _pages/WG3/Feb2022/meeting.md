@@ -25,7 +25,7 @@ This meeting aims to
 
 Registration is free of charge. Coffee breaks are included. Convenient cafeterias and restaurants are available at the campus. 
 
-[Registration form](https://forms.office.com/Pages/ResponsePage.aspx?id=31VGvnOsH0CnrhmMO3LQxmrI_MLrIYFFjlTIHtv5EmJUOFlIUVBMWFRVRkNGMUZKRlRDQzVBMFg0Ry4u).
+[Registration form](https://forms.office.com/Pages/ResponsePage.aspx?id=31VGvnOsH0CnrhmMO3LQxmrI_MLrIYFFjlTIHtv5EmJUOFlIUVBMWFRVRkNGMUZKRlRDQzVBMFg0Ry4u)
 
 <!--Please contact xxx if you have any problem during the registration process.-->
 
@@ -52,7 +52,7 @@ Other hotels near the campus (no rooms blocked):
 
 The event is scheduled as a two-day meeting. 
 
-[Full program](../program-wg3-kickoff) with presentations and videos.
+[Full program](https://europroofnet.github.io/wg3-meeting1-program) with presentations.
 
 Program schedule: 
 

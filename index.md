@@ -10,6 +10,7 @@ layout: single
 ---
 
 EuroProofNet is the European research network on digital proofs.
+
 **EuroProofNet aims at boosting the interoperability and usability of
 proof systems**.
 
@@ -24,11 +25,11 @@ To join the action, simply
 [apply](https://e-services.cost.eu/action/CA20111/working-groups/apply)
 to the [working groups](../wg) you are interested in (it is free and open to anyone).
 
-[Description](../description) - [Objectives](../objectives) - [Deliverables](../deliverables) - [Proof tools](../tools)
+[Description](../description) &nbsp; [Objectives](../objectives) &nbsp; [Deliverables](../deliverables) &nbsp; [Proof tools](../tools)
 
 [Work plan for January-October 2022](../work-plan-1)
 
-**Next [STSM proposal](../grants) deadline**: April 1st
+**Next [STSM proposal](../grants) deadline**: April 3
 
-**Next meeting**: February 10-11, Valencia, Spain,
-[WG3 kick-off meeting](../wg3-meeting1)
+<!--**Next meeting**: February 10-11, Valencia, Spain,
+[WG3 kick-off meeting](https://europroofnet.github.io/wg3-meeting1)-->

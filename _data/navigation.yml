@@ -1,6 +1,4 @@
 main:
-  - title: "Description"
-    url: /description/
   - title: "Working Groups"
     url: /wg/
   - title: "Events"
@@ -9,5 +7,7 @@ main:
     url: /grants/
   - title: "Publications"
     url: /publications/
+  - title: "News"
+    url: /news/
   - title: "Contact"
     url: /contact/
