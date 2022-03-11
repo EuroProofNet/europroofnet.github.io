@@ -16,7 +16,7 @@ The event is scheduled as a two-day meeting. Times are CET.
 
 **Day 1**
 
-* Opening & Presentation (10:00-10:30): _The EuroProofNet COST Action and WG3 "Program Verification"_ &nbsp; [Presentation of EPN](./WG3/Feb2022/EPN_presentation_Blanqui.pdf) &nbsp; [Presentation of WG3](./WG3/Feb2022/WG3-presentation-kick-off-p1.pdf)
+* Opening & Presentation (10:00-10:30): _The EuroProofNet COST Action and WG3 "Program Verification"_ &nbsp; 
   -  Fr&eacute;d&eacute;ric Blanqui, Rodica Condurache, Alicia Villanueva
      * Presentation of EPN &nbsp; [(slides)](./EPN_presentation_Blanqui.pdf) [(video)](https://media.upv.es/#/portal/video/68e950c0-a11c-11ec-a93e-b15af2323784) &nbsp; 
      * Presentation of WG3 &nbsp; [(slides)](./WG3-presentation-kick-off-p1.pdf) [(video)](https://media.upv.es/#/portal/video/39d16330-a11d-11ec-a93e-b15af2323784)
