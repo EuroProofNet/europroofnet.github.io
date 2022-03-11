@@ -15,6 +15,12 @@ This meeting aims to
 * foster collaborations and build synergies among participants to ease the path to more fruitful results for the Action, and
 * the identification of verification techniques used in the Software Verification competition SV-COMP, which is related to the first deliverable of the WG.
 
+## Output
+
+* Final [Report](./WG3-resources/Feb2022/ReportWG3meeting.pdf) 
+* Some presentations and video recordings have been addded to the [program page](../program-wg3-kickoff). Videos are stored on UPV ([terms of use](https://media.upv.es/#/termsofuse) of the video service).
+
+## Organization
 ### Registration 
 
 Registration is free of charge. Coffee breaks are included. Convenient cafeterias and restaurants are available at the campus. 
@@ -46,7 +52,7 @@ Other hotels near the campus (no rooms blocked):
 
 The event is scheduled as a two-day meeting. 
 
-[Full program](../program-wg3-kickoff) with presentations.
+[Full program](../program-wg3-kickoff) with presentations and videos.
 
 Program schedule: 
 
