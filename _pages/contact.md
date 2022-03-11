@@ -65,7 +65,7 @@ To contribute to the web site, please create a [pull request](https://github.com
 - Italy: [Claudio Sacerdoti Coen](http://www.cs.unibo.it/~sacerdot/)
 - Luxembourg: [Matteo Acclavio](http://www.matteoacclavio.com) and [Alexander Steen](https://www.alexandersteen.de/)
 - Netherlands: [Herman Geuvers](http://www.cs.ru.nl/~herman/) and [Jesper Cockx](https://jesper.sikanda.be/)
-- North Macedonia: Natasha Maksimova and [Marija Mihova](https://finki.ukim.mk/en/staff/marija-mihova)
+- North Macedonia: [Natasha Maksimova](https://scholar.ugd.edu.mk/nmaksimova) and [Marija Mihova](https://finki.ukim.mk/en/staff/marija-mihova)
 - Norway: [Håkon Robbestad Gylterud](https://hakon.gylterud.net/) and [Volker Stolz](https://ict.hvl.no/people/volker-stolz/)
 - Poland: Adrian Jaszczak and [Aleksy Schubert](https://www.mimuw.edu.pl/~alx/)
 - Portugal: [Maria João Frade](https://haslab.uminho.pt/mjf/) and [Sandra Alves](https://www.dcc.fc.up.pt/~sandra/)
