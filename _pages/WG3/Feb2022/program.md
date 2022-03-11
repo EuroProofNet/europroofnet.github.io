@@ -22,7 +22,7 @@ The event is scheduled as a two-day meeting. Times are CET.
      * Presentation of WG3 &nbsp; [(slides)](./WG3-presentation-kick-off-p1.pdf) [(video)](https://media.upv.es/#/portal/video/39d16330-a11d-11ec-a93e-b15af2323784)
   
 * Deliverables (10:30-11:30): 
-  - WG3 deliverables &nbsp; [(slides)](./WG3-presentation-kick-off-p2.pdf) [(video)](https://media.upv.es/#/portal/video/768b7fe0-a11d-11ec-a93e-b15af2323784)]
+  - WG3 deliverables &nbsp; [(slides)](./WG3-presentation-kick-off-p2.pdf) [(video)](https://media.upv.es/#/portal/video/768b7fe0-a11d-11ec-a93e-b15af2323784)
   - _Comparison of existing tools/benchmarks_ &nbsp; by Laura Kovacs &nbsp; [(slides)](./WG3/Feb2022/WG3_Tools_Benchmarks_Kovacs.pdf) [(video)](https://media.upv.es/#/portal/video/0b0a2db0-a11e-11ec-a93e-b15af2323784)
 * Talks (12:00-13:30)
   - _Data accounting, Invariants for testing of smart contracts_ &nbsp; by M. Gajda
