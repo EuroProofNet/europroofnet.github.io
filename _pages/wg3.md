@@ -17,4 +17,4 @@ and mathematics.
 
 * Summer 2022: next edition of VTSA at Saarbrücken (Germany) with a focus on proof-generating verification systems
 
-* 10-11 February 2022: [Kick-off meeting](../wg3-meeting1) [Slides & Videos](https://europroofnet.github.io/wg3-meeting1/program) [Report](https://europroofnet.github.io/_pages/WG3/Feb2022/ReportWG3meeting.pdf)
+* 10-11 February 2022: [Kick-off meeting](../wg3-meeting1) [Slides&Videos](https://europroofnet.github.io/wg3-meeting1-program) [Report](https://europroofnet.github.io/_pages/WG3/Feb2022/ReportWG3meeting.pdf)
