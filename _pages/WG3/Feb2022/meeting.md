@@ -18,7 +18,7 @@ This meeting aims to
 ## Output
 
 * Final [Report](./WG3-resources/Feb2022/ReportWG3meeting.pdf) 
-* Some presentations and video recordings have been addded to the [program page](../program-wg3-kickoff). Videos are stored on UPV ([terms of use](https://media.upv.es/#/termsofuse) of the video service).
+* Some presentations and video recordings have been addded to the [program page](../wg3-meeting1-program). Videos are stored on UPV ([terms of use](https://media.upv.es/#/termsofuse) of the video service).
 
 ## Organization
 ### Registration 
