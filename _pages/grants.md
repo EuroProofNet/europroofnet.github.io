@@ -22,7 +22,6 @@ The coordinators for STSMs are [Danijela Simic](http://poincare.matf.bg.ac.rs/~d
 
 The procedure for proposing an STSM is described in [Annex 2 of the Annotated Rules](https://www.cost.eu/uploads/2021/10/COST-094-21-Annotated-Rules-for-COST-Actions-Level-C-2021-11-01-1.pdf#page=92).
 
-
 The main points about STSMs are:
 
 * An STSM must be between two different countries which are participating in the Action.
@@ -32,9 +31,9 @@ The main points about STSMs are:
     - up to EUR 120 for daily allowance (depending on the location)
     - up to EUR 400 for travel.
     - the total may not exceed EUR 4000 (this is a hard limit)
-* As part of the application form submitted through e-COST, the goals of the mission have to be described including how it contributes to the [objectives and deliverables of the action](../description), which working group(s) it contributes to, and a confirmation from the host that he or she will receive the applicant.
+* As part of the application form submitted through e-COST, the goals of the mission have to be described including how it contributes to the [objectives and deliverables of the action](../description), which working group(s) it contributes to, a confirmation from the host that he or she will receive the applicant, and a justification of the requested grant (travel and accommodation costs).
 * Proposals should be submitted by the deadlines.
-* STSMs must end before the end of October.
+* **STSMs must end before the end of October**.
 
 The criteria according to which funding will be decided are in order:
 * importance with regard to the research coordination objectives
