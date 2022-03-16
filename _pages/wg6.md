@@ -13,4 +13,4 @@ syntax and semantics.
 
 ### Activities
 
-* March 2022: meeting on syntax and semantics, Stockholm, Sweden
+* May 2022: kickoff meeting on syntax and semantics, Stockholm University, Sweden
