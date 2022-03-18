@@ -18,9 +18,9 @@ Provisional program (to be confirmed):
 - 15:45 break
 - 16:00 The case of cubical type theory, [Bruno Barras](http://www.lix.polytechnique.fr/~barras/)
 - 16:30 How to write a translator to Dedukti? The case of [Agda](https://github.com/Deducteam/Agda2Dedukti), [Jesper Cockx](https://jesper.sikanda.be/) and [Thiago Felicissimo](https://lmf.cnrs.fr/Perso/ThiagoFelicissimo)
-- 17:45 break
-- 18:00 WG 1 & 4 meeting
-- 19:00 end
+- 17:30 break
+- 17:45 WG 1 & 4 meeting
+- 19:15 end
 - 20:00 dinner
 
 **June 25, 2022:**
