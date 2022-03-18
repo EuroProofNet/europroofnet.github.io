@@ -9,7 +9,7 @@ author_profile: true
 
 * For the first year, some schools will be (co-)organized to give EuroProofNet members the knowledge necessary to work on the objectives of the action:
 
-    - On June 24-25, there will be a school on [Dedukti](https://deducteam.github.io/) and the encoding of proofs of various systems in Dedukti, and a workshop on Women in EuroProofNet, in co-location with the [TYPES'22](https://types22.inria.fr/) conference at Nantes (France).
+    - On June 24-25, there will be a [school on Dedukti](../dedukti-school-2022) and a workshop on Women in EuroProofNet, in co-location with the [TYPES'22](https://types22.inria.fr/) conference at Nantes (France).
 
     - During the summer, there will be the next edition of the school on Verification Technology, Systems & Applications (VTSA) at Saarbrücken (Germany), with a focus on proof-generating verification systems.
 
