@@ -14,21 +14,23 @@ Provisional program (to be confirmed):
 
 **June 24, 2022:**
 
-- 14:00 [Dedukti](https://deducteam.github.io/) & [Lambdapi](https://github.com/Deducteam/lambdapi), [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/) will present the language Dedukti and the available tools for checking Dedukti files. He will also present Lambdapi, a new interactive proof assistant which can be used as an higher-level intermediate language for generating Dedukti files.
+- 09:00 Women in EPN workshop
 
-- 15:00 How to express a theory in Dedukti? [Gilles Dowek](http://www.lsv.fr/~dowek/)
+- 13:30 lunch
 
-- 15:45 break
+- 14:30 [Dedukti](https://deducteam.github.io/) & [Lambdapi](https://github.com/Deducteam/lambdapi), [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/) will present the language Dedukti and the available tools for checking Dedukti files. He will also present Lambdapi, a new interactive proof assistant which can be used as an higher-level intermediate language for generating Dedukti files.
 
-- 16:00 The case of cubical type theory, [Bruno Barras](http://www.lix.polytechnique.fr/~barras/)
+- 15:30 How to express a theory in Dedukti? [Gilles Dowek](http://www.lsv.fr/~dowek/)
 
-- 16:30 How to write a translator to Dedukti? The case of [Agda](https://github.com/Deducteam/Agda2Dedukti), [Jesper Cockx](https://jesper.sikanda.be/) and [Thiago Felicissimo](https://lmf.cnrs.fr/Perso/ThiagoFelicissimo)
+- 16:15 break
 
-- 17:30 break
+- 16:30 The case of cubical type theory, [Bruno Barras](http://www.lix.polytechnique.fr/~barras/)
 
-- 17:45 WG 1 & 4 meeting
+- 17:00 How to write a translator to Dedukti? The case of [Agda](https://github.com/Deducteam/Agda2Dedukti), [Jesper Cockx](https://jesper.sikanda.be/) and [Thiago Felicissimo](https://lmf.cnrs.fr/Perso/ThiagoFelicissimo)
 
-- 19:15 end
+- 18:00 WG 1 & 4 meeting
+
+- 19:30 end
 
 - 20:00 dinner
 
