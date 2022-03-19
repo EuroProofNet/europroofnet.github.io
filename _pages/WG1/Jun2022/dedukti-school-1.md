@@ -14,7 +14,7 @@ Provisional program (to be confirmed):
 
 **June 24, 2022:**
 
-- 09:00 Women in EPN workshop
+- 09:00 [Women in EPN workshop](../women-epn-2022)
 
 - 13:30 lunch
 

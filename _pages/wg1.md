@@ -13,4 +13,4 @@ by developing tools to translate proofs from one system to another.
 
 ### Activities
 
-* 24-25 June 2022: [1st Dedukti school](../dedukti-school-2022) at Nantes, France, colocated with [TYPES'22](https://types22.inria.fr/) and a [workshop on Women in EuroProofNet](../women-epn)
+* 24-25 June 2022: [1st Dedukti school](../dedukti-school-2022) at Nantes, France, colocated with [TYPES'22](https://types22.inria.fr/) and [Women in EuroProofNet](../women-epn-2022)
