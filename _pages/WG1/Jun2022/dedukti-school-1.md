@@ -46,15 +46,15 @@ Provisional program (to be confirmed):
 
 - 12:00 lunch
 
-- 13:30 Programming language semantics in Dedukti, [Catherine Dubois](http://web4.ensiie.fr/~dubois/) and [Amélie Ledein](http://www.lsv.fr/~ledein/)
+- 13:00 Programming language semantics in Dedukti, [Catherine Dubois](http://web4.ensiie.fr/~dubois/) and [Amélie Ledein](http://www.lsv.fr/~ledein/)
 
-- 14:30 Translating proofs from one theory to another within Dedukti, and exporting a library from Dedukti, François Thiré
+- 14:00 Translating proofs from one theory to another within Dedukti, and exporting a library from Dedukti, François Thiré
 
-- 15:30 break
+- 15:00 break
 
-- 15:45 closing discussion
+- 15:15 closing discussion
 
-- 16:30 end
+- 16:00 end
 
 **Registration:** on [TYPES 2022](https://types22.inria.fr/).
 
