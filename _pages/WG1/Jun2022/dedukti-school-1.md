@@ -13,26 +13,45 @@ Colocated with [TYPES 2022](https://types22.inria.fr/).
 Provisional program (to be confirmed):
 
 **June 24, 2022:**
-- 14:00 [Dedukti](https://deducteam.github.io/) & [Lambdapi](https://github.com/Deducteam/lambdapi), [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/)
+
+- 14:00 [Dedukti](https://deducteam.github.io/) & [Lambdapi](https://github.com/Deducteam/lambdapi), [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/) will present the language Dedukti and the available tools for checking Dedukti files. He will also present Lambdapi, a new interactive proof assistant which can be used as an higher-level intermediate language for generating Dedukti files.
+
 - 15:00 How to express a theory in Dedukti? [Gilles Dowek](http://www.lsv.fr/~dowek/)
+
 - 15:45 break
+
 - 16:00 The case of cubical type theory, [Bruno Barras](http://www.lix.polytechnique.fr/~barras/)
+
 - 16:30 How to write a translator to Dedukti? The case of [Agda](https://github.com/Deducteam/Agda2Dedukti), [Jesper Cockx](https://jesper.sikanda.be/) and [Thiago Felicissimo](https://lmf.cnrs.fr/Perso/ThiagoFelicissimo)
+
 - 17:30 break
+
 - 17:45 WG 1 & 4 meeting
+
 - 19:15 end
+
 - 20:00 dinner
 
 **June 25, 2022:**
+
 - 09:15 First-order theorem provers, [Guillaume Burel](http://web4.ensiie.fr/~guillaume.burel/)
+
 - 10:15 How to handle predicate subtyping? [Gabriel Hondet](http://www.lsv.fr/~hondet/)
+
 - 10:45 break
+
 - 11:00 [Isabelle](https://github.com/Deducteam/isabelle_dedukti) and [Kontroli](https://github.com/01mf02/kontroli-rs), [Michael Färber](http://cl-informatik.uibk.ac.at/users/mfaerber/)
+
 - 12:00 lunch
-- 13:30 Programming language semantics in Dedukti, [Catherine Dubois](http://web4.ensiie.fr/~dubois/)
+
+- 13:30 Programming language semantics in Dedukti, [Catherine Dubois](http://web4.ensiie.fr/~dubois/) and [Amélie Ledein](http://www.lsv.fr/~ledein/)
+
 - 14:30 Translating proofs from one theory to another within Dedukti, and exporting a library from Dedukti, François Thiré
+
 - 15:30 break
+
 - 15:45 closing discussion
+
 - 16:30 end
 
 **Registration:** on [TYPES 2022](https://types22.inria.fr/).
