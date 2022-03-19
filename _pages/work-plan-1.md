@@ -9,11 +9,11 @@ author_profile: true
 
 * For the first year, some schools will be (co-)organized to give EuroProofNet members the knowledge necessary to work on the objectives of the action:
 
-    - On June 24-25, there will be a [school on Dedukti](../dedukti-school-2022) and a workshop on Women in EuroProofNet, in co-location with the [TYPES'22](https://types22.inria.fr/) conference at Nantes (France).
+    - On June 24-25, there will be a [school on Dedukti](../dedukti-school-2022) and a [workshop on Women in EuroProofNet](../women-epn), in co-location with the [TYPES'22](https://types22.inria.fr/) conference at Nantes (France).
 
     - During the summer, there will be the next edition of the school on Verification Technology, Systems & Applications (VTSA) at Saarbrücken (Germany), with a focus on proof-generating verification systems.
 
-    - In September, there will be a school on [Naproche](https://naproche.github.io/) and controlled natural languages in proof assistants at Bonn (Germany). 
+    - In September, there will be a school on [Naproche](https://naproche.github.io/) and controlled natural languages in proof assistants at Bonn (Germany).
 
 * Finally, a number of small and big meetings have been planned:
 
@@ -24,4 +24,4 @@ author_profile: true
     - In August 11-12, a WG2 meeting co-located with the [PAAR'22 workshop](https://paar2022.github.io/) and a workshop dedicated to sharing libraries of formal proofs during [FLOC](https://www.floc2022.org/) at Haifa (Israel).
 
     - On September 4-7, WG5 meeting at the [AITP'22](http://aitp-conference.org/2022/) conference at Aussois (France).
-    
+
