@@ -28,7 +28,6 @@ The main points about STSMs are:
     - up to EUR 120 for daily allowance (depending on the location)
     - up to EUR 400 for travel.
     - the total may not exceed EUR 4000 (this is a hard limit)
-- As part of the application form submitted through e-COST, the goals of the mission have to be described including how it contributes to the [objectives and deliverables of the action](../description), which working group(s) it contributes to, a confirmation from the host that he or she will receive the applicant, and a justification of the requested grant (travel and accommodation costs).
 - Proposals should be submitted by the deadlines.
 
 **What documents to provide?**
@@ -37,10 +36,10 @@ Proposals must be made through the [e-COST system](https://e-services.cost.eu/ac
 
 - The [application form](/assets/documents/STSM-application-template.docx) with the following data:
   - Details of the STSM: title, dates and justification of the grant request (details of the travel cost, accommodation cost and living cost)
-  - Goals of the STSM (max 200 words)
+  - Goals of the STSM (max 200 words) including which [working group(s)](../wg) it contributes to
   - Working plan (max 500 words)
   - Expected outputs and contribution to the action [objectives and deliverables](../description) (max 500 words)
-- A letter from the host.
+- A letter from the host confirming that he or she will receive the applicant.
 - Documents justifying the grant request (quotes for travel and accommodation).
 
 **Selection criteria:**
