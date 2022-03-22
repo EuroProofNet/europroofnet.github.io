@@ -18,43 +18,38 @@ Provisional program (to be confirmed):
 
 - 13:30 lunch
 
-- 14:30 [Dedukti](https://deducteam.github.io/) & [Lambdapi](https://github.com/Deducteam/lambdapi), [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/) will present the language Dedukti and the available tools for checking Dedukti files. He will also present Lambdapi, a new interactive proof assistant which can be used as an higher-level intermediate language for generating Dedukti files.
+- 14:30-15:30 [Dedukti](https://deducteam.github.io/) & [Lambdapi](https://github.com/Deducteam/lambdapi), [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/) will present the language Dedukti and the available tools for checking Dedukti files. He will also present Lambdapi, a new interactive proof assistant which can be used as an higher-level intermediate language for generating Dedukti files.
 
-- 15:30 How to express a theory in Dedukti? [Gilles Dowek](http://www.lsv.fr/~dowek/)
+- 15:30-15:45 break
 
-- 16:15 break
+- 15:45-16:45 How to express a theory in Dedukti? [Gilles Dowek](http://www.lsv.fr/~dowek/)
 
-- 16:30 The case of cubical type theory, [Bruno Barras](http://www.lix.polytechnique.fr/~barras/)
+- 16:45-17:15 The case of cubical type theory, [Bruno Barras](http://www.lix.polytechnique.fr/~barras/)
 
-- 17:00 How to write a translator to Dedukti? The case of [Agda](https://github.com/Deducteam/Agda2Dedukti), [Jesper Cockx](https://jesper.sikanda.be/) and [Thiago Felicissimo](https://lmf.cnrs.fr/Perso/ThiagoFelicissimo)
-
-- 18:00 WG 1 & 4 meeting
-
-- 19:30 end
+- 17:30-19:00 WG 1 & 4 meeting
 
 - 20:00 dinner
 
 **June 25, 2022:**
 
-- 09:15 First-order theorem provers, [Guillaume Burel](http://web4.ensiie.fr/~guillaume.burel/)
+- 9:00-10:30 How to write a translator to Dedukti? The case of [Agda](https://github.com/Deducteam/Agda2Dedukti), [Jesper Cockx](https://jesper.sikanda.be/) and [Thiago Felicissimo](https://lmf.cnrs.fr/Perso/ThiagoFelicissimo)
 
-- 10:15 How to handle predicate subtyping? [Gabriel Hondet](http://www.lsv.fr/~hondet/)
 
-- 10:45 break
+- 10:30-10:45 break
 
-- 11:00 [Isabelle](https://github.com/Deducteam/isabelle_dedukti) and [Kontroli](https://github.com/01mf02/kontroli-rs), [Michael Färber](http://cl-informatik.uibk.ac.at/users/mfaerber/)
+- 10:45-11:45 First-order theorem provers, filling the gaps 
+  [Guillaume Burel](http://web4.ensiie.fr/~guillaume.burel/)
 
-- 12:00 lunch
+- 11:45-12:15 Predicate subtyping with proof irrelevance [Gabriel Hondet](http://www.lsv.fr/~hondet/)
 
-- 13:00 Programming language semantics in Dedukti, [Catherine Dubois](http://web4.ensiie.fr/~dubois/) and [Amélie Ledein](http://www.lsv.fr/~ledein/)
+- 13:30-14:30 Libraries, the case of Isabelle
+[Michael Färber](http://cl-informatik.uibk.ac.at/users/mfaerber/)
 
-- 14:00 Translating proofs from one theory to another within Dedukti, and exporting a library from Dedukti, François Thiré
+- 14:30-15:30 Programming language semantics in Dedukti, [Catherine Dubois](http://web4.ensiie.fr/~dubois/) and [Amélie Ledein](http://www.lsv.fr/~ledein/)
 
-- 15:00 break
+- 15:30-15:45
 
-- 15:15 closing discussion
-
-- 16:00 end
+15:45-16:45 Translating proofs from one theory to another within Dedukti, and exporting a library from Dedukti, François Thiré
 
 **Registration:** on [TYPES 2022](https://types22.inria.fr/).
 
