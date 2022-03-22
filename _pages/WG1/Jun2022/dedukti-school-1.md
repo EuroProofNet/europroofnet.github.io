@@ -10,13 +10,11 @@ Colocated with [TYPES 2022](https://types22.inria.fr/).
 
 **Place:** LS2N, Université de Nantes, Faculté des Sciences et Techniques (FST), Bâtiment 34, 2 Chemin de la Houssinière, 44322 Nantes, France.
 
+The Dedukti school is preceded by the [Women in EPN workshop](../women-epn-2022) from 9:00 to 13:30.
+
 Provisional program (to be confirmed):
 
 **June 24, 2022:**
-
-- 09:00 [Women in EPN workshop](../women-epn-2022)
-
-- 13:30 lunch
 
 - 14:30-15:30 [Dedukti](https://deducteam.github.io/) & [Lambdapi](https://github.com/Deducteam/lambdapi), [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/) will present the language Dedukti and the available tools for checking Dedukti files. He will also present Lambdapi, a new interactive proof assistant which can be used as an higher-level intermediate language for generating Dedukti files.
 
@@ -34,24 +32,21 @@ Provisional program (to be confirmed):
 
 - 9:00-10:30 How to write a translator to Dedukti? The case of [Agda](https://github.com/Deducteam/Agda2Dedukti), [Jesper Cockx](https://jesper.sikanda.be/) and [Thiago Felicissimo](https://lmf.cnrs.fr/Perso/ThiagoFelicissimo)
 
-
 - 10:30-10:45 break
 
-- 10:45-11:45 First-order theorem provers, filling the gaps 
-  [Guillaume Burel](http://web4.ensiie.fr/~guillaume.burel/)
+- 10:45-11:45 How to handle systems using automated theorem provers? [Guillaume Burel](http://web4.ensiie.fr/~guillaume.burel/)
 
-- 11:45-12:15 Predicate subtyping with proof irrelevance [Gabriel Hondet](http://www.lsv.fr/~hondet/)
+- 11:45-12:15 Predicate subtyping with proof irrelevance, [Gabriel Hondet](http://www.lsv.fr/~hondet/)
 
-- 13:30-14:30 Libraries, the case of Isabelle
-[Michael Färber](http://cl-informatik.uibk.ac.at/users/mfaerber/)
+- 13:30-14:30 Libraries, the case of Isabelle, [Michael Färber](http://cl-informatik.uibk.ac.at/users/mfaerber/)
 
 - 14:30-15:30 Programming language semantics in Dedukti, [Catherine Dubois](http://web4.ensiie.fr/~dubois/) and [Amélie Ledein](http://www.lsv.fr/~ledein/)
 
 - 15:30-15:45
 
-15:45-16:45 Translating proofs from one theory to another within Dedukti, and exporting a library from Dedukti, François Thiré
+- 15:45-16:45 Translating proofs from one theory to another within Dedukti, and exporting a library from Dedukti, François Thiré
 
-**Registration:** on [TYPES 2022](https://types22.inria.fr/).
+**Registration:** on [TYPES 2022](https://types22.inria.fr/)
 
 **Funding application deadline: May 15.**
 EuroProofNet can fund the travel to Nantes and the accommodation for
