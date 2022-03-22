@@ -36,9 +36,9 @@ Proposals must be made through the [e-COST system](https://e-services.cost.eu/ac
 
 - The [application form](/assets/documents/STSM-application-template.docx) with the following data:
   - Details of the STSM: title, dates and justification of the grant request (details of the travel cost, accommodation cost and living cost)
-  - Goals of the STSM (max 200 words) including which [working group(s)](../wg) it contributes to
+  - Goals of the STSM (max 200 words)
   - Working plan (max 500 words)
-  - Expected outputs and contribution to the action [objectives and deliverables](../description) (max 500 words)
+  - [Working group(s)](../wg) it contributes to and expected outputs and contribution to the action [objectives and deliverables](../description) (max 500 words)
 - A letter from the host confirming that he or she will receive the applicant.
 - Documents justifying the grant request (quotes for travel and accommodation).
 
