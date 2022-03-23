@@ -1,5 +1,5 @@
 ---
-title: "WG6 kick-off meeting: Syntax and Semantics of Type Theory"
+title: "WG6 kick-off meeting: Syntax and Semantics of Type Theories"
 layout: single
 permalink: /wg6-kickoff-stockholm/
 ---
