@@ -13,4 +13,4 @@ syntax and semantics.
 
 ### Activities
 
-* May 2022: kickoff meeting on syntax and semantics, Stockholm University, Sweden
+* May 2022: kickoff meeting [*Syntax and Semantics of Type Theory*](/wg6-kickoff-stockholm), Stockholm University, Sweden
