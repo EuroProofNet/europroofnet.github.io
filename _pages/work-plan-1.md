@@ -19,7 +19,7 @@ author_profile: true
 
     - On February 10-11, the [kick-off meeting of the WG3](../wg3-meeting1) on program verification at Valencia (Spain).
 
-    - At the end of ~~March~~ May, a WG6 meeting on syntax and semantics of type theory at Stockholm (Sweden).
+    - At the end of ~~March~~ May, a WG6 [meeting on syntax and semantics of type theory](/wg6-kickoff-stockholm) in Stockholm (Sweden).
 
     - In August 11-12, a WG2 meeting co-located with the [PAAR'22 workshop](https://paar2022.github.io/) and a workshop dedicated to sharing libraries of formal proofs during [FLOC](https://www.floc2022.org/) at Haifa (Israel).
 
