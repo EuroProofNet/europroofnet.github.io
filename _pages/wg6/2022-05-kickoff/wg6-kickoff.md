@@ -17,7 +17,7 @@ The programme will consist primarily of short talks, with plenty of time for dis
 
 ## Registration, talk submission, funding application
 
-Registration is free, but required for planning purposes, by **Friday 13 May**.  The registration form will be available here shortly.
+Registration is free, but required for planning purposes, by **Friday 13 May**: [registration form](https://forms.gle/zgvMSjBUVD392kPs6).
 
 There is some space remaining for contributed talks. If you would like to talk, please submit a proposal (title and short abstract) along with your registration, by **Monday 11 April**.
 
