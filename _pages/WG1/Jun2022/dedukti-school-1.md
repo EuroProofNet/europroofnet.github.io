@@ -20,7 +20,7 @@ Provisional program (to be confirmed):
 
 - 15:30-15:45 break
 
-- 15:45-16:45 How to express a theory in Dedukti? [Gilles Dowek](http://www.lsv.fr/~dowek/)
+- 15:45-16:45 How to express a theory in Dedukti? [Gilles Dowek](http://www.lsv.fr/~dowek/) will present how simple theories, such as Predicate logic, Simple type theory, and the Calculus of constructions can be expressed in Dedukti, these expressions being the basis of the expression of more advances theories, such as the Calculus of costructions with universes and universe polymorphism, or cubical type theory can be expressed.
 
 - 16:45-17:15 The case of cubical type theory, [Bruno Barras](http://www.lix.polytechnique.fr/~barras/)
 
