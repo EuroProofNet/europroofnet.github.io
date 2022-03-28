@@ -25,7 +25,9 @@ To join the action, simply
 [apply](https://e-services.cost.eu/action/CA20111/working-groups/apply)
 to the [working groups](../wg) you are interested in (it is free and open to anyone).
 
-[Description](../description) &nbsp; [Objectives](../objectives) &nbsp; [Deliverables](../deliverables) &nbsp; [Proof tools](../tools)
+[Description](../description) &nbsp; [Objectives](../objectives) &nbsp; [Deliverables](../deliverables)
+
+[Tools](../tools) &nbsp; [Schools](/schools) &nbsp; [Conferences](/conferences)
 
 [Work plan for January-October 2022](../work-plan-1)
 
@@ -35,7 +37,7 @@ to the [working groups](../wg) you are interested in (it is free and open to any
 
 - 20-21 May 2022: [WG6 meeting on syntax and semantics of type theories](/wg6-kickoff-stockholm), Stockholm, Sweden
 
-- 24-25 June 2022: [Women in EuroProofNet](/women-epn-2022) and [1st Dedukti school](/dedukti-school-2022)
+- 24-25 June 2022: [Women in EuroProofNet](/women-epn-2022) and [1st Dedukti school](/dedukti-school-2022), Nantes, France
 
 **Past events:**
 
