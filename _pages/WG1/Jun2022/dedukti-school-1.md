@@ -44,7 +44,7 @@ Provisional program (to be confirmed):
 
 - 15:30-15:45
 
-- 15:45-16:45 Translating proofs from one theory to another within Dedukti, and exporting a library from Dedukti, François Thiré
+- 15:45-16:45 Translating proofs from one theory to another within Dedukti, and exporting a library from Dedukti, François Thiré will present a methodology to write proof translations in Dedukti based around two tools: Dkmeta allows to use the Dedukti language as a meta-language to write term transformations that can be easily maintained; [Universo](https://github.com/Deducteam/universo) allows to rewrite universes in a term, in particular, to map universes from one logic to another (when it is possible).
 
 **Registration:** on [TYPES 2022](https://types22.inria.fr/)
 
