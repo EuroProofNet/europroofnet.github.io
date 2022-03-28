@@ -26,7 +26,7 @@ The event is scheduled as a two-day meeting. Times are CET.
   - _Comparison of existing tools/benchmarks_ &nbsp; by Laura Kovacs &nbsp; [(slides)](./WG3/Feb2022/WG3_Tools_Benchmarks_Kovacs.pdf) [(video)](https://media.upv.es/#/portal/video/0b0a2db0-a11e-11ec-a93e-b15af2323784)
 * Talks (12:00-13:30)
   - _Data accounting, Invariants for testing of smart contracts_ &nbsp; by M. Gajda
-  - _Language-agnostic program verification_ &nbsp; by J. Conejero &nbsp; [(slides)](./2022-02-10-EPN-WG3-Kickoff-Meeting_Conejero.pdf) (video)](https://media.upv.es/#/portal/video/185a3530-ae04-11ec-9809-77463f27a7fa)
+  - _Language-agnostic program verification_ &nbsp; by J. Conejero &nbsp; [(slides)](./2022-02-10-EPN-WG3-Kickoff-Meeting_Conejero.pdf) [(video)](https://media.upv.es/#/portal/video/185a3530-ae04-11ec-9809-77463f27a7fa)
   - _CPF: The Certification Problem Format_ &nbsp; by Ren&eacute; Thiemann &nbsp; [(slides)](./CPF_presentation_Thiemann.pdf) [(video)](https://media.upv.es/#/portal/video/1efc6bc0-a11f-11ec-a93e-b15af2323784)
 * Interaction (15:00-16:00): _Identifying goals_
 * Wrapping-up (16:00-17:00): Conclusion & Plan
