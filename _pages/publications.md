@@ -7,6 +7,8 @@ author_profile: true
 
 Under construction ...
 
+[Tools](../tools) &nbsp; [Schools](/schools) &nbsp; [Conferences](/conferences)
+
 **2022**
 
 - [Vers une traduction de K en Dedukti](https://hal.archives-ouvertes.fr/hal-03604962) (Towards a translation of K in Dedukti), Amélie Ledein, Valentin Blot, Catherine Dubois, [JFLA'22](http://jfla.inria.fr/jfla2022.html)
