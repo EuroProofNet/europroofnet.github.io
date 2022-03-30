@@ -60,3 +60,5 @@ criteria in order: importance wrt the research coordination
 objectives; inclusive target countries; age; gender; team with low
 resources; balance over the action life time between people, teams,
 countries and working groups.
+
+**Organizers:** [Gilles Dowek](http://lsv.fr/~dowek/), [Jesper Cockx](https://jesper.sikanda.be/), [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/)
