@@ -20,7 +20,7 @@ Provisional program (to be confirmed):
 
 - 15:30-15:45 break
 
-- 15:45-16:45 How to express a theory in Dedukti? [Gilles Dowek](http://www.lsv.fr/~dowek/) will present how simple theories, such as Predicate logic, Simple type theory, and the Calculus of constructions can be expressed in Dedukti, these expressions being the basis of the expression of more advances theories, such as the Calculus of costructions with universes and universe polymorphism, or cubical type theory can be expressed.
+- 15:45-16:45 How to express a theory in Dedukti? [Gilles Dowek](http://www.lsv.fr/~dowek/) will present how simple theories, such as Predicate logic, Simple type theory, and the Calculus of constructions can be expressed in Dedukti, these expressions being the basis of the expression of more advances theories, such as the Calculus of constructions with universes and universe polymorphism, or cubical type theory can be expressed.
 
 - 16:45-17:15 The case of cubical type theory, [Bruno Barras](http://www.lix.polytechnique.fr/~barras/)
 
@@ -35,7 +35,7 @@ Provisional program (to be confirmed):
 
 - 10:30-10:45 break
 
-- 10:45-11:45 How to handle systems using automated theorem provers? [Guillaume Burel](http://web4.ensiie.fr/~guillaume.burel/)
+- 10:45-11:45 How to handle systems using automated theorem provers? [Guillaume Burel](http://web4.ensiie.fr/~guillaume.burel/) will show how automated theorem provers (ATPs) can be used to obtain proofs for Dedukti. First, he will present how existing ATPs, namely [Zenon Modulo](https://github.com/Deducteam/zenon_modulo), [ArchSAT](https://github.com/Gbury/archsat) and [iProverModulo](https://github.com/gburel/iProverModulo), were instrumented to produce Dedukti proofs directly. Then, he will talk about systems that do not produce complete Dedukti proofs, but only traces describing coarse-grain steps like in the [TSTP format](http://www.tptp.org/TSTP/). Complete Dedukti proofs can be reconstructed from such traces, using a tool like [Ekstrakto](https://github.com/Deducteam/ekstrakto) and Dedukti-producing ATPs to fill out the missing details. 
 
 - 11:45-12:15 Predicate subtyping with proof irrelevance, [Gabriel Hondet](http://www.lsv.fr/~hondet/)
 
