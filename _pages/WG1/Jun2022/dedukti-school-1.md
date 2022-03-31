@@ -37,7 +37,11 @@ Provisional program (to be confirmed):
 
 - 10:45-11:45 How to handle systems using automated theorem provers? [Guillaume Burel](http://web4.ensiie.fr/~guillaume.burel/) will show how automated theorem provers (ATPs) can be used to obtain proofs for Dedukti. First, he will present how existing ATPs, namely [Zenon Modulo](https://github.com/Deducteam/zenon_modulo), [ArchSAT](https://github.com/Gbury/archsat) and [iProverModulo](https://github.com/gburel/iProverModulo), were instrumented to produce Dedukti proofs directly. Then, he will talk about systems that do not produce complete Dedukti proofs, but only traces describing coarse-grain steps like in the [TSTP format](http://www.tptp.org/TSTP/). Complete Dedukti proofs can be reconstructed from such traces, using a tool like [Ekstrakto](https://github.com/Deducteam/ekstrakto) and Dedukti-producing ATPs to fill out the missing details. 
 
-- 11:45-12:15 Predicate subtyping with proof irrelevance, [Gabriel Hondet](http://www.lsv.fr/~hondet/)
+- 11:45-12:15 Predicate subtyping with proof irrelevance, [Gabriel Hondet](http://www.lsv.fr/~hondet/) will present an approach to push further the automation
+provided by Lambdapi to generate Dedukti specifications. In particular,
+we will see how user-input terms can be completed by the framework so
+that they are well typed. We will then consider this method to implement
+implicit predicate subtyping à la PVS in the framework.
 
 - 13:30-14:30 Libraries, the case of Isabelle, [Michael Färber](http://cl-informatik.uibk.ac.at/users/mfaerber/)
 
