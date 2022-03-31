@@ -13,3 +13,7 @@ main:
     url: /contact/
   - title: "Schools"
     url: /schools/
+  - title: "Conferences"
+    url: /conferences/
+  - title: "Jobs"
+    url: /jobs/
