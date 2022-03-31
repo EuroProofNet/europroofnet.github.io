@@ -27,22 +27,22 @@ To contribute to the web site, please create a [pull request](https://github.com
 - Training vice coordinator: [Marija Mihova](https://finki.ukim.mk/en/staff/marija-mihova)
 - Gender-balance coordinator: [Anja Petković Komel](https://anjapetkovic.com/)
 
-- WG1 (interoperability) leader: [Jesper Cockx](https://jesper.sikanda.be/)
+- [WG1](/wg1) (interoperability) leader: [Jesper Cockx](https://jesper.sikanda.be/)
 - WG1 vice leader: [Catherine Dubois](http://web4.ensiie.fr/~catherine.dubois/)
 
-- WG2 (automated theorem provers) leader: [Pascal Fontaine](https://people.montefiore.uliege.be/pfontain/)
+- [WG2](/wg2) (automated theorem provers) leader: [Pascal Fontaine](https://people.montefiore.uliege.be/pfontain/)
 - WG2 vice leader: [Alexander Steen](https://www.alexandersteen.de/)
 
-- WG3 (program verification) leader: [Alicia Villanueva](http://personales.upv.es/alvilga1/)
+- [WG3](/wg3) (program verification) leader: [Alicia Villanueva](http://personales.upv.es/alvilga1/)
 - WG3 vice leader: [Rodica Condurache](https://profs.info.uaic.ro/~rodica.condurache/)
 
-- WG4 (libraries) leader: [Claudio Sacerdoti Coen](http://www.cs.unibo.it/~sacerdot/)
+- [WG4](/wg4) (libraries) leader: [Claudio Sacerdoti Coen](http://www.cs.unibo.it/~sacerdot/)
 - WG4 vice leader: [Gilles Dowek](http://www.lsv.fr/~dowek/)
 
-- WG5 (machine learning) leader: [Cezary Kaliszyk](http://cl-informatik.uibk.ac.at/cek/)
+- [WG5](/wg5) (machine learning) leader: [Cezary Kaliszyk](http://cl-informatik.uibk.ac.at/cek/)
 - WG5 vice leader: [Peter Koepke](http://www.hcm.uni-bonn.de/de/people/profile/peter-koepke/)
 
-- WG6 (type theory) leader: [Benedikt Ahrens](https://benediktahrens.gitlab.io/)
+- [WG6](/wg6) (type theory) leader: [Benedikt Ahrens](https://benediktahrens.gitlab.io/)
 - WG6 vice leader: [Roussanka Loukanova](https://staff.math.su.se/rloukanova/)
 
 **Management Committee/Country representatives**
@@ -50,7 +50,7 @@ To contribute to the web site, please create a [pull request](https://github.com
 - Austria: [Laura Kovács](http://lkovacs.com/) and [Cezary Kaliszyk](http://cl-informatik.uibk.ac.at/cek/)
 - Belgium: [Christophe Scholliers](https://users.ugent.be/~chscholl/) and [Pascal Fontaine](https://people.montefiore.uliege.be/pfontain/)
 - Bulgaria: [Roussanka Loukanova](https://staff.math.su.se/rloukanova/)
-- Croatia: [Zvonko Iljazović](https://www.pmf.unizg.hr/en/zvonko.iljazovic) <!--and [Sandro Skansi](https://www.hrstud.unizg.hr/staff/sandro.skansi)-->
+- Croatia: [Zvonko Iljazović](https://www.pmf.unizg.hr/en/zvonko.iljazovic) and [Sandro Skansi](https://www.hrstud.unizg.hr/staff/sandro.skansi)
 - Czech Republic: [Martin Suda](http://people.ciirc.cvut.cz/~sudamar2/) and [David Cerna](https://www.cs.cas.cz/staff/dcerna/)
 - Denmark: [Amin Timany](https://cs.au.dk/~timany/) and [Dmitriy Traytel](https://traytel.bitbucket.io/)
 - Estonia: [Niccolo Veltri](https://niccoloveltri.github.io/) and [Denis Firsov](http://firsov.ee/)

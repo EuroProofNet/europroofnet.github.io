@@ -16,15 +16,14 @@ It is a [COST](http://cost.eu) action started on November 2021
 gathering more than [230 researchers](https://www.cost.eu/actions/CA20111/#tabs+Name:Working%20Groups%20and%20Membership) from [30 different countries](../groups).
 EuroProofNet organizes [meetings and schools](../events), and provides
 [grants](../grants) to its members for short-term scientific missions
-in another lab or country.
+in another lab or country. [More...](../description) &nbsp; [Objectives](../objectives) &nbsp; [Deliverables](../deliverables)
+
 
 To join the action, simply
 [apply](https://e-services.cost.eu/action/CA20111/working-groups/apply)
 to the [working groups](../wg) you are interested in (it is free and open to anyone).
 
-[Description](../description) &nbsp; [Objectives](../objectives) &nbsp; [Deliverables](../deliverables)
-
-[Tools](../tools) &nbsp; [Schools](/schools) &nbsp; [Conferences](/conferences)
+<!--[Tools](../tools) &nbsp; [Schools](/schools) &nbsp; [Conferences](/conferences)-->
 
 [Work plan for January-October 2022](../work-plan-1)
 

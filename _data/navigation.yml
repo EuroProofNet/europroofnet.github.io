@@ -1,19 +1,21 @@
 main:
-  - title: "Groups"
-    url: /wg/
+  - title: "News"
+    url: /news/
   - title: "Events"
     url: /events/
   - title: "Grants"
     url: /grants/
   - title: "Publications"
     url: /publications/
-  - title: "News"
-    url: /news/
-  - title: "Contact"
-    url: /contact/
+  - title: "Tools"
+    url: /tools/
   - title: "Schools"
     url: /schools/
   - title: "Conferences"
     url: /conferences/
   - title: "Jobs"
     url: /jobs/
+  - title: "Groups"
+    url: /groups/
+  - title: "Contact"
+    url: /contact/

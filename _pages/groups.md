@@ -7,7 +7,7 @@ author_profile: true
 
 Page under construction.
 
-Groups marked with (EPN) have members participating to EPN.
+Groups marked with (EPN) have members participating to EuroProofNet.
 
 **Austria**
 
