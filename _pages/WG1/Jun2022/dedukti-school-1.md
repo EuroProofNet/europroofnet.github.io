@@ -53,7 +53,7 @@ implicit predicate subtyping à la PVS in the framework.
 
 **Registration:** on [TYPES 2022](https://types22.inria.fr/)
 
-**Funding application deadline: May 15.**
+**Funding application deadline: May 22.**
 EuroProofNet can fund the travel to Nantes and the accommodation for
 June 24-25 of about 40 participants with a daily allowance fixed at
 120 euros. If you want to attend the Dedukti school and be reimbursed,
