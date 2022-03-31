@@ -5,6 +5,8 @@ permalink: /news/
 author_profile: true
 ---
 
+30 March 2022: [What Can Formal Systems Do For Mathematics? A Discussion Through The Lens Of Proof Assistants: Some Recent Advances](https://www.researchgate.net/publication/359592051_What_Can_Formal_Systems_Do_For_Mathematics_A_Discussion_Through_The_Lens_Of_Proof_Assistants_Some_Recent_Advances), Angeliki Koutsoukou-Argyraki Q&A with Jeremy Avigad, Jasmin Blanchette, Frédéric Blanqui, Kevin Buzzard, Johan Commelin, Manuel Eberl, Timothy Gowers, Peter Koepke, Assia Mahboubi, Ursula Martin, Lawrence C. Paulson, Special Issue for the 60th Anniversary of the DVMLG (German Association for Mathematical Logic and for Basic Research in the Exact Sciences), Benedikt Löwe, Deniz Sarikaya (eds.), College Publications, 2022
+
 28 March 2022: [EuroProofNet: La Universitat Politècnica de València participa en una red internacional que busca alcanzar el software libre de errores](http://www.upv.es/noticias-upv/noticia-13516-europroofnet-es.html), UPV, Spain
 
 28 March 2022: [La Universidad Politècnica de València se suma a la búsqueda del 'software' perfecto](https://valenciaplaza.com/la-universidad-politecnica-de-valencia-se-suma-a-la-busqueda-del-software-perfecto), Valencia Plaza, Spain
