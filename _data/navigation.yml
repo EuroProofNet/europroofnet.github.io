@@ -11,10 +11,10 @@ main:
     url: /tools/
   - title: "Schools"
     url: /schools/
-  - title: "Conferences"
-    url: /conferences/
   - title: "Jobs"
     url: /jobs/
+  - title: "Conferences"
+    url: /conferences/
   - title: "Groups"
     url: /groups/
   - title: "Contact"
