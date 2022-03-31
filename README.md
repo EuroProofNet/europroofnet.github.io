@@ -7,4 +7,5 @@ The website uses the [Minimal Mistakes Jekyll theme](https://github.com/mmistake
 ```bash
 bundle update
 bundle install
+bundle exec jekyll serve
 ```
