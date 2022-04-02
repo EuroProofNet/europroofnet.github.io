@@ -14,6 +14,7 @@ computer-assisted reasoning can be extended to proofs that are represented in
 
 ### Activities
 
-* 4-9 September 2022: [AITP'22](http://aitp-conference.org/2022/) conference, Aussois (France)
+* 5-8 September 2022: WG meeting [*Machine Learning for Theorem Proving*](/wg5-aitp22) co-organized with 
+  [AITP'22](http://aitp-conference.org/2022/) conference, Aussois (France)
 
 * Second half of September 2022: school on [Naproche](https://naproche.github.io/) and controlled natural languages in proof assistants at Bonn (Germany).
