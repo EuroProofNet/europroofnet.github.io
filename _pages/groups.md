@@ -11,6 +11,8 @@ Groups marked with (EPN) have members participating to EuroProofNet.
 
 **Austria**
 
+- [Computational Logic Group](http://cl-informatik.uibk.ac.at/), [University of Innsbruck](https://www.uibk.ac.at/) (EPN)
+
 **Belgium**
 
 - [Department of Applied mathematics, computer science and statistics](https://www.ugent.be/we/twist/en), [Ghent University](https://www.ugent.be/en) (EPN)
