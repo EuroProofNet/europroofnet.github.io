@@ -32,7 +32,7 @@ The main points about STSMs are:
 
 **What documents to provide?**
 
-**/!\ Use the application form below instead of the one given on the e-cost system.**
+**/!\ Use [this application form here](/assets/documents/STSM-application-template.docx) instead of the one given on the e-cost system.**
 
 Proposals must be made through the [e-COST system](https://e-services.cost.eu/activity/grants/add?type=STSM) (you need to add a bank account on your profile first). The following documents must be uploaded:
 
