@@ -10,7 +10,7 @@ breadcrumbs: true
 ## February 10-11, 2022
 
 <!--![Poster showing the directions to the on-site event.](/_pages/WG3/Feb2022/WG3-meeting-way.jpg "WG3 meeting poster")-->
-[<img src="/_pages/WG3/Feb2022/WG3-meeting-way.jpg" width="400"/>](/_pages/WG3/Feb2022/WG3-meeting-way.jpg)
+[<img src="/_pages/WG3/Feb2022/WG3-meeting-way.jpg" width="300"/>](/_pages/WG3/Feb2022/WG3-meeting-way.jpg)
 
 ### Program
 
@@ -45,18 +45,10 @@ The event is scheduled as a two-day meeting. Times are CET.
   - Groups
 * Wrapping-up (15:00-16:00): Setting the agenda for the year 
 
-<img
-  src=\"./WG3-meeting-session4.jpg\"
-  alt=\"Picture showing the room where the meeting was held.\"
-  title=\"Session Day 1\"
-  style=\"display: inline-block; margin: 0 auto; width: 400px\">
-  <img
-  src="./WG3-meeting-session2.jpg"
-  alt="Picture showing the room where the meeting was held."
-  title="Session Day 2"
-  style="display: inline-block; margin: 0 auto; width: 400px">
-<img
-  src="./WG3-meeting-coffee.jpg"
-  alt="Picture showing some attendees during coffee break."
-  title="Coffee Break"
-  style="display: inline-block; margin: 0 auto; width: 400px">
+[<img src="/_pages/WG3/Feb2022/WG3-meeting-session4.jpg" width="400"/>](/_pages/WG3/Feb2022/WG3-meeting-session4.jpg)
+<br>
+[<img src="/_pages/WG3/Feb2022/WG3-meeting-session2.jpg" width="400"/>](/_pages/WG3/Feb2022/WG3-meeting-session2.jpg)
+
+[<img src="/_pages/WG3/Feb2022/WG3-meeting-coffee.jpg" width="400"/>](/_pages/WG3/Feb2022/WG3-meeting-coffee.jpg)
+
+
