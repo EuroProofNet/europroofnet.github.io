@@ -39,4 +39,4 @@ author_profile: true
   Visitor: Alexander Steen (University of Greifswald, DE)  
   Host: Pascal Fontaine (University of Liège, BE)  
   Grant: 1550 EUR  
-  Dates: 2022-03-14 to 2022-03-20
+  Dates: 2022-07-07 to 2022-07-13

@@ -10,22 +10,20 @@ layout: single
 ---
 
 EuroProofNet is the European research network on digital proofs.
-
 **EuroProofNet aims at boosting the interoperability and usability of
 proof systems**.
-
-EuroProofNet is a [COST](http://cost.eu) action started on November 2021
-gathering more than [220 researchers](https://www.cost.eu/actions/CA20111/#tabs+Name:Working%20Groups%20and%20Membership) from [30 different countries](../groups).
-
+It is a [COST](http://cost.eu) action started on November 2021
+gathering more than [230 researchers](https://www.cost.eu/actions/CA20111/#tabs+Name:Working%20Groups%20and%20Membership) from [30 different countries](../groups).
 EuroProofNet organizes [meetings and schools](../events), and provides
 [grants](../grants) to its members for short-term scientific missions
-in another lab or country.
+in another lab or country. [More...](../description) &nbsp; [Objectives](../objectives) &nbsp; [Deliverables](../deliverables)
+
 
 To join the action, simply
 [apply](https://e-services.cost.eu/action/CA20111/working-groups/apply)
 to the [working groups](../wg) you are interested in (it is free and open to anyone).
 
-[Description](../description) &nbsp; [Objectives](../objectives) &nbsp; [Deliverables](../deliverables) &nbsp; [Proof tools](../tools)
+<!--[Tools](../tools) &nbsp; [Schools](/schools) &nbsp; [Conferences](/conferences)-->
 
 [Work plan for January-October 2022](../work-plan-1)
 
@@ -35,7 +33,7 @@ to the [working groups](../wg) you are interested in (it is free and open to any
 
 - 20-21 May 2022: [WG6 meeting on syntax and semantics of type theories](/wg6-kickoff-stockholm), Stockholm, Sweden
 
-- 24-25 June 2022: [Women in EuroProofNet](/women-epn-2022) and [1st Dedukti school](/dedukti-school-2022)
+- 24-25 June 2022: [Women in EuroProofNet](/women-epn-2022) and [1st Dedukti school](/dedukti-school-2022), Nantes, France
 
 **Past events:**
 
