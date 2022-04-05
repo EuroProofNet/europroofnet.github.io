@@ -46,8 +46,12 @@ The event is scheduled as a two-day meeting. Times are CET.
 * Wrapping-up (15:00-16:00): Setting the agenda for the year 
 
 [<img src="/_pages/WG3/Feb2022/WG3-meeting-session4.jpg" width="400"/>](/_pages/WG3/Feb2022/WG3-meeting-session4.jpg)
+
 <br>
+
 [<img src="/_pages/WG3/Feb2022/WG3-meeting-session2.jpg" width="400"/>](/_pages/WG3/Feb2022/WG3-meeting-session2.jpg)
+
+<br>
 
 [<img src="/_pages/WG3/Feb2022/WG3-meeting-coffee.jpg" width="400"/>](/_pages/WG3/Feb2022/WG3-meeting-coffee.jpg)
 
