@@ -9,7 +9,7 @@ breadcrumbs: true
 
 ## February 10-11, 2022
 
-![Poster showing the directions to the on-site event.](./WG3-meeting-way.jpg "WG3 meeting poster")
+![Poster showing the directions to the on-site event.](/_pages/WG3/Feb2022/WG3-meeting-way.jpg "WG3 meeting poster")
 
 ### Program
 
