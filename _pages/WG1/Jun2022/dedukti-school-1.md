@@ -45,7 +45,7 @@ implicit predicate subtyping à la PVS in the framework.
 
 - 13:30-14:30 Libraries, the case of Isabelle, [Michael Färber](http://cl-informatik.uibk.ac.at/users/mfaerber/)
 
-- 14:30-15:30 Programming language semantics in Dedukti, [Catherine Dubois](http://web4.ensiie.fr/~dubois/) and [Amélie Ledein](http://www.lsv.fr/~ledein/)
+- 14:30-15:30 Programming language semantics in Dedukti, [Catherine Dubois](http://web4.ensiie.fr/~dubois/) and [Amélie Ledein](http://www.lsv.fr/~ledein/). Most systems that are translated into Dedukti are logical systems. This lecture will deviate a little from this type of systems and address the encoding in Dedukti of 1) some programming languages features like structural object subtyping, inheritance, method redefinition and late binding; 2) semantics definitions as they are provided by the K framework.
 
 - 15:30-15:45
 
