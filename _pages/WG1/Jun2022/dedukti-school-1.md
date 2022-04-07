@@ -12,7 +12,7 @@ Colocated with [TYPES 2022](https://types22.inria.fr/).
 
 The Dedukti school is preceded by the [Women in EPN workshop](../women-epn-2022) from 9:00 to 13:30.
 
-Provisional program (to be confirmed):
+Program:
 
 **June 24, 2022:**
 
