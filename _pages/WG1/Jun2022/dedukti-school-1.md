@@ -53,16 +53,16 @@ implicit predicate subtyping à la PVS in the framework.
 
 **Registration:** on [TYPES 2022](https://types22.inria.fr/)
 
-**Funding application deadline: May 22.**
-EuroProofNet can fund the travel to Nantes and the accommodation for
-June 24-25 of about 40 participants with a daily allowance fixed at
-120 euros. If you want to attend the Dedukti school and be reimbursed,
-you need to provide an estimation of your travel cost to
-**frederic.blanqui(a)inria.fr**. The action members who
-will be reimbursed will be chosen by taking into account the following
-criteria in order: importance wrt the research coordination
-objectives; inclusive target countries; age; gender; team with low
-resources; balance over the action life time between people, teams,
-countries and working groups.
+**Funding application deadline: May 22.**  EuroProofNet can fund the
+travel to Nantes and the accommodation for June 24-25 of about 40
+participants with a daily allowance fixed at 120 euros. If you want to
+attend the Dedukti school and the [Women in EPN
+workshop](../women-epn-2022) and be reimbursed, you need to provide an
+estimation of your travel cost to **frederic.blanqui(a)inria.fr**. The
+action members who will be reimbursed will be chosen by taking into
+account the following criteria in order: importance wrt the research
+coordination objectives; inclusive target countries; age; gender; team
+with low resources; balance over the action life time between people,
+teams, countries and working groups.
 
 **Organizers:** [Gilles Dowek](http://lsv.fr/~dowek/), [Jesper Cockx](https://jesper.sikanda.be/), [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/)
