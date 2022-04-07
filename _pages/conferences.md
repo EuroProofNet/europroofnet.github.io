@@ -5,6 +5,8 @@ permalink: /conferences/
 author_profile: true
 ---
 
+- 26-29 September 2022: [Logic and Applications](http://imft.ftn.uns.ac.rs/math/cms/LAP2022) (LAP'22), Dubrovnik, Croatia
+
 - 19-23 September 2022: [15th Conference on Intelligent Computer Mathematics](https://cicm-conference.org/2022/cicm.php) (CICM'22), Tbilisi, Georgia
 
 - 19-30 September 2022: [Computational Logic Autumn Summit](https://viam.science.tsu.ge/clas2022/) (CLAS'22), Tbilisi, Georgia
