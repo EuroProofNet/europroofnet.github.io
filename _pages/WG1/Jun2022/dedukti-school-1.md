@@ -58,7 +58,7 @@ EuroProofNet can fund the travel to Nantes and the accommodation for
 June 24-25 of about 40 participants with a daily allowance fixed at
 120 euros. If you want to attend the Dedukti school and be reimbursed,
 you need to provide an estimation of your travel cost to
-frederic.blanqui at inria.fr. The action members who
+**frederic.blanqui(a)inria.fr**. The action members who
 will be reimbursed will be chosen by taking into account the following
 criteria in order: importance wrt the research coordination
 objectives; inclusive target countries; age; gender; team with low
