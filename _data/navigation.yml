@@ -17,5 +17,7 @@ main:
     url: /conferences/
   - title: "Groups"
     url: /groups/
+  - title: "Projects"
+    url: /projects/
   - title: "Contact"
     url: /contact/
