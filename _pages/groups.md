@@ -26,9 +26,19 @@ Groups marked with (EPN) have members participating to EuroProofNet.
 
 **Czech Republic**
 
+- [Automated Reasoning Group](http://arg.ciirc.cvut.cz), CIIRC, CTU, Prague (EPN)
+- [Department of Computational Mathematics](https://www.cs.cas.cz/computational-mathematics/en), Czech Academy of Sciences (EPN)
+
 **Denmark**
 
+- [Artificial Intelligence, Cybersecurity, and Programming Languages section](https://acp.sdu.dk), University of Southern Denmark (EPN)
+- [Logic and Semantics group](https://logsem.github.io), Aarhus University (EPN)
+- [Programming, Logic, and Semantics group](https://pls.itu.dk), IT University of Copenhagen (EPN)
+- [Software, Date, People & Society section](https://di.ku.dk/english/research/sdps/), University of Copenhagen (EPN)
+
 **Estonia**
+
+- [Logic and Semantics group](https://cs.ioc.ee/lsg/), Tallinn University of Technology (EPN)
 
 **Finland**
 
@@ -97,6 +107,8 @@ Groups marked with (EPN) have members participating to EuroProofNet.
 
 **Slovenia**
 
+- [TyDiForm](https://tydiform.fmf.uni-lj.si), University of Ljubljana (EPN)
+
 **Spain**
 
 - [Extensions of Logic Programming](http://elp.webs.upv.es/)
@@ -120,3 +132,16 @@ Groups marked with (EPN) have members participating to EuroProofNet.
 **Turkey**
 
 **United Kingdom**
+
+- [Algorithms, Verification and Software Research Group](https://www.dcs.bbk.ac.uk/research/research-groups/algorithms-verification-and-software/), Birkbeck University of London (EPN)
+- [Centre for Intelligent Systems](https://www.royalholloway.ac.uk/research-and-teaching/departments-and-schools/computer-science/research/our-research-centres/cis/), Royal Holloway University of London (EPN)
+- [Department of Computer Science](https://www.swansea.ac.uk/compsci/), Swansea University (EPN)
+- [Dependable Systems Group](http://www.macs.hw.ac.uk/~dsg/wp/), Heriot-Watt University (EPN)
+- [Formal Analysis, Theory & Algorithms](https://www.gla.ac.uk/schools/computing/research/researchsections/fata-section/), University of Glasgow (EPN)
+- [Functional Programming Lab](https://www.nottingham.ac.uk/research/groups/fp-lab/), University of Nottingham (EPN)
+- [Laboratory for Foundations of Computer Science](https://www.inf.ed.ac.uk/research/lfcs/), University of Edinburgh (EPN)
+- [Logic Group](https://eps.leeds.ac.uk/maths-pure-mathematics/doc/logic), University of Leeds (EPN)
+- [Mathematically Structured Programming Group](http://msp.cis.strath.ac.uk/), University of Strathclyde (EPN)
+- [Programming, Logic, and Semantics Group](https://www.cl.cam.ac.uk/research/pls/index.html), University of Cambridge (EPN)
+- [Software Systems group](https://www.kcl.ac.uk/research/ssy), King's College London (EPN)
+- [Theory of Computation](https://www.birmingham.ac.uk/research/activity/computer-science/theory-of-computation/index.aspx), University of Birmingham (EPN)
