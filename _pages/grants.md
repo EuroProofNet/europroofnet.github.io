@@ -7,7 +7,7 @@ author_profile: true
 
 [Accepted STSMs](../accepted_stsms)
 
-The next deadline for STSM proposals for the period **Feb-Oct 2022** are:
+The next deadline for STSM proposals for the period **Feb-Oct 2022** is:
 
 - **1st July 2022** (notification 15 July)
 
