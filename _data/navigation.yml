@@ -1,8 +1,6 @@
 main:
   - title: "News"
     url: /news/
-  - title: "Working Groups"
-    url: /wg/
   - title: "Events"
     url: /events/
   - title: "Grants"
@@ -17,7 +15,9 @@ main:
     url: /jobs/
   - title: "Conferences"
     url: /conferences/
-  - title: "Groups"
+  - title: "Working Groups"
+    url: /wg/
+  - title: "Participating Research Groups"
     url: /groups/
   - title: "Projects"
     url: /projects/
