@@ -19,31 +19,43 @@ To contribute to the web site, please create a [pull request](https://github.com
 - Chair: [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/)
 - Vice chair: [Sandra Alves](https://www.dcc.fc.up.pt/~sandra/)
 
-- Science communication coordinator: [Ornela Dardha](http://www.dcs.gla.ac.uk/~ornela/)
-- Science communication vice coordinator: [Dmitriy Traytel](https://traytel.bitbucket.io/)
-- Grant awarding coordinator: [Danijela Simić](http://poincare.matf.bg.ac.rs/~danijela/)
-- Grant awarding vice coordinator: [Ambrus Kaposi](https://akaposi.github.io/)
-- Training coordinator: [Luigia Petre](http://users.abo.fi/lpetre/)
-- Training vice coordinator: [Marija Mihova](https://finki.ukim.mk/en/staff/marija-mihova)
+- Science communication
+  * coordinator: [Ornela Dardha](http://www.dcs.gla.ac.uk/~ornela/)
+  * vice coordinator: [Dmitriy Traytel](https://traytel.bitbucket.io/)
+
+- Grant awarding
+  * coordinator: [Danijela Simić](http://poincare.matf.bg.ac.rs/~danijela/)
+  * vice coordinator: [Ambrus Kaposi](https://akaposi.github.io/)
+
+- Training
+  * coordinator: [Luigia Petre](http://users.abo.fi/lpetre/)
+  * vice coordinator: [Marija Mihova](https://finki.ukim.mk/en/staff/marija-mihova)
+
 - Gender-balance coordinator: [Anja Petković Komel](https://anjapetkovic.com/)
 
-- [WG1](/wg1) (interoperability) leader: [Jesper Cockx](https://jesper.sikanda.be/)
-- WG1 vice leader: [Catherine Dubois](http://web4.ensiie.fr/~catherine.dubois/)
+- [WG1 on interoperability](/wg1)
+  * leader: [Jesper Cockx](https://jesper.sikanda.be/)
+  * vice leader: [Catherine Dubois](http://web4.ensiie.fr/~catherine.dubois/)
 
-- [WG2](/wg2) (automated theorem provers) leader: [Pascal Fontaine](https://people.montefiore.uliege.be/pfontain/)
-- WG2 vice leader: [Alexander Steen](https://www.alexandersteen.de/)
+- [WG2 on automated theorem provers](/wg2)
+  * leader: [Pascal Fontaine](https://people.montefiore.uliege.be/pfontain/)
+  * vice leader: [Alexander Steen](https://www.alexandersteen.de/)
 
-- [WG3](/wg3) (program verification) leader: [Alicia Villanueva](http://personales.upv.es/alvilga1/)
-- WG3 vice leader: [Rodica Condurache](https://profs.info.uaic.ro/~rodica.condurache/)
+- [WG3 on program verification](/wg3)
+  * leader: [Alicia Villanueva](http://personales.upv.es/alvilga1/)
+  * vice leader: [Rodica Condurache](https://profs.info.uaic.ro/~rodica.condurache/)
 
-- [WG4](/wg4) (libraries) leader: [Claudio Sacerdoti Coen](http://www.cs.unibo.it/~sacerdot/)
-- WG4 vice leader: [Gilles Dowek](http://www.lsv.fr/~dowek/)
+- [WG4 on libraries](/wg4)
+  * leader: [Claudio Sacerdoti Coen](http://www.cs.unibo.it/~sacerdot/)
+  * vice leader: [Gilles Dowek](http://www.lsv.fr/~dowek/)
 
-- [WG5](/wg5) (machine learning) leader: [Cezary Kaliszyk](http://cl-informatik.uibk.ac.at/cek/)
-- WG5 vice leader: [Peter Koepke](http://www.hcm.uni-bonn.de/de/people/profile/peter-koepke/)
+- [WG5 on machine learning](/wg5)
+  * leader: [Cezary Kaliszyk](http://cl-informatik.uibk.ac.at/cek/)
+  * vice leader: [Peter Koepke](http://www.hcm.uni-bonn.de/de/people/profile/peter-koepke/)
 
-- [WG6](/wg6) (type theory) leader: [Benedikt Ahrens](https://benediktahrens.gitlab.io/)
-- WG6 vice leader: [Roussanka Loukanova](https://staff.math.su.se/rloukanova/)
+- [WG6 on type theory](/wg6)
+  * leader: [Benedikt Ahrens](https://benediktahrens.gitlab.io/)
+  * vice leader: [Roussanka Loukanova](https://staff.math.su.se/rloukanova/)
 
 **Management Committee/Country representatives**
 
