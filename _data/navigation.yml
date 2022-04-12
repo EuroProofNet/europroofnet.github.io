@@ -1,6 +1,8 @@
 main:
   - title: "News"
     url: /news/
+  - title: "Working Groups"
+    url: /wg/
   - title: "Events"
     url: /events/
   - title: "Grants"
