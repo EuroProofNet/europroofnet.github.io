@@ -7,11 +7,9 @@ author_profile: true
 
 [Accepted STSMs](../accepted_stsms)
 
-The next deadlines for STSM proposals for the period **Feb-Oct 2022** are:
+The next deadline for STSM proposals for the period **Feb-Oct 2022** are:
 
-- **3 April 2022** (notification on 15 April): We are especially looking for applications from women and working groups other than WG3
-
-- (provisional) 1st June or July 2022 (notification 15 June or July)
+- **1st July 2022** (notification 15 July)
 
 **What is an STSM?**
 
@@ -76,3 +74,4 @@ For any question, please contact the coordinators for STSMs [Danijela Simic](htt
 **Past deadlines**
 
 - ~~16~~ 18 January 2022 (notification 26 January)
+- 3 April 2022 (notification on 15 April): we were especially looking for applications from women and working groups other than WG3
