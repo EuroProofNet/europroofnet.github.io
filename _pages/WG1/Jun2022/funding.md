@@ -14,6 +14,8 @@ fixed at 120 euros.
 
 If you want to be funded, you need to:
 
+- Register on the [TYPES 2022 website](https://types22.inria.fr/).
+
 - [Register](https://e-services.cost.eu/action/CA20111/working-groups/apply) to EuroProofNet if not already done.
 
 - **Before May 22**, send a mail to frederic.blanqui(a)inria.fr with
