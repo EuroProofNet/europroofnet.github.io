@@ -9,7 +9,7 @@ author_profile: true
 
 The next deadline for STSM proposals for the period **Feb-Oct 2022** is:
 
-- **1st July 2022** (notification 15 July)
+- **1st July 2022** (notification 8 July): we are especially looking for applications from WG4 on the construction, management and (re)use of big libraries of formal proofs
 
 **What is an STSM?**
 
@@ -30,17 +30,17 @@ The main points about STSMs are:
 
 **What documents to provide?**
 
-**/!\ Use [this application form here](/assets/documents/STSM-application-template.docx) instead of the one given on the e-cost system.**
-
 Proposals must be made through the [e-COST system](https://e-services.cost.eu/activity/grants/add?type=STSM) (you need to add a bank account on your profile first). The following documents must be uploaded:
 
-- The [application form](/assets/documents/STSM-application-template.docx) with the following data:
-  - Details of the STSM: title, dates and justification of the grant request (details of the travel cost, accommodation cost and living cost)
+- The application form provided by e-COST which requires:
+  - Details of the STSM (title and dates)
   - Goals of the STSM (max 200 words)
   - Working plan (max 500 words)
-  - [Working group(s)](../wg) it contributes to and expected outputs and contribution to the action [objectives and deliverables](../description) (max 500 words)
+  - Expected outputs and contribution to the Action MoU [objectives and deliverables](../description) (max 500 words) [clearly indicate the main WG it contributes to]
 - A letter from the host confirming that he or she will receive the applicant.
-- Documents justifying the grant request (quotes for travel and accommodation).
+- A quote for the travel.
+- A quote for the accommodation.
+- A short document justifying the requested total amount.
 
 **Selection criteria:**
 
@@ -73,5 +73,5 @@ For any question, please contact the coordinators for STSMs [Danijela Simic](htt
 
 **Past deadlines**
 
-- ~~16~~ 18 January 2022 (notification 26 January)
 - 3 April 2022 (notification on 15 April): we were especially looking for applications from women and working groups other than WG3
+- ~~16~~ 18 January 2022 (notification 26 January)
