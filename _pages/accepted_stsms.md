@@ -5,7 +5,7 @@ permalink: /accepted_stsms/
 author_profile: true
 ---
 
-### 2nd call (3 April 2022)
+## 2nd call (3 April 2022)
 
 * **Using "behavioural types" for automatic validation of distributed systems**  
   Visitor: Paola Giannini (Università del Piemonte Orientale, Alessandria, IT)  
@@ -43,7 +43,7 @@ author_profile: true
   Grant: 1200 EUR  
   Dates: 2022-05-22 to 2022-05-29
 
-### 1st call (18 January 2022)
+## 1st call (18 January 2022)
 
 * **Infrastructure for Automated Theorem Provers Inventory**  
   Visitor: Alexander Steen (University of Greifswald, DE)  
