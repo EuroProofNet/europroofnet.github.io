@@ -98,9 +98,9 @@ STSM coordinators as soon as possible.
 
 **More questions?**
 
-For any question, please contact the coordinators for STSMs [Danijela Simic](http://poincare.matf.bg.ac.rs/~danijela) (University of Belgrade, Serbia) **AND** [Ambrus Kaposi](http://akaposi.web.elte.hu) (Eötvös Loránd University, Hungary).
+For any question, please contact the coordinators for STSMs [Danijela Simic](http://poincare.matf.bg.ac.rs/~danijela) (University of Belgrade, Serbia) **AND** [Ambrus Kaposi](http://akaposi.web.elte.hu) (Eötvös Loránd University, Hungary). Please, contact them both in case one is not available.
 
 **Past deadlines**
 
 - 3 April 2022 (notification on 15 April): we were especially looking for applications from women and working groups other than WG3
-- ~~16~~ 18 January 2022 (notification 26 January)
+- 18 January 2022 (notification 26 January)
