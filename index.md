@@ -29,11 +29,11 @@ to the [working groups](../wg) you are interested in (it is free and open to any
 
 **Coming events:**
 
-- 3 April 2022: deadline for [STSM proposals](../grants)
-
 - 20-21 May 2022: [WG6 meeting on syntax and semantics of type theories](/wg6-kickoff-stockholm), Stockholm, Sweden
 
 - 24-25 June 2022: [Women in EuroProofNet](/women-epn-2022) and [1st Dedukti school](/dedukti-school-2022), Nantes, France
+
+- 1 July 2022: deadline for [STSM proposals](../grants)
 
 **Past events:**
 
