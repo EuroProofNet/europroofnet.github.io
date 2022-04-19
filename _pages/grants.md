@@ -42,6 +42,14 @@ Proposals must be made through the [e-COST system](https://e-services.cost.eu/ac
 - A quote for the accommodation.
 - A short document justifying the requested total amount.
 
+Be careful to check flight/train tickets and accommodations that you
+can modify or cancel for free or at little cost (possibly by taking
+some insurance) because EuroProofNet provides you with the requested
+grant and nothing more. After acceptance, you are responsible to buy
+your flight/train tickets and accommodations by youself. Every expense
+above the requested ammount will be at your charge as EuroProofNet
+provides you with the requested amount only.
+
 **Selection criteria:**
 
 The criteria according to which funding will be decided are in order:
@@ -52,22 +60,17 @@ The criteria according to which funding will be decided are in order:
 - team with low resources
 - balance over the action life time between people, teams, countries and working groups.
 
-**Changing the dates of an STSM, or cancelling an STSM?**
-
-In case you need to change the dates of an accepted STSM, you need to
-inform the STSM coordinators as soon as possible and provide new dates
-so that the STSM ends before the end of October.
-
-In case you need to cancel an accepted STSM, you need to inform the
-STSM coordinators as soon as possible.
-
 **Preparing your mission**
 
-Once your STSM proposal has been accepted, you receive a letter saying
-that you will receive the requested amount to cover your travel and
-accommodation. You are then responsible to buy the necessary
-flight/train tickets and accommodation by yourself, at your name and
-address.
+If your STSM proposal is accepted, you receive a mail saying that you
+will be granted the requested amount after your mission once you will
+have uploaded your report on the e-cost web site. Meanwhile, you are
+responsible to buy the necessary flight/train tickets and
+accommodation by yourself, at your own name and address. Be careful to
+take flight/train tickets and accommodations that you can modify or
+cancel for free or at little cost (possibly by taking some insurance)
+because EuroProofNet provides you with the requested grant and nothing
+more.
 
 **Advance on mission costs**
 
@@ -83,6 +86,15 @@ after your mission.
 To receive the grant, a short scientific report must be submitted
 through the e-cost system along with the host’s approval of the
 report, **within 15 days after the end of the STSM.**
+
+**Changing the dates of an STSM, or cancelling an STSM?**
+
+In case you need to change the dates of an accepted STSM, you need to
+inform the STSM coordinators as soon as possible and provide new dates
+so that the STSM ends before the end of October.
+
+In case you need to cancel an accepted STSM, you need to inform the
+STSM coordinators as soon as possible.
 
 **More questions?**
 
