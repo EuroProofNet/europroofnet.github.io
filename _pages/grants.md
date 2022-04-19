@@ -52,12 +52,6 @@ The criteria according to which funding will be decided are in order:
 - team with low resources
 - balance over the action life time between people, teams, countries and working groups.
 
-**Grant reception:**
-
-To receive the grant, a short scientific report must be submitted
-through the e-cost system along with the Host’s approval of the
-report, **within 15 days after the end of the STSM.**
-
 **Changing the dates of an STSM, or cancelling an STSM?**
 
 In case you need to change the dates of an accepted STSM, you need to
@@ -67,9 +61,32 @@ so that the STSM ends before the end of October.
 In case you need to cancel an accepted STSM, you need to inform the
 STSM coordinators as soon as possible.
 
+**Preparing your mission**
+
+Once your STSM proposal has been accepted, you receive a letter saying
+that you will receive the requested amount to cover your travel and
+accommodation. You are then responsible to buy the necessary
+flight/train tickets and accommodation by yourself, at your name and
+address.
+
+**Advance on mission costs**
+
+This facility is not available at the moment.
+
+**During your mission**
+
+Please keep your travel and accommodation bills. We may request them
+after your mission.
+
+**Grant reception:**
+
+To receive the grant, a short scientific report must be submitted
+through the e-cost system along with the host’s approval of the
+report, **within 15 days after the end of the STSM.**
+
 **More questions?**
 
-For any question, please contact the coordinators for STSMs [Danijela Simic](http://poincare.matf.bg.ac.rs/~danijela) (University of Belgrade, Serbia) and [Ambrus Kaposi](http://akaposi.web.elte.hu) (Eötvös Loránd University, Hungary).
+For any question, please contact the coordinators for STSMs [Danijela Simic](http://poincare.matf.bg.ac.rs/~danijela) (University of Belgrade, Serbia) **AND** [Ambrus Kaposi](http://akaposi.web.elte.hu) (Eötvös Loránd University, Hungary).
 
 **Past deadlines**
 
