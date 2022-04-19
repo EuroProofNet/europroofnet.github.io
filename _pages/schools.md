@@ -10,7 +10,7 @@ author_profile: true
 
 - 19-24 September 2022: [13th International School on Rewriting](https://viam.science.tsu.ge/clas2022/isr/), Tbilisi, Georgia
 
-- 1 and 5 August 2022: [FLoC 2022 Mentoring Workshop](https://www.floc2022.org/flocmentoringworkshop)
+- 1 and 5 August 2022: [FLoC 2022 Mentoring Workshop](https://www.floc2022.org/flocmentoringworkshop), Haifa, Israel
 
 - 17-23 July 2022: [School on Univalent Mathematics 2022](https://unimath.github.io/cortona2022/), Cortona, Italy
 
