@@ -50,7 +50,7 @@ your flight/train tickets and accommodations by youself. Every expense
 above the requested ammount will be at your charge as EuroProofNet
 provides you with the requested amount only.
 
-**Selection criteria:**
+**Selection criteria**
 
 The criteria according to which funding will be decided are in order:
 - importance with regard to the research coordination objectives
@@ -81,7 +81,7 @@ This facility is not available at the moment.
 Please keep your travel and accommodation bills. We may request them
 after your mission.
 
-**Grant reception:**
+**Grant reception**
 
 To receive the grant, a short scientific report must be submitted
 through the e-cost system along with the host’s approval of the
