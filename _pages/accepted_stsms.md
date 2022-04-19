@@ -5,10 +5,10 @@ permalink: /accepted_stsms/
 author_profile: true
 ---
 
-* **Using "behavioural types" for automatic validation of distributed systems**
-  Visitor: Paola Giannini (Università del Piemonte Orientale, Alessandria, IT)
-  Host: Laura M. Castro (Universidade da Coruña, ES)
-  Grant: 1800 EUR
+* **Using "behavioural types" for automatic validation of distributed systems**  
+  Visitor: Paola Giannini (Università del Piemonte Orientale, Alessandria, IT)  
+  Host: Laura M. Castro (Universidade da Coruña, ES)  
+  Grant: 1800 EUR  
   Dates: 2022-09-19 to 2022-09-30
 
 * **Sabanci Coq Workshop and Research Visit**  
@@ -17,16 +17,16 @@ author_profile: true
   Grant: 1400 EUR  
   Dates: 2022-09-01 to 2022-09-10
 
-* **Formalisation of Meaning Explanations in Agda**
-  Visitor: Anton Setzer (Swansea University, GB)
-  Host: Peter Dybjer (Chalmers University of Technology, Gothenburg, SE)
-  Grant: 1520 EUR
+* **Formalisation of Meaning Explanations in Agda**  
+  Visitor: Anton Setzer (Swansea University, GB)  
+  Host: Peter Dybjer (Chalmers University of Technology, Gothenburg, SE)  
+  Grant: 1520 EUR  
   Dates: 2022-08-23 to 2022-09-06
 
-* **Towards Reliable Distributed Graph Databases: Automated Verification of a Conflict-Free Replicated Property Graph Data Structure**
-  Visitor: Stefania Dumbrava (ENSIIE, Evry, FR)
-  Host: Mario Pereira (NOVA Universidade Lisboa, PT)
-  Grant: 1300 EUR
+* **Towards Reliable Distributed Graph Databases: Automated Verification of a Conflict-Free Replicated Property Graph Data Structure**  
+  Visitor: Stefania Dumbrava (ENSIIE, Evry, FR)  
+  Host: Mario Pereira (NOVA Universidade Lisboa, PT)  
+  Grant: 1300 EUR  
   Dates: 2022-07-12 to 2022-07-21
 
 * **Infrastructure for Automated Theorem Provers Inventory**  
@@ -35,16 +35,16 @@ author_profile: true
   Grant: 1550 EUR  
   Dates: 2022-07-07 to 2022-07-13
 
-* **Rechecking KProver proof objects into Dedukti**
-  Visitor: Amelie Ledein (Inria Saclay, Palaiseau, FR)
-  Hosts: Traian Serbanuta and Dorel Lucanu (University of Bucharest, RO)
-  Grant: 1520 EUR
+* **Rechecking KProver proof objects into Dedukti**  
+  Visitor: Amelie Ledein (Inria Saclay, Palaiseau, FR)  
+  Hosts: Traian Serbanuta and Dorel Lucanu (University of Bucharest, RO)  
+  Grant: 1520 EUR  
   Dates: 2022-07-04 to 2022-07-17
 
-* **Quantitative Types for Programming Languages with Global State**
-  Visitor: Delia Kesner (Universite de Paris, FR)
-  Host: Sandra Alves (Universidade do Porto, PT)
-  Grant: 960 EUR
+* **Quantitative Types for Programming Languages with Global State**  
+  Visitor: Delia Kesner (Universite de Paris, FR)  
+  Host: Sandra Alves (Universidade do Porto, PT)  
+  Grant: 960 EUR  
   Dates: 2022-07-03 to 2022-07-08
 
 * **Algebraic Session Types**  
@@ -53,10 +53,10 @@ author_profile: true
   Grant: 1200 EUR  
   Dates: 2022-05-30 to 2022-06-06
 
-* **Mechanized Type Inference in the Linear π-Calculus**
-  Visitor: Luca Ciccone (Università di Torino, IT)
-  Host: Ornela Dardha (University of Glasgow, GB)
-  Grant: 1200 EUR
+* **Mechanized Type Inference in the Linear π-Calculus**  
+  Visitor: Luca Ciccone (Università di Torino, IT)  
+  Host: Ornela Dardha (University of Glasgow, GB)  
+  Grant: 1200 EUR  
   Dates: 2022-05-22 to 2022-05-29
 
 * **Compiling dependent pattern matching to elimination principles in Dedukti**  
