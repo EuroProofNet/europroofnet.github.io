@@ -44,7 +44,7 @@ we will see how user-input terms can be completed by the framework so
 that they are well typed. We will then consider this method to implement
 implicit predicate subtyping à la PVS in the framework.
 
-- 13:30-14:30 Libraries, the case of Isabelle, [Michael Färber](http://cl-informatik.uibk.ac.at/users/mfaerber/)
+- 13:30-14:30 How I Learned to Stop Trusting and Implement Dedukti Myself? [Michael Färber](http://cl-informatik.uibk.ac.at/users/mfaerber/) You should not need to trust the Dedukti developers in order to convince yourself that a Dedukti theory is correct. Michael Färber will give an overview of how Dedukti works internally and how to re-implement relevant parts of it yourself. In particular, he will touch upon parsing, terms, sharing, rewriting, and type checking. The goal of this talk is to empower anyone to write their own checker for Dedukti.
 
 - 14:30-15:30 Programming language semantics in Dedukti, [Catherine Dubois](http://web4.ensiie.fr/~dubois/) and [Amélie Ledein](http://www.lsv.fr/~ledein/). Most systems that are translated into Dedukti are logical systems. This lecture will deviate a little from this type of systems and address the encoding in Dedukti of 1) some programming languages features like structural object subtyping, inheritance, method redefinition and late binding; 2) semantics definitions as they are provided by the K framework.
 
