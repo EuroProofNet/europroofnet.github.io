@@ -7,6 +7,8 @@ author_profile: true
 
 - 22-27 April 2023: European Joint Conferences on Theory and Practice of Software (ETAPS'22), Paris, France
 
+- 6-10 March 2023: [25th International Symposium on Formal Methods](https://fm2023.isp.uni-luebeck.de/) (FM'23), Lübeck, Germany
+
 - 26-29 September 2022: [Logic and Applications](http://imft.ftn.uns.ac.rs/math/cms/LAP2022) (LAP'22), Dubrovnik, Croatia
 
 - 19-23 September 2022: [15th Conference on Intelligent Computer Mathematics](https://cicm-conference.org/2022/cicm.php) (CICM'22), Tbilisi, Georgia
