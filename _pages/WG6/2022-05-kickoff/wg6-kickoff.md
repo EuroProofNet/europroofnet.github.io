@@ -54,6 +54,6 @@ Registration is free, but required for planning purposes, by **Friday 13 May**: 
 
 <!-- We have a limited amount of funding available for travel and accommodation.  Priority will be given to speakers, participants from “Inclusiveness Target Countries”, early-career researchers, and women (following the EU COST inclusiveness policy, details [here](https://www.cost.eu/about/cost-strategy/excellence-and-inclusiveness/)).  Funding applications should be submitted with your registration, by **Monday 11 April**, and will be decided later that week. -->
 
-## Reimbursement for those that applied for funding
+## Reimbursement for those who applied for funding
 
 See the [reimbursement rules](../reimbursement-rules).
