@@ -40,3 +40,5 @@ into account the following criteria in order: importance wrt the
 research coordination objectives; inclusive target countries; age;
 gender; team with low resources; balance over the action life time
 between people, teams, countries and working groups.
+
+For more details, see the [reimbursement rules](../reimbursement-rules).
