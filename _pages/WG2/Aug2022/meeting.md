@@ -14,9 +14,9 @@ This meeting aims to
 * bring together members of the different communities working on proofs and automated theorem provers (in the broad sense, including SAT solvers, SMT solvers, First-Order and Higher-Order Provers, Computer Algebra Systems,...)
 * foster collaborations and build synergies among participants to ease the path to more fruitful results for the Action, and
 * pave the way for the WG2 deliverables:
- * D3 (April 2023) Inventory of automated theorem provers producing proofs, description of proof formats, and inventory of checking tools for these proof formats.
- * D4 (February 2025): Software for translating proof formats used by automated theorem provers to Dedukti.
- 
+    * D3 (April 2023) Inventory of automated theorem provers producing proofs, description of proof formats, and inventory of checking tools for these proof formats.
+    * D4 (February 2025): Software for translating proof formats used by automated theorem provers to Dedukti.
+
 If you want to contribute a talk, please contact the organizers (see below).
  
 ## Speakers
