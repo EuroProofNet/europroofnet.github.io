@@ -12,7 +12,7 @@ the event with the following conditions:
 
 - You have to book your flight/train and accommodation by yourself.
 
-- You must have firmed the attendance sheet during the meeting (only the days spent at the meeting are reimbursed).
+- You must sign the attendance sheet during the meeting (only the days spent at the meeting are reimbursed).
 
 - You must provide bills for your travels >100km and accommodation (at your name and address).
 
