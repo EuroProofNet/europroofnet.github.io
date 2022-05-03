@@ -32,7 +32,7 @@ receive an invitation from e-cost.
 
 You are free to arrive before June 24 (e.g. to attend TYPES) and leave
 after June 25 (e.g. to work with some colleagues), but EuroProofNet
-will only cover accomodation costs necessary to attend Women in EPN
+will only cover accommodation costs necessary to attend Women in EPN
 and the Dedukti school.
 
 The action members who will be reimbursed will be chosen by taking
