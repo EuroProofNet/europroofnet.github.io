@@ -7,7 +7,9 @@ breadcrumbs: true
 ---
 
 [<img src="/_pages/WG3/Feb2022/WG3-meeting-session4.jpg" width="400"/>](/_pages/WG3/Feb2022/WG3-meeting-session4.jpg)
+
 [<img src="/_pages/WG3/Feb2022/WG3-meeting-session2.jpg" width="400"/>](/_pages/WG3/Feb2022/WG3-meeting-session2.jpg)
+
 [<img src="/_pages/WG3/Feb2022/WG3-meeting-coffee.jpg" width="400"/>](/_pages/WG3/Feb2022/WG3-meeting-coffee.jpg)
 
 ## February 10-11, 2022

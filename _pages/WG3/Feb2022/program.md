@@ -70,7 +70,7 @@ Online:
 - Laura Kovacs
 - M. Gajda
 - René Thiemann
-...
+- ...
 
 ### Photos
 
