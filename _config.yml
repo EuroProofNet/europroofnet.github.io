@@ -132,3 +132,4 @@ defaults:
       type: wg6-kickoff
     values:
       istalk: true
+      exclude: false

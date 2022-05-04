@@ -4,9 +4,12 @@ layout: single
 permalink: /wg6-kickoff-stockholm/schedule.html
 ---
 
+{% assign schedule-items = site.wg6-kickoff | where:"exclude", false  %}
+{% assign talks = schedule-items | where:"istalk", true  %}
+
 ## Overview
 
-{% for item in site.wg6-kickoff %}
+{% for item in schedule-items %}
   {% capture day %}{{ item.date | date: '%Y%m%d' }}{% endcapture %}
   {% capture prevday %}{{ item.previous.date | date: '%Y%m%d' }}{% endcapture %}
   {% capture nextday %}{{ item.next.date | date: '%Y%m%d' }}{% endcapture %}
@@ -26,7 +29,7 @@ permalink: /wg6-kickoff-stockholm/schedule.html
 
   {% capture speakername %}{{ item.speakerfirst }} {{ item.speakermiddle }} {{ item.speakerlast }}{% endcapture %}
 
-<div class="talk">
+<div class="talk" id="{{ item.url }}">
   <div class="talktitle"><p>
     {{ timerange }}:
     {% if item.istalk %}
@@ -46,7 +49,7 @@ Details TBA.
 
 ### Abstracts
 
-{% for talk in site.wg6-kickoff %}  <!-- TODO: filter by istalk at this point -->
+{% for talk in talks %}
   {% capture day %}{{ talk.date | date: '%Y%m%d' }}{% endcapture %}
   {% capture prevday %}{{ talk.previous.date | date: '%Y%m%d' }}{% endcapture %}
   {% capture nextday %}{{ talk.next.date | date: '%Y%m%d' }}{% endcapture %}
