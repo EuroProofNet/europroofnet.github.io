@@ -100,6 +100,9 @@ collections:
   events:
     output: true
     permalink: /:collection/:path/
+  # talks & other schedule items within events:
+  wg6-kickoff:
+    output: false
 
 defaults:
   # _events
@@ -124,3 +127,8 @@ defaults:
     values:
       layout: single
       author_profile: true
+  # schedule items within events
+  - scope:
+      type: wg6-kickoff
+    values:
+      istalk: true
