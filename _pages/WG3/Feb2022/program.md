@@ -45,6 +45,35 @@ The event is scheduled as a two-day meeting. Times are CET.
   - Groups
 * Wrapping-up (15:00-16:00): Setting the agenda for the year 
 
+### 53 Participants:
+
+- Damian Aparicio Sanchez
+- Ana Borges
+- Juan José Conejero Rodriguez
+- Santiago Escobar
+- Mirela Gonzalez Bedmar
+- Joost Joosten
+- Raul Lopez Rueda
+- Salvador Lucas
+- Sergio Perez Rubio
+- Mehmet Tahir Sandikkaya
+- Alicia Villanueva
+- Julia Sapina
+- Victor Garcia
+- Maria Alpuente
+- Antonio Ravara
+
+Online:
+
+- Frédéric Blanqui
+- Rodica Condurache
+- Laura Kovacs
+- M. Gajda
+- René Thiemann
+...
+
+### Photos
+
 [<img src="/_pages/WG3/Feb2022/WG3-meeting-session4.jpg" width="400"/>](/_pages/WG3/Feb2022/WG3-meeting-session4.jpg)
 
 <br>

@@ -6,6 +6,10 @@ author_profile: true
 breadcrumbs: true
 ---
 
+[<img src="/_pages/WG3/Feb2022/WG3-meeting-session4.jpg" width="400"/>](/_pages/WG3/Feb2022/WG3-meeting-session4.jpg)
+[<img src="/_pages/WG3/Feb2022/WG3-meeting-session2.jpg" width="400"/>](/_pages/WG3/Feb2022/WG3-meeting-session2.jpg)
+[<img src="/_pages/WG3/Feb2022/WG3-meeting-coffee.jpg" width="400"/>](/_pages/WG3/Feb2022/WG3-meeting-coffee.jpg)
+
 ## February 10-11, 2022
 
 This is the first EuroProofNet WG3 meeting, taking place February 10-11, 2022. Due to the current pandemic situation, the meeting will take place at _Universitat Polit&egrave;cnica de Val&egrave;ncia_ (Spain) and also online.
@@ -17,7 +21,7 @@ This meeting aims to
 
 ## Output
 
-* Final [Report](./ReportWG3meeting.pdf) 
+* Final [Report](./ReportWG3meeting.pdf).
 * Some presentations and video recordings have been addded to the [program page](https://europroofnet.github.io/wg3-meeting1-program). Videos are stored on UPV ([terms of use](https://media.upv.es/#/termsofuse) of the video service).
 
 ## Organization
