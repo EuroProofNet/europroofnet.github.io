@@ -1,10 +1,9 @@
 ---
-speakerfirst: Testfirst
-speakerlast: Testlast
-date: 2022-05-20 07:00
-speakeraffiliation: University of City, Country
-title: Semantics of Computational Types for Syntax of Constructive Theories
-exclude: true
+speakerfirst: Andrej
+speakerlast: Bauer
+date: 2022-05-21 16:40
+endtime: 2022-05-21 17:40
+title: TBA
 ---
 
 TBA

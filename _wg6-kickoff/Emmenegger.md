@@ -1,10 +1,8 @@
 ---
-speakerfirst: Testfirst
-speakerlast: Testlast
-date: 2022-05-20 07:00
-speakeraffiliation: University of City, Country
-title: Semantics of Computational Types for Syntax of Constructive Theories
-exclude: true
+speakerfirst: Jacopo
+speakerlast: Emmenegger
+date: 2022-05-21 15:20
+title: B-systems and C-systems are equivalent
 ---
 
 TBA
