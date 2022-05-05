@@ -2,6 +2,7 @@
 speakerfirst: Jonas
 speakerlast: Frey
 date: 2022-05-21 15:00
+speakeraffiliation: Carnegie Mellon University
 title: Characterizing clan-algebraic categories
 ---
 
