@@ -29,6 +29,7 @@ permalink: /wg6-kickoff-stockholm/schedule.html
 
   {% capture speakername %}{{ item.speakerfirst }} {{ item.speakermiddle }} {{ item.speakerlast }}{% endcapture %}
 
+<!-- item.url {{ item.url }}; item.previous.url {{item.previous.url }} ; prevday {{ prevday }} -->
 <div class="talk" id="{{ item.url }}">
   <div class="talktitle"><p>
     {{ timerange }}:
