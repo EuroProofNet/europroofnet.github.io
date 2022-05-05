@@ -11,13 +11,16 @@ permalink: /wg6-kickoff-stockholm/programme.html
 
 ## Overview
 
+<ul>
 {% for item in schedule-items %}
   {% capture day %}{{ item.date | date: '%Y%m%d' }}{% endcapture %}
   {% capture prevday %}{{ item.previous.date | date: '%Y%m%d' }}{% endcapture %}
   {% capture nextday %}{{ item.next.date | date: '%Y%m%d' }}{% endcapture %}
 
   {% if day != prevday %}
+  </ul>
   <h4 class="date" id="{{ day }}">{{ item.date | date: "%A %e %B" }}</h4>
+  <ul>
   {% endif %}
 
   {% capture starttime %}{{ item.date | date: '%-H.%M' }}{% endcapture %}
@@ -31,20 +34,19 @@ permalink: /wg6-kickoff-stockholm/programme.html
 
   {% capture speakername %}{{ item.speakerfirst }} {{ item.speakermiddle }} {{ item.speakerlast }}{% endcapture %}
 
+
 <!-- item.url {{ item.url }}; item.previous.url {{item.previous.url }} ; prevday {{ prevday }} -->
-<div class="talk" id="{{ item.url }}">
-  <div class="talktitle"><p>
+<li><span class="talk" id="{{ item.url }}">
     {{ timerange }}:
     {% if item.istalk %}
       <strong>{{ speakername }}</strong>, <a href="#{{ speakername | slugify: "latin" }}-abstract"><em>{{ item.title }}</em></a>
     {% else %}
       <em>{{ item.description | markdownify | remove: '<p>' | remove: '</p>' }}</em>
     {% endif %}
-  </p></div>
+</span></li>
 
-</div>
 {% endfor %}
-
+</ul>
 
 ### Social activities
 

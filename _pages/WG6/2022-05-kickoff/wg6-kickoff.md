@@ -17,34 +17,17 @@ The programme will consist primarily of short talks, with plenty of time for dis
 
 ## Programme
 
-### Invited speakers
+[Full schedule and abstracts](programme)
 
-- Andrej Bauer: *TBA*
-- Anja Petković Komel: *TBA*
-- András Kovacs: *TBA*
-- Ivan Di Liberti: *TBA*
-- Jonathan Sterling: *Naïve logical relations in synthetic Tait computability*
-- Taichi Uemura: *TBA*
-- Théo Winterhalter: *TBA*
+Invited speakers:
 
-### Contributed talks
-
-- Steve Awodey: *Kripke-Joyal forcing for Martin-Löf type theory*
-- Henning Basold: *Towards Behavioural Types as Coalgebras*
-- Maximilian Doré: *Automating Kan composition*
-- Jacopo Emmenegger: *B-systems and C-systems are equivalent*
-- Jonas Frey: *Characterizing clan-algebraic categories*
-- Roussanka Loukanova: *Syntax-Semantics of Simply Typed Theory of Acyclic Algorithms*
-- Kenji Maillard: *The Multiverse: *Logical Modularity for Proof Assistants*
-- Iosif Petrakis: *Positive negation in constructive mathematics*
-- Sergei Soloviev: *Consequences of Computational Asymmetry in Verifier-Falsifier Games*
-- Raffael Stenzel: *Higher geometric sheaf theories*
-- Niels Van der Weide: *Semantics for two-dimensional type theory*
-- David Wärn: *Effective quotients in homotopy type theory*
-
-### Schedule
-
-[Full schedule and abstracts](/programme)
+- Andrej Bauer
+- Anja Petković Komel
+- András Kovacs
+- Ivan Di Liberti
+- Jonathan Sterling
+- Taichi Uemura
+- Théo Winterhalter
 
 ## Registration
 
