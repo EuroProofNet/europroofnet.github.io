@@ -1,8 +1,7 @@
 ---
 speakerfirst: Andrej
 speakerlast: Bauer
-date: 2022-05-21 16:40
-endtime: 2022-05-21 17:40
+date: 2022-05-20 13:40
 title: TBA
 ---
 
