@@ -2,6 +2,7 @@
 speakerfirst: David
 speakerlast: Wärn
 date: 2022-05-20 11:30
+speakeraffiliation: University of Gothenburg
 title: Effective quotients in homotopy type theory
 ---
 

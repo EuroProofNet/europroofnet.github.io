@@ -2,6 +2,7 @@
 speakerfirst: Jacopo
 speakerlast: Emmenegger
 date: 2022-05-21 15:20
+speakeraffilition: Università di Genova
 title: B-systems and C-systems are equivalent
 ---
 

@@ -2,6 +2,7 @@
 speakerfirst: Iosif
 speakerlast: Petrakis
 date: 2022-05-20 15:50
+speakeraffiliation: Ludwig-Maximilians-Universität München
 title: Positive negation in constructive mathematics
 ---
 

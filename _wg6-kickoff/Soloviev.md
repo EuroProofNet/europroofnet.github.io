@@ -2,6 +2,7 @@
 speakerfirst: Sergei
 speakerlast: Soloviev
 date: 2022-05-21 16:00
+speakeraffiliation: IRIT, University of Toulouse
 title: Consequences of Computational Asymmetry in Verifier-Falsifier Games
 ---
 

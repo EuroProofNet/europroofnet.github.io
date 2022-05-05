@@ -2,6 +2,7 @@
 speakerfirst: Théo
 speakerlast: Winterhalter
 date: 2022-05-21 11:20
+speakeraffiliation: Max Planck Institute for Security and Privacy (MPI-SP)
 title: "MetaCoq: Sound and complete type checking for Coq, in Coq"
 ---
 
