@@ -15,9 +15,9 @@ The programme will consist primarily of short talks, with plenty of time for dis
 
 - Organisers: [Anders Mörtberg](https://staff.math.su.se/anders.mortberg/), [Benedikt Ahrens](https://benediktahrens.gitlab.io), [Peter LeFanu Lumsdaine](http://peterlefanulumsdaine.com)
 
-## Speakers
+## Programme
 
-### Invited
+### Invited speakers
 
 - Andrej Bauer: *TBA*
 - Anja Petković Komel: *TBA*
@@ -27,7 +27,7 @@ The programme will consist primarily of short talks, with plenty of time for dis
 - Taichi Uemura: *TBA*
 - Théo Winterhalter: *TBA*
 
-### Contributed
+### Contributed talks
 
 - Steve Awodey: *Kripke-Joyal forcing for Martin-Löf type theory*
 - Henning Basold: *Towards Behavioural Types as Coalgebras*
@@ -42,9 +42,9 @@ The programme will consist primarily of short talks, with plenty of time for dis
 - Niels Van der Weide: *Semantics for two-dimensional type theory*
 - David Wärn: *Effective quotients in homotopy type theory*
 
-## Schedule
+### Schedule
 
-**TBA**
+[Full schedule and abstracts](/programme)
 
 ## Registration
 

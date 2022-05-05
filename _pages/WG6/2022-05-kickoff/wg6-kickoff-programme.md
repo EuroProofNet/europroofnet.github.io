@@ -1,8 +1,10 @@
 ---
-title: "WG6 kick-off meeting: Syntax and Semantics of Type Theories — Schedule"
+title: "WG6 kick-off meeting: Syntax and Semantics of Type Theories — Programme"
 layout: single
-permalink: /wg6-kickoff-stockholm/schedule.html
+permalink: /wg6-kickoff-stockholm/programme.html
 ---
+
+[Overview](#overview) — [Social activities](#social-activities) — [Abstracts](#abstracts) — [Meeting homepage](/wg6-kickoff-stockholm)
 
 {% assign schedule-items = site.wg6-kickoff | where:"exclude", false  %}
 {% assign talks = schedule-items | where:"istalk", true  %}
@@ -90,7 +92,7 @@ Details TBA.
 
 	{% if talk.slides != nil %}
 	<div class="slides">
-	  <p><strong><a href="slides/{{ talk.slides }}">Slides</a></strong></p>
+	  <p><strong><a href="/assets/documents/wg6-kickoff-slides/{{ talk.slides }}">Slides</a></strong></p>
     </div>
 	{% endif %}
   </div>
