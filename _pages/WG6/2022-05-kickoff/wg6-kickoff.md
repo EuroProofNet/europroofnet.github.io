@@ -7,7 +7,7 @@ permalink: /wg6-kickoff-stockholm/
 ## Overview
 
 - Dates: Fri 20–Sat 21 May 2022
-- Location: Stockholm University, Dept. of Mathematics ([website](https://www.su.se/matematiska-institutionen/), [map](https://w3w.co/classic.handbook.proven))
+- Location: Stockholm University, Dept. of Mathematics ([department website](https://www.su.se/matematiska-institutionen/), [map](https://w3w.co/wink.breathy.crystals))
 
 The workshop will bring together researchers on the topics of [working group 6](/wg6), to share recent results, and co-ordinate future research, including collaboration towards deliverables.
 

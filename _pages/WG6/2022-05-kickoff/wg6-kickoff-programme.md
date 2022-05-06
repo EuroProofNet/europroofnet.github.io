@@ -11,6 +11,10 @@ permalink: /wg6-kickoff-stockholm/programme.html
 
 ## Overview
 
+<p>
+All talks will take place in room 14, house 5, at Kräftriket ([map](https://w3w.co/wink.breathy.crystals)).
+</p>
+
 <ul>
 {% for item in schedule-items %}
   {% capture day %}{{ item.date | date: '%Y%m%d' }}{% endcapture %}
