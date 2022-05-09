@@ -82,7 +82,7 @@ Online:
 - Muharrem Tuncay Gencoglu (Firat University - Turkey)
 - Lilia Georgieva (Heriot-Watt University - UK)
 - Vaidas Giedrimas (Siauliai University - Lithuania)
-- Tobias Gleißner (Freie Universit ̈at Berlin - Germany)
+- Tobias Gleißner (Freie Universität Berlin - Germany)
 - Candelaria Hernandez-Goya (Universidad de La Laguna - Spain)
 - Kuen-Bang Hou-Favonia (University of Minnesota - USA)
 - Ekaterina Komendantskaya (Heriot-Watt University - UK)
