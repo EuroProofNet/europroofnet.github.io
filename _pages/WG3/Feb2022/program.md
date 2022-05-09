@@ -47,30 +47,62 @@ The event is scheduled as a two-day meeting. Times are CET.
 
 ### 53 Participants:
 
-- Damian Aparicio Sanchez
-- Ana Borges
-- Juan José Conejero Rodriguez
-- Santiago Escobar
-- Mirela Gonzalez Bedmar
-- Joost Joosten
-- Raul Lopez Rueda
-- Salvador Lucas
-- Sergio Perez Rubio
-- Mehmet Tahir Sandikkaya
-- Alicia Villanueva
-- Julia Sapina
+- Damian Aparicio Sanchez (UPV - Spain)
+- Ana Borges (Universitat de Barcelona - Spain)
+- Juan José Conejero Rodriguez (Runtime Verification Inc. - USA)
+- Santiago Escobar (UPV - Spain)
+- Mirela Gonzalez Bedmar (Formal Vindications S.L. - Spain)
+- Joost Joosten (Universitat de Barcelona - Spain)
+- Raul Lopez Rueda (UPV - Spain)
+- Salvador Lucas (UPV - Spain)
+- Sergio Pérez Rubio (UPV - Spain)
+- Mehmet Tahir Sandikkaya (Istanbul Technical University - Turkey)
+- Alicia Villanueva (UPV - Spain)
+- Julia Sapina (UPV - Spain)
 - Victor Garcia
-- Maria Alpuente
-- Antonio Ravara
+- Maria Alpuente (UPV - Spain)
+- Antonio Ravara (Universidade Nova de Lisboa - Portugal)
 
 Online:
 
-- Frédéric Blanqui
-- Rodica Condurache
-- Laura Kovacs
-- M. Gajda
-- René Thiemann
-- ...
+- Frédéric Blanqui (INRIA - France)
+- Michal Gajda (Migamake - Singapore)
+- René Thiemann (University of Innsbruck - Austria)
+- Gergely Buday (Institute of Technology - Hungary)
+- Laura Castro (University of A Coruna - Spain)
+- Rodica Condurache (“A.I.Cuza” University of Iasi - Romania)
+- Luıs Cruz-Filipe (University of Southern Denmark - Denmark)
+- Ugo de’Liguoro (Universita di Torino - Italy)
+- Madalina Erascu (West University of Timisoara - Romania)
+- Thiago Felicissimo (INRIA - France)
+- Maribel Fernandez (King’s College London - UK)
+- Pascal Fontaine (University of Liège - Belgium)
+- Carsten Fuhs (University of London - UK)
+- Emilio Jesus Gallego-Arias (INRIA - France)
+- Muharrem Tuncay Gencoglu (Firat University - Turkey)
+- Lilia Georgieva (Heriot-Watt University - UK)
+- Vaidas Giedrimas (Siauliai University - Lithuania)
+- Tobias Gleißner (Freie Universit ̈at Berlin - Germany)
+- Candelaria Hernandez-Goya (Universidad de La Laguna - Spain)
+- Kuen-Bang Hou-Favonia (University of Minnesota - USA)
+- Ekaterina Komendantskaya (Heriot-Watt University - UK)
+- Laura Kovacs (Vienna University of Technology - Austria)
+- Julia Lawall (INRIA - France)
+- Amélie Ledein (INRIA - France)
+- Luigi Liquori (INRIA - France)
+- Dorel Lucanu (Alexandru Ioan Cuza University - Romania)
+- Fatih Ozkaynak (Firat University - Turkey)
+- Rodrigo Raya (EPFL - Switzerland)
+- Adrian Riesco (Universidad Complutense de Madrid - Spain)
+- Ayse Sayın (Istanbul Technical University - Turkey)
+- Josep Silva (UPV - Spain)
+- Volker Stolz (University of Oslo - Norway)
+- Geoff Sutcliffe (University of Miami - USA)
+- Amin Timany (Aarhus University - Denmark)
+- Dmitriy Traytel (University of Copenhagen - Denmark)
+- Shmuel Tyszberowicz (The Academic College of Tel-Aviv Yaffo - Israel)
+- German Vidal (UPV - Spain)
+- Chuangjie Xu (fortiss - Germany)
 
 ### Photos
 
