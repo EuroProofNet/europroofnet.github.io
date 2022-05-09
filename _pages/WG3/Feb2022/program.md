@@ -59,7 +59,7 @@ The event is scheduled as a two-day meeting. Times are CET.
 - Mehmet Tahir Sandikkaya (Istanbul Technical University - Turkey)
 - Alicia Villanueva (UPV - Spain)
 - Julia Sapina (UPV - Spain)
-- Victor Garcia
+- Victor Garcia (UPV - Spain)
 - Maria Alpuente (UPV - Spain)
 - Antonio Ravara (Universidade Nova de Lisboa - Portugal)
 
