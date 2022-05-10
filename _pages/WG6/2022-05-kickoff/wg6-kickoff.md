@@ -11,7 +11,7 @@ permalink: /wg6-kickoff-stockholm/
 
 The workshop will bring together researchers on the topics of [working group 6](/wg6), to share recent results, and co-ordinate future research, including collaboration towards deliverables.
 
-The programme will consist primarily of short talks, with plenty of time for discussion.  On the Sunday after the workshop, there will be an informal social excursion — details TBA.
+The programme will consist primarily of short talks, with plenty of time for discussion.  On the Sunday after the workshop, there will be an informal social excursion to [Skansen](https://www.skansen.se/en/).
 
 - Organisers: [Anders Mörtberg](https://staff.math.su.se/anders.mortberg/), [Benedikt Ahrens](https://benediktahrens.gitlab.io), [Peter LeFanu Lumsdaine](http://peterlefanulumsdaine.com)
 

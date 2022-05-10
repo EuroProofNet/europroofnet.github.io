@@ -54,7 +54,7 @@ All talks will take place in room 14, house 5, at Kräftriket (<a href="https://
 
 ### Social activities
 
-Details TBA.
+On the Sunday after the workshop, there will be an informal social excursion to <a href="https://www.skansen.se/en/">Skansen</a>. Further details TBA.
 
 ### Abstracts
 
