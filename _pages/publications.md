@@ -5,9 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-Under construction ...
-
-[Tools](../tools) &nbsp; [Schools](/schools) &nbsp; [Conferences](/conferences)
+To contribute to the web site, please create a [pull request](https://github.com/EuroProofNet/europroofnet.github.io) or send a mail to the [science communication coordinators](contact).
 
 **2022**
 

@@ -5,6 +5,8 @@ permalink: /conferences/
 author_profile: true
 ---
 
+To contribute to the web site, please create a [pull request](https://github.com/EuroProofNet/europroofnet.github.io) or send a mail to the [science communication coordinators](../contact).
+
 - 22-27 April 2023: European Joint Conferences on Theory and Practice of Software (ETAPS'22), Paris, France
 
 - 6-10 March 2023: [25th International Symposium on Formal Methods](https://fm2023.isp.uni-luebeck.de/) (FM'23), Lübeck, Germany

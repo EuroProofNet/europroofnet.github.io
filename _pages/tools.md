@@ -5,7 +5,7 @@ permalink: /tools/
 author_profile: true
 ---
 
-Page under construction.
+To contribute to the web site, please create a [pull request](https://github.com/EuroProofNet/europroofnet.github.io) or send a mail to the [science communication coordinators](../contact).
 
 **Type-checkers for the λΠ-calculus modulo theory**
 
