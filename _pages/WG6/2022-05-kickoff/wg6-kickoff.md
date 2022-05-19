@@ -29,7 +29,7 @@ Invited speakers:
 - Taichi Uemura (Stockholm University, Sweden)
 - Théo Winterhalter (Max Planck Institute for Security and Privacy, Germany)
 
-## Participants
+## 42 Participants
 
 - Robin Adams (Chalmers University of Technology, Sweden)
 - Benedikt Ahrens (Delft University of Technology, Netherlands)
