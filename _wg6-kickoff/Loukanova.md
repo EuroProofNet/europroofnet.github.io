@@ -3,7 +3,7 @@ speakerfirst: Roussanka
 speakerlast: Loukanova
 date: 2022-05-20 11:50
 speakeraffiliation: Bulgarian Academy of Sciences
-title: -[Syntax-Semantics of Simply Typed Theory of Acyclic Algorithms] (cancelled)
+title: <del>Syntax-Semantics of Simply Typed Theory of Acyclic Algorithms</del> (cancelled)
 ---
 
 In 1989, Moschovakis [1] initiated a new theory of the mathematical notion of algorithm, within untyped, full recursion. In 2006, Moschovakis [2] introduced the formal language of higher-order  Type-Theory of Acyclic Algorithms (TTAR) via simple types, which models the notion of algorithm and concepts of meaning in simply-typed semantic structures. The focus of [2] is on computations that end up after finite number of steps. The approach, in its varieties, with full and acyclic recursion, provides for new developments of type theory of computation and new applications to computational syntax-semantics interfaces in programing and natural languages.
