@@ -10,7 +10,7 @@ the event with the following conditions:
 
 - You must have received an invitation from the e-cost system, and you must have accepted it within 2 weeks after reception.
 
-- You have to book your flight/train and accommodation by yourself.
+- You have to book your flight/train and accommodation by yourself. First-class tickets are not allowed.
 
 - You must sign the attendance sheet during the meeting (only the days spent at the meeting are reimbursed).
 
