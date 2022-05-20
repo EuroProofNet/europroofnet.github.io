@@ -24,7 +24,9 @@ Program:
 
 - 16:45-17:15 The case of cubical type theory, [Bruno Barras](http://www.lix.polytechnique.fr/~barras/) will describe a partial encoding of Cubical Type Theory in Dedukti. Beyond the mere interest of representing the features of that formalism, it is an example of a logic which definitional equality  may not be representable as rewrite rules. We propose a general method to deal with issue.
 
-- 17:30-19:00 WG 1 & 4 meeting
+- 17:15-17:30 break
+
+- 17:30-19:00 WG 1 & 4 meeting: activities for November 2022 - October 2023 ?
 
 - 20:00 dinner
 
