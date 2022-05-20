@@ -24,7 +24,6 @@ Program:
 
 - 16:45-17:15 The case of cubical type theory, [Bruno Barras](http://www.lix.polytechnique.fr/~barras/) will describe a partial encoding of Cubical Type Theory in Dedukti. Beyond the mere interest of representing the features of that formalism, it is an example of a logic which definitional equality  may not be representable as rewrite rules. We propose a general method to deal with issue.
 
-
 - 17:30-19:00 WG 1 & 4 meeting
 
 - 20:00 dinner
@@ -32,7 +31,6 @@ Program:
 **June 25, 2022:**
 
 - 9:00-10:30 How to write a translator to Dedukti? The case of [Agda](https://github.com/Deducteam/Agda2Dedukti). [Jesper Cockx](https://jesper.sikanda.be/) and [Thiago Felicissimo](https://lmf.cnrs.fr/Perso/ThiagoFelicissimo) will go over the basics of how to implement a translator from a proof assistant to Dedukti. We will start with the basic principles that can be applied in general for all proof assistants, before diving into our specific example: the case of the Agda translator, [Agda2Dedukti](https://github.com/Deducteam/Agda2Dedukti). We will then look into three general features that exist in Agda as well as in other proof assistants based on type theory: inductive types with dependent pattern matching, universe polymorphism, and type-directed conversion rules for eta-equality and definitional proof irrelevance. For each of these features, we will look into different ways to encode them and their respective benefits and downsides.
-
 
 - 10:30-10:45 break
 
@@ -48,7 +46,7 @@ implicit predicate subtyping à la PVS in the framework.
 
 - 14:30-15:30 Programming language semantics in Dedukti, [Catherine Dubois](http://web4.ensiie.fr/~dubois/) and [Amélie Ledein](https://lmf.cnrs.fr/AmelieLedein/). Most systems that are translated into Dedukti are logical systems. This lecture will deviate a little from this type of systems and address the encoding in Dedukti of 1) some programming languages features like structural object subtyping, inheritance, method redefinition and late binding; 2) semantics definitions as they are provided by the K framework.
 
-- 15:30-15:45
+- 15:30-15:45 break
 
 - 15:45-16:45 Translating proofs from one theory to another within Dedukti, and exporting a library from Dedukti, François Thiré will present a methodology to write proof translations in Dedukti based around two tools: Dkmeta allows to use the Dedukti language as a meta-language to write term transformations that can be easily maintained; [Universo](https://github.com/Deducteam/universo) allows to rewrite universes in a term, in particular, to map universes from one logic to another (when it is possible).
 
