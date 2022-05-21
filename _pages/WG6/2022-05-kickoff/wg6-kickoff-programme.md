@@ -92,17 +92,15 @@ On Sunday, there will be an informal social excursion — not highly organised, 
   <div class="talktitle" id="{{ speakername | slugify: "latin" }}-abstract"><p>
     {{ timerange }}:
     <strong>{{ speakername }}</strong>{{ speakeraffiliation }}, <em>{{ talk.title }}</em>
-  </p></div>
+
+  {% if talk.slides != nil %}
+  • <span class="slides"><a href="/assets/wg6/stockholm-kickoff-slides/{{ talk.slides }}">slides</a></span>
+  {% endif %}
+</p></div>
 
     <div class="abstract">
       {{ talk.content }}
     </div>
-
-	{% if talk.slides != nil %}
-	<div class="slides">
-	  <p><strong><a href="/assets/documents/wg6-kickoff-slides/{{ talk.slides }}">Slides</a></strong></p>
-    </div>
-	{% endif %}
   </div>
   {% endif %}
 {% endfor %}

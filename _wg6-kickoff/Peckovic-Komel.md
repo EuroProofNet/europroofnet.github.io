@@ -5,6 +5,7 @@ date: 2022-05-20 16:30
 endtime: 2022-05-20 17:30
 speakeraffiliation: TU Wien
 title: The essence of elaboration
+slides: petkovic-komel-europroofnet-stockholm-slides.pdf
 ---
 
 When using type theories in proof assistants the full syntax can quickly become too verbose to handle. One common solution to this problem is to design two type theories: a fully annotated type theory which has good meta-theoretic properties, is suitable for algorithmic processing and resides in the kernel of the proof assistant, and an economic one for the users' input. The two theories are linked by elaboration, a reconstruction of missing information that happens during, or in parallel with, type-checking.
