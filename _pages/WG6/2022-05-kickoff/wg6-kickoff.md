@@ -4,6 +4,8 @@ layout: single
 permalink: /wg6-kickoff-stockholm/
 ---
 
+![Workshop group photo](/assets/images/wg6-kickoff-stockholm-photo.jpg)
+
 ## Overview
 
 - Dates: Fri 20–Sat 21 May 2022
