@@ -4,6 +4,7 @@ speakerlast: Van der Weide
 date: 2022-05-20 11:10
 speakeraffiliation: Radboud University
 title: Semantics for two-dimensional type theory
+slides: van-der-weide-europroofnet-stockholm-slides.pdf
 ---
 
 In this work, we propose a general notion of model for two-dimensional type theory, in the form of comprehension bicategories. Examples of comprehension bicategories are plentiful; they include interpretations of directed type theory previously studied in the literature.

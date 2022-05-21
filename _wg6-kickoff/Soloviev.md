@@ -4,6 +4,7 @@ speakerlast: Soloviev
 date: 2022-05-21 16:00
 speakeraffiliation: IRIT, University of Toulouse
 title: Consequences of Computational Asymmetry in Verifier-Falsifier Games
+slides: soloviev-europroofnet-stockholm-slides.pdf
 ---
 
 Orginally, Game Theoretic Semantics (GTS) was developed as a variant of verification procedure for already existing logical semantics. These semantics could be classical, constructive etc. I explore (or, rather, start the exploration) of how the GTS may be modified, or even “perversed”, if there are significant differences in the computational power of players. More recent works on GTS for type theories are viewed in this context.

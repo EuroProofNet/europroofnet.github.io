@@ -4,6 +4,7 @@ speakerlast: Uemura
 date: 2022-05-21 14:00
 speakeraffiliation: University of Stockholm
 title: Normalization for initial space-valued models of type theories
+slides: uemura-europroofnet-stockholm-slides.pdf
 ---
 
 Given a type theory, one can construct its initial set-valued model but also its initial space-valued model. The coherence problem asks if the initial space-valued model is actually set-valued. If this is the case, then the initial set-valued model admits a unique morphism to an arbitrary space-valued model, which allows us to interpret the type theory in higher structures.
