@@ -8,6 +8,8 @@ author_profile: true
 Reimbursement for participating to a meeting or school is done after
 the event with the following conditions:
 
+- You must be [eligible](../eligibility).
+
 - You must have received an invitation from the e-cost system, and you must have accepted it within 2 weeks after reception.
 
 - You have to book your flight/train/bus and accommodation by yourself. You must choose the most economical means of transportation. First-class tickets are not allowed. Taxis are not reimbursed. In any case, the reimbursement for travel cost is limited to 1500 euros.
