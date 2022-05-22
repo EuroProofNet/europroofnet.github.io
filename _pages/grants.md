@@ -28,6 +28,10 @@ The main points about STSMs are:
     - the total may not exceed EUR 4000 (this is a hard limit)
 - Proposals should be submitted by the deadlines.
 
+**Eligibility**
+
+Check the [eligibility rules](../eligibility) to know whether you can get an STSM.
+
 **What documents to provide?**
 
 Proposals must be made through the [e-COST system](https://e-services.cost.eu/activity/grants/add?type=STSM) (you need to add a bank account on your profile first). The following documents must be uploaded:

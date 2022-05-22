@@ -8,7 +8,7 @@ breadcrumbs: true
 
 Eligibility rules are given on page 59 of the [annotated rules](https://www.cost.eu/uploads/2021/10/COST-094-21-Annotated-Rules-for-COST-Actions-Level-C-2021-11-01-1.pdf#page=59):
 
-- One must be affiliated to a legal entity (see page 49 of the annotated rules for more details). Undergraduate students are not eligible.
+- One must be affiliated to a legal entity (see page 49 of the annotated rules for more details). Undergraduate students are not eligible. Master students need to provide a document signed by their university stating that they follow a master degree affiliated to a research programme.
 
 - One must be from a COST member country or a Near Neighbor Country (see the list below), unless one is invited to a school as trainer.
 
