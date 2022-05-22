@@ -20,7 +20,8 @@ If you want to be funded, you need to:
 
 - **Before May 22**, send a mail to frederic.blanqui(a)inria.fr with
   * the dates you will be attending (June 24, June 25 or both)
-  * a quote of your train/flight (screen capture is fine)
+  * a quote of your flight/train/bus (a screen capture is fine)
+  * the total cost of your flight/train/bus in euros
 
 - Notifications will be sent out on May 26. Selected people will
 receive an invitation from e-cost.
