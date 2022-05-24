@@ -4,6 +4,7 @@ speakerlast: Frey
 date: 2022-05-21 15:00
 speakeraffiliation: Carnegie Mellon University
 title: Characterizing clan-algebraic categories
+slides: frey-europroofnet-stockholm-slides.pdf
 ---
 
 Clans [2] provide a categorical notion of dependent algebraic theory that can be seen as syntax-free abstraction of Cartmell’s generalized algebraic theories and as such is closely related to concepts like contextual categories and categories with families.

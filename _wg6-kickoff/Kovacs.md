@@ -4,6 +4,7 @@ speakerlast: Kovács
 date: 2022-05-21 10:00
 speakeraffiliation: Eötvös Loránd University
 title: Type-theoretic signatures for algebraic theories and inductive types
+slides: kovacs-europroofnet-stockholm-slides.pdf
 ---
 
 In the context of proof assistants, inductive types are specified by signatures
