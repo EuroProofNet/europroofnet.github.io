@@ -129,6 +129,10 @@ Groups marked with (EPN) have members participating to EuroProofNet.
 
 **Sweden**
 
+**Switzerland**
+
+- [Lab for Automated Reasoning and Analysis](https://lara.epfl.ch/) (LARA), [EPFL](https://www.epfl.ch/)
+
 **Turkey**
 
 **United Kingdom**
