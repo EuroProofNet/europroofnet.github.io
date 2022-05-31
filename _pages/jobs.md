@@ -7,7 +7,9 @@ author_profile: true
 
 To contribute to the web site, please create a [pull request](https://github.com/EuroProofNet/europroofnet.github.io) or send a mail to the [science communication coordinators](../contact).
 
-- 19 May 2022: PhD position on [Automated Reasoning for Set Theory](https://jobs.inria.fr/public/classic/fr/offres/2022-04898), Nancy, France. Application deadline: June 6, 2022.
+- 31 May 2022: PhD position on [Composition of set theory-based models](https://bodeveix.github.io/icspa.pdf), Toulouse, France.
+
+- 19 May 2022: PhD position on [Automated Reasoning for Set Theory](https://jobs.inria.fr/public/classic/fr/offres/2022-04898), Nancy, France. Application deadline: 6 June 2022.
 
 - 8 May 2022: PhD and Postdoc positions on [Satisfiability Modulo Theories](https://u.cs.biu.ac.il/~zoharyo1/jobs.txt), Bar-Ilan University, Israel. Start date: 2022 or 2023.
 
