@@ -7,6 +7,8 @@ author_profile: true
 
 To contribute to the web site, please create a [pull request](https://github.com/EuroProofNet/europroofnet.github.io) or send a mail to the [science communication coordinators](../contact).
 
+- 2 June 2022: Researcher-Engineer position on [Applications of Formal Verification in an Industrial Context](https://recrutement.inria.fr/public/classic/fr/offres/2022-05025), ProofInUse consortium, Paris and Saclay, France
+
 - 1 June 2022: PhD position on [Formalization of Set Theory and Proof Checking](https://jobs.inria.fr/public/classic/fr/offres/2022-04909), Nancy, France
 
 - 31 May 2022: PhD position on [Composition of set theory-based models](https://bodeveix.github.io/icspa.pdf), Toulouse, France.
