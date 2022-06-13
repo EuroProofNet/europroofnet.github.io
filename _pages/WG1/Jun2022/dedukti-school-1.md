@@ -16,17 +16,17 @@ Program:
 
 **June 24, 2022:**
 
-- 14:30-15:30 [Dedukti](https://deducteam.github.io/) & [Lambdapi](https://github.com/Deducteam/lambdapi), [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/) will present the language Dedukti and the available tools for checking Dedukti files. He will also present Lambdapi, a new interactive proof assistant which can be used as an higher-level intermediate language for generating Dedukti files.
+- 14:30-15:45 [Dedukti](https://deducteam.github.io/) & [Lambdapi](https://github.com/Deducteam/lambdapi), [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/) will present the language Dedukti and the available tools for checking Dedukti files. He will also present Lambdapi, a new interactive proof assistant which can be used as an higher-level intermediate language for generating Dedukti files.
 
-- 15:30-15:45 break
+- 15:45-16:00 break
 
-- 15:45-16:45 How to express a theory in Dedukti? [Gilles Dowek](http://www.lsv.fr/~dowek/) will present how simple theories, such as Predicate logic, Simple type theory, and the Calculus of constructions can be expressed in Dedukti, these expressions being the basis of the expression of more advances theories, such as the Calculus of constructions with universes and universe polymorphism, or cubical type theory can be expressed.
+- 16:00-17:00 How to express a theory in Dedukti? [Gilles Dowek](http://www.lsv.fr/~dowek/) will present how simple theories, such as Predicate logic, Simple type theory, and the Calculus of constructions can be expressed in Dedukti, these expressions being the basis of the expression of more advances theories, such as the Calculus of constructions with universes and universe polymorphism, or cubical type theory can be expressed.
 
-- 16:45-17:15 The case of cubical type theory, [Bruno Barras](http://www.lix.polytechnique.fr/~barras/) will describe a partial encoding of Cubical Type Theory in Dedukti. Beyond the mere interest of representing the features of that formalism, it is an example of a logic which definitional equality  may not be representable as rewrite rules. We propose a general method to deal with issue.
+- 17:00-17:30 The case of cubical type theory, [Bruno Barras](http://www.lix.polytechnique.fr/~barras/) will describe a partial encoding of Cubical Type Theory in Dedukti. Beyond the mere interest of representing the features of that formalism, it is an example of a logic which definitional equality  may not be representable as rewrite rules. We propose a general method to deal with issue.
 
-- 17:15-17:30 break
+- 17:30-17:45 break
 
-- 17:30-19:00 WG 1 & 4 meeting: activities for November 2022 - October 2023 ?
+- 17:45-19:15 WG 1 & 4 meeting: activities for November 2022 - October 2023 ?
 
 - 20:00 dinner
 
