@@ -17,6 +17,8 @@ main:
     url: /conferences/
   - title: "Teaching"
     url: /teaching/
+  - title: "Gender balance"
+    url: /gender-balance/
   - title: "Working Groups"
     url: /wg/
   - title: "Research Groups"
