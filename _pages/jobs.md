@@ -5,7 +5,7 @@ permalink: /jobs/
 author_profile: true
 ---
 
-To contribute to the web site, please create a [pull request](https://github.com/EuroProofNet/europroofnet.github.io) or send a mail to the [science communication coordinators](../contact).
+To contribute to the web site, please open an [issue](https://github.com/EuroProofNet/europroofnet.github.io/issues), create a [pull request](https://github.com/EuroProofNet/europroofnet.github.io) or send a mail to the [science communication coordinators](../contact).
 
 - 2 June 2022: Researcher-Engineer position on [Applications of Formal Verification in an Industrial Context](https://recrutement.inria.fr/public/classic/fr/offres/2022-05025), ProofInUse consortium, Paris and Saclay, France
 
