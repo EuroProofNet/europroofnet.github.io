@@ -20,7 +20,7 @@ If you are organizing an event within the action or if you have other questions/
 
 ## Activities:
 
-- [Women in EuroProofNet](../women-epn-2022/): event dedicated to dedicated to gender balance in the community (talks + discussion).
+- [Women in EuroProofNet](../women-epn-2022/): event dedicated to gender balance in the community (talks + discussion).
 
 
 ## Useful links:
