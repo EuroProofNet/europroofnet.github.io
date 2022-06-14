@@ -17,4 +17,6 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 
 - 17-23 July 2022: [School on Univalent Mathematics 2022](https://unimath.github.io/cortona2022/), Cortona, Italy
 
+- 13-17 June, 2022, [15th Summer School On Modelling And Verification Of Parallel Processes (MOVEP 2022)](https://movep2022.cs.aau.dk/) Aalborg, Denmark
+
 - 10-14 April 2022: [22nd Midlands Graduate School in the Foundations of Computing Science](https://www.cs.nott.ac.uk/~psznk/events/mgs22.html), Nottingham, UK

@@ -12,6 +12,7 @@ Groups marked with (EPN) have members participating to EuroProofNet.
 **Austria**
 
 - [Computational Logic Group](http://cl-informatik.uibk.ac.at/), [University of Innsbruck](https://www.uibk.ac.at/) (EPN)
+- [Automated Program Reasoning](http://apre-group.at/), [Formal Methods in Systems Engineering](https://forsyte.at/), [TU Wien](https://www.tuwien.at/) (EPN)
 
 **Belgium**
 
@@ -71,6 +72,8 @@ Groups marked with (EPN) have members participating to EuroProofNet.
 **Israel**
 
 **Italy**
+
+- [Mathematical Logic](https://www.math.unipd.it/en/research/research-areas/mathematics/mathematical-logic/), [University of Padua](https://www.unipd.it/en/) (EPN)
 
 **Luxembourg**
 
