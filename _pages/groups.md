@@ -95,6 +95,8 @@ Groups marked with (EPN) have members participating to EuroProofNet.
 
 **Poland**
 
+- Type theory group at University of Warsaw (EPN)
+
 **Portugal**
 
 - [LASIGE - Reliable Software Systems](https://www.lasige.pt/research-line/reliable-software-systems#info) (EPN)
