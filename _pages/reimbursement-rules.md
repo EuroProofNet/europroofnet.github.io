@@ -22,4 +22,6 @@ the event with the following conditions:
 
 - For travels >100km, you should choose the most economical means and arrange your travel in advance to get low prices.
 
+- It is possible to use one's own car if it is less expensive than using flight/train/bus, especially for a group. The reimbursement is 0.35 euros/km for the driver. On the other hand, taxi, parking, fuel, toll, car rental cannot be reimbursed.
+
 Find all the details concerning reimbursements on p. 81 of the [COST Annotated Rules](https://www.cost.eu/uploads/2021/10/COST-094-21-Annotated-Rules-for-COST-Actions-Level-C-2021-11-01-1.pdf).
