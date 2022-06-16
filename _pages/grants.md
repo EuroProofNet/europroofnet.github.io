@@ -100,6 +100,13 @@ so that the STSM ends before the end of October.
 In case you need to cancel an accepted STSM, you need to inform the
 STSM coordinators as soon as possible.
 
+**Acknowledgements in publications**
+
+In publications partly elaborated thanks to the STSM, you have to
+acknowledge EuroProofNet and COST as follows: "This publication is
+based upon work from COST Action EuroProofNet, supported by COST
+(European Cooperation in Science and Technology)".
+
 **More questions?**
 
 For any question, please contact the coordinators for STSMs [Danijela Simic](http://poincare.matf.bg.ac.rs/~danijela) (University of Belgrade, Serbia) **AND** [Ambrus Kaposi](http://akaposi.web.elte.hu) (Eötvös Loránd University, Hungary). Please, contact them both in case one is not available.
