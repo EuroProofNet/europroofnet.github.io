@@ -134,6 +134,10 @@ Groups marked with (EPN) have members participating to EuroProofNet.
 
 **Sweden**
 
+- [Stockholm Mathematical Logic Group](https://logic.math.su.se/), Stockholm University
+- [Programming Logic Group](https://wiki.portal.chalmers.se/cse/pmwiki.php/ProgLog/ProgLog), Chalmers University of Technology and University of Gothenburg
+
+
 **Switzerland**
 
 - [Lab for Automated Reasoning and Analysis](https://lara.epfl.ch/) (LARA), [EPFL](https://www.epfl.ch/)
