@@ -61,4 +61,12 @@ Program:
 
 **Organizers:** [Gilles Dowek](http://lsv.fr/~dowek/), [Jesper Cockx](https://jesper.sikanda.be/), [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/)
 
+<img src="/_pages/WG1/Jun2022/amphi1.jpg"/>
+
 <img src="/_pages/WG1/Jun2022/gilles2.jpg"/>
+
+<img src="/_pages/WG1/Jun2022/thiago.jpg"/>
+
+<img src="/_pages/WG1/Jun2022/guillaume.jpg"/>
+
+<img src="/_pages/WG1/Jun2022/michael.jpg"/>
