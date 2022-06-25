@@ -10,7 +10,7 @@ Colocated with [TYPES 2022](https://types22.inria.fr/).
 
 **Place:** LS2N, Université de Nantes, Faculté des Sciences et Techniques (FST), Bâtiment 34, 2 Chemin de la Houssinière, 44322 Nantes, France.
 
-<img src="group_with_frederic.jpg"/>
+<img src="https://europroofnet.github.io/dedukti-school-2022/group_with_frederic.jpg"/>
 
 The Dedukti school is preceded by the [Women in EPN workshop](../women-epn-2022) from 9:00 to 13:30.
 
