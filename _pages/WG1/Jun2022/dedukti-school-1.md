@@ -69,3 +69,5 @@ Program:
 <img src="/_pages/WG1/Jun2022/michael.jpg"/>
 
 <img src="/_pages/WG1/Jun2022/catherine.jpg"/>
+
+<img src="/_pages/WG1/Jun2022/amelie.jpg"/>
