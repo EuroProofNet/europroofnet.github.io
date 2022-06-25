@@ -12,8 +12,6 @@ Colocated with [TYPES 2022](https://types22.inria.fr/).
 
 <img src="/_pages/WG1/Jun2022/group_with_frederic.jpg"/>
 
-<img src="https://europroofnet.github.io/dedukti-school-2022/group_with_frederic.jpg"/>
-
 The Dedukti school is preceded by the [Women in EPN workshop](../women-epn-2022) from 9:00 to 13:30.
 
 Program:
@@ -62,3 +60,5 @@ Program:
 **Funding applications:** [here](../funding-June-2022) (deadline: May 22)
 
 **Organizers:** [Gilles Dowek](http://lsv.fr/~dowek/), [Jesper Cockx](https://jesper.sikanda.be/), [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/)
+
+<img src="/_pages/WG1/Jun2022/gilles2.jpg"/>
