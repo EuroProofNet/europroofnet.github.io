@@ -16,7 +16,7 @@ Program:
 
 **June 24, 2022:**
 
-- 14:30-15:45 **[Dedukti](https://deducteam.github.io/) & [Lambdapi](https://github.com/Deducteam/lambdapi)**, [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/) will present the language Dedukti and the available tools for checking Dedukti files. He will also present Lambdapi, a new interactive proof assistant which can be used as an higher-level intermediate language for generating Dedukti files.
+- 14:30-15:45 **[Dedukti](https://deducteam.github.io/) & [Lambdapi](https://github.com/Deducteam/lambdapi)**, [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/) will present the language Dedukti and the available tools for checking Dedukti files. He will also present Lambdapi, a new interactive proof assistant which can be used as an higher-level intermediate language for generating Dedukti files. [slides](frederic.pdf)
 
 - 15:45-16:00 break
 
@@ -26,7 +26,7 @@ Program:
 
 - 17:30-17:45 break
 
-- 17:45-19:15 **WG 1 & 4 meeting**: activities for November 2022 - October 2023 ?
+- 17:45-19:15 **WG 1 & 4 meeting**: [Introduction to WG4 on libraries](claudio.pdf). [Activities for November 2022 - October 2023 ?](discussion.pdf)
 
 **June 25, 2022:**
 
