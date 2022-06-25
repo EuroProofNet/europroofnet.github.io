@@ -24,7 +24,7 @@ Program:
 
 - 16:00-17:00 **How to express a theory in Dedukti?** [Gilles Dowek](http://www.lsv.fr/~dowek/) will present how simple theories, such as Predicate logic, Simple type theory, and the Calculus of constructions can be expressed in Dedukti, these expressions being the basis of the expression of more advances theories, such as the Calculus of constructions with universes and universe polymorphism, or cubical type theory can be expressed. [slides](gilles.pdf)
 
-- 17:00-17:30 **The case of cubical type theory**, [Bruno Barras](http://www.lix.polytechnique.fr/~barras/) will describe a partial encoding of Cubical Type Theory in Dedukti. Beyond the mere interest of representing the features of that formalism, it is an example of a logic which definitional equality  may not be representable as rewrite rules. We propose a general method to deal with issue.
+- 17:00-17:30 **The case of cubical type theory**, [Bruno Barras](http://www.lix.polytechnique.fr/~barras/) will describe a partial encoding of Cubical Type Theory in Dedukti. Beyond the mere interest of representing the features of that formalism, it is an example of a logic which definitional equality  may not be representable as rewrite rules. We propose a general method to deal with issue. [slides](bruno.pdf)
 
 - 17:30-17:45 break
 
