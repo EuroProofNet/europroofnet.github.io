@@ -42,13 +42,13 @@ Program:
 
 - 12:15-13:30 lunch
 
-- 13:30-14:30 **How I Learned to Stop Trusting and Implement Dedukti Myself?** [Michael Färber](http://cl-informatik.uibk.ac.at/users/mfaerber/) You should not need to trust the Dedukti developers in order to convince yourself that a Dedukti theory is correct. Michael Färber will give an overview of how Dedukti works internally and how to re-implement relevant parts of it yourself. In particular, he will touch upon parsing, terms, sharing, rewriting, and type checking. The goal of this talk is to empower anyone to write their own checker for Dedukti.
+- 13:30-14:30 **How I Learned to Stop Trusting and Implement Dedukti Myself?** [Michael Färber](http://cl-informatik.uibk.ac.at/users/mfaerber/) You should not need to trust the Dedukti developers in order to convince yourself that a Dedukti theory is correct. Michael Färber will give an overview of how Dedukti works internally and how to re-implement relevant parts of it yourself. In particular, he will touch upon parsing, terms, sharing, rewriting, and type checking. The goal of this talk is to empower anyone to write their own checker for Dedukti. [slides](michael.pdf)
 
 - 14:30-15:30 **Programming language semantics in Dedukti**, [Catherine Dubois](http://web4.ensiie.fr/~dubois/) and [Amélie Ledein](https://lmf.cnrs.fr/AmelieLedein/). Most systems that are translated into Dedukti are logical systems. This lecture will deviate a little from this type of systems and address the encoding in Dedukti of 1) some programming languages features like structural object subtyping, inheritance, method redefinition and late binding; 2) semantics definitions as they are provided by the K framework.
 
 - 15:30-15:45 break
 
-- 15:45-16:45 **Translating proofs from one theory to another within Dedukti, and exporting a library from Dedukti**, François Thiré will present a methodology to write proof translations in Dedukti based around two tools: Dkmeta allows to use the Dedukti language as a meta-language to write term transformations that can be easily maintained; [Universo](https://github.com/Deducteam/universo) allows to rewrite universes in a term, in particular, to map universes from one logic to another (when it is possible).
+- 15:45-16:45 **Translating proofs from one theory to another within Dedukti, and exporting a library from Dedukti**, François Thiré will present a methodology to write proof translations in Dedukti based around two tools: Dkmeta allows to use the Dedukti language as a meta-language to write term transformations that can be easily maintained; [Universo](https://github.com/Deducteam/universo) allows to rewrite universes in a term, in particular, to map universes from one logic to another (when it is possible). [slides](francois.pdf)
 
 **Registration:** on the [TYPES 2022 website](https://types22.inria.fr/)
 
