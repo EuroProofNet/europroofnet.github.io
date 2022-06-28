@@ -28,14 +28,8 @@ to the [working groups](../wg) you are interested in (it is free and open to any
 
 - 1 July 2022: deadline for [STSM proposals](../grants)
 
+- 4-9 September 2022: [WG5 kick-off meeting](/wg5-aitp22) and [7th Conference on Artificial Intelligence and Theorem Proving](http://aitp-conference.org/2022/) (AITP'22), Aussois, France
+
 - 5-9 September 2022: [EuroProofNet Summer School on Verification Technology, Systems & Applications](https://resources.mpi-inf.mpg.de/departments/rg1/conferences/vtsa22/) (VTSA'22), Saarbrücken, Germany
 
-- 4-9 September 2022: [7th Conference on Artificial Intelligence and Theorem Proving](http://aitp-conference.org/2022/) (AITP'22), Aussois, France
-
-**Past events:**
-
-- 24-25 June 2022: [Women in EuroProofNet](/women-epn-2022) and [1st Dedukti school](/dedukti-school-2022), Nantes, France
-
-- 20-21 May 2022: [WG6 meeting on syntax and semantics of type theories](/wg6-kickoff-stockholm), Stockholm, Sweden
-
-- 10-11 February 2022: [WG3 kick-off meeting](../wg3-meeting1), Valencia [Slides&Videos](https://europroofnet.github.io/wg3-meeting1-program) [Report](https://europroofnet.github.io/_pages/WG3/Feb2022/ReportWG3meeting.pdf)
+- 23-24 September 2022: WG4 kick-off meeting, Tbilisi, Georgia, at the [Computational Logic Autumn Summit 2022](https://viam.science.tsu.ge/clas2022/)
