@@ -97,21 +97,11 @@ footer:
       url: "https://www.cost.eu"
 
 collections:
-  events:
-    output: true
-    permalink: /:collection/:path/
   # talks & other schedule items within events:
   wg6-kickoff:
     output: false
 
 defaults:
-  # _events
-  - scope:
-      path: ""
-      type: events
-    values:
-      layout: single
-      author_profile: true
   # _posts
   - scope:
       path: ""
