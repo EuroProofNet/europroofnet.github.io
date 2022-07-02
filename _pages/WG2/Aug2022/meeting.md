@@ -75,21 +75,36 @@ See the [FLoC pages](https://www.floc2022.org/)
 
 ### Program
 
-** Thursday, August 11 (Day 1) **
 
-09:00-10:00 	Josef Urban (invited talk), title: TBA
+**Thursday, August 11 (Day 1)**
 
-** Friday, August 12 (Day 2) **
+|---------------|----------------------------|
+|09:00-10:00 	| Josef Urban (invited talk, Czech Institute of Informatics, Robotics and Cybernetics) |
+|               | TBA                        |
+|---------------|----------------------------|
 
-09:00-10:00 	Geoff Sutcliffe (invited talk), title: The Logic Languages of the TPTP World
 
-14:00-14:45 	COST action EuroProofNet plenary presentation
-14:45-15:30 	Andres Notzli (U Stanford): EuroProofNet presentation on SMT and proofs
+**Friday, August 12 (Day 2)**
 
-16:00-16:45 	Guillaume Burel (ENSIIE): EuroProofNet presentation on proofs in Dedukti
-16:45-17:30 	WG 2 business meeting and planning
+|--------------|-------------------------------------------------------|
+|09:00-10:00   | *Geoff Sutcliffe* (invited talk, University of Miami) |
+|              | The Logic Languages of the TPTP World                 |
+|--------------|-------------------------------------------------------|
 
-Notice that some sessions of the [PAAR]( https://paar2022.github.io/) workshop might be of interest to the EuroProofNet Community (for instance Session 2 of Friday)
+|--------------|-------------------------------------------------------|
+|14:00-14:45   | COST action EuroProofNet plenary presentation         |
+|--------------|-------------------------------------------------------|
+|14:45-15:30   | *Andres Notzli* (invited talk, Stanford)              |
+|              | EuroProofNet presentation on SMT and proofs           |
+|--------------|-------------------------------------------------------|
+|16:00-16:45   | *Guillaume Burel* (invited talk, ENSIIE)              |
+|              | EuroProofNet presentation on proofs in Dedukti        |
+|--------------|-------------------------------------------------------|
+|16:45-17:30   | WG 2 business meeting and planning                    |
+|--------------|-------------------------------------------------------|
+
+
+Notice that some sessions of the [PAAR workshop]( https://paar2022.github.io/) might be of interest to the EuroProofNet Community (for instance Session 2 of Friday).
 
 ### Organization
 
