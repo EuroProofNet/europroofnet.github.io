@@ -1,5 +1,5 @@
 ---
-title: "WG2 Kick-off meeting"
+title: "WG2 Kickoff meeting"
 layout: single
 permalink: /wg2-meeting1/
 author_profile: true
