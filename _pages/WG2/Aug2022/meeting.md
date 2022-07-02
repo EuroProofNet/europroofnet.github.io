@@ -78,10 +78,10 @@ See the [FLoC pages](https://www.floc2022.org/)
 
 **Thursday, August 11 (Day 1)**
 
-|---------------|----------------------------|
-|09:00-10:00 	| Josef Urban (invited talk, Czech Institute of Informatics, Robotics and Cybernetics) |
-|               | TBA                        |
-|---------------|----------------------------|
+| --------------- | ------------------------------------------------------------------------------------ |
+| 09:00-10:00 	  | Josef Urban (invited talk, Czech Institute of Informatics, Robotics and Cybernetics) |
+|                 | TBA                                                                                  |
+| --------------- | ------------------------------------------------------------------------------------ |
 
 
 **Friday, August 12 (Day 2)**
