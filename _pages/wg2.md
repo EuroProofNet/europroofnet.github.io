@@ -21,6 +21,6 @@ We use a [git repository to store all our documents and deliverables](https://gi
 
 ### Activities
 
-* August 2022: WG2 meeting co-located with the PAAR workshop and a workshop dedicated to sharing libraries of formal proofs during [FLOC](https://www.floc2022.org/) at Haifa (Israel)
+* August 2022: [WG2 kickoff meeting](https://europroofnet.github.io/wg2-meeting1/) co-located with the [PAAR workshop](https://paar2022.github.io/) during [FLOC](https://www.floc2022.org/) at Haifa (Israel)
 
-* Summer 2022: next edition of VTSA at Saarbrücken (Germany) with a focus on proof-generating verification systems
+* Summer 2022: next edition of [VTSA](https://resources.mpi-inf.mpg.de/departments/rg1/conferences/vtsa22/) at Saarbrücken (Germany) with a focus on proof-generating verification systems

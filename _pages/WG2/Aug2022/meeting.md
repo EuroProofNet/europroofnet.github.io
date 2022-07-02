@@ -10,6 +10,8 @@ breadcrumbs: true
 
 This is the first EuroProofNet WG2 meeting, taking place at Haifa, August 11-12, 2022. The meeting is co-located with [PAAR 2022](https://paar2022.github.io/), which is itself an [IJCAR 2022](https://ijcar.org/)/[FLoc 2022](https://www.floc2022.org) workshop.
 
+See [this page for more information about EuroProofNet Working Group 2](https://europroofnet.github.io/wg2/)
+
 This meeting aims to
 * bring together members of the different communities working on proofs and automated theorem provers (in the broad sense, including SAT solvers, SMT solvers, First-Order and Higher-Order Provers, Computer Algebra Systems,...)
 * foster collaborations and build synergies among participants to ease the path to more fruitful results for the Action, and
