@@ -9,7 +9,7 @@ layout: single
 #sort_order: reverse
 ---
 
-<img src="/_pages/WG1/Jun2022/group_with_anja.jpg"/>
+<img src="/_pages/WG1/Jun2022/group_with_anja2.jpg"/>
 
 EuroProofNet is the European research network on digital proofs.
 **EuroProofNet aims at boosting the interoperability and usability of
@@ -23,8 +23,6 @@ in another lab or country. [More...](../description) &nbsp; [Objectives](../obje
 To join the action, simply
 [apply](https://e-services.cost.eu/action/CA20111/working-groups/apply)
 to the [working groups](../wg) you are interested in (it is free and open to anyone). [Contact](../contact)
-
-[Work plan for January-October 2022](../work-plan-1)
 
 **Coming events:**
 
