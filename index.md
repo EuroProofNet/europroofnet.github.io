@@ -9,6 +9,8 @@ layout: single
 #sort_order: reverse
 ---
 
+<img src="/_pages/WG1/Jun2022/group_with_anja.jpg"/>
+
 EuroProofNet is the European research network on digital proofs.
 **EuroProofNet aims at boosting the interoperability and usability of
 proof systems**.
