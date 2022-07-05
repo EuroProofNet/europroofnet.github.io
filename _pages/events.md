@@ -9,7 +9,7 @@ author_profile: true
 
 **Coming events:**
 
-- 1 July 2022: deadline for [STSM proposals](../grants)
+- 12 August 2022: [WG2 kick-off meeting](), Haifa, Israel, co-located with [PAAR 2022](https://paar2022.github.io/), [IJCAR 2022](https://ijcar.org/) and [FLoC 2022](https://www.floc2022.org)
 
 - 4-9 September 2022: [WG5 kick-off meeting](/wg5-aitp22) and [7th Conference on Artificial Intelligence and Theorem Proving](http://aitp-conference.org/2022/) (AITP'22), Aussois, France
 
@@ -19,6 +19,7 @@ author_profile: true
 
 **Past events:**
 
+- 1 July 2022: deadline for [STSM proposals](../grants)
 - 24-25 Jun 2022: [1st Dedukti school](/dedukti-school-2022), Nantes, France
 - 24 Jun 2022: [Women in EuroProofNet 2022](/women-epn-2022), Nantes, France
 - 20-21 May 2022: [WG6 kick-off meeting](/wg6-kickoff-stockholm): Syntax and Semantics of Type Theories, Stockholm, Sweden

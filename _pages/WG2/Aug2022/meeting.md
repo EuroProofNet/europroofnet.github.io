@@ -8,7 +8,7 @@ breadcrumbs: true
 
 ## August 11-12, 2022
 
-This is the first EuroProofNet WG2 meeting, taking place at Haifa, August 11-12, 2022. The meeting is co-located with [PAAR 2022](https://paar2022.github.io/), which is itself an [IJCAR 2022](https://ijcar.org/)/[FLoc 2022](https://www.floc2022.org) workshop.
+This is the first EuroProofNet WG2 meeting, taking place at Haifa, August 11-12, 2022. The meeting is co-located with [PAAR 2022](https://paar2022.github.io/), which is itself an [IJCAR 2022](https://ijcar.org/)/[FLoC 2022](https://www.floc2022.org) workshop.
 
 See [this page for more information about EuroProofNet Working Group 2](https://europroofnet.github.io/wg2/)
 
