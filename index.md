@@ -15,14 +15,14 @@ EuroProofNet is the European research network on digital proofs.
 **EuroProofNet aims at boosting the interoperability and usability of
 proof systems**.
 It is a [COST](http://cost.eu) action started on November 2021
-now gathering more than [265 researchers](https://www.cost.eu/actions/CA20111/#tabs+Name:Working%20Groups%20and%20Membership) from [42 different countries](../groups), chaired by [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/).
+now gathering more than [265 researchers](https://www.cost.eu/actions/CA20111/#tabs+Name:Working%20Groups%20and%20Membership) from [42 different countries](../groups), chaired by [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/) and a [Core group](../contact).
 EuroProofNet organizes [meetings and schools](../events), and provides
 [grants](../grants) to its members for short-term scientific missions
-in another lab or country. [More...](../description) &nbsp; [Objectives](../objectives) &nbsp; [Deliverables](../deliverables)
+in another country. [Learn more...](../description) &nbsp; [Objectives](../objectives) &nbsp; [Deliverables](../deliverables)
 
 To join the action, simply
 [apply](https://e-services.cost.eu/action/CA20111/working-groups/apply)
-to the [working groups](../wg) you are interested in (it is free and open to anyone). [Contact](../contact)
+to the [working groups](../wg) you are interested in (it is free and open to anyone).
 
 **Coming events:**
 
@@ -35,3 +35,5 @@ to the [working groups](../wg) you are interested in (it is free and open to any
 - 23-24 September 2022: WG4 kick-off meeting, Tbilisi, Georgia, at the [Computational Logic Autumn Summit 2022](https://viam.science.tsu.ge/clas2022/)
 
 [Past events](../events)
+
+[Questions?](../contact)
