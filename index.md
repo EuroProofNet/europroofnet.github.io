@@ -33,3 +33,5 @@ to the [working groups](../wg) you are interested in (it is free and open to any
 - 5-9 September 2022: [EuroProofNet Summer School on Verification Technology, Systems & Applications](https://resources.mpi-inf.mpg.de/departments/rg1/conferences/vtsa22/) (VTSA'22), Saarbrücken, Germany
 
 - 23-24 September 2022: WG4 kick-off meeting, Tbilisi, Georgia, at the [Computational Logic Autumn Summit 2022](https://viam.science.tsu.ge/clas2022/)
+
+[Past events](../events)
