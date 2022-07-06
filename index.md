@@ -26,7 +26,7 @@ to the [working groups](../wg) you are interested in (it is free and open to any
 
 **Coming events:**
 
-- 12 August 2022: [WG2 kick-off meeting](), Haifa, Israel, co-located with [PAAR 2022](https://paar2022.github.io/), [IJCAR 2022](https://ijcar.org/) and [FLoC 2022](https://www.floc2022.org)
+- 12 August 2022: [WG2 kick-off meeting](/wg2-meetin1), Haifa, Israel, co-located with [PAAR 2022](https://paar2022.github.io/), [IJCAR 2022](https://ijcar.org/) and [FLoC 2022](https://www.floc2022.org)
 
 - 4-9 September 2022: [WG5 kick-off meeting](/wg5-aitp22) and [7th Conference on Artificial Intelligence and Theorem Proving](http://aitp-conference.org/2022/) (AITP'22), Aussois, France
 
