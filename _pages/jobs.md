@@ -7,6 +7,8 @@ author_profile: true
 
 To contribute to the web site, please open an [issue](https://github.com/EuroProofNet/europroofnet.github.io/issues), create a [pull request](https://github.com/EuroProofNet/europroofnet.github.io) or send a mail to the [science communication coordinators](../contact).
 
+- 6 July: Deducteam can get a 3-years engineer position to work on the development of a package manager for libraries from multiple proof systems. Find more details [here](http://files.inria.fr/blanqui/musprom.pdf) (it is written in French but can be translated using Google translate or a similar tool). Knowledge of logic or type theory is not necessary. Speaking French is not mandatory. If you are interested, contact [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/).
+
 - 2 June 2022: Researcher-Engineer position on [Applications of Formal Verification in an Industrial Context](https://recrutement.inria.fr/public/classic/fr/offres/2022-05025), ProofInUse consortium, Paris and Saclay, France
 
 - 1 June 2022: PhD position on [Formalization of Set Theory and Proof Checking](https://jobs.inria.fr/public/classic/fr/offres/2022-04909), Nancy, France
