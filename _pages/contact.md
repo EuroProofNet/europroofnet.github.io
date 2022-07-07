@@ -10,9 +10,15 @@ title: "Contact"
 <img src="/assets/images/Twitter.svg" width='32px' alt="Twitter icon"/>
 [Twitter](https://twitter.com/EuroProofNet)
 
-[Report a problem on the web site](https://github.com/EuroProofNet/europroofnet.github.io/issues)
+To report a problem or contribute to the web site, please open an [issue](https://github.com/EuroProofNet/europroofnet.github.io/issues), create a [pull request](https://github.com/EuroProofNet/europroofnet.github.io) or send a mail to the science communication coordinators.
 
-To contribute to the web site, please open an [issue](https://github.com/EuroProofNet/europroofnet.github.io/issues), create a [pull request](https://github.com/EuroProofNet/europroofnet.github.io) or send a mail to the science communication coordinators.
+**Documents**
+
+[COST annotated rules](https://www.cost.eu/uploads/2021/10/COST-094-21-Annotated-Rules-for-COST-Actions-Level-C-2021-11-01-1.pdf)
+
+[Eligibility rules](../eligibility)
+
+[Reimbursement rules](../reimbursement-rules)
 
 **Core group**
 
