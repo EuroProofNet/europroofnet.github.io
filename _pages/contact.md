@@ -14,11 +14,9 @@ To report a problem or contribute to the web site, please open an [issue](https:
 
 **Documents**
 
-[COST annotated rules](https://www.cost.eu/uploads/2021/10/COST-094-21-Annotated-Rules-for-COST-Actions-Level-C-2021-11-01-1.pdf)
-
-[Eligibility rules](../eligibility)
-
-[Reimbursement rules](../reimbursement-rules)
+- [COST annotated rules](https://www.cost.eu/uploads/2021/10/COST-094-21-Annotated-Rules-for-COST-Actions-Level-C-2021-11-01-1.pdf)
+- [Eligibility rules](../eligibility)
+- [Reimbursement rules](../reimbursement-rules)
 
 **Core group**
 
