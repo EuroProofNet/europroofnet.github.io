@@ -15,7 +15,7 @@ author_profile: true
 
 - 5-9 September 2022: [EuroProofNet Summer School on Verification Technology, Systems & Applications](https://resources.mpi-inf.mpg.de/departments/rg1/conferences/vtsa22/) (VTSA'22), Saarbrücken, Germany
 
-- 23-24 September 2022: WG4 kick-off meeting, Tbilisi, Georgia, at the [Computational Logic Autumn Summit 2022](https://viam.science.tsu.ge/clas2022/) with the [15th Conference on Intelligent Computer Mathematics](https://cicm-conference.org/2022/cicm.php) (CICM), the [24th International Symposium on Principles and Practice of Declarative Programming](https://software.imdea.org/Conferences/PPDP2022/) (PPDP), the [32nd International Symposium on Logic-based Program Synthesis and Transformation](https://lopstr2022.webs.upv.es/), the [International Conference on Practical and Theoretical Aspects of Logic, Cyber Security and Cryptography 2022](https://cs.omu.edu.tr/blacksea2022/), the [14th International Conference on Mathematics of Program Construction](https://www.macs.hw.ac.uk/mpc22/) (MPC), the [16th International Conference on Verification and Evaluation of Computer and Communication Systems](http://vecos-world.org/2022/) (VECoS), the [22nd Intl. Conf. on Runtime Verification](https://rv22.gitlab.io/) (RV), the [13th International School on Rewriting](https://viam.science.tsu.ge/clas2022/isr/) (ISR)
+- 23-24 September 2022: [EuroProofNet workshop on the development, maintenance, refactoring and search of large libraries of proofs](/wg4-meeting1), Tbilisi, Georgia
 
 **Past events:**
 
