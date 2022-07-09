@@ -11,7 +11,7 @@ demos, on library descriptions or on methodologies, algorithms and
 tools trying to tackle the challenges raised by the development,
 maintenance, refactoring and search of large libraries of proofs. If
 you want to give a talk, please fill in this [form](
-https://forms.gle/fNxt1ot2xgUUSfGt5).
+https://forms.gle/fNxt1ot2xgUUSfGt5) before **July 24**.
 
 EuroProofNet can reimburse the transport to Tbilisi + 60 euros/day for the accommodation on September 23-24 (hotels and meals are cheap in Tbilisi) for a number of participants. Please check [eligibility rules](https://europroofnet.github.io/eligibility/) and [reimbursement rules](https://europroofnet.github.io/reimbursement-rules/) to get more details. Participation can be online if you cannot go to Tbilisi.
 
