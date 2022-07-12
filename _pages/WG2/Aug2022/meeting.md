@@ -24,6 +24,7 @@ This meeting aims to
 * Josef Urban (Czech Institute of Informatics, Robotics and Cybernetics)
 * Geoff Sutcliffe (University of Miami, USA)
 * Andres Notzli  (Stanford, USA)
+* Guillaume Burel (ENSIIE, France)
 
 ## Output
 
