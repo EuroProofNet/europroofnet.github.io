@@ -32,8 +32,9 @@ Groups marked with (EPN) have members participating to EuroProofNet.
 
 **Denmark**
 
-- [Algorithms, Logic and Graphs section](https://www.compute.dtu.dk/english/research/research-sections/algolog), DTU Compute, Technical University of Denmark (EPN)
+- [Algorithms, Logic and Graphs section](https://www.compute.dtu.dk/english/research/research-sections/algolog), Technical University of Denmark (EPN)
 - [Artificial Intelligence, Cybersecurity, and Programming Languages section](https://acp.sdu.dk), University of Southern Denmark (EPN)
+- [Distributed, Embedded and Intelligent Systems](https://www.cs.aau.dk/research/distributed-embedded-intelligent-systems/), Aalborg University (EPN)
 - [Logic and Semantics group](https://logsem.github.io), Aarhus University (EPN)
 - [Programming, Logic, and Semantics group](https://pls.itu.dk), IT University of Copenhagen (EPN)
 - [Software, Date, People & Society section](https://di.ku.dk/english/research/sdps/), University of Copenhagen (EPN)
