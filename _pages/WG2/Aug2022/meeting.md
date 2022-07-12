@@ -24,6 +24,7 @@ This meeting aims to
 * Josef Urban (Czech Institute of Informatics, Robotics and Cybernetics)
 * Geoff Sutcliffe (University of Miami, USA)
 * Andres Notzli  (Stanford, USA)
+* Guillaume Burel (ENSIIE, France)
 
 ## Output
 
@@ -93,13 +94,15 @@ See the [FLoC pages](https://www.floc2022.org/)
 | -------------- | ----------------------------------------------------- |
 |                | ----------------------------------------------------- |
 | -------------- | ----------------------------------------------------- |
-|14:00-14:45   | COST action EuroProofNet plenary presentation         |
+|14:00-14:05   | COST action EuroProofNet plenary presentation         |
 |--------------|-------------------------------------------------------|
-|14:45-15:30   | *Andres Notzli* (invited talk, Stanford)              |
+|14:05-14:50   | *Guillaume Burel* (invited talk, ENSIIE)              |
+|              | EuroProofNet presentation on proofs in Dedukti        |
+|--------------|-------------------------------------------------------|
+|14:50-15:35   | *Andres Notzli* (invited talk, Stanford)              |
 |              | EuroProofNet presentation on SMT and proofs           |
 |--------------|-------------------------------------------------------|
-|16:00-16:45   | *Guillaume Burel* (invited talk, ENSIIE)              |
-|              | EuroProofNet presentation on proofs in Dedukti        |
+|16:00-16:45   | SMT Proof discussion (joint with the SMT Workshop)    |
 |--------------|-------------------------------------------------------|
 |16:45-17:30   | WG 2 business meeting and planning                    |
 |--------------|-------------------------------------------------------|
