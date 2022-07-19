@@ -82,7 +82,7 @@ See the [FLoC pages](https://www.floc2022.org/)
 | Day 1           | Thursday, August 11 |
 | --------------- | ------------------------------------------------------------------------------------ |
 | 09:00-10:00 	  | *Josef Urban* (invited talk, Czech Institute of Informatics, Robotics and Cybernetics) |
-|                 | TBA                                                                                  |
+|                 | Training ENIGMAs, CoPs, and other thinking creatures                                                                                  |
 | --------------- | ------------------------------------------------------------------------------------ |
 
 
