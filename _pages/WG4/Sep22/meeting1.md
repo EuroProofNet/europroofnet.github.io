@@ -15,6 +15,18 @@ https://forms.gle/fNxt1ot2xgUUSfGt5) before **July 24**.
 
 EuroProofNet can reimburse the transport to Tbilisi + 60 euros/day for the accommodation on September 23-24 (hotels and meals are cheap in Tbilisi) for a number of participants. Please check [eligibility rules](https://europroofnet.github.io/eligibility/) and [reimbursement rules](https://europroofnet.github.io/reimbursement-rules/) to get more details. Participation can be online if you cannot go to Tbilisi.
 
+**Participants/Speakers:**
+- [Enrico Tassi](http://www-sop.inria.fr/members/Enrico.Tassi/)
+- [Geoff Sutcliffe](https://www.cs.miami.edu/home/geoff/)
+- [Artur Korniłowicz](http://math.uwb.edu.pl/~arturk/)
+- [Fabian Huch](https://www21.in.tum.de/team/huch/)
+- Christian Sottile
+- Georgios Pitsiladis
+- Carsten Fuhs
+- [Claudio Sacerdoti](http://www.cs.unibo.it/~sacerdot/)
+- [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/)
+- ...
+
 **Venue:** [Tbilisi State University, Chavchavadze ave. 1, 0179 Tbilisi, Georgia](https://viam.science.tsu.ge/clas2022/venue)
 
 **Scientific organizers:** [Claudio Sacerdoti](http://www.cs.unibo.it/~sacerdot/) and [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/)
