@@ -63,6 +63,8 @@ To report a problem or contribute to the web site, please open an [issue](https:
 
 **Management Committee/Country representatives**
 
+Each COST (cooperating) member country can have one or two representatives. There are currently 32/41 countries represented in EuroProofNet. We are looking for representatives for: Albania, Bosnia and Herzegovina, Cyprus, Georgia, Latvia, Malta, the Republic of Moldova, Montenegro, Ukraine. If you are interested, please contact the chair.
+
 - Austria: [Laura Kovács](http://lkovacs.com/) and [Cezary Kaliszyk](http://cl-informatik.uibk.ac.at/cek/)
 - Belgium: [Christophe Scholliers](https://users.ugent.be/~chscholl/) and [Pascal Fontaine](https://people.montefiore.uliege.be/pfontain/)
 - Bulgaria: [Roussanka Loukanova](https://staff.math.su.se/rloukanova/)
@@ -79,6 +81,7 @@ To report a problem or contribute to the web site, please open an [issue](https:
 - Ireland: [Madhusanka Liyanage](https://sites.google.com/view/madhusanka/home)
 - Israel: [Liron Cohen](https://in.bgu.ac.il/en/Pages/Liron-Cohen.aspx) and [Yakir Vizel](http://www.cs.technion.ac.il/~yvizel/)
 - Italy: [Claudio Sacerdoti Coen](http://www.cs.unibo.it/~sacerdot/) and [Maria Emilia Maietti](https://www.math.unipd.it/~maietti/)
+- Lithuania: [Linas Laibinis]()
 - Luxembourg: [Matteo Acclavio](http://www.matteoacclavio.com) and [Alexander Steen](https://www.alexandersteen.de/)
 - Netherlands: [Herman Geuvers](http://www.cs.ru.nl/~herman/) and [Jesper Cockx](https://jesper.sikanda.be/)
 - North Macedonia: [Natasha Maksimova](https://scholar.ugd.edu.mk/nmaksimova) and [Marija Mihova](https://finki.ukim.mk/en/staff/marija-mihova)
