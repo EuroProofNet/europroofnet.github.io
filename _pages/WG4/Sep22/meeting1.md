@@ -6,6 +6,10 @@ author_profile: true
 breadcrumbs: true
 ---
 
+This meeting is part of the [Computational Logic Autumn Summit 2022](https://viam.science.tsu.ge/clas2022/).
+
+**Venue:** [Tbilisi State University, Chavchavadze ave. 1, 0179 Tbilisi, Georgia](https://viam.science.tsu.ge/clas2022/venue)
+
 **Call for talks and participation:** We welcome talks, tutorials,
 demos, on library descriptions or on methodologies, algorithms and
 tools trying to tackle the challenges raised by the development,
@@ -31,8 +35,6 @@ you want to give a talk or just attend, please fill in this [form](https://forms
 - [Carsten Fuhs](https://www.dcs.bbk.ac.uk/~carsten/)
 - [Sandra Alves](https://www.dcc.fc.up.pt/~sandra/Home/Home.html)
 - ... add your name [here](https://forms.gle/fNxt1ot2xgUUSfGt5)
-
-**Venue:** [Tbilisi State University, Chavchavadze ave. 1, 0179 Tbilisi, Georgia](https://viam.science.tsu.ge/clas2022/venue)
 
 **Scientific organizers:** [Claudio Sacerdoti](http://www.cs.unibo.it/~sacerdot/) and [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/)
 
