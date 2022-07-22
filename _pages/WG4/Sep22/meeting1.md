@@ -10,21 +10,26 @@ breadcrumbs: true
 demos, on library descriptions or on methodologies, algorithms and
 tools trying to tackle the challenges raised by the development,
 maintenance, refactoring and search of large libraries of proofs. If
-you want to give a talk, please fill in this [form](
-https://forms.gle/fNxt1ot2xgUUSfGt5) before **July 24**.
+you want to give a talk or just attend, please fill in this [form](https://forms.gle/fNxt1ot2xgUUSfGt5).
 
 EuroProofNet can reimburse the transport to Tbilisi + 60 euros/day for the accommodation on September 23-24 (hotels and meals are cheap in Tbilisi) for a number of participants. Please check [eligibility rules](https://europroofnet.github.io/eligibility/) and [reimbursement rules](https://europroofnet.github.io/reimbursement-rules/) to get more details. Participation can be online if you cannot go to Tbilisi.
 
-**Currently registered participants/speakers:**
+**Current participants:**
 - [Enrico Tassi](http://www-sop.inria.fr/members/Enrico.Tassi/)
 - [Geoff Sutcliffe](https://www.cs.miami.edu/home/geoff/)
 - [Artur Korniłowicz](http://math.uwb.edu.pl/~arturk/)
 - [Fabian Huch](https://www21.in.tum.de/team/huch/)
+- [Fabian Huch](https://www21.in.tum.de/team/huch/)
+- [Anne Baanen](https://www.cs.vu.nl/~tbn305/)
+- [Riccardo Brasca](https://webusers.imj-prg.fr/~riccardo.brasca/)
 - Christian Sottile
 - Georgios Pitsiladis
-- Carsten Fuhs
+- [Mehmet Tahir Sandikkaya](https://www.sandikkaya.name.tr/)
 - [Claudio Sacerdoti](http://www.cs.unibo.it/~sacerdot/)
 - [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/)
+- [Carsten Fuhs](https://www.dcs.bbk.ac.uk/~carsten/)
+- [Sandra Alves](https://www.dcc.fc.up.pt/~sandra/Home/Home.html)
+- ... [form](https://forms.gle/fNxt1ot2xgUUSfGt5)
 
 **Venue:** [Tbilisi State University, Chavchavadze ave. 1, 0179 Tbilisi, Georgia](https://viam.science.tsu.ge/clas2022/venue)
 
