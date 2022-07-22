@@ -14,18 +14,19 @@ you want to give a talk or just attend, please fill in this [form](https://forms
 
 **Funding:** EuroProofNet can reimburse the transport to Tbilisi + 60 euros/day for the accommodation on September 23-24 (hotels and meals are cheap in Tbilisi) for a number of participants. Please check [eligibility rules](https://europroofnet.github.io/eligibility/) and [reimbursement rules](https://europroofnet.github.io/reimbursement-rules/) to get more details. Participation can be online if you cannot go to Tbilisi.
 
-**Current participants:**
-- [Enrico Tassi](http://www-sop.inria.fr/members/Enrico.Tassi/)
-- [Geoff Sutcliffe](https://www.cs.miami.edu/home/geoff/)
-- [Artur Korniłowicz](http://math.uwb.edu.pl/~arturk/)
-- [Fabian Huch](https://www21.in.tum.de/team/huch/)
-- [Fabian Huch](https://www21.in.tum.de/team/huch/)
-- [Anne Baanen](https://www.cs.vu.nl/~tbn305/)
-- [Riccardo Brasca](https://webusers.imj-prg.fr/~riccardo.brasca/)
+**Current participants and proposed talks:**
+- [Enrico Tassi](http://www-sop.inria.fr/members/Enrico.Tassi/), the mathematical structure hierarchy builder in MathComp
+- [Geoff Sutcliffe](https://www.cs.miami.edu/home/geoff/), The TDTP library - Tons of Data for Theorem Provers
+- [Artur Korniłowicz](http://math.uwb.edu.pl/~arturk/), the Mizar mathematical library
+- [Fabian Huch](https://www21.in.tum.de/team/huch/), search in the Isabelle's archive of formal proofs
+- [Anne Baanen](https://www.cs.vu.nl/~tbn305/), typeclasses in Lean and their impact on maintainability and refactoring
+- [Riccardo Brasca](https://webusers.imj-prg.fr/~riccardo.brasca/), maintenance of Lean's mathlib and the Liquid tensor experiment
+- [Florian Rabe](https://kwarc.info/people/frabe/), experiences from exporting libraries of major proof assistants to MTT
+- [Michael Kohlhase](https://kwarc.info/people/mkohlhase/)
 - Christian Sottile
 - Georgios Pitsiladis
 - [Mehmet Tahir Sandikkaya](https://www.sandikkaya.name.tr/)
-- [Claudio Sacerdoti](http://www.cs.unibo.it/~sacerdot/)
+- [Claudio Sacerdoti](http://www.cs.unibo.it/~sacerdot/), the challenges of the EuroProofNet working group 4 on libraries
 - [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/)
 - [Carsten Fuhs](https://www.dcs.bbk.ac.uk/~carsten/)
 - [Sandra Alves](https://www.dcc.fc.up.pt/~sandra/Home/Home.html)
