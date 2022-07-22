@@ -30,7 +30,7 @@ you want to give a talk or just attend, please fill in this [form](https://forms
 - [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/)
 - [Carsten Fuhs](https://www.dcs.bbk.ac.uk/~carsten/)
 - [Sandra Alves](https://www.dcc.fc.up.pt/~sandra/Home/Home.html)
-- ... [form](https://forms.gle/fNxt1ot2xgUUSfGt5)
+- ... add your name [here](https://forms.gle/fNxt1ot2xgUUSfGt5)
 
 **Venue:** [Tbilisi State University, Chavchavadze ave. 1, 0179 Tbilisi, Georgia](https://viam.science.tsu.ge/clas2022/venue)
 
