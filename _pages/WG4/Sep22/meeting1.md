@@ -8,6 +8,8 @@ breadcrumbs: true
 
 This meeting is part of the [Computational Logic Autumn Summit 2022](https://viam.science.tsu.ge/clas2022/).
 
+**Date:** 23-24 September 2022
+
 **Venue:** [Tbilisi State University, Chavchavadze ave. 1, 0179 Tbilisi, Georgia](https://viam.science.tsu.ge/clas2022/venue)
 
 **Call for talks and participation:** We welcome talks, tutorials,
