@@ -35,8 +35,10 @@ you want to give a talk or just attend, please fill in this [form](https://forms
 - [Mehmet Tahir Sandikkaya](https://www.sandikkaya.name.tr/)
 - [Claudio Sacerdoti](http://www.cs.unibo.it/~sacerdot/), the challenges of the EuroProofNet working group 4 on libraries
 - [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/)
-- [Carsten Fuhs](https://www.dcs.bbk.ac.uk/~carsten/)
-- [Sandra Alves](https://www.dcc.fc.up.pt/~sandra/Home/Home.html)
+- Carsten Fuhs
+- Sandra Alves
+- Peter Ölveczky
+- Christopher Lynch
 - ... add your name [here](https://forms.gle/fNxt1ot2xgUUSfGt5)
 
 **Scientific organizers:** [Claudio Sacerdoti](http://www.cs.unibo.it/~sacerdot/) and [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/)
