@@ -38,7 +38,7 @@ you want to give a talk or just attend, please fill in this [form](https://forms
 - Carsten Fuhs
 - Sandra Alves
 - Peter Ölveczky
-- Christopher Lynch
+<!-- Christopher Lynch-->
 - ... add your name [here](https://forms.gle/fNxt1ot2xgUUSfGt5)
 
 **Scientific organizers:** [Claudio Sacerdoti](http://www.cs.unibo.it/~sacerdot/) and [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/)
