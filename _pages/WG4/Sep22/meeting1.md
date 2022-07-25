@@ -28,7 +28,7 @@ you want to give a talk or just attend, please fill in this [form](https://forms
 - [Anne Baanen](https://www.cs.vu.nl/~tbn305/), typeclasses in Lean and their impact on maintainability and refactoring
 - [Riccardo Brasca](https://webusers.imj-prg.fr/~riccardo.brasca/), maintenance of Lean's mathlib and the Liquid tensor experiment
 - [Florian Rabe](https://kwarc.info/people/frabe/), experiences from exporting libraries of major proof assistants to MTT <!--(online)-->
-<!-- [Michael Kohlhase](https://kwarc.info/people/mkohlhase/)-->
+- Georges Gonthier <!--(online)-->
 - Anton Nikishaev
 - Christian Sottile <!--(online)-->
 - Georgios Pitsiladis <!--(online)-->
