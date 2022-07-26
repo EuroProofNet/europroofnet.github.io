@@ -27,19 +27,19 @@ just attend, please fill in this
 - [Fabian Huch](https://www21.in.tum.de/team/huch/) (Technical University of Münich), Finding facts in large formalization libraries: Two Isabelle/AFP attempts
 - [Anne Baanen](https://www.cs.vu.nl/~tbn305/) (Vrije Universiteit Amsterdam), typeclasses in Lean and their impact on maintainability and refactoring
 - [Riccardo Brasca](https://webusers.imj-prg.fr/~riccardo.brasca/) (University of Paris Cité), maintenance of Lean's mathlib and the Liquid tensor experiment
-- [Florian Rabe](https://kwarc.info/people/frabe/) (University of Erlangen), experiences from exporting libraries of major proof assistants to MTT <!--(online?)-->
+- [Florian Rabe](https://kwarc.info/people/frabe/) (University of Erlangen), experiences from exporting libraries of major proof assistants to MTT <!--[online?]-->
 - [Alexander Best](https://alexjbest.github.io/) (Vrije Universiteit Amsterdam), Metaprogramming for Automation of Library Maintenance
-- Georges Gonthier (INRIA Saclay), TBA (online)
-- [Enrico Tassi](http://www-sop.inria.fr/members/Enrico.Tassi/) (INRIA Sophia Antipolis), the mathematical structure hierarchy builder in MathComp (online)
-- [Geoff Sutcliffe](https://www.cs.miami.edu/home/geoff/) (University of Miami), The TDTP library - Tons of Data for Theorem Provers (online)
-- [Artur Korniłowicz](http://math.uwb.edu.pl/~arturk/) (University of Bialystok), the Mizar mathematical library (online)
+- Georges Gonthier (INRIA Saclay), TBA [online]
+- [Enrico Tassi](http://www-sop.inria.fr/members/Enrico.Tassi/) (INRIA Sophia Antipolis), the mathematical structure hierarchy builder in MathComp [online]
+- [Geoff Sutcliffe](https://www.cs.miami.edu/home/geoff/) (University of Miami), The TDTP library - Tons of Data for Theorem Provers [online]
+- [Artur Korniłowicz](http://math.uwb.edu.pl/~arturk/) (University of Bialystok), the Mizar mathematical library [online]
 - [André Freitas](http://andrefreitas.org/) (University of Manchester)
 - [Thiago Felicissimo](https://lmf.cnrs.fr/Perso/ThiagoFelicissimo) (University Paris-Saclay)
 - [Niccolò Veltri](https://niccoloveltri.github.io/) (Tallinn University of Technology)
-- [Talia Ringer](https://dependenttyp.es/) (University of Illinois at Urbana-Champaign) (online)
+- [Talia Ringer](https://dependenttyp.es/) (University of Illinois at Urbana-Champaign) [online]
 - Anton Nikishaev
-- Christian Sottile (online)
-- Georgios Pitsiladis (online)
+- Christian Sottile [online]
+- Georgios Pitsiladis [online]
 - [Mehmet Tahir Sandikkaya](https://www.sandikkaya.name.tr/) (Istanbul Technical University)
 - [Maribel Fernandez](https://nms.kcl.ac.uk/maribel.fernandez/) (King's College London)
 <!-- Carsten Fuhs-->
