@@ -24,28 +24,29 @@ just attend, please fill in this
 
 **Current participants and proposed talks (under construction):**
 - [Claudio Sacerdoti](http://www.cs.unibo.it/~sacerdot/), the challenges of the EuroProofNet working group 4 on libraries
-- Georges Gonthier <!--(online)-->
-- [Enrico Tassi](http://www-sop.inria.fr/members/Enrico.Tassi/), the mathematical structure hierarchy builder in MathComp <!--(online)-->
-- [Geoff Sutcliffe](https://www.cs.miami.edu/home/geoff/), The TDTP library - Tons of Data for Theorem Provers <!--(online)-->
-- [Artur Korniłowicz](http://math.uwb.edu.pl/~arturk/), the Mizar mathematical library <!--(online)-->
 - [Fabian Huch](https://www21.in.tum.de/team/huch/), Finding facts in large formalization libraries: Two Isabelle/AFP attempts
 - [Anne Baanen](https://www.cs.vu.nl/~tbn305/), typeclasses in Lean and their impact on maintainability and refactoring
 - [Riccardo Brasca](https://webusers.imj-prg.fr/~riccardo.brasca/), maintenance of Lean's mathlib and the Liquid tensor experiment
 - [Florian Rabe](https://kwarc.info/people/frabe/), experiences from exporting libraries of major proof assistants to MTT <!--(online)-->
 - [Alexander Best](https://alexjbest.github.io/), Metaprogramming for Automation of Library Maintenance
+- Georges Gonthier (INRIA Saclay), TBA (online)
+- [Enrico Tassi](http://www-sop.inria.fr/members/Enrico.Tassi/), the mathematical structure hierarchy builder in MathComp (online)
+- [Geoff Sutcliffe](https://www.cs.miami.edu/home/geoff/), The TDTP library - Tons of Data for Theorem Provers (online)
+- [Artur Korniłowicz](http://math.uwb.edu.pl/~arturk/), the Mizar mathematical library (online)
 - [André Freitas](http://andrefreitas.org/)
-- Anton Nikishaev
-- Christian Sottile <!--(online)-->
-- Georgios Pitsiladis <!--(online)-->
-- Mehmet Tahir Sandikkaya
 - Thiago Felicissimo
 - Niccolò Veltri
+- Talia Ringer (online)
+- Anton Nikishaev
+- Christian Sottile (online)
+- Georgios Pitsiladis (online)
+- Mehmet Tahir Sandikkaya
 - Maribel Fernandez
-- Carsten Fuhs
-- Peter Ölveczky
+<!-- Carsten Fuhs-->
+<!-- Peter Ölveczky-->
+<!-- Christopher Lynch-->
 - Sandra Alves
 - [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/)
-<!-- Christopher Lynch-->
 - ... add your name [here](https://forms.gle/fNxt1ot2xgUUSfGt5)
 
 **Scientific organizers:** [Claudio Sacerdoti](http://www.cs.unibo.it/~sacerdot/) and [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/)
