@@ -7,7 +7,7 @@ author_profile: true
 
 [Accepted STSMs](../accepted_stsms)
 
-The next deadline for STSM proposals will be in Oct 2022.
+The next deadline for STSM proposals will be in November or December 2022.
 
 **What is an STSM?**
 
