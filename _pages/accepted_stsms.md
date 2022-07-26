@@ -5,6 +5,38 @@ permalink: /accepted_stsms/
 author_profile: true
 ---
 
+## 3rd call (1 July 2022)
+
+* **Behavioural Types for Smart Contracts**  
+  Visitor: Emilio Tuosto (Gran Sasso Science Institute, L'Aquila, IT)  
+  Host: Antonio Ravara (Universidade NOVA de Lisboa, Lisbon, PT)  
+  Grant: 1500 EUR  
+  Dates: 2022-07-14 to 2022-07-22
+
+* **Leveraging a λProlog engine for type class resolution in Coq and Lambdapi**  
+  Visitor: Matteo Manighetti (INRIA Saclay, Palaiseau, FR)  
+  Host: Enrico Tassi (Inria Université Côte d'Azur, Valbonne , FR)  
+  Grant: 1700 EUR  
+  Dates: 2022-10-15 to 2022-10-29
+
+* **Evaluation efficiency in cubical type theories**  
+  Visitor: András Kovács (Eötvös Loránd University, Budapest, HU)  
+  Host: Anders Mörtberg (Stockholm University, SE)  
+  Grant: 1040 EUR  
+  Dates: 2022-10-09 to 2022-10-16
+
+* **Hierarchical Higher-Order Port Graphs for the representation and analysis of proofs**  
+  Visitor: Maribel Fernandez (King's College London, GB)  
+  Host: Sandra Alves (University of Porto, PT)  
+  Grant: 902 EUR  
+  Dates: 2022-09-12 to 2022-09-18
+
+* **Unification Library & Mechanized Type Inference in Agda**  
+  Visitor: Luca Ciccone (Università di Torino, IT)  
+  Host: Ornela Dardha (University of Glasgow, GB)  
+  Grant: 2450 EUR  
+  Dates: 2022-09-04 to 2022-09-18
+
 ## 2nd call (3 April 2022)
 
 * **Using "behavioural types" for automatic validation of distributed systems**  

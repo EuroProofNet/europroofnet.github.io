@@ -7,9 +7,7 @@ author_profile: true
 
 [Accepted STSMs](../accepted_stsms)
 
-The next deadline for STSM proposals for the period **Feb-Oct 2022** is:
-
-- **1st July 2022** (notification 8 July): we are especially looking for applications from WG4 on the construction, management and (re)use of big libraries of formal proofs
+The next deadline for STSM proposals will be in Oct 2022.
 
 **What is an STSM?**
 
@@ -113,5 +111,6 @@ For any question, please contact the coordinators for STSMs [Danijela Simic](htt
 
 **Past deadlines**
 
+- 1 July 2022 (notification on 8 July): we were especially looking for applications from WG4 on the construction, management and (re)use of big libraries of formal proofs
 - 3 April 2022 (notification on 15 April): we were especially looking for applications from women and working groups other than WG3
 - 18 January 2022 (notification 26 January)
