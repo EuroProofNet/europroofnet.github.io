@@ -18,7 +18,7 @@ breadcrumbs: true
 
 # Saturday 24 September
 
-- 09:30 [Fabian Huch](https://www21.in.tum.de/team/huch/) (Technical University of Munich), Finding facts in large formalization libraries: Two Isabelle/AFP attempts <!--30'-->
+- 09:30 [Fabian Huch](https://www21.in.tum.de/team/huch/) (Technical University of Münich), Finding facts in large formalization libraries: Two Isabelle/AFP attempts <!--30'-->
 
 - 10:00 [Alexander Best](https://alexjbest.github.io/) (VU Amsterdam), Metaprogramming for Automation of Library Maintenance
 

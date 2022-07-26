@@ -23,29 +23,29 @@ just attend, please fill in this
 **Funding:** EuroProofNet can reimburse the transport to Tbilisi + 60 euros/day for the accommodation on September 23-24 (hotels and meals are cheap in Tbilisi) for a number of participants. Please check [eligibility rules](https://europroofnet.github.io/eligibility/) and [reimbursement rules](https://europroofnet.github.io/reimbursement-rules/) to get more details. Participation can be online if you cannot go to Tbilisi.
 
 **Current participants and proposed talks (under construction):**
-- [Claudio Sacerdoti](http://www.cs.unibo.it/~sacerdot/), the challenges of the EuroProofNet working group 4 on libraries
-- [Fabian Huch](https://www21.in.tum.de/team/huch/), Finding facts in large formalization libraries: Two Isabelle/AFP attempts
-- [Anne Baanen](https://www.cs.vu.nl/~tbn305/), typeclasses in Lean and their impact on maintainability and refactoring
-- [Riccardo Brasca](https://webusers.imj-prg.fr/~riccardo.brasca/), maintenance of Lean's mathlib and the Liquid tensor experiment
-- [Florian Rabe](https://kwarc.info/people/frabe/), experiences from exporting libraries of major proof assistants to MTT <!--(online)-->
-- [Alexander Best](https://alexjbest.github.io/), Metaprogramming for Automation of Library Maintenance
+- [Claudio Sacerdoti](http://www.cs.unibo.it/~sacerdot/) (University of Bologna), the challenges of the EuroProofNet working group 4 on libraries
+- [Fabian Huch](https://www21.in.tum.de/team/huch/) (Technical University of Münich), Finding facts in large formalization libraries: Two Isabelle/AFP attempts
+- [Anne Baanen](https://www.cs.vu.nl/~tbn305/) (Vrije Universiteit Amsterdam), typeclasses in Lean and their impact on maintainability and refactoring
+- [Riccardo Brasca](https://webusers.imj-prg.fr/~riccardo.brasca/) (University of Paris Cité), maintenance of Lean's mathlib and the Liquid tensor experiment
+- [Florian Rabe](https://kwarc.info/people/frabe/) (University of Erlangen), experiences from exporting libraries of major proof assistants to MTT <!--(online?)-->
+- [Alexander Best](https://alexjbest.github.io/) (Vrije Universiteit Amsterdam), Metaprogramming for Automation of Library Maintenance
 - Georges Gonthier (INRIA Saclay), TBA (online)
-- [Enrico Tassi](http://www-sop.inria.fr/members/Enrico.Tassi/), the mathematical structure hierarchy builder in MathComp (online)
-- [Geoff Sutcliffe](https://www.cs.miami.edu/home/geoff/), The TDTP library - Tons of Data for Theorem Provers (online)
-- [Artur Korniłowicz](http://math.uwb.edu.pl/~arturk/), the Mizar mathematical library (online)
-- [André Freitas](http://andrefreitas.org/)
-- Thiago Felicissimo
-- Niccolò Veltri
-- Talia Ringer (online)
+- [Enrico Tassi](http://www-sop.inria.fr/members/Enrico.Tassi/) (INRIA Sophia Antipolis), the mathematical structure hierarchy builder in MathComp (online)
+- [Geoff Sutcliffe](https://www.cs.miami.edu/home/geoff/) (University of Miami), The TDTP library - Tons of Data for Theorem Provers (online)
+- [Artur Korniłowicz](http://math.uwb.edu.pl/~arturk/) (University of Bialystok), the Mizar mathematical library (online)
+- [André Freitas](http://andrefreitas.org/) (University of Manchester)
+- [Thiago Felicissimo](https://lmf.cnrs.fr/Perso/ThiagoFelicissimo) (University Paris-Saclay)
+- [Niccolò Veltri](https://niccoloveltri.github.io/) (Tallinn University of Technology)
+- [Talia Ringer](https://dependenttyp.es/) (University of Illinois at Urbana-Champaign) (online)
 - Anton Nikishaev
 - Christian Sottile (online)
 - Georgios Pitsiladis (online)
-- Mehmet Tahir Sandikkaya
-- Maribel Fernandez
+- [Mehmet Tahir Sandikkaya](https://www.sandikkaya.name.tr/) (Istanbul Technical University)
+- [Maribel Fernandez](https://nms.kcl.ac.uk/maribel.fernandez/) (King's College London)
 <!-- Carsten Fuhs-->
 <!-- Peter Ölveczky-->
 <!-- Christopher Lynch-->
-- Sandra Alves
+- [Sandra Alves](https://www.dcc.fc.up.pt/~sandra/Home/Home.html) (University of Porto)
 - [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/)
 - ... add your name [here](https://forms.gle/fNxt1ot2xgUUSfGt5)
 
