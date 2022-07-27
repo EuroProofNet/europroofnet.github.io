@@ -25,10 +25,12 @@ just attend, please fill in this
 **Current participants and proposed talks (under construction):**
 - [Claudio Sacerdoti](http://www.cs.unibo.it/~sacerdot/) (University of Bologna), the challenges of the EuroProofNet working group 4 on libraries
 - [Fabian Huch](https://www21.in.tum.de/team/huch/) (Technical University of Münich), Finding facts in large formalization libraries: Two Isabelle/AFP attempts
+- [Yiannis Stathopoulos](https://www.cl.cam.ac.uk/~yas23/) (University of Cambridge), TBA
 - [Anne Baanen](https://www.cs.vu.nl/~tbn305/) (Vrije Universiteit Amsterdam), typeclasses in Lean and their impact on maintainability and refactoring
 - [Riccardo Brasca](https://webusers.imj-prg.fr/~riccardo.brasca/) (University of Paris Cité), maintenance of Lean's mathlib and the Liquid tensor experiment
 - [Florian Rabe](https://kwarc.info/people/frabe/) (University of Erlangen), experiences from exporting libraries of major proof assistants to MTT <!--[online?]-->
 - [Alexander Best](https://alexjbest.github.io/) (Vrije Universiteit Amsterdam), Metaprogramming for Automation of Library Maintenance
+- [Reuben Rowe](https://pure.royalholloway.ac.uk/portal/en/persons/reuben-rowe(70354339-7bc5-475d-b8d5-7fa95114d851).html) (Royal Halloway University of London), Refactoring OCaml
 - Georges Gonthier (INRIA Saclay), TBA [online]
 - [Enrico Tassi](http://www-sop.inria.fr/members/Enrico.Tassi/) (INRIA Sophia Antipolis), the mathematical structure hierarchy builder in MathComp [online]
 - [Geoff Sutcliffe](https://www.cs.miami.edu/home/geoff/) (University of Miami), The TDTP library - Tons of Data for Theorem Provers [online]
@@ -42,6 +44,7 @@ just attend, please fill in this
 - Georgios Pitsiladis [online]
 - [Mehmet Tahir Sandikkaya](https://www.sandikkaya.name.tr/) (Istanbul Technical University)
 - [Maribel Fernandez](https://nms.kcl.ac.uk/maribel.fernandez/) (King's College London)
+- Dara MacConville [online]
 <!-- Carsten Fuhs-->
 <!-- Peter Ölveczky-->
 <!-- Christopher Lynch-->
