@@ -8,7 +8,7 @@ breadcrumbs: true
 
 **Warning:** Time in Tbilisi (UTC+4)
 
-# Friday 23 September
+## Friday 23 September
 
 - 12:30 CLAS lunch time
 
@@ -52,9 +52,9 @@ We believe similar library translations will be an essential part of any future 
 
 - 18:00 end
 
-- 19:00 dinner together in some restaurant
+- 19:00 dinner together in some restaurant for those who want (suggestions are welcome)
 
-# Saturday 24 September
+## Saturday 24 September
 
 - 09:15 [Fabian Huch](https://www21.in.tum.de/team/huch/) (Technical University of Münich), Finding facts in large formalization libraries: Two Isabelle/AFP attempts <!--30'-->
 
@@ -94,3 +94,5 @@ and also help us spot difficult to notice issues.
 - 17:00 [André Freitas](http://andrefreitas.org/) (University of Manchester), TBA
 
 - 18:00 end
+
+- 19:00 dinner together in some restaurant for those who want (suggestions are welcome)
