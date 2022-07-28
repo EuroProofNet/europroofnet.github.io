@@ -14,9 +14,9 @@ breadcrumbs: true
 
 - 14:00 [Claudio Sacerdoti](http://www.cs.unibo.it/~sacerdot/) (Universty of Bologna), the challenges of the EuroProofNet Working Group 4 on libraries <!--30'-->
 
-- 14:30 Georges Gonthier (INRIA Saclay) [online], TBA <!--60'?--> <!--Friday only-->
+- 14:30 Georges Gonthier (INRIA Saclay) [online], TBA <!--Friday only-->
 
-- 15:30 [Enrico Tassi](http://www-sop.inria.fr/members/Enrico.Tassi/) (INRIA Sophia Antipolis), [Hierarchy Builder](https://github.com/math-comp/hierarchy-builder), algebraic hierarchies made easy (in Coq) [online] <!--30'--> <!--Friday only-->
+- 15:00 [Enrico Tassi](http://www-sop.inria.fr/members/Enrico.Tassi/) (INRIA Sophia Antipolis), [Hierarchy Builder](https://github.com/math-comp/hierarchy-builder), algebraic hierarchies made easy (in Coq) [online] <!--30'--> <!--Friday only-->
 
 It is nowadays customary to organize libraries of machine checked
 proofs around hierarchies of algebraic structures. One influential
@@ -37,11 +37,15 @@ provide appropriate code to ensure retro compatibility.
 We make a demo the HB language using the hierarchy-builder addon for
 the Coq system.
 
-- 16:00 coffee break
+- 15:30 CLAS coffee break
 
-- 16:30 [Geoff Sutcliffe](https://www.cs.miami.edu/home/geoff/) (University of Miami), The TDTP library - Tons of Data for Theorem Provers [online] <!--30'--> <!--Friday after 14:00-->
+- 16:00 [Geoff Sutcliffe](https://www.cs.miami.edu/home/geoff/) (University of Miami), The TDTP library - Tons of Data for Theorem Provers [online] <!--30'--> <!--Friday after 14:00-->
 
-- 17:00 [Florian Rabe](https://kwarc.info/people/frabe/) and [Michael Kohlhase](https://kwarc.info/people/mkohlhase/) (University of Erlangen), Experiences from Exporting Major Proof Assistant Libraries <!--(online?)--> <!--30-60'-->
+- 16:30 [Marco Maggesi](https://sites.google.com/unifi.it/maggesi/), The HOL Light library of formalized mathematics
+
+- 17:00 [Julien Narboux](https://dpt-info.di.unistra.fr/~narboux/) (University of Strasbourg) [online], The GeoCoq library and its porting to Isabelle
+
+- 17:30 [Florian Rabe](https://kwarc.info/people/frabe/) and [Michael Kohlhase](https://kwarc.info/people/mkohlhase/) (University of Erlangen), Experiences from Exporting Major Proof Assistant Libraries <!--(online?)--> <!--30-60'-->
 
 The interoperability of proof assistants and the integration of their libraries is a highly valued but elusive goal in the field of theorem proving.
 As a preparatory step, in previous work, we translated the libraries of multiple proof assistants, specifically the ones of Coq, HOL Light, IMPS, Isabelle, Mizar, and
@@ -56,13 +60,28 @@ We believe similar library translations will be an essential part of any future 
 
 ## Saturday 24 September
 
-- 09:15 [Fabian Huch](https://www21.in.tum.de/team/huch/) (Technical University of Münich), Finding facts in large formalization libraries: Two Isabelle/AFP attempts <!--30'-->
+- 09:00 CLAS invited speaker (TBA)
 
-- 09:45 [Yiannis Stathopoulos](https://www.cl.cam.ac.uk/~yas23/) (University of Cambridge), TBA <!--30'?-->
+- 10:00 [Fabian Huch](https://www21.in.tum.de/team/huch/) (Technical University of Münich), Finding facts in large formalization libraries: Two Isabelle/AFP attempts <!--30'-->
 
-- 10:15 coffee break
+- 10:30 CLAS coffee break
 
-- 10:45 [Alexander Best](https://alexjbest.github.io/) (Vrije Universiteit Amsterdam), Metaprogramming for Automation of Library Maintenance <!--45'-->
+- 11:00 [Yiannis Stathopoulos](https://www.cl.cam.ac.uk/~yas23/) (University of Cambridge), TBA
+
+- 11:30 [Artur Korniłowicz](http://math.uwb.edu.pl/~arturk/) (University of Bialystok), XML-based representation of Mizar Mathematical Library [online] <!--60'-120'-->
+
+The Mizar Mathematical Library is a collection of mathematical papers written in the Mizar language and fully computer-verified by the Mizar proof checker.
+From many years the Mizar Mathematical Library is a subject of translation into other systems for its cross-verification or representing its content in various formats.
+To facilitate this task several internal XML-based formats have been designed to be processable by generic tools independent from the Mizar system.
+These formats represent various syntactic-semantic information accessible at various stages of proof verification by the Mizar checker.
+In this talk we present constructions of the Mizar language and describe how they are represented in the XML formats.
+We also present the content of the Mizar Mathematical Library with a focus on its initial articles and discuss the management model of the library.
+
+- 12:30 CLAS lunch time
+
+- 14:00 [Anne Baanen](https://www.cs.vu.nl/~tbn305/) (Vrije Universiteit Amsterdam), typeclasses in Lean and their impact on maintainability and refactoring <!--30'?-->
+
+- 14:30 [Alexander Best](https://alexjbest.github.io/) (Vrije Universiteit Amsterdam), Metaprogramming for Automation of Library Maintenance <!--30'-45'-->
 
 Large libraries of formal proofs are becoming increasingly common, and
 pose several challenges for the maintenance and upkeep if they are to
@@ -79,19 +98,17 @@ automated tooling, and give some case studies showing how automation
 can help humans review things they may not have the time to look into,
 and also help us spot difficult to notice issues.
 
-- 11:30 [Riccardo Brasca](https://webusers.imj-prg.fr/~riccardo.brasca/) (University of Paris Cité), maintenance of Lean's mathlib and the Liquid tensor experiment <!--30'-60'-->
+- 15:00 [Riccardo Brasca](https://webusers.imj-prg.fr/~riccardo.brasca/) (University of Paris Cité), maintenance of Lean's mathlib and the Liquid tensor experiment <!--30'-60'-->
 
-- 12:30 CLAS lunch time
-
-- 14:00 [Artur Korniłowicz](http://math.uwb.edu.pl/~arturk/) (University of Bialystok), the Mizar mathematical library [online] <!--60'-120'-->
-
-- 15:00 [Anne Baanen](https://www.cs.vu.nl/~tbn305/) (Vrije Universiteit Amsterdam), typeclasses in Lean and their impact on maintainability and refactoring <!--30'?-->
-
-- 15:30 coffee break
+- 15:30 CLAS coffee break
 
 - 16:00 [Reuben Rowe](https://pure.royalholloway.ac.uk/portal/en/persons/reuben-rowe(70354339-7bc5-475d-b8d5-7fa95114d851).html) (Royal Halloway University of London), Refactoring OCaml
 
-- 17:00 [André Freitas](http://andrefreitas.org/) (University of Manchester), TBA
+- 16:30 [André Freitas](http://andrefreitas.org/) (University of Manchester), TBA
+
+- 17:00
+
+- 17:30
 
 - 18:00 end
 

@@ -34,8 +34,10 @@ you want to give a talk or just attend, please fill in this
 - Georges Gonthier (INRIA Saclay), TBA [online]
 - [Enrico Tassi](http://www-sop.inria.fr/members/Enrico.Tassi/) (INRIA Sophia Antipolis), the mathematical structure hierarchy builder in MathComp [online]
 - [Geoff Sutcliffe](https://www.cs.miami.edu/home/geoff/) (University of Miami), The TDTP library - Tons of Data for Theorem Provers [online]
-- [Artur Korniłowicz](http://math.uwb.edu.pl/~arturk/) (University of Bialystok), the Mizar mathematical library [online]
+- [Artur Korniłowicz](http://math.uwb.edu.pl/~arturk/) (University of Bialystok), XML-based representation of Mizar Mathematical Library [online]
 - [André Freitas](http://andrefreitas.org/) (University of Manchester)
+- [Marco Maggesi](https://sites.google.com/unifi.it/maggesi/), The HOL Light library of formalized mathematics
+- [Julien Narboux](https://dpt-info.di.unistra.fr/~narboux/) (University of Strasbourg) [online], The GeoCoq library and its porting to Isabelle
 - [Thiago Felicissimo](https://lmf.cnrs.fr/Perso/ThiagoFelicissimo) (University Paris-Saclay)
 - [Niccolò Veltri](https://niccoloveltri.github.io/) (Tallinn University of Technology)
 - [Talia Ringer](https://dependenttyp.es/) (University of Illinois at Urbana-Champaign) [online]
