@@ -28,7 +28,7 @@ you want to give a talk or just attend, please fill in this
 - [Yiannis Stathopoulos](https://www.cl.cam.ac.uk/~yas23/) (University of Cambridge), TBA
 - [Anne Baanen](https://www.cs.vu.nl/~tbn305/) (Vrije Universiteit Amsterdam), typeclasses in Lean and their impact on maintainability and refactoring
 - [Riccardo Brasca](https://webusers.imj-prg.fr/~riccardo.brasca/) (University of Paris Cité), maintenance of Lean's mathlib and the Liquid tensor experiment
-- [Florian Rabe](https://kwarc.info/people/frabe/) (University of Erlangen), experiences from exporting libraries of major proof assistants to MTT <!--[online?]-->
+- [Florian Rabe](https://kwarc.info/people/frabe/) (University of Erlangen), Experiences from Exporting Major Proof Assistant Libraries <!--[online?]-->
 - [Alexander Best](https://alexjbest.github.io/) (Vrije Universiteit Amsterdam), Metaprogramming for Automation of Library Maintenance
 - [Reuben Rowe](https://pure.royalholloway.ac.uk/portal/en/persons/reuben-rowe(70354339-7bc5-475d-b8d5-7fa95114d851).html) (Royal Halloway University of London), Refactoring OCaml
 - Georges Gonthier (INRIA Saclay), TBA [online]

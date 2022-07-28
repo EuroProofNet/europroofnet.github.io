@@ -45,7 +45,7 @@ the Coq system.
 
 - 17:00 [Julien Narboux](https://dpt-info.di.unistra.fr/~narboux/) (University of Strasbourg) [online], The GeoCoq library and its porting to Isabelle
 
-- 17:30 [Florian Rabe](https://kwarc.info/people/frabe/) and [Michael Kohlhase](https://kwarc.info/people/mkohlhase/) (University of Erlangen), Experiences from Exporting Major Proof Assistant Libraries <!--(online?)--> <!--30-60'-->
+- 17:30 [Florian Rabe](https://kwarc.info/people/frabe/) <!--and [Michael Kohlhase](https://kwarc.info/people/mkohlhase/)--> (University of Erlangen), Experiences from Exporting Major Proof Assistant Libraries <!--(online?)--> <!--30-60'-->
 
 The interoperability of proof assistants and the integration of their libraries is a highly valued but elusive goal in the field of theorem proving.
 As a preparatory step, in previous work, we translated the libraries of multiple proof assistants, specifically the ones of Coq, HOL Light, IMPS, Isabelle, Mizar, and
