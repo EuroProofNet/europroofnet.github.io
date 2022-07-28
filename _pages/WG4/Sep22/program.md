@@ -102,7 +102,7 @@ and also help us spot difficult to notice issues.
 
 - 15:30 CLAS coffee break
 
-- 16:00 [Reuben Rowe](https://pure.royalholloway.ac.uk/portal/en/persons/reuben-rowe(70354339-7bc5-475d-b8d5-7fa95114d851).html) <!--30'-60'--> (Royal Halloway University of London), Refactoring OCaml
+- 16:00 [Reuben Rowe](https://www.cs.rhul.ac.uk/home/rrowe/) <!--30'-60'--> (Royal Halloway University of London), Refactoring OCaml
 
 - 16:30 [André Freitas](http://andrefreitas.org/) (University of Manchester), TBA
 
