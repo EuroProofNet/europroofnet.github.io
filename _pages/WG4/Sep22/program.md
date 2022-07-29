@@ -43,7 +43,10 @@ the Coq system.
 
 - 16:30 [Marco Maggesi](https://sites.google.com/unifi.it/maggesi/), The HOL Light library of formalized mathematics
 
-- 17:00 [Julien Narboux](https://dpt-info.di.unistra.fr/~narboux/) (University of Strasbourg) [online], The GeoCoq library and its porting to Isabelle
+- 17:00 Roland Coghetto and [Julien Narboux](https://dpt-info.di.unistra.fr/~narboux/) (University of Strasbourg) [online], The GeoCoq library and its porting to Isabelle
+
+GeoCoq is a formal proof library consisting in a formalization of foundations of geometry. It is based on several different axiom systems by Euclid, Hilbert and Tarski, and includes the arithmetization of geometry, i.e. the link between synthetic and analytic geometry. 
+After giving a quick overview of the library, we will discuss how automation and logical foundations are used in each part of the library and the potential impact on porting the library to other proof assistants. Then, we will report on the porting of the library to Isabelle/HOL by Roland Coghetto.
 
 - 17:30 [Florian Rabe](https://kwarc.info/people/frabe/) <!--and [Michael Kohlhase](https://kwarc.info/people/mkohlhase/)--> (University of Erlangen), Experiences from Exporting Major Proof Assistant Libraries <!--(online?)--> <!--30-60'-->
 
