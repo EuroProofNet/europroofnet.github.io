@@ -12,17 +12,18 @@ This meeting is part of the [Computational Logic Autumn Summit 2022](https://via
 
 **Venue:** [Tbilisi State University, Chavchavadze ave. 1, 0179 Tbilisi, Georgia](https://viam.science.tsu.ge/clas2022/venue)
 
-**Call for talks and participation:** Participation is free and can be
-online if you cannot go to Tbilisi. We welcome talks, tutorials,
-demos, on library descriptions or on methodologies, algorithms and
-tools trying to tackle the challenges raised by the development,
-maintenance, refactoring and search of large libraries of proofs. If
-you want to give a talk or just attend, please fill in this
-[form](https://forms.gle/fNxt1ot2xgUUSfGt5).
+**Registration:** Registration is free but mandatory. To attend the
+workshop, physically or online, please send a mail to [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/).
 
-**Funding:** EuroProofNet can reimburse the transport to Tbilisi + 60 euros/day for the accommodation on September 23-24 (hotels and meals are cheap in Tbilisi) for a number of participants. Please check [eligibility rules](https://europroofnet.github.io/eligibility/) and [reimbursement rules](https://europroofnet.github.io/reimbursement-rules/) to get more details. Results will be given on August 4 maximum.
+If you are interested in giving a talk, please send a mail to
+[Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/) with a title
+and abstract. We welcome talks, tutorials, demos, on library
+descriptions or on methodologies, algorithms and tools trying to
+tackle the challenges raised by the development, maintenance,
+refactoring and search of large libraries of proofs.
+<!--fill in this [form](https://forms.gle/fNxt1ot2xgUUSfGt5).-->
 
-**Current participants and proposed talks (under construction):**
+**Programme:**
 - [Claudio Sacerdoti](http://www.cs.unibo.it/~sacerdot/) (University of Bologna), The challenges of the EuroProofNet Working Group 4 on libraries
 - [Fabian Huch](https://www21.in.tum.de/team/huch/) (Technical University of Münich), Finding facts in large formalization libraries: Two Isabelle/AFP attempts
 - [Yiannis Stathopoulos](https://www.cl.cam.ac.uk/~yas23/) (University of Cambridge), TBA
@@ -38,26 +39,24 @@ you want to give a talk or just attend, please fill in this
 - [André Freitas](http://andrefreitas.org/) (University of Manchester), Natural Language & Proofs: A Neuro-symbolic Perspective
 - [Marco Maggesi](https://sites.google.com/unifi.it/maggesi/), The HOL Light library of formalized mathematics
 - [Julien Narboux](https://dpt-info.di.unistra.fr/~narboux/) (University of Strasbourg) [online], The GeoCoq library and its porting to Isabelle
-- [Thiago Felicissimo](https://lmf.cnrs.fr/Perso/ThiagoFelicissimo) (University Paris-Saclay)
+
+**On site participants:** [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/), [Claudio Sacerdoti](http://www.cs.unibo.it/~sacerdot/), [Fabian Huch](https://www21.in.tum.de/team/huch/), [Yiannis Stathopoulos](https://www.cl.cam.ac.uk/~yas23/), [Anne Baanen](https://www.cs.vu.nl/~tbn305/), [Riccardo Brasca](https://webusers.imj-prg.fr/~riccardo.brasca/), [Alexander Best](https://alexjbest.github.io/), [Reuben Rowe](https://www.cs.rhul.ac.uk/home/rrowe/), [Marco Maggesi](https://sites.google.com/unifi.it/maggesi/), [André Freitas](http://andrefreitas.org/), [Maribel Fernandez](https://nms.kcl.ac.uk/maribel.fernandez/), Carsten Fuhs, Peter Ölveczky, [Sandra Alves](https://www.dcc.fc.up.pt/~sandra/Home/Home.html), [Thiago Felicissimo](https://lmf.cnrs.fr/Perso/ThiagoFelicissimo)
+
+**Online participants:** Georges Gonthier, [Enrico Tassi](http://www-sop.inria.fr/members/Enrico.Tassi/), [Geoff Sutcliffe](https://www.cs.miami.edu/home/geoff/), [Artur Korniłowicz](http://math.uwb.edu.pl/~arturk/), [Julien Narboux](https://dpt-info.di.unistra.fr/~narboux/), [Florian Rabe](https://kwarc.info/people/frabe/), [Talia Ringer](https://dependenttyp.es/), Christian Sottile, Georgios Pitsiladis, Dara MacConville
+
+<!--
 - [Niccolò Veltri](https://niccoloveltri.github.io/) (Tallinn University of Technology)
-- [Talia Ringer](https://dependenttyp.es/) (University of Illinois at Urbana-Champaign) [online]
 - Anton Nikishaev
-- Christian Sottile [online]
-- Georgios Pitsiladis [online]
 - [Mehmet Tahir Sandikkaya](https://www.sandikkaya.name.tr/) (Istanbul Technical University)
-- [Maribel Fernandez](https://nms.kcl.ac.uk/maribel.fernandez/) (King's College London)
-- Dara MacConville [online]
-<!-- Carsten Fuhs-->
-<!-- Peter Ölveczky-->
-<!-- Christopher Lynch-->
-- [Sandra Alves](https://www.dcc.fc.up.pt/~sandra/Home/Home.html) (University of Porto)
-- [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/)
-- ... add your name [here](https://forms.gle/fNxt1ot2xgUUSfGt5)
+-->
 
 **Scientific organizers:** [Claudio Sacerdoti](http://www.cs.unibo.it/~sacerdot/) and [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/)
 
 **Local organizer:** [Besik Dundua](https://cte.ibsu.edu.ge/en/besik-dundua/)
 
+**Funding application deadline passed.** EuroProofNet can reimburse the transport to Tbilisi + 60 euros/day for the accommodation on September 23-24 for a number of participants. Please check [eligibility rules](https://europroofnet.github.io/eligibility/) and [reimbursement rules](https://europroofnet.github.io/reimbursement-rules/) to get more details.
+
+**Computational Logic Autumn Summit 2022:**
 This meeting is part of the [Computational Logic Autumn Summit 2022](https://viam.science.tsu.ge/clas2022/) which includes:
 - the [15th Conference on Intelligent Computer Mathematics](https://cicm-conference.org/2022/cicm.php) (CICM),
 - the [24th International Symposium on Principles and Practice of Declarative Programming](https://software.imdea.org/Conferences/PPDP2022/) (PPDP),
