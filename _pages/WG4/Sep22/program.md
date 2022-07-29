@@ -12,7 +12,7 @@ breadcrumbs: true
 
 - 12:30 CLAS lunch time
 
-- 14:00 [Claudio Sacerdoti](http://www.cs.unibo.it/~sacerdot/) (Universty of Bologna), the challenges of the EuroProofNet Working Group 4 on libraries <!--30'-->
+- 14:00 [Claudio Sacerdoti](http://www.cs.unibo.it/~sacerdot/) (Universty of Bologna), The challenges of the EuroProofNet Working Group 4 on proof libraries <!--30'-->
 
 - 14:30 Georges Gonthier (INRIA Saclay) [online], TBA <!--Friday only-->
 
@@ -60,9 +60,9 @@ We believe similar library translations will be an essential part of any future 
 
 ## Saturday 24 September
 
-- 09:00 CLAS invited speaker (TBA)
+- 09:00 CLAS invited speaker slot (TBA)
 
-- 10:00 [Fabian Huch](https://www21.in.tum.de/team/huch/) (Technical University of Münich), Finding facts in large formalization libraries: Two Isabelle/AFP attempts <!--30'-->
+- 10:00 [Fabian Huch](https://www21.in.tum.de/team/huch/) (Technical University of Münich), Finding facts in large formalization libraries: two Isabelle/AFP attempts <!--30'-->
 
 - 10:30 CLAS coffee break
 

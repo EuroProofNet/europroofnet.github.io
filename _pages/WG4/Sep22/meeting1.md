@@ -23,16 +23,16 @@ you want to give a talk or just attend, please fill in this
 **Funding:** EuroProofNet can reimburse the transport to Tbilisi + 60 euros/day for the accommodation on September 23-24 (hotels and meals are cheap in Tbilisi) for a number of participants. Please check [eligibility rules](https://europroofnet.github.io/eligibility/) and [reimbursement rules](https://europroofnet.github.io/reimbursement-rules/) to get more details. Results will be given on August 4 maximum.
 
 **Current participants and proposed talks (under construction):**
-- [Claudio Sacerdoti](http://www.cs.unibo.it/~sacerdot/) (University of Bologna), the challenges of the EuroProofNet working group 4 on libraries
+- [Claudio Sacerdoti](http://www.cs.unibo.it/~sacerdot/) (University of Bologna), The challenges of the EuroProofNet Working Group 4 on libraries
 - [Fabian Huch](https://www21.in.tum.de/team/huch/) (Technical University of Münich), Finding facts in large formalization libraries: Two Isabelle/AFP attempts
 - [Yiannis Stathopoulos](https://www.cl.cam.ac.uk/~yas23/) (University of Cambridge), TBA
 - [Anne Baanen](https://www.cs.vu.nl/~tbn305/) (Vrije Universiteit Amsterdam), Bundling in Dependent Type Theory
-- [Riccardo Brasca](https://webusers.imj-prg.fr/~riccardo.brasca/) (University of Paris Cité), maintenance of Lean's mathlib and the Liquid tensor experiment
+- [Riccardo Brasca](https://webusers.imj-prg.fr/~riccardo.brasca/) (University of Paris Cité), Maintenance of Lean's mathlib and the Liquid tensor experiment
 - [Florian Rabe](https://kwarc.info/people/frabe/) (University of Erlangen), Experiences from Exporting Major Proof Assistant Libraries <!--[online?]-->
 - [Alexander Best](https://alexjbest.github.io/) (Vrije Universiteit Amsterdam), Metaprogramming for Automation of Library Maintenance
 - [Reuben Rowe](https://www.cs.rhul.ac.uk/home/rrowe/) (Royal Halloway University of London), Refactoring OCaml
 - Georges Gonthier (INRIA Saclay), TBA [online]
-- [Enrico Tassi](http://www-sop.inria.fr/members/Enrico.Tassi/) (INRIA Sophia Antipolis), the mathematical structure hierarchy builder in MathComp [online]
+- [Enrico Tassi](http://www-sop.inria.fr/members/Enrico.Tassi/) (INRIA Sophia Antipolis), [Hierarchy Builder](https://github.com/math-comp/hierarchy-builder), algebraic hierarchies made easy (in Coq) [online]
 - [Geoff Sutcliffe](https://www.cs.miami.edu/home/geoff/) (University of Miami), The TDTP library - Tons of Data for Theorem Provers [online]
 - [Artur Korniłowicz](http://math.uwb.edu.pl/~arturk/) (University of Bialystok), XML-based representation of Mizar Mathematical Library [online]
 - [André Freitas](http://andrefreitas.org/) (University of Manchester), Natural Language & Proofs: A Neuro-symbolic Perspective
