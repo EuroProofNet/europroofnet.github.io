@@ -26,7 +26,7 @@ you want to give a talk or just attend, please fill in this
 - [Claudio Sacerdoti](http://www.cs.unibo.it/~sacerdot/) (University of Bologna), the challenges of the EuroProofNet working group 4 on libraries
 - [Fabian Huch](https://www21.in.tum.de/team/huch/) (Technical University of Münich), Finding facts in large formalization libraries: Two Isabelle/AFP attempts
 - [Yiannis Stathopoulos](https://www.cl.cam.ac.uk/~yas23/) (University of Cambridge), TBA
-- [Anne Baanen](https://www.cs.vu.nl/~tbn305/) (Vrije Universiteit Amsterdam), typeclasses in Lean and their impact on maintainability and refactoring
+- [Anne Baanen](https://www.cs.vu.nl/~tbn305/) (Vrije Universiteit Amsterdam), Bundling in Dependent Type Theory
 - [Riccardo Brasca](https://webusers.imj-prg.fr/~riccardo.brasca/) (University of Paris Cité), maintenance of Lean's mathlib and the Liquid tensor experiment
 - [Florian Rabe](https://kwarc.info/people/frabe/) (University of Erlangen), Experiences from Exporting Major Proof Assistant Libraries <!--[online?]-->
 - [Alexander Best](https://alexjbest.github.io/) (Vrije Universiteit Amsterdam), Metaprogramming for Automation of Library Maintenance
@@ -35,7 +35,7 @@ you want to give a talk or just attend, please fill in this
 - [Enrico Tassi](http://www-sop.inria.fr/members/Enrico.Tassi/) (INRIA Sophia Antipolis), the mathematical structure hierarchy builder in MathComp [online]
 - [Geoff Sutcliffe](https://www.cs.miami.edu/home/geoff/) (University of Miami), The TDTP library - Tons of Data for Theorem Provers [online]
 - [Artur Korniłowicz](http://math.uwb.edu.pl/~arturk/) (University of Bialystok), XML-based representation of Mizar Mathematical Library [online]
-- [André Freitas](http://andrefreitas.org/) (University of Manchester)
+- [André Freitas](http://andrefreitas.org/) (University of Manchester), Natural Language & Proofs: A Neuro-symbolic Perspective
 - [Marco Maggesi](https://sites.google.com/unifi.it/maggesi/), The HOL Light library of formalized mathematics
 - [Julien Narboux](https://dpt-info.di.unistra.fr/~narboux/) (University of Strasbourg) [online], The GeoCoq library and its porting to Isabelle
 - [Thiago Felicissimo](https://lmf.cnrs.fr/Perso/ThiagoFelicissimo) (University Paris-Saclay)

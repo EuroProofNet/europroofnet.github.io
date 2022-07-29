@@ -79,9 +79,11 @@ We also present the content of the Mizar Mathematical Library with a focus on it
 
 - 12:30 CLAS lunch time
 
-- 14:00 [Anne Baanen](https://www.cs.vu.nl/~tbn305/) (Vrije Universiteit Amsterdam), typeclasses in Lean and their impact on maintainability and refactoring <!--30'?-->
+- 14:00 [Anne Baanen](https://www.cs.vu.nl/~tbn305/) (Vrije Universiteit Amsterdam), Bundling in Dependent Type Theory <!--45'-60'-->
 
-- 14:30 [Alexander Best](https://alexjbest.github.io/) (Vrije Universiteit Amsterdam), Metaprogramming for Automation of Library Maintenance <!--30'-45'-->
+Dependent type theories allow us to bundle proofs and data in the same structure, which can be a great help for automation. On the other hand, unbundled definitions can allow greater flexibility. I discuss my experiences with refactoring between unbundled and bundled definitions in the Lean mathematical library mathlib, especially focusing on the implementation of typeclasses.
+
+- 14:45 [Alexander Best](https://alexjbest.github.io/) (Vrije Universiteit Amsterdam), Metaprogramming for Automation of Library Maintenance <!--30'-45'-->
 
 Large libraries of formal proofs are becoming increasingly common, and
 pose several challenges for the maintenance and upkeep if they are to
@@ -98,18 +100,16 @@ automated tooling, and give some case studies showing how automation
 can help humans review things they may not have the time to look into,
 and also help us spot difficult to notice issues.
 
-- 15:00 [Riccardo Brasca](https://webusers.imj-prg.fr/~riccardo.brasca/) (University of Paris Cité), maintenance of Lean's mathlib and the Liquid tensor experiment <!--30'-60'-->
-
 - 15:30 CLAS coffee break
 
-- 16:00 [Reuben Rowe](https://www.cs.rhul.ac.uk/home/rrowe/) <!--30'-60'--> (Royal Halloway University of London), Refactoring OCaml
+- 16:00 [Riccardo Brasca](https://webusers.imj-prg.fr/~riccardo.brasca/) (University of Paris Cité), Maintenance of Lean's mathlib and the Liquid tensor experiment <!--30'-60'-->
 
-- 16:30 [André Freitas](http://andrefreitas.org/) (University of Manchester), TBA
+- 17:00 [Reuben Rowe](https://www.cs.rhul.ac.uk/home/rrowe/) <!--30'-60'--> (Royal Halloway University of London), Refactoring OCaml
 
-- 17:00
+- 17:30 [André Freitas](http://andrefreitas.org/) (University of Manchester), Natural Language & Proofs: A Neuro-symbolic Perspective <!--30'-40'-->
 
-- 17:30
+This talk provides an overview of emerging methods and representation paradigms in Natural Language Processing (NLP) to support the interpretation of proofs. We will aim for a synthesis of the increasing dialogue between the neural perspective (e.g. large-scale neural language models) and symbolic inference, looking into specific architectural devices which are used to integrate the properties of both types of representation. We will finalize with an argument of how these methods can support the core aims of EuroProofNet: to improve the interoperability and usability of proof systems.
 
-- 18:00 end
+- 18:10 end
 
 - 19:00 dinner together in some restaurant for those who want (suggestions are welcome)
