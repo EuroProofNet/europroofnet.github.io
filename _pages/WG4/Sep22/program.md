@@ -65,11 +65,11 @@ We believe similar library translations will be an essential part of any future 
 
 - 09:00 CLAS invited speaker slot (TBA)
 
-- 10:00 [Fabian Huch](https://www21.in.tum.de/team/huch/) (Technical University of Münich), Finding facts in large formalization libraries: two Isabelle/AFP attempts <!--30'-->
+- 10:00 [Reuben Rowe](https://www.cs.rhul.ac.uk/home/rrowe/) <!--30'-60'--> (Royal Halloway University of London), Refactoring OCaml
 
 - 10:30 CLAS coffee break
 
-- 11:00 [Yiannis Stathopoulos](https://www.cl.cam.ac.uk/~yas23/) (University of Cambridge), TBA
+- 11:00 [Fabian Huch](https://www21.in.tum.de/team/huch/) (Technical University of Münich) and [Yiannis Stathopoulos](https://www.cl.cam.ac.uk/~yas23/) (University of Cambridge), Finding facts in large formalization libraries: two Isabelle/AFP attempts <!--30'-->
 
 - 11:30 [Artur Korniłowicz](http://math.uwb.edu.pl/~arturk/) (University of Bialystok), XML-based representation of Mizar Mathematical Library [online] <!--60'-120'-->
 
@@ -107,7 +107,9 @@ and also help us spot difficult to notice issues.
 
 - 16:00 [Riccardo Brasca](https://webusers.imj-prg.fr/~riccardo.brasca/) (University of Paris Cité), Maintenance of Lean's mathlib and the Liquid tensor experiment <!--30'-60'-->
 
-- 17:00 [Reuben Rowe](https://www.cs.rhul.ac.uk/home/rrowe/) <!--30'-60'--> (Royal Halloway University of London), Refactoring OCaml
+- 17:00 [Talia Ringer](https://dependenttyp.es/) (University of Illinois at Urbana-Champaign), Concrete Problems in Proof Automation
+
+Machine learning for proof automation has made massive strides in recent years. But are these strides in the right directions? This talk will present challenging and impactful tasks for machine-learning-based proof automation that I believe to be underexplored. It will make a case for the utility of these tasks for users of proof assistants, and the meaning of these tasks for advancing the capabilities of AI systems.
 
 - 17:30 [André Freitas](http://andrefreitas.org/) (University of Manchester), Natural Language & Proofs: A Neuro-symbolic Perspective <!--30'-40'-->
 
