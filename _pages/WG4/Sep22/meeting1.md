@@ -39,7 +39,7 @@ refactoring and search of large libraries of proofs.
 - [André Freitas](http://andrefreitas.org/) (University of Manchester), Natural Language & Proofs: A Neuro-symbolic Perspective
 - [Marco Maggesi](https://sites.google.com/unifi.it/maggesi/), The HOL Light library of formalized mathematics
 - Roland Coghetto and [Julien Narboux](https://dpt-info.di.unistra.fr/~narboux/) (University of Strasbourg) [online], The GeoCoq library and its porting to Isabelle
-- [Talia Ringer](https://dependenttyp.es/) (University of Illinois at Urbana-Champaign), Concrete Problems in Proof Automation
+- [Talia Ringer](https://dependenttyp.es/) (University of Illinois at Urbana-Champaign) [online], Concrete Problems in Proof Automation
 
 **On site participants:** [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/), [Claudio Sacerdoti](http://www.cs.unibo.it/~sacerdot/), [Fabian Huch](https://www21.in.tum.de/team/huch/), [Yiannis Stathopoulos](https://www.cl.cam.ac.uk/~yas23/), [Anne Baanen](https://www.cs.vu.nl/~tbn305/), [Riccardo Brasca](https://webusers.imj-prg.fr/~riccardo.brasca/), [Alexander Best](https://alexjbest.github.io/), [Reuben Rowe](https://www.cs.rhul.ac.uk/home/rrowe/), [Marco Maggesi](https://sites.google.com/unifi.it/maggesi/), [André Freitas](http://andrefreitas.org/), [Maribel Fernandez](https://nms.kcl.ac.uk/maribel.fernandez/), Carsten Fuhs, Peter Ölveczky, [Sandra Alves](https://www.dcc.fc.up.pt/~sandra/Home/Home.html), [Thiago Felicissimo](https://lmf.cnrs.fr/Perso/ThiagoFelicissimo)
 
