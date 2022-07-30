@@ -26,7 +26,7 @@ refactoring and search of large libraries of proofs.
 
 **Talks:**
 - [Claudio Sacerdoti](http://www.cs.unibo.it/~sacerdot/) (University of Bologna), The challenges of the EuroProofNet Working Group 4 on libraries
-- [Fabian Huch](https://www21.in.tum.de/team/huch/) (Technical University of Münich) and [Yiannis Stathopoulos](https://www.cl.cam.ac.uk/~yas23/) (University of Cambridge), Finding facts in large formalization libraries: Two Isabelle/AFP attempts
+- [Fabian Huch](https://www21.in.tum.de/team/huch/) (Technical University of Münich) and [Yiannis Stathopoulos](https://www.cl.cam.ac.uk/~yas23/) (University of Cambridge), Finding facts in large formalization libraries: two Isabelle/AFP attempts
 - [Anne Baanen](https://www.cs.vu.nl/~tbn305/) (Vrije Universiteit Amsterdam), Bundling in Dependent Type Theory
 - [Riccardo Brasca](https://webusers.imj-prg.fr/~riccardo.brasca/) (University of Paris Cité), Maintenance of Lean's mathlib and the Liquid tensor experiment
 - [Florian Rabe](https://kwarc.info/people/frabe/) (University of Erlangen), Experiences from Exporting Major Proof Assistant Libraries <!--[online?]-->
