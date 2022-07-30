@@ -21,6 +21,7 @@ and abstract. We welcome talks, tutorials, demos, on library
 descriptions or on methodologies, algorithms and tools trying to
 tackle the challenges raised by the development, maintenance,
 refactoring and search of large libraries of proofs.
+**We especially welcome talks on search tools.**
 <!--fill in this [form](https://forms.gle/fNxt1ot2xgUUSfGt5).-->
 
 **Talks:**
