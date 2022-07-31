@@ -9,6 +9,8 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 
 **2022**
 
+- [Learning Higher-Order Logic Programs From Failures](https://doi.org/10.24963/ijcai.2022/378), Stanisław J. Purgał, David M. Cerna, Cezary Kaliszyk, [IJCAI'22](https://ijcai-22.org)
+
 - [Adequate and Computational Encodings in the Logical Framework Dedukti](https://doi.org/10.4230/LIPIcs.FSCD.2022.25), Thiago Felicissimo, [FSCD'22](https://www.cs.tau.ac.il/~nachumd/FSCD/)
 
 - [Encoding Type Universes Without Using Matching Modulo Associativity and Commutativity](https://doi.org/10.4230/LIPIcs.FSCD.2022.24), Frédéric Blanqui, [FSCD'22](https://www.cs.tau.ac.il/~nachumd/FSCD/)
