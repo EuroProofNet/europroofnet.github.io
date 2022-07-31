@@ -41,6 +41,8 @@ the Coq system.
 
 - 16:00 [Geoff Sutcliffe](https://www.cs.miami.edu/home/geoff/) (University of Miami), The TDTP library - Tons of Data for Theorem Provers [online] <!--30'--> <!--Friday after 14:00-->
 
+Machine Learning (ML) is emerging as a game changer in ATP, and ATP systems and tools that take advantage of ML are being developed. Concrete examples of the ways ML can be used in ATP include axiom selection, search guidance, direct logical reasoning, and learning assisted reasoning. In order to provide support for the development, evaluation, and deployment of ATP systems and tools that include ML components, the TPTP World is being extended to provide the large corpora of (ATP) data required for ML, and infrastructure to support access to and use of the data. This will be embodied in the new “Tons of Data for Theorem Provers” (TDTP) data library. 
+
 - 16:30 [Marco Maggesi](https://sites.google.com/unifi.it/maggesi/), The HOL Light library of formalized mathematics
 
 - 17:00 Roland Coghetto and [Julien Narboux](https://dpt-info.di.unistra.fr/~narboux/) (University of Strasbourg) [online], The GeoCoq library and its porting to Isabelle
@@ -106,6 +108,8 @@ and also help us spot difficult to notice issues.
 - 15:30 CLAS coffee break
 
 - 16:00 [Riccardo Brasca](https://webusers.imj-prg.fr/~riccardo.brasca/) (University of Paris Cité), Maintenance of Lean's mathlib and the Liquid tensor experiment <!--30'-60'-->
+
+mathlib is Lean's mathematical library, one of the largest collection of formalized mathematics, with more than 800,000 lines of codes and 130,000 theorems/definitions. I will explain how we maintain such a big library and how new results are added every day. I will also speak about the liquid tensor experiment, a very recent project where we formally verified contemporary mathematics that used mathlib in a crucial way. Rather than focusing on the mathematics, I will explain why a centralized library is necessary for such a project.
 
 - 17:00 [Talia Ringer](https://dependenttyp.es/) (University of Illinois at Urbana-Champaign) [online], Concrete Problems in Proof Automation
 
