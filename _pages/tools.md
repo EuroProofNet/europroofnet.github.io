@@ -37,6 +37,7 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 - [Universo](https://github.com/Deducteam/universo): type universes rewriting tool
 - [SMTCoq](https://smtcoq.github.io/): reconstruct proofs from SMT solvers in Coq
 - [CoqHammer](https://coqhammer.github.io/): reconstruct proofs from ATPs in Coq
+- [Maude2Lean](https://fadoss.github.io/maude2lean/)
 
 **Interactive theorem provers**
 
