@@ -59,7 +59,9 @@ Each translation presented great theoretical, technical, and social challenges, 
 In this talk, we survey these challenges and compare and evaluate the solutions we chose.
 We believe similar library translations will be an essential part of any future system interoperability solution and our experiences will prove valuable to others undertaking such efforts.
 
-- 18:00 end
+- 18:00 discussion session
+
+- 18:30 end
 
 - 19:00 dinner together in some restaurant for those who want (suggestions are welcome)
 
