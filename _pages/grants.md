@@ -103,7 +103,7 @@ STSM coordinators as soon as possible.
 In publications partly elaborated thanks to the STSM, you have to
 acknowledge EuroProofNet and COST as follows: "This publication is
 based upon work from COST Action EuroProofNet, supported by COST
-(European Cooperation in Science and Technology)".
+(European Cooperation in Science and Technology, www.cost.eu)".
 
 **More questions?**
 
