@@ -24,6 +24,8 @@ refactoring and search of large libraries of proofs.
 **We especially welcome talks on search tools.**
 <!--fill in this [form](https://forms.gle/fNxt1ot2xgUUSfGt5).-->
 
+**Programme:** [here](../wg4-meeting1-program)
+
 **Talks:**
 - [Claudio Sacerdoti](http://www.cs.unibo.it/~sacerdot/) (University of Bologna), The challenges of the EuroProofNet Working Group 4 on libraries
 - [Fabian Huch](https://www21.in.tum.de/team/huch/) (Technical University of Münich) and [Yiannis Stathopoulos](https://www.cl.cam.ac.uk/~yas23/) (University of Cambridge), Finding facts in large formalization libraries: two Isabelle/AFP attempts
@@ -40,8 +42,6 @@ refactoring and search of large libraries of proofs.
 - [Marco Maggesi](https://sites.google.com/unifi.it/maggesi/), The HOL Light library of formalized mathematics
 - Roland Coghetto and [Julien Narboux](https://dpt-info.di.unistra.fr/~narboux/) (University of Strasbourg) [online], The GeoCoq library and its porting to Isabelle
 - [Talia Ringer](https://dependenttyp.es/) (University of Illinois at Urbana-Champaign) [online], Concrete Problems in Proof Automation
-
-**Programme:** [here](../wg4-meeting1-program)
 
 **On site participants (15):** [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/), [Claudio Sacerdoti](http://www.cs.unibo.it/~sacerdot/), [Fabian Huch](https://www21.in.tum.de/team/huch/), [Yiannis Stathopoulos](https://www.cl.cam.ac.uk/~yas23/), [Anne Baanen](https://www.cs.vu.nl/~tbn305/), [Riccardo Brasca](https://webusers.imj-prg.fr/~riccardo.brasca/), [Alexander Best](https://alexjbest.github.io/), [Reuben Rowe](https://www.cs.rhul.ac.uk/home/rrowe/), [Marco Maggesi](https://sites.google.com/unifi.it/maggesi/), [André Freitas](http://andrefreitas.org/), [Maribel Fernandez](https://nms.kcl.ac.uk/maribel.fernandez/), [Carsten Fuhs](https://www.dcs.bbk.ac.uk/~carsten/), [Peter Ölveczky](https://olveczky.se/), [Sandra Alves](https://www.dcc.fc.up.pt/~sandra/Home/Home.html), [Thiago Felicissimo](https://lmf.cnrs.fr/Perso/ThiagoFelicissimo), [Volker Stolz](https://ict.hvl.no/people/volker-stolz/)
 
