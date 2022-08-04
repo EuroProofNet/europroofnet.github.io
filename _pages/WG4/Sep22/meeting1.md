@@ -32,7 +32,7 @@ refactoring and search of large libraries of proofs.
 - [Florian Rabe](https://kwarc.info/people/frabe/) (University of Erlangen), Experiences from Exporting Major Proof Assistant Libraries <!--[online?]-->
 - [Alexander Best](https://alexjbest.github.io/) (Vrije Universiteit Amsterdam), Metaprogramming for Automation of Library Maintenance
 - [Reuben Rowe](https://www.cs.rhul.ac.uk/home/rrowe/) (Royal Halloway University of London), Refactoring OCaml
-- Georges Gonthier (INRIA Saclay), TBA [online]
+- Georges Gonthier (INRIA Saclay), First-class object hierarchies [online]
 - [Enrico Tassi](http://www-sop.inria.fr/members/Enrico.Tassi/) (INRIA Sophia Antipolis), [Hierarchy Builder](https://github.com/math-comp/hierarchy-builder), algebraic hierarchies made easy (in Coq) [online]
 - [Geoff Sutcliffe](https://www.cs.miami.edu/home/geoff/) (University of Miami), The TDTP library - Tons of Data for Theorem Provers [online]
 - [Artur Korniłowicz](http://math.uwb.edu.pl/~arturk/) (University of Bialystok), XML-based representation of Mizar Mathematical Library [online]

@@ -14,7 +14,11 @@ breadcrumbs: true
 
 - 14:00 [Claudio Sacerdoti](http://www.cs.unibo.it/~sacerdot/) (Universty of Bologna), The challenges of the EuroProofNet Working Group 4 on proof libraries <!--30'-->
 
-- 14:30 Georges Gonthier (INRIA Saclay) [online], TBA <!--Friday only-->
+- 14:30 Georges Gonthier (INRIA Saclay) [online], First-class object hierarchies
+ <!--Friday only-->
+
+As modern algebra is organised in hierarchies of structures, encoding these in the Coq type theory is the foundation of the Mathematical Components library and the proof of the Odd Order Theorem.
+As the structures and their hierarchical relations are first class objects in this encoding, it turns out the same techniques can be used to create hierarchies of other mathematical entities, such as functions, sets or relations. These have played a key part in developing a modular library in which a few overloaded lemmas can apply uniformly to a range of entities.
 
 - 15:00 [Enrico Tassi](http://www-sop.inria.fr/members/Enrico.Tassi/) (INRIA Sophia Antipolis), [Hierarchy Builder](https://github.com/math-comp/hierarchy-builder), algebraic hierarchies made easy (in Coq) [online] <!--30'--> <!--Friday only-->
 
