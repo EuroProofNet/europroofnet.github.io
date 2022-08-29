@@ -81,6 +81,24 @@ We believe similar library translations will be an essential part of any future 
 
 - 11:00 [Fabian Huch](https://www21.in.tum.de/team/huch/) (Technical University of Münich) and [Yiannis Stathopoulos](https://www.cl.cam.ac.uk/~yas23/) (University of Cambridge), Finding facts in large formalization libraries: two Isabelle/AFP attempts <!--45'-->
 
+The Isabelle Archive of Formal proofs is one of the largest
+formalization libraries in existence: As of mid-2022, in its 690
+entries, a total of 210K lemmas have been proven by 424 different
+authors in 3.5M lines of code.
+In opened Isabelle theories, finding elements is easily possible, e.g.
+by term unification.
+However, this approach does not scale to the vast material in the
+archives, as loading all formalizations the into the prover is infeasible.
+In early 2020, not only one but two new Isabelle search engines emerged
+that address the problem in a scalable way.
+Both search engines work off-line (i.e., not requiring the proof
+assistant), and rely on pre-built indexes. However, approaches and goals
+are different:
+FindFacts is a pragmatic approach that utilizes Isabelle functionality
+for an easy-to-use and fast drill-down search, whereas SErAPIS parses
+prover IDE markup to build up a concept-oriented search that abstracts
+away from syntax.
+
 - 11:45 [Artur Korniłowicz](http://math.uwb.edu.pl/~arturk/) (University of Bialystok), XML-based representation of Mizar Mathematical Library [online] <!--60'-120'-->
 
 The Mizar Mathematical Library is a collection of mathematical papers written in the Mizar language and fully computer-verified by the Mizar proof checker.
