@@ -10,7 +10,7 @@ breadcrumbs: true
 
 **Venue:** [La Résidence](https://la-residence.com/), 5 rue des Mousses, 88340 Le Val d’Ajol, France
 
-**How to get there?** There are direct trains from Paris to Remiremont. A shuttle will be organized from Remiremont train station and the hotel on October 15 at 15:30, and from the hotel to Remiremont train station on October 19 at 15:00. If you want to take the shuttle, send a mail to [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/).
+**How to get there?** There are direct trains from Paris to Remiremont train station (East of France). A shuttle will be organized from Remiremont train station and the hotel on October 15 at 15:30, and from the hotel to Remiremont train station on October 19 at 15:00. If you want to take the shuttle, send a mail to [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/).
 
 **Programme:** Working in small groups on the development of tools for generating, handling or transforming Dedukti files.
 
