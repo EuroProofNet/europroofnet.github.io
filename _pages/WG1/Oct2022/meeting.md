@@ -14,6 +14,6 @@ breadcrumbs: true
 
 **Programme:** Working in small groups on the development of tools for generating, handling or transforming Dedukti files.
 
-**Registration:** The number of participants is limited. If you want to participate, please contact [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/). The cost of accommodation and meals is 134 euros/day/person. EuroProofNet can reimburse a limited number of people only. Check [eligibility rules](https://europroofnet.github.io/eligibility/) and [reimbursement rules](https://europroofnet.github.io/reimbursement-rules/) to get more details.
+**Registration:** Deadline: 18 September 2022. The number of participants is limited. If you want to participate, please contact [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/). The cost of accommodation and meals is 134 euros/day/person. EuroProofNet can reimburse a limited number of people only. Check [eligibility rules](https://europroofnet.github.io/eligibility/) and [reimbursement rules](https://europroofnet.github.io/reimbursement-rules/) to get more details.
 
 **Organizer:** [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/)
