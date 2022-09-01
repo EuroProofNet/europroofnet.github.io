@@ -13,7 +13,7 @@ This meeting is part of the [Computational Logic Autumn Summit 2022](https://via
 **Venue:** [Tbilisi State University, Chavchavadze ave. 1, 0179 Tbilisi, Georgia](https://viam.science.tsu.ge/clas2022/venue)
 
 **Registration:** Registration is free but mandatory. To attend the
-workshop, physically or online, please send a mail to [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/).
+workshop, physically or online, please send a mail to [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/). Connection instructions will be sent to online participants a few days before the event.
 
 If you are interested in giving a talk, please send a mail to
 [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/) with a title
@@ -45,13 +45,7 @@ refactoring and search of large libraries of proofs.
 
 **On site participants (21):** [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/), [Claudio Sacerdoti](http://www.cs.unibo.it/~sacerdot/), [Fabian Huch](https://www21.in.tum.de/team/huch/), [Yiannis Stathopoulos](https://www.cl.cam.ac.uk/~yas23/), [Anne Baanen](https://www.cs.vu.nl/~tbn305/), [Riccardo Brasca](https://webusers.imj-prg.fr/~riccardo.brasca/), [Alexander Best](https://alexjbest.github.io/), [Reuben Rowe](https://www.cs.rhul.ac.uk/home/rrowe/), [Marco Maggesi](https://sites.google.com/unifi.it/maggesi/), [André Freitas](http://andrefreitas.org/), [Maribel Fernandez](https://nms.kcl.ac.uk/maribel.fernandez/), [Carsten Fuhs](https://www.dcs.bbk.ac.uk/~carsten/), [Peter Ölveczky](https://olveczky.se/), [Sandra Alves](https://www.dcc.fc.up.pt/~sandra/Home/Home.html), [Thiago Felicissimo](https://lmf.cnrs.fr/Perso/ThiagoFelicissimo), [Volker Stolz](https://ict.hvl.no/people/volker-stolz/), [Besik Dundua](https://cte.ibsu.edu.ge/en/besik-dundua/), [Luigi Liquori](https://luigiliquori.wixsite.com/atinria), Alicia Villanueva, Ashvni Narayanan, Ramon Fernández Mir
 
-**Online participants (39):** Georges Gonthier, [Enrico Tassi](http://www-sop.inria.fr/members/Enrico.Tassi/), [Geoff Sutcliffe](https://www.cs.miami.edu/home/geoff/), [Artur Korniłowicz](http://math.uwb.edu.pl/~arturk/), Roland Coghetto, [Julien Narboux](https://dpt-info.di.unistra.fr/~narboux/), [Florian Rabe](https://kwarc.info/people/frabe/), [Talia Ringer](https://dependenttyp.es/), Christian Sottile, Georgios Pitsiladis, Dara MacConville, [Adam Naumowicz](http://math.uwb.edu.pl/~adamn/), Stepan Holub, Boris Djalal, [Stefania Dumbrava](https://web4.ensiie.fr/~stefania.dumbrava/), Tjark Weber, [Andreas Nuyts](https://anuyts.github.io/), Jørgen Villadsen, Rafael Castro Goncalves Silva, Muharrem Tuncay Gençoğlu‬, [Angeliki Koutsoukou Argyraki](https://www.cl.cam.ac.uk/~ak2110/), Yosuke Ito, Gidon Ernst, [Cesare Tinelli](https://www.cs.uiowa.edu/~tinelli), Michail Karatarakis, Bart Michels, Cezary Kaliszyk, Anthony Bordg, Carlos Olarte, Parivash Feyzishendi, Emilio Jesús Gallego Arias, Assia Mahboubi, Ana Borges, Guillaume Allais, Mitsuharu Yamamoto, Reynald Affeldt, Brendan Mahony, Dmitriy Traytel, Wolfgang Windsteiger
-
-<!--
-- [Niccolò Veltri](https://niccoloveltri.github.io/) (Tallinn University of Technology)
-- Anton Nikishaev
-- [Mehmet Tahir Sandikkaya](https://www.sandikkaya.name.tr/) (Istanbul Technical University)
--->
+**Online participants (40):** Georges Gonthier, [Enrico Tassi](http://www-sop.inria.fr/members/Enrico.Tassi/), [Geoff Sutcliffe](https://www.cs.miami.edu/home/geoff/), [Artur Korniłowicz](http://math.uwb.edu.pl/~arturk/), Roland Coghetto, [Julien Narboux](https://dpt-info.di.unistra.fr/~narboux/), [Florian Rabe](https://kwarc.info/people/frabe/), [Talia Ringer](https://dependenttyp.es/), Christian Sottile, Georgios Pitsiladis, Dara MacConville, [Adam Naumowicz](http://math.uwb.edu.pl/~adamn/), Stepan Holub, Boris Djalal, [Stefania Dumbrava](https://web4.ensiie.fr/~stefania.dumbrava/), Tjark Weber, [Andreas Nuyts](https://anuyts.github.io/), Jørgen Villadsen, Rafael Castro Goncalves Silva, Muharrem Tuncay Gençoğlu‬, [Angeliki Koutsoukou Argyraki](https://www.cl.cam.ac.uk/~ak2110/), Yosuke Ito, Gidon Ernst, [Cesare Tinelli](https://www.cs.uiowa.edu/~tinelli), Michail Karatarakis, Bart Michels, Cezary Kaliszyk, Anthony Bordg, Carlos Olarte, Parivash Feyzishendi, Emilio Jesús Gallego Arias, Assia Mahboubi, Ana Borges, Guillaume Allais, Mitsuharu Yamamoto, Reynald Affeldt, Brendan Mahony, Dmitriy Traytel, Wolfgang Windsteiger, Florian Sextl
 
 **Scientific organizers:** [Claudio Sacerdoti](http://www.cs.unibo.it/~sacerdot/) and [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/)
 
