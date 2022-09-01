@@ -32,7 +32,7 @@ to the [working groups](../wg) you are interested in (it is free and open to any
 
 - 23-24 September 2022: [EuroProofNet workshop on the development, maintenance, refactoring and search of large libraries of proofs](/wg4-meeting1), Tbilisi, Georgia
 
-- 16-18 October 2022: [Dedukti tools developers meeting](/wg1-meeting1), Val d'Ajol, France
+- 16-18 October 2022: [Dedukti tools developers meeting](/dk-meeting1), Val d'Ajol, France
 
 [Past events](../events)
 

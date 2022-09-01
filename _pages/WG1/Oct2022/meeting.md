@@ -1,7 +1,7 @@
 ---
 title: "Dedukti tools developers meeting 1"
 layout: single
-permalink: /wg1-meeting1/
+permalink: /dk-meeting1/
 author_profile: true
 breadcrumbs: true
 ---
