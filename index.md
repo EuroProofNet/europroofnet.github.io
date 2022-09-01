@@ -26,13 +26,13 @@ to the [working groups](../wg) you are interested in (it is free and open to any
 
 **Coming events:**
 
-- 12 August 2022: [WG2 kick-off meeting](/wg2-meeting1), Haifa, Israel, co-located with [PAAR 2022](https://paar2022.github.io/), [IJCAR 2022](https://ijcar.org/) and [FLoC 2022](https://www.floc2022.org)
-
 - 4-9 September 2022: [WG5 kick-off meeting](/wg5-aitp22) and [7th Conference on Artificial Intelligence and Theorem Proving](http://aitp-conference.org/2022/) (AITP'22), Aussois, France
 
 - 5-9 September 2022: [EuroProofNet Summer School on Verification Technology, Systems & Applications](https://resources.mpi-inf.mpg.de/departments/rg1/conferences/vtsa22/) (VTSA'22), Saarbrücken, Germany
 
 - 23-24 September 2022: [EuroProofNet workshop on the development, maintenance, refactoring and search of large libraries of proofs](/wg4-meeting1), Tbilisi, Georgia
+
+- 16-18 October 2022: [Dedukti tools developers meeting](/wg1-meeting1), Val d'Ajol, France
 
 [Past events](../events)
 
