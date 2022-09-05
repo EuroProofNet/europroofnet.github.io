@@ -69,7 +69,7 @@ We believe similar library translations will be an essential part of any future 
 
 - 18:30 end
 
-- 19:00 dinner together in some restaurant for those who want (suggestions are welcome)
+- 19:00 dinner at [Apkhazeti](https://www.facebook.com/restaurantApkhazeti), Zviad Gamsakhurdia Named Right Bank, Tbilisi (2.4 km, 30 minutes walk). Shared taxis will be organized. Contact: [Besik Dundua](https://cte.ibsu.edu.ge/en/besik-dundua/)
 
 ## Saturday 24 September
 
