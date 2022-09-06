@@ -35,3 +35,4 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 
 - 20-25 June 2022: [28th International Conference on Types for Proofs and Programs](https://types22.inria.fr/) (TYPES'22), Nantes, France
 
+- 22 January 2022: [1st Workshop on the Implementation of Type Systems](https://popl22.sigplan.org/home/wits-2022) (WITS'22), Philadelphia, USA
