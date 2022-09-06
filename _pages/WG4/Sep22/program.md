@@ -14,9 +14,9 @@ breadcrumbs: true
 
 - 12:30 CLAS lunch time
 
-Session chair: <!-- Frédéric Blanqui -->
+Session chair: Frédéric Blanqui
 
-- 14:00 [Claudio Sacerdoti](http://www.cs.unibo.it/~sacerdot/) (Universty of Bologna), The challenges of the EuroProofNet Working Group 4 on proof libraries <!--30'-->
+- 14:00 [Claudio Sacerdoti](http://www.cs.unibo.it/~sacerdot/) (University of Bologna), The challenges of the EuroProofNet Working Group 4 on proof libraries <!--30'-->
 
 - 14:30 Georges Gonthier (INRIA Saclay) [online], First-class object hierarchies
  <!--Friday only-->
@@ -47,7 +47,7 @@ the Coq system.
 
 - 15:30 CLAS coffee break
 
-Session chair: <!-- Erika Abraham -->
+Session chair: Erika Abraham
 
 - 16:00 [Geoff Sutcliffe](https://www.cs.miami.edu/home/geoff/) (University of Miami), The TDTP library - Tons of Data for Theorem Provers [online] <!--30'--> <!--Friday after 14:00-->
 
@@ -73,13 +73,13 @@ We believe similar library translations will be an essential part of any future 
 
 - 18:30 end
 
-- 19:00 dinner at [Apkhazeti](https://www.facebook.com/restaurantApkhazeti), Zviad Gamsakhurdia Named Right Bank, Tbilisi (2.4 km, 30 minutes walk). Shared taxis will be organized. Contact: [Besik Dundua](https://cte.ibsu.edu.ge/en/besik-dundua/)
+- 19:00 (TBC) dinner at [Apkhazeti](https://www.facebook.com/restaurantApkhazeti), Zviad Gamsakhurdia Named Right Bank, Tbilisi (2.4 km, 30 minutes walk). Shared taxis will be organized. Contact: [Besik Dundua](https://cte.ibsu.edu.ge/en/besik-dundua/)
 
 ## Saturday 24 September
 
 - 09:00 CLAS invited speaker slot (TBA)
 
-Session chair: <!-- Claudio Sacerdoti -->
+Session chair: Claudio Sacerdoti
 
 - 10:00 [Reuben Rowe](https://www.cs.rhul.ac.uk/home/rrowe/) <!--30'-60'--> (Royal Halloway University of London), Refactoring OCaml
 
@@ -116,7 +116,7 @@ We also present the content of the Mizar Mathematical Library with a focus on it
 
 - 12:30 CLAS lunch time
 
-Session chair: <!-- ? -->
+Session chair: Maribel Fernandez
 
 - 14:00 [Anne Baanen](https://www.cs.vu.nl/~tbn305/) (Vrije Universiteit Amsterdam), Bundling in Dependent Type Theory <!--45'-60'-->
 
@@ -141,7 +141,7 @@ and also help us spot difficult to notice issues.
 
 - 15:30 CLAS coffee break
 
-Session chair: <!-- Alexander Best -->
+Session chair: Alexander Best
 
 - 16:00 [Riccardo Brasca](https://webusers.imj-prg.fr/~riccardo.brasca/) (University of Paris Cité), Maintenance of Lean's mathlib and the Liquid tensor experiment <!--30'-60'-->
 
