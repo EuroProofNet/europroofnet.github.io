@@ -17,3 +17,12 @@ breadcrumbs: true
 **Registration:** Deadline: 18 September 2022. The number of participants is limited. If you want to participate, please contact [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/). The cost of accommodation and meals is 134 euros/day/person. EuroProofNet can reimburse a limited number of people only. Check [eligibility rules](https://europroofnet.github.io/eligibility/) and [reimbursement rules](https://europroofnet.github.io/reimbursement-rules/) to get more details.
 
 **Organizer:** [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/)
+
+**Participants:**
+
+- Frédéric Blanqui: [lambdapi](https://github.com/Deducteam/lambdapi), [ekstraskto](https://github.com/Deducteam/ekstrakto), [skonverto](https://github.com/Deducteam/skonverto), [isabelle_dedukti](https://github.com/Deducteam/isabelle_dedukti)
+- Michael Färber: proof export from connection provers
+- Jesper Cockx: [agda2dedukti](https://github.com/Deducteam/Agda2Dedukti)
+- Thiago Felicissimo: [agda2dedukti](https://github.com/Deducteam/Agda2Dedukti)
+
+(to be completed)
