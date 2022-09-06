@@ -14,6 +14,8 @@ breadcrumbs: true
 
 - 12:30 CLAS lunch time
 
+Session chair: <!-- Frédéric Blanqui -->
+
 - 14:00 [Claudio Sacerdoti](http://www.cs.unibo.it/~sacerdot/) (Universty of Bologna), The challenges of the EuroProofNet Working Group 4 on proof libraries <!--30'-->
 
 - 14:30 Georges Gonthier (INRIA Saclay) [online], First-class object hierarchies
@@ -45,6 +47,8 @@ the Coq system.
 
 - 15:30 CLAS coffee break
 
+Session chair: <!-- Erika Abraham -->
+
 - 16:00 [Geoff Sutcliffe](https://www.cs.miami.edu/home/geoff/) (University of Miami), The TDTP library - Tons of Data for Theorem Provers [online] <!--30'--> <!--Friday after 14:00-->
 
 Machine Learning (ML) is emerging as a game changer in ATP, and ATP systems and tools that take advantage of ML are being developed. Concrete examples of the ways ML can be used in ATP include axiom selection, search guidance, direct logical reasoning, and learning assisted reasoning. In order to provide support for the development, evaluation, and deployment of ATP systems and tools that include ML components, the TPTP World is being extended to provide the large corpora of (ATP) data required for ML, and infrastructure to support access to and use of the data. This will be embodied in the new “Tons of Data for Theorem Provers” (TDTP) data library. 
@@ -74,6 +78,8 @@ We believe similar library translations will be an essential part of any future 
 ## Saturday 24 September
 
 - 09:00 CLAS invited speaker slot (TBA)
+
+Session chair: <!-- Claudio Sacerdoti -->
 
 - 10:00 [Reuben Rowe](https://www.cs.rhul.ac.uk/home/rrowe/) <!--30'-60'--> (Royal Halloway University of London), Refactoring OCaml
 
@@ -110,6 +116,8 @@ We also present the content of the Mizar Mathematical Library with a focus on it
 
 - 12:30 CLAS lunch time
 
+Session chair: <!-- ? -->
+
 - 14:00 [Anne Baanen](https://www.cs.vu.nl/~tbn305/) (Vrije Universiteit Amsterdam), Bundling in Dependent Type Theory <!--45'-60'-->
 
 Dependent type theories allow us to bundle proofs and data in the same structure, which can be a great help for automation. On the other hand, unbundled definitions can allow greater flexibility. I discuss my experiences with refactoring between unbundled and bundled definitions in the Lean mathematical library mathlib, especially focusing on the implementation of typeclasses.
@@ -132,6 +140,8 @@ can help humans review things they may not have the time to look into,
 and also help us spot difficult to notice issues.
 
 - 15:30 CLAS coffee break
+
+Session chair: <!-- Alexander Best -->
 
 - 16:00 [Riccardo Brasca](https://webusers.imj-prg.fr/~riccardo.brasca/) (University of Paris Cité), Maintenance of Lean's mathlib and the Liquid tensor experiment <!--30'-60'-->
 
