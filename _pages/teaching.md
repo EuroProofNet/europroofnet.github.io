@@ -16,6 +16,8 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 
 ## Conferences:
 
+- 6 March 2023: [Formal Methods Teaching Workshop](https://fmtea.github.io) (FMTea'23), Lübeck, Germany
+
 - 11-12 August 2022: [Theorem-proving Components for Educational Software](https://www.uc.pt/en/congressos/thedu/ThEdu22) (ThEdu'22), Haifa, Israel
 
 - 11-12 August 2022: [3rd Workshop on Democratizing Software Verification](https://github.com/smackers/democratizing-software-verification-workshop-2022/blob/master/index.md) (DSV'22), Haifa, Israel
