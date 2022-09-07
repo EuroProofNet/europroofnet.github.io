@@ -83,6 +83,18 @@ Session chair: Claudio Sacerdoti
 
 - 10:00 [Reuben Rowe](https://www.cs.rhul.ac.uk/home/rrowe/) <!--30'-60'--> (Royal Halloway University of London), Refactoring OCaml
 
+I will report on our work implementing automatic refactoring techniques
+for the OCaml programming language. As a simple case study, we look at
+renaming value bindings (e.g. functions). This turns out to be
+surprisingly tricky, largely because of OCaml's powerful module system.
+Our solution is to define an abstract semantics that captures when
+different declarations in an OCaml program denote or refer to the "same"
+function, and thus must all be renamed together.
+
+The challenges we describe should be inherited by proof assistants that
+adopt similar module systems, like Coq and Agda, and thus our approach
+should be applicable there too.
+
 - 10:30 CLAS coffee break
 
 - 11:00 [Fabian Huch](https://www21.in.tum.de/team/huch/) (Technical University of Münich) and [Yiannis Stathopoulos](https://www.cl.cam.ac.uk/~yas23/) (University of Cambridge), Finding facts in large formalization libraries: two Isabelle/AFP attempts <!--45'-->
