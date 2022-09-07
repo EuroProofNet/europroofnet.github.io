@@ -20,9 +20,14 @@ breadcrumbs: true
 
 **Participants:**
 
-- Frédéric Blanqui: [lambdapi](https://github.com/Deducteam/lambdapi), [ekstraskto](https://github.com/Deducteam/ekstrakto), [skonverto](https://github.com/Deducteam/skonverto), [isabelle_dedukti](https://github.com/Deducteam/isabelle_dedukti)
+- [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/): [lambdapi](https://github.com/Deducteam/lambdapi), [ekstraskto](https://github.com/Deducteam/ekstrakto), [skonverto](https://github.com/Deducteam/skonverto), [isabelle_dedukti](https://github.com/Deducteam/isabelle_dedukti)
 - Michael Färber: proof export from connection provers
-- Jesper Cockx: [agda2dedukti](https://github.com/Deducteam/Agda2Dedukti)
-- Thiago Felicissimo: [agda2dedukti](https://github.com/Deducteam/Agda2Dedukti)
+- [Jesper Cockx](https://jesper.sikanda.be/): [agda2dedukti](https://github.com/Deducteam/Agda2Dedukti)
+- [Thiago Felicissimo](http://www.lsv.fr/~felicissimo/): [agda2dedukti](https://github.com/Deducteam/Agda2Dedukti)
+- [Predrag Janičić](http://poincare.matf.bg.ac.rs/~janicic/): [larus](https://github.com/janicicpredrag/Larus) to dedukti
+- [Julien Narboux](https://dpt-info.di.unistra.fr/~narboux/): [larus](https://github.com/janicicpredrag/Larus) to dedukti
+<!-- Théo Winterhalter: dedukti, lambdapi
+- Claude Stolze: B set theory in dedukti-->
+<!--- Amélie Ledein: K to dedukti-->
 
 (to be completed)
