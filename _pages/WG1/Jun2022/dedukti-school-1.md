@@ -18,11 +18,11 @@ Program:
 
 **June 24, 2022:**
 
-- 14:30-15:45 **[Dedukti](https://deducteam.github.io/) & [Lambdapi](https://github.com/Deducteam/lambdapi)**, [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/) will present the language Dedukti and the available tools for checking Dedukti files. He will also present Lambdapi, a new interactive proof assistant which can be used as an higher-level intermediate language for generating Dedukti files. [Slides](frederic.pdf)
+- 14:30-15:45 **[Dedukti](https://deducteam.github.io/) & [Lambdapi](https://github.com/Deducteam/lambdapi)**, [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/) will present the language Dedukti and the available tools for checking Dedukti files. He will also present Lambdapi, a new interactive proof assistant which can be used as an higher-level intermediate language for generating Dedukti files. [Slides](frederic.pdf) [Video](https://youtu.be/XnZTADrsiHQ?list=PL2IiUBbPiuoY22PjECQscRQ81LaR0lgdh)
 
 - 15:45-16:00 break
 
-- 16:00-17:00 **How to express a theory in Dedukti?** [Gilles Dowek](http://www.lsv.fr/~dowek/) will present how simple theories, such as Predicate logic, Simple type theory, and the Calculus of constructions can be expressed in Dedukti, these expressions being the basis of the expression of more advances theories, such as the Calculus of constructions with universes and universe polymorphism, or cubical type theory can be expressed. [Slides](gilles.pdf)
+- 16:00-17:00 **How to express a theory in Dedukti?** [Gilles Dowek](http://www.lsv.fr/~dowek/) will present how simple theories, such as Predicate logic, Simple type theory, and the Calculus of constructions can be expressed in Dedukti, these expressions being the basis of the expression of more advances theories, such as the Calculus of constructions with universes and universe polymorphism, or cubical type theory can be expressed. [Slides](gilles.pdf) [Video](https://youtu.be/PHDU2LZvwzw?list=PL2IiUBbPiuoY22PjECQscRQ81LaR0lgdh) (the beginning is missing, sorry)
 
 - 17:00-17:30 **The case of cubical type theory**, [Bruno Barras](http://www.lix.polytechnique.fr/~barras/) will describe a partial encoding of Cubical Type Theory in Dedukti. Beyond the mere interest of representing the features of that formalism, it is an example of a logic which definitional equality  may not be representable as rewrite rules. We propose a general method to deal with issue. [Slides](bruno.pdf)
 
@@ -42,7 +42,7 @@ Program:
 
 - 12:15-13:30 lunch
 
-- 13:30-14:30 **How I Learned to Stop Trusting and Implement Dedukti Myself?** [Michael Färber](http://cl-informatik.uibk.ac.at/users/mfaerber/) You should not need to trust the Dedukti developers in order to convince yourself that a Dedukti theory is correct. Michael Färber will give an overview of how Dedukti works internally and how to re-implement relevant parts of it yourself. In particular, he will touch upon parsing, terms, sharing, rewriting, and type checking. The goal of this talk is to empower anyone to write their own checker for Dedukti. [Slides](michael.pdf)
+- 13:30-14:30 **How I Learned to Stop Trusting and Implement Dedukti Myself?** [Michael Färber](http://cl-informatik.uibk.ac.at/users/mfaerber/) You should not need to trust the Dedukti developers in order to convince yourself that a Dedukti theory is correct. Michael Färber will give an overview of how Dedukti works internally and how to re-implement relevant parts of it yourself. In particular, he will touch upon parsing, terms, sharing, rewriting, and type checking. The goal of this talk is to empower anyone to write their own checker for Dedukti. [Slides](michael.pdf) [Video](https://youtu.be/wtM_fw9M2RA?list=PL2IiUBbPiuoY22PjECQscRQ81LaR0lgdh)
 
 - 14:30-15:30 **Programming language semantics in Dedukti**, [Catherine Dubois](http://web4.ensiie.fr/~dubois/) and [Amélie Ledein](https://lmf.cnrs.fr/AmelieLedein/). Most systems that are translated into Dedukti are logical systems. This lecture will deviate a little from this type of systems and address the encoding in Dedukti of 1) some programming languages features like structural object subtyping, inheritance, method redefinition and late binding; 2) semantics definitions as they are provided by the K framework. [Slides Catherine](catherine.pdf) [Slides Amélie](amelie.pdf)
 
