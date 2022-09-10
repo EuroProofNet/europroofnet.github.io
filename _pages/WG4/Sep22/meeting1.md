@@ -10,7 +10,7 @@ This meeting is part of the [Computational Logic Autumn Summit 2022](https://via
 
 **Date:** 23-24 September 2022
 
-**Venue:** [Tbilisi State University, Chavchavadze ave. 1, 0179 Tbilisi, Georgia](https://viam.science.tsu.ge/clas2022/venue)
+**Venue:** [Tbilisi State University, Chavchavadze ave. 1, 0179 Tbilisi, Georgia](https://viam.science.tsu.ge/clas2022/venue), room 202
 
 **Registration:** Registration is free but mandatory. To attend the
 workshop, physically or online, please send a mail to [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/). Connection instructions will be sent to online participants a few days before the event.
