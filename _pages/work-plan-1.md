@@ -11,9 +11,9 @@ author_profile: true
 
     - On June 24-25, there will be a [school on Dedukti](../dedukti-school-2022) and a [workshop on Women in EuroProofNet](../women-epn-2022), in co-location with the [TYPES'22](https://types22.inria.fr/) conference at Nantes (France).
 
-    - During the summer, there will be the next edition of the school on Verification Technology, Systems & Applications (VTSA) at Saarbrücken (Germany), with a focus on proof-generating verification systems.
+    - ~~During the summer~~ In September, there will be the next edition of the [school on Verification Technology, Systems & Applications](https://resources.mpi-inf.mpg.de/departments/rg1/conferences/vtsa22/) (VTSA) at Saarbrücken (Germany), with a focus on proof-generating verification systems.
 
-    - In September, there will be a school on [Naproche](https://naproche.github.io/) and controlled natural languages in proof assistants at Bonn (Germany).
+    - ~~In September, there will be a school on [Naproche](https://naproche.github.io/) and controlled natural languages in proof assistants at Bonn (Germany).~~ (postponed to next year)
 
 * Finally, a number of small and big meetings have been planned:
 
