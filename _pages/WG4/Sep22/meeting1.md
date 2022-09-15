@@ -36,7 +36,7 @@ refactoring and search of large libraries of proofs.
 - [Reuben Rowe](https://www.cs.rhul.ac.uk/home/rrowe/) (Royal Halloway University of London), Refactoring OCaml
 - Georges Gonthier (INRIA Saclay), First-class object hierarchies [online]
 - [Enrico Tassi](http://www-sop.inria.fr/members/Enrico.Tassi/) (INRIA Sophia Antipolis), [Hierarchy Builder](https://github.com/math-comp/hierarchy-builder), algebraic hierarchies made easy (in Coq) [online]
-- [Geoff Sutcliffe](https://www.cs.miami.edu/home/geoff/) (University of Miami), The TDTP library - Tons of Data for Theorem Provers [online]
+- [Geoff Sutcliffe](https://www.cs.miami.edu/home/geoff/) (University of Miami), Proofs and Models in the TPTP World [online]
 - [Artur Korniłowicz](http://math.uwb.edu.pl/~arturk/) (University of Bialystok), XML-based representation of Mizar Mathematical Library [online]
 - [André Freitas](http://andrefreitas.org/) (University of Manchester), Natural Language & Proofs: A Neuro-symbolic Perspective
 - [Marco Maggesi](https://sites.google.com/unifi.it/maggesi/), The HOL Light library of formalized mathematics

@@ -49,9 +49,9 @@ the Coq system.
 
 Session chair: Erika Abraham
 
-- 16:00 [Geoff Sutcliffe](https://www.cs.miami.edu/home/geoff/) (University of Miami), The TDTP library - Tons of Data for Theorem Provers [online] <!--30'--> <!--Friday after 14:00-->
+- 16:00 [Geoff Sutcliffe](https://www.cs.miami.edu/home/geoff/) (University of Miami), Proofs and Models in the TPTP World [online] <!--30'--> <!--Friday after 14:00-->
 
-Machine Learning (ML) is emerging as a game changer in ATP, and ATP systems and tools that take advantage of ML are being developed. Concrete examples of the ways ML can be used in ATP include axiom selection, search guidance, direct logical reasoning, and learning assisted reasoning. In order to provide support for the development, evaluation, and deployment of ATP systems and tools that include ML components, the TPTP World is being extended to provide the large corpora of (ATP) data required for ML, and infrastructure to support access to and use of the data. This will be embodied in the new “Tons of Data for Theorem Provers” (TDTP) data library. 
+This talk describes the current (underdeveloped?) representation and use of proofs and models in the TPTPWorld. Topics covered include the SZS ontology; the representation of derivations and finite models; the TSTP solution library; tools for examining and manipulating the derivations; uses of individual solutions, and the TSTP as a whole; projects that have used the TPTP format and tools for proofs and models; the proposed "Tons of Data for Theorem Provers" library; future work and directions to improve the status quo.
 
 - 16:30 [Marco Maggesi](https://sites.google.com/unifi.it/maggesi/), The HOL Light library of formalized mathematics
 
