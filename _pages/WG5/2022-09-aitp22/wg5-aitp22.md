@@ -4,6 +4,8 @@ layout: single
 permalink: /wg5-aitp22/
 ---
 
+<img src="/_pages/WG5/2022-09-aitp22/aitp2022s.jpg"/>
+
 ## Overview
 
 - Dates: 5–8 September 2022
@@ -16,8 +18,6 @@ The workshop will bring together researchers on the topics of [working group 5](
 ## Registration, talk submission, funding application
 
 The meeting will be coorganized together with the [http://aitp-conference.org/2022/](AITP 2022) conference, and registration as well as information about funding is provided on that page.
-
-<img src="/_pages/WG5/2022-09-aitp22/aito2022s.jpg"/>
 
 <img src="/_pages/WG5/2022-09-aitp22/20220905_092421.jpg"/>
 
