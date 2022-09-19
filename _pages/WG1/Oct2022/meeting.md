@@ -26,8 +26,7 @@ breadcrumbs: true
 - [Thiago Felicissimo](http://www.lsv.fr/~felicissimo/): [agda2dedukti](https://github.com/Deducteam/Agda2Dedukti)
 - [Predrag Janičić](http://poincare.matf.bg.ac.rs/~janicic/): [larus](https://github.com/janicicpredrag/Larus) to dedukti
 - [Julien Narboux](https://dpt-info.di.unistra.fr/~narboux/): [larus](https://github.com/janicicpredrag/Larus) to dedukti
-- Théo Winterhalter: dedukti, lambdapi
+- Théo Winterhalter: [dkcheck](https://github.com/Deducteam/Dedukti), [lambdapi](https://github.com/Deducteam/lambdapi)
 - Claude Stolze: B set theory in dedukti
 - Amélie Ledein: K to dedukti
-
-(to be completed)
+- François Thiré: [dkcheck](https://github.com/Deducteam/Dedukti), [universo](https://github.com/Deducteam/universo)
