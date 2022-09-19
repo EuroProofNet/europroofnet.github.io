@@ -13,7 +13,9 @@ permalink: /wg5-aitp22/
 
 The workshop will bring together researchers on the topics of [working group 5](/wg5), to share recent results, and co-ordinate future research, including collaboration towards deliverables.
 
-- Organisers: [Cezary Kaliszyk](http://cl-informatik.uibk.ac.at/cek/)
+- Organiser: [Cezary Kaliszyk](http://cl-informatik.uibk.ac.at/cek/)
+
+- Participants: 54 on site
 
 ## Registration, talk submission, funding application
 
