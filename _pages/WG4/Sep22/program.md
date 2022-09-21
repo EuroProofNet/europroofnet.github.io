@@ -49,16 +49,22 @@ the Coq system.
 
 Session chair: Erika Abraham
 
-- 16:00 [Geoff Sutcliffe](https://www.cs.miami.edu/home/geoff/) (University of Miami), Proofs and Models in the TPTP World [online] <!--30'--> <!--Friday after 14:00-->
-
-This talk describes the current (underdeveloped?) representation and use of proofs and models in the TPTPWorld. Topics covered include the SZS ontology; the representation of derivations and finite models; the TSTP solution library; tools for examining and manipulating the derivations; uses of individual solutions, and the TSTP as a whole; projects that have used the TPTP format and tools for proofs and models; the proposed "Tons of Data for Theorem Provers" library; future work and directions to improve the status quo.
-
-- 16:30 [Marco Maggesi](https://sites.google.com/unifi.it/maggesi/), The HOL Light library of formalized mathematics
-
-- 17:00 Roland Coghetto and [Julien Narboux](https://dpt-info.di.unistra.fr/~narboux/) (University of Strasbourg) [online], The GeoCoq library and its porting to Isabelle
+- 16:00 Roland Coghetto and [Julien Narboux](https://dpt-info.di.unistra.fr/~narboux/) (University of Strasbourg) [online], The GeoCoq library and its porting to Isabelle
 
 GeoCoq is a formal proof library consisting in a formalization of foundations of geometry. It is based on several different axiom systems by Euclid, Hilbert and Tarski, and includes the arithmetization of geometry, i.e. the link between synthetic and analytic geometry. 
 After giving a quick overview of the library, we will discuss how automation and logical foundations are used in each part of the library and the potential impact on porting the library to other proof assistants. Then, we will report on the porting of the library to Isabelle/HOL by Roland Coghetto.
+
+- 16:30 [Marco Maggesi](https://sites.google.com/unifi.it/maggesi/), The HOL Light library of formalized mathematics
+
+The HOL Light theorem prover has two seemingly conflicting features.
+On the one hand, it is a system with a very thin layer of meta-logical or extra-logical features.
+Yet, on the other hand, HOL Light has a library of mathematical results encompassing several advanced mathematical topics, from complex analysis to algebra, including profound results such as the Riemann mapping theorem or Hales’ theorem, to name just two of them.
+Because of the simplicity of its architecture, HOL Light has been used as the base for research of various kinds, from exploring variants of the HOL logic, to implementing deep learning models for automated theorem proving.
+Thus, HOL Light and its library can be a natural and promising environment for experimenting with the management of formal mathematics libraries.
+
+- 17:00 [Geoff Sutcliffe](https://www.cs.miami.edu/home/geoff/) (University of Miami), Proofs and Models in the TPTP World [online] <!--30'--> <!--Friday after 14:00-->
+
+This talk describes the current (underdeveloped?) representation and use of proofs and models in the TPTPWorld. Topics covered include the SZS ontology; the representation of derivations and finite models; the TSTP solution library; tools for examining and manipulating the derivations; uses of individual solutions, and the TSTP as a whole; projects that have used the TPTP format and tools for proofs and models; the proposed "Tons of Data for Theorem Provers" library; future work and directions to improve the status quo.
 
 - 17:30 [Florian Rabe](https://kwarc.info/people/frabe/) <!--and [Michael Kohlhase](https://kwarc.info/people/mkohlhase/)--> (University of Erlangen), Experiences from Exporting Major Proof Assistant Libraries <!--(online?)--> <!--30-60'-->
 
