@@ -16,15 +16,15 @@ breadcrumbs: true
 
 Session chair: Frédéric Blanqui
 
-- 14:00 [Claudio Sacerdoti](http://www.cs.unibo.it/~sacerdot/) (University of Bologna), The challenges of the EuroProofNet Working Group 4 on proof libraries <!--30'-->
+- 14:00 [Claudio Sacerdoti](http://www.cs.unibo.it/~sacerdot/) (University of Bologna), The challenges of the EuroProofNet Working Group 4 on proof libraries ([slides](sacerdoti.pdf))
 
 - 14:30 Georges Gonthier (INRIA Saclay) [online], First-class object hierarchies
- <!--Friday only-->
+ ([slides](gonthier.pdf))
 
 As modern algebra is organised in hierarchies of structures, encoding these in the Coq type theory is the foundation of the Mathematical Components library and the proof of the Odd Order Theorem.
 As the structures and their hierarchical relations are first class objects in this encoding, it turns out the same techniques can be used to create hierarchies of other mathematical entities, such as functions, sets or relations. These have played a key part in developing a modular library in which a few overloaded lemmas can apply uniformly to a range of entities.
 
-- 15:00 [Enrico Tassi](http://www-sop.inria.fr/members/Enrico.Tassi/) (INRIA Sophia Antipolis), [Hierarchy Builder](https://github.com/math-comp/hierarchy-builder), algebraic hierarchies made easy (in Coq) [online] <!--30'--> <!--Friday only-->
+- 15:00 [Enrico Tassi](http://www-sop.inria.fr/members/Enrico.Tassi/) (INRIA Sophia Antipolis), [Hierarchy Builder](https://github.com/math-comp/hierarchy-builder), algebraic hierarchies made easy (in Coq) [online] <!--([slides](tassi.pdf))-->
 
 It is nowadays customary to organize libraries of machine checked
 proofs around hierarchies of algebraic structures. One influential
@@ -49,12 +49,12 @@ the Coq system.
 
 Session chair: Erika Abraham
 
-- 16:00 Roland Coghetto and [Julien Narboux](https://dpt-info.di.unistra.fr/~narboux/) (University of Strasbourg) [online], The GeoCoq library and its porting to Isabelle
+- 16:00 Roland Coghetto and [Julien Narboux](https://dpt-info.di.unistra.fr/~narboux/) (University of Strasbourg) [online], The GeoCoq library and its porting to Isabelle ([slides](narboux.pdf))
 
 GeoCoq is a formal proof library consisting in a formalization of foundations of geometry. It is based on several different axiom systems by Euclid, Hilbert and Tarski, and includes the arithmetization of geometry, i.e. the link between synthetic and analytic geometry. 
 After giving a quick overview of the library, we will discuss how automation and logical foundations are used in each part of the library and the potential impact on porting the library to other proof assistants. Then, we will report on the porting of the library to Isabelle/HOL by Roland Coghetto.
 
-- 16:30 [Marco Maggesi](https://sites.google.com/unifi.it/maggesi/), The HOL Light library of formalized mathematics
+- 16:30 [Marco Maggesi](https://sites.google.com/unifi.it/maggesi/), The HOL Light library of formalized mathematics ([slides](maggesi.pdf))
 
 The HOL Light theorem prover has two seemingly conflicting features.
 On the one hand, it is a system with a very thin layer of meta-logical or extra-logical features.
@@ -62,11 +62,11 @@ Yet, on the other hand, HOL Light has a library of mathematical results encompas
 Because of the simplicity of its architecture, HOL Light has been used as the base for research of various kinds, from exploring variants of the HOL logic, to implementing deep learning models for automated theorem proving.
 Thus, HOL Light and its library can be a natural and promising environment for experimenting with the management of formal mathematics libraries.
 
-- 17:00 [Geoff Sutcliffe](https://www.cs.miami.edu/home/geoff/) (University of Miami), Proofs and Models in the TPTP World [online] <!--30'--> <!--Friday after 14:00-->
+- 17:00 [Geoff Sutcliffe](https://www.cs.miami.edu/home/geoff/) (University of Miami), Proofs and Models in the TPTP World [online] ([slides](https://www.tptp.org/Seminars/TPTPProofsAndModels/Contents.html))
 
 This talk describes the current (underdeveloped?) representation and use of proofs and models in the TPTPWorld. Topics covered include the SZS ontology; the representation of derivations and finite models; the TSTP solution library; tools for examining and manipulating the derivations; uses of individual solutions, and the TSTP as a whole; projects that have used the TPTP format and tools for proofs and models; the proposed "Tons of Data for Theorem Provers" library; future work and directions to improve the status quo.
 
-- 17:30 [Florian Rabe](https://kwarc.info/people/frabe/) <!--and [Michael Kohlhase](https://kwarc.info/people/mkohlhase/)--> (University of Erlangen), Experiences from Exporting Major Proof Assistant Libraries <!--(online?)--> <!--30-60'-->
+- 17:30 [Florian Rabe](https://kwarc.info/people/frabe/) <!--and [Michael Kohlhase](https://kwarc.info/people/mkohlhase/)--> (University of Erlangen), Experiences from Exporting Major Proof Assistant Libraries ([slides](rabe.pdf))
 
 The interoperability of proof assistants and the integration of their libraries is a highly valued but elusive goal in the field of theorem proving.
 As a preparatory step, in previous work, we translated the libraries of multiple proof assistants, specifically the ones of Coq, HOL Light, IMPS, Isabelle, Mizar, and
