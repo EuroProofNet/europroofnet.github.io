@@ -5,7 +5,7 @@ gem "tzinfo", ">= 1.2.10"
 gem "tzinfo-data"
 gem "wdm", "~> 0.1.0" if Gem.win_platform?
 gem "nokogiri", ">= 1.13.6"
-gem "commonmarker", ">= 0.23.4"
+gem "commonmarker", ">= 0.23.6"
 gem "webrick", "~> 1.7"
 gem "octokit", ">= 4.25.0"
 
