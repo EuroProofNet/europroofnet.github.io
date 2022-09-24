@@ -64,10 +64,10 @@ This meeting is part of the [Computational Logic Autumn Summit 2022](https://via
 - the [22nd Intl. Conf. on Runtime Verification](https://rv22.gitlab.io/) (RV),
 - the [13th International School on Rewriting](https://viam.science.tsu.ge/clas2022/isr/) (ISR).
 
-<img src="20220923_151844_small.jpg"/>
+<img src="/_pages/WG4/Sep22/20220923_151844_small.jpg"/>
 
-<img src="20220923_151829_small.jpg"/>
+<img src="/_pages/WG4/Sep22/20220923_151829_small.jpg"/>
 
-<img src="20220923_151855_small.jpg"/>
+<img src="/_pages/WG4/Sep22/20220923_151855_small.jpg"/>
 
-<img src="20220923_152006_small.jpg"/>
+<img src="/_pages/WG4/Sep22/20220923_152006_small.jpg"/>
