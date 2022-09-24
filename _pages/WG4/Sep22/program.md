@@ -140,7 +140,7 @@ Session chair: Maribel Fernandez
 
 Dependent type theories allow us to bundle proofs and data in the same structure, which can be a great help for automation. On the other hand, unbundled definitions can allow greater flexibility. I discuss my experiences with refactoring between unbundled and bundled definitions in the Lean mathematical library mathlib, especially focusing on the implementation of typeclasses.
 
-- 14:45 [Alexander Best](https://alexjbest.github.io/) (Vrije Universiteit Amsterdam), Metaprogramming for Automation of Library Maintenance
+- 14:45 [Alexander Best](https://alexjbest.github.io/) (Vrije Universiteit Amsterdam), Metaprogramming for Automation of Library Maintenance ([slides](https://alexjbest.github.io/talks/wg4-kickoff))
 
 Large libraries of formal proofs are becoming increasingly common, and
 pose several challenges for the maintenance and upkeep if they are to
