@@ -103,7 +103,7 @@ should be applicable there too.
 
 - 10:30 CLAS coffee break
 
-- 11:00 [Fabian Huch](https://www21.in.tum.de/team/huch/) (Technical University of Münich) and [Yiannis Stathopoulos](https://www.cl.cam.ac.uk/~yas23/) (University of Cambridge), Finding facts in large formalization libraries: two Isabelle/AFP attempts ([Yiannis' slides](stathopoulos.pdf))
+- 11:00 [Fabian Huch](https://www21.in.tum.de/team/huch/) (Technical University of Münich) and [Yiannis Stathopoulos](https://www.cl.cam.ac.uk/~yas23/) (University of Cambridge), Finding facts in large formalization libraries: two Isabelle/AFP attempts ([slides](stathopoulos.pdf))
 
 The Isabelle Archive of Formal proofs is one of the largest
 formalization libraries in existence: As of mid-2022, in its 690
@@ -136,7 +136,7 @@ We also present the content of the Mizar Mathematical Library with a focus on it
 
 Session chair: Maribel Fernandez
 
-- 14:00 [Anne Baanen](https://www.cs.vu.nl/~tbn305/) (Vrije Universiteit Amsterdam), Bundling in Dependent Type Theory
+- 14:00 [Anne Baanen](https://www.cs.vu.nl/~tbn305/) (Vrije Universiteit Amsterdam), Bundling in Dependent Type Theory ([slides](baanen.pdf))
 
 Dependent type theories allow us to bundle proofs and data in the same structure, which can be a great help for automation. On the other hand, unbundled definitions can allow greater flexibility. I discuss my experiences with refactoring between unbundled and bundled definitions in the Lean mathematical library mathlib, especially focusing on the implementation of typeclasses.
 
