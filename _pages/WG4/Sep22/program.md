@@ -165,7 +165,7 @@ Session chair: Alexander Best
 
 mathlib is Lean's mathematical library, one of the largest collection of formalized mathematics, with more than 800,000 lines of codes and 130,000 theorems/definitions. I will explain how we maintain such a big library and how new results are added every day. I will also speak about the liquid tensor experiment, a very recent project where we formally verified contemporary mathematics that used mathlib in a crucial way. Rather than focusing on the mathematics, I will explain why a centralized library is necessary for such a project.
 
-- 17:00 [Talia Ringer](https://dependenttyp.es/) (University of Illinois at Urbana-Champaign) [online], Concrete Problems in Proof Automation
+- 17:00 [Talia Ringer](https://dependenttyp.es/) (University of Illinois at Urbana-Champaign) [online], Concrete Problems in Proof Automation ([slides](ringer.pdf)) ([AITP video](https://youtu.be/lRczFjl6Ljs))
 
 Machine learning for proof automation has made massive strides in recent years. But are these strides in the right directions? This talk will present challenging and impactful tasks for machine-learning-based proof automation that I believe to be underexplored. It will make a case for the utility of these tasks for users of proof assistants, and the meaning of these tasks for advancing the capabilities of AI systems.
 
