@@ -9,9 +9,15 @@ author_profile: true
 
 - Database gathering proofs from the proof systems Coq, HOL-Light and Matita, and their translations.
 
+[logipedia](http://logipedia.inria.fr/)
+
+[nubo](https://github.com/Deducteam/nubo/)
+
 **March 2023:**
 
 - Inventory of automated theorem provers producing proofs, description of proof formats, and inventory of checking tools for these proof formats.
+
+[inventory](https://github.com/EuroProofNet/ATP/wiki)
 
 - Comparison of the approaches used in the international Software Verification competition SV-COMP.
 
