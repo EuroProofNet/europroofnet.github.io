@@ -30,3 +30,47 @@ breadcrumbs: true
 - Claude Stolze: B set theory in dedukti
 - Amélie Ledein: K to dedukti
 - François Thiré: [dkcheck](https://github.com/Deducteam/Dedukti), [universo](https://github.com/Deducteam/universo)
+- Bruno Barras: [lambdapi](https://github.com/Deducteam/lambdapi) term representation and reduction engine
+- Gilles Dowek: set theory in dedukti
+
+**Sunday 16 October:**
+
+|08:00-08:30|breakfast|
+|08:30-10:30|work session 1|
+|10:30-10:45|coffee break|
+|10:45-12:45|work session 2|
+|12:45-14:00|lunch|
+|14:00-16:00|work session 3|
+|16:00-16:15|coffee break|
+|16:15-18:15|work session 4|
+|18:15-19:30|free time|
+|19:30-21:00|dinner|
+|21:00-23:00|work session 5 (optional)|
+
+**Monday 17 October:**
+
+|08:00-08:30|breakfast|
+|08:30-10:30|work session 1|
+|10:30-10:45|coffee break|
+|10:45-12:45|work session 2|
+|12:45-14:00|lunch|
+|14:00-16:00|work session 3|
+|16:00-16:15|coffee break|
+|16:15-18:15|work session 4|
+|18:15-19:30|free time|
+|19:30-21:00|dinner|
+|21:00-23:00|work session 5 (optional)|
+
+**Tuesday 18 October:**
+
+|08:00-08:30|breakfast|
+|08:30-10:30|work session 1|
+|10:30-10:45|coffee break|
+|10:45-12:45|work session 2|
+|12:45-14:00|lunch|
+|14:00-16:00|work session 3|
+|16:00-16:15|coffee break|
+|16:15-18:15|work session 4|
+|18:15-19:30|free time|
+|19:30-21:00|dinner|
+|21:00-23:00|work session 5 (optional)|
