@@ -9,8 +9,8 @@ author_profile: true
 
 - Database gathering proofs from the proof systems Coq, HOL-Light and Matita, and their translations.
 
-    * [logipedia](http://logipedia.inria.fr/)
-    * [nubo](https://github.com/Deducteam/nubo/)
+    * [Logipedia](http://logipedia.inria.fr/)
+    * [Nubo](https://github.com/Deducteam/nubo/)
 
 **March 2023:**
 
@@ -26,12 +26,12 @@ author_profile: true
 
 - Release of software for translating proofs coming from important proof systems based on type theory like Isabelle, Agda, PVS, Lean or Minlog, to Dedukti and back.
 
-    * [sttfaxport](https://github.com/Deducteam/sttfaxport): Dedukti/STTfa to Coq, Lean, PVS, Matita, OpenTheory, HOL-Light
-    * [personoj](https://github.com/Deducteam/personoj): PVS to Lambdapi
+    * [STTfaXport](https://github.com/Deducteam/sttfaxport): Dedukti/STTfa to Coq, Lean, PVS, Matita, OpenTheory, HOL-Light
+    * [Personoj](https://github.com/Deducteam/personoj): PVS to Lambdapi
     * [isabelle_dedukti](https://github.com/Deducteam/isabelle_dedukti): Isabelle to Dedukti and Lambdapi
-    * [agda2dedukti](https://github.com/Deducteam/Agda2Dedukti): Agda to Dedukti
-    * [coqine](https://github.com/Deducteam/CoqInE): Coq to Dedukti
-    * [holide](https://github.com/Deducteam/Holide): OpenTheory to Dedukti
+    * [Agda2dedukti](https://github.com/Deducteam/Agda2Dedukti): Agda to Dedukti
+    * [Coqine](https://github.com/Deducteam/CoqInE): Coq to Dedukti
+    * [Holide](https://github.com/Deducteam/Holide): OpenTheory to Dedukti
     * [HOLLightToDk](https://github.com/Deducteam/HOLLightToDk): HOL-Light to Dedukti
     * [Krajono](https://github.com/Deducteam/Krajono): Matita to Dedukti
 
@@ -50,11 +50,11 @@ author_profile: true
 
 - Software for translating proof formats used by automated theorem provers to Dedukti.
 
-    * [zenon_modulo](https://github.com/Deducteam/zenon_modulo)
+    * [ZenonModulo](https://github.com/Deducteam/zenon_modulo)
     * [ArchSAT](https://github.com/Gbury/archsat)
     * [iProverModulo](https://github.com/gburel/iProverModulo)
-    * [ekstrakto](https://github.com/Deducteam/ekstrakto) TSTP to Lambdapi
-    * [skonverto](https://github.com/Deducteam/SKonverto) deskolemizer
+    * [Ekstrakto](https://github.com/Deducteam/ekstrakto) TSTP to Lambdapi
+    * [Skonverto](https://github.com/Deducteam/SKonverto) deskolemizer
 
 **September 2025:**
 
