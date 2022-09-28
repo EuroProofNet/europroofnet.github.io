@@ -9,15 +9,14 @@ author_profile: true
 
 - Database gathering proofs from the proof systems Coq, HOL-Light and Matita, and their translations.
 
-[logipedia](http://logipedia.inria.fr/)
-
-[nubo](https://github.com/Deducteam/nubo/)
+    * [logipedia](http://logipedia.inria.fr/)
+    * [nubo](https://github.com/Deducteam/nubo/)
 
 **March 2023:**
 
 - Inventory of automated theorem provers producing proofs, description of proof formats, and inventory of checking tools for these proof formats.
 
-[inventory](https://github.com/EuroProofNet/ATP/wiki)
+    * [inventory](https://github.com/EuroProofNet/ATP/wiki)
 
 - Comparison of the approaches used in the international Software Verification competition SV-COMP.
 
@@ -27,9 +26,21 @@ author_profile: true
 
 - Release of software for translating proofs coming from important proof systems based on type theory like Isabelle, Agda, PVS, Lean or Minlog, to Dedukti and back.
 
+    * [sttfaxport](https://github.com/Deducteam/sttfaxport): Dedukti/STTfa to Coq, Lean, PVS, Matita, OpenTheory, HOL-Light
+    * [personoj](https://github.com/Deducteam/personoj): PVS to Lambdapi
+    * [isabelle_dedukti](https://github.com/Deducteam/isabelle_dedukti): Isabelle to Dedukti and Lambdapi
+    * [agda2dedukti](https://github.com/Deducteam/Agda2Dedukti): Agda to Dedukti
+    * [coqine](https://github.com/Deducteam/CoqInE): Coq to Dedukti
+    * [holide](https://github.com/Deducteam/Holide): OpenTheory to Dedukti
+    * [HOLLightToDk](https://github.com/Deducteam/HOLLightToDk): HOL-Light to Dedukti
+    * [Krajono](https://github.com/Deducteam/Krajono): Matita to Dedukti
+
 - Software prototype for the automated inference of program specifications as logical axioms.
 
 - Tools for managing the dependencies between proofs, and querying and searching the database.
+
+    * [FindFacts](https://search.isabelle.in.tum.de/)
+    * [SErAPIS](https://behemoth.cl.cam.ac.uk/search/)
 
 **March 2024:**
 
@@ -38,6 +49,12 @@ author_profile: true
 **January 2025:**
 
 - Software for translating proof formats used by automated theorem provers to Dedukti.
+
+    * [zenon_modulo](https://github.com/Deducteam/zenon_modulo)
+    * [ArchSAT](https://github.com/Gbury/archsat)
+    * [iProverModulo](https://github.com/gburel/iProverModulo)
+    * [ekstrakto](https://github.com/Deducteam/ekstrakto) TSTP to Lambdapi
+    * [skonverto](https://github.com/Deducteam/SKonverto) deskolemizer
 
 **September 2025:**
 
