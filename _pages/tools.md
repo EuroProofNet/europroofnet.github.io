@@ -13,6 +13,11 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 - [Kontroli](https://github.com/01mf02/kontroli-rs): parallel version of dkcheck
 - [Lambdapi](https://github.com/Deducteam/lambdapi): interactive extension of dkcheck with metavariables and tactics
 
+**Problem data bases**
+
+- [TPTP](https://www.tptp.org): Thousands of Problems for Theorem Provers
+- [TGTP](http://hilbert.mat.uc.pt/TGTP/index.php): Thousand of Geometric Problems for Geometric Theorem Provers
+
 **Proof data bases**
 
 - [Nubo](https://github.com/Deducteam/nubo): metadata on Dedukti libraries
