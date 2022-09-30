@@ -33,6 +33,10 @@ breadcrumbs: true
 - Bruno Barras: [lambdapi](https://github.com/Deducteam/lambdapi) term representation and reduction engine
 - Gilles Dowek: set theory in dedukti
 
+**Lunches and dinners**
+
+All meals will be taken at the restaurant of the hôtel except the dinner on Sunday 16 October which will be at the [Restaurant du Sô](https://restaurantduso.fr/), 400 m from the hotel La Résidence.
+
 **Sunday 16 October:**
 
 |08:00-08:30|breakfast|
