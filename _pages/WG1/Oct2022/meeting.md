@@ -78,3 +78,11 @@ All meals will be taken at the restaurant of the hôtel except the dinner on Sun
 |18:15-19:30|free time|
 |19:30-21:00|dinner|
 |21:00-23:00|work session 5 (optional)|
+
+**Wednesday 19 October:**
+
+|08:00-08:30|breakfast|
+|08:30-10:30|work session 1|
+|10:30-10:45|coffee break|
+|10:45-12:45|work session 2|
+|12:45-14:00|lunch|
