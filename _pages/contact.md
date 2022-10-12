@@ -12,6 +12,9 @@ title: "Contact"
 
 To report a problem or contribute to the web site, please open an [issue](https://github.com/EuroProofNet/europroofnet.github.io/issues), create a [pull request](https://github.com/EuroProofNet/europroofnet.github.io) or send a mail to the science communication coordinators.
 
+If you have questions concerning reimbursements, please contact
+[Marie-Carol Lopes](mailto:marie-carol.lopes@inria.fr).
+
 **Documents**
 
 - [COST annotated rules](https://www.cost.eu/uploads/2021/10/COST-094-21-Annotated-Rules-for-COST-Actions-Level-C-2021-11-01-1.pdf)
@@ -65,6 +68,7 @@ To report a problem or contribute to the web site, please open an [issue](https:
 
 Each COST (cooperating) member country can have one or two representatives. There are currently 32/41 countries represented in EuroProofNet. We are looking for representatives for: Albania, Bosnia and Herzegovina, Cyprus, Georgia, Latvia, Malta, the Republic of Moldova, Montenegro, Ukraine. If you are interested, please contact the chair.
 
+- Albania: Elda Xhumari
 - Austria: [Laura Kovács](http://lkovacs.com/) and [Cezary Kaliszyk](http://cl-informatik.uibk.ac.at/cek/)
 - Belgium: [Christophe Scholliers](https://users.ugent.be/~chscholl/) and [Pascal Fontaine](https://people.montefiore.uliege.be/pfontain/)
 - Bulgaria: [Roussanka Loukanova](https://staff.math.su.se/rloukanova/)
@@ -86,7 +90,7 @@ Each COST (cooperating) member country can have one or two representatives. Ther
 - Netherlands: [Herman Geuvers](http://www.cs.ru.nl/~herman/) and [Jesper Cockx](https://jesper.sikanda.be/)
 - North Macedonia: [Natasha Maksimova](https://scholar.ugd.edu.mk/nmaksimova) and [Marija Mihova](https://finki.ukim.mk/en/staff/marija-mihova)
 - Norway: [Håkon Robbestad Gylterud](https://hakon.gylterud.net/) and [Volker Stolz](https://ict.hvl.no/people/volker-stolz/)
-- Poland: Adrian Jaszczak and [Aleksy Schubert](https://www.mimuw.edu.pl/~alx/)
+- Poland: [Adam Naumowicz](http://math.uwb.edu.pl/~adamn/) and [Aleksy Schubert](https://www.mimuw.edu.pl/~alx/)
 - Portugal: [Maria João Frade](https://haslab.uminho.pt/mjf/) and [Sandra Alves](https://www.dcc.fc.up.pt/~sandra/)
 - Romania: [Rodica Condurache](https://profs.info.uaic.ro/~rodica.condurache/) and [Mihai Craciun](http://www.cs.ubbcluj.ro/~craciunf/)
 - Serbia: [Silvia Ghilezan](http://imft.ftn.uns.ac.rs/~silvia/) and [Danijela Simić](http://poincare.matf.bg.ac.rs/~danijela/) 
