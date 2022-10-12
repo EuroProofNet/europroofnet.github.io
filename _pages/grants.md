@@ -109,6 +109,9 @@ based upon work from COST Action EuroProofNet, supported by COST
 
 For any question, please contact the coordinators for STSMs [Danijela Simic](http://poincare.matf.bg.ac.rs/~danijela) (University of Belgrade, Serbia) **AND** [Ambrus Kaposi](http://akaposi.web.elte.hu) (Eötvös Loránd University, Hungary). Please, contact them both in case one is not available.
 
+If you have questions concerning reimbursements, please contact
+[Marie-Carol Lopes](mailto:marie-carol.lopes@inria.fr).
+
 **Past deadlines**
 
 - 1 July 2022 (notification on 8 July): we were especially looking for applications from WG4 on the construction, management and (re)use of big libraries of formal proofs
