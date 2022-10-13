@@ -97,7 +97,7 @@ Each COST (cooperating) member country can have one or two representatives. Ther
 - Slovakia: [Ján Perháč](https://kpi.fei.tuke.sk/en/person/jan-perhac)
 - Slovenia: [Anja Petković Komel](https://anjapetkovic.com/) and [Andrej Bauer](http://www.andrej.com/)
 - Spain: [Montserrat Hermo](http://www.sc.ehu.es/jiwhehum2/LoRea/Mhermo/research.html) and [Alicia Villanueva](http://personales.upv.es/alvilga1/)
-- Sweden: [Anders Mörtberg](https://staff.math.su.se/anders.mortberg/) and [Robin Adam](https://www.chalmers.se/en/staff/Pages/robinad.aspx)
+- Sweden: [Anders Mörtberg](https://staff.math.su.se/anders.mortberg/) and [Robin Adams](https://www.chalmers.se/en/staff/Pages/robinad.aspx)
 - Switzerland: [Viktor Kuncak](https://lara.epfl.ch/~kuncak/)
 - Turkey: [Ümit Ertuğrul](https://avesis.ktu.edu.tr/uertugrul/)
 - United Kingdom: [Angeliki Koutsoukou-Argyraki](https://www.cl.cam.ac.uk/~ak2110/) and [Benedikt Ahrens](https://benediktahrens.gitlab.io/)

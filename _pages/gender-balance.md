@@ -20,7 +20,9 @@ If you are organizing an event within the action or if you have other questions/
 
 ## Activities:
 
-- [Women in EuroProofNet](../women-epn-2022/): event dedicated to gender balance in the community (talks + discussion).
+- 18 October 2022: Zoom talk by [Anja Petković Komel](https://anjapetkovic.com/) on gender balance in computer science.
+
+- 24 June 2022: [Women in EuroProofNet 2022](../women-epn-2022/): event dedicated to gender balance in the community (talks + discussion).
 
 
 ## Useful links:
