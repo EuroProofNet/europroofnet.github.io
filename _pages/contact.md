@@ -79,6 +79,7 @@ Each COST (cooperating) member country can have one or two representatives. Ther
 - Finland: [Luigia Petre](http://users.abo.fi/lpetre/)
 - France: [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/) and [Catherine Dubois](http://web4.ensiie.fr/~catherine.dubois/)
 - Germany: [Erika Ábrahám](https://ths.rwth-aachen.de/people/erika-abraham/) and [Chuangjie Xu](https://cj-xu.github.io/)
+- Georgia: [Besik Dundua](https://cte.ibsu.edu.ge/en/besik-dundua/)
 - Greece: [Petros Stefaneas](https://ntua.academia.edu/PStefaneas)
 - Hungary: [András Kovács](https://orcid.org/0000-0002-6375-9781) and [Ambrus Kaposi](https://akaposi.github.io/)
 - Iceland: [Valentina Castiglioni](https://sites.google.com/view/valentinacastiglioni/home) and [Dylan McDermott](https://dylanm.org/)
