@@ -6,6 +6,8 @@ author_profile: true
 breadcrumbs: true
 ---
 
+<img src="/_pages/WG1/Oct2022/20221016_162105_resized.jpg"/>
+
 **Date:** 16-18 October 2022
 
 **Venue:** [La Résidence](https://la-residence.com/), 5 rue des Mousses, 88340 Le Val d’Ajol, France
