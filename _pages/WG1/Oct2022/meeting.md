@@ -87,10 +87,8 @@ All meals will be taken at the restaurant of the hôtel except the dinner on Sun
 |10:45-12:45|work session 2|
 |12:45-14:00|lunch|
 
-<img src="/_pages/WG1/Oct2022/20221016_122627_resized.jpg"/>
-
+<img src="/_pages/WG1/Oct2022/20221016_122649_resized.jpg"/>
 <img src="/_pages/WG1/Oct2022/20221016_122726_resized.jpg"/>
 
 <img src="/_pages/WG1/Oct2022/20221016_122621_resized.jpg"/>
-
-<img src="/_pages/WG1/Oct2022/20221016_122649_resized.jpg"/>
+<img src="/_pages/WG1/Oct2022/20221016_122627_resized.jpg"/>
