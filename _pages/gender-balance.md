@@ -14,13 +14,14 @@ We strive to ensure better gender balance in the community and we take actions t
 - We promote work done by members of underrepresented genders ([WEPN'22](../women-epn-2022/)).
 - We organize training and discussion on unconscious biases and gender-balance issues ([WEPN'22](../women-epn-2022/)).
 - We aid parents with finding/ensuring childcare at the events organized by EuroProofNet action.
+- We consider gender aspects of our research.
 
 If you are organizing an event within the action or if you have other questions/ideas about how to address gender-balance issues within the action, contact the [gender-balance coordinator](../contact).
 
 
 ## Activities:
 
-- 18 October 2022: Zoom talk by [Anja Petković Komel](https://anjapetkovic.com/) on gender balance in computer science.
+- 18 October 2022: Remote talk by [Anja Petković Komel](https://anjapetkovic.com/) on gender balance in computer science for computer science students at ENS Paris-Scalay ([slides](https://anjapetkovic.com/talks/2022-10-18-Paris-Seminar/2022-Oct-Paris-gender-gap-CS.pdf)).
 
 - 24 June 2022: [Women in EuroProofNet 2022](../women-epn-2022/): event dedicated to gender balance in the community (talks + discussion).
 
