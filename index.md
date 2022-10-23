@@ -26,7 +26,7 @@ to the [working groups](../wg) you are interested in (it is free and open to any
 
 **Coming events:**
 
-- 16-18 October 2022: [Dedukti tools developers meeting](/dk-meeting1), Val d'Ajol, France
+- 24 October 2022: 2nd Management Committee meeting
 
 [Past events](../events)
 

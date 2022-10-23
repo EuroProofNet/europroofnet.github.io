@@ -9,10 +9,11 @@ author_profile: true
 
 **Coming events:**
 
-- 16-18 October 2022: [Dedukti tools developers meeting](/dk-meeting1), Val d'Ajol, France
+- 24 October 2022: 2nd Management Committee meeting
 
 **Past events:**
 
+- 16-18 October 2022: [Dedukti tools developers meeting](/dk-meeting1), Val d'Ajol, France
 - 23-24 September 2022: [EuroProofNet workshop on the development, maintenance, refactoring and search of large libraries of proofs](/wg4-meeting1), Tbilisi, Georgia
 - 5-9 September 2022: [EuroProofNet Summer School on Verification Technology, Systems & Applications](https://resources.mpi-inf.mpg.de/departments/rg1/conferences/vtsa22/) (VTSA'22), Saarbrücken, Germany
 - 4-9 September 2022: [WG5 kick-off meeting](/wg5-aitp22) and [7th Conference on Artificial Intelligence and Theorem Proving](http://aitp-conference.org/2022/) (AITP'22), Aussois, France
