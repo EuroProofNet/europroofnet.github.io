@@ -24,9 +24,7 @@ To join the action, simply
 [apply](https://e-services.cost.eu/action/CA20111/working-groups/apply)
 to the [working groups](../wg) you are interested in (it is free and open to anyone).
 
-**Coming events:**
-
-- 24 October 2022: 2nd Management Committee meeting
+<!--**Coming events:**-->
 
 [Past events](../events)
 

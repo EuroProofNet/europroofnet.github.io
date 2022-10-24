@@ -7,12 +7,12 @@ author_profile: true
 
 <iframe src="https://calendar.google.com/calendar/embed?src=tifr4i78iakfnioku9bebr7dhc%40group.calendar.google.com&ctz=Europe%2FParis" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
-**Coming events:**
+<!--**Coming events:**-->
 
-- 24 October 2022: 2nd Management Committee meeting
 
 **Past events:**
 
+- 24 October 2022: [2nd Management Committee meeting](/mc-meetings)
 - 16-18 October 2022: [Dedukti tools developers meeting](/dk-meeting1), Val d'Ajol, France
 - 23-24 September 2022: [EuroProofNet workshop on the development, maintenance, refactoring and search of large libraries of proofs](/wg4-meeting1), Tbilisi, Georgia
 - 5-9 September 2022: [EuroProofNet Summer School on Verification Technology, Systems & Applications](https://resources.mpi-inf.mpg.de/departments/rg1/conferences/vtsa22/) (VTSA'22), Saarbrücken, Germany
@@ -26,4 +26,4 @@ author_profile: true
 - 10-11 Feb 2022: [WG3 kick-off meeting](https://europroofnet.github.io/wg3-meeting1), Valencia, Spain [Slides&Videos](https://europroofnet.github.io/wg3-meeting1-program) [Report](https://europroofnet.github.io/_pages/WG3/Feb2022/ReportWG3meeting.pdf)
 - 18 January 2022; [Deadline for STSM proposals](/grants) (notification on 26 January)
 - Jan-Oct 2022: [Work and budget plan for January-October 2022](https://europroofnet.github.io/work-plan-1/)
-- 11-12 Oct 2021: 1st Management Committee Meeting (online) [Minutes](/assets/documents/MC1-minutes.pdf)
+- 11-12 Oct 2021: [1st Management Committee Meeting](/mc-meetings) (online)
