@@ -13,4 +13,5 @@ title: "Management Committee Meetings"
 
 **Meeting 1: 11-12 October 2022**
 
+- [work and budget plan for Nov 2021 - Oct 2022](/work-plan-1)
 - [minutes](MC/meeting1/minutes.pdf)
