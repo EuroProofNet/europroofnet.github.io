@@ -7,6 +7,7 @@ title: "Management Committee Meetings"
 
 - [summary of activities on Nov 21 - Oct 22](MC/meeting2/summary.pdf)
 - [summary of WG2](MC/meeting2/wg2.pdf)
+- [summary of WG6](MC/meeting2/wg5.pdf)
 - [summary of WG6](MC/meeting2/wg6.pdf)
 - [work and budget plan for Nov 22 - Oct 23](MC/meeting2/plan.pdf)
 
