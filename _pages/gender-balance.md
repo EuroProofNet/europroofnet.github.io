@@ -32,4 +32,6 @@ If you are organizing an event within the action or if you have other questions/
 
 - [Booklet](https://eugain.eu/wp-content/uploads/2022/05/EUGAIN_booklet_2022-05.pdf) of best practices to ensure gender balance from PhD to professorship (delivered by EUGAIN members).
 
+- [GenderMag Method](https://gendermag.org/index.php) enables software practitioners (e.g., developers, managers, UX professionals) find gender-inclusivity "bugs" in their software, and then fix the bugs they find.
+
 - [Women in Logic](https://sites.google.com/view/womeninlogic)
