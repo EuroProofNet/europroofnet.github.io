@@ -66,7 +66,7 @@ If you have questions concerning reimbursements, please contact
 
 **Management Committee/Country representatives**
 
-Each COST (cooperating) member country can have one or two representatives. There are currently 32/41 countries represented in EuroProofNet. We are looking for representatives for: Albania, Bosnia and Herzegovina, Cyprus, Georgia, Latvia, Malta, the Republic of Moldova, Montenegro, Ukraine. If you are interested, please contact the chair.
+Each COST (cooperating) member country can have one or two representatives. There are currently 34/41 countries represented in EuroProofNet. We are looking for representatives for Bosnia and Herzegovina, Cyprus, Latvia, Malta, the Republic of Moldova, Montenegro, Ukraine. If you are interested, please contact the chair.
 
 - Albania: Elda Xhumari
 - Austria: [Laura Kovács](http://lkovacs.com/) and [Cezary Kaliszyk](http://cl-informatik.uibk.ac.at/cek/)
