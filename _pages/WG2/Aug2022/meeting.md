@@ -105,7 +105,7 @@ See the [FLoC pages](https://www.floc2022.org/)
 |--------------|-------------------------------------------------------|
 |14:50-15:35   | *Andres Notzli* (invited talk, Stanford)              |
 |              | EuroProofNet presentation on SMT and proofs           |
-|              | [Slides soon here]()                                   |
+|              | [Slides](/assets/wg2/Aug2022/Notzli.pdf)              |
 |--------------|-------------------------------------------------------|
 |16:00-16:45   | SMT Proof discussion (joint with the SMT Workshop)    |
 |              | The items discussed are also summarized in |
