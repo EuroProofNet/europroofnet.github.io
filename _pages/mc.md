@@ -11,6 +11,8 @@ title: "Management Committee Meetings"
 - [summary of gender balance](MC/meeting2/gender-balance.pdf)
 - [summary of STSMs](MC/meeting2/stsm.pdf)
 - [summary of WG2](MC/meeting2/wg2.pdf)
+- [summary of WG3](MC/meeting2/wg3.pdf)
+- [summary of WG4](MC/meeting2/wg4.pdf)
 - [summary of WG5](MC/meeting2/wg5.pdf)
 - [summary of WG6](MC/meeting2/wg6.pdf)
 
