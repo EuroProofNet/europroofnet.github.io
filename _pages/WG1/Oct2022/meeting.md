@@ -52,21 +52,16 @@ François Thiré,
 - Théo Winterhalter worked with Jesper Cockx on describing an alternative description of Dedukti inside Lambdapi itself. This work on design was also about understanding both Dedukti and Lambdapi both as tools and theories.
 
 - Michael Färber and François Thiré: definition of a Dedukti standard.
-
 Dedukti is a language which is implemented by three various active tools: Lambdapi: a proof assistant on top of Dedukti implemented in OCaml, Dkcheck: the original checker for Dedukti implemented in OCaml, Kontroli: another type checker for Dedukti implemented in Rust.
-
 Each of those three languages recognizes a common subset of the
 language. The purpose of the first version of the standard is to have
 a language which is compatible with the three versions.
-
 Taking the interesection of the three languages recognized by those
 tools is not enough. The rationale behind this first version of the
 design is made so that it is easy to modify the existing tools to make
 it compliant with the standard.
-
 The standard specifies both syntactic rules and semantic rules for the
 Dedukti language.
-
 This should also help the translation of tools to Dedukti because
 targetting the standard will be enough to get programs/proofs that can
 be interpreted the the three tools.
