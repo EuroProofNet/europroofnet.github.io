@@ -66,6 +66,8 @@ This should also help the translation of tools to Dedukti because
 targetting the standard will be enough to get programs/proofs that can
 be interpreted the the three tools.
 
+- Claude Stolze started working on an specification of the underlying set theory of the B method. The first goal of this work is to give a clear understanding of this typed set theory and to see how to formalize its structure into the Dedukti system.
+
 **Lunches and dinners**
 
 All meals will be taken at the restaurant of the hôtel except the dinner on Sunday 16 October which will be at the [Restaurant du Sô](https://restaurantduso.fr/), 400 m from the hotel La Résidence.
