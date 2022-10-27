@@ -35,11 +35,8 @@ François Thiré,
 [Gilles Dowek](http://www.lsv.fr/~dowek/)
 
 <!--
-[lambdapi](https://github.com/Deducteam/lambdapi)
 [ekstraskto](https://github.com/Deducteam/ekstrakto)
 [skonverto](https://github.com/Deducteam/skonverto)
-[larus](https://github.com/janicicpredrag/Larus)
-[dkcheck](https://github.com/Deducteam/Dedukti)
 [universo](https://github.com/Deducteam/universo)
 -->
 
@@ -49,10 +46,10 @@ François Thiré,
 
 - [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/) merged in the [Lambdapi standard library](https://github.com/fblanqui/lib) the [work](https://github.com/fblanqui/lib/pull/5) of Quentin Buzet on the formalization of the Coq SSReflect libraries [ssrnat](https://github.com/math-comp/math-comp/blob/master/mathcomp/ssreflect/ssrnat.v) on natural numbers and [seq](https://github.com/math-comp/math-comp/blob/master/mathcomp/ssreflect/seq.v) on polymorphic lists. He also merged the formalization of [binary integers](https://github.com/fblanqui/lib/pull/1) of Quentin Garchery, after having removed its dependency to the calculus of constructions: the formalization is now in first-order logic. Frédéric also worked with Julien Narboux and Predrag Janičić on the representation in Lambdapi of the proofs of coherent logic. Finally, he worked on [isabelle_dedukti](https://github.com/Deducteam/isabelle_dedukti) too.
 
-- Théo Winterhalter worked with Jesper Cockx on describing an alternative description of Dedukti inside Lambdapi itself. This work on design was also about understanding both Dedukti and Lambdapi both as tools and theories.
+- Théo Winterhalter worked with Jesper Cockx on describing an alternative description of Dedukti inside [Lambdapi](https://github.com/Deducteam/lambdapi) itself. This work on design was also about understanding both Dedukti and Lambdapi both as tools and theories.
 
 - Michael Färber and François Thiré worked on the definition of a Dedukti standard.
-Dedukti is a language which is implemented by three various active tools: Lambdapi: a proof assistant on top of Dedukti implemented in OCaml, Dkcheck: the original checker for Dedukti implemented in OCaml, Kontroli: another type checker for Dedukti implemented in Rust.
+Dedukti is a language which is implemented by three various active tools: [Lambdapi](https://github.com/Deducteam/lambdapi): a proof assistant on top of Dedukti implemented in OCaml, [dkcheck](https://github.com/Deducteam/Dedukti): the original checker for Dedukti implemented in OCaml, [Kontroli](https://github.com/01mf02/kontroli-rs): another type checker for Dedukti implemented in Rust.
 Each of those three languages recognizes a common subset of the
 language. The purpose of the first version of the standard is to have
 a language which is compatible with the three versions.
@@ -71,7 +68,7 @@ be interpreted the the three tools.
 - [Predrag Janičić](http://poincare.matf.bg.ac.rs/~janicic/)
 and [Julien Narboux](https://dpt-info.di.unistra.fr/~narboux/)
 worked on exporting coherence logic (CL) proofs to Dedukti.
-Larus is an automated theorem prover based on coherent logic. 
+[larus](https://github.com/janicicpredrag/Larus) is an automated theorem prover based on coherent logic. 
 It is not as efficient as state of the art FOL provers,
 but it can generate somewhat readable proofs
 and formal proofs in Coq which are also readable and maintainable.
@@ -81,9 +78,9 @@ several proof assistants using Dedukti technology.
 Along that way, they want to keep the structure and readability of the proofs.
 A first idea could be to translate to FOL, but this consists in generating a big lambda term, 
 which contains too much details and that we could obtain also via Larus2Coq export,
- and then export from Coq2Dedukti.
+ and then export from [Coq2dk](https://github.com/Deducteam/CoqInE).
 Another way to export from Larus to other proof assistants is to write directly the translators in Larus.
-For Lean, we could use Verbose Lean as a target (https://github.com/PatrickMassot/lean-verbose/blob/master/test/sample.lean) whose syntax is very close to Larus's natural language proofs and very readable. The drawback is that the syntax is not standard and may be not maintained in the future.
+For Lean, we could use [Verbose Lean](https://github.com/PatrickMassot/lean-verbose/blob/master/test/sample.lean) as a target whose syntax is very close to Larus's natural language proofs and very readable. The drawback is that the syntax is not standard and may be not maintained in the future.
 Another drawback of this approach is that the code cannot be shared between different CL provers (but there are not so many CLprovers).
 So another direction is to define a deep embedding of CL in Dedukti.
 We cannot use the same approach as the encoding of FOL into Dedukti, 
