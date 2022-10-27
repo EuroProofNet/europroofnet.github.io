@@ -10,7 +10,7 @@ title: "Management Committee Meetings"
 - [work and budget plan for Nov 22 - Oct 23](MC/meeting2/plan.pdf)
 - [summary of gender balance](MC/meeting2/gender-balance.pdf)
 - [summary of STSMs](MC/meeting2/stsm.pdf)
-- [summary of WG1](MC/meeting2/wg1)
+- [summary of WG1](../mc-meeting2-wg1)
 - [summary of WG2](MC/meeting2/wg2.pdf)
 - [summary of WG3](MC/meeting2/wg3.pdf)
 - [summary of WG4](MC/meeting2/wg4.pdf)

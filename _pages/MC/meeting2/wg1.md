@@ -1,4 +1,5 @@
 ---
+permalink: /mc-meeting2-wg1/
 title: "Summary of WG1 activities on Nov 21 - Oct 22"
 ---
 
