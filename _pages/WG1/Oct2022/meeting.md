@@ -51,7 +51,7 @@ François Thiré,
 
 - Théo Winterhalter worked with Jesper Cockx on describing an alternative description of Dedukti inside Lambdapi itself. This work on design was also about understanding both Dedukti and Lambdapi both as tools and theories.
 
-- Michael Färber and François Thiré: definition of a Dedukti standard.
+- Michael Färber and François Thiré worked on the definition of a Dedukti standard.
 Dedukti is a language which is implemented by three various active tools: Lambdapi: a proof assistant on top of Dedukti implemented in OCaml, Dkcheck: the original checker for Dedukti implemented in OCaml, Kontroli: another type checker for Dedukti implemented in Rust.
 Each of those three languages recognizes a common subset of the
 language. The purpose of the first version of the standard is to have
@@ -67,6 +67,29 @@ targetting the standard will be enough to get programs/proofs that can
 be interpreted the the three tools.
 
 - Claude Stolze started working on an specification of the underlying set theory of the B method. The first goal of this work is to give a clear understanding of this typed set theory and to see how to formalize its structure into the Dedukti system.
+
+- [Predrag Janičić](http://poincare.matf.bg.ac.rs/~janicic/)
+and [Julien Narboux](https://dpt-info.di.unistra.fr/~narboux/)
+worked on exporting coherence logic (CL) proofs to Dedukti.
+Larus is an automated theorem prover based on coherent logic. 
+It is not as efficient as state of the art FOL provers,
+but it can generate somewhat readable proofs
+and formal proofs in Coq which are also readable and maintainable.
+They considered exporting from Larus to Dedukti. 
+It should be a way to transfer automatically generated proofs to 
+several proof assistants using Dedukti technology. 
+Along that way, they want to keep the structure and readability of the proofs.
+A first idea could be to translate to FOL, but this consists in generating a big lambda term, 
+which contains too much details and that we could obtain also via Larus2Coq export,
+ and then export from Coq2Dedukti.
+Another way to export from Larus to other proof assistants is to write directly the translators in Larus.
+For Lean, we could use Verbose Lean as a target (https://github.com/PatrickMassot/lean-verbose/blob/master/test/sample.lean) whose syntax is very close to Larus's natural language proofs and very readable. The drawback is that the syntax is not standard and may be not maintained in the future.
+Another drawback of this approach is that the code cannot be shared between different CL provers (but there are not so many CLprovers).
+So another direction is to define a deep embedding of CL in Dedukti.
+We cannot use the same approach as the encoding of FOL into Dedukti, 
+because the FOL encoding does not use explicit contexts, which seems to be essential to keep the spirit of CL.
+They have defined the syntax of CL in Lambdapi. 
+The open question is how to finish the definition of the inference rules. 
 
 **Lunches and dinners**
 
