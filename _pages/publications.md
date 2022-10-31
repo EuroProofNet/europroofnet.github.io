@@ -9,6 +9,8 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 
 **2022**
 
+- [An Implementation of Set Theory with Pointed Graphs in Dedukti](https://hal.inria.fr/hal-03740004), Valentin Blot, Gilles Dowek and Thomas Traversié, LFMTP'22
+
 - [Evolution of Automated Deduction and Dynamic Constructions in Geometry](https://doi.org/10.1007/978-3-030-86909-0_1), Pedro Quaresma, [Mathematics Education in the Age of Artificial Intelligence, 2022](http://doi.org/10.1007/978-3-030-86909-0)
 
 - [Four Geometry Problems to Introduce Automated Deduction in Secondary Schools](https://doi.org/10.48550/arXiv.2202.03566), Pedro Quaresma, Vanda Santos, [ThEdu'21](http://doi.org/10.4204/EPTCS.354)
