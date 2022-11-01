@@ -13,7 +13,7 @@ The next deadline for STSM proposals will be in November or December 2022.
 
 A Short-Term Scientific Mission (STSM) is a research visit of an individual researcher from a country participating in the Action in a different country also participating in the Action. We encourage STSMs, as they are an effective way of starting and maintaining collaborations.
 
-The procedure for proposing an STSM is described in [Annex 2 of the Annotated Rules](https://www.cost.eu/uploads/2021/10/COST-094-21-Annotated-Rules-for-COST-Actions-Level-C-2021-11-01-1.pdf#page=92).
+The procedure for proposing an STSM is described in [Annex 2 of the Annotated Rules](https://www.cost.eu/uploads/2022/10/COST-094-21-Annotated-Rules-for-COST-Actions-Level-C-V1.3-.pdf#page=96).
 
 The main points about STSMs are:
 

@@ -17,7 +17,7 @@ If you have questions concerning reimbursements, please contact
 
 **Documents**
 
-- [COST annotated rules](https://www.cost.eu/uploads/2021/10/COST-094-21-Annotated-Rules-for-COST-Actions-Level-C-2021-11-01-1.pdf)
+- [COST annotated rules](https://www.cost.eu/uploads/2022/10/COST-094-21-Annotated-Rules-for-COST-Actions-Level-C-V1.3-.pdf) (version 1.3, 1 November 2022)
 - [Eligibility rules](../eligibility)
 - [Reimbursement rules](../reimbursement-rules)
 - [Management Committee meetings](../mc-meetings)
