@@ -46,16 +46,16 @@ If you have questions concerning reimbursements, please contact
   * vice leader: [Catherine Dubois](http://web4.ensiie.fr/~catherine.dubois/)
 
 - [WG2 on automated theorem provers](/wg2)
-  * leader: [Pascal Fontaine](https://people.montefiore.uliege.be/pfontain/)
-  * vice leader: [Alexander Steen](https://www.alexandersteen.de/)
-
+  * leader: [Alexander Steen](https://www.alexandersteen.de/)
+  * vice leader: [Pascal Fontaine](https://people.montefiore.uliege.be/pfontain/)
+  
 - [WG3 on program verification](/wg3)
-  * leader: [Alicia Villanueva](http://personales.upv.es/alvilga1/)
-  * vice leader: [Rodica Condurache](https://profs.info.uaic.ro/~rodica.condurache/)
+  * leader: [Mădălina Eraşcu](https://merascu.github.io/)
+  * vice leader: [Alicia Villanueva](http://personales.upv.es/alvilga1/)
 
 - [WG4 on libraries](/wg4)
-  * leader: [Claudio Sacerdoti Coen](http://www.cs.unibo.it/~sacerdot/)
-  * vice leader: [Gilles Dowek](http://www.lsv.fr/~dowek/)
+  * leader: [Angeliki Koutsoukou-Argyraki](https://www.cl.cam.ac.uk/~ak2110/)
+  * vice leader: [Claudio Sacerdoti Coen](http://www.cs.unibo.it/~sacerdot/)
 
 - [WG5 on machine learning](/wg5)
   * leader: [Cezary Kaliszyk](http://cl-informatik.uibk.ac.at/cek/)
