@@ -11,6 +11,8 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 
 - 6-10 March 2023: [25th International Symposium on Formal Methods](https://fm2023.isp.uni-luebeck.de/) (FM'23), Lübeck, Germany
 
+- 11-12 November 2022: [Autumn Workshop Proof Theory](https://uswpt.sites.uu.nl/), Utrecht, Netherlands
+
 - 26-29 September 2022: [Logic and Applications](http://imft.ftn.uns.ac.rs/math/cms/LAP2022) (LAP'22), Dubrovnik, Croatia
 
 - 20-23 September 2022: [28th Workshop on Logic, Language, Information and Computation](https://wollic2022.github.io/) (WoLLIC'22), Iași, Romania
