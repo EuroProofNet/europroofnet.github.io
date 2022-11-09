@@ -7,7 +7,7 @@ author_profile: true
 
 To contribute to the web site, please open an [issue](https://github.com/EuroProofNet/europroofnet.github.io/issues), create a [pull request](https://github.com/EuroProofNet/europroofnet.github.io) or send a mail to the [science communication coordinators](../contact).
 
-- 7-10 November 2022: [Autumn School Proof Theory](https://uswpt.sites.uu.nl/)
+- 7-10 November 2022: [Autumn School Proof Theory](https://uswpt.sites.uu.nl/), Utrecht, Netherlands
 
 - 26 September - 1 October 2022: [Proof and Computation](http://www.mathematik.uni-muenchen.de/~schwicht/pc22.php), Fischbachau, Germany
 
