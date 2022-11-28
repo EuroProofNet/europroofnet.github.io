@@ -12,20 +12,25 @@ breadcrumbs: true
 
 **Venue:** [Villa Clythia](https://www.caes.cnrs.fr/sejours/la-villa-clythia/), 2754, avenue Henri-Giraud 83600 Fréjus, France
 
-**How to get there?** Villa Clythia is at 3 km from the TGV train station of Saint Raphaël - Vélascure, and 60 km from the Nice airport. <!--A shuttle will be organized from/to the train station on October 15 at 15:30, and from the hotel to Remiremont train station on October 19 at 15:00. If you want to take the shuttle, send a mail to [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/)-->.
+**How to get there?** Villa Clythia is at 3 km from the TGV train station of Saint Raphaël - Valescure, and 60 km from the Nice airport.
 
-**Programme:** Working alone or in small groups on the development of tools for generating, handling or transforming Dedukti files. See [previous meeting](../dkèmeeting1).
+Remark: there are direct trains from Paris Gare de Lyon on January 26: 08:18-13:01, and direct trains to Paris Gare de Lyon on January 30: 15:57-20:42.
 
-**Registration:** Deadline for registration: 11 December 2022. The number of
-participants is limited. If you want to participate, check the [eligibility rules](https://europroofnet.github.io/eligibility/) and the [reimbursement rules](https://europroofnet.github.io/reimbursement-rules/), and send a
-mail to [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/) with
-the following information and documents:
+<!--A shuttle will be organized from/to the train station on October 15 at 15:30, and from the hotel to Remiremont train station on October 19 at 15:00. If you want to take the shuttle, send a mail to [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/)-->.
+
+**Programme:** Working alone or in small groups on the development of tools for generating, handling or transforming Dedukti files, taking advantage of the participation of experts on Dedukti or other languages and tools. See [previous meeting](../dk-meeting1).
+
+**Applications for participation:** The number of participants is limited. If you want to participate, check the [eligibility rules](https://europroofnet.github.io/eligibility/) and send a mail to [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/) with the following information and documents:
+
     - work plan
     - homepage
     - planned date and time of arrival
     - planned date and time of departure
     - cost of travel with quote (screen capture is fine)
-The cost of one night + breakfast + lunch + diner is about 94 euros.
+
+Applications will be examined upon reception.
+
+**Daily allowance:** The daily allowance is fixed at 100 euros. See the [reimbursement rules](https://europroofnet.github.io/reimbursement-rules/) for more details.
 
 **Organizer:** [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/)
 
