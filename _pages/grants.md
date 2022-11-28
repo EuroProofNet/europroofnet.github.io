@@ -32,7 +32,7 @@ Check the [eligibility rules](../eligibility) to know whether you can get an STS
 The beneficiary of an STSM will be reimbursed of her travel expenses
 plus a [daily allowance](../stsm-daily-allowance) depending on the
 host country for each day of her stay, if the conditions described
-[here](./reimbursement-rules) are satisfied.
+[here](../reimbursement-rules) are satisfied.
 
 **What documents to provide?**
 
@@ -73,9 +73,10 @@ insurance).
 The final price of your ticket should not be significantly bigger
 (>10%) than the one given in your proposal. In case of significant
 increase, you should ask confirmation to the
-[chair](https://blanqui.gitlabpages.inria.fr/). Finally, you should
-communicate the final cost of your flight or train ticket to the
-[chair](https://blanqui.gitlabpages.inria.fr/) as soon as possible.
+[chair](https://blanqui.gitlabpages.inria.fr/) beforehand. Finally,
+you should communicate the final cost of your flight or train ticket
+to the [chair](https://blanqui.gitlabpages.inria.fr/) as soon as
+possible.
 
 **Advance on mission costs**
 
@@ -86,11 +87,12 @@ This facility is not available at the moment.
 Keep your tickets and accommodation bills, as well as the receipts of
 every meal (lunch and diner).
 
-**Grant reception**
+**Reimbursement**
 
-To be reimbursed, a short scientific report must be submitted
-through the e-cost system along with the host’s approval of the
-report, **within 2 weeks after the end of the STSM.**
+To be reimbursed, a short scientific report signed by the host must be
+submitted through the e-cost system along with the travel tickets and
+meal receipts, **within 2 weeks after the end of the STSM.** See the
+[reimbursement rules](../reimbursement-rules) for more details.
 
 **Changing the dates of an STSM, or cancelling an STSM**
 
@@ -113,7 +115,7 @@ based upon work from COST Action EuroProofNet, supported by COST
 For any question, please contact the two coordinators for STSMs: [Danijela Simic](http://poincare.matf.bg.ac.rs/~danijela) (University of Belgrade, Serbia) **AND** [Ambrus Kaposi](http://akaposi.web.elte.hu) (Eötvös Loránd University, Hungary). Please, contact them both in case one is not available.
 
 If you have questions concerning reimbursements, please contact
-the [Grant Holder](mailto:saf-saclay-recettes@inria.fr)
+the [Grant holder](mailto:saf-saclay-recettes@inria.fr)
 
 **Past deadlines**
 
