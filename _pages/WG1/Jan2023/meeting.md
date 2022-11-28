@@ -7,29 +7,26 @@ breadcrumbs: true
 ---
 
 <!--img src="/_pages/WG1/Oct2022/20221016_162105_resized.jpg"/-->
-<img src="https://www.caes.cnrs.fr/wp-content/uploads/2017/06/villa-clythia2_hdr.jpg"/>
 
 **Date:** 26-30 January 2023
 
-**Venue:** [Villa Clythia](https://www.caes.cnrs.fr/sejours/la-villa-clythia/), 2754, avenue Henri-Giraud 83600 Fréjus, France
+**Place:** [Villa Clythia](https://www.caes.cnrs.fr/sejours/la-villa-clythia/), 2754, avenue Henri-Giraud 83600 Fréjus, France
 
-**How to get there?** Villa Clythia is at 3 km from the TGV train station of Saint Raphaël - Valescure, and 60 km from the Nice airport.
+**How to get there?** Villa Clythia is at 3 km from the TGV train station of Saint Raphaël - Valescure, and 60 km from the Nice airport. For instance, there are direct trains from Paris Gare de Lyon on January 26: 08:18-13:01, and direct trains to Paris Gare de Lyon on January 30: 15:57-20:42.
 
-Remark: there are direct trains from Paris Gare de Lyon on January 26: 08:18-13:01, and direct trains to Paris Gare de Lyon on January 30: 15:57-20:42.
-
-<!--A shuttle will be organized from/to the train station on October 15 at 15:30, and from the hotel to Remiremont train station on October 19 at 15:00. If you want to take the shuttle, send a mail to [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/)-->.
+<!--A shuttle will be organized from/to the train station on October 15 at 15:30, and from the hotel to Remiremont train station on October 19 at 15:00. If you want to take the shuttle, send a mail to [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/)-->
 
 **Programme:** Working alone or in small groups on the development of tools for generating, handling or transforming Dedukti files, taking advantage of the participation of experts on Dedukti or other languages and tools. See [previous meeting](../dk-meeting1).
 
-**Applications for participation:** The number of participants is limited. If you want to participate, check the [eligibility rules](https://europroofnet.github.io/eligibility/) and send a mail to [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/) with the following information and documents:
+**Application procedure:** The number of participants is limited. If you want to participate, check the [eligibility rules](https://europroofnet.github.io/eligibility/) and send a mail to [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/) with the following information and documents:
 
-  * work plan
-  * homepage
+  * work plan: what would you like to do to make progress on EuroProofNet [objectives](../objectives) and [deliverables](../deliverables)
+  * homepage URL
   * planned date and time of arrival
   * planned date and time of departure
-  * cost of travel with quote (screen capture is fine)
+  * cost of travel in euros with quote (screen capture is fine)
 
-Applications will be examined upon reception.
+Applications will be examined upon reception until the maximum number of participants is reached.
 
 **Daily allowance:** The daily allowance is fixed at 100 euros. See the [reimbursement rules](https://europroofnet.github.io/reimbursement-rules/) for more details.
 
