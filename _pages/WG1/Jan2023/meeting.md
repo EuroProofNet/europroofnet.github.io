@@ -10,9 +10,9 @@ breadcrumbs: true
 
 **Date:** 26-30 January 2023
 
-**Place:** [Villa Clythia](https://www.caes.cnrs.fr/sejours/la-villa-clythia/), 2754, avenue Henri-Giraud 83600 Fréjus, France
+**Place:** [Villa Clythia](https://www.caes.cnrs.fr/sejours/la-villa-clythia/), 2754 avenue Henri-Giraud 83600 Fréjus, France
 
-**How to get there?** Villa Clythia is at 3 km from the TGV train station of Saint Raphaël - Valescure, and 60 km from the Nice airport. For instance, there are direct trains from Paris Gare de Lyon on January 26: 08:18-13:01, and direct trains to Paris Gare de Lyon on January 30: 15:57-20:42.
+**How to get there?** Villa Clythia is at 3 km from the TGV train station of Saint Raphaël - Valescure, and 60 km from the Nice airport. For instance, there is a direct train from Paris Gare de Lyon on January 26 at 08:18 (arrival at 13:01), and a direct train to Paris Gare de Lyon on January 30 at 15:57 (arrival at 20:42).
 
 <!--A shuttle will be organized from/to the train station on October 15 at 15:30, and from the hotel to Remiremont train station on October 19 at 15:00. If you want to take the shuttle, send a mail to [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/)-->
 
@@ -23,10 +23,10 @@ breadcrumbs: true
   * URL of your homepage
   * planned date and time of arrival
   * planned date and time of departure
-  * cost of travel in euros with quote (screen capture is fine)
+  * cost of travel in euros with quote (screen capture)
   * work plan: describe what you would like to do to make progress on EuroProofNet [objectives](../objectives) and [deliverables](../deliverables)
 
-**Application deadline:** 25 December 2022.
+**Application deadline:** 15 December 2022.
 
 <!--**Daily allowance:** The daily allowance is fixed at 100 euros. See the [reimbursement rules](https://europroofnet.github.io/reimbursement-rules/) for more details.-->
 
