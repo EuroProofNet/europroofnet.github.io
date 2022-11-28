@@ -21,6 +21,7 @@ The main points about STSMs are:
 - An STSM must be between two different countries which are participating in the Action.
 - The typical duration is one or two weeks. We favor short missions so that more people can get funded.
 - A beneficiary of an STSM is reimbursed after his/her mission if to the conditions below are satisfied.
+- The total cannot exceed EUR 4000 (this is a hard limit).
 
 **Eligibility**
 
@@ -28,8 +29,7 @@ Check the [eligibility rules](../eligibility) to know whether you can get an STS
 
 **Reimbursement rules**
 
-The beneficiary of an STSM is reimbursed of her travel expenses plus a daily allowance for each day of her stay 
-
+The beneficiary of an STSM is reimbursed of her travel expenses plus a [daily allowance](../stsm-daily-allowance) depending on the host country for each day of her stay after her STSM if some [conditions](./reimbursement-rules) are satisfied.
 
 **What documents to provide?**
 
