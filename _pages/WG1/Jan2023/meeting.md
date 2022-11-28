@@ -16,7 +16,7 @@ breadcrumbs: true
 
 <!--A shuttle will be organized from/to the train station on October 15 at 15:30, and from the hotel to Remiremont train station on October 19 at 15:00. If you want to take the shuttle, send a mail to [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/)-->
 
-**Programme:** Working alone or in small groups on the development of tools for generating, handling or transforming Dedukti files, taking advantage of the participation of experts on Dedukti or other languages and tools. See [previous meeting](../dk-meeting1).
+**Programme:** Working alone or in small groups on the development of tools for generating, handling or transforming Dedukti files, taking advantage of the participation of experts on Dedukti or other languages and tools, to make progress on EuroProofNet [objectives](../objectives) and [deliverables](../deliverables). See [previous meeting](../dk-meeting1).
 
 **Application procedure:** The number of participants is limited. If you want to participate, check the [eligibility rules](https://europroofnet.github.io/eligibility/) and send a mail to [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/) with the following information and documents:
 
@@ -26,24 +26,27 @@ breadcrumbs: true
   * cost of travel in euros with quote (screen capture is fine)
   * work plan: describe what you would like to do to make progress on EuroProofNet [objectives](../objectives) and [deliverables](../deliverables)
 
-Applications will be examined upon reception until the maximum number of participants is reached.
+**Application deadline:** 25 December 2022.
 
-**Daily allowance:** The daily allowance is fixed at 100 euros. See the [reimbursement rules](https://europroofnet.github.io/reimbursement-rules/) for more details.
+<!--**Daily allowance:** The daily allowance is fixed at 100 euros. See the [reimbursement rules](https://europroofnet.github.io/reimbursement-rules/) for more details.-->
 
 **Organizer:** [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/)
 
 <!--
 **Participants:**
 [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/)
+Claude Stolze,
+[Thiago Felicissimo](http://www.lsv.fr/~felicissimo/),
+Yoan Géran,
+Emilie Grienenberger,
+Claudio Sacerdoti Coen,
+François Thiré,
+[Amélie Ledein](http://www.lsv.fr/~ledein/),
+
 Michael Färber,
 [Jesper Cockx](https://jesper.sikanda.be/),
-[Thiago Felicissimo](http://www.lsv.fr/~felicissimo/),
 [Predrag Janičić](http://poincare.matf.bg.ac.rs/~janicic/),
-[Julien Narboux](https://dpt-info.di.unistra.fr/~narboux/),
 Théo Winterhalter,
-Claude Stolze,
-[Amélie Ledein](http://www.lsv.fr/~ledein/),
-François Thiré,
 [Bruno Barras](http://www.lix.polytechnique.fr/~barras/),
 [Gilles Dowek](http://www.lsv.fr/~dowek/)
 -->
