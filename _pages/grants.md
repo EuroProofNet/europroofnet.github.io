@@ -11,24 +11,25 @@ The next deadline for STSM proposals will be in November or December 2022.
 
 **What is an STSM?**
 
-A Short-Term Scientific Mission (STSM) is a research visit of an individual researcher from a country participating in the Action in a different country also participating in the Action. We encourage STSMs, as they are an effective way of starting and maintaining collaborations.
+A Short-Term Scientific Mission (STSM) is a research visit of an individual researcher from a country participating in the Action in a different country also participating in the Action. We encourage STSMs as they are an effective way of starting and maintaining collaborations.
 
 The procedure for proposing an STSM is described in [Annex 2 of the Annotated Rules](https://www.cost.eu/uploads/2022/10/COST-094-21-Annotated-Rules-for-COST-Actions-Level-C-V1.3-.pdf#page=96).
 
 The main points about STSMs are:
 
+- Proposals should be submitted by the deadlines.
 - An STSM must be between two different countries which are participating in the Action.
 - The typical duration is one or two weeks. We favor short missions so that more people can get funded.
-- The financial contribution for an STSM is a fixed grant based on the applicant's budget request and the evaluation of the application by the STSM assessment committee. The grant may not necessarily cover all costs of the visit. The grant only covers travel and subsistence and is transferred after the STSM has taken place.
-- Recommended grants:
-    - up to EUR 120 for daily allowance (depending on the location)
-    - up to EUR 400 for travel.
-    - the total may not exceed EUR 4000 (this is a hard limit)
-- Proposals should be submitted by the deadlines.
+- A beneficiary of an STSM is reimbursed after his/her mission if to the conditions below are satisfied.
 
 **Eligibility**
 
 Check the [eligibility rules](../eligibility) to know whether you can get an STSM.
+
+**Reimbursement rules**
+
+The beneficiary of an STSM is reimbursed of her travel expenses plus a daily allowance for each day of her stay 
+
 
 **What documents to provide?**
 
@@ -38,19 +39,14 @@ Proposals must be made through the [e-COST system](https://e-services.cost.eu/ac
   - Details of the STSM (title and dates)
   - Goals of the STSM (max 200 words)
   - Working plan (max 500 words)
-  - Expected outputs and contribution to the Action MoU [objectives and deliverables](../description) (max 500 words) [clearly indicate the main WG it contributes to]
+  - Expected outputs and contribution to the Action MoU [objectives and deliverables](../description) (max 500 words). Clearly indicate the main WG it contributes to.
 - A letter from the host confirming that he or she will receive the applicant.
-- A quote for the travel.
-- A quote for the accommodation.
-- A short document justifying the requested total amount.
+- A quote for the travel (screen capture).
 
 Be careful to check flight/train tickets and accommodations that you
 can modify or cancel for free or at little cost (possibly by taking
-some insurance) because EuroProofNet provides you with the requested
-grant and nothing more. After acceptance, you are responsible to buy
-your flight/train tickets and accommodations by youself. Every expense
-above the requested ammount will be at your charge as EuroProofNet
-provides you with the requested amount only.
+some insurance). After acceptance, you are responsible to buy
+your flight/train tickets and accommodations by youself.
 
 **Selection criteria**
 
@@ -110,7 +106,7 @@ based upon work from COST Action EuroProofNet, supported by COST
 For any question, please contact the coordinators for STSMs [Danijela Simic](http://poincare.matf.bg.ac.rs/~danijela) (University of Belgrade, Serbia) **AND** [Ambrus Kaposi](http://akaposi.web.elte.hu) (Eötvös Loránd University, Hungary). Please, contact them both in case one is not available.
 
 If you have questions concerning reimbursements, please contact
-[Marie-Carol Lopes](mailto:marie-carol.lopes@inria.fr).
+the [Grant Holder](mailto:saf-saclay-recettes@inria.fr)
 
 **Past deadlines**
 

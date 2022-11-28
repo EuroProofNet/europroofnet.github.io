@@ -5,21 +5,33 @@ permalink: /reimbursement-rules/
 author_profile: true
 ---
 
-Reimbursement for participating to a meeting or school is done after
-the event with the following conditions:
+Participants invited at a meeting or school, and people having an approved STSM, are reimbursed of their travel, accommodation and meal expenses according to the following rules.
 
-- You must be [eligible](../eligibility).
+- Participants must be [eligible](../eligibility).
 
-- You must have received an invitation from the e-cost system, and you must have accepted it within 2 weeks after reception.
+- Participants must have received an invitation from the e-cost system, and must have accepted it within 2 weeks after reception.
 
-- You have to book your flight/train/bus and accommodation by yourself as much in advance as possible to get better prices, together with insurance in case of cancelation. You must choose the most economical means of transportation. First-class tickets are not allowed. Taxis are not reimbursed. In any case, the reimbursement for travel cost is limited to 1500 euros.
+- Master students need to provide an attestation of their university.
+
+- Participants must book their flight/train/bus and accommodation by themself as much in advance as possible to get good prices, together with insurance in case of cancelation. They must choose the most economical means of transportation. First-class tickets are not allowed. Taxis are not reimbursed. In any case, the reimbursement for travel cost is limited to 1500 euros.
+
+- Participants must upload on the COST website their tickets and bills of their travel and accommodation (at their name and address), and the receipts of their meals (lunch and dinner).
+
+- Participants can use their own car if it is less expensive than using flight/train/bus, especially for a group. The reimbursement is around 0.35 euros/km for the driver (ask the precise amount to the Grant Holder). On the other hand, parking, fuel, toll and car rental are not reimbursed.
+
+**For meetings and schools:**
+
+- Participants must sign the attendance sheet during the meeting (only the days spent at the meeting are reimbursed).
 
 - For accommodation, meals and travels <=100km, the reimbursement is a daily flat rate fixed by the core group (usually around 120 euros/day depending on the country). Ask the precise amount to the organizers of the event.
 
-- You must sign the attendance sheet during the meeting (only the days spent at the meeting are reimbursed).
+**For STSMs:**
 
-- You must provide the tickets and bills of your travels >100km and of your accommodation (at your name and address), and the receipts of your meals (lunch and dinner).
+- STSM grantees must upload on the COST website their report, signed by their host, within 2 weeks after the end of their STSM, and the report must be approved by the Grant awarding coordinators.
 
-- It is possible to use one's own car if it is less expensive than using flight/train/bus, especially for a group. The reimbursement is around 0.35 euros/km for the driver (ask the precise amount to the organizer). On the other hand, parking, fuel, toll and car rental are not reimbursed.
+- For accommodation, meals and local transport, the reimbursement is a [daily flat rate](../stsm-daily-allowance) fixed by the Grant Holder depending on the host country.
 
-Find all the details concerning reimbursements on p. 86 of the [COST Annotated Rules](https://www.cost.eu/uploads/2022/10/COST-094-21-Annotated-Rules-for-COST-Actions-Level-C-V1.3-.pdf#page=86).
+Find more details concerning reimbursements in the [COST Annotated Rules](https://www.cost.eu/uploads/2022/10/COST-094-21-Annotated-Rules-for-COST-Actions-Level-C-V1.3-.pdf#page=86).
+
+If you have questions concerning, please contact
+the [Grant Holder](mailto:saf-saclay-recettes@inria.fr).
