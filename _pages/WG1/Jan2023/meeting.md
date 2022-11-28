@@ -20,11 +20,11 @@ breadcrumbs: true
 
 **Application procedure:** The number of participants is limited. If you want to participate, check the [eligibility rules](https://europroofnet.github.io/eligibility/) and send a mail to [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/) with the following information and documents:
 
-  * work plan: what would you like to do to make progress on EuroProofNet [objectives](../objectives) and [deliverables](../deliverables)
-  * homepage URL
+  * URL of your homepage
   * planned date and time of arrival
   * planned date and time of departure
   * cost of travel in euros with quote (screen capture is fine)
+  * work plan: describe what you would like to do to make progress on EuroProofNet [objectives](../objectives) and [deliverables](../deliverables)
 
 Applications will be examined upon reception until the maximum number of participants is reached.
 
