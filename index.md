@@ -24,7 +24,11 @@ To join the action, simply
 [apply](https://e-services.cost.eu/action/CA20111/working-groups/apply)
 to the [working groups](../wg) you are interested in (it is free and open to anyone).
 
-<!--**Coming events:**-->
+**Coming events:**
+
+- 27-29 January 2023: [2nd Dedukti tools developers meeting](../dk-meeting2), Fréjus, France
+
+- 8-9 February 2023: WG3 meeting on program verification, Timisoara, Romania
 
 [Past events](../events)
 
