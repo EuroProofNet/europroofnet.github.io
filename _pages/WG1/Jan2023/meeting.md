@@ -23,11 +23,11 @@ Remark: there are direct trains from Paris Gare de Lyon on January 26: 08:18-13:
 
 **Applications for participation:** The number of participants is limited. If you want to participate, check the [eligibility rules](https://europroofnet.github.io/eligibility/) and send a mail to [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/) with the following information and documents:
 
-    - work plan
-    - homepage
-    - planned date and time of arrival
-    - planned date and time of departure
-    - cost of travel with quote (screen capture is fine)
+  * work plan
+  * homepage
+  * planned date and time of arrival
+  * planned date and time of departure
+  * cost of travel with quote (screen capture is fine)
 
 Applications will be examined upon reception.
 
