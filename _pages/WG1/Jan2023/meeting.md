@@ -7,6 +7,7 @@ breadcrumbs: true
 ---
 
 <!--img src="/_pages/WG1/Oct2022/20221016_162105_resized.jpg"/-->
+<img src="https://www.caes.cnrs.fr/wp-content/uploads/2017/06/villa-clythia2_hdr.jpg"/>
 
 **Date:** 26-30 January 2023
 
