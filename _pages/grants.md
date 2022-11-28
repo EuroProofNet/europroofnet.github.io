@@ -60,15 +60,19 @@ The criteria according to which funding will be decided are in order:
 
 **Preparing your mission**
 
-If your STSM proposal is accepted, you receive a mail saying that you
-will be granted the requested amount after your mission once you will
-have uploaded your report on the e-cost web site. Meanwhile, you are
-responsible to buy the necessary flight/train tickets and
-accommodation by yourself, at your own name and address. Be careful to
-take flight/train tickets and accommodations that you can modify or
-cancel for free or at little cost (possibly by taking some insurance)
-because EuroProofNet provides you with the requested grant and nothing
-more.
+If your STSM proposal is accepted, you are responsible to buy the
+necessary flight/train tickets and accommodation by yourself, at your
+own name and address, as soon as possible to get the best price. Be
+careful to take flight/train tickets and accommodations that you can
+modify or cancel for free or at little cost (possibly by taking some
+insurance).
+
+The final price of your ticket should not be significantly bigger
+(>10%) than the one given in your proposal. In case of significant
+increase, you should ask confirmation to the
+[chair](https://blanqui.gitlabpages.inria.fr/). Finally, you should
+communicate the final cost of your flight or train ticket to the
+[chair](https://blanqui.gitlabpages.inria.fr/) as soon as possible.
 
 **Advance on mission costs**
 
@@ -76,20 +80,20 @@ This facility is not available at the moment.
 
 **During your mission**
 
-Please keep your travel and accommodation bills. We may request them
-after your mission.
+Keep your tickets and accommodation bills, as well as the receipts of
+every meal (lunch and diner).
 
 **Grant reception**
 
-To receive the grant, a short scientific report must be submitted
+To be reimbursed, a short scientific report must be submitted
 through the e-cost system along with the host’s approval of the
-report, **within 15 days after the end of the STSM.**
+report, **within 2 weeks after the end of the STSM.**
 
-**Changing the dates of an STSM, or cancelling an STSM?**
+**Changing the dates of an STSM, or cancelling an STSM**
 
-In case you need to change the dates of an accepted STSM, you need to
+In case you need to change the dates of an accepted STSM, you have to
 inform the STSM coordinators as soon as possible and provide new dates
-so that the STSM ends before the end of October.
+so that the STSM ends before October 15.
 
 In case you need to cancel an accepted STSM, you need to inform the
 STSM coordinators as soon as possible.
@@ -103,7 +107,7 @@ based upon work from COST Action EuroProofNet, supported by COST
 
 **More questions?**
 
-For any question, please contact the coordinators for STSMs [Danijela Simic](http://poincare.matf.bg.ac.rs/~danijela) (University of Belgrade, Serbia) **AND** [Ambrus Kaposi](http://akaposi.web.elte.hu) (Eötvös Loránd University, Hungary). Please, contact them both in case one is not available.
+For any question, please contact the two coordinators for STSMs: [Danijela Simic](http://poincare.matf.bg.ac.rs/~danijela) (University of Belgrade, Serbia) **AND** [Ambrus Kaposi](http://akaposi.web.elte.hu) (Eötvös Loránd University, Hungary). Please, contact them both in case one is not available.
 
 If you have questions concerning reimbursements, please contact
 the [Grant Holder](mailto:saf-saclay-recettes@inria.fr)
