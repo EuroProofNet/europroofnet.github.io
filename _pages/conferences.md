@@ -7,9 +7,19 @@ author_profile: true
 
 To contribute to the web site, please open an [issue](https://github.com/EuroProofNet/europroofnet.github.io/issues), create a [pull request](https://github.com/EuroProofNet/europroofnet.github.io) or send a mail to the [science communication coordinators](../contact).
 
-- 22-27 April 2023: European Joint Conferences on Theory and Practice of Software (ETAPS'22), Paris, France
+- 4-8 September 2023: [16th Conference on Intelligent Computer Mathematics](https://cicm-conference.org/2023/cicm.php) (CICM'23), Cambridge, UK
+
+- 31 July - 4 August 2023: [14th Conference on Interactive Theorem Proving](https://mizar.uwb.edu.pl/ITP2023/) (ITP'23), Białystok, Poland
+
+- 3-6 July 2023: [8th International Conference on Formal Structures for Computation and Deduction](https://easyconferences.eu/fscd2023/) (FSCD'23), Rome, Italy
+
+- 26-29 June 2023: [38th Annual ACM/IEEE Symposium on Logic in Computer Science](https://lics.siglog.org/lics23/), Boston, USA
+
+- 22-27 April 2023: [European Joint Conferences on Theory and Practice of Software](https://etaps.org/) (ETAPS'23), Paris, France
 
 - 6-10 March 2023: [25th International Symposium on Formal Methods](https://fm2023.isp.uni-luebeck.de/) (FM'23), Lübeck, Germany
+
+- 13-17 February 2023: [Computer Science Logic 2023](https://csl2023.mimuw.edu.pl/) (CSL’23), Warsaw, Poland
 
 - 11-12 November 2022: [Autumn Workshop Proof Theory](https://uswpt.sites.uu.nl/), Utrecht, Netherlands
 
