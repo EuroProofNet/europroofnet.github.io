@@ -13,7 +13,7 @@ title: "Contact"
 To report a problem or contribute to the web site, please open an [issue](https://github.com/EuroProofNet/europroofnet.github.io/issues), create a [pull request](https://github.com/EuroProofNet/europroofnet.github.io) or send a mail to the science communication coordinators.
 
 If you have questions concerning reimbursements, please contact
-the [Grant Holder](mailto:saf-saclay-recettes@inria.fr)
+the [Grant Holder](mailto:saf-saclay-recettes@inria.fr).
 
 **Documents**
 

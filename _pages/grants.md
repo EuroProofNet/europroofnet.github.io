@@ -21,13 +21,13 @@ The main points about STSMs are:
 - An STSM must be between two different countries which are participating in the Action.
 - The typical duration is one or two weeks. We favor short missions so that more people can get funded.
 - A beneficiary of an STSM is reimbursed after his/her mission if to the conditions below are satisfied.
-- The total cannot exceed EUR 4000 (this is a hard limit).
+- The total cost of the mission cannot exceed EUR 4000 (this is a hard limit).
 
 **Eligibility**
 
 Check the [eligibility rules](../eligibility) to know whether you can get an STSM.
 
-**Reimbursement rules**
+**[Reimbursement rules](../reimbursement-rules)**
 
 The beneficiary of an STSM will be reimbursed of her travel expenses
 plus a [daily allowance](../stsm-daily-allowance) depending on the
@@ -94,7 +94,7 @@ submitted through the e-cost system along with the travel tickets and
 meal receipts, **within 2 weeks after the end of the STSM.** See the
 [reimbursement rules](../reimbursement-rules) for more details.
 
-**Changing the dates of an STSM, or cancelling an STSM**
+**Changing the dates of an STSM, cancelling an STSM**
 
 In case you need to change the dates of an accepted STSM, you have to
 inform the STSM coordinators as soon as possible and provide new dates
@@ -115,7 +115,7 @@ based upon work from COST Action EuroProofNet, supported by COST
 For any question, please contact the two coordinators for STSMs: [Danijela Simic](http://poincare.matf.bg.ac.rs/~danijela) (University of Belgrade, Serbia) **AND** [Ambrus Kaposi](http://akaposi.web.elte.hu) (Eötvös Loránd University, Hungary). Please, contact them both in case one is not available.
 
 If you have questions concerning reimbursements, please contact
-the [Grant Holder](mailto:saf-saclay-recettes@inria.fr)
+the [Grant Holder](mailto:saf-saclay-recettes@inria.fr).
 
 **Past deadlines**
 
