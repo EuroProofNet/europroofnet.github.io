@@ -13,19 +13,19 @@ author_profile: true
   Grant: 1500 EUR  
   Dates: 2022-07-14 to 2022-07-22
 
-* **Leveraging a λProlog engine for type class resolution in Coq and Lambdapi** [application](/_pages/stsm/manighetti-app.docx) [report](/_pages/stsm/manighetti-rep.docx)   
+* **Leveraging a λProlog engine for type class resolution in Coq and Lambdapi** [application](/_pages/stsm/manighetti-app.pdf) [report](/_pages/stsm/manighetti-rep.pdf)   
   Visitor: Matteo Manighetti (INRIA Saclay, Palaiseau, FR)  
   Host: Enrico Tassi (Inria Université Côte d'Azur, Valbonne , FR)  
   Grant: 1700 EUR  
   Dates: 2022-10-15 to 2022-10-29
 
-* **Evaluation efficiency in cubical type theories** [application](/_pages/stsm/kovacs-app.pdf) [report](/_pages/stsm/kovacs-rep.docx)   
+* **Evaluation efficiency in cubical type theories** [application](/_pages/stsm/kovacs-app.pdf) [report](/_pages/stsm/kovacs-rep.pdf)   
   Visitor: András Kovács (Eötvös Loránd University, Budapest, HU)  
   Host: Anders Mörtberg (Stockholm University, SE)  
   Grant: 1040 EUR  
   Dates: 2022-10-09 to 2022-10-16
 
-* **Hierarchical Higher-Order Port Graphs for the representation and analysis of proofs** [application](/_pages/stsm/fernandez-app.docx) [report](/_pages/stsm/fernandez-rep.docx)   
+* **Hierarchical Higher-Order Port Graphs for the representation and analysis of proofs** [application](/_pages/stsm/fernandez-app.pdf) [report](/_pages/stsm/fernandez-rep.pdf)   
   Visitor: Maribel Fernandez (King's College London, GB)  
   Host: Sandra Alves (University of Porto, PT)  
   Grant: 902 EUR  
@@ -45,7 +45,7 @@ author_profile: true
   Grant: 1800 EUR  
   Dates: 2022-09-19 to 2022-09-30
 
-* **Formalisation of Meaning Explanations in Agda** [application](/_pages/stsm/setzer-app.docx) [report](/_pages/stsm/setzer-rep.docx)   
+* **Formalisation of Meaning Explanations in Agda** [application](/_pages/stsm/setzer-app.pdf) [report](/_pages/stsm/setzer-rep.pdf)   
   Visitor: Anton Setzer (Swansea University, GB)  
   Host: Peter Dybjer (Chalmers University of Technology, Gothenburg, SE)  
   Grant: 1520 EUR  
@@ -69,7 +69,7 @@ author_profile: true
   Grant: 960 EUR  
   Dates: 2022-07-03 to 2022-07-08
 
-* **Mechanized Type Inference in the Linear π-Calculus** [application](/_pages/stsm/ciccone-app.docx) [report](/_pages/stsm/ciccone-rep.pdf)   
+* **Mechanized Type Inference in the Linear π-Calculus** [application](/_pages/stsm/ciccone-app.pdf) [report](/_pages/stsm/ciccone-rep.pdf)   
   Visitor: Luca Ciccone (Università di Torino, IT)  
   Host: Ornela Dardha (University of Glasgow, GB)  
   Grant: 1200 EUR  
@@ -77,7 +77,7 @@ author_profile: true
 
 ## 1st call (18 January 2022)
 
-* **Infrastructure for Automated Theorem Provers Inventory** [application](/_pages/stsm/steen-app.docx) [report](/_pages/stsm/steen-rep.pdf)   
+* **Infrastructure for Automated Theorem Provers Inventory** [application](/_pages/stsm/steen-app.pdf) [report](/_pages/stsm/steen-rep.pdf)   
   Visitor: Alexander Steen (University of Greifswald, DE)  
   Host: Pascal Fontaine (University of Liège, BE)  
   Grant: 1550 EUR  
@@ -101,7 +101,7 @@ author_profile: true
   Grant: 1500 EUR  
   Dates: 2022-05-08 to 2022-05-21
 
-* **A bootstrapping verified compiler for a concurrent functional language: the design** [application](/_pages/stsm/buday-app.docx) [report](/_pages/stsm/buday-rep.pdf)   
+* **A bootstrapping verified compiler for a concurrent functional language: the design** [application](/_pages/stsm/buday-app.pdf) [report](/_pages/stsm/buday-rep.pdf)   
   Visitor: Gergely Buday (Institute of Technology, Gyöngyös, HU)  
   Host: Alcides Fonseca (LASIGE, Faculdade de Ciências da Universidade de Lisboa, PT)  
   Grant: 1000 EUR  
