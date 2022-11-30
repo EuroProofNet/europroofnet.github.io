@@ -1,7 +1,7 @@
 ---
 title: "Administration page for the dk dev meeting 2 on January 2023"
 layout: single
-permalink: /dkdev2-admin/
+permalink: /dk-meeting2-admin/
 author_profile: true
 breadcrumbs: true
 ---
