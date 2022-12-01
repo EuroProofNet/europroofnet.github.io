@@ -5,7 +5,7 @@ permalink: /reimbursement-rules/
 author_profile: true
 ---
 
-Participants invited at a meeting or school, and people having an approved STSM, are reimbursed of their travel, accommodation and meal expenses according to the following rules.
+Participants invited at a meeting or school, and people having an approved STSM, are reimbursed only of their travel, accommodation and meal expenses according to the following rules.
 
 - Participants must be [eligible](../eligibility).
 
@@ -17,7 +17,7 @@ Participants invited at a meeting or school, and people having an approved STSM,
 
 - Participants can use their own car if it is less expensive than using flight/train/bus, especially for a group. The reimbursement is around 0.35 euros/km for the driver (ask the precise amount to the Grant Holder). On the other hand, parking, fuel, toll and car rental are not reimbursed.
 
-- Participants must upload on the COST website their **tickets and bills** of their travel and accommodation (at their name and address), and the **receipts of their meals** (lunch and dinner).
+- Participants must upload on the COST website their **tickets and bills** of their travel and accommodation (at their name and address), and the **receipts of their meals** (lunch and dinner). In the event there are no receipts, the reimbursement will not be possible.
 
 **Additional rules for meetings and schools:**
 

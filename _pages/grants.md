@@ -29,10 +29,13 @@ Check the [eligibility rules](../eligibility) to know whether you can get an STS
 
 **[Reimbursement rules](../reimbursement-rules)**
 
-The beneficiary of an STSM will be reimbursed of her travel expenses
-plus a [daily allowance](../stsm-daily-allowance) depending on the
-host country for each day of her stay, if the conditions described
-[here](../reimbursement-rules) are satisfied.
+The beneficiary of an STSM will be reimbursed only of his/her travel
+expenses plus a [daily allowance](../stsm-daily-allowance) depending
+on the host country for each day of his/her stay, if the conditions
+described [here](../reimbursement-rules) are satisfied. Therefore, the
+amount awarded to a beneficiary of an STSM is only indicative and the
+final amount will be based on reimbursement rules and receipts
+available.
 
 **What documents to provide?**
 
