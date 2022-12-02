@@ -30,17 +30,17 @@ breadcrumbs: true
 
 - [ ] The chair and the organizer fix the deadline for reimbursement applications at least 1 month before the meeting, and the date of a core group meeting within 1 week after the deadline, to decide which participants will be reimbursed.
 
-- [ ] The Grant Holder contacts the organizer to collect the additional data it needs.
-
-- [ ] The organizer provides the Grant Holder with the additional data it needs.
-
 - [ ] The chair and the organizer fix the deadline for reimbursement applications at least 1 month before the meeting, and the date of a core group meeting within 1 week after the deadline, to decide which participants will be reimbursed.
 
 - [ ] The organizer adds a web page for the meeting on https://europroofnet.github.io/, possibly with the help of the science communication coordinators, with the following information: date, times, place, program, possible hotels, indication on how to get there, participation application procedure, reimbursement application procedure, deadlines.
 
-- [ ] The chair sends the call for participation and reimbursement applications to all action members.
+- [ ] The chair sends the call for participation and reimbursement applications to all action members, at least 1 month before the deadline.
 
 - [ ] The organizer collects data and files from participants willing to be reimbursed (name, email, country, address, gender, age, dates of arrival and departure, quote for transport, university certificates for master students). To this end, we strongly suggest the organizer to use forms like https://docs.google.com/forms/d/1WgAdt6_BkJiT9u6lSqIQ5p_7955CHFEjbxG2Ucj5gRgor https://docs.google.com/forms/d/12YxrDK-dupOFj5R5CdINvlc6xzW6C5DpEr58JoVmBIg.
+
+- [ ] The Grant Holder contacts the organizer to collect the additional data it needs.
+
+- [ ] The organizer provides the Grant Holder with the additional data it needs.
 
 ### at least 1 month before the meeting:
 
