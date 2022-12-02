@@ -7,6 +7,12 @@ author_profile: true
 
 To contribute to the web site, please open an [issue](https://github.com/EuroProofNet/europroofnet.github.io/issues), create a [pull request](https://github.com/EuroProofNet/europroofnet.github.io) or send a mail to the [science communication coordinators](../contact).
 
+**2023**
+
+- [A modular construction of type theories](https://arxiv.org/pdf/2111.00543?), Frédéric Blanqui, Gilles Dowek, Emilie Grienenberger, Gabriel Hondet and François Thiré, to appear in Logical Methods in Computer Science (LMCS)
+
+- [Translating proofs from an impredicative type system to a predicative one](https://blanqui.gitlabpages.inria.fr/papers/csl23.pdf), T. Felicissimo, F. Blanqui and A. Kumar Barnawal, [https://csl2023.mimuw.edu.pl/](CSL'23)
+
 **2022**
 
 - [Theorem Proving for Maude Specifications Using Lean](https://doi.org/10.1007/978-3-031-17244-1_16), Rubén Rubio and Adrián Riesco, [ICFEM'22](https://maude.ucm.es/ICFEM22)
