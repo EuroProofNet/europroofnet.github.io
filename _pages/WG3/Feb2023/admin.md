@@ -10,11 +10,14 @@ breadcrumbs: true
 
 - [X] The chair asks the organizer the exact address, the starting and ending dates and times of the meeting, and the daily allowance. The daily allowance should cover the cost of an hotel night + the meals + local transport if hotels are far from the meeting place. It has to be fixed at the right level so that people get reimbursed of what they need to spend but not too much so that we can invite more people. Note that the daily allowance cannot be changed once invitations have been sent.
 
-- [ ] The organizer gives to the chair the exact address, and the starting and ending dates and times, and the daily allowance.
+- [X] The organizer gives to the chair the exact address, and the starting and ending dates and times.
 
     * [X] complete address: West University of Timisoara, Romania, blvd. V. Parvan, nr. 4, room 045C
     * [X] starting date and time: 8 February 2023, 08:00
     * [X] ending date and time: 9 February 2023, 17:00
+
+- | ] The organizer checks the prices of accommodations and restaurants around the place of the meeting at the dates of the meeting, and sends to the chair a proposal for the daily allowance.
+
     * [ ] daily allowance:
 
 - [ ] The chair sets up the event on https://e-services.cost.eu/, but not the LOS yet (this will be done later).

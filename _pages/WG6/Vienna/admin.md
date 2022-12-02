@@ -10,13 +10,16 @@ breadcrumbs: true
 
 - [ ] The chair asks the organizer the exact address, the starting and ending dates and times of the meeting, and the daily allowance. The daily allowance should cover the cost of an hotel night + the meals + local transport if hotels are far from the meeting place. It has to be fixed at the right level so that people get reimbursed of what they need to spend but not too much so that we can invite more people. Note that the daily allowance cannot be changed once invitations have been sent.
 
-- [ ] The organizer gives to the chair the exact address, and the starting and ending dates and times, and the daily allowance.
+- [ ] The organizer gives to the chair the exact address, and the starting and ending dates and times:
 
     * [ ] complete address:
-    * [ ] starting date and time:
-    * [ ] ending date and time:
+    * [X] starting date and time: 24 April 2023, 09:00
+    * [X] ending date and time: 25 April 2023, 17:00
+
+- | ] The organizer checks the prices of accommodations and restaurants around the place of the meeting at the dates of the meeting, and sends to the chair a proposal for the daily allowance.
+
     * [ ] daily allowance:
-    
+
 - [ ] The chair sets up the event on https://e-services.cost.eu/, but not the LOS yet (this will be done later).
 
 - [ ] The chair asks the organizer details about the LOS, with copy to the Grant holder. By the way, the chair asks the organizer to carefully read the rules concerning LOS in the COST annotated rules (https://www.cost.eu/uploads/2022/10/COST-094-21-Annotated-Rules-for-COST-Actions-Level-C-V1.3-.pdf#page=92). Note in particular that VAT is not reimbursed.
