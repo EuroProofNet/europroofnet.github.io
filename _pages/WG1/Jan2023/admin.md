@@ -8,14 +8,14 @@ breadcrumbs: true
 
 ### at least 2 months before the meeting:
 
-- [X] The chair asks the organizer the exact address, and the starting and ending times of the meeting.
+- [X] The chair asks the organizer the exact address, and the starting and ending dates and times of the meeting. The daily allowance should cover the cost of an hotel night + the meals + local transport if hotels are far from the meeting place. It has to be fixed at the right level so that people get reimbursed of what they need to spend but not too much so that we can invite more people. Note that the daily allowance cannot be changed once invitations have been sent.
 
-- [X] The organizer gives to the chair the exact address, and the starting and ending times of the meeting.
+- [X] The organizer gives to the chair the exact address, and the starting and ending dates and times of the meeting.
 
     * [X] complete address: [Villa Clythia](https://www.caes.cnrs.fr/sejours/la-villa-clythia/), 2754 avenue Henri-Giraud 83600 Fréjus, France
     * [X] starting date and time: 27 January 2022, 08:30
     * [X] ending date and time: 29 January 2022, 18:15
-    * [ ] daily allowance:
+    * [X] daily allowance: 110 euros
 
 - [ ] The chair sets up the event on https://e-services.cost.eu/, but not the LOS yet (this will be done later).
 
