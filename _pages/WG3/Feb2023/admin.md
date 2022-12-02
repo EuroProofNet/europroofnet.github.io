@@ -16,9 +16,9 @@ breadcrumbs: true
     * [X] starting date and time: 8 February 2023, 08:00
     * [X] ending date and time: 9 February 2023, 17:00
 
-- | ] The organizer checks the prices of accommodations and restaurants around the place of the meeting at the dates of the meeting, and sends to the chair a proposal for the daily allowance.
+- [X] The organizer checks the prices of accommodations and restaurants around the place of the meeting at the dates of the meeting, and sends to the chair a proposal for the daily allowance.
 
-    * [ ] daily allowance:
+    * [X] daily allowance: 100 (hotel 50-60, meal 15-20)
 
 - [ ] The chair sets up the event on https://e-services.cost.eu/, but not the LOS yet (this will be done later).
 

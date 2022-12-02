@@ -16,7 +16,7 @@ breadcrumbs: true
     * [ ] starting date and time:
     * [ ] ending date and time:
 
-- | ] The organizer checks the prices of accommodations and restaurants around the place of the meeting at the dates of the meeting, and sends to the chair a proposal for the daily allowance.
+- [ ] The organizer checks the prices of accommodations and restaurants around the place of the meeting at the dates of the meeting, and sends to the chair a proposal for the daily allowance.
 
     * [ ] daily allowance:
     

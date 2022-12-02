@@ -16,7 +16,7 @@ breadcrumbs: true
     * [X] starting date and time: 24 April 2023, 09:00
     * [X] ending date and time: 25 April 2023, 17:00
 
-- | ] The organizer checks the prices of accommodations and restaurants around the place of the meeting at the dates of the meeting, and sends to the chair a proposal for the daily allowance.
+- [ ] The organizer checks the prices of accommodations and restaurants around the place of the meeting at the dates of the meeting, and sends to the chair a proposal for the daily allowance.
 
     * [ ] daily allowance:
 
