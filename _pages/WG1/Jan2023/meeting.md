@@ -8,7 +8,9 @@ breadcrumbs: true
 
 <!--img src="/_pages/WG1/Oct2022/20221016_162105_resized.jpg"/-->
 
-**Date:** 26-30 January 2023
+**Date:** 27-29 January 2023
+
+Remark: the official dates of the meeting taken into account for reimbursements are from January 27 to January 29. However, since many people will arrive on January 26 and leave on January 30, the program includes two optional work sessions on January 26 afternoon and January 30 morning for the people who will be there.
 
 **Place:** [Villa Clythia](https://www.caes.cnrs.fr/sejours/la-villa-clythia/), 2754 avenue Henri-Giraud 83600 Fréjus, France
 
@@ -57,7 +59,7 @@ Théo Winterhalter,
 [universo](https://github.com/Deducteam/universo)
 -->
 
-**Thursday 26 January:**
+**Thursday 26 January (optional, for people who arrives the day before the meeting):**
 
 |14:00-16:00|work session 3|
 |16:00-16:15|coffee break|
@@ -108,7 +110,7 @@ Théo Winterhalter,
 |19:30-21:00|dinner|
 |21:00-23:00|work session 5 (optional)|
 
-**Monday 30 January:**
+**Monday 30 January (optional, for people who leaves after the meeting):**
 
 |08:00-08:30|breakfast|
 |08:30-10:30|work session 1|
