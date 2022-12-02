@@ -8,9 +8,14 @@ breadcrumbs: true
 
 ### at least 2 months before the meeting:
 
-- [ ] The chair asks the organizer the exact address, and the starting and ending times of the meeting.
+- [ ] The chair asks the organizer the exact address, the starting and ending times of the meeting, and the daily allowance.
 
-- [ ] The organizer gives to the chair the exact address, and the starting and ending times of the meeting.
+- [ ] The organizer gives to the chair the exact address, and the starting and ending times, and the daily allowance.
+
+    * [ ] complete address:
+    * [ ] starting date and time:
+    * [ ] ending date and time:
+    * [ ] daily allowance:
 
 - [ ] The chair sets up the event on https://e-services.cost.eu/, but not the LOS yet (this will be done later).
 

@@ -12,7 +12,10 @@ breadcrumbs: true
 
 - [X] The organizer gives to the chair the exact address, and the starting and ending times of the meeting.
 
-[Villa Clythia](https://www.caes.cnrs.fr/sejours/la-villa-clythia/), 2754 avenue Henri-Giraud 83600 Fréjus, France
+    * [X] complete address: [Villa Clythia](https://www.caes.cnrs.fr/sejours/la-villa-clythia/), 2754 avenue Henri-Giraud 83600 Fréjus, France
+    * [X] starting date and time: 27 January 2022, 08:30
+    * [X] ending date and time: 29 January 2022, 18:15
+    * [ ] daily allowance:
 
 - [ ] The chair sets up the event on https://e-services.cost.eu/, but not the LOS yet (this will be done later).
 

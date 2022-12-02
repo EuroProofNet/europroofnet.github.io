@@ -1,22 +1,22 @@
 ---
-title: "Administration page for the WG3 meeting in Timisoara on February 2023"
+title: "Administration page for the WG6 meeting in Vienna in April 2023"
 layout: single
-permalink: /wg3-timisoara-admin/
+permalink: /wg6-vienna-admin/
 author_profile: true
 breadcrumbs: true
 ---
 
 ### at least 2 months before the meeting:
 
-- [X] The chair asks the organizer the exact address, the starting and ending times of the meeting, and the daily allowance.
+- [ ] The chair asks the organizer the exact address, the starting and ending times of the meeting, and the daily allowance.
 
 - [ ] The organizer gives to the chair the exact address, and the starting and ending times, and the daily allowance.
 
-    * [X] complete address: West University of Timisoara, Romania, blvd. V. Parvan, nr. 4, room 045C
-    * [X] starting date and time: 8 February 2023, 08:00
-    * [X] ending date and time: 9 February 2023, 17:00
+    * [ ] complete address:
+    * [ ] starting date and time:
+    * [ ] ending date and time:
     * [ ] daily allowance:
-
+    
 - [ ] The chair sets up the event on https://e-services.cost.eu/, but not the LOS yet (this will be done later).
 
 - [ ] The chair asks the organizer details about the LOS, with copy to the Grant holder. By the way, the chair asks the organizer to carefully read the rules concerning LOS in the COST annotated rules (https://www.cost.eu/uploads/2022/10/COST-094-21-Annotated-Rules-for-COST-Actions-Level-C-V1.3-.pdf#page=92). Note in particular that VAT is not reimbursed.
@@ -26,10 +26,6 @@ breadcrumbs: true
 - [ ] The Grant Holder checks the eligibility of the LOS and sends the result to the organizer and the chair.
 
 - [ ] The chair and the organizer fix the deadline for reimbursement applications at least 1 month before the meeting, and the date of a core group meeting within 1 week after the deadline, to decide which participants will be reimbursed.
-
-9.01.2023 - deadline for reimbursement applications
-
-16.01.2023 - notify who receives the reimbursement (we need only the names, INRIA notifies the persons)
 
 - [ ] The organizer collects data and files from participants willing to be reimbursed (name, email, country, address, gender, age, dates of arrival and departure, quote for transport, university certificates for master students). To this end, we strongly suggest the organizer to use forms like https://docs.google.com/forms/d/1WgAdt6_BkJiT9u6lSqIQ5p_7955CHFEjbxG2Ucj5gRgor https://docs.google.com/forms/d/12YxrDK-dupOFj5R5CdINvlc6xzW6C5DpEr58JoVmBIg.
 
