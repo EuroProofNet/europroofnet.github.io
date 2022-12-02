@@ -7,7 +7,7 @@ author_profile: true
 
 [Accepted STSMs](../accepted_stsms)
 
-The next deadline for STSM proposals will be in November or December 2022.
+The next deadline for STSM proposals is 1st January 2023.
 
 **What is an STSM?**
 
@@ -122,6 +122,7 @@ the [Grant Holder](mailto:saf-saclay-recettes@inria.fr).
 
 **Past deadlines**
 
-- 1 July 2022 (notification on 8 July): we were especially looking for applications from WG4 on the construction, management and (re)use of big libraries of formal proofs
+- 1st January 2023
+- 1st July 2022 (notification on 8 July): we were especially looking for applications from WG4 on the construction, management and (re)use of big libraries of formal proofs
 - 3 April 2022 (notification on 15 April): we were especially looking for applications from women and working groups other than WG3
 - 18 January 2022 (notification 26 January)
