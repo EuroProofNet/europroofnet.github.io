@@ -28,21 +28,21 @@ breadcrumbs: true
 
 - [ ] The Grant Holder checks the eligibility of the LOS and sends the result to the organizer and the chair.
 
+- [ ] The Grant Holder contacts the organizer to collect the additional data it needs.
+
+- [ ] The organizer provides the Grant Holder with the additional data it needs.
+
 - [ ] The chair and the organizer fix the deadline for reimbursement applications at least 1 month before the meeting, and the date of a core group meeting within 1 week after the deadline, to decide which participants will be reimbursed.
 
 9.01.2023 - deadline for reimbursement applications
 
 16.01.2023 - notify who receives the reimbursement (we need only the names, INRIA notifies the persons)
 
-- [ ] The organizer collects data and files from participants willing to be reimbursed (name, email, country, address, gender, age, dates of arrival and departure, quote for transport, university certificates for master students). To this end, we strongly suggest the organizer to use forms like https://docs.google.com/forms/d/1WgAdt6_BkJiT9u6lSqIQ5p_7955CHFEjbxG2Ucj5gRgor https://docs.google.com/forms/d/12YxrDK-dupOFj5R5CdINvlc6xzW6C5DpEr58JoVmBIg.
-
-- [ ] The organizer adds a web page for the meeting on https://europroofnet.github.io/, possibly with the help of the science communication coordinators.
+- [ ] The organizer adds a web page for the meeting on https://europroofnet.github.io/, possibly with the help of the science communication coordinators, with the following information: date, times, place, program, possible hotels, indications on how to get there, participation application procedure, reimbursement application procedure, deadlines.
 
 - [ ] The chair sends the call for participation and reimbursement application to all action members.
 
-- [ ] The Grant Holder contacts the organizer to collect the data it needs.
-
-- [ ] The organizer provides the Grant Holder with the data it needs.
+- [ ] The organizer collects data and files from participants willing to be reimbursed (name, email, country, address, gender, age, dates of arrival and departure, quote for transport, university certificates for master students). To this end, we strongly suggest the organizer to use forms like https://docs.google.com/forms/d/1WgAdt6_BkJiT9u6lSqIQ5p_7955CHFEjbxG2Ucj5gRgor https://docs.google.com/forms/d/12YxrDK-dupOFj5R5CdINvlc6xzW6C5DpEr58JoVmBIg.
 
 ### at least 1 month before the meeting:
 
