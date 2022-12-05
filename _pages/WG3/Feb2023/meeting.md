@@ -10,8 +10,8 @@ breadcrumbs: true
 
 **Place:** West University of Timisoara, Romania, blvd. V. Parvan, nr. 4, room 045C
 
-**Organizer:** [Mădălina ERAŞCU](https://merascu.github.io/)
-=======
+**Organizer:** [M&#259;d&#259;lina Era&#x219;cu](https://merascu.github.io/)
+
 ## February 8-9, 2023
 
 This is the second EuroProofNet WG3 meeting, taking place February 8-9, 2023. The meeting will take place at West University of Timisoara, Romania.
