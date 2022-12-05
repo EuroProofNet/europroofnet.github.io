@@ -1,18 +1,11 @@
 ---
-<<<<<<< HEAD
 title: "WG3 meeting in Timisoara on February 2023"
 layout: single
 permalink: /wg3-timisoara/
-=======
-title: "Second WG3 meeting"
-layout: single
-permalink: /wg3-meeting2/
->>>>>>> f2b1327 (new page WG3 meeting 2023)
 author_profile: true
 breadcrumbs: true
 ---
 
-<<<<<<< HEAD
 **Date:** 8-9 February 2023, 08:00 - 17:00
 
 **Place:** West University of Timisoara, Romania, blvd. V. Parvan, nr. 4, room 045C
@@ -128,4 +121,3 @@ Program schedule (tentative, times are EET)
 ### Local Organization
 
 * M&#259;d&#259;lina Era&#x219;cu
->>>>>>> f2b1327 (new page WG3 meeting 2023)
