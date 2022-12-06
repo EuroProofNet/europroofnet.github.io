@@ -1,18 +1,17 @@
 ---
-title: "WG3 meeting in Timisoara on February 2023"
+title: "WG3 meeting in Timisoara -- February 2023"
 layout: single
 permalink: /wg3-timisoara/
 author_profile: true
 breadcrumbs: true
 ---
 
-**Date:** 8-9 February 2023, 08:00 - 17:00
+**Date:** 8-9 February 2023, 09:00 - 17:00
 
 **Place:** West University of Timisoara, Romania, blvd. V. Parvan, nr. 4, room 045C
 
-**Organizer:** [M&#259;d&#259;lina Era&#x219;cu](https://merascu.github.io/)
+**Organizer:** [M&#259;d&#259;lina Era&#x219;cu](https://merascu.github.io/) & Alicia Villanueva
 
-## February 8-9, 2023
 
 This is the second EuroProofNet WG3 meeting, taking place February 8-9, 2023. The meeting will take place at West University of Timisoara, Romania.
 
@@ -43,7 +42,7 @@ If you have any questions, please contact M&#259;d&#259;lina Era&#x219;cu (madal
 
 * Application deadline (to get funded): January 3, 2023.  <br> *Applications received by this date will receive priority for reimbursement*.
 
-* Registration: January 15, 2023
+* Registration deadline: January 15, 2023
 
 Registration is free of charge. Coffee breaks are included.
 
@@ -96,7 +95,7 @@ Program schedule (tentative, times are EET)
 
 | Time      | Session |
 | ----------- | ----------- |
-| 09:00-09:30      | Opening & Presentation       |
+| 09:00-09:30      | Registration, Opening & Presentation       |
 | 09:30-11:00   | Session 1        |
 | 11:00-11:30 | _Coffee Break_ |
 | 11:30-12:30 | Session 2 |
