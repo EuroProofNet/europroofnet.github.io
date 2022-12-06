@@ -34,7 +34,7 @@ This meeting aims to
 
 If your work falls into the areas above and you want to take part in the meeting, please fill in this [form](https://forms.gle/YEBdscsfnf1LBLbN7). 
 
-Through the form, it is possible to apply to get funded by COST. The number of participants that can be funded is limited. The eligibility rules are public [here](https://europroofnet.github.io/eligibility/).  
+Through the form, it is possible to apply to get funded by COST. The number of participants that can be funded is limited. Check the [eligibility rules](../eligibility) and the [reimbursement rules](../reimbursement-rules).  
 
 If you have any questions, please contact M&#259;d&#259;lina Era&#x219;cu (madalina.erascu at e-uvt dot ro).
 
