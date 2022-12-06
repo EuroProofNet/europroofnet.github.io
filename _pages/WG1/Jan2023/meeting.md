@@ -30,7 +30,7 @@ Remark: the official dates of the meeting taken into account for reimbursements 
 
 **Application deadline:** 15 December 2022.
 
-<!--**Daily allowance:** The daily allowance is fixed at 100 euros. See the [reimbursement rules](https://europroofnet.github.io/reimbursement-rules/) for more details.-->
+**Cost:** Participants will have to pay for their travel, bedroom and meals at Villa Clythia. To cover the bedroom and meals, the daily allowance is fixed at 110 euros. See the [reimbursement rules](https://europroofnet.github.io/reimbursement-rules/) for more details.
 
 **Organizer:** [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/)
 
