@@ -54,7 +54,7 @@ Program:
 
 **Funding applications:** [here](../funding-June-2022) (deadline: May 22)
 
-**Scientific organizers:** [Gilles Dowek](http://lsv.fr/~dowek/), [Jesper Cockx](https://jesper.sikanda.be/), [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/)
+**Scientific organizers:** [Gilles Dowek](http://lsv.fr/~dowek/), [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/) and [Jesper Cockx](https://jesper.sikanda.be/)
 
 **Local organizers:** Matthieu Sozeau and Nicolas Tabareau
 
