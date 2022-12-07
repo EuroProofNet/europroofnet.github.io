@@ -7,8 +7,8 @@ author_profile: true
 
 <iframe src="https://calendar.google.com/calendar/embed?src=tifr4i78iakfnioku9bebr7dhc%40group.calendar.google.com&ctz=Europe%2FParis" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
-<!--**Coming events:**-->
-
+**Coming events:**
+- 8-9 February 2023: [2nd WG3 meeting](/wg3-timisoara)
 
 **Past events:**
 
