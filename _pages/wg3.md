@@ -14,6 +14,7 @@ underlying the proof systems to facilitate formal verification of both software
 and mathematics.
 
 ### Activities
+- 8-9 February 2023: [Second WG3 meeting webpage](../wg3-timisoara) 
 
 - 5-9 September 2022: [EuroProofNet Summer School on Verification Technology, Systems & Applications](https://resources.mpi-inf.mpg.de/departments/rg1/conferences/vtsa22/) (VTSA'22), Saarbrücken, Germany
 
