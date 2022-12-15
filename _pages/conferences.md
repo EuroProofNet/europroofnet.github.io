@@ -17,6 +17,8 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 
 - 26-29 June 2023: [38th Annual ACM/IEEE Symposium on Logic in Computer Science](https://lics.siglog.org/lics23/), Boston, USA
 
+- 4-9 June 2023: [24th International Conference on Logic for Programming Artificial Intelligence and Reasoning](https://easychair.org/smart-program/LPAR2023/), LPAR-24, Manizales, Colombia
+
 - 22-27 April 2023: [European Joint Conferences on Theory and Practice of Software](https://etaps.org/) (ETAPS'23), Paris, France
 
 - 6-10 March 2023: [25th International Symposium on Formal Methods](https://fm2023.isp.uni-luebeck.de/) (FM'23), Lübeck, Germany
