@@ -32,22 +32,21 @@ Remark: the official dates of the meeting taken into account for reimbursements 
 
 **Cost:** Participants will have to pay for their travel, bedroom and meals at Villa Clythia. To cover the bedroom and meals, the daily allowance is fixed at 110 euros. See the [reimbursement rules](https://europroofnet.github.io/reimbursement-rules/) for more details.
 
-**Participants:**
+**Participants (14):**
 - [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/): Lambdapi, Isabelle, Coq
-- Claude Stolze: AtelerB to Dedukti
 - [Thiago Felicissimo](http://www.lsv.fr/~felicissimo/): Canonical Dedukti, Agda to Dedukti
 - Yoan Géran: coherent logic to Dedukti
 - [Predrag Janičić](http://poincare.matf.bg.ac.rs/~janicic/): coherent logic and [Larus](https://github.com/janicicpredrag/Larus) to Dedukti
 - [Julien Narboux](https://dpt-info.di.unistra.fr/~narboux/): coherent logic and [Larus](https://github.com/janicicpredrag/Larus) to Dedukti
 - [Emilie Grienenberger](http://www.lsv.fr/~grienenberger/): HOL-Light to Dedukti
 - [Claudio Sacerdoti Coen](http://www.cs.unibo.it/~sacerdot/): type classes in Lambdapi using Elpi
-- François Thiré: Dedukti
+- [Enrico Tassi](http://www-sop.inria.fr/members/Enrico.Tassi/): type classes in Lambdapi using Elpi
 - [Amélie Ledein](http://www.lsv.fr/~ledein/): K and Metamath to Dedukti
 - Thomas Traversié: set theory in Lambdapi
 - [Simon Guilloud](https://people.epfl.ch/simon.guilloud): set theory and [Lisa](https://github.com/epfl-lara/lisa) to Dedukti
+- Claude Stolze: AtelerB to Dedukti
 - [Artur Korniłowicz](http://math.uwb.edu.pl/~arturk/): Mizar to Dedukti
 - [Bruno Barras](http://www.lix.polytechnique.fr/~barras/): reduction engine of Lambdapi
-- [Enrico Tassi](http://www-sop.inria.fr/members/Enrico.Tassi/): type classes in Lambdapi using Elpi
 
 **Thursday 26 January (optional, for people who arrives the day before the meeting):**
 
