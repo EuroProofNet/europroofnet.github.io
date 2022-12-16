@@ -17,6 +17,7 @@ the [Grant Holder](mailto:saf-saclay-recettes@inria.fr).
 
 **Documents**
 
+<!-- stable link: https://www.cost.eu/Annotated_Rules_for_COST_Actions_C-->
 - [COST annotated rules](https://www.cost.eu/uploads/2022/10/COST-094-21-Annotated-Rules-for-COST-Actions-Level-C-V1.3-.pdf) (version 1.3, 1 November 2022)
 - [Eligibility rules](../eligibility)
 - [Reimbursement rules](../reimbursement-rules)
