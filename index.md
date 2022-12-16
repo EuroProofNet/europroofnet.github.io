@@ -32,7 +32,7 @@ to the [working groups](../wg) you are interested in (it is free and open to any
 
 - 8-9 February 2023: [WG3 meeting on program verification](../wg3-timisoara), Timisoara, Romania
 
-- 24-25 April 2023: WG6 meeting, Vienna, Austria
+- 24-25 April 2023: [WG6 meeting](../wg6-vienna), Vienna, Austria
 
 [Past events](../events)
 
