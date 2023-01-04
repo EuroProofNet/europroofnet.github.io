@@ -23,7 +23,7 @@ host country as follows (this list is indicative, ask the [Grant Holder](mailto:
 | Estonia | 129 euros |
 | Finland | 220 euros |
 | France city of Paris | 145 euros |
-| France big cities and Paris region | 125 euros |
+| France big cities (*) and Paris region | 125 euros |
 | France other regions | 105 euros |
 | Georgia | 158 euros |
 | Germany | 164 euros |
@@ -54,3 +54,5 @@ host country as follows (this list is indicative, ask the [Grant Holder](mailto:
 | Ukraine | 208 euros |
 | United Kingdom | 180 GBP
 | Israel | 230 euros |
+
+(*) Marseille, Lyon, Toulouse, Nice, Nantes, Montpellier, Strasbourg, Bordeaux, Lille, Rennes
