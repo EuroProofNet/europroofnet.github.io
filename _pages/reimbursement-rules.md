@@ -17,7 +17,7 @@ Participants invited at a meeting or school, and people having an approved STSM,
 
 - Participants can use their own car if it is less expensive than using flight/train/bus, especially for a group. The reimbursement is around 0.35 euros/km for the driver (ask the precise amount to the Grant Holder). On the other hand, parking, fuel, toll and car rental are not reimbursed.
 
-- Participants must upload on the COST website their **tickets and bills** of their travel and accommodation (at their name and address), and the **receipts of their meals** (lunch and dinner). In the event there are no receipts, the reimbursement will not be possible.
+- Participants must upload on the COST website their **tickets and bills** of their travel and accommodation (at their name and address), and the **receipts of their meals** (lunch and dinner). In the event there are no receipts, the reimbursement will not be possible. These documents are necessary for making sure that the reimbursement is justified but the amount of the reimbursement is a fixed daily allowance (see below).
 
 **Additional rules for meetings and schools:**
 
