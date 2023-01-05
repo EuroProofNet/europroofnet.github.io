@@ -7,7 +7,11 @@ author_profile: true
 
 [Accepted STSMs](../accepted_stsms)
 
-The next deadline for STSM proposals is 1st January 2023.
+Upcoming deadlines:
+
+- 1st March 2023
+- 1st June 2022
+
 
 **What is an STSM?**
 
