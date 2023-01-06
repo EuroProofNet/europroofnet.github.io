@@ -5,6 +5,70 @@ permalink: /accepted_stsms/
 author_profile: true
 ---
 
+<!--
+* **Title** [application](/_pages/stsm/name-app.pdf)   
+  Visitor:   
+  Host:   
+  Grant: 0 EUR  
+  Dates: 2023-03-01 to 2023-04-01
+-->
+
+## 4th call (1 January 2023)
+
+* **Translation from Dedukti to Minlog** [application](/_pages/stsm/geran-app.pdf)   
+  Visitor: Yoan Géran (MINES ParisTech, Fontainebleau, France)   
+  Host: Helmut Schwichtenber (Mathematisches Institut der Universität München, Germany)   
+  Grant: 1478 EUR  
+  Dates: 2023-02-05 to 2023-02-12
+
+* **Static Guarantees of Confluence in Actor Languages** [application](/_pages/stsm/pun-app.pdf)   
+  Visitor: Violet Ka I Pun (Western Norway University of Applied Sciences, Bergen, Norway)   
+  Host: Ludovic Henrio (LIP Laboratory, ENS Lyon)   
+  Grant: 1500 EUR  
+  Dates: 2023-04-16 to 2023-04-23
+
+* **Comparing notions of dependent algebraic theory** [application](/_pages/stsm/lumsdaine-app.pdf)   
+  Visitor: Peter Lumsdaine (Stockholm University, Sweden)   
+  Host: Benedikt Ahrens (Delft University of Technology, Netherlands)   
+  Grant: 1363 EUR  
+  Dates: 2023-01-23 to 2023-01-29
+
+* **Proof automation in Cubical Agda** [application](/_pages/stsm/dore-app.pdf)   
+  Visitor: Maximilian Doré (University of Oxford, UK)   
+  Host: Anders Mörtberg (Stockholm University, Sweden)   
+  Grant: 1192 EUR  
+  Dates: 2023-02-13 to 2023-02-17
+
+* **Automated Translation of Mizar Declarative Proof** [application](/_pages/stsm/pak-app.pdf)   
+  Visitor: Karol Pak (Institute of Computer Science, Bialystok, Poland)   
+  Host: Cezary Kaliszyk (University of Innsbruck, Austria)   
+  Grant: 2922 EUR  
+  Dates: 2023-04-17 to 2023-05-06
+
+* **Larus/Dedukti** [application](/_pages/stsm/narboux-app.pdf)   
+  Visitor: Julien Narboux (University of Strasbourg, France)   
+  Host: Predrag Janicic (University of Belgrade, Serbia)   
+  Grant: 1020 EUR  
+  Dates: 2023-05-02 to 2023-05-05
+
+* **Termination Checking of Real-World Programs Using Term Rewriting Systems** [application](/_pages/stsm/milovancevic-app.pdf)   
+  Visitor: Dragana Milovancevic (EPFL, Switzerland)   
+  Host: Carsten Fuhs (Birkbeck, University of London, UK)   
+  Grant: 1450 EUR  
+  Dates: 2023-03-10 to 2023-03-27
+
+* **Translation of Generic Symbolic Execution Steps into Dedukti** [application](/_pages/stsm/lucanu-app.pdf)   
+  Visitor: Dorel Lucanu (Alexandru Ioan Cuza University, Romania)   
+  Host: Gilles Dowek (Ecole Normale Superieure Paris-Saclay, France)   
+  Grant: 1835 EUR  
+  Dates: 2023-03-20 to 2023-04-01
+
+* **Indexing and retrieval of formal proofs in an heterogeneous settings** [application](/_pages/stsm/sacerdoti-app.pdf)   
+  Visitor: Claudio Sacerdoti Coen (Alma Mater Studiorum - Università di Bologna, Italy)   
+  Host: Frédéric Blanqui (Ecole Normale Superieure Paris-Saclay, France)   
+  Grant: 1037 EUR  
+  Dates: 2023-04-16 to 2023-04-21
+
 ## 3rd call (1 July 2022)
 
 * **Behavioural Types for Smart Contracts** [application](/_pages/stsm/tuosto-app.pdf) [report](/_pages/stsm/tuosto-rep.pdf)   
