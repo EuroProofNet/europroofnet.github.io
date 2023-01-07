@@ -113,9 +113,10 @@ STSM coordinators as soon as possible.
 **Acknowledgements in publications**
 
 In publications partly elaborated thanks to the STSM, you have to
-acknowledge EuroProofNet and COST as follows: "This publication is
-based upon work from COST Action EuroProofNet, supported by COST
-(European Cooperation in Science and Technology, www.cost.eu)".
+[acknowledge](/_pages/Acknowledgment.pdf) EuroProofNet and COST as
+follows: "This publication is based upon work from COST Action
+EuroProofNet, supported by COST (European Cooperation in Science and
+Technology, www.cost.eu)".
 
 **More questions?**
 
