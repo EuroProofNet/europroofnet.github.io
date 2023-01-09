@@ -38,11 +38,13 @@ Through the form, it is possible to apply to get funded by COST. The number of p
 
 If you have any questions, please contact M&#259;d&#259;lina Era&#x219;cu (madalina.erascu at e-uvt dot ro).
 
-**Important dates** 
+**Important dates ** 
 
-* Application deadline (to get funded): January 3, 2023.  <br> *Applications received by this date will receive priority for reimbursement*.
+***Registration open***
 
-* Registration deadline: January 15, 2023
+* Application deadline (to get funded): January 22, 2023. (Extended)  <br> <!--*Applications received by this date will receive priority for reimbursement*.-->
+
+* Registration deadline: January 22, 2023
 
 Registration is free of charge. Coffee breaks are included.
 
