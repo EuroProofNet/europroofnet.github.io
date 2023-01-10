@@ -17,6 +17,6 @@ Co-located with the [HoTT/UF 2023 Workshop](https://hott-uf.github.io/2023/).
 
 [How to get there (map)](venue.png).
 
-**Organizers:** [Benedikt Ahrens](https://benediktahrens.gitlab.io/) and [Paige Randall North](https://paigenorth.github.io/)
+**Organizers:** [Paige Randall North](https://paigenorth.github.io/) and [Jacopo Emmenegger](https://jacopoemmenegger.wordpress.com/)
 
 **Local Organizer:** [Anja Petković Komel](https://anjapetkovic.com/)
