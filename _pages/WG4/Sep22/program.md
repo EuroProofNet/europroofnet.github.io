@@ -87,7 +87,7 @@ We believe similar library translations will be an essential part of any future 
 
 Session chair: Claudio Sacerdoti
 
-- 10:00 [Reuben Rowe](https://www.cs.rhul.ac.uk/home/rrowe/) (Royal Halloway University of London), Refactoring OCaml ([slides](rabe.pdf))
+- 10:00 [Reuben Rowe](https://www.cs.rhul.ac.uk/home/rrowe/) (Royal Halloway University of London), Refactoring OCaml ([slides](rowe.pdf))
 
 I will report on our work implementing automatic refactoring techniques
 for the OCaml programming language. As a simple case study, we look at

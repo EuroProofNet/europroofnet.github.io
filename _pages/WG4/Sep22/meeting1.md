@@ -27,21 +27,21 @@ refactoring and search of large libraries of proofs.
 **Programme:** [here](../wg4-meeting1-program)
 
 **Talks:**
-- [Claudio Sacerdoti](http://www.cs.unibo.it/~sacerdot/) (University of Bologna), The challenges of the EuroProofNet Working Group 4 on libraries
-- [Fabian Huch](https://www21.in.tum.de/team/huch/) (Technical University of Münich) and [Yiannis Stathopoulos](https://www.cl.cam.ac.uk/~yas23/) (University of Cambridge), Finding facts in large formalization libraries: two Isabelle/AFP attempts
-- [Anne Baanen](https://www.cs.vu.nl/~tbn305/) (Vrije Universiteit Amsterdam), Bundling in Dependent Type Theory
-- [Riccardo Brasca](https://webusers.imj-prg.fr/~riccardo.brasca/) (University of Paris Cité), Maintenance of Lean's mathlib and the Liquid tensor experiment
-- [Florian Rabe](https://kwarc.info/people/frabe/) (University of Erlangen), Experiences from Exporting Major Proof Assistant Libraries <!--[online?]-->
-- [Alexander Best](https://alexjbest.github.io/) (Vrije Universiteit Amsterdam), Metaprogramming for Automation of Library Maintenance
-- [Reuben Rowe](https://www.cs.rhul.ac.uk/home/rrowe/) (Royal Halloway University of London), Refactoring OCaml
-- Georges Gonthier (INRIA Saclay), First-class object hierarchies [online]
-- [Enrico Tassi](http://www-sop.inria.fr/members/Enrico.Tassi/) (INRIA Sophia Antipolis), [Hierarchy Builder](https://github.com/math-comp/hierarchy-builder), algebraic hierarchies made easy (in Coq) [online]
-- [Geoff Sutcliffe](https://www.cs.miami.edu/home/geoff/) (University of Miami), Proofs and Models in the TPTP World [online]
-- [Artur Korniłowicz](http://math.uwb.edu.pl/~arturk/) (University of Bialystok), XML-based representation of Mizar Mathematical Library [online]
-- [André Freitas](http://andrefreitas.org/) (University of Manchester), Natural Language & Proofs: A Neuro-symbolic Perspective
-- [Marco Maggesi](https://sites.google.com/unifi.it/maggesi/), The HOL Light library of formalized mathematics
-- Roland Coghetto and [Julien Narboux](https://dpt-info.di.unistra.fr/~narboux/) (University of Strasbourg) [online], The GeoCoq library and its porting to Isabelle
-- [Talia Ringer](https://dependenttyp.es/) (University of Illinois at Urbana-Champaign) [online], Concrete Problems in Proof Automation
+- [Claudio Sacerdoti](http://www.cs.unibo.it/~sacerdot/) (University of Bologna), The challenges of the EuroProofNet Working Group 4 on libraries ([slides](sacerdoti.pdf))
+- [Fabian Huch](https://www21.in.tum.de/team/huch/) (Technical University of Münich) and [Yiannis Stathopoulos](https://www.cl.cam.ac.uk/~yas23/) (University of Cambridge), Finding facts in large formalization libraries: two Isabelle/AFP attempts ([slides](stathopoulos.pdf))
+- [Anne Baanen](https://www.cs.vu.nl/~tbn305/) (Vrije Universiteit Amsterdam), Bundling in Dependent Type Theory ([slides](baanen.pdf))
+- [Riccardo Brasca](https://webusers.imj-prg.fr/~riccardo.brasca/) (University of Paris Cité), Maintenance of Lean's mathlib and the Liquid tensor experiment ([slides](brasca.pdf))
+- [Florian Rabe](https://kwarc.info/people/frabe/) (University of Erlangen), Experiences from Exporting Major Proof Assistant Libraries <!--[online?]--> ([slides](rabe.pdf))
+- [Alexander Best](https://alexjbest.github.io/) (Vrije Universiteit Amsterdam), Metaprogramming for Automation of Library Maintenance ([slides](https://alexjbest.github.io/talks/wg4-kickoff))
+- [Reuben Rowe](https://www.cs.rhul.ac.uk/home/rrowe/) (Royal Halloway University of London), Refactoring OCaml ([slides](rowe.pdf))
+- Georges Gonthier (INRIA Saclay), First-class object hierarchies [online] ([slides](gonthier.pdf))
+- [Enrico Tassi](http://www-sop.inria.fr/members/Enrico.Tassi/) (INRIA Sophia Antipolis), [Hierarchy Builder](https://github.com/math-comp/hierarchy-builder), algebraic hierarchies made easy (in Coq) [online] ([slides](tassi.pdf))
+- [Geoff Sutcliffe](https://www.cs.miami.edu/home/geoff/) (University of Miami), Proofs and Models in the TPTP World [online] ([slides](https://www.tptp.org/Seminars/TPTPProofsAndModels/Contents.html))
+- [Artur Korniłowicz](http://math.uwb.edu.pl/~arturk/) (University of Bialystok), XML-based representation of Mizar Mathematical Library [online] ([slides](kornilowicz.pdf))
+- [André Freitas](http://andrefreitas.org/) (University of Manchester), Natural Language & Proofs: A Neuro-symbolic Perspective ([slides](freitas.pdf))
+- [Marco Maggesi](https://sites.google.com/unifi.it/maggesi/), The HOL Light library of formalized mathematics ([slides](maggesi.pdf))
+- Roland Coghetto and [Julien Narboux](https://dpt-info.di.unistra.fr/~narboux/) (University of Strasbourg) [online], The GeoCoq library and its porting to Isabelle ([slides](narboux.pdf))
+- [Talia Ringer](https://dependenttyp.es/) (University of Illinois at Urbana-Champaign) [online], Concrete Problems in Proof Automation ([slides](ringer.pdf)) ([AITP video](https://youtu.be/lRczFjl6Ljs))
 
 **On site participants (24):** [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/), [Claudio Sacerdoti](http://www.cs.unibo.it/~sacerdot/), [Fabian Huch](https://www21.in.tum.de/team/huch/), [Yiannis Stathopoulos](https://www.cl.cam.ac.uk/~yas23/), [Anne Baanen](https://www.cs.vu.nl/~tbn305/), [Riccardo Brasca](https://webusers.imj-prg.fr/~riccardo.brasca/), [Alexander Best](https://alexjbest.github.io/), [Reuben Rowe](https://www.cs.rhul.ac.uk/home/rrowe/), [Marco Maggesi](https://sites.google.com/unifi.it/maggesi/), [André Freitas](http://andrefreitas.org/), [Maribel Fernandez](https://nms.kcl.ac.uk/maribel.fernandez/), [Carsten Fuhs](https://www.dcs.bbk.ac.uk/~carsten/), [Peter Ölveczky](https://olveczky.se/), [Sandra Alves](https://www.dcc.fc.up.pt/~sandra/Home/Home.html), [Volker Stolz](https://ict.hvl.no/people/volker-stolz/), [Besik Dundua](https://cte.ibsu.edu.ge/en/besik-dundua/), [Luigi Liquori](https://luigiliquori.wixsite.com/atinria), Alicia Villanueva, Ashvni Narayanan, Ramon Fernández Mir, Santiago Escobar, Peter Koepke, Erika Abraham, Temur Kutsia
 
