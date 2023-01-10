@@ -25,6 +25,8 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 
 - 13-17 February 2023: [Computer Science Logic 2023](https://csl2023.mimuw.edu.pl/) (CSL’23), Warsaw, Poland
 
+- 13-17 February 2023: [IPAM Workshop on Machine Assisted Proofs](http://www.ipam.ucla.edu/programs/workshops/machine-assisted-proofs), Los Angeles, USA
+
 - 11-12 November 2022: [Autumn Workshop Proof Theory](https://uswpt.sites.uu.nl/), Utrecht, Netherlands
 
 - 26-29 September 2022: [Logic and Applications](http://imft.ftn.uns.ac.rs/math/cms/LAP2022) (LAP'22), Dubrovnik, Croatia
