@@ -13,11 +13,11 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 
 - 3-6 July 2023: [8th International Conference on Formal Structures for Computation and Deduction](https://easyconferences.eu/fscd2023/) (FSCD'23), Rome, Italy
 
-- 1-4 July 2023: [29th Conference on Automated Deduction](https://easyconferences.eu/cade2023/), CADE'23, Rome, Italy
+- 1-4 July 2023: [29th Conference on Automated Deduction](https://easyconferences.eu/cade2023/) (CADE'23), Rome, Italy
 
-- 26-29 June 2023: [38th Annual ACM/IEEE Symposium on Logic in Computer Science](https://lics.siglog.org/lics23/), Boston, USA
+- 26-29 June 2023: [38th Annual ACM/IEEE Symposium on Logic in Computer Science](https://lics.siglog.org/lics23/) (LICS'23), Boston, USA
 
-- 4-9 June 2023: [24th International Conference on Logic for Programming Artificial Intelligence and Reasoning](https://easychair.org/smart-program/LPAR2023/), LPAR-24, Manizales, Colombia
+- 4-9 June 2023: [24th International Conference on Logic for Programming Artificial Intelligence and Reasoning](https://easychair.org/smart-program/LPAR2023/) (LPAR-24), Manizales, Colombia
 
 - 22-27 April 2023: [European Joint Conferences on Theory and Practice of Software](https://etaps.org/) (ETAPS'23), Paris, France
 
