@@ -13,17 +13,27 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 
 - 3-6 July 2023: [8th International Conference on Formal Structures for Computation and Deduction](https://easyconferences.eu/fscd2023/) (FSCD'23), Rome, Italy
 
-- 1-4 July 2023: [29th Conference on Automated Deduction](https://easyconferences.eu/cade2023/), CADE'23, Rome, Italy
+- 1-4 July 2023: [29th Conference on Automated Deduction](https://easyconferences.eu/cade2023/) (CADE'23), Rome, Italy
 
-- 26-29 June 2023: [38th Annual ACM/IEEE Symposium on Logic in Computer Science](https://lics.siglog.org/lics23/), Boston, USA
+- 26-29 June 2023: [38th Annual ACM/IEEE Symposium on Logic in Computer Science](https://lics.siglog.org/lics23/) (LICS'23), Boston, USA
 
-- 4-9 June 2023: [24th International Conference on Logic for Programming Artificial Intelligence and Reasoning](https://easychair.org/smart-program/LPAR2023/), LPAR-24, Manizales, Colombia
+- 4-9 June 2023: [24th International Conference on Logic for Programming Artificial Intelligence and Reasoning](https://easychair.org/smart-program/LPAR2023/) (LPAR-24), Manizales, Colombia
 
 - 22-27 April 2023: [European Joint Conferences on Theory and Practice of Software](https://etaps.org/) (ETAPS'23), Paris, France
 
 - 6-10 March 2023: [25th International Symposium on Formal Methods](https://fm2023.isp.uni-luebeck.de/) (FM'23), Lübeck, Germany
 
 - 13-17 February 2023: [Computer Science Logic 2023](https://csl2023.mimuw.edu.pl/) (CSL’23), Warsaw, Poland
+
+- 13-17 February 2023: [IPAM Workshop on Machine Assisted Proofs](http://www.ipam.ucla.edu/programs/workshops/machine-assisted-proofs), Los Angeles, USA
+
+- 16-17 January 2023: [Certified Programs and Proofs](https://popl23.sigplan.org/home/CPP-2023) (CPP'23), Boston, USA
+
+- 16-17 January 2023: [25th International Symposium on Practical Aspects of Declarative Languages](https://popl23.sigplan.org/home/PADL-2023) (PADL'23), Boston, USA
+
+- 16-17 January 2023: [24th International Conference on Verification, Model Checking, and Abstract Interpretation](https://popl23.sigplan.org/home/VMCAI-2023) (VMCAI'23), Boston, USA
+
+- 15-21 January 2023: [50th ACM SIGPLAN Symposium on Principles of Programming Languages](https://popl23.sigplan.org/) (POPL'23), Boston, USA
 
 - 11-12 November 2022: [Autumn Workshop Proof Theory](https://uswpt.sites.uu.nl/), Utrecht, Netherlands
 
