@@ -27,6 +27,14 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 
 - 13-17 February 2023: [IPAM Workshop on Machine Assisted Proofs](http://www.ipam.ucla.edu/programs/workshops/machine-assisted-proofs), Los Angeles, USA
 
+- 16-17 January 2023: [Certified Programs and Proofs](https://popl23.sigplan.org/home/CPP-2023) (CPP'23), Boston, USA
+
+- 16-17 January 2023: [25th International Symposium on Practical Aspects of Declarative Languages](https://popl23.sigplan.org/home/PADL-2023) (PADL'23), Boston, USA
+
+- 16-17 January 2023: [24th International Conference on Verification, Model Checking, and Abstract Interpretation](https://popl23.sigplan.org/home/VMCAI-2023) (VMCAI'23), Boston, USA
+
+- 15-21 January 2023: [50th ACM SIGPLAN Symposium on Principles of Programming Languages](https://popl23.sigplan.org/) (POPL'23), Boston, USA
+
 - 11-12 November 2022: [Autumn Workshop Proof Theory](https://uswpt.sites.uu.nl/), Utrecht, Netherlands
 
 - 26-29 September 2022: [Logic and Applications](http://imft.ftn.uns.ac.rs/math/cms/LAP2022) (LAP'22), Dubrovnik, Croatia
