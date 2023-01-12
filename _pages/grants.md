@@ -1,17 +1,26 @@
 ---
-title: "Short-Term Scientific Mission Grants"
+title: "Short-Term Scientific Missions and ITC Conference Grants"
 layout: single
 permalink: /grants/
 author_profile: true
 ---
 
-[Accepted STSMs](../accepted_stsms)
+EuroProofNet can provide two kinds of grants:
+- Short-Term Scientific Mission (STSM) ([past STSMs](../accepted_stsms))
+- Inclusve-Target Country Conference Grants (ITCC)
 
 Upcoming deadlines:
-
 - 1st March 2023
-- 1st June 2022
+- 8 May 2023
 
+**What is an ITC Conference Grant**
+
+ITC Conference Grants are given to young (<= 40 years old) researchers
+affiliated in an [Inclusiveness Target Country or Near Neighbour
+Country](../eligibility) to present a work related to EuroProofNet in
+a high-level conference fully organized by a third party, i.e. not
+organized nor co-organized by EuroProofNet. Reimbursement rules are
+the same as for STSMs.
 
 **What is an STSM?**
 

@@ -31,7 +31,7 @@ Participants invited at a meeting or school, and people having an approved STSM,
 
 - For accommodation, meals and local transport, the reimbursement is a [daily flat rate](../stsm-daily-allowance) fixed by the Grant Holder depending on the host country.
 
-Find more details concerning reimbursements in the [COST Annotated Rules](https://www.cost.eu/uploads/2022/10/COST-094-21-Annotated-Rules-for-COST-Actions-Level-C-V1.3-.pdf#page=86).
+Find more details concerning reimbursements in the [COST Annotated Rules](https://www.cost.eu/Annotated_Rules_for_COST_Actions_C) page 86.
 
 If you have questions, please contact
 the [Grant Holder](mailto:saf-saclay-recettes@inria.fr).
