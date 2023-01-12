@@ -14,7 +14,7 @@ EuroProofNet can provide two kinds of grants:
 - 1st March 2023
 - 8 May 2023
 
-**What is an ITC Conference Grant**
+**What is an ITC Conference Grant?**
 
 ITC Conference Grants are given to young (<= 40 years old) researchers
 affiliated in an [Inclusiveness Target Country or Near Neighbour
