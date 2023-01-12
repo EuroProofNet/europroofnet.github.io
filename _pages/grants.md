@@ -6,10 +6,11 @@ author_profile: true
 ---
 
 EuroProofNet can provide two kinds of grants:
-- Short-Term Scientific Mission (STSM) ([past STSMs](../accepted_stsms))
+- Short-Term Scientific Mission (STSM): see [past STSMs](../accepted_stsms)
 - Inclusve-Target Country Conference Grants (ITCC)
 
-Upcoming deadlines:
+**Upcoming deadlines**
+
 - 1st March 2023
 - 8 May 2023
 
@@ -40,7 +41,7 @@ The main points about STSMs are:
 
 Check the [eligibility rules](../eligibility) to know whether you can get an STSM.
 
-**[Reimbursement rules](../reimbursement-rules)**
+**Reimbursement rules**
 
 The beneficiary of an STSM will be reimbursed only of his/her travel
 expenses plus a [daily allowance](../stsm-daily-allowance) depending
@@ -49,6 +50,8 @@ described [here](../reimbursement-rules) are satisfied. Therefore, the
 amount awarded to a beneficiary of an STSM is only indicative and the
 final amount will be based on reimbursement rules and receipts
 available.
+
+See [reimbursement rules](../reimbursement-rules) for more details.
 
 **What documents to provide?**
 
