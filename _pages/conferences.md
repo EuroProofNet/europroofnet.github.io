@@ -13,6 +13,8 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 
 - 3-6 July 2023: [8th International Conference on Formal Structures for Computation and Deduction](https://easyconferences.eu/fscd2023/) (FSCD'23), Rome, Italy
 
+- 2 July 2023: [Logical Frameworks and Meta-Languages: Theory and Practice](https://lfmtp.org/workshops/2023/) (LFMTP'23), Rome, Italy
+
 - 1-4 July 2023: [29th Conference on Automated Deduction](https://easyconferences.eu/cade2023/) (CADE'23), Rome, Italy
 
 - 26-29 June 2023: [38th Annual ACM/IEEE Symposium on Logic in Computer Science](https://lics.siglog.org/lics23/) (LICS'23), Boston, USA
