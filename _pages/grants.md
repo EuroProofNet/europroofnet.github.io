@@ -14,6 +14,11 @@ EuroProofNet can provide two kinds of grants:
 - 1st March 2023
 - 8 May 2023
 
+**Application web sites**
+
+- [STSM](https://e-services.cost.eu/activity/grants/add?type=STSM)
+- [ITCG](https://e-services.cost.eu/activity/grants/add?type=ITCG)
+
 **What is an ITC Conference Grant?**
 
 ITC Conference Grants are given to young (<= 40 years old) researchers
@@ -53,7 +58,7 @@ available.
 
 See [reimbursement rules](../reimbursement-rules) for more details.
 
-**What documents to provide?**
+**Documents to provide for STSMs**
 
 Proposals must be made through the [e-COST system](https://e-services.cost.eu/activity/grants/add?type=STSM) (you need to add a bank account on your profile first). The following documents must be uploaded:
 
@@ -63,7 +68,7 @@ Proposals must be made through the [e-COST system](https://e-services.cost.eu/ac
   - Working plan (max 500 words)
   - Expected outputs and contribution to the Action MoU [objectives and deliverables](../description) (max 500 words). Clearly indicate the main WG it contributes to.
 - A letter from the host confirming that he or she will receive the applicant.
-- A quote for the travel (screen capture).
+- A quote for the travel in euros (screen capture).
 
 Be careful to check flight/train tickets and accommodations that you
 can modify or cancel for free or at little cost (possibly by taking
