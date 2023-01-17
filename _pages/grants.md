@@ -70,10 +70,25 @@ Proposals must be made through the [e-COST system](https://e-services.cost.eu/ac
 - A letter from the host confirming that he or she will receive the applicant.
 - A quote for the travel in euros (screen capture).
 
-Be careful to check flight/train tickets and accommodations that you
+Be careful to check flight/train tickets that you
 can modify or cancel for free or at little cost (possibly by taking
-some insurance). After acceptance, you are responsible to buy
-your flight/train tickets and accommodations by youself.
+some insurance).
+
+**Documents to provide for ITCGs**
+
+Proposals must be made through the [e-COST system](https://e-services.cost.eu/activity/grants/add?type=ITCG) (you need to add a bank account on your profile first). The following documents must be uploaded:
+
+- The application form provided by e-COST which requires:
+  - Details of the conference (title and dates)
+  - Details of the presentation (title, abstract)
+  - Relevance wrt EuroProofNet [objectives](../description) (max 500 words)
+  - Expected impact (max 500 words)
+- Acceptance letter/mail from the conference organizers.
+- A quote for the travel in euros (screen capture).
+
+Be careful to check flight/train tickets that you
+can modify or cancel for free or at little cost (possibly by taking
+some insurance).
 
 **Selection criteria**
 
@@ -111,20 +126,20 @@ This facility is not available at the moment.
 Keep your tickets and accommodation bills, as well as the receipts of
 every meal (lunch and diner).
 
-**Reimbursement**
+**Reimbursement rules**
 
 To be reimbursed, a short scientific report signed by the host must be
 submitted through the e-cost system along with the travel tickets and
 meal receipts, **within 2 weeks after the end of the STSM.** See the
 [reimbursement rules](../reimbursement-rules) for more details.
 
-**Changing the dates of an STSM, cancelling an STSM**
+**Date changes and cancelation**
 
 In case you need to change the dates of an accepted STSM, you have to
 inform the STSM coordinators as soon as possible and provide new dates
 so that the STSM ends before October 15.
 
-In case you need to cancel an accepted STSM, you need to inform the
+In case you need to cancel an accepted STSM or ITCG, you need to inform the
 STSM coordinators as soon as possible.
 
 **Acknowledgements in publications**
