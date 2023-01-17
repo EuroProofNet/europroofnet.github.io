@@ -47,7 +47,7 @@ breadcrumbs: true
 
 - [X] The chair sends to the Grant Holder the list of selected participants.
 
-- [ ] The Grant Holder contacts the selected participants to collect the data it needs.
+- [X] The Grant Holder contacts the selected participants to collect the data it needs.
 
 - [ ] The selected participants provide the Grant Holder with the data it needs.
 
