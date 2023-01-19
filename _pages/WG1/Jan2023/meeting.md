@@ -46,7 +46,7 @@ Remark: the official dates of the meeting taken into account for reimbursements 
 - [Simon Guilloud](https://people.epfl.ch/simon.guilloud): set theory and [Lisa](https://github.com/epfl-lara/lisa) to Dedukti
 - Claude Stolze: [Atelier B](https://www.atelierb.eu/) to Dedukti
 - [Artur Korniłowicz](http://math.uwb.edu.pl/~arturk/): [Mizar](http://mizar.org/) to Dedukti
-- [Bruno Barras](http://www.lix.polytechnique.fr/~barras/): reduction engine of Lambdapi
+<!-- - [Bruno Barras](http://www.lix.polytechnique.fr/~barras/): reduction engine of Lambdapi-->
 - Gabriel Hondet: [personoj](https://github.com/Deducteam/personoj) (PVS to Dedukti) and [STTfaxport](https://github.com/Deducteam/sttfaxport) (Dedukti to other provers)
 - François Thiré: [universo](https://github.com/Deducteam/universo) and and [STTfaxport](https://github.com/Deducteam/sttfaxport) (Dedukti to other provers)
 
