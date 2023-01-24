@@ -31,13 +31,13 @@ author_profile: true
   Visitor: Peter Lumsdaine (Stockholm University, Sweden)   
   Host: Benedikt Ahrens (Delft University of Technology, Netherlands)   
   Grant: 1363 EUR  
-  Dates: 2023-01-23 to 2023-01-29
+  Dates: 2023-03-18 to 2023-03-25
 
 * **Proof automation in Cubical Agda** [application](/_pages/stsm/dore-app.pdf)   
   Visitor: Maximilian Doré (University of Oxford, UK)   
   Host: Anders Mörtberg (Stockholm University, Sweden)   
   Grant: 1192 EUR  
-  Dates: 2023-02-13 to 2023-02-17
+  Dates: 2023-02-27 to 2023-03-03
 
 * **Automated Translation of Mizar Declarative Proof** [application](/_pages/stsm/pak-app.pdf)   
   Visitor: Karol Pak (Institute of Computer Science, Bialystok, Poland)   
