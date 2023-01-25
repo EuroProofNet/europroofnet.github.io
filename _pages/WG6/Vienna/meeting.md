@@ -10,12 +10,32 @@ breadcrumbs: true
 
 **Place:** Vienna, Austria
 
-Co-located with the [HoTT/UF 2023 Workshop](https://hott-uf.github.io/2023/).
-
 **Venue:** Gußhausstraße 27 - 29, 1040 Wien, Austria,
 4.OG, Seminarraum CH EG, Room number CD 04 04
 
 [How to get there (map)](venue.png).
+
+Co-located with the [HoTT/UF 2023 Workshop](https://hott-uf.github.io/2023/).
+
+The aim of this meeting series is to bring together researchers working on the topics of WG6. The main focus is thus on the syntax and semantics of type theory.
+
+The programme will consists mainly of short talks, and plenty of time for discussion. The meeting will be in person and is open to anyone interested in type theory.
+
+
+**Invited speakers**  
+[Daniel Gratzer](https://jozefg.github.io/)  
+[Ambroise Lafont](https://amblafont.github.io/)  
+[Anders Mörtberg](https://staff.math.su.se/anders.mortberg/)  
+[Loïc Pujet](https://pujet.fr/)  
+
+
+**Deadlines (AoE)**  
+Submission of talk proposals: Monday 27 February  
+Author notification: Tuesday 7 March  
+Funding requests: Thursday 19 March  
+Registration: Friday 7 April  
+
+**Registration & funding:** Registration will be open soon. A limited amount of funding is available to reimburse expenses. The application for funding will be open together with registration.
 
 **Organizers:** [Paige Randall North](https://paigenorth.github.io/) and [Jacopo Emmenegger](https://jacopoemmenegger.wordpress.com/)
 
