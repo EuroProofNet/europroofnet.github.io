@@ -30,7 +30,7 @@ This meeting aims to
 
 ## Organization
 
-### List of registered participants (as of January 11th)
+### List of registered participants
 
 [List of participants](./ParticipantsWG3Timisoara.pdf).
 
