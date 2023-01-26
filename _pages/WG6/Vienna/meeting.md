@@ -19,7 +19,7 @@ Co-located with the [HoTT/UF 2023 Workshop](https://hott-uf.github.io/2023/).
 
 The aim of this meeting series is to bring together researchers working on the topics of [working group 6 of EuroProofNet](https://europroofnet.github.io/wg6/). The main focus is thus on the syntax and semantics of type theory.
 
-The programme will consists mainly of short talks, and plenty of time for discussion. The meeting will be in person and is open to anyone interested in type theory.
+The programme will consist mainly of short talks, and plenty of time for discussion. The meeting will be in person and is open to anyone interested in type theory.
 
 
 **Invited speakers**  
