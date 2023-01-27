@@ -6,7 +6,7 @@ author_profile: true
 breadcrumbs: true
 ---
 
-<!--img src="/_pages/WG1/Oct2022/20221016_162105_resized.jpg"/-->
+<img src="/_pages/WG1/Jan2023/20230127_164233_resized.jpg"/>
 
 **Organizer:** [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/)
 
@@ -109,4 +109,12 @@ Remark: the official dates of the meeting taken into account for reimbursements 
 |10:45-12:45|work session 2|
 |12:45-14:00|lunch|
 
-<!--img src="/_pages/WG1/Oct2022/20221016_122649_resized.jpg"/-->
+<!--img src="/_pages/WG1/Jan2023/20230126_161449_resized.jpg"/-->
+<!--img src="/_pages/WG1/Jan2023/20230126_161524_resized.jpg"/-->
+<img src="/_pages/WG1/Jan2023/20230127_121027_resized.jpg"/>
+<img src="/_pages/WG1/Jan2023/20230127_121204_resized.jpg"/>
+<img src="/_pages/WG1/Jan2023/20230127_121220_resized.jpg"/>
+<img src="/_pages/WG1/Jan2023/20230127_121227_resized.jpg"/>
+<img src="/_pages/WG1/Jan2023/20230127_124100_resized.jpg"/>
+<img src="/_pages/WG1/Jan2023/20230127_124117_resized.jpg"/>
+<img src="/_pages/WG1/Jan2023/20230127_133547_resized.jpg"/>
