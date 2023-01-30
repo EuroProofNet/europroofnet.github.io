@@ -50,11 +50,12 @@ Remark: the official dates of the meeting taken into account for reimbursements 
 
 - [Enrico Tassi](http://www-sop.inria.fr/members/Enrico.Tassi/): [type classes in Lambdapi](https://github.com/Deducteam/lambdapi/pull/418) using [Elpi](https://github.com/LPCIC/elpi)
 
-- [Amélie Ledein](http://www.lsv.fr/~ledein/): [K](https://kframework.org/) and [Metamath](https://us.metamath.org/) to Dedukti
+- [Amélie Ledein](http://www.lsv.fr/~ledein/)
+[K](https://kframework.org/) and [Metamath](https://us.metamath.org/) to Dedukti
 
 - Thomas Traversié worked on the elimination of the user-defined rewriting rules in a Dedukti theory. Such a transformation is done by replacing these rewriting rules with axioms. The main difficulty is to handle the different possible translations of a term, depending on where the rewriting rules are applied. He started to implement this technique.
 
-- [Simon Guilloud](https://people.epfl.ch/simon.guilloud): set theory and [Lisa](https://github.com/epfl-lara/lisa) to Dedukti
+- [Simon Guilloud](https://people.epfl.ch/simon.guilloud) and Amélie Ledein have implemented Sequent Calculus inside Lambdapi. Simon have explored variants of FOL where conjunctions and disjunctions are represented as lists and the possibility of using Lambdapi's rewrite system to compute partial normal forms of formulas. He also has started a reduction of the Sequent Calculus system to Natural Deduction and lambda calculus (using Curry-Howard).
 
 - Claude Stolze finished implementing a translator from [Atelier B](https://www.atelierb.eu/) proof obligations (in POG format) to Lambdapi. 5387 POG files (5.7 GiB) have been processed and the resulting Lambdapi files have been typechecked successfully. This will be the basis for proving these proof obligations using external tools.
 
