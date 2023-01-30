@@ -32,7 +32,7 @@ Remark: the official dates of the meeting taken into account for reimbursements 
 
 **Cost:** Participants will have to pay for their travel, bedroom and meals at Villa Clythia. To cover the bedroom and meals, the daily allowance is fixed at 110 euros. See the [reimbursement rules](https://europroofnet.github.io/reimbursement-rules/) for more details.
 
-**Participants (14):**
+**Participants (15):**
 
 - [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/) fixed small bugs and made improvements in [Lambdapi](https://github.com/Deducteam/lambdapi) ([943](https://github.com/Deducteam/lambdapi/pull/943), [944](https://github.com/Deducteam/lambdapi/pull/944), [949](https://github.com/Deducteam/lambdapi/pull/949), [950](https://github.com/Deducteam/lambdapi/pull/950), [952](https://github.com/Deducteam/lambdapi/pull/952), [953](https://github.com/Deducteam/lambdapi/pull/953), [954](https://github.com/Deducteam/lambdapi/pull/954)) and developed a new translator from [HOL-Light](https://www.cl.cam.ac.uk/~jrh13/hol-light/) to Dedukti and Lambdapi based on a fork of HOL-Light: see [dk branch](https://github.com/Deducteam/hol-light/tree/dk).
 

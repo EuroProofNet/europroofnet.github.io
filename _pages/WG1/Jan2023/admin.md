@@ -61,9 +61,9 @@ breadcrumbs: true
 
 during the meeting:
 
-- [ ] The organizer asks participants to sign the attendance sheet every day of the meeting.
+- [X] The organizer asks participants to sign the attendance sheet every day of the meeting.
 
-- [ ] The participants sign the attendance sheet every day they attend the meeting.
+- [X] The participants sign the attendance sheet every day they attend the meeting.
 
 - [X] The organizer takes photos of the event.
 
