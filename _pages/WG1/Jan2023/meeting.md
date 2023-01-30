@@ -34,7 +34,7 @@ Remark: the official dates of the meeting taken into account for reimbursements 
 
 **Participants (14):**
 
-- [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/) fixed small bugs in [Lambdapi](https://github.com/Deducteam/lambdapi) and developed a new translator from [HOL-Light](https://www.cl.cam.ac.uk/~jrh13/hol-light/) to Dedukti and Lambdapi based on a fork of HOL-Light.
+- [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/) fixed small bugs and made improvements in [Lambdapi](https://github.com/Deducteam/lambdapi) ([943](https://github.com/Deducteam/lambdapi/pull/943), [944](https://github.com/Deducteam/lambdapi/pull/944), [949](https://github.com/Deducteam/lambdapi/pull/949), [950](https://github.com/Deducteam/lambdapi/pull/950), [952](https://github.com/Deducteam/lambdapi/pull/952), [953](https://github.com/Deducteam/lambdapi/pull/953), [954](https://github.com/Deducteam/lambdapi/pull/954)) and developed a new translator from [HOL-Light](https://www.cl.cam.ac.uk/~jrh13/hol-light/) to Dedukti and Lambdapi based on a fork of HOL-Light: see [dk branch](https://github.com/Deducteam/hol-light/tree/dk).
 
 - [Thiago Felicissimo](http://www.lsv.fr/~felicissimo/): [Agda2Dedukti](https://github.com/Deducteam/Agda2Dedukti), Canonical Dedukti
 
