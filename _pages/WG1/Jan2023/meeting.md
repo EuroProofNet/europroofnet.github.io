@@ -33,21 +33,35 @@ Remark: the official dates of the meeting taken into account for reimbursements 
 **Cost:** Participants will have to pay for their travel, bedroom and meals at Villa Clythia. To cover the bedroom and meals, the daily allowance is fixed at 110 euros. See the [reimbursement rules](https://europroofnet.github.io/reimbursement-rules/) for more details.
 
 **Participants (14):**
-- [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/): [Lambdapi](https://github.com/Deducteam/lambdapi), HOL-Light or Isabelle/HOL libraries to Coq
+
+- [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/) fixed small bugs in [Lambdapi](https://github.com/Deducteam/lambdapi) and developed a new translator from [HOL-Light](https://www.cl.cam.ac.uk/~jrh13/hol-light/) to Dedukti and Lambdapi based on a fork of HOL-Light.
+
 - [Thiago Felicissimo](http://www.lsv.fr/~felicissimo/): [Agda2Dedukti](https://github.com/Deducteam/Agda2Dedukti), Canonical Dedukti
+
 - Yoan Géran: coherent logic to Dedukti
+
 - [Predrag Janičić](http://poincare.matf.bg.ac.rs/~janicic/): coherent logic and [Larus](https://github.com/janicicpredrag/Larus) to Dedukti
-- [Julien Narboux](https://dpt-info.di.unistra.fr/~narboux/): coherent logic and [Larus](https://github.com/janicicpredrag/Larus) to Dedukti
+
+- [Julien Narboux](https://dpt-info.di.unistra.fr/~narboux/) and Predrag Janicic developed with the help of Artur Korniłowicz support for exporting proofs from their coherent logic prover called [Larus](https://github.com/janicicpredrag/Larus) to the proof assistant Mizar. Julien Narboux and Yohan Geran discussed the transformation of proofs into coherent logic form, the generation of tactic based proofs from predicate logic and the integration of the GeoCoq library into Logipedia.
+
 - [Emilie Grienenberger](http://www.lsv.fr/~grienenberger/): [HOLLightToDk](https://github.com/Deducteam/HOLLightToDk)
+
 - [Claudio Sacerdoti Coen](http://www.cs.unibo.it/~sacerdot/): [type classes in Lambdapi](https://github.com/Deducteam/lambdapi/pull/418) using [Elpi](https://github.com/LPCIC/elpi)
+
 - [Enrico Tassi](http://www-sop.inria.fr/members/Enrico.Tassi/): [type classes in Lambdapi](https://github.com/Deducteam/lambdapi/pull/418) using [Elpi](https://github.com/LPCIC/elpi)
+
 - [Amélie Ledein](http://www.lsv.fr/~ledein/): [K](https://kframework.org/) and [Metamath](https://us.metamath.org/) to Dedukti
-- Thomas Traversié: set theory in Lambdapi
+
+- Thomas Traversié worked on the elimination of the user-defined rewriting rules in a Dedukti theory. Such a transformation is done by replacing these rewriting rules with axioms. The main difficulty is to handle the different possible translations of a term, depending on where the rewriting rules are applied. He started to implement this technique.
+
 - [Simon Guilloud](https://people.epfl.ch/simon.guilloud): set theory and [Lisa](https://github.com/epfl-lara/lisa) to Dedukti
-- Claude Stolze: [Atelier B](https://www.atelierb.eu/) to Dedukti
+
+- Claude Stolze finished implementing a translator from [Atelier B](https://www.atelierb.eu/) proof obligations (in POG format) to Lambdapi. 5387 POG files (5.7 GiB) have been processed and the resulting Lambdapi files have been typechecked successfully. This will be the basis for proving these proof obligations using external tools.
+
 - [Artur Korniłowicz](http://math.uwb.edu.pl/~arturk/): [Mizar](http://mizar.org/) to Dedukti
-<!-- - [Bruno Barras](http://www.lix.polytechnique.fr/~barras/): reduction engine of Lambdapi-->
+
 - Gabriel Hondet: [personoj](https://github.com/Deducteam/personoj) (PVS to Dedukti) and [STTfaxport](https://github.com/Deducteam/sttfaxport) (Dedukti to other provers)
+
 - François Thiré: [universo](https://github.com/Deducteam/universo) and and [STTfaxport](https://github.com/Deducteam/sttfaxport) (Dedukti to other provers)
 
 **Thursday 26 January (optional, for people who arrives the day before the meeting):**
