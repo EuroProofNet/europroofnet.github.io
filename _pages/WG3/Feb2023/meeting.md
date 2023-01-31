@@ -29,10 +29,14 @@ This meeting aims to
 
 
 ## Organization
-
 ### List of registered participants
 
 [List of participants](./ParticipantsWG3Timisoara.pdf).
+
+### Program
+
+[Program](./WG3-Timisoara-program.pdf).
+
 
 ### Registration / Application procedure
 
@@ -48,6 +52,7 @@ If you have any questions, please contact M&#259;d&#259;lina Era&#x219;cu (madal
 ***Registration open***
 
 * Application deadline (to get funded): January 22, 2023. (Extended)  <br> <!--*Applications received by this date will receive priority for reimbursement*.-->
+
 
 * Registration deadline: January 22, 2023
 

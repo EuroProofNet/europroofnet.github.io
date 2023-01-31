@@ -61,7 +61,7 @@ Remark: the official dates of the meeting taken into account for reimbursements 
 
 - [Artur Korniłowicz](http://math.uwb.edu.pl/~arturk/): [Mizar](http://mizar.org/) to Dedukti
 
-- Gabriel Hondet: [personoj](https://github.com/Deducteam/personoj) (PVS to Dedukti) and [STTfaxport](https://github.com/Deducteam/sttfaxport) (Dedukti to other provers)
+- Gabriel Hondet documented the exporter [personoj](https://github.com/Deducteam/personoj) (PVS to Dedukti) planning for a new release. He provided a quickstart guide, how-to guides to run the test suites and to check the output of personoj, and additional notes for developers of personoj. He also contributed to [STTfaXport](https://github.com/Deducteam/sttfaxport) and released an [initial beta version](https://github.com/Deducteam/sttfaxport/releases/tag/20230131). He also documented a feature of [Lambdapi](https://github.com/Deducteam/lambdapi) (https://github.com/Deducteam/lambdapi/commit/7f1da661a9899f1d4f7a98ecf1619fc612eaa042) and discussed a revised API for Dedukti with François Thiré.
 
 - François Thiré worked on dkcheck, dkmeta, and universo, to make them
 robust and easier to interact with (in particular to get a modular
