@@ -29,14 +29,13 @@ This meeting aims to
 
 
 ## Organization
-
 ### List of registered participants
 
 [List of participants](./ParticipantsWG3Timisoara.pdf).
 
 ### Program
 
-[Program](./ParticipantsWG3Timisoara.pdf).
+[Program](./WG3-Timisoara-program.pdf).
 
 
 ### Registration / Application procedure
