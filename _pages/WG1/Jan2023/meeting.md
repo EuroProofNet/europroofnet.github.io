@@ -63,7 +63,16 @@ Remark: the official dates of the meeting taken into account for reimbursements 
 
 - Gabriel Hondet: [personoj](https://github.com/Deducteam/personoj) (PVS to Dedukti) and [STTfaxport](https://github.com/Deducteam/sttfaxport) (Dedukti to other provers)
 
-- François Thiré: [universo](https://github.com/Deducteam/universo) and and [STTfaxport](https://github.com/Deducteam/sttfaxport) (Dedukti to other provers)
+- François Thiré worked on dkcheck, dkmeta, and universo, to make them
+robust and easier to interact with (in particular to get a modular
+proof exporter of the Isabelle proofs encoded into the STTfa
+logic). The main task was to provide users with an API that is safe
+and convenient. This work led to a new API which is better (especially
+regarding safety) and with less side-effects. This should help the
+future developments of interoperability projects using the Dk tools
+API. In particular, this should ease the integration with
+[STTfaxport](https://github.com/Deducteam/sttfaxport), a tool to
+export proofs from the logic STTfa to various proof systems.
 
 **Thursday 26 January (optional, for people who arrives the day before the meeting):**
 
