@@ -46,9 +46,17 @@ Remark: the official dates of the meeting taken into account for reimbursements 
 
 - [Emilie Grienenberger](http://www.lsv.fr/~grienenberger/): [HOLLightToDk](https://github.com/Deducteam/HOLLightToDk)
 
-- [Claudio Sacerdoti Coen](http://www.cs.unibo.it/~sacerdot/): [type classes in Lambdapi](https://github.com/Deducteam/lambdapi/pull/418) using [Elpi](https://github.com/LPCIC/elpi)
-
-- [Enrico Tassi](http://www-sop.inria.fr/members/Enrico.Tassi/): [type classes in Lambdapi](https://github.com/Deducteam/lambdapi/pull/418) using [Elpi](https://github.com/LPCIC/elpi)
+- [Claudio Sacerdoti Coen](http://www.cs.unibo.it/~sacerdot/) and
+[Enrico Tassi](http://www-sop.inria.fr/members/Enrico.Tassi/) patched
+CoqInE to export type-class related information to Dedukti file
+(i.e. what symbols are typeclass declaration/instantces); wrote bash
+scripts to translate the CoqInE output to Lambdapi; embedded
+[Elpi](https://github.com/LPCIC/elpi) into Lambdapi (see
+[PR#418](https://github.com/Deducteam/lambdapi/pull/418)) and used it
+to automatically find instances of type-classes, both natively and up
+to the encoding used in CoqInE. They also documented how to export
+Isabelle files not in the standard library to Lambdapi, with the aim
+of enriching the output with type class related annotations.
 
 - [Amélie Ledein](http://www.lsv.fr/~ledein/)
 [K](https://kframework.org/) and [Metamath](https://us.metamath.org/) to Dedukti
