@@ -38,7 +38,7 @@ Remark: the official dates of the meeting taken into account for reimbursements 
 
 - [Thiago Felicissimo](http://www.lsv.fr/~felicissimo/): [Agda2Dedukti](https://github.com/Deducteam/Agda2Dedukti), Canonical Dedukti
 
-- Yoan Géran: coherent logic to Dedukti
+- Yoan Géran worked on a tool to translate proofs from a Dedukti encoding of the Predicate logic to the tactic language of Coq. He used it to translate the [proofs of the first book of Euclid](https://github.com/Karnaj/plth_geocoq_euclid) (from the Geocoq library) to [Coq](https://github.com/Karnaj/dktactgeo). The result is more readable than the one obtained previously using the [export from STTFA](https://github.com/Karnaj/sttfa_geocoq_euclid).
 
 - [Predrag Janičić](http://poincare.matf.bg.ac.rs/~janicic/): coherent logic and [Larus](https://github.com/janicicpredrag/Larus) to Dedukti
 
