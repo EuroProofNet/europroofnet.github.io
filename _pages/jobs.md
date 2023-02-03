@@ -7,7 +7,7 @@ author_profile: true
 
 To contribute to the web site, please open an [issue](https://github.com/EuroProofNet/europroofnet.github.io/issues), create a [pull request](https://github.com/EuroProofNet/europroofnet.github.io) or send a mail to the [science communication coordinators](../contact).
 
-- 3 February 2023: 4-year [PhD position](https://utwentecareers.nl/en/vacancies/1044/phd-position-on-verification-of-efficient-and-secure-parallel-algorithms/) at the University of Twente on the verification of efficient and secure parallel algorithms. Application deadline: 28 February 2023, contact: [Peter Lammich](https://people.utwente.nl/p.lammich).
+- 3 February 2023: 4-year [PhD position](https://utwentecareers.nl/en/vacancies/1044/phd-position-on-verification-of-efficient-and-secure-parallel-algorithms/) at the University of Twente, the Netherlands on the verification of efficient and secure parallel algorithms. Application deadline: 28 February 2023, contact: [Peter Lammich](https://people.utwente.nl/p.lammich).
 
 - 3 February 2023: Three faculty positions at the University of Copenhagen, Denmark in [Systems and Software Engineering](https://di.ku.dk/english/about/vacancies/associate-professorship-in-systems-and-software-engineering/) (Associate level), [Quantum Computing](https://di.ku.dk/english/about/vacancies/tenure-track-assistant-professor-associate-professorfull-professor-in-quantum-computer-science/) (open rank), and [Data Management](https://di.ku.dk/english/about/vacancies/tenure-track-assistant-professorassociate-professorfull-professor-in-data-management-systems/) open rank. Topics interpreted broadly. See the respective calls for deadlines and contacts.
 
