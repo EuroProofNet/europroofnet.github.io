@@ -21,6 +21,7 @@ the [Grant Holder](mailto:saf-saclay-recettes@inria.fr).
 - [Eligibility rules](../eligibility)
 - [Reimbursement rules](../reimbursement-rules)
 - [Management Committee meetings](../mc-meetings)
+- [Deliverables](../deliverables)
 
 **Core group**
 

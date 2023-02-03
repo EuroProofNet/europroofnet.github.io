@@ -67,7 +67,13 @@ of enriching the output with type class related annotations.
 
 - Claude Stolze finished implementing a translator from [Atelier B](https://www.atelierb.eu/) proof obligations (in POG format) to Lambdapi. 5387 POG files (5.7 GiB) have been processed and the resulting Lambdapi files have been typechecked successfully. This will be the basis for proving these proof obligations using external tools.
 
-- [Artur Korniłowicz](http://math.uwb.edu.pl/~arturk/): [Mizar](http://mizar.org/) to Dedukti
+- [Artur Korniłowicz](http://math.uwb.edu.pl/~arturk/) worked on a
+tool for the fully automatic translation of definitions and statements
+(theorems, schemas, registrations, and reductions) collected in the
+[Mizar](http://mizar.org/) Mathematical Library into Lambdapi.  The
+first result is the translation of definitions and statements
+involving notions without hidden arguments.  He also cooperated on the
+export of Larus proofs into the Mizar proof assistant.
 
 - Gabriel Hondet documented the exporter [personoj](https://github.com/Deducteam/personoj) (PVS to Dedukti) planning for a new release. He provided a quickstart guide, how-to guides to run the test suites and to check the output of personoj, and additional notes for developers of personoj. He also contributed to [STTfaXport](https://github.com/Deducteam/sttfaxport) and released an [initial beta version](https://github.com/Deducteam/sttfaxport/releases/tag/20230131). He also documented a feature of [Lambdapi](https://github.com/Deducteam/lambdapi) (https://github.com/Deducteam/lambdapi/commit/7f1da661a9899f1d4f7a98ecf1619fc612eaa042) and discussed a revised API for Dedukti with François Thiré.
 
