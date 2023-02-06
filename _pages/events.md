@@ -11,6 +11,8 @@ author_profile: true
 
 **Past events:**
 
+- 27-29 January 2023: [2nd Dedukti tools developers meeting](../dk-meeting2), Fréjus, France
+- 1st January 2023: deadline for [STSM](../grants) proposals
 - 24 October 2022: [2nd Management Committee meeting](/mc-meetings)
 - 16-18 October 2022: [Dedukti tools developers meeting](/dk-meeting1), Val d'Ajol, France
 - 23-24 September 2022: [EuroProofNet workshop on the development, maintenance, refactoring and search of large libraries of proofs](/wg4-meeting1), Tbilisi, Georgia

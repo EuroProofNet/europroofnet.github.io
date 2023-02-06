@@ -26,13 +26,15 @@ to the [working groups](../wg) you are interested in (it is free and open to any
 
 **Coming events:**
 
-- 1st January 2023: [deadline for STSM proposals](../grants)
-
-- 27-29 January 2023: [2nd Dedukti tools developers meeting](../dk-meeting2), Fréjus, France
-
 - 8-9 February 2023: [WG3 meeting on program verification](../wg3-timisoara), Timisoara, Romania
 
+- 1st March 2023: [deadline for STSM and ITCG proposals](../grants)
+
 - 24-25 April 2023: [WG6 meeting](../wg6-vienna), Vienna, Austria
+
+- 11-13 May 2023: WG2 meeting/Dedukti tools developers meeting on automated theorem provers (dates and place to be confirmed)
+
+- 13 July 2023: WG2 meeting/TPTP tea party, ENS Paris-Saclay, France
 
 [Past events](../events)
 
