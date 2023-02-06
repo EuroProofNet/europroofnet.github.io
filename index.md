@@ -15,14 +15,22 @@ EuroProofNet is the European research network on digital proofs.
 **EuroProofNet aims at boosting the interoperability and usability of
 proof systems**.
 It is a [COST](http://cost.eu) action started on November 2021
-now gathering about [300 researchers](https://www.cost.eu/actions/CA20111/#tabs+Name:Working%20Groups%20and%20Membership) from [40 different countries](../groups), chaired by [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/) and a [Core group](../contact).
+gathering more than [320 researchers](https://www.cost.eu/actions/CA20111/#tabs+Name:Working%20Groups%20and%20Membership) from [42 different countries](../groups), chaired by [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/) and a [Core group](../contact).
 EuroProofNet organizes [meetings and schools](../events), and provides
 [grants](../grants) to its members for short-term scientific missions
-in another country. [Learn more...](../description) &nbsp; [Objectives](../objectives) &nbsp; [Deliverables](../deliverables)
+in another country. [Learn more...](../description) &nbsp; [Objectives](../objectives) &nbsp; [Deliverables](../deliverables) [Questions?](../contact)
 
 To join the action, simply
 [apply](https://e-services.cost.eu/action/CA20111/working-groups/apply)
-to the [working groups](../wg) you are interested in (it is free and open to anyone).
+to the [working groups](../wg) you are interested in (it is free and open to anyone interested by proof systems)!
+
+The EuroProofNet website provides also many useful information about
+[proof tools](../tools), [research groups](../groups), third-party
+[schools](../schools) and [conferences](../conferences), [job
+offers](../jobs), [teaching](../teaching) material and websites,
+useful links on [gender](../gender-balance) balance issues,
+etc. (check the tabs on the top and the menu icon on the top right
+corner)
 
 **Coming events:**
 
@@ -38,4 +46,3 @@ to the [working groups](../wg) you are interested in (it is free and open to any
 
 [Past events](../events)
 
-[Questions?](../contact)
