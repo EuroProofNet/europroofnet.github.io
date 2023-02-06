@@ -40,9 +40,7 @@ Remark: the official dates of the meeting taken into account for reimbursements 
 
 - Yoan Géran worked on a tool to translate proofs from a Dedukti encoding of the Predicate logic to the tactic language of Coq. He used it to translate the [proofs of the first book of Euclid](https://github.com/Karnaj/plth_geocoq_euclid) (from the Geocoq library) to [Coq](https://github.com/Karnaj/dktactgeo). The result is more readable than the one obtained previously using the [export from STTFA](https://github.com/Karnaj/sttfa_geocoq_euclid).
 
-- [Predrag Janičić](http://poincare.matf.bg.ac.rs/~janicic/): coherent logic and [Larus](https://github.com/janicicpredrag/Larus) to Dedukti
-
-- [Julien Narboux](https://dpt-info.di.unistra.fr/~narboux/) and Predrag Janicic developed with the help of Artur Korniłowicz support for exporting proofs from their coherent logic prover called [Larus](https://github.com/janicicpredrag/Larus) to the proof assistant Mizar. Julien Narboux and Yohan Geran discussed the transformation of proofs into coherent logic form, the generation of tactic based proofs from predicate logic and the integration of the GeoCoq library into Logipedia.
+- [Julien Narboux](https://dpt-info.di.unistra.fr/~narboux/) and [Predrag Janičić](http://poincare.matf.bg.ac.rs/~janicic/) developed with the help of Artur Korniłowicz support for exporting proofs from their coherent logic prover called [Larus](https://github.com/janicicpredrag/Larus) to the proof assistant Mizar. Julien Narboux and Yohan Geran discussed the transformation of proofs into coherent logic form, the generation of tactic based proofs from predicate logic and the integration of the GeoCoq library into Logipedia.
 
 - [Emilie Grienenberger](http://www.lsv.fr/~grienenberger/): [HOLLightToDk](https://github.com/Deducteam/HOLLightToDk)
 
@@ -58,12 +56,9 @@ to the encoding used in CoqInE. They also documented how to export
 Isabelle files not in the standard library to Lambdapi, with the aim
 of enriching the output with type class related annotations.
 
-- [Amélie Ledein](http://www.lsv.fr/~ledein/)
-[K](https://kframework.org/) and [Metamath](https://us.metamath.org/) to Dedukti
-
 - Thomas Traversié worked on the elimination of the user-defined rewriting rules in a Dedukti theory. Such a transformation is done by replacing these rewriting rules with axioms. The main difficulty is to handle the different possible translations of a term, depending on where the rewriting rules are applied. He started to implement this technique.
 
-- [Simon Guilloud](https://people.epfl.ch/simon.guilloud) and Amélie Ledein have implemented Sequent Calculus inside Lambdapi. Simon have explored variants of FOL where conjunctions and disjunctions are represented as lists and the possibility of using Lambdapi's rewrite system to compute partial normal forms of formulas. He also has started a reduction of the Sequent Calculus system to Natural Deduction and lambda calculus (using Curry-Howard).
+- [Simon Guilloud](https://people.epfl.ch/simon.guilloud) and [Amélie Ledein](http://www.lsv.fr/~ledein/) have implemented Sequent Calculus inside Lambdapi. Simon have explored variants of FOL where conjunctions and disjunctions are represented as lists and the possibility of using Lambdapi's rewrite system to compute partial normal forms of formulas. He also has started a reduction of the Sequent Calculus system to Natural Deduction and lambda calculus (using Curry-Howard).
 
 - Claude Stolze finished implementing a translator from [Atelier B](https://www.atelierb.eu/) proof obligations (in POG format) to Lambdapi. 5387 POG files (5.7 GiB) have been processed and the resulting Lambdapi files have been typechecked successfully. This will be the basis for proving these proof obligations using external tools.
 
