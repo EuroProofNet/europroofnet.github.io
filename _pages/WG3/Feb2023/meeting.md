@@ -37,6 +37,13 @@ This meeting aims to
 
 [Program](./WG3-Timisoara-program.pdf).
 
+### Lunch
+
+We recomend the following restaurant which are close to the university:
+* Zaza, Blvd Vasile Parvan, nr. 9 (https://zazarestopub.ro)
+* Anturaj, Blvd Vasile Parvan, nr. 5 (https://www.facebook.com/anturaj.tm/?locale=ro_RO)
+* Riviere, Parcul Justitiei, nr. 1 (https://riviere.ro)
+* Restaurant of Hotel Savoy, Splaiul Tudor Vladimirescu nr. 2 (https://www.hotelsavoytimisoara.ro/ro)
 
 ### Registration / Application procedure
 
@@ -71,11 +78,15 @@ Registration is free of charge. Coffee breaks are included.
 
 The meeting will take place at West University of Timisoara, Romania, blvd. Vasile Parvan, nr.4, room 045C.
 
-#### How to get there?
+#### How to get to Timisoara?
 
 * air travel to Timisoara: [Traian Vuia Timisoara Airport](http://aerotim.ro/index.php?pg=sosiri&lang=en)
 * via Bucuresti: various (from Bucuresti to Timisoara by plane – 1h or by train – 10 h).
 * via Budapest: various (from Budapest to Timisoara by plane – 1h or by train – 7h or by bus – 5h)
+
+#### Local transportation
+* There are taxi companies which you can call to order a taxi: https://www.timisoreni.ro/info/firme_taxi/. I don't know if it is possible to pay by card.
+* More conveniently, you can use Uber or Bolt application.
 
 #### Accommodation
 
@@ -93,42 +104,8 @@ Distance from the conference place by walking: 12 minutes<br>
 http://www.hoteltimisoara.ro/
 
 
-### Program
-
-There will be talks and small working groups in order to make progress on EuroProofNet [objectives](https://europroofnet.github.io/objectives) and [deliverables](https://europroofnet.github.io/deliverables). See [previous WG3 meeting](https://europroofnet.github.io/wg3-meeting1/).
-
-The event is scheduled as a two-day meeting. 
-
-<!--[Full program](https://europroofnet.github.io/wg3-meeting1-program) with presentations.-->
-
-Program schedule (tentative, times are EET)
-
-**Day 1**
-
-| Time      | Session |
-| ----------- | ----------- |
-| 09:00-09:30      | Registration, Opening & Presentation       |
-| 09:30-11:00   | Session 1        |
-| 11:00-11:30 | _Coffee Break_ |
-| 11:30-12:30 | Session 2 |
-| 12:30-14:00 | _Lunch_ |
-| 14:00-15:30 | Session 3: Interaction |
-| 15:30-16:00 | _Coffee Break_ |
-| 16:00-17:00 | Wrapping-up: Conclusions of the day & plan |
-
-**Day 2**
-
-| Time      | Session |
-| ----------- | ----------- |
-| 09:00-11:00      | Day presentation & Session 4       |
-| 11:00-11:30   | _Coffee Break_      |
-| 11:30-12:30 | Session 5 |
-| 12:30-14:00 | _Lunch_ |
-| 14:00-15:30 | Session 6: Interaction |
-| 15:30-16:00 | _Coffee Break_ |
-| 16:00-17:00 | Wrapping-up |
-
-
 ### Local Organization
 
 * M&#259;d&#259;lina Era&#x219;cu
+* Ciprian Baciu
+* Theodor Grumeza
