@@ -18,7 +18,7 @@ It is a [COST](http://cost.eu) action started on November 2021
 gathering more than [320 researchers](https://www.cost.eu/actions/CA20111/#tabs+Name:Working%20Groups%20and%20Membership) from [42 different countries](../groups), chaired by [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/) and a [Core group](../contact).
 EuroProofNet organizes [meetings and schools](../events), and provides
 [grants](../grants) to its members for short-term scientific missions
-in another country. [Learn more...](../description) &nbsp; [Objectives](../objectives) &nbsp; [Deliverables](../deliverables) [Questions?](../contact)
+in another country. [Learn more...](../description) &nbsp; [Objectives](../objectives) &nbsp; [Deliverables](../deliverables) &nbsp; [Questions?](../contact)
 
 To join the action, simply
 [apply](https://e-services.cost.eu/action/CA20111/working-groups/apply)
@@ -30,7 +30,7 @@ The EuroProofNet website provides also many useful information about
 offers](../jobs), [teaching](../teaching) material and websites,
 useful links on [gender](../gender-balance) balance issues,
 etc. (check the tabs on the top and the menu icon on the top right
-corner)
+corner).
 
 **Coming events:**
 
