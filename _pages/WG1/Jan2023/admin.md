@@ -19,7 +19,7 @@ breadcrumbs: true
 
 - [X] The chair sets up the event on https://e-services.cost.eu/, but not the LOS yet (this will be done later).
 
-- [X] The chair asks the organizer details about the LOS, with copy to the Grant holder. By the way, the chair asks the organizer to carefully read the rules concerning LOS in the COST annotated rules (https://www.cost.eu/uploads/2022/10/COST-094-21-Annotated-Rules-for-COST-Actions-Level-C-V1.3-.pdf#page=92). Note in particular that VAT is not reimbursed.
+- [X] The chair asks the organizer details about the LOS, with copy to the Grant holder. By the way, the chair asks the organizer to carefully read the rules concerning LOS in the COST annotated rules (see https://www.cost.eu/Annotated_Rules_for_COST_Actions_C page 92). Note in particular that VAT is not reimbursed.
 
 - [X] The Grant Holder contacts the organizer to collect the additional data it needs.
 
