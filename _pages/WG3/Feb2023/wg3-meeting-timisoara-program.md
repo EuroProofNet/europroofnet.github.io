@@ -45,8 +45,8 @@ The event is scheduled as a two-day meeting. Times are EET.
   - 9:00 - 9:30: *Deriving Matching Logic Specifications from Program Annotations*. Dorel Lucanu.Alexandru Ioan Cuza University of Iași [(slides)](./Slides/DorelMatching.pdf) [(video)](https://drive.google.com/file/d/1wenQ2VKwLNDYaPvBSZVsvMwvC30puCr4/view?usp=sharing)
   - 9:30 - 9:45: *A language-independent ecosystem for program verification*. Amélie Ledein. ENS Paris-Saclay [(slides)](./Slides/AmelieFramework.pdf) [(video)](https://drive.google.com/file/d/1E73hCu5EXNRHEMvcKRisyBY6P2IZHIMM/view?usp=sharing)
   - 9:45 - 10:00: *Matching Logic and Lean*. Horațiu Cheval. University of Bucharest and Institute for Logic and Data Science [(slides)](./Slides/HoratiuMatching.pdf) [(video)](https://drive.google.com/file/d/1lpWjemFs8SmwsZmIL_9voGo0wS29TPDq/view?usp=sharing)
-  - 10:00-10:15: *Interactive Verification of Java Programs with KeY*. Wolfram Pfeifer. Karlsruhe Institute of Technology [(slides)](./Slides/WolframKEY.pdf) [(video)]()
-  - 10:15 - 10:30: *Interactive proofs for matching logic, using Coq*. Jan Tušil. Masaryk University, Brno [(slides)](./Slides/JanMatching.pdf) [(video)](https://drive.google.com/file/d/1ogqB4yaZRqYh8lkERYqKPAb8TpoVkz-O/view?usp=sharing)
+  - 10:00-10:15: *Interactive Verification of Java Programs with KeY*. Wolfram Pfeifer. Karlsruhe Institute of Technology [(slides)](./Slides/WolframKEY.pdf) [(video)](https://drive.google.com/file/d/1ogqB4yaZRqYh8lkERYqKPAb8TpoVkz-O/view?usp=sharing)
+  - 10:15 - 10:30: *Interactive proofs for matching logic, using Coq*. Jan Tušil. Masaryk University, Brno [(slides)](./Slides/JanMatching.pdf) [(video)](https://drive.google.com/file/d/1VZrjarEfEB2svXZg0O_QEdiVWtJMVr7h/view?usp=sharing)
   - 10:30 - 10:45: *Quantitative intersection types for computational core meet dependency*. Riccardo Treglia. Università di Bologna
 * 10:45 - 11:00: **Discussions**
 * 11:00-11:30 **Coffee Break**
