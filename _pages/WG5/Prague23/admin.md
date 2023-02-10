@@ -13,8 +13,8 @@ breadcrumbs: true
 - [ ] The organizer gives to the chair the exact address, and the starting and ending dates and times:
 
     * [X] complete address: Czech Institute of Informatics, Robotics and Cybernetics (CIIRC CTU), Jugoslávských partyzánů 1580/3, 160 00 Dejvice, Prague, Czech Republic
-    * [ ] starting date and time: 11 April 09:00 ?
-    * [ ] ending date and time: 13 April 17:00 ?
+    * [ ] starting date and time: 18 April 09:00 ?
+    * [ ] ending date and time: 20 April 17:00 ?
 
 - [X] The organizer checks the prices of accommodations and restaurants around the place of the meeting at the dates of the meeting, and sends to the chair a proposal for the daily allowance.
 

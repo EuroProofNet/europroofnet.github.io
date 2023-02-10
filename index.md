@@ -36,11 +36,11 @@ corner).
 
 - 1st March 2023: [deadline for STSM and ITCG proposals](../grants)
 
-- 11-13 April 2023: [Joint Workshops on Practical Aspects of Machine Learning in Theorem Proving (PAMLTP) and Datasets Generation for Data-Deficient Domains (DG4D^3)](../Prague23), Prague, Czech Republic
+- 18-20 April 2023: [Joint Workshops on Practical Aspects of Machine Learning in Theorem Proving (PAMLTP) and Datasets Generation for Data-Deficient Domains (DG4D^3)](../Prague23), Prague, Czech Republic
 
 - 24-25 April 2023: [WG6 meeting](../wg6-vienna), Vienna, Austria
 
-- 11-13 May 2023: WG2 meeting/Dedukti tools developers meeting on automated theorem provers (dates and place to be confirmed)
+- 11-13 May 2023: [Developers meeting on proof generating automated theorem provers](../dk-meeting3) (place to be confirmed)
 
 - 13 July 2023: WG2 meeting/TPTP tea party, ENS Paris-Saclay, France
 
