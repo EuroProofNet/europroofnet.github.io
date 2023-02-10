@@ -59,6 +59,7 @@ The event is scheduled as a two-day meeting. Times are EET.
 ### Photos
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 <img src="/_pages/WG3/Feb2023/Photos/Group.jpg" width="400"/>
 <img src="/_pages/WG3/Feb2023/Photos/Room2.jpg" width="400"/>
 <img src="/_pages/WG3/Feb2023/Photos/Ahmed.jpg" width="400"/>
@@ -69,40 +70,37 @@ The event is scheduled as a two-day meeting. Times are EET.
 <img src="/_pages/WG3/Feb2023/Photos/Wolfram.jpg" width="400"/>
 =======
 [<img src="/_pages/WG3/Feb2023/Photos/Group.jpg" width="400"/>](/_pages/WG3/Feb2023/Photos/Group.jpg)
+=======
+[<img src="../../WG3/Feb2023/Photos/Group.jpg" width="400"/>](../../WG3/Feb2023/Photos/Group.jpg)
+>>>>>>> Revert "wg3 timisoara upd photos"
 
 <br>
 
-<br>
-
-[<img src="/_pages/WG3/Feb2023/Photos/Room1.jpg" width="400"/>](/_pages/WG3/Feb2023/Photos/Room1.jpg)
+[<img src="./Photos/Room2.jpg" width="400"/>](./Photos/Room2.jpg)
 
 <br>
 
-[<img src="/_pages/WG3/Feb2023/Photos/Room2.jpg" width="400"/>](/_pages/WG3/Feb2023/Photos/Room2.jpg)
+[<img src="./Photos/Ahmed.jpg" width="400"/>](./Photos/Ahmed.jpg)
 
 <br>
 
-[<img src="/_pages/WG3/Feb2023/Photos/Ahmed.jpg" width="400"/>](/_pages/WG3/Feb2023/Photos/Ahmed.jpg)
+[<img src="./Photos/Carsten.jpg" width="400"/>](./Photos/Carsten.jpg)
 
 <br>
 
-[<img src="/_pages/WG3/Feb2023/Photos/Carsten.jpg" width="400"/>](/_pages/WG3/Feb2023/Photos/Carsten.jpg)
+[<img src="./Photos/Lilia.jpg" width="400"/>](./Photos/Lilia.jpg)
 
 <br>
 
-[<img src="/_pages/WG3/Feb2023/Photos/Lilia.jpg" width="400"/>](/_pages/WG3/Feb2023/Photos/Lilia.jpg)
+[<img src="./Photos/Ricardo.jpg" width="400"/>](./Photos/Ricardo.jpg)
 
 <br>
 
-[<img src="/_pages/WG3/Feb2023/Photos/Ricardo.jpg" width="400"/>](/_pages/WG3/Feb2023/Photos/Ricardo.jpg)
+[<img src="./Photos/Traian.jpg" width="400"/>](./Photos/Traian.jpg)
 
 <br>
 
-[<img src="/_pages/WG3/Feb2023/Photos/Traian.jpg" width="400"/>](/_pages/WG3/Feb2023/Photos/Traian.jpg)
-
-<br>
-
-[<img src="/_pages/WG3/Feb2023/Photos/Wolfram.jpg" width="400"/>](/_pages/WG3/Feb2023/Photos/Wolfram.jpg)
+[<img src="./Photos/Wolfram.jpg" width="400"/>](./Photos/Wolfram.jpg)
 
 
 
