@@ -33,11 +33,23 @@ Both workshops solicit contributed talks backed up by an extended abstract of up
 
 The travel and accommodation of a number of participants (approximately 15) will be supported by the [Cost Action CA20111 - European Research Network on Formal Proofs](https://europroofnet.github.io/).
 If you want to be funded, please
-Check the [eligibility](https://europroofnet.github.io/eligibility) and [reimbursement](https://europroofnet.github.io/reimbursement-rules/) rules to know whether you can be funded.
+check the [eligibility](https://europroofnet.github.io/eligibility) and [reimbursement](https://europroofnet.github.io/reimbursement-rules/) rules to know whether you can be funded.
 [Register](https://e-services.cost.eu/action/CA20111/working-groups/apply) to EuroProofNet if not already done.
-Fill in the [following form](https://docs.google.com/forms/d/e/1FAIpQLSeFTGEY83NeryEMKe-_485uwdTkguhkJpvNkVRsdpoSyMxIlQ/viewform?usp=sf_link).
-Notifications will be sent on **March 17**.
+Fill in the [following form](https://docs.google.com/forms/d/e/1FAIpQLSeFTGEY83NeryEMKe-_485uwdTkguhkJpvNkVRsdpoSyMxIlQ/viewform?usp=sf_link) before March 10.
+Notifications will be sent on March 17 maximum.
 
-After the meeting (within 2 weeks), upload on e-cost a copy of your flight/train tickets. Note, that the selected participants will have **2 weeks** to accept the invitation sent from e-cost. If you do not accept the invitation on e-cost within the **2 weeks**, you will not be able to be reimbursed. The support will be a flat rate of a little bit more than n*110 where n <= 4 is the number of nights.
+Participants selected to be reimbursed will receive a formal
+invitation. If they do not accept the invitation on e-cost within the
+2 weeks, their invitation will be canceled and they will not be
+reimbursed.
 
-COST (European Cooperation in Science and Technology) is a funding agency for research and innovation networks. Our Actions help connect research initiatives across Europe and enable scientists to grow their ideas by sharing them with their peers. This boosts their research, career and innovation.
+After the meeting, they will have to upload on e-cost a copy of their
+flight/train tickets, and hotel and meal bills. The support is a flat
+rate of a little bit more than n*110 euros where n is the number
+attended workshop days, plus the travel.
+
+COST (European Cooperation in Science and Technology) is a funding
+agency for research and innovation networks. Its Actions help connect
+research initiatives across Europe and enable scientists to grow their
+ideas by sharing them with their peers. This boosts their research,
+career and innovation.
