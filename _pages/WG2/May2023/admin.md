@@ -12,10 +12,10 @@ breadcrumbs: true
 
 - [ ] The organizer gives to the chair the exact address, and the starting and ending dates and times of the meeting.
 
-    * [ ] complete address: ENS Paris-Saclay, 4 avenue des Sciences, 91190 Gif-sur-Yvette, France
-    * [ ] starting date and time: 13 July 2023, 09:00
-    * [ ] ending date and time: 13 July 2023, 18:00
-    * [ ] daily allowance: 125 euros
+    * [ ] complete address: ?
+    * [ ] starting date and time: 11 May 2023, 09:00?
+    * [ ] ending date and time: 13 May 2023, 17:00?
+    * [ ] daily allowance: 140 euros?
 
 - [ ] The chair sets up the event on https://e-services.cost.eu/, but not the LOS yet (this will be done later).
 
