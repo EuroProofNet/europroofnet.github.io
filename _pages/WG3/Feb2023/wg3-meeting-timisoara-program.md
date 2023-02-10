@@ -55,56 +55,39 @@ The event is scheduled as a two-day meeting. Times are EET.
 * 16:00-17:00 **Wrapping-up: Setting the agenda for the year**
   
 ### Participants:
-[List of participants](./ParticipantsWG3Timisoara.pdf).
+[List of participants](./ParticipantsWG3Timisoara.pdf)
 ### Photos
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-<img src="/_pages/WG3/Feb2023/Photos/Group.jpg" width="400"/>
-<img src="/_pages/WG3/Feb2023/Photos/Room2.jpg" width="400"/>
-<img src="/_pages/WG3/Feb2023/Photos/Ahmed.jpg" width="400"/>
-<img src="/_pages/WG3/Feb2023/Photos/Carsten.jpg" width="400"/>
-<img src="/_pages/WG3/Feb2023/Photos/Lilia.jpg" width="400"/>
-<img src="/_pages/WG3/Feb2023/Photos/Ricardo.jpg" width="400"/>
-<img src="/_pages/WG3/Feb2023/Photos/Traian.jpg" width="400"/>
-<img src="/_pages/WG3/Feb2023/Photos/Wolfram.jpg" width="400"/>
-=======
 [<img src="/_pages/WG3/Feb2023/Photos/Group.jpg" width="400"/>](/_pages/WG3/Feb2023/Photos/Group.jpg)
-=======
-[<img src="../../WG3/Feb2023/Photos/Group.jpg" width="400"/>](../../WG3/Feb2023/Photos/Group.jpg)
->>>>>>> Revert "wg3 timisoara upd photos"
 
 <br>
 
-[<img src="./Photos/Room2.jpg" width="400"/>](./Photos/Room2.jpg)
+[<img src="/_pages/WG3/Feb2023/Photos/Room1.jpg" width="400"/>](/_pages/WG3/Feb2023/Photos/Room1.jpg)
 
 <br>
 
-[<img src="./Photos/Ahmed.jpg" width="400"/>](./Photos/Ahmed.jpg)
+[<img src="/_pages/WG3/Feb2023/Photos/Room2.jpg" width="400"/>](/_pages/WG3/Feb2023/Photos/Room2.jpg)
 
 <br>
 
-[<img src="./Photos/Carsten.jpg" width="400"/>](./Photos/Carsten.jpg)
+[<img src="/_pages/WG3/Feb2023/Photos/Ahmed.jpg" width="400"/>](/_pages/WG3/Feb2023/Photos/Ahmed.jpg)
 
 <br>
 
-[<img src="./Photos/Lilia.jpg" width="400"/>](./Photos/Lilia.jpg)
+[<img src="/_pages/WG3/Feb2023/Photos/Carsten.jpg" width="400"/>](/_pages/WG3/Feb2023/Photos/Carsten.jpg)
 
 <br>
 
-[<img src="./Photos/Ricardo.jpg" width="400"/>](./Photos/Ricardo.jpg)
+[<img src="/_pages/WG3/Feb2023/Photos/Lilia.jpg" width="400"/>](/_pages/WG3/Feb2023/Photos/Lilia.jpg)
 
 <br>
 
-[<img src="./Photos/Traian.jpg" width="400"/>](./Photos/Traian.jpg)
+[<img src="/_pages/WG3/Feb2023/Photos/Ricardo.jpg" width="400"/>](/_pages/WG3/Feb2023/Photos/Ricardo.jpg)
 
 <br>
 
-[<img src="./Photos/Wolfram.jpg" width="400"/>](./Photos/Wolfram.jpg)
+[<img src="/_pages/WG3/Feb2023/Photos/Traian.jpg" width="400"/>](/_pages/WG3/Feb2023/Photos/Traian.jpg)
 
+<br>
 
-
-
-
-
->>>>>>> wg3 timisoara upd photos
+[<img src="/_pages/WG3/Feb2023/Photos/Wolfram.jpg" width="400"/>](/_pages/WG3/Feb2023/Photos/Wolfram.jpg)
