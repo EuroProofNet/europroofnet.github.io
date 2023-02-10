@@ -35,7 +35,7 @@ Author notification: Tuesday 7 March
 Funding requests: Thursday 19 March  
 Registration: Friday 7 April  
 
-**Registration & funding:** Registration will be open soon. A limited amount of funding is available to reimburse expenses. The application for funding will be open together with registration.
+**Registration & funding:** Please register [here](https://forms.gle/8kpR32bdid4inLFN7). The registration form includes the options to submit a talk proposal and to apply for funding. (A limited amount of funding is available to reimburse expenses.)
 
 **Organizers:** [Paige Randall North](https://paigenorth.github.io/) and [Jacopo Emmenegger](https://jacopoemmenegger.wordpress.com/)
 
