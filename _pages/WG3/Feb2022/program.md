@@ -105,7 +105,9 @@ Online:
 
 ### Photos
 
-[<img src="/_pages/WG3/Feb2022/WG3-meeting-session4.jpg" width="400"/>](/_pages/WG3/Feb2022/WG3-meeting-session4.jpg)
+<p>Click on the </p>
+
+[<img src="/_pages/WG3/Feb2022/WG3-meeting-session4.jpg" width=50% height=50%>/>](/_pages/WG3/Feb2022/WG3-meeting-session4.jpg)
 
 <br>
 
