@@ -1,36 +1,36 @@
 ---
-title: "Administration page for the WG6 meeting in Vienna in April 2023"
+title: "Administration page for the WG5 meeting on April 2023"
 layout: single
-permalink: /wg6-vienna-admin/
+permalink: /Prague23-admin/
 author_profile: true
 breadcrumbs: true
 ---
 
 ### at least 2 months before the meeting:
 
-- [ ] The chair asks the organizer the exact address, the starting and ending dates and times of the meeting, and the daily allowance. The daily allowance should cover the cost of an hotel night + the meals + local transport if hotels are far from the meeting place. It has to be fixed at the right level so that people get reimbursed of what they need to spend but not too much so that we can invite more people. Note that the daily allowance cannot be changed once invitations have been sent.
+- [X] The chair asks the organizer the exact address, the starting and ending dates and times of the meeting, and the daily allowance. The daily allowance should cover the cost of an hotel night + the meals + local transport if hotels are far from the meeting place. It has to be fixed at the right level so that people get reimbursed of what they need to spend but not too much so that we can invite more people. Note that the daily allowance cannot be changed once invitations have been sent.
 
 - [ ] The organizer gives to the chair the exact address, and the starting and ending dates and times:
 
-    * [ ] complete address:
-    * [ ] starting date and time:
-    * [ ] ending date and time:
+    * [X] complete address: Czech Institute of Informatics, Robotics and Cybernetics (CIIRC CTU), Jugoslávských partyzánů 1580/3, 160 00 Dejvice, Prague, Czech Republic
+    * [ ] starting date and time: 11 April 09:00 ?
+    * [ ] ending date and time: 13 April 17:00 ?
 
-- [ ] The organizer checks the prices of accommodations and restaurants around the place of the meeting at the dates of the meeting, and sends to the chair a proposal for the daily allowance.
+- [X] The organizer checks the prices of accommodations and restaurants around the place of the meeting at the dates of the meeting, and sends to the chair a proposal for the daily allowance.
 
-    * [ ] daily allowance: 100 euros
+    * [X] daily allowance: 110 euros
 
 - [ ] The chair sets up the event on https://e-services.cost.eu/, but not the LOS yet (this will be done later).
 
-- [ ] The chair asks the organizer details about the LOS, with copy to the Grant holder. By the way, the chair asks the organizer to carefully read the rules concerning LOS in the COST annotated rules (see https://www.cost.eu/Annotated_Rules_for_COST_Actions_C page 92). Note in particular that VAT is not reimbursed.
+- [X] The chair asks the organizer details about the LOS, with copy to the Grant holder. By the way, the chair asks the organizer to carefully read the rules concerning LOS in the COST annotated rules (see https://www.cost.eu/Annotated_Rules_for_COST_Actions_C page 92). Note in particular that VAT is not reimbursed.
 
-- [ ] The organizer sends to the chair and the Grant Holder the details of the LOS.
+- [X] The organizer sends to the chair and the Grant Holder the details of the LOS.
 
-- [ ] The Grant Holder checks the eligibility of the LOS and sends the result to the organizer and the chair.
+- [X] The Grant Holder checks the eligibility of the LOS and sends the result to the organizer and the chair.
 
-- [ ] The chair and the organizer fix the deadline for reimbursement applications at least 1 month before the meeting, and the date of a core group meeting within 1 week after the deadline, to decide which participants will be reimbursed.
+- [X] The chair and the organizer fix the deadline for reimbursement applications at least 1 month before the meeting, and the date of a core group meeting within 1 week after the deadline, to decide which participants will be reimbursed.
 
-- [ ] The organizer adds a web page for the meeting on https://europroofnet.github.io/, possibly with the help of the science communication coordinators, with the following information: date, times, place, program, possible hotels, indication on how to get there, participation application procedure, reimbursement application procedure, deadlines.
+- [X] The organizer adds a web page for the meeting on https://europroofnet.github.io/, possibly with the help of the science communication coordinators, with the following information: date, times, place, program, possible hotels, indication on how to get there, participation application procedure, reimbursement application procedure, deadlines.
 
 - [ ] The chair sends the call for participation and reimbursement applications to all action members, at least 1 month before the deadline.
 

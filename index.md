@@ -34,9 +34,9 @@ corner).
 
 **Coming events:**
 
-- 8-9 February 2023: [WG3 meeting on program verification](../wg3-timisoara), Timisoara, Romania
-
 - 1st March 2023: [deadline for STSM and ITCG proposals](../grants)
+
+- 11-13 April 2023: [Joint Workshops on Practical Aspects of Machine Learning in Theorem Proving (PAMLTP) and Datasets Generation for Data-Deficient Domains (DG4D^3)](../Prague23), Prague, Czech Republic
 
 - 24-25 April 2023: [WG6 meeting](../wg6-vienna), Vienna, Austria
 

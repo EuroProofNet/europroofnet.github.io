@@ -11,6 +11,7 @@ author_profile: true
 
 **Past events:**
 
+- 8-9 February 2023: [WG3 meeting on program verification](../wg3-timisoara), Timisoara, Romania
 - 27-29 January 2023: [2nd Dedukti tools developers meeting](../dk-meeting2), Fréjus, France
 - 1st January 2023: deadline for [STSM](../grants) proposals
 - 24 October 2022: [2nd Management Committee meeting](/mc-meetings)
