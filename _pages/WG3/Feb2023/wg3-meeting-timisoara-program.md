@@ -6,6 +6,8 @@ author_profile: true
 breadcrumbs: true
 ---
 
+<img src="/_pages/WG3/Feb2023/Photos/Group_small.jpg"/>
+
 ## February 8-9, 2023
 
 ### Program
@@ -58,7 +60,6 @@ The event is scheduled as a two-day meeting. Times are EET.
 [List of participants](./ParticipantsWG3Timisoara.pdf).
 ### Photos
 
-<img src="/_pages/WG3/Feb2023/Photos/Group.jpg" width="400"/>
 <img src="/_pages/WG3/Feb2023/Photos/Room2.jpg" width="400"/>
 <img src="/_pages/WG3/Feb2023/Photos/Ahmed.jpg" width="400"/>
 <img src="/_pages/WG3/Feb2023/Photos/Carsten.jpg" width="400"/>
