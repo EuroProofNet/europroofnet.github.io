@@ -74,6 +74,8 @@ during the meeting:
 
 - [ ] The organizer takes photos of the event.
 
+- [ ] If possible, the organizer records the talks.
+
 - [ ] The organizer adds photos of the event on https://europroofnet.github.io/.
 
 - [ ] The organizer sends photos to the science communication coordinators.
@@ -85,6 +87,8 @@ during the meeting:
 - [ ] The organizer sends the signed attendance sheets to the chair (PDF files must not exceed 2 Mo).
 
 - [ ] The chair adds the attendance sheets and the program of the meeting on https://e-services.cost.eu/.
+
+- [ ] The organizer adds the slides and the videos of the talks on the web site.
 
 - [ ] The organizer adds its claim for LOS on https://e-services.cost.eu/.
 

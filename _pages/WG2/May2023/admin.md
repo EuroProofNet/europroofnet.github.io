@@ -1,44 +1,37 @@
 ---
-title: "Administration page for the WG6 meeting in Vienna in April 2023"
+title: "Administration page for the Dk dev meeting on May 2023"
 layout: single
-permalink: /wg6-vienna-admin/
+permalink: /dk-meeting3-admin/
 author_profile: true
 breadcrumbs: true
 ---
 
 ### at least 2 months before the meeting:
 
-- [ ] The chair asks the organizer the exact address, the starting and ending dates and times of the meeting, and the daily allowance. The daily allowance should cover the cost of an hotel night + the meals + local transport if hotels are far from the meeting place. It has to be fixed at the right level so that people get reimbursed of what they need to spend but not too much so that we can invite more people. Note that the daily allowance cannot be changed once invitations have been sent.
+- [ ] The chair asks the organizer the exact address, and the starting and ending dates and times of the meeting. The daily allowance should cover the cost of an hotel night + the meals + local transport if hotels are far from the meeting place. It has to be fixed at the right level so that people get reimbursed of what they need to spend but not too much so that we can invite more people. Note that the daily allowance cannot be changed once invitations have been sent.
 
-- [ ] The organizer gives to the chair the exact address, and the starting and ending dates and times:
+- [ ] The organizer gives to the chair the exact address, and the starting and ending dates and times of the meeting.
 
-    * [ ] complete address:
-    * [ ] starting date and time:
-    * [ ] ending date and time:
-
-- [ ] The organizer checks the prices of accommodations and restaurants around the place of the meeting at the dates of the meeting, and sends to the chair a proposal for the daily allowance.
-
-    * [ ] daily allowance: 100 euros
+    * [ ] complete address: ENS Paris-Saclay, 4 avenue des Sciences, 91190 Gif-sur-Yvette, France
+    * [ ] starting date and time: 13 July 2023, 09:00
+    * [ ] ending date and time: 13 July 2023, 18:00
+    * [ ] daily allowance: 125 euros
 
 - [ ] The chair sets up the event on https://e-services.cost.eu/, but not the LOS yet (this will be done later).
 
-- [ ] The chair asks the organizer details about the LOS, with copy to the Grant holder. By the way, the chair asks the organizer to carefully read the rules concerning LOS in the COST annotated rules (see https://www.cost.eu/Annotated_Rules_for_COST_Actions_C page 92). Note in particular that VAT is not reimbursed.
+- [ ] The chair asks the organizer details about the LOS, with copy to the Grant holder. By the way, the chair asks the organizer to carefully read the rules concerning LOS in the COST annotated rules (https://www.cost.eu/uploads/2022/10/COST-094-21-Annotated-Rules-for-COST-Actions-Level-C-V1.3-.pdf#page=92). Note in particular that VAT is not reimbursed.
 
-- [ ] The organizer sends to the chair and the Grant Holder the details of the LOS.
+- [ ] The Grant Holder contacts the organizer to collect the additional data it needs.
 
-- [ ] The Grant Holder checks the eligibility of the LOS and sends the result to the organizer and the chair.
+- [ ] The organizer provides the Grant Holder with the additional data it needs.
 
 - [ ] The chair and the organizer fix the deadline for reimbursement applications at least 1 month before the meeting, and the date of a core group meeting within 1 week after the deadline, to decide which participants will be reimbursed.
 
 - [ ] The organizer adds a web page for the meeting on https://europroofnet.github.io/, possibly with the help of the science communication coordinators, with the following information: date, times, place, program, possible hotels, indication on how to get there, participation application procedure, reimbursement application procedure, deadlines.
 
-- [ ] The chair sends the call for participation and reimbursement applications to all action members, at least 1 month before the deadline.
+- [ ] The chair sends the call for participation and reimbursement applications to all action members.
 
 - [ ] The organizer collects data and files from participants willing to be reimbursed (name, email, country, address, gender, age, dates of arrival and departure, quote for transport, university certificates for master students). To this end, we strongly suggest the organizer to use forms like https://docs.google.com/forms/d/1WgAdt6_BkJiT9u6lSqIQ5p_7955CHFEjbxG2Ucj5gRg or https://docs.google.com/forms/d/12YxrDK-dupOFj5R5CdINvlc6xzW6C5DpEr58JoVmBIg .
-
-- [ ] The Grant Holder contacts the organizer to collect the additional data it needs.
-
-- [ ] The organizer provides the Grant Holder with the additional data it needs.
 
 ### at least 1 month before the meeting:
 
@@ -92,7 +85,7 @@ during the meeting:
 
 - [ ] The organizer adds its claim for LOS on https://e-services.cost.eu/.
 
-- [ ] The selected participants add their reimbursement claims and upload a copy of their travel documents and bills on https://e-services.cost.eu/ within 2 weeks,. Only reimbursement of travels >100 km can be claimed (travels <100 km are included in the daily allowance). Taxis are not reimbursed. The participants shall, in order to see their long-distance travel expenses being reimbursed, attach supporting documents which shall clearly detail: the name of the service provider, the mode of transport taken, the full price paid for the ticket, the name of the passenger if applicable, the travel dates, departure and arrival times (an invoice only showing the amount will not suffice).
+- [ ] The selected participants add their reimbursement claims and upload a copy of their travel documents and bills on https://e-services.cost.eu/ within 2 weeks. Only reimbursement of travels >100 km can be claimed (travels <100 km are included in the daily allowance). Taxis are not reimbursed. The participants shall, in order to see their long-distance travel expenses being reimbursed, attach supporting documents which shall clearly detail: the name of the service provider, the mode of transport taken, the full price paid for the ticket, the name of the passenger if applicable, the travel dates, departure and arrival times (an invoice only showing the amount will not suffice).
 
 - [ ] The Grant Holder checks reimbursement claims.
 
