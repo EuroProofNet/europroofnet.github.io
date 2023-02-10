@@ -57,7 +57,7 @@ The event is scheduled as a two-day meeting. Times are EET.
 * 16:00-17:00 **Wrapping-up: Setting the agenda for the year**
   
 ### Participants:
-[List of participants](./ParticipantsWG3Timisoara.pdf).
+[List of participants](./ParticipantsWG3Timisoara.pdf)
 ### Photos
 
 <img src="/_pages/WG3/Feb2023/Photos/Room2.jpg" width="400"/>
