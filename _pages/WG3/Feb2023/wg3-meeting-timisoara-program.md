@@ -21,7 +21,7 @@ The event is scheduled as a two-day meeting. Times are EET.
   - *The EuroProofNet COST Action. WG3 “Program Verification”. Goals of the meeting.* Mădălina Erașcu, Alicia Villanueva [(slides)](./Slides/MadalinaEPN.pdf)
 * 9:30-11:00 **Talks**
   - 9:30-10:00: *Verification Tools, Exchange Formats, and Combination Approaches*. Dirk Beyer. LMU Munich [(slides)](./Slides/DirkVerification.pdf)
-  - 10:00-10:15: *RAPID software verification framework*. Pamina Georgiou. TU Wien [(slides)](./slides/PaminaRAPID.pdf)
+  - 10:00-10:15: *RAPID software verification framework*. Pamina Georgiou. TU Wien [(slides)](./Slides/PaminaRAPID.pdf)
   - 10:15-10:30: *Verification with Superposition Provers and Induction*. Ahmed Bhayat. University of Manchester [(slides)](./Slides/AhmedVerification.pdf)
   - 10:30-10:45: *Annotation synthesis for C programs using TriCera*. Zafer Esen. Uppsala University [(slides)](./Slides/ZaferTriCera.pdf)
   - 10:45-11:00: *Program analysis and verification*. Lilia Georgieva. Heriot Watt University [(slides)](./Slides/LiliaProgram.pdf)
@@ -58,7 +58,7 @@ The event is scheduled as a two-day meeting. Times are EET.
 [List of participants](./ParticipantsWG3Timisoara.pdf).
 ### Photos
 
-[<img src="./Photos/Group.jpg" width="400"/>](./Photos/Group.jpg)
+![Group Photo](./Photos/Group.jpg "Group Photo")
 
 <br>
 
