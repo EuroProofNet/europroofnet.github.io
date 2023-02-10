@@ -21,21 +21,11 @@ This meeting aims to
 * make an inventory of the approaches used in the international Software Verification competition SV-COMP (Related to Deliverable 1). 
 * realize state-of-the-art for tools approaching program specification as logical axioms; Requirements specification for the corresponding software prototype (Related to Deliverable 2).
 
-<!--## Output
-
-* Final [Report](./ReportWG3meeting.pdf).
-* Some presentations and video recordings have been addded to the [program page](https://europroofnet.github.io/wg3-meeting1-program). Videos are stored on UPV ([terms of use](https://media.upv.es/#/termsofuse) of the video service).-->
-
-
+## Output
+* Final [Report](./ReportWG3meeting-Timisoara.pdf).
+* Some presentations and video recordings have been addded to the [program page](./wg3-meeting-timisoara-program.md).
 
 ## Organization
-### List of registered participants
-
-[List of participants](./ParticipantsWG3Timisoara.pdf).
-
-### Program
-
-[Program](./WG3-Timisoara-program.pdf).
 
 ### Lunch
 
