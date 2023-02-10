@@ -21,13 +21,13 @@ The event is scheduled as a two-day meeting. Times are EET.
   - *The EuroProofNet COST Action. WG3 “Program Verification”. Goals of the meeting.* Mădălina Erașcu, Alicia Villanueva [(slides)](./Slides/MadalinaEPN.pdf)
 * 9:30-11:00 **Talks**
   - 9:30-10:00: *Verification Tools, Exchange Formats, and Combination Approaches*. Dirk Beyer. LMU Munich [(slides)](./Slides/DirkVerification.pdf)
-  - 10:00-10:15: *RAPID software verification framework*. Pamina Georgiou. TU Wien [(slides)](./PaminaRAPID.pdf)
+  - 10:00-10:15: *RAPID software verification framework*. Pamina Georgiou. TU Wien [(slides)](./slides/PaminaRAPID.pdf)
   - 10:15-10:30: *Verification with Superposition Provers and Induction*. Ahmed Bhayat. University of Manchester [(slides)](./Slides/AhmedVerification.pdf)
   - 10:30-10:45: *Annotation synthesis for C programs using TriCera*. Zafer Esen. Uppsala University [(slides)](./Slides/ZaferTriCera.pdf)
   - 10:45-11:00: *Program analysis and verification*. Lilia Georgieva. Heriot Watt University [(slides)](./Slides/LiliaProgram.pdf)
 * 11:00-11:30 **Coffee Break**
 * 11:30-12:30 **Talks**
-  - 11:30-12:00: *Techniques and Tools for Automated Termination Analysis*. Carsten Fuhs.Birkbeck University of London [(slides)](./Slides/CarstenVerification.pdf)
+  - 11:30-12:00: *Techniques and Tools for Automated Termination Analysis*. Carsten Fuhs.Birkbeck University of London [(slides)](./Slides/CarstenTermination.pdf)
   - 12:00-12:30: *Implementing Program Verification in the K Framework*. Traian Șerbănuță. University of Bucharest and Runtime Verification Inc. [(slides)](./Slides/KTraian.pdf)
 * 12:30-14:00 **Lunch break** 
 * 14:00-15:30 **Interaction: Working in groups for deliverables of WP3 or research related to WP3** 

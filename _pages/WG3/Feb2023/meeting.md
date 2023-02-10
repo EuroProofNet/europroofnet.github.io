@@ -22,7 +22,8 @@ This meeting aims to
 * realize state-of-the-art for tools approaching program specification as logical axioms; Requirements specification for the corresponding software prototype (Related to Deliverable 2).
 
 ## Output
-* Final [Report](./ReportWG3meeting-Timisoara.pdf).
+
+[//]: # (* Final [Report]&#40;./ReportWG3meeting-Timisoara.pdf&#41;.)
 * Some presentations and video recordings have been addded to the [program page](./wg3-meeting-timisoara-program.md).
 
 ## Organization
