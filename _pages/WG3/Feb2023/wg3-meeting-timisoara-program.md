@@ -58,11 +58,7 @@ The event is scheduled as a two-day meeting. Times are EET.
 [List of participants](./ParticipantsWG3Timisoara.pdf).
 ### Photos
 
-![Group Photo](./Photos/Group.jpg "Group Photo")
-
-<br>
-
-[<img src="./Photos/Room1.jpg" width="400"/>](./Photos/Room1.jpg)
+[<img src="../../WG3/Feb2023/Photos/Group.jpg" width="400"/>](../../WG3/Feb2023/Photos/Group.jpg)
 
 <br>
 
