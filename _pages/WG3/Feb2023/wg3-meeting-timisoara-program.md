@@ -58,6 +58,7 @@ The event is scheduled as a two-day meeting. Times are EET.
 [List of participants](./ParticipantsWG3Timisoara.pdf).
 ### Photos
 
+<<<<<<< HEAD
 <img src="/_pages/WG3/Feb2023/Photos/Group.jpg" width="400"/>
 <img src="/_pages/WG3/Feb2023/Photos/Room2.jpg" width="400"/>
 <img src="/_pages/WG3/Feb2023/Photos/Ahmed.jpg" width="400"/>
@@ -66,3 +67,46 @@ The event is scheduled as a two-day meeting. Times are EET.
 <img src="/_pages/WG3/Feb2023/Photos/Ricardo.jpg" width="400"/>
 <img src="/_pages/WG3/Feb2023/Photos/Traian.jpg" width="400"/>
 <img src="/_pages/WG3/Feb2023/Photos/Wolfram.jpg" width="400"/>
+=======
+[<img src="/_pages/WG3/Feb2023/Photos/Group.jpg" width="400"/>](/_pages/WG3/Feb2023/Photos/Group.jpg)
+
+<br>
+
+<br>
+
+[<img src="/_pages/WG3/Feb2023/Photos/Room1.jpg" width="400"/>](/_pages/WG3/Feb2023/Photos/Room1.jpg)
+
+<br>
+
+[<img src="/_pages/WG3/Feb2023/Photos/Room2.jpg" width="400"/>](/_pages/WG3/Feb2023/Photos/Room2.jpg)
+
+<br>
+
+[<img src="/_pages/WG3/Feb2023/Photos/Ahmed.jpg" width="400"/>](/_pages/WG3/Feb2023/Photos/Ahmed.jpg)
+
+<br>
+
+[<img src="/_pages/WG3/Feb2023/Photos/Carsten.jpg" width="400"/>](/_pages/WG3/Feb2023/Photos/Carsten.jpg)
+
+<br>
+
+[<img src="/_pages/WG3/Feb2023/Photos/Lilia.jpg" width="400"/>](/_pages/WG3/Feb2023/Photos/Lilia.jpg)
+
+<br>
+
+[<img src="/_pages/WG3/Feb2023/Photos/Ricardo.jpg" width="400"/>](/_pages/WG3/Feb2023/Photos/Ricardo.jpg)
+
+<br>
+
+[<img src="/_pages/WG3/Feb2023/Photos/Traian.jpg" width="400"/>](/_pages/WG3/Feb2023/Photos/Traian.jpg)
+
+<br>
+
+[<img src="/_pages/WG3/Feb2023/Photos/Wolfram.jpg" width="400"/>](/_pages/WG3/Feb2023/Photos/Wolfram.jpg)
+
+
+
+
+
+
+>>>>>>> wg3 timisoara upd photos
