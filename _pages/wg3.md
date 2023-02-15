@@ -9,8 +9,8 @@ breadcrumbs: true
 The aim of this WG is twofold:
 - to lower the computational complexity and increase expressiveness of techniques for the verification of program
 correctness,
-- to strengthen synergies and interoperability between different proof systems to combine the benefits of the different methodologies
-underlying the proof systems to facilitate formal verification of both software
+- to strengthen synergies and interoperability between different proof systems, to combine the benefits of the different methodologies
+underlying the proof systems, and to facilitate formal verification of both software
 and mathematics.
 
 ### Documents and Deliverables
