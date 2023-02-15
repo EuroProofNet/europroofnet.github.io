@@ -13,6 +13,11 @@ correctness,
 underlying the proof systems to facilitate formal verification of both software
 and mathematics.
 
+### Documents and Deliverables
+
+We use a [git repository](https://github.com/EuroProofNet/ProgramVerification) to store all our documents and deliverables. In particular, we initiated an 
+[inventory of program verification tools](https://github.com/EuroProofNet/ProgramVerification/wiki).
+
 ### Activities
 - 8-9 February 2023: [Second WG3 meeting webpage](../wg3-timisoara) 
 
