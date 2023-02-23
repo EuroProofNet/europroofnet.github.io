@@ -10,7 +10,7 @@ breadcrumbs: true
 
 **Date:** 11-13 May 2023
 
-**Venue:** TBA (Luxembourg or Belgium probably)
+**Venue:** Downtown Liège (rooms TBA), Belgium
 
 **Organizer:** [Alexander Steen](https://www.alexandersteen.de/)
   and [Pascal Fontaine](https://people.montefiore.uliege.be/pfontain/)
