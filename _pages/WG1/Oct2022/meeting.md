@@ -29,7 +29,7 @@ Michael Färber,
 [Julien Narboux](https://dpt-info.di.unistra.fr/~narboux/),
 Théo Winterhalter,
 Claude Stolze,
-[Amélie Ledein](http://www.lsv.fr/~ledein/),
+[Amélie Ledein](https://lmf.cnrs.fr/Perso/AmelieLedein),
 François Thiré,
 [Bruno Barras](http://www.lix.polytechnique.fr/~barras/),
 [Gilles Dowek](http://www.lsv.fr/~dowek/)
@@ -88,7 +88,7 @@ because the FOL encoding does not use explicit contexts, which seems to be essen
 They have defined the syntax of CL in Lambdapi. 
 The open question is how to finish the definition of the inference rules. 
 
-- Amélie Ledein worked on documenting, simplifying, refactoring and making more modular the code of the [translator from Metamath to Dedukti](https://gitlab.com/semantiko/mm2dk/translator). She also worked with Michael and François to elaborate a grammar of the Dedukti standard.
+- [Amélie Ledein](https://lmf.cnrs.fr/Perso/AmelieLedein) worked on documenting, simplifying, refactoring and making more modular the code of the [translator from Metamath to Dedukti](https://gitlab.com/semantiko/mm2dk/translator). She also worked with Michael and François to elaborate a grammar of the Dedukti standard.
 
 - Bruno Barras worked on the performance analysis of an implementation of a call-by-need reduction machine in Lambdapi. Although it outperforms the current implementation on examples that benefit from sharing, it is twice as slow on common tests. It appeared that the overhead comes from two factors: excessive use of Ocaml's generic comparison and garbage collection. The first factor could be adressed by using hashtables. The second factor requires a more precise analysis of the memory allocation strategy.
 
