@@ -7,7 +7,7 @@ author_profile: true
 
 EuroProofNet can provide two kinds of grants:
 - Short-Term Scientific Mission (STSM): see [past STSMs](../accepted_stsms)
-- Inclusve-Target Country Conference Grants (ITCC)
+- Inclusiveness Target Country Conference Grants (ITCC)
 
 **Upcoming deadlines**
 
