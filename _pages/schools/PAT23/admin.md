@@ -6,7 +6,7 @@ author_profile: true
 breadcrumbs: true
 ---
 
-### at least 2 months before the meeting:
+### about 2 months before the meeting:
 
 - [ ] The organizer has the exact address, the starting and ending dates and times of the meeting, and the daily allowance. The daily allowance should 
 cover the cost of an hotel night + the meals + local transport if hotels are far from the meeting place. It has to be fixed at the right level so that 
@@ -22,7 +22,7 @@ once invitations have been sent.
 - [ ] The organizer checks the prices of accommodations and restaurants around the place of the meeting at the dates of the meeting, and sends to the 
 chair a proposal for the daily allowance.
 
-    * [ ] daily allowance: ? euros
+    * [ ] daily allowance: 125 euros?
 
 - [ ] The chair sets up the event on https://e-services.cost.eu/, but not the LOS yet (this will be done later).
 
