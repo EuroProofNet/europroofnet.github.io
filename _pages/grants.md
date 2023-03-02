@@ -7,7 +7,7 @@ author_profile: true
 
 EuroProofNet can provide two kinds of grants:
 - Short-Term Scientific Mission (STSM): see [past STSMs](../accepted_stsms)
-- Inclusiveness Target Country Conference Grants (ITCC)
+- Inclusiveness Target Country Conference Grants (ITCG)
 
 **Upcoming deadlines**
 
@@ -85,6 +85,7 @@ Proposals must be made through the [e-COST system](https://e-services.cost.eu/ac
   - Expected impact (max 500 words)
 - Acceptance letter/mail from the conference organizers.
 - A quote for the travel in euros (screen capture).
+- The cost of the conference registration fees.
 
 Be careful to check flight/train tickets that you
 can modify or cancel for free or at little cost (possibly by taking
