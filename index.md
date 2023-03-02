@@ -40,7 +40,11 @@ corner).
 
 - 24-25 April 2023: [WG6 meeting](../wg6-vienna), Vienna, Austria
 
-- 11-13 May 2023: [Developers meeting on proof generating automated theorem provers](../dk-meeting3) (place to be confirmed)
+- 8 May 2023: [deadline for STSM and ITCG proposals](../grants)
+
+- 11-13 May 2023: [Developers meeting on proof generating automated theorem provers](../dk-meeting3), Liège, Belgium
+
+- 19-23 June 2023: School on proof assistants for teaching proof and proving (PAT), Val d'Ajol, France
 
 - 13 July 2023: WG2 meeting/TPTP tea party, ENS Paris-Saclay, France
 
