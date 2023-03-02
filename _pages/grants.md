@@ -112,7 +112,7 @@ insurance).
 
 The final price of your ticket should not be significantly bigger
 (>10%) than the one given in your proposal. In case of significant
-increase, you should ask confirmation to the
+increase, you should ask confirmation from the
 [chair](https://blanqui.gitlabpages.inria.fr/) beforehand. Finally,
 you should communicate the final cost of your flight or train ticket
 to the [chair](https://blanqui.gitlabpages.inria.fr/) as soon as
