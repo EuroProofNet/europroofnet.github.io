@@ -39,7 +39,7 @@ The main points about STSMs are:
 - Proposals should be submitted by the deadlines.
 - An STSM must be between two different countries which are participating in the Action.
 - The typical duration is one or two weeks. We favor short missions so that more people can get funded.
-- A beneficiary of an STSM is reimbursed after his/her mission if to the conditions below are satisfied.
+- A beneficiary of an STSM is reimbursed after his/her mission if the conditions below are satisfied.
 - The total cost of the mission cannot exceed EUR 4000 (this is a hard limit).
 
 **Eligibility**
