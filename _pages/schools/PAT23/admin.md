@@ -8,36 +8,39 @@ breadcrumbs: true
 
 ### about 2 months before the meeting:
 
-- [ ] The organizer has the exact address, the starting and ending dates and times of the meeting, and the daily allowance. The daily allowance should 
-cover the cost of an hotel night + the meals + local transport if hotels are far from the meeting place. It has to be fixed at the right level so that 
+- [X] The chair asks the organizer the exact address, and the starting and ending dates and times of the meeting, and the daily allowance. The daily allowance should  cover the cost of an hotel night + the meals + local transport if hotels are far from the meeting place. It has to be fixed at the right level so that 
 people get reimbursed of what they need to spend but not too much so that we can invite more people. Note that the daily allowance cannot be changed 
 once invitations have been sent.
 
-- [ ] The organizer gives to the chair the exact address, and the starting and ending dates and times:
+- [X] The organizer gives to the chair the exact address, and the starting and ending dates and times:
 
-    * [ ] complete address: [Hotel La Residence](https://la-residence.com), 5 Rue des Mousses, 88340 Le Val-d'Ajol, France
-    * [ ] starting date and time: 18 June 09:00 ?
-    * [ ] ending date and time: 23 June 17:00 ?
+    * [X] complete address: [Hotel La Residence](https://la-residence.com), 5 Rue des Mousses, 88340 Le Val-d'Ajol, France
+    * [X] starting date and time: 19 June 09:00
+    * [ ] ending date and time: 22 June 18:00 or 23 June 12:00 ?
 
-- [ ] The organizer checks the prices of accommodations and restaurants around the place of the meeting at the dates of the meeting, and sends to the 
+- [X] The organizer checks the prices of accommodations and restaurants around the place of the meeting at the dates of the meeting, and sends to the 
 chair a proposal for the daily allowance.
 
-    * [ ] daily allowance: 125 euros?
+    * [X] daily allowance: 125 euros
 
 - [ ] The chair sets up the event on https://e-services.cost.eu/, but not the LOS yet (this will be done later).
 
-- [ ] The chair asks the organizer details about the LOS, with copy to the Grant holder. By the way, the chair asks the organizer to carefully read the 
+- [X] The chair asks the organizer details about the LOS, with copy to the Grant holder. By the way, the chair asks the organizer to carefully read the 
 rules concerning LOS in the COST annotated rules (see https://www.cost.eu/Annotated_Rules_for_COST_Actions_C page 92). Note in particular that VAT is not 
 reimbursed.
 
     * no LOS
 
-- [ ] The organizer sends to the chair and the Grant Holder the details of the LOS.
+- [X] The organizer sends to the chair and the Grant Holder the details of the LOS.
 
-- [ ] The Grant Holder checks the eligibility of the LOS and sends the result to the organizer and the chair.
+- [X] The Grant Holder checks the eligibility of the LOS and sends the result to the organizer and the chair.
 
-- [ ] The chair and the organizer fix the deadline for reimbursement applications at least 1 month before the meeting, and the date of a core group 
+- [X] The chair and the organizer fix the deadline for reimbursement applications at least 1 month before the meeting, and the date of a core group 
 meeting within 1 week after the deadline, to decide which participants will be reimbursed.
+
+  * 15.3: announcement of the school on mailing lists
+  * 17.4: deadline for applications for the school
+  * 21.4: we announce the EPN funded students
 
 - [ ] The organizer adds a web page for the meeting on https://europroofnet.github.io/, possibly with the help of the science communication coordinators, 
 with the following information: date, times, place, program, possible hotels, indication on how to get there, participation application procedure, 
