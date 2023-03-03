@@ -7,6 +7,8 @@ author_profile: true
 
 To contribute to the web site, please open an [issue](https://github.com/EuroProofNet/europroofnet.github.io/issues), create a [pull request](https://github.com/EuroProofNet/europroofnet.github.io) or send a mail to the [science communication coordinators](../contact).
 
+- 18-23 June 2023: [Proof assistants for Teaching](https://pat2023.icube.unistra.fr/), Val d'Ajol, France
+
 - 7-10 November 2022: [Autumn School Proof Theory](https://uswpt.sites.uu.nl/), Utrecht, Netherlands
 
 - 26 September - 1 October 2022: [Proof and Computation](http://www.mathematik.uni-muenchen.de/~schwicht/pc22.php), Fischbachau, Germany
