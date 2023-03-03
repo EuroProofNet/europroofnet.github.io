@@ -9,6 +9,8 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 
 - 4-8 September 2023: [16th Conference on Intelligent Computer Mathematics](https://cicm-conference.org/2023/cicm.php) (CICM'23), Cambridge, UK
 
+- 3-8 September 2023: [Artificial Intelligence and Theorem Proving 2023](http://aitp-conference.org/2023) (AITP'23), Aussois, France
+
 - 31 July - 4 August 2023: [14th Conference on Interactive Theorem Proving](https://mizar.uwb.edu.pl/ITP2023/) (ITP'23), Białystok, Poland
 
 - 3-6 July 2023: [8th International Conference on Formal Structures for Computation and Deduction](https://easyconferences.eu/fscd2023/) (FSCD'23), Rome, Italy
