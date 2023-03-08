@@ -1,0 +1,3 @@
+Automating reasoning in cubical type theory
+
+Properties of Kan cubical sets are treated as logical rules in cubical type theory. The purpose of this talk is to study these rules from the point of view of automated reasoning. We establish NP-completeness for finding cells in a cubical set and undecidability of finding cells in a Kan cubical set with reductions to satisfiability checking and string rewriting, respectively. We present algorithms and heuristics to still find cells in many practical cases, and an experimental implementation of the findings in a tactic for Cubical Agda.

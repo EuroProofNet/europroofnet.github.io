@@ -1,0 +1,13 @@
+Workshop on implementing Kosta Dosen’s categorial programming and sheaves: Cut-elimination in the double category of profunctors with J-rule-eliminated adjunctions.
+
+There is now sufficient evidence (ref [6], [7]) that Kosta Dosen's ideas and techniques (ref [1], [2], [3], [4], [5]) could be implemented for proof-assistants, sheaves and applications; in particular cut-elimination, rewriting and confluence for various enriched, internal, indexed or double categories with adjunctions, monads, negation, quantifiers or additive biproducts; quantitative/quantum linear algebra semantics; presheaf/profunctor semantics; inductive-sheafification and sheaf semantics; sheaf cohomology and duality... It was difficult to discover the correct grammatical-formulation out of a dozen semantically-meaningful ones, but this ongoing implementation (ref [6]) should work in the next months.
+
+[1] Dosen-Petric: Cut Elimination in Categories 1999; 
+[2] Proof-Theoretical Coherence 2004; 
+[3] Proof-Net Categories 2005; 
+[4] Coherence in Linear Predicate Logic 2007; 
+[5] Coherence for closed categories with biproducts 2022
+[6] Cut-elimination in the double category of profunctors with J-rule-eliminated adjunctions: https://github.com/1337777/cartier/blob/master/cartierSolution12.v 
+[7] Pierre Cartier
+
+

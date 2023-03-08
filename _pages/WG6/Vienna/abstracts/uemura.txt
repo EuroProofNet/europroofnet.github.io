@@ -1,0 +1,3 @@
+Towards modular proof of normalization for type theories
+
+I will present an idea of modular or compositional proof of normalization for type theories. Normalization is defined as a property of a morphism of type theories, and the class of morphisms satisfying normalization is closed under pushouts and composition. Normalization for a complex type theory is then a formal consequence of normalization for its smaller fragments.
