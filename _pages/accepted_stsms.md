@@ -13,11 +13,49 @@ author_profile: true
   Dates: 2023-03-01 to 2023-04-01
 -->
 
+## 5th call (1 Match 2023)
+
+* **Categorical semantics for propositional dependent type theories** [application](/_pages/stsm/spadetto-app.pdf)  
+  Visitor: Matteo Spadetto (University of Leeds, UK)  
+  Host: Benno van den Berg (Institute for Logic, Language and Computation - ILLC, Amsterdam, Netherlands)  
+  Grant: 2604 EUR  
+  Dates: 2023-04-09 to 2023-04-30
+
+* **Computer science applications of Cubical Agda** [application](/_pages/stsm/ljungstrom-app.pdf)  
+  Visitor: Axel Ljungström (Stockholm University, Sweden)  
+  Host: Stefano Berardi (University of Turin, Italy)  
+  Grant: 2369 EUR  
+  Dates: 2023-04-26 to 2023-05-05
+
+* **Formal Specification and Verification of Attestation in Confidential Computing** [application](/_pages/stsm/sardar-app.pdf)   
+  Visitor: Muhammad Usama Sardar (Chair of Systems Engineering, Dresden, Germany)  
+  Host: Lilia Georgieva (Heriot-Watt University, Edinburgh, UK)  
+  Grant: 2041 EUR  
+  Dates: 2023-05-14 to 2023-05-20
+
+* **Coinductive proof search for inhabitation of quantitative types** [application](/_pages/stsm/santo-app.pdf)   
+  Visitor: Jose Espirito Santo (University of Minho, Braga, Portugal)  
+  Host: Delia Kesner (IRIF, Paris, France)  
+  Grant: 1355 EUR  
+  Dates: 2023-05-21 to 2023-05-27
+
+* **Liquid Monadic Intersection Types** [application](/_pages/stsm/treglia-app.pdf)   
+  Visitor: Riccardo Treglia (Università di Bologna, Italy)  
+  Host: Mário Florido (University of Porto, Portugal)  
+  Grant: 1990 EUR  
+  Dates: 2023-05-21 to 2023-05-31
+
+* **Understanding interpretations of HoTT in elementary (oo,1)-toposes** [application](/_pages/stsm/rogers-app.pdf)   
+  Visitor: Morgan Elliot Rogers (CNRS, Villetaneuse, France)  
+  Host: Paige Randall North (Utrecht University, Netherlands)  
+  Grant: 2459 EUR  
+  Dates: 2023-05-22 to 2023-06-04
+
 ## 4th call (1 January 2023)
 
 * **Translation from Dedukti to Minlog** [application](/_pages/stsm/geran-app.pdf)   
   Visitor: Yoan Géran (MINES ParisTech, Fontainebleau, France)   
-  Host: Helmut Schwichtenber (Mathematisches Institut der Universität München, Germany)   
+  Host: Helmut Schwichtenberg (Mathematisches Institut der Universität München, Germany)   
   Grant: 1478 EUR  
   Dates: 2023-02-05 to 2023-02-12
 
