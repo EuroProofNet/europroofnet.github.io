@@ -11,8 +11,10 @@ EuroProofNet can provide two kinds of grants:
 
 **Upcoming deadlines**
 
-- 1st March 2023
-- 8 May 2023
+- 8 May 2023: Priority will be given to the proposals contributing to the objectives and deliverables of the working groups 2, 4 and 5:
+  * WG2: detailed, checkable proofs from automated theorem provers
+  * WG4: maintenance, refactoring and search of proof libraries
+  * WG5: learning-based methods for automated theorem proving and natural language proofs
 
 **Application web sites**
 
@@ -160,6 +162,7 @@ the [Grant Holder](mailto:saf-saclay-recettes@inria.fr).
 
 **Past deadlines**
 
+- 1st March 2023
 - 1st January 2023
 - 1st July 2022 (notification on 8 July): we were especially looking for applications from WG4 on the construction, management and (re)use of big libraries of formal proofs
 - 3 April 2022 (notification on 15 April): we were especially looking for applications from women and working groups other than WG3
