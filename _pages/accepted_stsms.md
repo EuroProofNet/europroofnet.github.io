@@ -13,7 +13,7 @@ author_profile: true
   Dates: 2023-03-01 to 2023-04-01
 -->
 
-## 5th call (1 Match 2023)
+## 5th call (1 March 2023)
 
 * **Categorical semantics for propositional dependent type theories** [application](/_pages/stsm/spadetto-app.pdf)  
   Visitor: Matteo Spadetto (University of Leeds, UK)  
