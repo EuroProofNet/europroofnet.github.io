@@ -15,7 +15,7 @@ author_profile: true
 
 ## 1st call (1 March 2023)
 
-* **[System F mu omega with Context-free Session Types](https://arxiv.org/abs/2301.08659)**  
+* **[System F mu omega with Context-free Session Types](https://arxiv.org/abs/2301.08659)**__
   Grantee: [Diogo Poças](https://diogopocas1991.gitlab.io) (LASIGE, Lisbo, Portugal)__
   Conference: [32nd European joint conferences on theory and practice of software](https://etaps.org/2023/) (ETAPS), Paris, France__
   Grant: 1876 EUR  
