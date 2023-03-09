@@ -6,9 +6,15 @@ author_profile: true
 ---
 
 EuroProofNet can provide two kinds of grants:
-- Short-Term Scientific Mission (STSM): see [past STSMs](../accepted_stsms)
+
+- Short-Term Scientific Mission (STSM)
+
+  see [past STSMs](../accepted_stsms)
+
 - Inclusiveness Target Country Conference Grants (ITCG)
 
+see [past ITCGs](../accepted_itcgs)
+  
 **Upcoming deadlines**
 
 - 8 May 2023: Priority will be given to the proposals contributing to the objectives and deliverables of the working groups 2, 4 and 5:
@@ -21,7 +27,7 @@ EuroProofNet can provide two kinds of grants:
 - [STSM](https://e-services.cost.eu/activity/grants/add?type=STSM)
 - [ITCG](https://e-services.cost.eu/activity/grants/add?type=ITCG)
 
-**What is an ITC Conference Grant?**
+**What is an ITCG?**
 
 ITC Conference Grants are given to young (<= 40 years old) researchers
 affiliated in an [Inclusiveness Target Country or Near Neighbour
@@ -160,10 +166,8 @@ For any question, please contact the two coordinators for STSMs: [Danijela Simic
 If you have questions concerning reimbursements, please contact
 the [Grant Holder](mailto:saf-saclay-recettes@inria.fr).
 
-**Past deadlines**
+**Attributed grants**
 
-- 1st March 2023
-- 1st January 2023
-- 1st July 2022 (notification on 8 July): we were especially looking for applications from WG4 on the construction, management and (re)use of big libraries of formal proofs
-- 3 April 2022 (notification on 15 April): we were especially looking for applications from women and working groups other than WG3
-- 18 January 2022 (notification 26 January)
+- [past STSMs](../accepted_stsms)
+
+- [past ITCGs](../accepted_itcgs)
