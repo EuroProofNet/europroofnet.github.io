@@ -53,7 +53,7 @@ author_profile: true
 
 ## 4th call (1 January 2023)
 
-* **Translation from Dedukti to Minlog** [application](/_pages/stsm/geran-app.pdf)   
+* **Translation from Dedukti to Minlog** [application](/_pages/stsm/geran-app.pdf) [report](/_pages/stsm/geran-rep.pdf)   
   Visitor: Yoan Géran (MINES ParisTech, Fontainebleau, France)   
   Host: Helmut Schwichtenberg (Mathematisches Institut der Universität München, Germany)   
   Grant: 1478 EUR  
