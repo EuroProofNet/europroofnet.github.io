@@ -32,7 +32,7 @@ The programme will consist mainly of short talks, and plenty of time for discuss
 **Deadlines (AoE)**  
 Submission of talk proposals: Monday 27 February  
 Author notification: Tuesday 7 March  
-Funding requests: Thursday 19 March  
+Funding requests: Sunday 19 March  
 Registration: Friday 7 April  
 
 **Registration & funding:** Please register [here](https://forms.gle/8kpR32bdid4inLFN7). The registration form includes the options to submit a talk proposal and to apply for funding. See [reimbursement rules](../reimbursement-rules). The daily allowance has been fixed to 140 euros.
