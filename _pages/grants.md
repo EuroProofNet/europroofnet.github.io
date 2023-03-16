@@ -18,6 +18,8 @@ EuroProofNet can provide two kinds of grants:
   * WG4: maintenance, refactoring and search of proof libraries
   * WG5: learning-based methods for automated theorem proving and natural language proofs
 
+Next STSMs and ITCGs must occur betwen May 15 and September 30.
+
 **Application web sites**
 
 - [STSM](https://e-services.cost.eu/activity/grants/add?type=STSM)
@@ -142,7 +144,7 @@ meal receipts, **within 2 weeks after the end of the STSM.** See the
 
 In case you need to change the dates of an accepted STSM, you have to
 inform the STSM coordinators as soon as possible and provide new dates
-so that the STSM ends before October 15.
+so that the STSM ends by the end of September.
 
 In case you need to cancel an accepted STSM or ITCG, you need to inform the
 STSM coordinators as soon as possible.

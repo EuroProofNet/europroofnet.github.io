@@ -96,4 +96,4 @@ during the meeting:
 
 - [X] The Grant Holder checks reimbursement claims.
 
-- [ ] The Grant Holder reimburses the organizer and the invited participants whose claims are valid.
+- [x] The Grant Holder reimburses the organizer and the invited participants whose claims are valid.
