@@ -10,11 +10,11 @@ breadcrumbs: true
 
 - [X] The chair asks the organizer the exact address, the starting and ending dates and times of the meeting, and the daily allowance. The daily allowance should cover the cost of an hotel night + the meals + local transport if hotels are far from the meeting place. It has to be fixed at the right level so that people get reimbursed of what they need to spend but not too much so that we can invite more people. Note that the daily allowance cannot be changed once invitations have been sent.
 
-- [ ] The organizer gives to the chair the exact address, and the starting and ending dates and times:
+- [X] The organizer gives to the chair the exact address, and the starting and ending dates and times:
 
     * [X] complete address: Czech Institute of Informatics, Robotics and Cybernetics (CIIRC CTU), Jugoslávských partyzánů 1580/3, 160 00 Dejvice, Prague, Czech Republic
-    * [ ] starting date and time: 18 April 09:00 ?
-    * [ ] ending date and time: 20 April 17:00 ?
+    * [X] starting date and time: 18 April 09:00
+    * [X] ending date and time: 20 April 17:00
 
 - [X] The organizer checks the prices of accommodations and restaurants around the place of the meeting at the dates of the meeting, and sends to the chair a proposal for the daily allowance.
 
@@ -36,25 +36,25 @@ breadcrumbs: true
 
 - [X] The chair sends the call for participation and reimbursement applications to all action members, at least 1 month before the deadline.
 
-- [ ] The organizer collects data and files from participants willing to be reimbursed (name, email, country, address, gender, age, dates of arrival and departure, quote for transport, university certificates for master students). To this end, we strongly suggest the organizer to use forms like https://docs.google.com/forms/d/1WgAdt6_BkJiT9u6lSqIQ5p_7955CHFEjbxG2Ucj5gRg or https://docs.google.com/forms/d/12YxrDK-dupOFj5R5CdINvlc6xzW6C5DpEr58JoVmBIg .
+- [X] The organizer collects data and files from participants willing to be reimbursed (name, email, country, address, gender, age, dates of arrival and departure, quote for transport, university certificates for master students). To this end, we strongly suggest the organizer to use forms like https://docs.google.com/forms/d/1WgAdt6_BkJiT9u6lSqIQ5p_7955CHFEjbxG2Ucj5gRg or https://docs.google.com/forms/d/12YxrDK-dupOFj5R5CdINvlc6xzW6C5DpEr58JoVmBIg .
 
-- [ ] The Grant Holder contacts the organizer to collect the additional data it needs.
+- [X] The Grant Holder contacts the organizer to collect the additional data it needs.
 
-- [ ] The organizer provides the Grant Holder with the additional data it needs.
+- [X] The organizer provides the Grant Holder with the additional data it needs.
 
 ### at least 1 month before the meeting:
 
-- [ ] The organizer and the chair check the eligibility of the applicants.
+- [X] The organizer and the chair check the eligibility of the applicants.
 
-- [ ] Core group meeting to select the participants who will be reimbursed.
+- [X] Core group meeting to select the participants who will be reimbursed.
 
-- [ ] The organizer informs the applicants of the result.
+- [X] The organizer informs the applicants of the result.
 
-- [ ] The chair invites on https://e-services.cost.eu/ the participants who have been selected.
+- [X] The chair invites on https://e-services.cost.eu/ the participants who have been selected.
 
 - [ ] Participants have 2 weeks maximum to accept their invitation on https://e-services.cost.eu/. After this delay, the invitation is cancelled.
 
-- [ ] The chair sends to the Grant Holder the list of selected participants.
+- [X] The chair sends to the Grant Holder the list of selected participants.
 
 - [ ] The Grant Holder contacts the selected participants to collect the data it needs.
 

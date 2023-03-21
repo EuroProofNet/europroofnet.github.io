@@ -39,13 +39,13 @@ breadcrumbs: true
 
 - [X] Core group meeting to select the participants who will be reimbursed.
 
-- [ ] The organizer informs the applicants of the result.
+- [X] The organizer informs the applicants of the result.
 
-- [ ] The chair invites on https://e-services.cost.eu/ the participants who have been selected.
+- [X] The chair invites on https://e-services.cost.eu/ the participants who have been selected.
 
 - [ ] Participants have 2 weeks maximum to accept their invitation on https://e-services.cost.eu/. After this delay, the invitation is cancelled.
 
-- [ ] The chair sends to the Grant Holder the list of selected participants.
+- [X] The chair sends to the Grant Holder the list of selected participants.
 
 - [ ] The Grant Holder contacts the selected participants to collect the data it needs.
 

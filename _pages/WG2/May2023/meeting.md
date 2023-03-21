@@ -22,7 +22,7 @@ This is the second EuroProofNet WG2 meeting, which will take the form of a hacka
 **Application procedure:** The number of participants that can be reimbursed is limited. If you would like to be reimbursed of your travel, check the [eligibility rules](https://europroofnet.github.io/eligibility/) and 
 [fill in this form](https://forms.gle/ZoHXRSKdbk8TxXc79).
 
-**Cost:** Participants will have to pay for their travel, accommodation and meals. If you are reimbursed by EuroProofNet, note that the daily allowance has been fixed at 140 euros. See the [reimbursement rules](https://europroofnet.github.io/reimbursement-rules/) for more details.
+**Cost:** Participants will have to pay for their travel, accommodation and meals. If you are reimbursed by EuroProofNet, note that the daily allowance has been fixed to 160 euros. See the [reimbursement rules](https://europroofnet.github.io/reimbursement-rules/) for more details.
 
 <!--**Participants (15):**-->
 
