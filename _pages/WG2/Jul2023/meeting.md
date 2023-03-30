@@ -25,7 +25,7 @@ The meeting aims to elicit feedback, suggestions, criticisms, etc, of these reso
 
 **Organizers:** [Geoff Sutcliffe](https://www.cs.miami.edu/home/geoff/) and [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/)
 
-**Date:** 13 July 2023, 9 am - 6 pm
+**Date:** 13 July 2023, 9 am - 6 pm (hours to be confirmed)
 
 **Venue:** [ENS Paris-Saclay](https://ens-paris-saclay.fr/), 4 avenue des Sciences, 91190 Gif-sur-Yvette, France
 
@@ -35,7 +35,7 @@ The meeting aims to elicit feedback, suggestions, criticisms, etc, of these reso
 
 **Deadline for funding applications:** May 8 (notification on May 13)
 
-**Possible hotels around** at about 100 euros/night with breakfast and free cancellation included:
+**Possible hotels around** at about 100€/night with breakfast and free cancellation included:
 - [Residhome Bures La Guyonnerie](https://www.booking.com/hotel/fr/la-guyonnerie.fr.html), 25 minutes walk
 - [All Suites Appart Hôtel Massy Palaiseau](https://www.booking.com/hotel/fr/all-suites-palaiseau.fr.html), 25 minutes by bus
 - [Tulip Inn Massy Palaiseau - Residence](https://www.booking.com/hotel/fr/tulip-inn-massy-palaiseau-residence.fr.html), 25 minutes by bus
