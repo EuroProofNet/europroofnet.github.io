@@ -8,7 +8,7 @@ breadcrumbs: true
 
 <!--img src="/_pages/WG1/Jan2023/20230129_135357_resized.jpg"/-->
 
-This meeting will bring together developers and users of the TPTP World, including (but not limited to):
+This meeting will bring together developers and users of the [TPTP](https://tptp.org) World, including (but not limited to):
   * The TPTP problem library
   * The TSTP solution library
   * The TPTP syntax
@@ -29,13 +29,13 @@ The meeting aims to elicit feedback, suggestions, criticisms, etc, of these reso
 
 **Venue:** [ENS Paris-Saclay](https://ens-paris-saclay.fr/), 4 avenue des Sciences, 91190 Gif-sur-Yvette, France
 
-**How to get there?** See [here](https://ens-paris-saclay.fr/en/school/how-find-us). ENS is 25 minutes away from Massy by bus. Massy is 30 minutes away from Paris center by train, and 20 minutes away from Orly airport by train.
+**How to get there?** See [here](https://ens-paris-saclay.fr/en/school/how-find-us). ENS is 25 minutes away from Massy by bus (2.10€). Massy is 30 minutes away from Paris center by train (4.05€), and 20 minutes away from Orly airport by train (13.15€).
 
-**Registration/Funding application procedure:** EuroProofNet can reimbursed the travel of a number of participants. If you would like to participate, give a talk or be reimbursed of your travel, check the [eligibility](https://europroofnet.github.io/eligibility/) and [reimbursement rules](https://europroofnet.github.io/reimbursement-rules/), [apply](https://e-services.cost.eu/action/CA20111/working-groups/apply) to the EuroProofNet working groups you are interested in, and fill in the [registration/application form](https://forms.gle/XQmngrzyA5swMaHe8).
+**Registration/Funding application procedure:** EuroProofNet can reimburse the travel of a number of participants. If you would like to participate, give a talk or be reimbursed of your travel, check the [eligibility](https://europroofnet.github.io/eligibility/) and [reimbursement rules](https://europroofnet.github.io/reimbursement-rules/), [apply](https://e-services.cost.eu/action/CA20111/working-groups/apply) to the EuroProofNet working groups you are interested in, and fill in the [registration/application form](https://forms.gle/XQmngrzyA5swMaHe8).
 
 **Deadline for funding applications:** May 8 (notification on May 13)
 
-**Possible hotels around:** ~100 euros/night with breakfast and free cancellation included
+**Possible hotels around** at about 100 euros/night with breakfast and free cancellation included:
 - [Residhome Bures La Guyonnerie](https://www.booking.com/hotel/fr/la-guyonnerie.fr.html), 25 minutes walk
 - [All Suites Appart Hôtel Massy Palaiseau](https://www.booking.com/hotel/fr/all-suites-palaiseau.fr.html), 25 minutes by bus
 - [Tulip Inn Massy Palaiseau - Residence](https://www.booking.com/hotel/fr/tulip-inn-massy-palaiseau-residence.fr.html), 25 minutes by bus
