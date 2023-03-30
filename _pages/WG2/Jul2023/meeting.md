@@ -33,7 +33,7 @@ The meeting aims to elicit feedback, suggestions, criticisms, etc, of these reso
 
 **Registration/Funding application procedure:** EuroProofNet can reimbursed the travel of a number of participants. If you would like to participate, give a talk or be reimbursed of your travel, check the [eligibility](https://europroofnet.github.io/eligibility/) and [reimbursement rules](https://europroofnet.github.io/reimbursement-rules/), [apply](https://e-services.cost.eu/action/CA20111/working-groups/apply) to the EuroProofNet working groups you are interested in, and fill in the [registration/application form](https://forms.gle/XQmngrzyA5swMaHe8).
 
-**Deadline for funding applications:** May 8
+**Deadline for funding applications:** May 8 (notification on May 13)
 
 **Possible hotels around:** ~100 euros/night with breakfast and free cancellation included
 - [Residhome Bures La Guyonnerie](https://www.booking.com/hotel/fr/la-guyonnerie.fr.html), 25 minutes walk
