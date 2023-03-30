@@ -13,7 +13,13 @@ This meeting will bring together developers and users of the TPTP World, includi
   * The TSTP solution library
   * The TPTP syntax
   * Anything else in the TPTP World
-  * etc 
+
+Specifically, this meeting will look at:
+  * Producing TPTP-compliant proof output.
+  * Tools for verifying (GDV, Dedukti), visualizing, translating (e.g., to and from Dedukti), TPTP proofs.
+  * The new TPTP format for interpretations.
+  * Tools for verifying (AGMV), visualizing (IIV), translating, TPTP interpretations.
+  * TPTP formats and tools for proofs and models in non-classical logics.
 
 The meeting aims to elicit feedback, suggestions, criticisms, etc, of these resources, in order to ensure that their continued development meets the needs of successful automated reasoning.
 
