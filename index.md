@@ -47,7 +47,7 @@ corner).
 
 - 19-23 June 2023: [School on proof assistants for teaching proof and proving](https://pat2023.icube.unistra.fr/) (PAT), Val d'Ajol, France
 
-- 13 July 2023: WG2 meeting/TPTP tea party, ENS Paris-Saclay, France
+- 13 July 2023: [WG2 meeting/TPTP tea party](https://europroofnet.github.io/tptp23-meeting/), ENS Paris-Saclay, France
 
 [Past events](../events)
 

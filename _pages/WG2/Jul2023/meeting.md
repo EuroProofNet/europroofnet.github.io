@@ -23,22 +23,23 @@ Specifically, this meeting will look at:
 
 The meeting aims to elicit feedback, suggestions, criticisms, etc, of these resources, in order to ensure that their continued development meets the needs of successful automated reasoning.
 
-**Organizers:** [Geoff Sutcliffe](https://www.cs.miami.edu/home/geoff/), [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/)
+**Organizers:** [Geoff Sutcliffe](https://www.cs.miami.edu/home/geoff/) and [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/)
 
 **Date:** 13 July 2023, 9 am - 6 pm
 
 **Venue:** [ENS Paris-Saclay](https://ens-paris-saclay.fr/), 4 avenue des Sciences, 91190 Gif-sur-Yvette, France
 
-**How to get there?** See [here](https://ens-paris-saclay.fr/en/school/how-find-us)
+**How to get there?** See [here](https://ens-paris-saclay.fr/en/school/how-find-us). ENS is 25 minutes away from Massy by bus. Massy is 30 minutes away from Paris center by train, and 20 minutes away from Orly airport by train.
 
-**Application procedure:** The number of participants that can be reimbursed is limited. If you would like to be reimbursed of your travel, check the [eligibility rules](https://europroofnet.github.io/eligibility/) and send a mail to [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/) with the following information and documents:
-  * URL of your homepage
-  * planned date and time of arrival
-  * planned date and time of departure
-  * cost of travel in euros with quote (screen capture)
-  * if you want to give a talk, provide a preliminary title and abstract
+**Registration/Funding application procedure:** EuroProofNet can reimbursed the travel of a number of participants. If you would like to participate, give a talk or be reimbursed of your travel, check the [eligibility](https://europroofnet.github.io/eligibility/) and [reimbursement rules](https://europroofnet.github.io/reimbursement-rules/), [apply](https://e-services.cost.eu/action/CA20111/working-groups/apply) to the EuroProofNet working groups you are interested in, and fill in the [registration/application form](https://forms.gle/XQmngrzyA5swMaHe8).
 
 **Deadline for funding applications:** May 8
+
+**Possible hotels around:** ~100 euros/night with breakfast and free cancellation included
+- [Residhome Bures La Guyonnerie](https://www.booking.com/hotel/fr/la-guyonnerie.fr.html), 25 minutes walk
+- [All Suites Appart Hôtel Massy Palaiseau](https://www.booking.com/hotel/fr/all-suites-palaiseau.fr.html), 25 minutes by bus
+- [Tulip Inn Massy Palaiseau - Residence](https://www.booking.com/hotel/fr/tulip-inn-massy-palaiseau-residence.fr.html), 25 minutes by bus
+- [Ecla Business](https://www.booking.com/hotel/fr/ecla-campus-palaiseau.fr.html), 33 minutes by bus 
 
 <!--**Cost:** Participants will have to pay for their travel, accommodation and meals. If you are reimbursed by EuroProofNet, note that the daily allowance has been fixed at 125 euros. See the [reimbursement rules](https://europroofnet.github.io/reimbursement-rules/) for more details.-->
 
