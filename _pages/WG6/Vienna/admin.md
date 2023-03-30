@@ -36,7 +36,7 @@ breadcrumbs: true
 
 - [X] The chair sends the call for participation and reimbursement applications to all action members, at least 1 month before the deadline.
 
-- [ ] The organizer collects data and files from participants willing to be reimbursed (name, email, country, address, gender, age, dates of arrival and departure, quote for transport, university certificates for master students). To this end, we strongly suggest the organizer to use forms like https://docs.google.com/forms/d/1WgAdt6_BkJiT9u6lSqIQ5p_7955CHFEjbxG2Ucj5gRg or https://docs.google.com/forms/d/12YxrDK-dupOFj5R5CdINvlc6xzW6C5DpEr58JoVmBIg .
+- [X] The organizer collects data and files from participants willing to be reimbursed (name, email, country, address, gender, age, dates of arrival and departure, quote for transport, university certificates for master students). To this end, we strongly suggest the organizer to use forms like https://docs.google.com/forms/d/1WgAdt6_BkJiT9u6lSqIQ5p_7955CHFEjbxG2Ucj5gRg or https://docs.google.com/forms/d/12YxrDK-dupOFj5R5CdINvlc6xzW6C5DpEr58JoVmBIg .
 
 - [ ] The Grant Holder contacts the organizer to collect the additional data it needs.
 
@@ -44,19 +44,19 @@ breadcrumbs: true
 
 ### at least 1 month before the meeting:
 
-- [ ] The organizer and the chair check the eligibility of the applicants.
+- [X] The organizer and the chair check the eligibility of the applicants.
 
-- [ ] Core group meeting to select the participants who will be reimbursed.
+- [X] Core group meeting to select the participants who will be reimbursed.
 
-- [ ] The organizer informs the applicants of the result.
+- [X] The organizer informs the applicants of the result.
 
-- [ ] The chair invites on https://e-services.cost.eu/ the participants who have been selected.
+- [X] The chair invites on https://e-services.cost.eu/ the participants who have been selected.
 
-- [ ] Participants have 2 weeks maximum to accept their invitation on https://e-services.cost.eu/. After this delay, the invitation is cancelled.
+- [X] Participants have 2 weeks maximum to accept their invitation on https://e-services.cost.eu/. After this delay, the invitation is cancelled.
 
-- [ ] The chair sends to the Grant Holder the list of selected participants.
+- [X] The chair sends to the Grant Holder the list of selected participants.
 
-- [ ] The Grant Holder contacts the selected participants to collect the data it needs.
+- [X] The Grant Holder contacts the selected participants to collect the data it needs.
 
 - [ ] The selected participants provide the Grant Holder with the data it needs.
 
