@@ -21,8 +21,8 @@ We use a [git repository to store all our documents and deliverables](https://gi
 
 ### Activities
 
-* Mai 2023: [WG2 second meeting and Dedukti tools developers meeting 3](https://europroofnet.github.io/dk-meeting3/) in Liège (Belgium)
+* May 2023: [WG2 second meeting and Dedukti tools developers meeting 3](https://europroofnet.github.io/dk-meeting3/) in Liège (Belgium)
 
 * August 2022: [WG2 kickoff meeting](https://europroofnet.github.io/wg2-meeting1/) co-located with the [PAAR workshop](https://paar2022.github.io/) during [FLOC](https://www.floc2022.org/) at Haifa (Israel)
 
-* Summer 2022: next edition of [VTSA](https://resources.mpi-inf.mpg.de/departments/rg1/conferences/vtsa22/) at Saarbrücken (Germany) with a focus on proof-generating verification systems
+* September 2022: [VTSA](https://resources.mpi-inf.mpg.de/departments/rg1/conferences/vtsa22/) school at Saarbrücken (Germany) with a focus on proof-generating verification systems
