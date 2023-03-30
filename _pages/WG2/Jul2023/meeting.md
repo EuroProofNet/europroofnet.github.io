@@ -23,7 +23,7 @@ Specifically, this meeting will look at:
 
 The meeting aims to elicit feedback, suggestions, criticisms, etc, of these resources, in order to ensure that their continued development meets the needs of successful automated reasoning.
 
-**Organizers:** [Geoff Sutcliffe](https://www.cs.miami.edu/home/geoff/) and [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/)
+**Organizers:** [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/), [Geoff Sutcliffe](https://www.cs.miami.edu/home/geoff/), [Alexander Steen](https://www.alexandersteen.de/), [Pascal Fontaine](https://people.montefiore.uliege.be/pfontain/)
 
 **Date:** 13 July 2023, 9 am - 6 pm (hours to be confirmed)
 
