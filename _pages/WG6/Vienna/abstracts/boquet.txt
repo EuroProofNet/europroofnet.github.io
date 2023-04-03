@@ -1,5 +1,7 @@
+Title:
 For the Metatheory of Type Theory, Internal Sconing Is Enough
 
+Abstract:
 I will present results obtained in joint work with Ambrus
 Kaposi and Christian Sattler, written in the preprint
 arXiv:2302.05190.

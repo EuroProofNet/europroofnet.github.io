@@ -1,0 +1,5 @@
+Title:
+Computational proofs in Cubical Type Theories
+
+Abstract:
+In recent years we have been able to do a variety of proofs in synthetic homotopy theory purely by automatic computation in Cubical Agda, including the computation of a variation on the Brunerie number. These computations and proofs should be possible to carry out in other cubical systems, like cubicaltt, redtt, cooltt, etc. However, translating results between these systems can be quite challenging as the underlying cubical type theories are quite different. In the talk I will discuss various proofs by computation that we have done as well as some ideas on how to translate proofs between cubical type theories.

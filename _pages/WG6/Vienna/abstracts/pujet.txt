@@ -1,0 +1,13 @@
+Title:
+Mechanising reducibility proofs in Coq
+
+Abstract:
+Reducibility models play a central role in the metatheory of type theory: they are the starting point for all proofs of normalisation and decidability. But in the case of dependent type theories, reducibility models become complex and somewhat fragile, with many interdependent parts.
+
+This complexity makes reducibility proofs an ideal candidate for formalisation. And indeed, the community has made significant efforts in that direction, notably with the Coq proof of Barras and Werner for the Calculus of Constructions, and the Agda proof of Abel, Öhman and Vezzosi for Martin-Löf Type Theory.
+
+In this talk, I will report on an experiment to extend and mechanise in Coq the reducibility proof of Abel et al. In comparison to their development, ours attempts to minimise the gap between the theory and the necessary meta-theory, and pushes the verification all the way to a bidirectional type-checking algorithm.
+
+Additionally, I will survey some exciting developments in the community that make use of reducibility models to tackle several open problems in type theory.
+
+This talk is based on joint work with Arthur Adjedj, Meven Lennon-Bertrand and Kenji Maillard.
