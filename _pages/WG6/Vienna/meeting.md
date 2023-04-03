@@ -23,11 +23,12 @@ The programme will consist mainly of short talks, and plenty of time for discuss
 
 
 **Invited speakers**  
-[Daniel Gratzer](https://jozefg.github.io/)  
-[Ambroise Lafont](https://amblafont.github.io/)  
-[Anders Mörtberg](https://staff.math.su.se/anders.mortberg/)  
-[Loïc Pujet](https://pujet.fr/)  
+[Daniel Gratzer](https://jozefg.github.io/) (Aarhus University)  
+[Ambroise Lafont](https://amblafont.github.io/) (University of Cambridge)  
+[Anders Mörtberg](https://staff.math.su.se/anders.mortberg/) (Stockholm University)  
+[Loïc Pujet](https://pujet.fr/) (INRIA)  
 
+[**Abstracts of invited and contributed talks**](programme)
 
 **Deadlines (AoE)**  
 Submission of talk proposals: Monday 27 February  
