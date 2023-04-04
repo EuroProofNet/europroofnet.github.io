@@ -7,6 +7,10 @@ author_profile: true
 
 To contribute to the web site, please open an [issue](https://github.com/EuroProofNet/europroofnet.github.io/issues), create a [pull request](https://github.com/EuroProofNet/europroofnet.github.io) or send a mail to the [science communication coordinators](../contact).
 
+**STSM reports**
+
+- [STSM reports](../accepted_stsms)
+
 **2023**
 
 - [A modular construction of type theories](https://arxiv.org/pdf/2111.00543?), Frédéric Blanqui, Gilles Dowek, Emilie Grienenberger, Gabriel Hondet and François Thiré, to appear in Logical Methods in Computer Science (LMCS)
@@ -43,4 +47,6 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 
 **Reports**
 
-- [WG3 kick-off meeting](../wg3-meeting1), Valencia, 10-11 February 2022 [Slides&Videos](https://europroofnet.github.io/wg3-meeting1-program) [Report](https://europroofnet.github.io/_pages/WG3/Feb2022/ReportWG3meeting.pdf)
+- [2nd WG3 meeting](../wg3-timisoara), Timisoara, 8-9 February 2023, [slides&videos](wg3-meeting-timisoara-program/) [report](https://europroofnet.github.io/_pages/WG3/Feb2023/ReportWG3TimisoaraMeeting.pdf)
+
+- [1st WG3 meeting](../wg3-meeting1), Valencia, 10-11 February 2022 [slides&videos](https://europroofnet.github.io/wg3-meeting1-program) [report](https://europroofnet.github.io/_pages/WG3/Feb2022/ReportWG3meeting.pdf)

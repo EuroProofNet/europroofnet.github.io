@@ -95,7 +95,7 @@ author_profile: true
   Grant: 1450 EUR  
   Dates: 2023-03-10 to 2023-03-27
 
-* **Translation of Generic Symbolic Execution Steps into Dedukti** [application](/_pages/stsm/lucanu-app.pdf)   
+* **Translation of Generic Symbolic Execution Steps into Dedukti** [application](/_pages/stsm/lucanu-app.pdf) [report](/_pages/stsm/lucanu-rep.pdf)   
   Visitor: Dorel Lucanu (Alexandru Ioan Cuza University, Romania)   
   Host: Gilles Dowek (Ecole Normale Superieure Paris-Saclay, France)   
   Grant: 1835 EUR  
