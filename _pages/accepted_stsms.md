@@ -71,7 +71,7 @@ author_profile: true
   Grant: 1363 EUR  
   Dates: 2023-03-18 to 2023-03-25
 
-* **Proof automation in Cubical Agda** [application](/_pages/stsm/dore-app.pdf)   
+* **Proof automation in Cubical Agda** [application](/_pages/stsm/dore-app.pdf) [report](/_pages/stsm/dore-rep.pdf)   
   Visitor: Maximilian Doré (University of Oxford, UK)   
   Host: Anders Mörtberg (Stockholm University, Sweden)   
   Grant: 1192 EUR  
@@ -89,7 +89,7 @@ author_profile: true
   Grant: 1020 EUR  
   Dates: 2023-05-02 to 2023-05-05
 
-* **Termination Checking of Real-World Programs Using Term Rewriting Systems** [application](/_pages/stsm/milovancevic-app.pdf)   
+* **Termination Checking of Real-World Programs Using Term Rewriting Systems** [application](/_pages/stsm/milovancevic-app.pdf) [report](/_pages/stsm/milovancevic-rep.pdf)   
   Visitor: Dragana Milovancevic (EPFL, Switzerland)   
   Host: Carsten Fuhs (Birkbeck, University of London, UK)   
   Grant: 1450 EUR  
