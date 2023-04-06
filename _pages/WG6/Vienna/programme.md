@@ -1,3 +1,11 @@
+---
+title: "WG6 meeting in Vienna in April 2023 - Programme"
+layout: single
+permalink: /wg6-vienna/programme/
+author_profile: true
+breadcrumbs: true
+---
+
 ### Programme
 
 | | lun 24 | mar 25 |
