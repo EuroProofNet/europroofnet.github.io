@@ -1,7 +1,7 @@
 ---
-title: "Administration page for the second WEPN meeting to be collocated with ITP2023"
+title: "Administration page for the WEPN23 meeting to be collocated with ITP2023"
 layout: single
-permalink: /2ndWEPN-admin/
+permalink: /women-epn-2023-admin/
 author_profile: true
 breadcrumbs: true
 ---
@@ -12,9 +12,9 @@ breadcrumbs: true
 
 - [] The organizer gives to the chair the exact address, and the starting and ending dates and times:
 
-    * [] complete address: 
-    * [] starting date and time: 
-    * [] ending date and time: 
+    * [] complete address:
+    * [] starting date and time:
+    * [] ending date and time:
 
 - [] The organizer checks the prices of accommodations and restaurants around the place of the meeting at the dates of the meeting, and sends to the chair a proposal for the daily allowance.
 
