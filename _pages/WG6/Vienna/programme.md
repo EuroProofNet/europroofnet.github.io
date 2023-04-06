@@ -20,7 +20,7 @@ breadcrumbs: true
 | 15:50-16:20 | [Nuyts](#nuyts) | [Felicissimo](#felicissimo) |
 | 16:20-17:00 | _break_ | _break_ |
 | 17:00-17:30 | [Rasekh](#rasekh) | [Moreau](#moreau) |
-| 17:30-18:00 | [Bocquet](#boquet) | |
+| 17:30-18:00 | [Bocquet](#bocquet) | |
 
 
 
