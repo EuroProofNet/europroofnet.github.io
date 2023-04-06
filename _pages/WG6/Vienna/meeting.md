@@ -32,7 +32,7 @@ _Computational proofs in Cubical Type Theories_
 [Loïc Pujet](https://pujet.fr/) (INRIA):
 _Mechanising reducibility proofs in Coq_  
 
-**Contributed talks**
+**Contributed talks**  
 Rafaël Bocquet (Eötvös Loránd University):
 _For the Metatheory of Type Theory, Internal Sconing Is Enough_  
 Felix Bradley	(Royal Holloway, University of London):
@@ -52,7 +52,7 @@ _Category Theory of Universes_
 Taichi Uemura (Stockholm University):
 _Towards modular proof of normalization for type theories_  
 
-[**Abstracts of invited and contributed talks**](programme)
+**Schedule and abstracts:** Please see [here](programme).
 
 **Deadlines (AoE)**  
 Submission of talk proposals: Monday 27 February  
