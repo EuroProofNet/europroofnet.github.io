@@ -8,7 +8,7 @@ breadcrumbs: true
 
 ### Programme
 
-| | lun 24 | mar 25 |
+| | Mon 24 | Tue 25 |
 |:---:|:---:|:---:|
 | 09:30-10:30 | [Gratzer](#gratzer) | [Mörtberg](#mortberg) |
 | 10:30-11:10 | _break_ | _break_ |
