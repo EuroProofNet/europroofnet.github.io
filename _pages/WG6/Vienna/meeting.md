@@ -61,7 +61,7 @@ Funding requests: Sunday 19 March
 Registration: Friday 7 April  
 
 **Registration & funding:** 
-Registration is now closed. For inforation reagdrding reimbursement, please see [here](../reimbursement-rules). The daily allowance has been fixed to 140 euros.
+Registration is now closed. For information regarding reimbursement, please see [here](../reimbursement-rules). The daily allowance has been fixed to 140 euros.
 
 
 **Local information:** Please see [here](https://hott-uf.github.io/2023/local-info.html).
