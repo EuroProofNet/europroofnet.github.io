@@ -65,7 +65,7 @@ author_profile: true
   Grant: 1500 EUR  
   Dates: 2023-04-16 to 2023-04-23
 
-* **Comparing notions of dependent algebraic theory** [application](/_pages/stsm/lumsdaine-app.pdf)   
+* **Comparing notions of dependent algebraic theory** [application](/_pages/stsm/lumsdaine-app.pdf) [report](/_pages/stsm/lumsdaine-rep.pdf)   
   Visitor: Peter Lumsdaine (Stockholm University, Sweden)   
   Host: Benedikt Ahrens (Delft University of Technology, Netherlands)   
   Grant: 1363 EUR  
