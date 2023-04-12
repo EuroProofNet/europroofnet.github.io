@@ -68,22 +68,24 @@ Jugoslávských partyzánů 1580/3
 | 13:00   | Lunch                                | Lunch                              | Lunch                            |
 | 13:30   | Lunch                                | Lunch                              | Lunch                            |
 | 14:00   | Kalisyk (about WG5)                  | Doré / Bartek                      | Short/intro talks                |
-| 14:30   | Kalisyk (about WG5)                  | Short/intro talks                  | Short/intro talks                |
+| 14:30   | Kalisyk (about WG5)                  | Purgal/????                        | Short/intro talks                |
 | 15:00   | WG5 discussion & deliverables        | WG5 discussion & deliverables      | WG5 discussion & deliverables    |
 | 15:30   | WG5 discussion & deliverables        | WG5 discussion & deliverables      | WG5 discussion & deliverables    |
 | 16:00   | WG5 discussion & deliverables        | WG5 discussion & deliverables      | WG5 discussion & deliverables    |
 | 16:30   | WG5 discussion & deliverables        | WG5 discussion & deliverables      | WG5 discussion & deliverables    |
 
 - **Moa Johannson:** Exploring Mathematical Conjecturing with Large Language Models (joint work with Nicholas Smallbone) [Abstract](Johannson)
-- **Zsolt Zombori:** Training Data Extraction for Identifying Useful Lemmas (join work with Michael Rawson, Christoph Wernhard) [Abstract]({{ site.url }}/assets/wg5/Zombori.pdf)
-- **Matej Petković:** Machine Learning for Context-Sensitive Search in Agda (joint work with Andrej Bauer and Ljupco Todorovski) [Abstract]({{ site.url }}/assets/wg5/Petkovic.pdf)
+- **Zsolt Zombori:** Training Data Extraction for Identifying Useful Lemmas (join work with Michael Rawson, Christoph Wernhard) [Abstract]({{ site.url }}/_pages/WG5/Prague23/Zombori.pdf)
+- **Matej Petković:** Machine Learning for Context-Sensitive Search in Agda (joint work with Andrej Bauer and Ljupco Todorovski) [Abstract]({{ site.url }}/_pages/WG5/Prague23/Petkovic.pdf)
 - **Cezary Kalisyk:** Working Group 5, Machine Learning in Proofs
 - **Michael Rawson:** TBA
 - **Stephan Schulz:** Proof generation and challenges
-- **Julian Parsert:** Data Generation for SyGuS Problems (joint work with Elizabeth Polgreen) [Abstract]({{ site.url }}/assets/wg5/Parsert.pdf)
+- **Julian Parsert:** Data Generation for SyGuS Problems (joint work with Elizabeth Polgreen) [Abstract]({{ site.url }}/_pages/WG5/Prague23/Parsert.pdf)
 - **Maximilian Doré:** Correct-by-construction programming with generative language models
 - **Filip Bartek:** TBA
+- **Stanislaw Purgal:** Splitting large models across multiple machines
 - **Maximilian Doré:** Correct-by-construction programming with generative language models
-- **Jan Hula:** TBA
-- **Tereso del Río:** Data augmentation in mathematical objects [Abstract]({{ site.url }}/assets/wg5/DelRio.pdf)
-- **Rashid Barket:** Generating Rational Elementary Integrable Expressions [Abstract]({{ site.url }}/assets/wg5/Barket.pdf)
+- **Jan Hula:** ML 2.0 - sketches of the horizon
+- **Tereso del Río:** Data augmentation in mathematical objects [Abstract]({{ site.url }}/_pages/WG5/Prague23/DelRio.pdf)
+- **Rashid Barket:** Generating Rational Elementary Integrable Expressions [Abstract]({{ site.url }}/_pages/WG5/Prague23/Barket.pdf)
+
