@@ -83,7 +83,7 @@ See the [FLoC pages](https://www.floc2022.org/)
 | --------------- | ------------------------------------------------------------------------------------ |
 | 09:00-10:00 	  | *Josef Urban* (invited talk, Czech Institute of Informatics, Robotics and Cybernetics) |
 |                 | Training ENIGMAs, CoPs, and other thinking creatures                                 |
-|                 | [Slides of the talk](/assets/wg2/Aug2022/Urban.pdf) [or on the author's web](http://grid01.ciirc.cvut.cz/~mptp/paar22.pdf) |
+|                 | [Slides of the talk](./Urban.pdf) [or on the author's web](http://grid01.ciirc.cvut.cz/~mptp/paar22.pdf) |
 | --------------- | ------------------------------------------------------------------------------------ |
 
 
@@ -97,22 +97,22 @@ See the [FLoC pages](https://www.floc2022.org/)
 |                | ----------------------------------------------------- |
 | -------------- | ----------------------------------------------------- |
 |14:00-14:05   | COST action EuroProofNet plenary presentation         |
-|              | [Slides](/assets/wg2/Aug2022/Steen_Intro.pdf)                             |
+|              | [Slides](./Steen_Intro.pdf)                             |
 |--------------|-------------------------------------------------------|
 |14:05-14:50   | *Guillaume Burel* (invited talk, ENSIIE)              |
 |              | EuroProofNet presentation on proofs in Dedukti        |
-|              | [Slides](/assets/wg2/Aug2022/Burel.pdf)                                   |
+|              | [Slides](./Burel.pdf)                                   |
 |--------------|-------------------------------------------------------|
 |14:50-15:35   | *Andres Notzli* (invited talk, Stanford)              |
 |              | EuroProofNet presentation on SMT and proofs           |
-|              | [Slides](/assets/wg2/Aug2022/Notzli.pdf)              |
+|              | [Slides](./Notzli.pdf)              |
 |--------------|-------------------------------------------------------|
 |16:00-16:45   | SMT Proof discussion (joint with the SMT Workshop)    |
 |              | The items discussed are also summarized in |
 |              | [Haniel Barbosa's invited column in the AAR newsletter](https://aarinc.org/Newsletters/138-2022-07.html#guest) |
 |--------------|-------------------------------------------------------|
 |16:45-17:30   | WG 2 business meeting and planning                    |
-|              | [Slides](/assets/wg2/Aug2022/Fontaine_Steen_BM_slides.pdf)                |
+|              | [Slides](./Fontaine_Steen_BM_slides.pdf)                |
 |--------------|-------------------------------------------------------|
 
 
