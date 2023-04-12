@@ -6,20 +6,26 @@ author_profile: true
 ---
 
 EuroProofNet can provide two kinds of grants:
-- Short-Term Scientific Mission (STSM): see [past STSMs](../accepted_stsms)
-- Inclusve-Target Country Conference Grants (ITCC)
 
+- Short-Term Scientific Mission (STSM) -- see [past STSMs](../accepted_stsms)
+
+- Inclusiveness Target Country Conference Grants (ITCG) -- see [past ITCGs](../accepted_itcgs)
+  
 **Upcoming deadlines**
 
-- 1st March 2023
-- 8 May 2023
+- 8 May 2023: Priority will be given to the proposals contributing to the objectives and deliverables of the working groups 2, 4 and 5:
+  * WG2: detailed, checkable proofs from automated theorem provers
+  * WG4: maintenance, refactoring and search of proof libraries
+  * WG5: learning-based methods for automated theorem proving and natural language proofs
+
+Next STSMs and ITCGs must occur betwen May 15 and September 30.
 
 **Application web sites**
 
 - [STSM](https://e-services.cost.eu/activity/grants/add?type=STSM)
 - [ITCG](https://e-services.cost.eu/activity/grants/add?type=ITCG)
 
-**What is an ITC Conference Grant?**
+**What is an ITCG?**
 
 ITC Conference Grants are given to young (<= 40 years old) researchers
 affiliated in an [Inclusiveness Target Country or Near Neighbour
@@ -32,14 +38,14 @@ the same as for STSMs.
 
 A Short-Term Scientific Mission (STSM) is a research visit of an individual researcher from a country participating in the Action in a different country also participating in the Action. We encourage STSMs as they are an effective way of starting and maintaining collaborations.
 
-The procedure for proposing an STSM is described in [Annex 2 of the Annotated Rules](https://www.cost.eu/uploads/2022/10/COST-094-21-Annotated-Rules-for-COST-Actions-Level-C-V1.3-.pdf#page=96).
+The procedure for proposing an STSM is described in [Annex 2 of the Annotated Rules](https://www.cost.eu/Annotated_Rules_for_COST_Actions_C#page=96).
 
 The main points about STSMs are:
 
 - Proposals should be submitted by the deadlines.
 - An STSM must be between two different countries which are participating in the Action.
 - The typical duration is one or two weeks. We favor short missions so that more people can get funded.
-- A beneficiary of an STSM is reimbursed after his/her mission if to the conditions below are satisfied.
+- A beneficiary of an STSM is reimbursed after his/her mission if the conditions below are satisfied.
 - The total cost of the mission cannot exceed EUR 4000 (this is a hard limit).
 
 **Eligibility**
@@ -85,6 +91,7 @@ Proposals must be made through the [e-COST system](https://e-services.cost.eu/ac
   - Expected impact (max 500 words)
 - Acceptance letter/mail from the conference organizers.
 - A quote for the travel in euros (screen capture).
+- The cost of the conference registration fees.
 
 Be careful to check flight/train tickets that you
 can modify or cancel for free or at little cost (possibly by taking
@@ -111,7 +118,7 @@ insurance).
 
 The final price of your ticket should not be significantly bigger
 (>10%) than the one given in your proposal. In case of significant
-increase, you should ask confirmation to the
+increase, you should ask confirmation from the
 [chair](https://blanqui.gitlabpages.inria.fr/) beforehand. Finally,
 you should communicate the final cost of your flight or train ticket
 to the [chair](https://blanqui.gitlabpages.inria.fr/) as soon as
@@ -137,7 +144,7 @@ meal receipts, **within 2 weeks after the end of the STSM.** See the
 
 In case you need to change the dates of an accepted STSM, you have to
 inform the STSM coordinators as soon as possible and provide new dates
-so that the STSM ends before October 15.
+so that the STSM ends by the end of September.
 
 In case you need to cancel an accepted STSM or ITCG, you need to inform the
 STSM coordinators as soon as possible.
@@ -157,9 +164,8 @@ For any question, please contact the two coordinators for STSMs: [Danijela Simic
 If you have questions concerning reimbursements, please contact
 the [Grant Holder](mailto:saf-saclay-recettes@inria.fr).
 
-**Past deadlines**
+**Attributed grants**
 
-- 1st January 2023
-- 1st July 2022 (notification on 8 July): we were especially looking for applications from WG4 on the construction, management and (re)use of big libraries of formal proofs
-- 3 April 2022 (notification on 15 April): we were especially looking for applications from women and working groups other than WG3
-- 18 January 2022 (notification 26 January)
+- [past STSMs](../accepted_stsms)
+
+- [past ITCGs](../accepted_itcgs)

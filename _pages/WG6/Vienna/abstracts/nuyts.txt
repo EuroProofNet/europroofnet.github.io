@@ -1,0 +1,12 @@
+Every modality is a relative right adjoint
+
+(J.w.w. Josselin Poiret)
+
+MTT (multimode type theory) is a type system that combines high generality (in the sense that it can be instantiated with a mode theory of one's choice) with a relatively simple metatheory.
+The main complaint about the system is that it requires every internal modality to be a (weak) dependent right adjoint, with the lock operation on contexts interpreted by the left adjoint.
+In a way, this restriction is an immediate consequence of one of the design goals of MTT, namely that the user should not be asked for explicit substitutions and that there should be no delayed substitutions.
+This requires that every context should have a universal approximation as a context in the image of the modality, which is exactly what a left adjoint gives.
+It is therefore not easy to find a design space where the complaint can be addressed.
+This is why we think it is worthwhile to communicate an idea still in early development: Every functor F : C -> D is a relative right adjoint along the yoneda-embedding h : C -> Copsh(C) of C in its copresheaf category.
+This allows for an introduction rule for the modal type FT taking a subterm of type hT.
+While MTT modalities (being right adjoints) always respect limits, h never respects non-trivial limits; h thus acts as a guard for functors F that do not respect limits.

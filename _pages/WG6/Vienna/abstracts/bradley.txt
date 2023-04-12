@@ -1,0 +1,3 @@
+On the Metatheory of Subtype Universes
+
+Subtype universes were initially introduced by Maclean and Luo as a way of formulating the notion of a 'type of subtypes' for a logical type theory equipped with coercive subtyping. This extended type theory has several nice metatheoretical properties such as strong normalisation, but this implementation excluded certain kinds of subtyping relations from being used, and the formulation was wrapped up in the complexities of the underlying type theory's universe hierarchy. We consider a simpler yet more expressive reformulation of subtype universes with the ability to extract coercions and discuss how this lifts the limits on what subtype relations can be used, and how the choice of subtype relations impacts the metatheory.

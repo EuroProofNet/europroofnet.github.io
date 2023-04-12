@@ -1,0 +1,26 @@
+Title:
+For the Metatheory of Type Theory, Internal Sconing Is Enough
+
+Abstract:
+I will present results obtained in joint work with Ambrus
+Kaposi and Christian Sattler, written in the preprint
+arXiv:2302.05190.
+
+Metatheorems about type theories are often proven by interpreting the
+syntax into models constructed using categorical gluing. We propose to
+use only sconing (gluing along a global section functor) instead of
+general gluing. The sconing is performed internally to a presheaf
+category, and we recover the original glued model by externalization.
+
+Our method relies on constructions involving two notions of models:
+first-order models (with explicit contexts) and higher-order models
+(without explicit contexts). Sconing turns a displayed higher-order
+model into a displayed first-order model.
+
+Using these, we derive specialized induction principles for the syntax
+of type theory. The input of such an induction principle is a
+boilerplate-free description of its motives and methods, not
+mentioning contexts. The output is a section with computation rules
+specified in the same internal language. We illustrate our framework
+by proofs of canonicity, normalization and syntactic parametricity for
+type theory.

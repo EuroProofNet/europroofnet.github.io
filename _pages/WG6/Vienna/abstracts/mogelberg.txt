@@ -1,0 +1,3 @@
+Higher Inductive Types in Coinductive Definitions via Guarded Recursion
+
+Clocked Cubical Type Theory (CCTT) extends cubical type theory with multi-clocked guarded recursion. One of the intended applications of this is for programming with coinductive types, going beyond the standard examples of M-types that most previous work considers. For example, one can use higher inductive types in coinductive definitions as needed to e.g. describe non-deterministic or probabilistic processes. In this talk I will give an overview of CCTT, focussing on the constructions relevant for coinductive types. I hope to have time to also sketch the denotational semantics.

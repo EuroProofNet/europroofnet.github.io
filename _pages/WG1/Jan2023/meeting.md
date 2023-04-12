@@ -58,7 +58,7 @@ of enriching the output with type class related annotations.
 
 - Thomas Traversié worked on the elimination of the user-defined rewriting rules in a Dedukti theory. Such a transformation is done by replacing these rewriting rules with axioms. The main difficulty is to handle the different possible translations of a term, depending on where the rewriting rules are applied. He started to implement this technique.
 
-- [Simon Guilloud](https://people.epfl.ch/simon.guilloud) and [Amélie Ledein](http://www.lsv.fr/~ledein/) have implemented Sequent Calculus inside Lambdapi. Simon have explored variants of FOL where conjunctions and disjunctions are represented as lists and the possibility of using Lambdapi's rewrite system to compute partial normal forms of formulas. He also has started a reduction of the Sequent Calculus system to Natural Deduction and lambda calculus (using Curry-Howard).
+- [Simon Guilloud](https://people.epfl.ch/simon.guilloud) and [Amélie Ledein](https://lmf.cnrs.fr/Perso/AmelieLedein) have implemented Sequent Calculus inside Lambdapi. They have explored variants of FOL where conjunctions and disjunctions are represented as lists and the possibility of using Lambdapi's rewrite system to compute partial normal forms of formulas. They also have started a reduction of the Sequent Calculus system to Natural Deduction and lambda calculus (using Curry-Howard).
 
 - Claude Stolze finished implementing a translator from [Atelier B](https://www.atelierb.eu/) proof obligations (in POG format) to Lambdapi. 5387 POG files (5.7 GiB) have been processed and the resulting Lambdapi files have been typechecked successfully. This will be the basis for proving these proof obligations using external tools.
 

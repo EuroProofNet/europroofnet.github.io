@@ -81,8 +81,8 @@ during the meeting:
 
 - [X] The organizer adds its claim for LOS on https://e-services.cost.eu/.
 
-- [ ] The selected participants add their reimbursement claims and upload a copy of their travel documents and bills on https://e-services.cost.eu/ within 2 weeks. Only reimbursement of travels >100 km can be claimed (travels <100 km are included in the daily allowance). Taxis are not reimbursed. The participants shall, in order to see their long-distance travel expenses being reimbursed, attach supporting documents which shall clearly detail: the name of the service provider, the mode of transport taken, the full price paid for the ticket, the name of the passenger if applicable, the travel dates, departure and arrival times (an invoice only showing the amount will not suffice).
+- [X] The selected participants add their reimbursement claims and upload a copy of their travel documents and bills on https://e-services.cost.eu/ within 2 weeks. Only reimbursement of travels >100 km can be claimed (travels <100 km are included in the daily allowance). Taxis are not reimbursed. The participants shall, in order to see their long-distance travel expenses being reimbursed, attach supporting documents which shall clearly detail: the name of the service provider, the mode of transport taken, the full price paid for the ticket, the name of the passenger if applicable, the travel dates, departure and arrival times (an invoice only showing the amount will not suffice).
 
-- [ ] The Grant Holder checks reimbursement claims.
+- [X] The Grant Holder checks reimbursement claims.
 
-- [ ] The Grant Holder reimburses the organizer and the invited participants whose claims are valid.
+- [X] The Grant Holder reimburses the organizer and the invited participants whose claims are valid.

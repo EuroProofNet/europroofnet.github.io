@@ -7,6 +7,7 @@ author_profile: true
 
 To contribute to the web site, please open an [issue](https://github.com/EuroProofNet/europroofnet.github.io/issues), create a [pull request](https://github.com/EuroProofNet/europroofnet.github.io) or send a mail to the [science communication coordinators](../contact).
 
+
 - 2021- : [Hoskinson Center for Formal Mathematics](https://www.cmu.edu/news/stories/archives/2021/september/hoskinson-center-for-formal-mathematics.html)
 
 - 2022-2026: ForCUTT, Formalisation of Constructive Univalent Type Theory (ERC Advanced Grant to [Thierry Coquand](http://www.cse.chalmers.se/~coquand/))
@@ -19,3 +20,8 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 
 - 2017-2022: [SMART](https://project-smart.uibk.ac.at/), Strong
 Modular Proof Assistance Reasoning Across Theories
+
+Smaller projects
+----------------
+
+- 2023: after her STSM, [Dragana Milovancevic](https://people.epfl.ch/dragana.milovancevic) (EPFL, Switzerland) received a 6-months Doctoral Mobility Grant from the EPFL to continue her collaboration with Carsten Fuhs (University of London, UK).

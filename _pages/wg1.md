@@ -13,7 +13,9 @@ by developing tools to translate proofs from one system to another.
 
 ### Activities
 
-* 27-29 January 2023: [1st Dedukti tools developers meeting](../dk-meeting2), Fréjus, France
+- 11-13 May 2023: [Developers meeting on proof generating automated theorem provers](../dk-meeting3), Liège, Belgium
+
+* 27-29 January 2023: [2nd Dedukti tools developers meeting](../dk-meeting2), Fréjus, France
 
 * 16-18 October 2022: [1st Dedukti tools developers meeting](../dk-meeting1), Val d'Ajol, France
 

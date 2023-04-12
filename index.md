@@ -34,15 +34,22 @@ corner).
 
 **Coming events:**
 
-- 1st March 2023: [deadline for STSM and ITCG proposals](../grants)
-
 - 18-20 April 2023: [Joint Workshops on Practical Aspects of Machine Learning in Theorem Proving (PAMLTP) and Datasets Generation for Data-Deficient Domains (DG4D^3)](../Prague23), Prague, Czech Republic
 
 - 24-25 April 2023: [WG6 meeting](../wg6-vienna), Vienna, Austria
 
-- 11-13 May 2023: [Developers meeting on proof generating automated theorem provers](../dk-meeting3) (place to be confirmed)
+- 8 May 2023: [deadline for STSM and ITCG proposals](../grants) Priority will be given to the proposals contributing to the objectives and deliverables of the working groups 2, 4 and 5:
+  * WG2: detailed, checkable proofs from automated theorem provers
+  * WG4: maintenance, refactoring and search of proof libraries
+  * WG5: learning-based methods for automated theorem proving and natural language proofs
 
-- 13 July 2023: WG2 meeting/TPTP tea party, ENS Paris-Saclay, France
+- 11-13 May 2023: [Developers meeting on proof generating automated theorem provers](../dk-meeting3), Liège, Belgium
+
+- 19-23 June 2023: [School on proof assistants for teaching proof and proving](https://pat2023.icube.unistra.fr/) (PAT), Val d'Ajol, France
+
+- 13 July 2023: [WG2 meeting/TPTP tea party](https://europroofnet.github.io/tptp23-meeting/), ENS Paris-Saclay, France
+
+- 31 July 2023: [Women in EuroProofNet](../women-epn-2023), Bialystok, Poland
 
 [Past events](../events)
 

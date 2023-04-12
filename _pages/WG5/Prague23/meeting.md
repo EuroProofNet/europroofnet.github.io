@@ -35,7 +35,7 @@ The travel and accommodation of a number of participants (approximately 15) will
 If you want to be funded, please
 check the [eligibility](https://europroofnet.github.io/eligibility) and [reimbursement](https://europroofnet.github.io/reimbursement-rules/) rules to know whether you can be funded.
 [Register](https://e-services.cost.eu/action/CA20111/working-groups/apply) to EuroProofNet if not already done.
-Fill in the [following form](https://docs.google.com/forms/d/e/1FAIpQLSeFTGEY83NeryEMKe-_485uwdTkguhkJpvNkVRsdpoSyMxIlQ/viewform?usp=sf_link) before March 10.
+Fill in the [following form](https://docs.google.com/forms/d/e/1FAIpQLSeFTGEY83NeryEMKe-_485uwdTkguhkJpvNkVRsdpoSyMxIlQ/viewform?usp=sf_link) before **March 10**.
 Notifications will be sent on March 17 maximum.
 
 Participants selected to be reimbursed will receive a formal

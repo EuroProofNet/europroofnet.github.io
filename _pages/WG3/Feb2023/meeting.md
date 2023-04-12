@@ -23,7 +23,7 @@ This meeting aims to
 
 ## Output
 
-[//]: # (* Final [Report]&#40;./ReportWG3meeting-Timisoara.pdf&#41;.)
+* Final [Report](./ReportWG3TimisoaraMeeting.pdf).
 * Some presentations and video recordings have been addded to the [program page](./wg3-meeting-timisoara-program.md).
 
 ## Organization

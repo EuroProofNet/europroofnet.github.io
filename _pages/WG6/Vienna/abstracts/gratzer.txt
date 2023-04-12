@@ -1,0 +1,5 @@
+Title:
+Controlling unfolding in type theory
+
+Abstract:
+Traditionally, proof assistants require users to fix whether each definition will or will not be unfolded in the remainder of a development; unfolding definitions is often necessary in order to reason about them, but an excess of unfolding can result in brittle proofs and intractably large proof goals. We present a new system where definitions are by default not unfolded, but users can selectively unfold them in a local manner. We justify our system by means of elaboration to a core theory with extension types---a connective first introduced in the context of HoTT---and by establishing a normalization theorem for our core calculus. We have implemented controlled unfolding in the cooltt proof assistant, inspiring an independent implementation in Agda.

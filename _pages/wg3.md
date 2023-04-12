@@ -6,12 +6,17 @@ author_profile: true
 breadcrumbs: true
 ---
 
-The aim of this WG is twofold: (i) to lower the computational complexity and
-increase expressiveness of techniques for the verification of program
-correctness, and (ii) to strengthen synergies and interoperability between
-different proof systems to combine the benefits of the different methodologies
-underlying the proof systems to facilitate formal verification of both software
+The aim of this WG is twofold:
+- to lower the computational complexity and increase expressiveness of techniques for the verification of program
+correctness,
+- to strengthen synergies and interoperability between different proof systems, to combine the benefits of the different methodologies
+underlying the proof systems, and to facilitate formal verification of both software
 and mathematics.
+
+### Documents and Deliverables
+
+We use a [git repository](https://github.com/EuroProofNet/ProgramVerification) to store all our documents and deliverables. In particular, we initiated an 
+[inventory of program verification tools](https://github.com/EuroProofNet/ProgramVerification/wiki).
 
 ### Activities
 - 8-9 February 2023: [Second WG3 meeting webpage](../wg3-timisoara) 
