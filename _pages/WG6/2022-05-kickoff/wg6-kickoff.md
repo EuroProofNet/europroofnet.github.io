@@ -4,7 +4,7 @@ layout: single
 permalink: /wg6-kickoff-stockholm/
 ---
 
-![Workshop group photo](/assets/wg6/stockholm-kickoff-photo.jpg)
+![Workshop group photo](./stockholm-kickoff-photo.jpg)
 
 ## Overview
 

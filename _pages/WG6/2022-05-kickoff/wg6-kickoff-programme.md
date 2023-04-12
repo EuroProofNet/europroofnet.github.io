@@ -94,7 +94,7 @@ On Sunday, there will be an informal social excursion — not highly organised, 
     <strong>{{ speakername }}</strong>{{ speakeraffiliation }}, <em>{{ talk.title }}</em>
 
   {% if talk.slides != nil %}
-  • <span class="slides"><a href="/assets/wg6/stockholm-kickoff-slides/{{ talk.slides }}">slides</a></span>
+  • <span class="slides"><a href="./{{ talk.slides }}">slides</a></span>
   {% endif %}
 
   {% if talk.linkurl != nil %}
