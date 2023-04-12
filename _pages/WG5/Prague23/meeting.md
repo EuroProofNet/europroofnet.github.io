@@ -4,10 +4,7 @@ layout: single
 permalink: /Prague23/
 author_profile: true
 breadcrumbs: true
-<<<<<<< HEAD
 
-=======
->>>>>>> 761d654ce6079d5cd110d9f676de628b8ccc3044
 ---
 will take place at the [Czech Institute of Informatics, Robotics and Cybernetics](https://www.ciirc.cvut.cz/cs/) (CIIRC CTU), Prague, Czech Republic on April 18-19 (**PAMLTP**) and April 19-20 (**DG4D^3**) organized by [Martin Suda](http://people.ciirc.cvut.cz/~sudamar2/) (CTU) and [David Cerna](https://www.cs.cas.cz/staff/dcerna) (CAS ICS), respectively.
 
