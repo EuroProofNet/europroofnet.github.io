@@ -98,7 +98,7 @@ On Sunday, there will be an informal social excursion — not highly organised, 
   {% endif %}
 
   {% if talk.linkurl != nil %}
-  • <span class="link"><a href="{{ talk.linkurl }}">{{ talk.linktext }}</a></span>
+  • <span class="link"><a href="./{{ talk.linkurl }}">{{ talk.linktext }}</a></span>
   {% endif %}
 </p></div>
 
