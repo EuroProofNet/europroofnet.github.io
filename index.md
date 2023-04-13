@@ -49,7 +49,7 @@ corner).
 
 - 13 July 2023: [WG2 meeting/TPTP tea party](https://europroofnet.github.io/tptp23-meeting/), ENS Paris-Saclay, France
 
-- 31 July 2023: [Women in EuroProofNet](../women-epn-2023), Bialystok, Poland
+<!-- 31 July 2023: [Women in EuroProofNet](../women-epn-2023), Bialystok, Poland-->
 
 [Past events](../events)
 
