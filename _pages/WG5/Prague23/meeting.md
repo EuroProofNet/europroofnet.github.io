@@ -6,9 +6,12 @@ author_profile: true
 breadcrumbs: true
 
 ---
+
 will take place at the [Czech Institute of Informatics, Robotics and Cybernetics](https://www.ciirc.cvut.cz/cs/) (CIIRC CTU), Prague, Czech Republic on April 18-19 (**PAMLTP**) and April 19-20 (**DG4D^3**) organized by [Martin Suda](http://people.ciirc.cvut.cz/~sudamar2/) (CTU) and [David Cerna](https://www.cs.cas.cz/staff/dcerna) (CAS ICS), respectively.
 
 The events are supported by the [Cost Action CA20111 - European Research Network on Formal Proofs](https://europroofnet.github.io/) and will be co-located with a meeting of [WG5 of the action](https://europroofnet.github.io/wg5/), on Machine Learning in Proofs running through April 18-20.
+
+<span style="color:red">some ** Directions From CIIRC To Room Below**text</span>
 
 ### Aims:
 
@@ -67,7 +70,7 @@ Jugoslávských partyzánů 1580/3
 | 12:30   | Lunch                                | Lunch                              | Lunch                            |
 | 13:00   | Lunch                                | Lunch                              | Lunch                            |
 | 13:30   | Lunch                                | Lunch                              | Lunch                            |
-| 14:00   | Kaliszyk (about WG5)                 | Doré / Bartek                      | Short/intro talks                |
+| 14:00   | Kaliszyk (about WG5)                 | Doré / Bartek                      | Hozzova /Hajdu talks                |
 | 14:30   | Kaliszyk (about WG5)                 | Purgal / Ratschan                  | Short/intro talks                |
 | 15:00   | WG5 discussion & deliverables        | WG5 discussion & deliverables      | WG5 discussion & deliverables    |
 | 15:30   | WG5 discussion & deliverables        | WG5 discussion & deliverables      | WG5 discussion & deliverables    |
@@ -78,7 +81,7 @@ Jugoslávských partyzánů 1580/3
 - **Zsolt Zombori:** Training Data Extraction for Identifying Useful Lemmas (join work with Michael Rawson, Christoph Wernhard) [Abstract]({{ site.url }}/_pages/WG5/Prague23/Zombori.pdf)
 - **Matej Petković:** Machine Learning for Context-Sensitive Search in Agda (joint work with Andrej Bauer and Ljupco Todorovski) [Abstract]({{ site.url }}/_pages/WG5/Prague23/Petkovic.pdf)
 - **Cezary Kaliszyk:** Working Group 5, Machine Learning in Proofs
-- **Michael Rawson:** TBA
+- **Michael Rawson:** Takin' Off: Deploying Neural Models for Theorem Proving [Abstract](Rawson)
 - **Stephan Schulz:** Proof generation and challenges
 - **Julian Parsert:** Data Generation for SyGuS Problems (joint work with Elizabeth Polgreen) [Abstract]({{ site.url }}/_pages/WG5/Prague23/Parsert.pdf)
 - **Maximilian Doré:** Correct-by-construction programming with generative language models
@@ -86,7 +89,32 @@ Jugoslávských partyzánů 1580/3
 - **Stanislaw Purgal:** Splitting large models across multiple machines
 - **Stefan Ratschan:** Executing Formal Specifications by Enumeration with Bounds Learning
 - **Maximilian Doré:** Correct-by-construction programming with generative language models
-- **Jan Hula:** ML 2.0 - sketches of the horizon
+- **Jan Hula:** ML 2.0 - sketches of the horizon [Abstract](Hula)
 - **Tereso del Río:** Data augmentation in mathematical objects [Abstract]({{ site.url }}/_pages/WG5/Prague23/DelRio.pdf)
 - **Rashid Barket:** Generating Rational Elementary Integrable Expressions [Abstract]({{ site.url }}/_pages/WG5/Prague23/Barket.pdf)
+- **Petra Hozzova:** Program Synthesis in Saturation
+- **Marton Hajdu:**  TBA  
+
+
+### Directions From CIIRC:
+- Step One
+![Step One]({{ site.url }}/_pages/WG5/Prague23/directions/001.jpg)
+- Step Two
+![Step One]({{ site.url }}/_pages/WG5/Prague23/directions/002.jpg)
+- Step Three
+![Step One]({{ site.url }}/_pages/WG5/Prague23/directions/003.jpg)
+- Step Four
+![Step One]({{ site.url }}/_pages/WG5/Prague23/directions/004.jpg)
+- Step Five
+![Step One]({{ site.url }}/_pages/WG5/Prague23/directions/005.jpg)
+- Step Six
+![Step One]({{ site.url }}/_pages/WG5/Prague23/directions/006.jpg)
+- Step Seven
+![Step One]({{ site.url }}/_pages/WG5/Prague23/directions/007.jpg)
+- Step Eight
+![Step One]({{ site.url }}/_pages/WG5/Prague23/directions/008.jpg)
+- Step Nine
+![Step One]({{ site.url }}/_pages/WG5/Prague23/directions/009.jpg)
+- Step Ten
+![Step One]({{ site.url }}/_pages/WG5/Prague23/directions/010.jpg)
 
