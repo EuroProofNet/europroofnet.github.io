@@ -11,7 +11,7 @@ will take place at the [Czech Institute of Informatics, Robotics and Cybernetics
 
 The events are supported by the [Cost Action CA20111 - European Research Network on Formal Proofs](https://europroofnet.github.io/) and will be co-located with a meeting of [WG5 of the action](https://europroofnet.github.io/wg5/), on Machine Learning in Proofs running through April 18-20.
 
-<span style="color:red">some ** Directions From CIIRC To Room Below**text</span>
+<span style="color:red">** Directions From CIIRC To Room Below**</span>
 
 ### Aims:
 
