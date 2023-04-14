@@ -67,8 +67,8 @@ Jugoslávských partyzánů 1580/3
 | 12:30   | Lunch                                | Lunch                              | Lunch                            |
 | 13:00   | Lunch                                | Lunch                              | Lunch                            |
 | 13:30   | Lunch                                | Lunch                              | Lunch                            |
-| 14:00   | Kaliszyk (about WG5)                  | Doré / Bartek                      | Short/intro talks                |
-| 14:30   | Kaliszyk (about WG5)                  | Purgal/????                        | Short/intro talks                |
+| 14:00   | Kaliszyk (about WG5)                 | Doré / Bartek                      | Short/intro talks                |
+| 14:30   | Kaliszyk (about WG5)                 | Purgal / Ratschan                  | Short/intro talks                |
 | 15:00   | WG5 discussion & deliverables        | WG5 discussion & deliverables      | WG5 discussion & deliverables    |
 | 15:30   | WG5 discussion & deliverables        | WG5 discussion & deliverables      | WG5 discussion & deliverables    |
 | 16:00   | WG5 discussion & deliverables        | WG5 discussion & deliverables      | WG5 discussion & deliverables    |
@@ -84,6 +84,7 @@ Jugoslávských partyzánů 1580/3
 - **Maximilian Doré:** Correct-by-construction programming with generative language models
 - **Filip Bartek:** TBA
 - **Stanislaw Purgal:** Splitting large models across multiple machines
+- **Stefan Ratschan:** Executing Formal Specifications by Enumeration with Bounds Learning
 - **Maximilian Doré:** Correct-by-construction programming with generative language models
 - **Jan Hula:** ML 2.0 - sketches of the horizon
 - **Tereso del Río:** Data augmentation in mathematical objects [Abstract]({{ site.url }}/_pages/WG5/Prague23/DelRio.pdf)
