@@ -12,7 +12,7 @@ breadcrumbs: true
 
 **Venue:** [La Résidence](https://la-residence.com/), 5 rue des Mousses, 88340 Le Val d’Ajol, France
 
-**How to get there?** There are direct trains from Paris to Remiremont train station (East of France). A shuttle will be organized from Remiremont train station and the hotel on July 24 at 15:15, and from the hotel to Remiremont train station on July 28 at 15:15. Le Val d'Ajol is also 1h30 away by car from the Bâle airport, 3h by car from Luxembourg, Karlsruhe or Zurich.
+**How to get there?** There are direct trains from Paris to Remiremont train station (East of France). A shuttle will be organized from Remiremont train station and the hotel on July 24 at 15:15, and from the hotel to Remiremont train station on July 28 at 15:15. Le Val d'Ajol is also 1h30 away by car from Bâle airport, and 3h by car from Luxembourg, Karlsruhe or Zurich.
 
 **Programme:** Working individually or in small groups on the development of tools to make progress on the [deliverables](../deliverables) consisting of databases or software developments.
 
