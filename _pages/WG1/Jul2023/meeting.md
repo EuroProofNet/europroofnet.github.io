@@ -14,7 +14,7 @@ breadcrumbs: true
 
 **How to get there?** There are direct trains from Paris to Remiremont train station (East of France). A shuttle will be organized from Remiremont train station and the hotel on July 24 at 15:15, and from the hotel to Remiremont train station on July 28 at 15:15.
 
-**Programme:** Working in small groups on the development of tools for generating, handling or transforming Dedukti files.
+**Programme:** Working individually or in small groups on the development of tools to make progress towards the [deliverables](../deliverables) consisting of databases or software developments.
 
 **Cost:** The cost of accommodation and meals is 150 euros/day/person. EuroProofNet can reimburse to a limited number of people the transport + a daily allowance for the accommodation and meals for a number of participants with the following priorities: contribution to EuroProofNet objectives and deliverables, people from COST inclusiveness target countries, young researchers, under-represented genders. Check [eligibility rules](https://europroofnet.github.io/eligibility/) and [reimbursement rules](https://europroofnet.github.io/reimbursement-rules/) to get more details.
 
