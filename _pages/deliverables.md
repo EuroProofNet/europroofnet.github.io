@@ -26,15 +26,17 @@ author_profile: true
 
 - Release of software for translating proofs coming from important proof systems based on type theory like Isabelle, Agda, PVS, Lean or Minlog, to Dedukti and back.
 
-    * [STTfaXport](https://github.com/Deducteam/sttfaxport): Dedukti/STTfa to Coq, Lean, PVS, Matita, OpenTheory, HOL-Light
-    * [Personoj](https://github.com/Deducteam/personoj): PVS to Lambdapi
+    * [hol2dk](https://github.com/Deducteam/hol2dk): HOL-Light to Dedukti, Lambdapi and Coq
+    * [lambdapi](https://lambdapi.readthedocs.io/en/latest/options.html#export): Dedukti and Lambdapi to Coq
     * [isabelle_dedukti](https://github.com/Deducteam/isabelle_dedukti): Isabelle to Dedukti and Lambdapi
+    * [Personoj](https://github.com/Deducteam/personoj): PVS to Lambdapi
     * [Agda2dedukti](https://github.com/Deducteam/Agda2Dedukti): Agda to Dedukti
     * [Coqine](https://github.com/Deducteam/CoqInE): Coq to Dedukti
     * [Holide](https://github.com/Deducteam/Holide): OpenTheory to Dedukti
-    * [HOLLightToDk](https://github.com/Deducteam/HOLLightToDk): HOL-Light to Dedukti
+    * [HOLLightToDk](https://github.com/Deducteam/HOLLightToDk): HOL-Light to Dedukti via OpenTheory
+    * [STTfaXport](https://github.com/Deducteam/sttfaxport): Dedukti/STTfa to Coq, Lean, PVS, Matita, OpenTheory
     * [Krajono](https://github.com/Deducteam/Krajono): Matita to Dedukti
-
+    
 - Software prototype for the automated inference of program specifications as logical axioms.
 
 - Tools for managing the dependencies between proofs, and querying and searching the database.
