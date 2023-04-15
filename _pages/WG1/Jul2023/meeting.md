@@ -6,6 +6,8 @@ author_profile: true
 breadcrumbs: true
 ---
 
+**Organizer:** [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/)
+
 **Date:** 25-28 July 2023
 
 **Venue:** [La Résidence](https://la-residence.com/), 5 rue des Mousses, 88340 Le Val d’Ajol, France
@@ -17,8 +19,6 @@ breadcrumbs: true
 **Cost:** The cost of accommodation and meals is 150 euros/day/person. EuroProofNet can reimburse to a limited number of people the transport + a daily allowance for the accommodation and meals for a number of participants with the following priorities: contribution to EuroProofNet objectives and deliverables, people from COST inclusiveness target countries, young researchers, under-represented genders. Check [eligibility rules](https://europroofnet.github.io/eligibility/) and [reimbursement rules](https://europroofnet.github.io/reimbursement-rules/) to get more details.
 
 **Registration and funding application:** Deadline: 14 May 2023. The number of participants is limited. If you want to participate, apply to [EuroProofNet](https://e-services.cost.eu/action/CA20111/working-groups/apply) if not already done, and fill in the following [application form](https://docs.google.com/forms/d/1KEZo__fy0CcH3cbuwQvWjYjqeX1SlDe4lRrAyVv72tw/prefill). Applicants will be notified by May 18. Accepted participants will then have to make a bank transfer of half of the cost to La Résidence ([IBAN](./IBAN-Résidence.png): FR7617206002135619393901050) in order to confirm their participation. In case of cancellation before July 21, they will be reimbursed. The second half will have to paid at the hotel.
-
-**Organizer:** [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/)
 
 <!--
 **Participants:**
