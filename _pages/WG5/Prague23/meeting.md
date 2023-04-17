@@ -70,8 +70,8 @@ Jugoslávských partyzánů 1580/3
 | 12:30   | Lunch                                | Lunch                              | Lunch                            |
 | 13:00   | Lunch                                | Lunch                              | Lunch                            |
 | 13:30   | Lunch                                | Lunch                              | Lunch                            |
-| 14:00   | Kaliszyk (about WG5)                 | Doré / Bartek                      | Hozzova /Hajdu talks                |
-| 14:30   | Kaliszyk (about WG5)                 | Purgal / Ratschan                  | Short/intro talks                |
+| 14:00   | Kaliszyk (about WG5)                 | Doré / Bartek                      | Hozzova /Hajdu                   |
+| 14:30   | Kaliszyk (about WG5)                 | Purgal / Ratschan                  | Ulbrich/????                     |
 | 15:00   | WG5 discussion & deliverables        | WG5 discussion & deliverables      | WG5 discussion & deliverables    |
 | 15:30   | WG5 discussion & deliverables        | WG5 discussion & deliverables      | WG5 discussion & deliverables    |
 | 16:00   | WG5 discussion & deliverables        | WG5 discussion & deliverables      | WG5 discussion & deliverables    |
@@ -93,8 +93,8 @@ Jugoslávských partyzánů 1580/3
 - **Tereso del Río:** Data augmentation in mathematical objects [Abstract]({{ site.url }}/_pages/WG5/Prague23/DelRio.pdf)
 - **Rashid Barket:** Generating Rational Elementary Integrable Expressions [Abstract]({{ site.url }}/_pages/WG5/Prague23/Barket.pdf)
 - **Petra Hozzova:** Program Synthesis in Saturation
-- **Marton Hajdu:**  TBA  
-
+- **Marton Hajdu:**  Breaking the Diamond in Superposition  
+- **Mattias Ulbrich:** Experience Report: Reinforcement Learning for Deductive Program Verification 
 
 ### Directions From CIIRC:
 - Step One
