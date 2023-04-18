@@ -85,7 +85,7 @@ Jugoslávských partyzánů 1580/3
 - **Stephan Schulz:** Proof generation and challenges
 - **Julian Parsert:** Data Generation for SyGuS Problems (joint work with Elizabeth Polgreen) [Abstract]({{ site.url }}/_pages/WG5/Prague23/Parsert.pdf)
 - **Maximilian Doré:** Correct-by-construction programming with generative language models
-- **Filip Bartek:** TBA
+- **Filip Bartek:** Learning Symbol Weights for Clause Selection
 - **Stanislaw Purgal:** Splitting large models across multiple machines
 - **Stefan Ratschan:** Executing Formal Specifications by Enumeration with Bounds Learning
 - **Maximilian Doré:** Correct-by-construction programming with generative language models
