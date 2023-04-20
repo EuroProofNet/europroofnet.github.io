@@ -6,7 +6,7 @@ author_profile: true
 breadcrumbs: true
 ---
 
-<img src="./20230418_114508_resized.jpg"/>
+<img src="/_pages/WG2/Jul2023/20230418_114508_resized.jpg"/>
 
 This meeting will bring together developers and users of the [TPTP](https://tptp.org) World, including (but not limited to):
   * The TPTP problem library
