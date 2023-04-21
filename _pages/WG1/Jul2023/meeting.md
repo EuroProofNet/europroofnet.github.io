@@ -93,7 +93,7 @@ François Thiré,
 |19:30-21:00|dinner|
 |21:00-23:00|work session 5 (optional)|
 
-**Friday 28 July:** (for those leaving on July 28)
+**Friday 28 July:**
 
 |08:00-08:30|breakfast|
 |08:30-10:30|work session 1|
