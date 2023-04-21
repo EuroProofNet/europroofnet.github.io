@@ -7,13 +7,13 @@ author_profile: true
 
 To contribute to the web site, please open an [issue](https://github.com/EuroProofNet/europroofnet.github.io/issues), create a [pull request](https://github.com/EuroProofNet/europroofnet.github.io) or send a mail to the [science communication coordinators](../contact).
 
+- 21 April 2023: [Deducteam](https://deducteam.gitlabpages.inria.fr/) offers a 3-year engineer contract at Inria to help develop, test and maintain tools for proof system interoperability (continuous integration, proof library mangement, search tools, VSCode, etc.). Net taxable monthly salary between 2148 and 4412 euros depending on experience. If you are interested, please send your CV to [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/).
+
 - 6 March 2023: 3-year [PhD position](https://coq.discourse.group/t/phd-position-at-inria-nantes-universite-france/1897) at Inria / Nantes Université (France) in formalized mathematics and verification of computer algebra. Application deadline: 31 March 2023, contact: [Assia Mahboubi](http://people.rennes.inria.fr/Assia.Mahboubi/).
 
 - 3 February 2023: 4-year [PhD position](https://utwentecareers.nl/en/vacancies/1044/phd-position-on-verification-of-efficient-and-secure-parallel-algorithms/) at the University of Twente, the Netherlands on the verification of efficient and secure parallel algorithms. Application deadline: 28 February 2023, contact: [Peter Lammich](https://people.utwente.nl/p.lammich).
 
 - 3 February 2023: Three faculty positions at the University of Copenhagen, Denmark in [Systems and Software Engineering](https://di.ku.dk/english/about/vacancies/associate-professorship-in-systems-and-software-engineering/) (Associate level), [Quantum Computing](https://di.ku.dk/english/about/vacancies/tenure-track-assistant-professor-associate-professorfull-professor-in-quantum-computer-science/) (open rank), and [Data Management](https://di.ku.dk/english/about/vacancies/tenure-track-assistant-professorassociate-professorfull-professor-in-data-management-systems/) (open rank). Topics are interpreted broadly. See the respective calls for deadlines and contacts.
-
-- 6 July 2022: [Deducteam](https://deducteam.gitlabpages.inria.fr/) can get a 3-years engineer position to work on the development of a package manager for libraries from multiple proof systems. Find more details [here](http://files.inria.fr/blanqui/musprom.pdf) (it is written in French but can be translated using Google translate or a similar tool). Knowledge of logic or type theory is not necessary. Speaking French is not mandatory. If you are interested, contact [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/).
 
 - 2 June 2022: Researcher-Engineer position on [Applications of Formal Verification in an Industrial Context](https://recrutement.inria.fr/public/classic/fr/offres/2022-05025), ProofInUse consortium, Paris and Saclay, France
 
