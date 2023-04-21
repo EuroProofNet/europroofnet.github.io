@@ -11,7 +11,10 @@ will take place at the [Czech Institute of Informatics, Robotics and Cybernetics
 
 The events are supported by the [Cost Action CA20111 - European Research Network on Formal Proofs](https://europroofnet.github.io/) and will be co-located with a meeting of [WG5 of the action](https://europroofnet.github.io/wg5/), on Machine Learning in Proofs running through April 18-20.
 
+![Group]({{ site.url }}/_pages/WG5/Prague23/pictures/group.jpeg)
+
 <span style="color:red">** Directions From CIIRC To Room Below**</span>
+<span style="color:red">**More Pictures after Directions**</span>
 
 ### Aims:
 
@@ -118,3 +121,14 @@ Jugoslávských partyzánů 1580/3
 - Step Ten
 ![Step One]({{ site.url }}/_pages/WG5/Prague23/directions/010.jpg)
 
+### Event Photos:
+- First Day
+![Group]({{ site.url }}/_pages/WG5/Prague23/pictures/talk.jpeg)
+- Coffee Break
+![Group]({{ site.url }}/_pages/WG5/Prague23/pictures/coffee.jpeg)
+- WG5 meeting
+![Group]({{ site.url }}/_pages/WG5/Prague23/pictures/discuss.jpeg)
+- Czech Dinner
+![Group]({{ site.url }}/_pages/WG5/Prague23/pictures/dinner.jpeg)
+- Last Day 
+![Group]({{ site.url }}/_pages/WG5/Prague23/pictures/lastday.jpeg)
