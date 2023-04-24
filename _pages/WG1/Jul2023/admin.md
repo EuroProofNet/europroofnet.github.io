@@ -14,10 +14,10 @@ breadcrumbs: true
 
     * [x] complete address: [La Résidence](https://la-residence.com/), 5 rue des Mousses, 88340 Le Val d’Ajol, France
     * [x] starting date and time: 25 July 2023, 08:30
-    * [ ] ending date and time: 28 July 2023, 12:30
-    * [ ] daily allowance: 140 euros
+    * [x] ending date and time: 28 July 2023, 12:30
+    * [x] daily allowance: 140 euros
 
-- [ ] The chair sets up the event on https://e-services.cost.eu/, but not the LOS yet (this will be done later).
+- [x] The chair sets up the event on https://e-services.cost.eu/, but not the LOS yet (this will be done later).
 
 - [x] The chair asks the organizer details about the LOS, with copy to the Grant holder. By the way, the chair asks the organizer to carefully read the rules concerning LOS in the COST annotated rules (see https://www.cost.eu/Annotated_Rules_for_COST_Actions_C page 92). Note in particular that VAT is not reimbursed.
 
@@ -29,9 +29,9 @@ breadcrumbs: true
 
 - [x] The organizer adds a web page for the meeting on https://europroofnet.github.io/, possibly with the help of the science communication coordinators, with the following information: date, times, place, program, possible hotels, indication on how to get there, participation application procedure, reimbursement application procedure, deadlines.
 
-- [ ] The chair sends the call for participation and reimbursement applications to all action members.
+- [x] The chair sends the call for participation and reimbursement applications to all action members.
 
-- [ ] The organizer collects data and files from participants willing to be reimbursed (name, email, country, address, gender, age, dates of arrival and departure, quote for transport, university certificates for master students). To this end, we strongly suggest the organizer to use forms like https://docs.google.com/forms/d/1WgAdt6_BkJiT9u6lSqIQ5p_7955CHFEjbxG2Ucj5gRgor https://docs.google.com/forms/d/12YxrDK-dupOFj5R5CdINvlc6xzW6C5DpEr58JoVmBIg.
+- [x] The organizer collects data and files from participants willing to be reimbursed (name, email, country, address, gender, age, dates of arrival and departure, quote for transport, university certificates for master students). To this end, we strongly suggest the organizer to use forms like https://docs.google.com/forms/d/1WgAdt6_BkJiT9u6lSqIQ5p_7955CHFEjbxG2Ucj5gRgor https://docs.google.com/forms/d/12YxrDK-dupOFj5R5CdINvlc6xzW6C5DpEr58JoVmBIg.
 
 ### at least 1 month before the meeting:
 

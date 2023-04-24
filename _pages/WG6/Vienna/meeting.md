@@ -11,7 +11,8 @@ breadcrumbs: true
 **Place:** Vienna, Austria
 
 **Venue:** Gußhausstraße 27 - 29, 1040 Wien, Austria,
-4.OG, Seminarraum CH EG, Room number CD 04 04
+4.OG, Seminarraum CH EG (ground floor), Room number CD 04 04.
+Streaming room (when not enough space): Room CF 01 53 (first floor, counting from zero)
 
 [How to get there (map)](venue.png).
 
@@ -54,13 +55,15 @@ _Towards modular proof of normalization for type theories_
 
 **Schedule and abstracts:** Please see [here](programme).
 
-**Deadlines (AoE)**  
-Submission of talk proposals: Monday 27 February  
-Author notification: Tuesday 7 March  
-Funding requests: Sunday 19 March  
-Registration: Friday 7 April  
+**Participants:** Please see [here](participants)
 
-**Registration & funding:** 
+**Deadlines (AoE)**  
+Submission of talk proposals: Monday 27 February
+Author notification: Tuesday 7 March
+Funding requests: Sunday 19 March
+Registration: Friday 7 April
+
+**Registration & funding:**
 Registration is now closed. For information regarding reimbursement, please see [here](../reimbursement-rules). The daily allowance has been fixed to 140 euros.
 
 
