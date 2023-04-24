@@ -18,7 +18,7 @@ Entrance through the [Bâtiment central de l'université de Liège](https://goo.
 
 Friday 12 May: Salle MIPS, Institut Montefiore, Sart Tilman (outside Liège, take bus 48)
 
-Saturday 13 May: A4/S100 afternoon (downtown)
+Saturday 13 May: A4/S100 (downtown)
 
 **Organizers:** [Alexander Steen](https://www.alexandersteen.de/)
   and [Pascal Fontaine](https://people.montefiore.uliege.be/pfontain/)
@@ -34,7 +34,7 @@ This is the second EuroProofNet WG2 meeting, which will take the form of a hacka
 
 <!--**Participants (15):**-->
 
-**Programme:**
+**Programme:**  Working alone or in small groups on the development of tools for automated theorem proving and proofs (in particular Dedukti proofs), taking advantage of the participation of experts on Dedukti, formula and proof exchange standards, and theorem provers and solvers, and to make progress on EuroProofNet [objectives](../objectives) and [deliverables](../deliverables).  See [previous meeting](../dk-meeting3).
 
 | --------------- | ------------------------------------------------------------------------------------ |
 | Day 1           | Thursday 11 May |
