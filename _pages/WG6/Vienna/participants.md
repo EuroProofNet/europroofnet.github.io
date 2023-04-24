@@ -1,11 +1,11 @@
 ---
-title: "WG6 meeting in Vienna in April 2023 - Participants"
+title: "WG6 meeting in Vienna in April 2023"
 layout: single
 permalink: /wg6-vienna/participants/
 author_profile: true
 breadcrumbs: true
 ---
-**Participants:**  
+### Participants
 
 1.	Robin	Adams
 2.	Thorsten	Altenkirch
@@ -29,45 +29,47 @@ breadcrumbs: true
 20.	Thiago	Felicissimo
 21.	Daniel	Gratzer
 22.	Perry	Hart
-23.	Atanas	Hristov
-24.	Vít	Jelínek 
-25.	Moana	Jubert
-26.	Ambrus	Kaposi
-27.	András	Kovács
-28.	Nicolai	Kraus
-29.	Ambroise	Lafont
-30.	Thomas	Lamiaux
-31.	Yann	Leray
-32.	Axel	Ljungström
-33.	Roussanka	Loukanova
-34.	Christopher	Mary
-35.	Marija	Mihova
-36.	Thomas	Mikhail
-37.	Rasmus	Møgelberg
-38.	Vincent	Moreau
-39.	Anders	Mörtberg
-40.	Jacob	Neumann
-41.	Paige Randall	North
-42.	Andreas	Nuyts
-43.	Daniël	Otten
-44.	Fatih	Ozkaynak
-45.	Luca	Pasetto
-46.	Lorenzo	Perticone
-47.	Anja	Petković Komel
-48.	Josselin	Poiret
-49.	Stiéphen	Pradal
-50.	Loïc	Pujet
-51.	Nima	Rasekh
-52.	Håkon	Robbestad Gylterud
-53.	Gabriel	Saadia
-54.	Pietro	Sabelli
-55.	Christian	Sattler
-56.	Johannes	Schipp von Branitz
-57.	Raffael	Stenzel
-58.	Taichi	Uemura
-59.	Niccolò	Veltri
-60.	Niels	van der Weide
-61.	David	Wärn
-62.	Théo	Winterhalter
-63.	Errol	Yuksel
-64.	Max	Zeuner
+23.	Hugo	Herbelin
+24.	Atanas	Hristov
+25.	Vít	Jelínek 
+26.	Moana	Jubert
+27.	Ambrus	Kaposi
+28.	András	Kovács
+29.	Nicolai	Kraus
+30.	Ambroise	Lafont
+31.	Thomas	Lamiaux
+32.	Yann	Leray
+33.	Axel	Ljungström
+34.	Roussanka	Loukanova
+35.	Christopher	Mary
+36.	Marija	Mihova
+37.	Thomas	Mikhail
+38.	Rasmus	Møgelberg
+39.	Vincent	Moreau
+40.	Anders	Mörtberg
+41.	Jacob	Neumann
+42.	Paige Randall	North
+43.	Andreas	Nuyts
+44.	Daniël	Otten
+45.	Fatih	Ozkaynak
+46.	Luca	Pasetto
+47.	Lorenzo	Perticone
+48.	Anja	Petković Komel
+49.	Josselin	Poiret
+50.	Stiéphen	Pradal
+51.	Loïc	Pujet
+52.	Nima	Rasekh
+53.	Håkon	Robbestad Gylterud
+54.	Gabriel	Saadia
+55.	Pietro	Sabelli
+56.	Christian	Sattler
+57.	Johannes	Schipp von Branitz
+58.	Raffael	Stenzel
+59.	Taichi	Uemura
+60.	Niccolò	Veltri
+61.	Niels	van der Weide
+62.	David	Wärn
+63.	Théo	Winterhalter
+64.	Kobe	Wullaert
+65.	Errol	Yuksel
+66.	Max	Zeuner
