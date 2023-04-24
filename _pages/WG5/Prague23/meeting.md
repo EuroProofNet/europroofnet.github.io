@@ -80,23 +80,22 @@ Jugoslávských partyzánů 1580/3
 | 16:00   | WG5 discussion & deliverables        | WG5 discussion & deliverables      | WG5 discussion & deliverables    |
 | 16:30   | WG5 discussion & deliverables        | WG5 discussion & deliverables      | WG5 discussion & deliverables    |
 
-- **Moa Johannson:** Exploring Mathematical Conjecturing with Large Language Models (joint work with Nicholas Smallbone) [Abstract](Johannson)
+- **Moa Johannson:** Exploring Mathematical Conjecturing with Large Language Models (joint work with Nicholas Smallbone) [Abstract](Johannson) [Slides]({{ site.url }}/_pages/WG5/Prague23/pres/Johannson.pdf)
 - **Zsolt Zombori:** Training Data Extraction for Identifying Useful Lemmas (join work with Michael Rawson, Christoph Wernhard) [Abstract]({{ site.url }}/_pages/WG5/Prague23/Zombori.pdf) [Slides]({{ site.url }}/_pages/WG5/Prague23/pres/Zombori.pdf)
 - **Matej Petković:** Machine Learning for Context-Sensitive Search in Agda (joint work with Andrej Bauer and Ljupco Todorovski) [Abstract]({{ site.url }}/_pages/WG5/Prague23/Petkovic.pdf)  [Slides]({{ site.url }}/_pages/WG5/Prague23/pres/Petkovic.pdf)
 - **Cezary Kaliszyk:** Working Group 5, Machine Learning in Proofs
 - **Michael Rawson:** Takin' Off: Deploying Neural Models for Theorem Proving [Abstract](Rawson)  [Slides]({{ site.url }}/_pages/WG5/Prague23/pres/Rawson.pdf)
 - **Stephan Schulz:** Proof generation and challenges  [Slides]({{ site.url }}/_pages/WG5/Prague23/pres/Schulz.pdf)
 - **Julian Parsert:** Data Generation for SyGuS Problems (joint work with Elizabeth Polgreen) [Abstract]({{ site.url }}/_pages/WG5/Prague23/Parsert.pdf)
-- **Maximilian Doré:** Correct-by-construction programming with generative language models
+- **Maximilian Doré:** Correct-by-construction programming with generative language models [Slides]({{ site.url }}/_pages/WG5/Prague23/pres/Dore.pdf)
 - **Filip Bartek:** Learning Symbol Weights for Clause Selection  [Slides]({{ site.url }}/_pages/WG5/Prague23/pres/Bartek.pdf)
 - **Stanislaw Purgal:** Splitting large models across multiple machines
 - **Stefan Ratschan:** Executing Formal Specifications by Enumeration with Bounds Learning
-- **Maximilian Doré:** Correct-by-construction programming with generative language models
-- **Jan Hula:** ML 2.0 - sketches of the horizon [Abstract](Hula)
+- **Jan Hula:** ML 2.0 - sketches of the horizon [Abstract](Hula) [Slides]({{ site.url }}/_pages/WG5/Prague23/pres/Hula.pdf)
 - **Tereso del Río:** Data augmentation in mathematical objects [Abstract]({{ site.url }}/_pages/WG5/Prague23/DelRio.pdf)
 - **Rashid Barket:** Generating Rational Elementary Integrable Expressions [Abstract]({{ site.url }}/_pages/WG5/Prague23/Barket.pdf)
-- **Petra Hozzova:** Program Synthesis in Saturation
-- **Marton Hajdu:**  Breaking the Diamond in Superposition  
+- **Petra Hozzova:** Program Synthesis in Saturation [Slides]({{ site.url }}/_pages/WG5/Prague23/pres/Hozzova.pdf)
+- **Marton Hajdu:**  Breaking the Diamond in Superposition  [Slides]({{ site.url }}/_pages/WG5/Prague23/pres/Hajdu.pdf)
 - **Mattias Ulbrich:** Experience Report: Reinforcement Learning for Deductive Program Verification 
 
 ### Directions From CIIRC:
