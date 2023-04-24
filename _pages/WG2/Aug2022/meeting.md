@@ -26,10 +26,6 @@ This meeting aims to
 * Andres Notzli  (Stanford, USA)
 * Guillaume Burel (ENSIIE, France)
 
-## Output
-
-* The final report will be available here.
-
 ## Organization
 
 ### Registration
