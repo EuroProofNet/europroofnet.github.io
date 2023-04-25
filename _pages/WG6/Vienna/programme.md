@@ -1,5 +1,5 @@
 ---
-title: "WG6 meeting in Vienna in April 2023 - Programme"
+title: "WG6 meeting in Vienna in April 2023"
 layout: single
 permalink: /wg6-vienna/programme/
 author_profile: true
