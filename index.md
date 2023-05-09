@@ -51,7 +51,7 @@ corner).
 
 - 25-27 July 2023: [Inter-WG developers meeting](../dk-meeting-july2023), Le Val d'Ajol, France
 
-<!-- 31 July 2023: [Women in EuroProofNet](../women-epn-2023), Bialystok, Poland-->
+- 31 July 2023: [Women in EuroProofNet](../women-epn-2023), Bialystok, Poland
 
 [Past events](../events)
 

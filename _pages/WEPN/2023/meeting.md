@@ -33,7 +33,7 @@ TBA
 * Author notification: June 12 2023
 
 The contributed talks are meant as a platform to disseminate research done by women in the community. Only women (including transgender women) are invited to submit a contributed talk.
-Submissions should consist of a title and a 1-2 pages abstract, in pdf format, via EasyChair (link TBA).
+Submissions should consist of a title and a 1-2 pages abstract, in pdf format, via [EasyChair](https://easychair.org/conferences/?conf=wepn2023).
 
 Considering the broad background of the expected audience, we encourage authors to include information of pedagogical value in their abstract, such as motivation and context of their work.
 
