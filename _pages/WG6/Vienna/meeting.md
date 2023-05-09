@@ -6,6 +6,8 @@ author_profile: true
 breadcrumbs: true
 ---
 
+![Workshop group photo](./vienna-group-photo.jpg)
+
 **Date:** 24-25 April 2023
 
 **Place:** Vienna, Austria

@@ -93,7 +93,7 @@ Jugoslávských partyzánů 1580/3
 - **Stefan Ratschan:** Executing Formal Specifications by Enumeration with Bounds Learning
 - **Jan Hula:** ML 2.0 - sketches of the horizon [Abstract](Hula) [Slides]({{ site.url }}/_pages/WG5/Prague23/pres/Hula.pdf)
 - **Tereso del Río:** Data augmentation in mathematical objects [Abstract]({{ site.url }}/_pages/WG5/Prague23/DelRio.pdf)
-- **Rashid Barket:** Generating Rational Elementary Integrable Expressions [Abstract]({{ site.url }}/_pages/WG5/Prague23/Barket.pdf)
+- **Rashid Barket:** Generating Rational Elementary Integrable Expressions [Abstract]({{ site.url }}/_pages/WG5/Prague23/Barket.pdf) [Slides]({{ site.url }}/_pages/WG5/Prague23/pres/Barket.pdf)
 - **Petra Hozzova:** Program Synthesis in Saturation [Slides]({{ site.url }}/_pages/WG5/Prague23/pres/Hozzova.pdf)
 - **Marton Hajdu:**  Breaking the Diamond in Superposition  [Slides]({{ site.url }}/_pages/WG5/Prague23/pres/Hajdu.pdf)
 - **Mattias Ulbrich:** Experience Report: Reinforcement Learning for Deductive Program Verification 
