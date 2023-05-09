@@ -80,21 +80,21 @@ This is the second EuroProofNet WG2 meeting, which will take the form of a hacka
 
 
 
-** Accessing the rooms **
+**Accessing the rooms**
 
-From the main entrance, Place du 20 Août
-
-<img src="/_pages/WG2/May2023/path/20230509_183022_small.jpg">
-
-enter the building
+From the main entrance, Place du 20 Août:
 
 <img src="/_pages/WG2/May2023/path/20230509_182952_small.jpg">
 
-take the right corridor (follow the "Inscriptions" arrows on the floor)
+enter the building,
+
+<img src="/_pages/WG2/May2023/path/20230509_183022_small.jpg">
+
+take the right corridor (follow the "Inscriptions" arrows on the floor)...
 
 <img src="/_pages/WG2/May2023/path/20230509_183027_small.jpg">
 
-that you'll continue for quite some time, nearly to the end
+...that you'll continue for quite some time, nearly to the end.
 
 <img src="/_pages/WG2/May2023/path/20230509_183033_small.jpg">
 
@@ -106,17 +106,17 @@ that you'll continue for quite some time, nearly to the end
 
 <img src="/_pages/WG2/May2023/path/20230509_183123_small.jpg">
 
-Really, do not turn to "Inscriptions", continue the corridor
+Really, do not turn to "Inscriptions", continue the corridor...
 
 <img src="/_pages/WG2/May2023/path/20230509_183130_small.jpg">
 
 <img src="/_pages/WG2/May2023/path/20230509_183138_small.jpg">
 
-to the stairs...
+...to the stairs...
 
 <img src="/_pages/WG2/May2023/path/20230509_183143_small.jpg">
 
-... and go down ...
+...and go down the stairs on the right...
 
 <img src="/_pages/WG2/May2023/path/20230509_183148_small.jpg">
 
@@ -132,13 +132,13 @@ Get out of the building,
 
 <img src="/_pages/WG2/May2023/path/20230509_183215_small.jpg">
 
-and turn left
+and turn left,
 
 <img src="/_pages/WG2/May2023/path/20230509_183221_small.jpg">
 
 <img src="/_pages/WG2/May2023/path/20230509_183230_small.jpg">
 
-to this other building there
+to this other building there:
 
 <img src="/_pages/WG2/May2023/path/20230509_183239_small.jpg">
 
@@ -149,21 +149,21 @@ For R30 (instruction for S100 below, skip a few pictures), go up
 
 <img src="/_pages/WG2/May2023/path/20230509_183301_small.jpg">
 
-turn right
+turn right,
 
 <img src="/_pages/WG2/May2023/path/20230509_183310_small.jpg">
 
-continue the corridor to the end
+continue the corridor to the end,
 
 <img src="/_pages/WG2/May2023/path/20230509_183314_small.jpg">
 
 <img src="/_pages/WG2/May2023/path/20230509_183321_small.jpg">
 
-really to the end
+really to the end,
 
 <img src="/_pages/WG2/May2023/path/20230509_183324_small.jpg">
 
-behind the door
+behind the door,
 
 <img src="/_pages/WG2/May2023/path/20230509_183337_small.jpg">
 
@@ -177,6 +177,6 @@ For S100, go down
 
 <img src="/_pages/WG2/May2023/path/20230509_183421_small.jpg">
 
-and you are there
+and you are there:
 
 <img src="/_pages/WG2/May2023/path/20230509_183427_small.jpg">
