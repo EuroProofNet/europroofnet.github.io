@@ -11,6 +11,12 @@ author_profile: true
 
 **Past events:**
 
+- 8 May 2023: [deadline for STSM and ITCG proposals](../grants) Priority will be given to the proposals contributing to the objectives and deliverables of the working groups 2, 4 and 5:
+  * WG2: detailed, checkable proofs from automated theorem provers
+  * WG4: maintenance, refactoring and search of proof libraries
+  * WG5: learning-based methods for automated theorem proving and natural language proofs
+- 24-25 April 2023: [WG6 meeting](../wg6-vienna), Vienna, Austria
+- 18-20 April 2023: [Joint Workshops on Practical Aspects of Machine Learning in Theorem Proving (PAMLTP) and Datasets Generation for Data-Deficient Domains (DG4D^3)](../Prague23), Prague, Czech Republic
 - 8-9 February 2023: [WG3 meeting on program verification](../wg3-timisoara), Timisoara, Romania
 - 27-29 January 2023: [2nd Dedukti tools developers meeting](../dk-meeting2), Fréjus, France
 - 1st January 2023: deadline for [STSM](../grants) proposals
