@@ -7,9 +7,9 @@ breadcrumbs: true
 ---
 
 <!--img src="/_pages/WG1/Jan2023/20230129_135357_resized.jpg"/-->
-< a href="/_pages/WG2/May2023/20230512_125001.jpg" <img src="/_pages/WG2/May2023/20230512_125001_small.jpg" /> </a>
+[<img src="/_pages/WG2/May2023/20230512_125001_small.jpg" />]("/_pages/WG2/May2023/20230512_125001.jpg")
 
-< a href=""/_pages/WG2/May2023/20230512_125012.jpg"> <img src="/_pages/WG2/May2023/20230512_125012_small.jpg" /> </a>
+[<img src="/_pages/WG2/May2023/20230512_125012_small.jpg" />](""/_pages/WG2/May2023/20230512_125012.jpg")
 
 **Date:** 11-13 May 2023
 
