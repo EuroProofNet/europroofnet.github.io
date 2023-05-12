@@ -7,6 +7,9 @@ breadcrumbs: true
 ---
 
 <!--img src="/_pages/WG1/Jan2023/20230129_135357_resized.jpg"/-->
+< a href="20230512_125001.jpg" <img src="20230512_125001_small.jpg" /> </a>
+
+< a href=""20230512_125012.jpg"> <img src="20230512_125012_small.jpg" /> </a>
 
 **Date:** 11-13 May 2023
 
