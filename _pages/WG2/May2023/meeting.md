@@ -11,13 +11,15 @@ breadcrumbs: true
 
 [<img src="/_pages/WG2/May2023/20230512_125012_small.jpg" />](/_pages/WG2/May2023/20230512_125012.jpg)
 
+## Organization
+
 **Date:** 11-13 May 2023
 
 **Venue:** Liège, Belgium
 
 Thursday 11 May: A4/R30 morning, A4/S100 afternoon 
 
-Entrance through the [Bâtiment central de l'université de Liège](https://goo.gl/maps/S72NG3nxf1YrQmcm8) downtown Liège (See the [pictures](../dk-meeting3-access) of the way, from the entrance)
+Entrance through the [Bâtiment central de l'université de Liège](https://goo.gl/maps/S72NG3nxf1YrQmcm8) downtown Liège (See the [pictures](../dk-meeting3-access) of the way, from the entrance).
 
 Friday 12 May: Salle MIPS, Institut Montefiore, Sart Tilman (outside Liège, take bus 48)
 
@@ -37,7 +39,9 @@ This is the second EuroProofNet WG2 meeting, which will take the form of a hacka
 
 <!--**Participants (15):**-->
 
-**Programme:**  Working alone or in small groups on the development of tools for automated theorem proving and proofs (in particular Dedukti proofs), taking advantage of the participation of experts on Dedukti, formula and proof exchange standards, and theorem provers and solvers, and to make progress on EuroProofNet [objectives](../objectives) and [deliverables](../deliverables).  See [previous meeting](../dk-meeting3).
+## Programme
+
+Working alone or in small groups on the development of tools for automated theorem proving and proofs (in particular Dedukti proofs), taking advantage of the participation of experts on Dedukti, formula and proof exchange standards, and theorem provers and solvers, and to make progress on EuroProofNet [objectives](../objectives) and [deliverables](../deliverables).  See [previous meeting](../dk-meeting3).
 
 | --------------- | ------------------------------------------------------------------------------------ |
 | Day 1           | Thursday 11 May |
@@ -77,7 +81,7 @@ This is the second EuroProofNet WG2 meeting, which will take the form of a hacka
 | 14:00-17:00     | Working session |
 | --------------- | ------------------------------------------------------------------------------------ |
 
-**Participants**
+## Participants
 
 Bruno Andreotti
 Frédéric Blanqui
@@ -100,7 +104,7 @@ Martin Suda
 Alex Steen
 Baptiste Vergain
 
-**Activities**
+## Activities
 
 On Thursday May 11 morning, Frederic Blanqui and Guillaume Burel presented Dedukti.  [Frédéric's slide set 1](https://europroofnet.github.io/_pages/WG1/Jun2022/frederic.pdf),
 [Frédéric's slide set 2](https://resources.mpi-inf.mpg.de/departments/rg1/conferences/vtsa22/slides/lecture1.pdf),
@@ -115,6 +119,8 @@ Friday May 12 afternoon was dedicated to discussions and works in smaller groups
 
 On Saturday May 13 morning, Bruno Andreotti presented the Carcara tool for handling SMT Alethe proofs. [Bruno's slides](/_pages/WG2/May2023/slides/Andreotti.pdf).  The remaining of Saturday morning was dedicated to discussions on proof tools and proof elaboration, essentially around SMT.
 
+### Activities in small groups
+
 Saturday May 13 afternoon was dedicated to discussions and works in smaller groups (report below).
 
 Stephan Schulz improved the proof output for a pedagogical tool for propositional logic, and worked on debugging the interaction of higher-order logic and ite in E.
@@ -125,7 +131,7 @@ Bruno Andreotti, Frédéric Blanqui, Alessio Coltellacci, Pascal Fontaine, and H
 
 Pascal Fontaine and Alexander Steen worked on the [inventory of provers, formats, and tools](https://github.com/EuroProofNet/ATP/wiki).  Several people contributed to improve the wiki. 
 
-**Pictures**
+## Pictures
 
 <img src="/_pages/WG2/May2023/20230512_112102_resized.jpg"/>
 
