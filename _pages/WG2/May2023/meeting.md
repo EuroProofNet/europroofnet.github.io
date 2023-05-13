@@ -58,21 +58,17 @@ This is the second EuroProofNet WG2 meeting, which will take the form of a hacka
 | --------------- | ------------------------------------------------------------------------------------ |
 | Day 2           | Friday 12 May |
 | --------------- | ------------------------------------------------------------------------------------ |
-| 09:00-11:30     | SMT and proofs |
+| 09:00-12:00     | SMT and proofs |
 | --------------- | ------------------------------------------------------------------------------------ |
-| 11:30-12:15     | Walking to our Lunch place |
+| 12:00-14:30     | Lunch |
 | --------------- | ------------------------------------------------------------------------------------ |
-| 12:15-14:00     | Lunch |
-| --------------- | ------------------------------------------------------------------------------------ |
-| 14:00-14:45     | Walking back |
-| --------------- | ------------------------------------------------------------------------------------ |
-| 14:45-18:00     | Working session |
+| 14:30-19:00     | Working session |
 | --------------- | ------------------------------------------------------------------------------------ |
 | 19:00-21:00     | Dinner |
 | --------------- | ------------------------------------------------------------------------------------ |
 
 | --------------- | ------------------------------------------------------------------------------------ |
-| Day 2           | Saturday 13 May |
+| Day 3           | Saturday 13 May |
 | --------------- | ------------------------------------------------------------------------------------ |
 | 09:00-12:00     | Working session |
 | --------------- | ------------------------------------------------------------------------------------ |
@@ -80,6 +76,56 @@ This is the second EuroProofNet WG2 meeting, which will take the form of a hacka
 | --------------- | ------------------------------------------------------------------------------------ |
 | 14:00-17:00     | Working session |
 | --------------- | ------------------------------------------------------------------------------------ |
+
+**Participants**
+
+Bruno Andreotti
+Frédéric Blanqui
+Bernard Boigelot
+Guillaume Burel
+Roland Coghetto
+Alessio Coltellacci
+Robin Coutelier
+Bruno Dutertre
+Mathias Fleury
+Pascal Fontaine
+Chantal Keller
+Anja Petković Komel
+Lucas Michel
+Tanja Schindler
+Stephan Schulz
+Hans-Jörg Schurr
+Claude Stolze
+Martin Suda
+Alex Steen
+Baptiste Vergain
+
+**Activities**
+
+On Thursday May 11 morning, Frederic Blanqui and Guillaume Burel presented Dedukti.  [Frédéric's slide set 1](https://europroofnet.github.io/_pages/WG1/Jun2022/frederic.pdf),
+[Frédéric's slide set 2](https://resources.mpi-inf.mpg.de/departments/rg1/conferences/vtsa22/slides/lecture1.pdf),
+[Frédéric's slide set 3](https://resources.mpi-inf.mpg.de/departments/rg1/conferences/vtsa22/slides/lecture2.pdf), 
+[Guillaume's slides](/_pages/WG2/May2023/slides/Burel.pdf).  Thursday morning has been dedicated to understanding Dedukti, discussing previous works on transforming proofs from automated theorem provers to Dedukti, and details about encoding particular proof steps inside Dedukti.
+
+On Thursday May 11 afternoon, Geoff Sutcliffe presented TPTP, TSTP proofs, and tools to handle outputs from automated theorem provers supporting these languages.  [Geoff's pages](https://tptp.org/Seminars/TPTPWorld/Contents.html).  Thursday afternoon has been dedicated to discussions on how to translate TSTP proofs into Dedukti, the difficulties associated to particular rules used for some solvers, and a road map for efficient and complete understanding of TSTP proofs has been discussed.  The discussion will be continued notably at the [WG2 meeting/TPTP tea party, in July](https://europroofnet.github.io/tptp23-meeting/).
+
+On Friday May 12 morning, Hans-Jörg Schurr presented SMT and the Alethe proof format.  [Hans-Jörg's material](https://homepage.cs.uiowa.edu/~hschrr/alethe.tar.gz)  The discussion took the whole half day, and several points were discussed, notably planned evolution with SMT-LIB 3, aspects of Skolemization, difficulties in extending the format, and issues in proof checking.
+
+Friday May 12 afternoon was dedicated to discussions and works in smaller groups (report below).
+
+On Saturday May 13 morning, Bruno Andreotti presented the Carcara tool for handling SMT Alethe proofs. [Bruno's slides](/_pages/WG2/May2023/slides/Andreotti.pdf).  The remaining of Saturday morning was dedicated to discussions on proof tools and proof elaboration, essentially around SMT.
+
+Saturday May 13 afternoon was dedicated to discussions and works in smaller groups (report below).
+
+Stephan Schulz improved the proof output for a pedagogical tool for propositional logic, and worked on debugging the interaction of higher-order logic and ite in E.
+
+Martin Suda and Anja Petković Komel worked with Frederic Blanqui and Guillame Burel to better understand Dedukti and LambdaPi, and get up-to-date with previous attempts at formalizing ATP proofs in Dedukti.  Work for detailed proof output from Vampire was planned and started.
+
+Bruno Andreotti, Frédéric Blanqui, Alessio Coltellacci, Pascal Fontaine, and Hans-Jörg Schurr discussed how to implement a translation of Alethe proofs to Dedukti.  Bruno Andreotti did preliminary works on Carcara to support a possible proof translation module.
+
+Pascal Fontaine and Alexander Steen worked on the [inventory of provers, formats, and tools](https://github.com/EuroProofNet/ATP/wiki).  Several people contributed to improve the wiki. 
+
+**Pictures**
 
 <img src="/_pages/WG2/May2023/20230512_112102_resized.jpg"/>
 
