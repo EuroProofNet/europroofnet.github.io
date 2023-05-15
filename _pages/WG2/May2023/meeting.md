@@ -125,11 +125,13 @@ Saturday May 13 afternoon was dedicated to discussions and works in smaller grou
 
 Stephan Schulz improved the proof output for a pedagogical tool for propositional logic, and worked on debugging the interaction of higher-order logic and ite in E.
 
-Martin Suda and Anja Petković Komel worked with Frederic Blanqui and Guillame Burel to better understand Dedukti and LambdaPi, and get up-to-date with previous attempts at formalizing ATP proofs in Dedukti.  Work for detailed proof output from Vampire was planned and started.
+Alexander Steen, Martin Suda and Anja Petković Komel worked with Frederic Blanqui and Guillame Burel to better understand Dedukti and LambdaPi, and get up-to-date with previous attempts at formalizing ATP proofs in Dedukti.  They started working on a concept for a tool that takes TPTP proofs from Vampire and Leo-III, and translates them into a lampdaPi verification file.
 
 Bruno Andreotti, Frédéric Blanqui, Alessio Coltellacci, Pascal Fontaine, and Hans-Jörg Schurr discussed how to implement a translation of Alethe proofs to Dedukti.  Bruno Andreotti did preliminary works on Carcara to support a possible proof translation module.
 
 Pascal Fontaine and Alexander Steen worked on the [inventory of provers, formats, and tools](https://github.com/EuroProofNet/ATP/wiki).  Several people contributed to improve the wiki. 
+
+Claude Stolze worked on the implementation of integers and polynoms on integers in Dedukti.
 
 ## Pictures
 
