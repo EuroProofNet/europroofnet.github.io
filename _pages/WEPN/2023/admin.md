@@ -16,9 +16,9 @@ breadcrumbs: true
     * [x] starting date and time: July 31, 2023, 9h00
     * [x] ending date and time: July 31, 2023, 13h00
 
-- [] The organizer checks the prices of accommodations and restaurants around the place of the meeting at the dates of the meeting, and sends to the chair a proposal for the daily allowance.
+- [x] The organizer checks the prices of accommodations and restaurants around the place of the meeting at the dates of the meeting, and sends to the chair a proposal for the daily allowance.
 
-    * [] daily allowance: ...
+    * [x] daily allowance: 80 euros
 
 - [] The chair sets up the event on https://e-services.cost.eu/, but not the LOS yet (this will be done later).
 
