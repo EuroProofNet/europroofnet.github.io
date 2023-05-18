@@ -13,6 +13,50 @@ author_profile: true
   Dates: 2023-03-01 to 2023-04-01
 -->
 
+## 6th call (8 May 2023)
+
+* **Proof calculus for Real Algebraic Geometry** [application](/_pages/stsm/michel-app.pdf)   
+  Visitor: Lucas Michel  
+  Hosts: James Davenport and Matthew England  
+  Grant: 2702 EUR  
+  Dates: 2023-08-28 to 2023-09-08
+
+* **Neural Premise Selection for Agda** [application](/_pages/stsm/kogkalidis-app.pdf)   
+  Visitor: Konstantinos Kogkalidis  
+  Host: Jean-Philippe Bernardy  
+  Grant: 1105 EUR  
+  Dates: 2023-06-19 to 2023-06-23
+
+* **Translation of HOL4 proofs to Dedukti and Lambdapi** [application](/_pages/stsm/blanqui-app.pdf)   
+  Visitor: Frédéric Blanqui  
+  Host: Magnus Myreen  
+  Grant: 1421 EUR  
+  Dates: 2023-05-22 to 2023-05-26
+
+* **Machine-learned premise selection for Agda: the prover’s infrastructure** [application](/_pages/stsm/melkonian-app.pdf)   
+  Visitor: Orestis Melkonian  
+  Host: Jean-Philippe Bernardy  
+  Grant: 1092 EUR  
+  Dates: 2023-06-19 to 2023-06-21
+
+* **Conjecture and proof search in Agda with large language models** [application](/_pages/stsm/dore-app2.pdf)   
+  Visitor: Maximilian Doré  
+  Host: Moa Johansson  
+  Grant: 1220 EUR  
+  Dates: 2023-10-16 to 2023-10-20
+
+* **SMT solving and proofs for non-linear arithmetic** [application](/_pages/stsm/nalbach-app.pdf)   
+  Visitor: Jasper Nalbach  
+  Host: James Davenport and Matthew England  
+  Grant: 2702 EUR  
+  Dates: 2023-08-28 to 2023-09-08
+
+* **An interface for category theory in coq, applied to univalent foundations** [application](/_pages/stsm/chabassier-app.pdf)   
+  Visitor: Luc Chabassier  
+  Host: Benedikt Ahrens  
+  Grant: 2082 EUR  
+  Dates: 2023-09-04 to 2023-09-15
+
 ## 5th call (1 March 2023)
 
 * **Categorical semantics for propositional dependent type theories** [application](/_pages/stsm/spadetto-app.pdf)  
