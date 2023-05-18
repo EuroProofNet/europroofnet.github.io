@@ -13,12 +13,7 @@ EuroProofNet can provide two kinds of grants:
   
 **Upcoming deadlines**
 
-- 8 May 2023: Priority will be given to the proposals contributing to the objectives and deliverables of the working groups 2, 4 and 5:
-  * WG2: detailed, checkable proofs from automated theorem provers
-  * WG4: maintenance, refactoring and search of proof libraries
-  * WG5: learning-based methods for automated theorem proving and natural language proofs
-
-Next STSMs and ITCGs must occur betwen May 15 and September 30.
+- The next call will likely be in October 2023.
 
 **Application web sites**
 
