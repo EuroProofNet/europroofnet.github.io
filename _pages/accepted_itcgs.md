@@ -28,3 +28,12 @@ author_profile: true
   Grant: 1876 EUR
   
   Dates: 2023-04-23 to 2023-04-27
+
+## 2nd call (8 May 2023)
+
+* **Anti-unification and Generalization: A Survey**  
+  Grantee: [David Cerna](https://www.cs.cas.cz/dcerna) (Czech Academy of Sciences Institute of Computer Science, Czech Republic)  
+  Conference: [32nd International Joint Conference on Artificial Intelligence](https://ijcai-23.org) (IJCAI), Macao, S.A.R. of China  
+  Grant: 2000 EUR  
+  Dates: 2023-08-17 to 2023-08-26  
+  
