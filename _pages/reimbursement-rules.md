@@ -9,7 +9,7 @@ Participants invited at a meeting or school, and people having an approved STSM,
 
 - Participants must be [eligible](../eligibility).
 
-- Participants must have received an invitation from the e-cost system, and must have accepted it within 2 weeks after reception.
+- Participants must have received an invitation from the e-cost system and must have accepted it within 2 weeks after reception.
 
 - Master students must provide a registration certificate of their university.
 
@@ -29,7 +29,7 @@ Participants invited at a meeting or school, and people having an approved STSM,
 
 - STSM grantees must upload on the COST website their report, signed by their host, within 2 weeks after the end of their STSM, and the report must be approved by the Grant awarding coordinators.
 
-- For accommodation, meals and local transport, the reimbursement is a [daily flat rate](../stsm-daily-allowance) fixed by the Grant Holder depending on the host country.
+- For accommodation, meals and local transport, the reimbursement is a [daily flat rate](../stsm-daily-allowance) fixed by the Grant Holder depending on the host country. About 2/3 of the flat rate is for the hotel, 1/6 for the lunch and 1/6 for the diner. Be careful that a lunch or diner will not be reimbursed if there is no receipt for it. Receipts from markets or supermarkets are accepted.
 
 Find more details concerning reimbursements in the [COST Annotated Rules](https://www.cost.eu/Annotated_Rules_for_COST_Actions_C) page 86.
 
