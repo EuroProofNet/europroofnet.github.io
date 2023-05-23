@@ -19,13 +19,13 @@ The event will consist of an invited talk and a few contributed talks by women t
 
 * Abstract submission: June 2 2023
 * Author notification: June 12 2023
-* Funding application deadline: TBA
+* Funding application deadline: June 26 2023
 * Registration deadline: TBA
 * Event: July 31 2023
 
 ## Invited Speaker
 
-TBA
+[Małgorzata Biernacka](https://ii.uni.wroc.pl/~mabi/), University of Wroclaw, Poland
 
 ## Call for contributions
 
@@ -49,17 +49,16 @@ Participation at the WEPN 2023 is free but registration is required. If you regi
 
 The registration form includes the option to apply for funding. See [reimbursement rules](../reimbursement-rules).
 
-Registration form: to be provided.
+Registration form: [register here](https://forms.gle/QD24npjVy8wj4H856).
 
 Please contact Anja Petković Komel and Sandra Alves if you have any problem during the registration process, including reluctance to use google forms.
 
 Registration deadline: TBA
 
-<!--Please contact xxx if you have any problem during the registration process.-->
 
+### Funding applications: on the registration form (deadline: June 26 2023)
 
-### Funding applications: on the registration form (deadline: TBA)
-
+The EuroProofNet COST action can provide funding for a limited amount of participants. If you would like the apply for funding, fill out the details for funding on the registration form. Before applying for funding see [reimbursement rules](../reimbursement-rules). The daily allowance was set to 80€.
 
 ### Program
 

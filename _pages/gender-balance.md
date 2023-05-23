@@ -13,8 +13,8 @@ We strive to ensure better gender balance in the community and we take actions t
 - We monitor the distribution of funds among action participants and we prioritize funding of people of underrepresented genders.
 - We monitor gender balance within the management roles.
 - We contact eligible women researchers and invite them to join the action.
-- We promote work done by members of underrepresented genders ([WEPN'22](../women-epn-2022/)).
-- We organize training and discussion on unconscious biases and gender-balance issues ([WEPN'22](../women-epn-2022/)).
+- We promote work done by members of underrepresented genders ([WEPN'22](../women-epn-2022/), [WEPN'23](../women-epn-2023/)).
+- We organize training and discussion on unconscious biases and gender-balance issues ([WEPN'22](../women-epn-2022/), [WEPN'23](../women-epn-2023/)).
 - We aid parents with finding/ensuring childcare at the events organized by EuroProofNet action.
 - We consider gender aspects of our research.
 
@@ -26,6 +26,8 @@ If you are organizing an event within the action or if you have other questions/
 - 18 October 2022: Remote talk by [Anja Petković Komel](https://anjapetkovic.com/) on gender balance in computer science for computer science students at ENS Paris-Scalay ([slides](https://anjapetkovic.com/talks/2022-10-18-Paris-Seminar/2022-Oct-Paris-gender-gap-CS.pdf)).
 
 - 24 June 2022: [Women in EuroProofNet 2022](../women-epn-2022/): event dedicated to gender balance in the community (talks + discussion).
+
+- 31 July 2023: [Women in EuroProofNet 2023](../women-epn-2023/): event dedicated to gender balance in the community (talks + discussion).
 
 
 ## Useful links:
