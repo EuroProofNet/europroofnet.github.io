@@ -15,11 +15,23 @@ This meeting will bring together developers and users of the [TPTP](https://tptp
   * Anything else in the TPTP World
 
 Specifically, this meeting will look at:
-  * Producing TPTP-compliant proof output.
-  * Tools for verifying (GDV, Dedukti), visualizing, translating (e.g., to and from Dedukti), TPTP proofs.
-  * The new TPTP format for interpretations.
-  * Tools for verifying (AGMV), visualizing (IIV), translating, TPTP interpretations.
-  * TPTP formats and tools for proofs and models in non-classical logics.
+  *  09:00-09:30 Geoff - Welcome, TPTP derivation format, IDV, GDV
+  *  09:30-10:00 Stephan - Pragmatics of Efficient Proof Generation
+  *  10:00-10:30 Break
+  *  10:30-11:00 Gilles - Dedukti, derivation format, tool overview
+  *  11:00-11:30 Guillaume - Ekstrakto
+  *  11:30-12:00 Discussion of interoperability, things that need to be done
+  *  12:00-13:00 Lunch
+  *  13:00-13:30 Geoff - TPTP interpretation format (classical), IIV, GCMV
+  *  13:30-14:00 WHO - Dedukti interpretation format (thoughts?)
+  *  14:00-14:30 Discussion of interoperability, things that need to be done
+  *  14:30-15:00 Break
+  *  15:00-15:30 Alex - TPTP non-classical language, Logic encodings
+  *  15:30-16:00 Geoff - Non-classical tools - AGMMV, IKIV (Alex?)
+  *  16:00-16:30 Discussion of interoperability, things that need to be done
+  *  16:30-17:00 Break, with cheese and wine 
+  *  17:00-18:00 Action planning (with cheese and wine)
+  *  19:00-22:00 Dinner
 
 The meeting aims to elicit feedback, suggestions, criticisms, etc, of these resources, in order to ensure that their continued development meets the needs of successful automated reasoning.
 
