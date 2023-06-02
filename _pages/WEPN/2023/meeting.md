@@ -17,7 +17,7 @@ The event will consist of an invited talk and a few contributed talks by women t
 
 ## Important dates
 
-* Abstract submission: June 2 2023
+* Abstract submission: ~~June 2 2023~~ June 9 2023
 * Author notification: June 12 2023
 * Funding application deadline: June 26 2023
 * Early registration deadline: June 30, 2023
@@ -29,7 +29,7 @@ The event will consist of an invited talk and a few contributed talks by women t
 
 ## Call for contributions
 
-* Abstract submission deadline: June 2 2023
+* Abstract submission deadline: ~~June 2 2023~~ June 9 2023
 * Author notification: June 12 2023
 
 The contributed talks are meant as a platform to disseminate research done by women in the community. Only women (including transgender women) are invited to submit a contributed talk.
