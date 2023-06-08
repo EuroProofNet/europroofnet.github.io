@@ -83,7 +83,7 @@ https://docs.google.com/forms/d/12YxrDK-dupOFj5R5CdINvlc6xzW6C5DpEr58JoVmBIg.
 
 - [ ] Participants keep a copy of their travel documents and bills.
 
-during the meeting:
+### during the meeting:
 
 - [ ] The organizer asks participants to sign the attendance sheet every day of the meeting.
 
