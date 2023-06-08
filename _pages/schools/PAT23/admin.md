@@ -16,14 +16,14 @@ once invitations have been sent.
 
     * [X] complete address: [Hotel La Residence](https://la-residence.com), 5 Rue des Mousses, 88340 Le Val-d'Ajol, France
     * [X] starting date and time: 19 June 09:00
-    * [ ] ending date and time: 22 June 18:00 or 23 June 12:00 ?
+    * [X] ending date and time: 23 June 12:30
 
 - [X] The organizer checks the prices of accommodations and restaurants around the place of the meeting at the dates of the meeting, and sends to the 
 chair a proposal for the daily allowance.
 
     * [X] daily allowance: 125 euros
 
-- [ ] The chair sets up the event on https://e-services.cost.eu/, but not the LOS yet (this will be done later).
+- [X] The chair sets up the event on https://e-services.cost.eu/, but not the LOS yet (this will be done later).
 
 - [X] The chair asks the organizer details about the LOS, with copy to the Grant holder. By the way, the chair asks the organizer to carefully read the 
 rules concerning LOS in the COST annotated rules (see https://www.cost.eu/Annotated_Rules_for_COST_Actions_C page 92). Note in particular that VAT is not 
@@ -53,9 +53,9 @@ and departure, quote for transport, university certificates for master students)
 https://docs.google.com/forms/d/1WgAdt6_BkJiT9u6lSqIQ5p_7955CHFEjbxG2Ucj5gRg or 
 https://docs.google.com/forms/d/12YxrDK-dupOFj5R5CdINvlc6xzW6C5DpEr58JoVmBIg.
 
-- [ ] The Grant Holder contacts the organizer to collect the additional data it needs.
+- [X] The Grant Holder contacts the organizer to collect the additional data it needs.
 
-- [ ] The organizer provides the Grant Holder with the additional data it needs.
+- [X] The organizer provides the Grant Holder with the additional data it needs.
 
 ### at least 1 month before the meeting:
 
@@ -69,11 +69,11 @@ https://docs.google.com/forms/d/12YxrDK-dupOFj5R5CdINvlc6xzW6C5DpEr58JoVmBIg.
 
 - [X] Participants have 2 weeks maximum to accept their invitation on https://e-services.cost.eu/. After this delay, the invitation is cancelled.
 
-- [ ] The chair sends to the Grant Holder the list of selected participants.
+- [X] The chair sends to the Grant Holder the list of selected participants.
 
-- [ ] The Grant Holder contacts the selected participants to collect the data it needs.
+- [X] The Grant Holder contacts the selected participants to collect the data it needs.
 
-- [ ] The selected participants provide the Grant Holder with the data it needs.
+- [X] The selected participants provide the Grant Holder with the data it needs.
 
 ### at least 1 day before the meeting:
 
