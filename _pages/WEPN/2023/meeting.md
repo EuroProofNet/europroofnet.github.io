@@ -17,10 +17,10 @@ The event will consist of an invited talk and a few contributed talks by women t
 
 ## Important dates
 
-* Abstract submission: June 2 2023
+* Abstract submission: ~~June 2 2023~~ June 9 2023
 * Author notification: June 12 2023
 * Funding application deadline: June 26 2023
-* Registration deadline: TBA
+* Early registration deadline: June 30, 2023
 * Event: July 31 2023
 
 ## Invited Speaker
@@ -29,7 +29,7 @@ The event will consist of an invited talk and a few contributed talks by women t
 
 ## Call for contributions
 
-* Abstract submission deadline: June 2 2023
+* Abstract submission deadline: ~~June 2 2023~~ June 9 2023
 * Author notification: June 12 2023
 
 The contributed talks are meant as a platform to disseminate research done by women in the community. Only women (including transgender women) are invited to submit a contributed talk.
@@ -45,20 +45,21 @@ University of Bialystok campus, Konstantego Ciołkowskiego 1M, 15-245 Białystok
 
 ### Registration
 
-Participation at the WEPN 2023 is free but registration is required. If you registered for ITP 2023 (please indicate this on the registration form), you have access to all co-located workshops, including WEPN 2023. However, if you only register for WEPN 2023, participation at co-located events and usage of ITP facilities is not included (in particular, you need to provide your own lunch).
+Participation at the WEPN 2023 is free but registration is required.
+If you registered for ITP 2023, you have access to all co-located workshops, including WEPN 2023. However, if you only register for WEPN 2023, participation at co-located events and usage of ITP facilities is not included (in particular, you need to provide your own lunch).
 
-The registration form includes the option to apply for funding. See [reimbursement rules](../reimbursement-rules).
+Registration form (on the ITP 2023 website): [register here](https://mizar.uwb.edu.pl/ITP2023/registration.html).
 
-Registration form: [register here](https://forms.gle/QD24npjVy8wj4H856).
-
-Please contact Anja Petković Komel and Sandra Alves if you have any problem during the registration process, including reluctance to use google forms.
-
-Registration deadline: TBA
+Early registration deadline: June 30 2023
 
 
-### Funding applications: on the registration form (deadline: June 26 2023)
+### Funding applications: (deadline: June 26 2023)
 
 The EuroProofNet COST action can provide funding for a limited amount of participants. If you would like the apply for funding, fill out the details for funding on the registration form. Before applying for funding see [reimbursement rules](../reimbursement-rules). The daily allowance was set to 80€.
+
+Funding application form: [apply here](https://forms.gle/PqpdGkjyWsCkfAV18).
+
+Please contact Anja Petković Komel and Sandra Alves if you have any problem during the application for funding process, including reluctance to use google forms.
 
 ### Program
 
