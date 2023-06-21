@@ -27,7 +27,8 @@ Specifically, this meeting will look at:
   *  14:00-14:30 Discussion of interoperability, things that need to be done
   *  14:30-15:00 Break
   *  15:00-15:30 Alex - TPTP non-classical language, Logic encodings
-  *  15:30-16:00 Geoff - Non-classical tools - AGMMV, IKIV (Alex?)
+  *  15:30-15:45 Melanie - Non-trivial Multi-Modal Logics with Interactions
+  *  15:45-16:00 Geoff - Non-classical tools - AGMMV, IKIV (Alex?)
   *  16:00-16:30 Discussion of interoperability, things that need to be done
   *  16:30-17:00 Break, with cheese and wine 
   *  17:00-18:00 Action planning (with cheese and wine)
