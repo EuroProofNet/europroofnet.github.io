@@ -1,5 +1,5 @@
 ---
-title: "Joint WG4-WG5 meeting, Cambridge, 6-8 September 2023"
+title: "Joint WG4-WG5 meeting, Cambridge, UK, 6-8 September 2023"
 layout: single
 permalink: /cambridge-2023/
 author_profile: true
@@ -10,19 +10,31 @@ breadcrumbs: true
 
 This joint WG4-WG5 meeting consists of:
 
-- a [Workshop on Natural Formal Mathematics](https://cicm-conference.org/2023/cicm.php?event=natfom&menu=general) (NatFoM) on September 6-7 at Emmanuel College, St Andrew's St, in co-location with the [16th Conference on Intelligent Computer Mathematics](https://cicm-conference.org/2023/)
+- a [Workshop on Natural Formal Mathematics](https://cicm-conference.org/2023/cicm.php?event=natfom&menu=general) (NatFoM) on September 6-7
 
 - a Workshop on libraries of formal proofs and natural mathematical language described below on September 7-8.
 
 The session on September 7 is common to the two workshops.
 
+These events happen during the [16th Conference on Intelligent Computer Mathematics](https://cicm-conference.org/2023/) which takes place at Emmanuel College, St Andrew's St, 15 minutes away by bus, 35 minutes away by walk, and 10 minutes by bike.
+
 
 ## Overall programme
 
-| Day and time | Place | Workshop |
-| 6 September 14:00-18:00 | Emmanuel College, St Andrew's St. | [Workshop on Natural Formal Mathematics](https://cicm-conference.org/2023/cicm.php?event=natfom&menu=general) |
-| 7 September 14:00-18:00 | TBA | Joint WG4-WG5 meeting |
-| 8 September 14:00-18:00 | Department of Computer Science, 15 JJ Thomson Ave | Workshop on libraries of formal proofs and natural mathematical language |
+| Day and time | Session |
+| 6 September 14:00-18:00 | [Workshop on Natural Formal Mathematics](https://cicm-conference.org/2023/cicm.php?event=natfom&menu=general) |
+| 7 September 14:00-18:00 | Joint WG4-WG5 meeting |
+| 8 September 14:00-18:00 | Workshop on libraries of formal proofs and natural mathematical language |
+
+
+### Venue
+Lecture Theatre 1
+William Gates Building/Computer Laboratory
+Department of Computer Science and Technology
+University of Cambridge
+15 JJ Thomson Avenue, 
+Cambridge CB30FD
+UK
 
 
 ## Workshop on libraries of formal proofs and natural mathematical language, 7-8 September 2023 (joint with [NatFoM](https://cicm-conference.org/2023/cicm.php?event=natfom&menu=general) on 7 Sept.)
@@ -39,12 +51,6 @@ If you are interested in giving a talk, please send your submission and abstract
 * Camera-ready versions dealine: 20 August 2023.
 
 Accepted abstracts will be made available online.
-
-
-### Venue
-William Gates Building/ Computer Laboratory
-Department of Computer Science and Technology
-University of Cambridge
 
 
 ### Funding applications
@@ -70,3 +76,7 @@ TBA
 * [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/) (INRIA)
 * [Claudio Sacerdoti Coen](https://www.cs.unibo.it/~sacerdot/) (Bologna)
 * [Peter Koepke](https://www.math.uni-bonn.de/people/koepke/) (Bonn)
+
+### Local organizer
+
+* [Angeliki Koutsoukou-Argyraki](https://www.cl.cam.ac.uk/~ak2110/) (Cambridge)
