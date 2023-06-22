@@ -33,8 +33,6 @@ etc. (check the tabs on the top and the menu icon on the top right
 corner).
 
 **Coming events:**
-
-- 7-8 September 2023: [WG4 meeting/Workshop on libraries of formal proofs and natural mathematical language](../wg4-meeting2-2023), Cambridge, UK
   
 - 19-23 June 2023: [School on proof assistants for teaching proof and proving](https://pat2023.icube.unistra.fr/) (PAT), Val d'Ajol, France
 
@@ -43,6 +41,8 @@ corner).
 - 25-27 July 2023: [Inter-WG developers meeting](../dk-meeting-july2023), Le Val d'Ajol, France
 
 - 31 July 2023: [Women in EuroProofNet](../women-epn-2023), Bialystok, Poland
+
+- 6-8 September 2023: [Joint WG4-WG5 meeting/Workshop on Natural Formal Mathematics, and on libraries of formal proofs and natural mathematical language](../cambridge-2023), Cambridge, UK
 
 [Past events](../events)
 
