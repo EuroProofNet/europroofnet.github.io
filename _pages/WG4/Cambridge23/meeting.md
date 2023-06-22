@@ -23,7 +23,7 @@ These events happen during the [16th Conference on Intelligent Computer Mathemat
 
 | Day and time | Session |
 | 6 September 14:00-18:00 | [Workshop on Natural Formal Mathematics](https://cicm-conference.org/2023/cicm.php?event=natfom&menu=general) |
-| 7 September 14:00-18:00 | Joint WG4-WG5 meeting |
+| 7 September 14:00-18:00 | Joint session between the two workshops |
 | 8 September 14:00-18:00 | Workshop on libraries of formal proofs and natural mathematical language |
 
 
