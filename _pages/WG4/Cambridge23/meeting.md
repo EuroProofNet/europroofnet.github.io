@@ -1,7 +1,7 @@
 ---
 title: "WG4 second meeting 2023"
 layout: single
-permalink: /wg4-meeting1-2023/
+permalink: /wg4-meeting2-2023/
 author_profile: true
 breadcrumbs: true
 ---
