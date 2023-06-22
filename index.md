@@ -34,7 +34,7 @@ corner).
 
 **Coming events:**
 
-- 7-8 September 2023: [WG4 meeting/Workshop on libraries of formal proofs and natural mathematical language](../wg4-meeting2-2023), Cambridge, UK
+- 7-8 September 2023: [WG4 meeting/Workshop on libraries of formal proofs and natural mathematical language](../../wg4-meeting2-2023), Cambridge, UK
   
 - 19-23 June 2023: [School on proof assistants for teaching proof and proving](https://pat2023.icube.unistra.fr/) (PAT), Val d'Ajol, France
 
