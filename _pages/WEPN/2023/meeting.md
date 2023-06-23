@@ -55,7 +55,7 @@ Early registration deadline: June 30 2023
 
 ### Funding applications: (deadline: July 16 2023)
 
-The EuroProofNet COST action can provide funding for a limited amount of participants. If you would like the apply for funding, fill out the details for funding on the registration form. Before applying for funding see [reimbursement rules](../reimbursement-rules). <!--The daily allowance was set to 80€.-->
+The EuroProofNet COST action can provide funding for a limited amount of participants - **all genders welcome to apply for funding**! If you would like the apply for funding, fill out the details for funding on the registration form. Before applying for funding see [reimbursement rules](../reimbursement-rules). <!--The daily allowance was set to 80€.-->
 
 Funding application form: [apply here](https://forms.gle/PqpdGkjyWsCkfAV18).
 
@@ -66,7 +66,21 @@ Please contact Anja Petković Komel and Sandra Alves if you have any problem dur
 ### Program
 
 The event is scheduled as a half-day meeting.
-Details TBA.
+
+Tentative program schedule (subject to change):
+
+
+| Time        | Session |
+| ----------- | ----------- |
+| 09:00-09:05 | Opening & Welcome |
+| 09:05-10:00 | Invited talk: Małgorzata Biernacka: TBA |
+| 10:05-10:30 | Dragana Milovancevic: [Towards Practical and Rigorous Automated Grading in Functional Programming Courses](abstracts/WEPN_2023_paper_Milovancevic.pdf)|
+| 10:35-11:00 | Natalia Ślusarz: [Logic of Differentiable Logics: Towards a Uniform Semantics of DL](abstracts/WEPN_2023_paper_Slusarz.pdf)|
+| 11:00-11:30 | _Coffee Break_ |
+| 11:30-11:55 | Chelsea Edmonds: [An Introduction to the Probabilistic Method for Combinatorics in Isabelle/HOL](abstracts/WEPN_2023_paper_Edmonds.pdf) |
+| 12:00-13:25 | Discussion on gender balance issues |
+| 13:25-13:30 | Group photo |
+| 13:30-15:00 | lunch |
 
 
 ### Booklet of best practices
