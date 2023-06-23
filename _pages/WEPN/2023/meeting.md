@@ -19,7 +19,7 @@ The event will consist of an invited talk and a few contributed talks by women t
 
 * Abstract submission: ~~June 2 2023~~ June 9 2023
 * Author notification: June 12 2023
-* Funding application deadline: July 16 2023
+* Funding application deadline: ~~June 26 2023~~ July 16 2023
 * Early registration deadline: June 30, 2023
 * Event: July 31 2023
 
@@ -59,7 +59,7 @@ The EuroProofNet COST action can provide funding for a limited amount of partici
 
 Funding application form: [apply here](https://forms.gle/PqpdGkjyWsCkfAV18).
 
-Note that it is possible to arrive a few days before and leave a few days after the workshop but a maximum of 2.4 daily allowances will be reimbursed.
+Note that it is possible to arrive a few days before and leave a few days after the workshop (for instance in case you want to also attend ITP 2023) but a maximum of 2.4 daily allowances will be reimbursed.
 
 Please contact Anja Petković Komel and Sandra Alves if you have any problem during the application for funding process, including reluctance to use google forms.
 
