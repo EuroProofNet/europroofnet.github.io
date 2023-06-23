@@ -55,7 +55,7 @@ Early registration deadline: June 30 2023
 
 ### Funding applications: (deadline: July 16 2023)
 
-The EuroProofNet COST action can provide funding for a limited amount of participants. If you would like the apply for funding, fill out the details for funding on the registration form. Before applying for funding see [reimbursement rules](../reimbursement-rules). The daily allowance was set to 80€.
+The EuroProofNet COST action can provide funding for a limited amount of participants. If you would like the apply for funding, fill out the details for funding on the registration form. Before applying for funding see [reimbursement rules](../reimbursement-rules). <!--The daily allowance was set to 80€.-->
 
 Funding application form: [apply here](https://forms.gle/PqpdGkjyWsCkfAV18).
 
