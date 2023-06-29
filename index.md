@@ -34,8 +34,6 @@ corner).
 
 **Coming events:**
 
-- 11-13 May 2023: [Developers meeting on proof generating automated theorem provers](../dk-meeting3), Liège, Belgium
-
 - 19-23 June 2023: [School on proof assistants for teaching proof and proving](https://pat2023.icube.unistra.fr/) (PAT), Val d'Ajol, France
 
 - 13 July 2023: [WG2 meeting/TPTP tea party](../tptp23-meeting), ENS Paris-Saclay, France

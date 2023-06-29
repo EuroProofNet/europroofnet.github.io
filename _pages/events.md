@@ -11,6 +11,7 @@ author_profile: true
 
 **Past events:**
 
+- 11-13 May 2023: [Developers meeting on proof generating automated theorem provers](../dk-meeting3), Liège, Belgium
 - 8 May 2023: [deadline for STSM and ITCG proposals](../grants) Priority will be given to the proposals contributing to the objectives and deliverables of the working groups 2, 4 and 5:
   * WG2: detailed, checkable proofs from automated theorem provers
   * WG4: maintenance, refactoring and search of proof libraries

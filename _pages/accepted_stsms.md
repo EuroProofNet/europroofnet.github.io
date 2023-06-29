@@ -25,7 +25,7 @@ author_profile: true
   Visitor: Konstantinos Kogkalidis  
   Host: Jean-Philippe Bernardy  
   Grant: 1105 EUR  
-  Dates: 2023-06-19 to 2023-06-23
+  Dates: 2023-09-11 to 2023-09-15
 
 * **Translation of HOL4 proofs to Dedukti and Lambdapi** [application](/_pages/stsm/blanqui-app.pdf)   
   Visitor: Frédéric Blanqui  
@@ -39,11 +39,13 @@ author_profile: true
   Grant: 1092 EUR  
   Dates: 2023-06-19 to 2023-06-21
 
+<!--
 * **Conjecture and proof search in Agda with large language models** [application](/_pages/stsm/dore-app2.pdf)   
   Visitor: Maximilian Doré  
   Host: Moa Johansson  
   Grant: 1220 EUR  
   Dates: 2023-10-16 to 2023-10-20
+-->
 
 * **SMT solving and proofs for non-linear arithmetic** [application](/_pages/stsm/nalbach-app.pdf)   
   Visitor: Jasper Nalbach  
