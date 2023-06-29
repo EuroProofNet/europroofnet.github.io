@@ -27,7 +27,7 @@ author_profile: true
   Grant: 1105 EUR  
   Dates: 2023-09-11 to 2023-09-15
 
-* **Translation of HOL4 proofs to Dedukti and Lambdapi** [application](/_pages/stsm/blanqui-app.pdf)   
+* **Translation of HOL4 proofs to Dedukti and Lambdapi** [application](/_pages/stsm/blanqui-app.pdf) [report](/_pages/stsm/blanqui-rep.pdf)   
   Visitor: Frédéric Blanqui  
   Host: Magnus Myreen  
   Grant: 1421 EUR  
@@ -73,7 +73,7 @@ author_profile: true
   Grant: 2369 EUR  
   Dates: 2023-04-26 to 2023-05-05
 
-* **Formal Specification and Verification of Attestation in Confidential Computing** [application](/_pages/stsm/sardar-app.pdf)   
+* **Formal Specification and Verification of Attestation in Confidential Computing** [application](/_pages/stsm/sardar-app.pdf) [report](/_pages/stsm/sardar-rep.pdf)   
   Visitor: Muhammad Usama Sardar (Chair of Systems Engineering, Dresden, Germany)  
   Host: Lilia Georgieva (Heriot-Watt University, Edinburgh, UK)  
   Grant: 2041 EUR  
@@ -91,7 +91,7 @@ author_profile: true
   Grant: 1990 EUR  
   Dates: 2023-05-21 to 2023-05-31
 
-* **Understanding interpretations of HoTT in elementary (oo,1)-toposes** [application](/_pages/stsm/rogers-app.pdf)   
+* **Understanding interpretations of HoTT in elementary (oo,1)-toposes** [application](/_pages/stsm/rogers-app.pdf) [report](/_pages/stsm/rogers-rep.pdf)   
   Visitor: Morgan Elliot Rogers (CNRS, Villetaneuse, France)  
   Host: Paige Randall North (Utrecht University, Netherlands)  
   Grant: 2459 EUR  
@@ -123,7 +123,7 @@ author_profile: true
   Grant: 1192 EUR  
   Dates: 2023-02-27 to 2023-03-03
 
-* **Automated Translation of Mizar Declarative Proof** [application](/_pages/stsm/pak-app.pdf)   
+* **Automated Translation of Mizar Declarative Proof** [application](/_pages/stsm/pak-app.pdf) [report](/_pages/stsm/pak-rep.pdf)   
   Visitor: Karol Pak (Institute of Computer Science, Bialystok, Poland)   
   Host: Cezary Kaliszyk (University of Innsbruck, Austria)   
   Grant: 2922 EUR  
@@ -147,7 +147,7 @@ author_profile: true
   Grant: 1835 EUR  
   Dates: 2023-03-20 to 2023-04-01
 
-* **Indexing and retrieval of formal proofs in an heterogeneous settings** [application](/_pages/stsm/sacerdoti-app.pdf)   
+* **Indexing and retrieval of formal proofs in an heterogeneous settings** [application](/_pages/stsm/sacerdoti-app.pdf) [report](/_pages/stsm/sacerdoti-rep.pdf)   
   Visitor: Claudio Sacerdoti Coen (Alma Mater Studiorum - Università di Bologna, Italy)   
   Host: Frédéric Blanqui (Ecole Normale Superieure Paris-Saclay, France)   
   Grant: 1037 EUR  
