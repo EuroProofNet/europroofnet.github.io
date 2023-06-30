@@ -33,10 +33,10 @@ The meeting aims to elicit feedback, suggestions, criticisms, etc, of these reso
 | 10:00-10:30 | Break |
 | 10:30-11:00 | Gilles - Dedukti, derivation format, tool overview |
 | 11:00-11:30 | Guillaume - Ekstrakto |
-| 11:30-12:00 | Discussion of interoperability, things that need to be done |
-| 12:00-13:00 | Lunch |
-| 13:00-13:30 | Geoff - TPTP interpretation format (classical), IIV, GCMV |
-| 13:30-14:00 | WHO - Dedukti interpretation format (thoughts?) |
+| 11:30-12:00 | Geoff and Frederic - GDV and Dedukti
+| 12:00-12:30 | Discussion of interoperability, things that need to be done |
+| 12:30-13:30 | Lunch |
+| 13:30-14:00 | Geoff - TPTP interpretation format (classical), IIV, GCMV |
 | 14:00-14:30 | Discussion of interoperability, things that need to be done |
 | 14:30-15:00 | Break |
 | 15:00-15:30 | Alex - TPTP non-classical language, Logic encodings |
