@@ -67,13 +67,13 @@ author_profile: true
   Grant: 2604 EUR  
   Dates: 2023-04-09 to 2023-04-30
 
-* **Computer science applications of Cubical Agda** [application](/_pages/stsm/ljungstrom-app.pdf)  
+* **Computer science applications of Cubical Agda** [application](/_pages/stsm/ljungstrom-app.pdf) [report](/_pages/stsm/ljungstrom-rep.pdf)  
   Visitor: Axel Ljungström (Stockholm University, Sweden)  
   Host: Stefano Berardi (University of Turin, Italy)  
   Grant: 2369 EUR  
   Dates: 2023-04-26 to 2023-05-05
 
-* **Formal Specification and Verification of Attestation in Confidential Computing** [application](/_pages/stsm/sardar-app.pdf) [report](/_pages/stsm/sardar-rep.pdf)   
+* **Formal Specification and Verification of Attestation in Confidential Computing** [application](/_pages/stsm/sardar-app.pdf) [report](/_pages/stsm/sardar-rep.pdf)  
   Visitor: Muhammad Usama Sardar (Chair of Systems Engineering, Dresden, Germany)  
   Host: Lilia Georgieva (Heriot-Watt University, Edinburgh, UK)  
   Grant: 2041 EUR  
@@ -105,7 +105,7 @@ author_profile: true
   Grant: 1478 EUR  
   Dates: 2023-02-05 to 2023-02-12
 
-* **Static Guarantees of Confluence in Actor Languages** [application](/_pages/stsm/pun-app.pdf)   
+* **Static Guarantees of Confluence in Actor Languages** [application](/_pages/stsm/pun-app.pdf) [report](/_pages/stsm/pun-rep.pdf)  
   Visitor: Violet Ka I Pun (Western Norway University of Applied Sciences, Bergen, Norway)   
   Host: Ludovic Henrio (LIP Laboratory, ENS Lyon)   
   Grant: 1500 EUR  
@@ -129,7 +129,7 @@ author_profile: true
   Grant: 2922 EUR  
   Dates: 2023-04-17 to 2023-05-06
 
-* **Larus/Dedukti** [application](/_pages/stsm/narboux-app.pdf)   
+* **Larus/Dedukti** [application](/_pages/stsm/narboux-app.pdf) [report](/_pages/stsm/narboux-rep.pdf)  
   Visitor: Julien Narboux (University of Strasbourg, France)   
   Host: Predrag Janicic (University of Belgrade, Serbia)   
   Grant: 1020 EUR  
