@@ -17,7 +17,7 @@ Participants invited at a meeting or school, and people having an approved STSM,
 
 - Participants can use their own car if it is less expensive than using flight/train/bus, especially for a group. The reimbursement is around 0.35 euros/km for the driver (ask the precise amount to the Grant Holder). On the other hand, parking, fuel, toll and car rental are not reimbursed.
 
-- Participants must provide the Grant Holder with the **tickets and bills** of their travel and accommodation (at their name and address), and the **receipts of their meals** (lunch and dinner). In the event there are no receipts, the reimbursement will not be possible. These documents are necessary for making sure that the reimbursement is justified but the amount of the reimbursement is a fixed daily allowance (see below).
+- Participants must provide the Grant Holder with the **tickets and bills** of their travel and accommodation (at their name and address), and the **receipts of their meals** (lunch and dinner). In the event there are no receipts, the reimbursement will not be possible. These documents are necessary for making sure that the reimbursement is justified but the amount of the reimbursement is a fixed daily allowance (see more details below).
 
 **Additional rules for meetings and schools:**
 
@@ -29,7 +29,7 @@ Participants invited at a meeting or school, and people having an approved STSM,
 
 - STSM grantees must upload on the COST website their report, signed by their host, once the final amount of their STSM has been approved.
 
-- For accommodation, meals and local transport, the reimbursement is a [daily flat rate](../stsm-daily-allowance) fixed by the Grant Holder depending on the host country. About 2/3 of the flat rate is for the hotel, 1/6 for the lunch and 1/6 for the diner. Be careful that a lunch or diner will not be reimbursed if there is no receipt for it. Receipts from markets or supermarkets are accepted.
+- For accommodation, meals and local transport, the reimbursement is a [daily flat rate](../stsm-daily-allowance) fixed by the Grant Holder depending on the host country. About 2/3 of the flat rate is for the hotel, 1/6 for the lunch and 1/6 for the diner. Be careful that a lunch or diner will not be reimbursed if there is no receipt for it (see details below). Receipts from markets or supermarkets are accepted.
 
 - **Before the travel:**
 
