@@ -58,7 +58,7 @@ At least one author of each accepted extended abstract/demonstration proposal is
 **Program Committee:**
   * Adrian De Lon, Bonn (co-chair)
   * Peter Koepke, Bonn (co-chair)
-  * Angeliki Koutsoukou-Agyraki
+  * Angeliki Koutsoukou-Argyraki, Cambridge
   * Dennis Müller, Erlangen (co-chair)
 
 ## Workshop on libraries of formal proofs and natural mathematical language, 7-8 September 2023
@@ -81,9 +81,10 @@ Please note that talks will be in person, therefore at least one author of each 
 
 **Deadlines:**
   * Deadline for talk proposals: 30 July 2023
+  * Deadline for funding applications: 30 July 2023
   * Notification of acceptance: 6 August 2023
   * Camera-ready versions: 20 August 2023.
-  * Deadline for funding applications: 23 July 2023
+ 
 
 Funding can be offered to some participants who are members of EuroProofNet ([membership application](https://e-services.cost.eu/action/CA20111/working-groups/apply) is free).
 
