@@ -33,7 +33,7 @@ UK
 
 These two workshops happen during the [16th Conference on Intelligent Computer Mathematics](https://cicm-conference.org/2023/) which takes place at Emmanuel College, St Andrew's St, 15 minutes away by bus, 35 minutes away by walk, and 10 minutes away by bike.
 
-## NatFoM: Workshop on Natural Formal Mathematics
+## NatFoM: Workshop on Natural Formal Mathematics, Cambridge, 6-7 September 2023
 
 In (pure) mathematics there has always existed a strong informal sense of "naturality" of topics and methods. Generally "natural" theories, notions, properties, or proofs are prefered over technical, convoluted, or counterintuitive approaches. If formal mathematics is to become part of mainstream mathematics, its formalizations and usage apparently have to become more "natural", and thus closer to informal mathematics.
 
@@ -61,7 +61,7 @@ At least one author of each accepted extended abstract/demonstration proposal is
   * Angeliki Koutsoukou-Argyraki, Cambridge
   * Dennis Müller, Erlangen (co-chair)
 
-## Workshop on Libraries of Formal Proofs and Natural Mathematical Language, 7-8 September 2023
+## Workshop on Libraries of Formal Proofs and Natural Mathematical Language, Cambridge, 7-8 September 2023
 
 We welcome contributions (in the form of short talks, demos or presentations on work in progress) on the topics of library descriptions or on methodologies, algorithms and tools trying to tackle the challenges raised by the development, maintenance, refactoring and search of libraries of formal proofs.
 
