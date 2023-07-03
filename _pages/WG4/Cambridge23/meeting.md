@@ -53,11 +53,7 @@ Topics of interest include (but are not limited to):
   * Mathematical type setting (LaTeX) and formal mathematics
   * Natural formalizations
 
-We welcome submission of extended abstracts and demonstration proposals presenting work related to the workshop's topics of interest. Extended abstracts and demonstration proposals should be about 1 page formatted in LaTeX using the style onecolceurws.
-
-Continuous submissions until 15 August with decision on acceptance made within 2 weeks (the earlier the better).
-
-At least one author of each accepted extended abstract/demonstration proposal is expected to attend NatFoM and to presents his/her submission in person. Accepted abstracts will be made available online, with camera-ready versions required until 1 September 2023.
+At least one author of each accepted extended abstract/demonstration proposal is expected to attend NatFoM and to presents his/her submission in person. Accepted abstracts will be made available online ([one column ceur-ws](http://ceur-ws.org/Vol-XXX/samplestyles/onecolceurws.sty)).
 
 **Program Committee:**
   * Adrian De Lon, Bonn (co-chair)
@@ -75,11 +71,6 @@ Accepted abstracts will be made available online.
 
 Please note that talks will be in person, therefore at least one author of each accepted submission is expected to attend the workshop and to present the submission in person. 
 
-**Deadlines:**
-  * Deadline for talk proposals: 23 July 2023
-  * Notification of acceptance: 6 August 2023
-  * Camera-ready versions: 20 August 2023.
-
 **Programme committee:**
   * [Angeliki Koutsoukou-Argyraki](https://www.cl.cam.ac.uk/~ak2110/) (Cambridge)
   * [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/) (INRIA)
@@ -88,7 +79,11 @@ Please note that talks will be in person, therefore at least one author of each 
 
 ## Abstract submission and funding applications
 
-Deadline for funding applications: 23 July 2023
+**Deadlines:**
+  * Deadline for talk proposals: 30 July 2023
+  * Notification of acceptance: 6 August 2023
+  * Camera-ready versions: 20 August 2023.
+  * Deadline for funding applications: 23 July 2023
 
 Funding can be offered to some participants who are members of EuroProofNet ([membership application](https://e-services.cost.eu/action/CA20111/working-groups/apply) is free).
 
