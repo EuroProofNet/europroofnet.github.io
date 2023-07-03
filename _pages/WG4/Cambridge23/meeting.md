@@ -6,9 +6,9 @@ author_profile: true
 breadcrumbs: true
 ---
 
-This [joint WG4-WG5](https://cicm-conference.org/2023/cicm.php?event=natfom&menu=general) meeting consists of:
+This joint WG4-WG5 meeting consists of:
 
-- a Workshop on Natural Formal Mathematics (NatFoM) (September 6-7).
+- a Workshop on Natural Formal Mathematics [(NatFoM)(https://cicm-conference.org/2023/cicm.php?event=natfom&menu=general)] (September 6-7).
 
 - a Workshop on Libraries of Formal Proofs and Natural Mathematical Language (September 7-8).
 
@@ -37,7 +37,7 @@ These two workshops happen during the [16th Conference on Intelligent Computer M
 
 In (pure) mathematics there has always existed a strong informal sense of "naturality" of topics and methods. Generally "natural" theories, notions, properties, or proofs are prefered over technical, convoluted, or counterintuitive approaches. If formal mathematics is to become part of mainstream mathematics, its formalizations and usage apparently have to become more "natural", and thus closer to informal mathematics.
 
-This workshop broadly addresses the issue of naturality in formal mathematics. On 7 September there will be a joint afternoon session with the Workshop on libraries of formal proofs and natural mathematical language. We plan on two invited talks and an open discussion on naturalness in formal mathematics.
+This workshop broadly addresses the issue of naturality in formal mathematics. On 7 September there will be a joint afternoon session with the Workshop on Libraries of Formal Proofs and Natural Mathematical Language. We plan on open discussions on naturalness in formal mathematics.
 
 Topics of interest include (but are not limited to):
   * The notion of naturality in mathematics generally
@@ -61,7 +61,7 @@ At least one author of each accepted extended abstract/demonstration proposal is
   * Angeliki Koutsoukou-Argyraki, Cambridge
   * Dennis Müller, Erlangen (co-chair)
 
-## Workshop on libraries of formal proofs and natural mathematical language, 7-8 September 2023
+## Workshop on Libraries of Formal Proofs and Natural Mathematical Language, 7-8 September 2023
 
 We welcome contributions (in the form of short talks, demos or presentations on work in progress) on the topics of library descriptions or on methodologies, algorithms and tools trying to tackle the challenges raised by the development, maintenance, refactoring and search of libraries of formal proofs.
 
@@ -92,7 +92,7 @@ Before applying check the [reimbursement rules](../reimbursement-rules). The dai
 
 For funding applications you need to provide an estimation in EUROS of your transport to Cambridge with screen capture as proof, and with the date of your arrival in Cambridge and the date of your departure from Cambridge (it is possible to arrive a few days before and leave a few days after the workshop but a maximum de 4.4 daily allowance will be reimbursed).
 
-If you want to give a talk or if you want to apply for funding, fill out the [registration form](https://docs.google.com/forms/d/e/1FAIpQLSfSv1lE3nk0eIcPvQMVqCKCpe_1yMIQFTNaMHuAtEUbIdi93A/viewform?usp=pp_url).
+If you want to give a talk or if you want to apply for funding, fill out the [Registration Form](https://docs.google.com/forms/d/e/1FAIpQLSfSv1lE3nk0eIcPvQMVqCKCpe_1yMIQFTNaMHuAtEUbIdi93A/viewform?usp=pp_url).
 
 ## Program
 
