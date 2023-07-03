@@ -82,8 +82,8 @@ Please note that talks will be in person, therefore at least one author of each 
 **Deadlines:**
 
 * Deadline for funding applications: 23 July.
-* Deadline for abstract submissions: 30 July. 
-* Notification of acceptance (abstracts and funding): 6 August.
+* Deadline for abstract submissions: 23 July. 
+* Deadline for notification of acceptance (abstracts and funding): 6 August.
 * Camera-ready versions: 20 August.  
 
 Funding can be offered to some participants who are members of EuroProofNet ([membership application](https://e-services.cost.eu/action/CA20111/working-groups/apply) is free).
