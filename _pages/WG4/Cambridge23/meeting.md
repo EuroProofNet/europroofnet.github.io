@@ -6,20 +6,20 @@ author_profile: true
 breadcrumbs: true
 ---
 
-This joint WG4-WG5 meeting consists of:
+This [joint WG4-WG5](https://cicm-conference.org/2023/cicm.php?event=natfom&menu=general) meeting consists of:
 
-- a [Workshop on Natural Formal Mathematics](https://cicm-conference.org/2023/cicm.php?event=natfom&menu=general) (NatFoM) on September 6-7
+- a Workshop on Natural Formal Mathematics (NatFoM) (September 6-7).
 
-- a Workshop on libraries of formal proofs and natural mathematical language described below on September 7-8.
+- a Workshop on Libraries of Formal Proofs and Natural Mathematical Language (September 7-8).
 
 The session on September 7 is common to the two workshops.
 
 ## Overall programme
 
 | Day and time | Session |
-| 6 September 14:00-18:00 | [Workshop on Natural Formal Mathematics](https://cicm-conference.org/2023/cicm.php?event=natfom&menu=general) |
+| 6 September 14:00-18:00 | Workshop on Natural Formal Mathematics |
 | 7 September 14:00-18:00 | Joint session between the two workshops |
-| 8 September 14:00-18:00 | Workshop on libraries of formal proofs and natural mathematical language described below |
+| 8 September 14:00-18:00 | Workshop on Libraries of Formal Proofs and Natural Mathematical Language|
 
 ## Venue
 
