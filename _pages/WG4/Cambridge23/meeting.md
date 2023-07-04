@@ -91,7 +91,9 @@ Funding can be offered to some participants who are members of EuroProofNet ([me
 
 Before applying check the [reimbursement rules](../reimbursement-rules). The daily allowance has been fixed at 175 euros.
 
-For funding applications you need to provide an estimation in EUROS of your transport to Cambridge with screen capture as proof, and with the date of your arrival in Cambridge and the date of your departure from Cambridge (it is possible to arrive a few days before and leave a few days after the workshop but a maximum de 4.4 daily allowance will be reimbursed).
+For funding applications you need to provide an estimation in EUROS of your transport to Cambridge with screen capture as proof, and with the date of your arrival in Cambridge and the date of your departure from Cambridge.
+
+As usual it is possible to arrive a few days before and leave a few days after the meeting but a maximum of 4.4 daily allowances may be reimbursed.
 
 If you want to give a talk or if you want to apply for funding, fill out the [Registration Form](https://docs.google.com/forms/d/e/1FAIpQLSfSv1lE3nk0eIcPvQMVqCKCpe_1yMIQFTNaMHuAtEUbIdi93A/viewform?usp=pp_url).
 
