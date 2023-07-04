@@ -9,6 +9,8 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 
 - 18-23 June 2023: [Proof assistants for Teaching](https://pat2023.icube.unistra.fr/), Val d'Ajol, France
 
+- 28 August - 1 September 2023: [Summer School on Reactive Synthesis](http://tcs.uniud.it/summer-school/), Udine, Italy
+
 - 7-10 November 2022: [Autumn School Proof Theory](https://uswpt.sites.uu.nl/), Utrecht, Netherlands
 
 - 26 September - 1 October 2022: [Proof and Computation](http://www.mathematik.uni-muenchen.de/~schwicht/pc22.php), Fischbachau, Germany
