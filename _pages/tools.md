@@ -31,7 +31,9 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 - [Agda2Dedukti](https://github.com/Deducteam/Agda2Dedukti): Agda to Dedukti/Agda or Lambdapi/Agda
 - [Vodk](https://github.com/Deducteam/CoqInE): Coq to Dedukti/Coq
 - [Dk2agda](https://github.com/Deducteam/dk2agda): Dedukti to Agda
-- [Ekstrakto](https://github.com/Deducteam/ekstrakto): TSTP to Dedukti/FOL or Lambdapi/FOL
+- [Ekstrakto](https://github.com/Deducteam/ekstrakto): TSTP to TPTP and Lambdapi/FOL
+- [GDV](https://github.com/orgs/TPTPWorld/repositories): TSTP to TPTP and Lambdapi/FOL
+- [Hol2dk](https://github.com/Deducteam/hol2dk): HOL-Light to Dedukti and Lambdapi
 - [Holide](https://github.com/Deducteam/Holide): OpenTheory to Dedukti/STTfa
 - [HOLLightToDk](https://github.com/Deducteam/HOLLightToDk): HOL-Light to Dedukti/STTfa
 - [Krajono](https://github.com/Deducteam/Krajono): Matita to Dedukti/Matita
@@ -43,6 +45,7 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 - [SMTCoq](https://smtcoq.github.io/): reconstruct proofs from SMT solvers in Coq
 - [CoqHammer](https://coqhammer.github.io/): reconstruct proofs from ATPs in Coq
 - [Maude2Lean](https://fadoss.github.io/maude2lean/)
+- [Lean2Coq](https://coq.discourse.group/t/alpha-announcement-coq-is-a-lean-typechecker/581): Lean to Coq
 
 **Interactive theorem provers**
 
