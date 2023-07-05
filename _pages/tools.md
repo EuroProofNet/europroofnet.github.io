@@ -32,7 +32,7 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 - [Vodk](https://github.com/Deducteam/CoqInE): Coq to Dedukti/Coq
 - [Dk2agda](https://github.com/Deducteam/dk2agda): Dedukti to Agda
 - [Ekstrakto](https://github.com/Deducteam/ekstrakto): TSTP to TPTP and Lambdapi/FOL
-- [GDV](https://github.com/orgs/TPTPWorld/repositories): TSTP to TPTP and Lambdapi/FOL
+- [GDV](https://github.com/orgs/TPTPWorld/repositories): TSTP to TPTP and Lambdapi/FOL ([doc](https://www.tptp.org/Seminars/GDV/Summary.html))
 - [Hol2dk](https://github.com/Deducteam/hol2dk): HOL-Light to Dedukti and Lambdapi
 - [Holide](https://github.com/Deducteam/Holide): OpenTheory to Dedukti/STTfa
 - [HOLLightToDk](https://github.com/Deducteam/HOLLightToDk): HOL-Light to Dedukti/STTfa
