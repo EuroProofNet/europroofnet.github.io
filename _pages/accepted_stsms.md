@@ -18,6 +18,7 @@ author_profile: true
 * **Using Coq to formalise differentiable logics for neural network** [application](/_pages/stsm/name-app.pdf)   
   Visitor: Natalia Slusarz  
   Host:  Alessandro Bruni
+  
   Grant: 1478 EUR  
   Dates: 2023-09-18 to 2023-09-23
   
