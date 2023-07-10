@@ -16,7 +16,7 @@ author_profile: true
 ## 6th call (8 May 2023)
 
 * **Reconstruction of incomplete theorems and incomplete proofs with Larus** [application](/_pages/stsm/tabet-app.pdf)   
-  Visitor: Salwa Tabet Gonzalez 
+  Visitor: Salwa Tabet Gonzalez   
   Host: Predrag Janicic   
   Grant: 1587.79 EUR  
   Dates: 2023-07-15 to 2023-07-22
@@ -28,13 +28,13 @@ author_profile: true
   Dates: 2023-09-04 to 2023-09-10
   
 * **Formal Specification and Verification of Attestation in Confidential Computing** [application](/_pages/stsm/sardar-app.pdf)   
-  Visitor: Muhammad Usama Sardar 
+  Visitor: Muhammad Usama Sardar   
   Host:  Lilia Georgieva    
   Grant: 1583 EUR  
   Dates: 2023-09-10 to 2023-09-014
 
 * **Automatic verification of floating-point programs using Constrained Horn Solvers** [application](/_pages/stsm/amilon-app.pdf)   
-  Visitor: Jasper Amilon 
+  Visitor: Jasper Amilon    
   Host: Philipp Rümmer   
   Grant: 2284 EUR  
   Dates: 2023-09-11 to 2023-09-22
