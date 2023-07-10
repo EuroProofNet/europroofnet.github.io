@@ -28,6 +28,7 @@ The meeting aims to elicit feedback, suggestions, criticisms, etc, of these reso
 
 | time | session |
 | --- | --- |
+| 08:30-09:00 | Welcome coffee |
 | 09:00-09:30 | Geoff - Welcome, TPTP derivation format, IDV, GDV |
 | 09:30-10:00 | Stephan - Pragmatics of Efficient Proof Generation |
 | 10:00-10:30 | Break |
