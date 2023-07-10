@@ -15,6 +15,12 @@ author_profile: true
 
 ## 6th call (8 May 2023)
 
+* **Using Coq to formalise differentiable logics for neural network** 
+  Visitor: Natalia Slusarz
+  Host: Alessandro Bruni
+  Grant: 1478 EUR
+  Dates: 2023-09-18 to 2023-09-23
+  
 * **Proof calculus for Real Algebraic Geometry** [application](/_pages/stsm/michel-app.pdf)   
   Visitor: Lucas Michel  
   Hosts: James Davenport and Matthew England  
