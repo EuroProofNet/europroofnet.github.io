@@ -7,7 +7,7 @@ author_profile: true
 
 <!--
 * **Title** [application](/_pages/stsm/name-app.pdf)   
-  Visitor:   
+  Visitor: 
   Host:   
   Grant: 0 EUR  
   Dates: 2023-03-01 to 2023-04-01
@@ -15,15 +15,15 @@ author_profile: true
 
 ## 6th call (8 May 2023)
 
-* **Title** [application](/_pages/stsm/name-app.pdf)   
-  Visitor:   
-  Host:   
-  Grant: 0 EUR  
-  Dates: 2023-03-01 to 2023-04-01
+* **Representation of Proofs via Hierarchical Higher-Order Port Graphs** [application](/_pages/stsm/name-app.pdf)   
+  Visitor: Maribel Fernandez  
+  Host: Sandra Alves 
+  Grant: 1862 EUR  
+  Dates: 2023-09-11 to 2023-09-18
   
 * **Using Coq to formalise differentiable logics for neural network** [application](/_pages/stsm/name-app.pdf)   
   Visitor: Natalia Slusarz  
-  Host:  Alessandro Bruni_
+  Host:  Alessandro Bruni   
   Grant: 1478 EUR  
   Dates: 2023-09-18 to 2023-09-23
   
