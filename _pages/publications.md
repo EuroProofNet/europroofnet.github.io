@@ -13,8 +13,11 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 
 **2023**
 
-- [Experiments on Infinite Model Finding in SMT Solving](https://doi.org/10.29007/slrm), Julian Parsert, Chad Brown, Mikolas Janota, and Cezary Kaliszyk, [LPAR 2023](https://easychair.org/smart-program/LPAR2023/)
-- [Anti-unification and Generalization: A Survey](https://arxiv.org/pdf/2302.00277.pdf), David M. Cerna and Temur Kutsia, to appear in proceedings of IJCAI 2023 
+- [VizAR: Visualization of Automated Reasoning Proofs (System Description)](http://cl-informatik.uibk.ac.at/cek/docs/23/jjck-cicm23.pdf),
+  Jan Jakubův and Cezary Kaliszyk, [CICM'23](https://cicm-conference.org/2023/cicm.php)
+- [Combining Higher-Order Logic with Set Theory Formalizations](https://doi.org/10.1007/s10817-023-09663-5), Cezary Kaliszyk and Karol Pąk, [*JAR*](https://www.springer.com/journal/10817)
+- [Experiments on Infinite Model Finding in SMT Solving](https://doi.org/10.29007/slrm), Julian Parsert, Chad Brown, Mikolas Janota, and Cezary Kaliszyk, [LPAR'23](https://easychair.org/smart-program/LPAR2023/)
+- [Anti-unification and Generalization: A Survey](https://arxiv.org/pdf/2302.00277.pdf), David M. Cerna and Temur Kutsia, to appear in proceedings of IJCAI'23 
 - [A modular construction of type theories](https://arxiv.org/pdf/2111.00543?), Frédéric Blanqui, Gilles Dowek, Emilie Grienenberger, Gabriel Hondet and François Thiré, to appear in Logical Methods in Computer Science (LMCS)
 - [Translating proofs from an impredicative type system to a predicative one](https://doi.org/10.4230/LIPIcs.CSL.2023.19), T. Felicissimo, F. Blanqui and A. Kumar Barnawal, [CSL'23](https://csl2023.mimuw.edu.pl/)
 
