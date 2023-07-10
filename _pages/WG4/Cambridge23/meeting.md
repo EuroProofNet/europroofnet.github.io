@@ -60,6 +60,7 @@ At least one author of each accepted extended abstract/demonstration proposal is
 **Program Committee:**
   * Adrian De Lon, Bonn (co-chair)
   * Peter Koepke, Bonn (co-chair)
+  * Andrea Kohlhase, Neu-Ulm
   * Angeliki Koutsoukou-Argyraki, Cambridge
   * Dennis Müller, Erlangen (co-chair)
 
