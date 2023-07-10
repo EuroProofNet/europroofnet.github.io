@@ -13,9 +13,11 @@ EuroProofNet can provide two kinds of grants:
   
 **Upcoming deadlines**
 
-- The next call will likely be in October 2023.
+- The next call will be in November or December 2023.
 
 **Application web sites**
+
+[Excel sheet to compute your grant estimation](stsm.xlsx)
 
 - [STSM](https://e-services.cost.eu/activity/grants/add?type=STSM)
 - [ITCG](https://e-services.cost.eu/activity/grants/add?type=ITCG)
