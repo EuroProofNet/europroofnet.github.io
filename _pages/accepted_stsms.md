@@ -15,7 +15,31 @@ author_profile: true
 
 ## 6th call (8 May 2023)
 
-* **Representation of Proofs via Hierarchical Higher-Order Port Graphs** [application](/_pages/stsm/name-app.pdf)   
+* **Reconstruction of incomplete theorems and incomplete proofs with Larus** [application](/_pages/stsm/tabet-app.pdf)   
+  Visitor: Salwa Tabet Gonzalez 
+  Host: Predrag Janicic   
+  Grant: 1587.79 EUR  
+  Dates: 2023-07-15 to 2023-07-22
+
+* **Domain theory for program verification in Lean** [application](/_pages/stsm/cheval-app.pdf)   
+  Visitor: Horatiu Cheval  
+  Host: Vlad Rusu   
+  Grant: 1159 EUR  
+  Dates: 2023-09-04 to 2023-09-10
+  
+* **Formal Specification and Verification of Attestation in Confidential Computing** [application](/_pages/stsm/sardar-app.pdf)   
+  Visitor: Muhammad Usama Sardar 
+  Host:  Lilia Georgieva    
+  Grant: 1583 EUR  
+  Dates: 2023-09-10 to 2023-09-014
+
+* **Automatic verification of floating-point programs using Constrained Horn Solvers** [application](/_pages/stsm/amilon-app.pdf)   
+  Visitor: Jasper Amilon 
+  Host: Philipp Rümmer   
+  Grant: 2284 EUR  
+  Dates: 2023-09-11 to 2023-09-22
+
+* **Representation of Proofs via Hierarchical Higher-Order Port Graphs** [application](/_pages/stsm/fernandez-app.pdf)   
   Visitor: Maribel Fernandez  
   Host: Sandra Alves   
   Grant: 1862 EUR  
