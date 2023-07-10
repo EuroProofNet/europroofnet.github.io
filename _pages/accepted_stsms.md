@@ -15,7 +15,7 @@ author_profile: true
 
 ## 6th call (8 May 2023)
 
-* **Using Coq to formalise differentiable logics for neural network** 
+* **Using Coq to formalise differentiable logics for neural network**_ 
   Visitor: Natalia Slusarz
   Host: Alessandro Bruni
   Grant: 1478 EUR
