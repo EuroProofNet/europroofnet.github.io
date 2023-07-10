@@ -15,6 +15,12 @@ author_profile: true
 
 ## 6th call (8 May 2023)
 
+* **Title** [application](/_pages/stsm/name-app.pdf)   
+  Visitor:   
+  Host:   
+  Grant: 0 EUR  
+  Dates: 2023-03-01 to 2023-04-01
+  
 * **Using Coq to formalise differentiable logics for neural network**_ 
   Visitor: Natalia Slusarz
   Host: Alessandro Bruni
