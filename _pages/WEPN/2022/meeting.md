@@ -74,7 +74,7 @@ Tentative program schedule (subject to change):
 | 11:00-11:30 | Simona Kašterović: [Probabilistic reasoning in computation and type theory](abstracts/WEPN_2022_Kaserovic.pdf) ([video](https://youtu.be/AEwfVMqZPMc?list=PL2IiUBbPiuoZGDsTz3TdGwGKzfTPndRX-)) |
 | 11:30-11:45 | Ornela Dardha: [CoLab Research: On Foundation, Mechanisation and Implementation of Session Types](abstracts/WEPN_2022_Dardha.pdf) |
 | 11:45-12:15 | Milena Vujošević Janičić: [Proving code equivalence in database-driven applications and SPARQL queries](abstracts/WEPN_2022_VujosevicJancic.pdf) ([video](https://youtu.be/jalzxdIaVtw?list=PL2IiUBbPiuoZGDsTz3TdGwGKzfTPndRX-))|
-| 12:15-13:30 | [Discussion on gender balance issues](2022/slides/WEPN2022-discussion.pdf) |
+| 12:15-13:30 | [Discussion on gender balance issues](slides/WEPN2022-discussion.pdf) |
 | 13:30-13:35 | Group photo |
 | 13:35-14:30 | lunch |
 
