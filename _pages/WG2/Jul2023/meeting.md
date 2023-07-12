@@ -24,29 +24,8 @@ The meeting aims to elicit feedback, suggestions, criticisms, etc, of these reso
 
 **How to get there?** See [here](https://ens-paris-saclay.fr/en/school/how-find-us). ENS is 25 minutes away from Massy by bus (2.10€). Massy is 30 minutes away from Paris center by train (4.05€), and 20 minutes away from Orly airport by train (13.15€).
 
-**Programme:**
+**Program and Presentations:** Click the title [here](https://www.tptp.org/Seminars/TPTPTeaParty/2023/).
 
-| time | session |
-| --- | --- |
-| 08:30-09:00 | Welcome coffee |
-| 09:00-09:30 | Geoff - Welcome, TPTP derivation format, IDV, GDV |
-| 09:30-10:00 | Stephan - Pragmatics of Efficient Proof Generation |
-| 10:00-10:30 | Break |
-| 10:30-11:00 | Gilles - Dedukti, derivation format, tool overview |
-| 11:00-11:30 | Guillaume - Ekstrakto |
-| 11:30-12:00 | Geoff and Frederic - GDV and Dedukti
-| 12:00-12:30 | Discussion of interoperability, things that need to be done |
-| 12:30-13:30 | Lunch |
-| 13:30-14:00 | Geoff - TPTP interpretation format (classical), IIV, GCMV |
-| 14:00-14:30 | Discussion of interoperability, things that need to be done |
-| 14:30-15:00 | Break |
-| 15:00-15:30 | Alex - TPTP non-classical language, Logic encodings |
-| 15:30-15:45 | Melanie - Non-trivial Multi-Modal Logics with Interactions |
-| 15:45-16:00 | Geoff - Non-classical tools - AGMMV, IKIV (Alex?) |
-| 16:00-16:30 | Discussion of interoperability, things that need to be done |
-| 16:30-17:00 | Break, with cheese and wine |
-| 17:00-18:00 | Action planning (with cheese and wine) |
-| 19:00-22:00 | Dinner |
 
 **Registration/Funding application procedure:** EuroProofNet can reimburse the travel of a number of participants. If you would like to participate, give a talk or be reimbursed of your travel, check the [eligibility](https://europroofnet.github.io/eligibility/) and [reimbursement rules](https://europroofnet.github.io/reimbursement-rules/), [apply](https://e-services.cost.eu/action/CA20111/working-groups/apply) to the EuroProofNet working groups you are interested in, and fill in the [registration/application form](https://forms.gle/XQmngrzyA5swMaHe8).
 
