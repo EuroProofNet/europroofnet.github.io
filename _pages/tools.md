@@ -26,6 +26,12 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 - [Isabelle Archive of Formal Proofs](https://www.isa-afp.org/)
 - [Mizar Mathematical Library](http://mizar.org/library/)
 
+**Proof data bases tools**
+
+- [FindFacts](https://search.isabelle.in.tum.de/): search tool for Isabelle
+- [SErAPIS](https://behemoth.cl.cam.ac.uk/search/): search tool for Isabelle
+- [DAMF](https://distributed-assertions.github.io/): Distributed Assertion Management Framework
+
 **Proof translation tools**
 
 - [Agda2Dedukti](https://github.com/Deducteam/Agda2Dedukti): Agda to Dedukti/Agda or Lambdapi/Agda
