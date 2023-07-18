@@ -97,7 +97,7 @@ author_profile: true
 
 ## 5th call (1 March 2023)
 
-* **Categorical semantics for propositional dependent type theories** [application](/_pages/stsm/spadetto-app.pdf) [report](/_pages/stsm/spadetto-rep.pdf)
+* **Categorical semantics for propositional dependent type theories** [application](/_pages/stsm/spadetto-app.pdf) [report](/_pages/stsm/spadetto-rep.pdf)     
   Visitor: Matteo Spadetto (University of Leeds, UK)  
   Host: Benno van den Berg (Institute for Logic, Language and Computation - ILLC, Amsterdam, Netherlands)  
   Grant: 2604 EUR  
