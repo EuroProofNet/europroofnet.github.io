@@ -11,6 +11,8 @@ author_profile: true
 
 **Past events:**
 
+- 13 July 2023: [WG2 meeting/TPTP tea party](../tptp23-meeting), ENS Paris-Saclay, France
+- 19-23 June 2023: [School on proof assistants for teaching proof and proving](https://pat2023.icube.unistra.fr/) (PAT), Val d'Ajol, France
 - 11-13 May 2023: [Developers meeting on proof generating automated theorem provers](../dk-meeting3), Liège, Belgium
 - 8 May 2023: [deadline for STSM and ITCG proposals](../grants) Priority will be given to the proposals contributing to the objectives and deliverables of the working groups 2, 4 and 5:
   * WG2: detailed, checkable proofs from automated theorem provers
