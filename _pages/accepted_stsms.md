@@ -97,7 +97,7 @@ author_profile: true
 
 ## 5th call (1 March 2023)
 
-* **Categorical semantics for propositional dependent type theories** [application](/_pages/stsm/spadetto-app.pdf)  
+* **Categorical semantics for propositional dependent type theories** [application](/_pages/stsm/spadetto-app.pdf) [report](/_pages/stsm/spadetto-rep.pdf)
   Visitor: Matteo Spadetto (University of Leeds, UK)  
   Host: Benno van den Berg (Institute for Logic, Language and Computation - ILLC, Amsterdam, Netherlands)  
   Grant: 2604 EUR  
@@ -115,7 +115,7 @@ author_profile: true
   Grant: 2041 EUR  
   Dates: 2023-05-14 to 2023-05-20
 
-* **Coinductive proof search for inhabitation of quantitative types** [application](/_pages/stsm/santo-app.pdf)   
+* **Coinductive proof search for inhabitation of quantitative types** [application](/_pages/stsm/santo-app.pdf) [report](/_pages/stsm/santo-rep.pdf)  
   Visitor: Jose Espirito Santo (University of Minho, Braga, Portugal)  
   Host: Delia Kesner (IRIF, Paris, France)  
   Grant: 1355 EUR  
