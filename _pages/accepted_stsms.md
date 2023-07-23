@@ -101,7 +101,7 @@ author_profile: true
   Visitor: Matteo Spadetto (University of Leeds, UK)  
   Host: Benno van den Berg (Institute for Logic, Language and Computation - ILLC, Amsterdam, Netherlands)  
   Grant: 2604 EUR  
-  Dates: 2023-04-09 to 2023-04-30
+  Dates: 2023-04-15 to 2023-05-15
 
 * **Computer science applications of Cubical Agda** [application](/_pages/stsm/ljungstrom-app.pdf) [report](/_pages/stsm/ljungstrom-rep.pdf)  
   Visitor: Axel Ljungström (Stockholm University, Sweden)  
