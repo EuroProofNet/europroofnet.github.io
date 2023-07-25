@@ -20,26 +20,35 @@ breadcrumbs: true
 
 **Registration and funding application:** Deadline: 14 May 2023. The number of participants is limited. If you want to participate, apply to [EuroProofNet](https://e-services.cost.eu/action/CA20111/working-groups/apply) if not already done, and fill in the following [application form](https://forms.gle/xXNP9jneVwhTTFNW6). Applicants will be notified by May 18. Accepted participants will then have to make a bank transfer of half of the cost to La Résidence ([IBAN](./IBAN-Résidence.png): FR7617206002135619393901050) in order to confirm their participation. In case of cancellation before July 21, they will be reimbursed. The second half will have to paid at the hotel.
 
-<!--
 **Participants:**
-[Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/),
-Michael Färber,
-[Jesper Cockx](https://jesper.sikanda.be/),
-[Thiago Felicissimo](http://www.lsv.fr/~felicissimo/),
-[Predrag Janičić](http://poincare.matf.bg.ac.rs/~janicic/),
-[Julien Narboux](https://dpt-info.di.unistra.fr/~narboux/),
-Théo Winterhalter,
-Claude Stolze,
-[Amélie Ledein](https://lmf.cnrs.fr/Perso/AmelieLedein),
-François Thiré,
-[Bruno Barras](http://www.lix.polytechnique.fr/~barras/),
-[Gilles Dowek](http://www.lsv.fr/~dowek/)
 
-<!--
-[ekstraskto](https://github.com/Deducteam/ekstrakto)
-[skonverto](https://github.com/Deducteam/skonverto)
-[universo](https://github.com/Deducteam/universo)
--->
+* [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/)
+
+* [Jesper Cockx](https://jesper.sikanda.be/)
+
+* [Amélie Ledein](https://lmf.cnrs.fr/Perso/AmelieLedein)
+
+* [Gilles Dowek](http://www.lsv.fr/~dowek/)
+
+* Rishikesh Vaishnav
+
+* Claudio Sacerdoti
+
+* Alessio Coltellacci
+
+* Pascal Fontaine
+
+* Stephan Schulz
+
+* Geoff Sutcliffe
+
+* Simon Guilloud
+
+* David Delahaye
+
+* Isaac Lluis
+
+* Olivier Hermant
 
 **Monday 24 July:** (for those arriving on July 24)
 
