@@ -22,7 +22,7 @@ breadcrumbs: true
 
 **Participants:**
 
-* [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/)
+* [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/) fixed [ZenonModulo](https://github.com/Deducteam/zenon_modulo) to generate proofs where the negated conjecture is taken as hypothesis instead of as axiom, and improved the translation [hol2dk](https://github.com/Deducteam/hol2dk) from HOL-Light to Coq.
 
 * [Jesper Cockx](https://jesper.sikanda.be/)
 
