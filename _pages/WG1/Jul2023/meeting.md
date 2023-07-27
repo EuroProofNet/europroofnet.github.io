@@ -6,6 +6,8 @@ author_profile: true
 breadcrumbs: true
 ---
 
+<img src="/_pages/WG2/Jul2023/20230726_150641_resized.jpg"/>
+
 **Organizer:** [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/)
 
 **Date:** 25-28 July 2023
@@ -111,3 +113,9 @@ breadcrumbs: true
 |12:45-14:00|lunch|
 |14:00-15:00|free time|
 |15:00-15:45|shuttle|
+
+<img src="/_pages/WG2/Jul2023/20230727_093108_resized.jpg"/>
+<img src="/_pages/WG2/Jul2023/20230727_093043_resized.jpg"/>
+<img src="/_pages/WG2/Jul2023/20230727_093153_resized.jpg"/>
+<img src="/_pages/WG2/Jul2023/20230727_093100_resized.jpg"/>
+<img src="/_pages/WG2/Jul2023/20230727_113125_resized.jpg"/>
