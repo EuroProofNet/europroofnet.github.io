@@ -30,7 +30,7 @@ breadcrumbs: true
 
 * [Amélie Ledein](https://lmf.cnrs.fr/Perso/AmelieLedein)
 
-* [Gilles Dowek](http://www.lsv.fr/~dowek/) [presented](http://www.lsv.fr/~dowek/Slides/skolem.pdf) his [paper]({https://arxiv.org/abs/2305.10016) on deskolemization.
+* [Gilles Dowek](http://www.lsv.fr/~dowek/) presented his work on deskolemization ([slides](http://www.lsv.fr/~dowek/Slides/skolem.pdf), [paper]({https://arxiv.org/abs/2305.10016)).
 
 * Rishikesh Vaishnav
 
