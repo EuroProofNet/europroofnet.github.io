@@ -32,7 +32,7 @@ breadcrumbs: true
 
 * [Gilles Dowek](http://www.lsv.fr/~dowek/) presented his work on deskolemization ([slides](http://www.lsv.fr/~dowek/Slides/skolem.pdf), [paper]({https://arxiv.org/abs/2305.10016)).
 
-* Rishikesh Vaishnav
+* [Rishikesh Vaishnav](https://github.com/rish987/) worked on his [Lean2Dk implementation](https://github.com/rish987/lean2dk) for translating Lean into Dedukti, and made progress on the Pure Type System -> lambda-Pi-calculus modulo embedding.
 
 * [Claudio Sacerdoti](https://www.unibo.it/sitoweb/claudio.sacerdoticoen) worked on implementing a search engine for LambdaPI. He completed the implementation started during the last WP meeting and he added a web interface.
 
@@ -53,7 +53,7 @@ breadcrumbs: true
 
 * David Delahaye
 
-* Isaac Lluis
+* Isaac Lluís worked with David Delahaye and Olivier Hermant to test [ZenonModulo](https://github.com/Deducteam/zenon_modulo) on a few thousand problems to see if it needed updating. He also worked on the LambdaPi output for the concurrent theorem prover [Goéland](https://github.com/GoelandProver/Goeland), taking advantage of the presence of the Deducteam.
 
 * Olivier Hermant
 
