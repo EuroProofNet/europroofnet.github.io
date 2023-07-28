@@ -40,7 +40,12 @@ breadcrumbs: true
 
 * Pascal Fontaine
 
-* Stephan Schulz
+* [Stephan Schulz](https://wwwlehre.dhbw-stuttgart.de/~sschulz/)
+  improved the TPTP proof output of the ATP PyRes to match inout
+  expected by several TPTP processing tools. He also modified the
+  prover E to provide additional explicit type information in TFF/THF
+  proofs, that, while not required by the TPTP standard, is expected
+  by some tools, and performed further work on E.
 
 * Geoff Sutcliffe
 
