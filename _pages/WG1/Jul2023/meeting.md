@@ -47,7 +47,11 @@ breadcrumbs: true
   proofs, that, while not required by the TPTP standard, is expected
   by some tools, and performed further work on E.
 
-* Geoff Sutcliffe
+* Geoff Sutcliffe(http://www.cs.miami.edu/~geoff/)
+1. Worked with Stephan Schulz to upgrade the proof output from his PyRes prover so that it is TPTP-compliant, so that the proofs can be viewed in the IDV derivation viewer in SystemOnTSTP (part of the TPTP World). That work was instigated by Claudia Schon from the University of Koblenz-Landau, who uses PyRes and IDV in her research.
+2. Worked with Frederic Blanqui with the aim of completing the embedding of LambdaPi output from the GDV proof verifier (part of the TPTP World). We were so close when I had to leave, and I believe it will be done this week. This also motivated further work to provide remote access to the SystemOnTPTP server (part of the TPTP World) in Miami so that ZenonModulo can be accessed remotely from GDV. That will make it unnecessary to have SystemOnTPTP installed locally. Frederic has added information about the extended GDV tool to the COST action web site.
+3. Discussed the issue of verifying Skolemization steps with various attendees, and learned how Dedukti deal with it from Gilles Dowek's presentation. He presented the algorithm implemented in the SKonverto tool, which might be useful in GDV for generating LambdaPi output for Skolemization steps.
+4. Explained what I have been doing to Jesper Cockx, who leads WG1 of the COST action. I joined WG1 and provided the relevant papers to Dmitry Traytel to be added to the COST action web site.
 
 * Simon Guilloud
 
