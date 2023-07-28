@@ -34,7 +34,7 @@ breadcrumbs: true
 
 * Rishikesh Vaishnav
 
-* Claudio Sacerdoti
+* [Claudio Sacerdoti](https://www.unibo.it/sitoweb/claudio.sacerdoticoen) worked on implementing a search engine for LambdaPI. He completed the implementation started during the last WP meeting and he added a web interface.
 
 * Alessio Coltellacci
 
