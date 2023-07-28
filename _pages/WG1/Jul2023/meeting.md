@@ -48,7 +48,7 @@ breadcrumbs: true
 
 * David Delahaye
 
-* Isaac Lluis
+* Isaac Lluís worked with David Delahaye and Olivier Hermant to test [ZenonModulo](https://github.com/Deducteam/zenon_modulo) on a few thousand problems to see if it needed updating. He also worked on the LambdaPi output for the concurrent theorem prover [Goéland](https://github.com/GoelandProver/Goeland), taking advantage of the presence of the Deducteam.
 
 * Olivier Hermant
 
