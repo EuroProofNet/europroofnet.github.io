@@ -51,7 +51,7 @@ breadcrumbs: true
 
 * Simon Guilloud
 
-* David Delahaye
+* [David Delahaye](https://www.lirmm.fr/~delahaye/) has tested the latest version of [Zenon Modulo](https://github.com/Deducteam/zenon_modulo) (development version) on the [BWare project](http://bware.lri.fr/) benchmark. The results showed (with a low timeout of 3s) that we obtained similar results (10,459 proofs obtained over 12,828 problems) to the version of Zenon Modulo used in the BWare project (in 2016). David Delahaye also worked on the Lambdapi output for the [Goéland](https://github.com/GoelandProver/Goeland/) automated deduction tool (based on tableaux and the use of concurrency).
 
 * Isaac Lluís worked with David Delahaye and Olivier Hermant to test [ZenonModulo](https://github.com/Deducteam/zenon_modulo) on a few thousand problems to see if it needed updating. He also worked on the LambdaPi output for the concurrent theorem prover [Goéland](https://github.com/GoelandProver/Goeland), taking advantage of the presence of the Deducteam.
 
