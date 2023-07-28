@@ -55,7 +55,9 @@ breadcrumbs: true
 
 * Isaac Lluís worked with David Delahaye and Olivier Hermant to test [ZenonModulo](https://github.com/Deducteam/zenon_modulo) on a few thousand problems to see if it needed updating. He also worked on the LambdaPi output for the concurrent theorem prover [Goéland](https://github.com/GoelandProver/Goeland), taking advantage of the presence of the Deducteam.
 
-* Olivier Hermant
+* [Olivier Hermant](https://www.cri.minesparis.psl.eu/people/hermant/) worked on the lambdapi output of the automated theorem provers Zenon Modulo and Goéland, and on the implementation of an algorithm to change numeric base, on which he gave a short presentation.
+  
+* Wojciech Loboda worked on the definition and the implementation of an algorithm to change numeric base, after an article of Jean-Paul Delahaye published in [Pour la Science No 519](https://www.pourlascience.fr/sr/logique-calcul/changer-de-numeration-avec-le-systeme-esperluette-20629.php)
 
 **Monday 24 July:** (for those arriving on July 24)
 
