@@ -50,7 +50,9 @@ breadcrumbs: true
 
 * Isaac Lluis
 
-* Olivier Hermant
+* [Olivier Hermant](https://www.cri.minesparis.psl.eu/people/hermant/) worked on the lambdapi output of the automated theorem provers Zenon Modulo and Goéland, and on the implementation of an algorithm to change numeric base, on which he gave a short presentation.
+  
+* Wojciech Loboda worked on the definition and the implementation of an algorithm to change numeric base, after an article of Jean-Paul Delahaye published in [Pour la Science No 519](https://www.pourlascience.fr/sr/logique-calcul/changer-de-numeration-avec-le-systeme-esperluette-20629.php)
 
 **Monday 24 July:** (for those arriving on July 24)
 
