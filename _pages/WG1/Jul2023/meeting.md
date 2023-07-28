@@ -26,7 +26,7 @@ breadcrumbs: true
 
 * [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/) fixed [ZenonModulo](https://github.com/Deducteam/zenon_modulo) to generate proofs where the negated conjecture is taken as hypothesis instead of as axiom, and improved the translation [hol2dk](https://github.com/Deducteam/hol2dk) from HOL-Light to Coq.
 
-* [Jesper Cockx](https://jesper.sikanda.be/) worked on refactoring a library for well-scoped syntax representations in Agda (https://github.com/jespercockx/agda-core/blob/main/Scope.agda). This is intended to be used in the Agda Core project to specify the typing rules of a core language for Agda in Agda, which will improve interoperability between Agda and other languages.
+* [Jesper Cockx](https://jesper.sikanda.be/) worked on refactoring a library for well-scoped syntax representations in Agda ([code](https://github.com/jespercockx/agda-core/blob/main/Scope.agda)). This is intended to be used in the Agda Core project to specify the typing rules of a core language for Agda in Agda, which will improve interoperability between Agda and other languages.
 
 * [Amélie Ledein](https://lmf.cnrs.fr/Perso/AmelieLedein)
 
