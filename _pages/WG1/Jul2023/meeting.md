@@ -30,7 +30,7 @@ breadcrumbs: true
 
 * [Amélie Ledein](https://lmf.cnrs.fr/Perso/AmelieLedein)
 
-* [Gilles Dowek](http://www.lsv.fr/~dowek/) presented his work on deskolemization ([slides](http://www.lsv.fr/~dowek/Slides/skolem.pdf), [paper]({https://arxiv.org/abs/2305.10016)).
+* [Gilles Dowek](http://www.lsv.fr/~dowek/) presented his work on deskolemization ([slides](http://www.lsv.fr/~dowek/Slides/skolem.pdf), [paper](https://arxiv.org/abs/2305.10016)).
 
 * [Rishikesh Vaishnav](https://github.com/rish987/) worked on his [Lean2Dk implementation](https://github.com/rish987/lean2dk) for translating Lean into Dedukti, and made progress on the Pure Type System -> lambda-Pi-calculus modulo embedding.
 
