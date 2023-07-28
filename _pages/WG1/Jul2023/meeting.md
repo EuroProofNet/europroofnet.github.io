@@ -34,7 +34,7 @@ breadcrumbs: true
 
 * Rishikesh Vaishnav
 
-* [Claudio Sacerdoti](https://www.unibo.it/sitoweb/claudio.sacerdoticoen) worked on implementing a search engine for LambdaPI. He completed the implementation started during the last WP meeting and he added a web interface.
+* Claudio Sacerdoti
 
 * Alessio Coltellacci
 
@@ -46,7 +46,7 @@ breadcrumbs: true
 
 * Simon Guilloud
 
-* David Delahaye
+* [David Delahaye](https://www.lirmm.fr/~delahaye/) has tested the latest version of [Zenon Modulo](https://github.com/Deducteam/zenon_modulo) (development version) on the [BWare project](http://bware.lri.fr/) benchmark. The results showed (with a low timeout of 3s) that we obtained similar results (10,459 proofs obtained over 12,828 problems) to the version of Zenon Modulo used in the BWare project (in 2016). David Delahaye also worked on the Lambdapi output for the [Goéland](https://github.com/GoelandProver/Goeland/) automated deduction tool (based on tableaux and the use of concurrency).
 
 * Isaac Lluis
 
