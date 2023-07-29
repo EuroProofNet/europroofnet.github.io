@@ -24,7 +24,7 @@ breadcrumbs: true
 
 **Participants:**
 
-* [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/) fixed [ZenonModulo](https://github.com/Deducteam/zenon_modulo) to generate proofs where the negated conjecture is taken as hypothesis instead of as axiom, and improved the translation [hol2dk](https://github.com/Deducteam/hol2dk) from HOL-Light to Coq.
+* [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/) fixed [ZenonModulo](https://github.com/Deducteam/zenon_modulo) to generate proofs where the negated conjecture is taken as hypothesis instead of as axiom, and improved the translation [hol2dk](https://github.com/Deducteam/hol2dk) from HOL-Light to Coq. He also helped Claudio Sacerdoti and Geoff Sutcliffe with Lambdapi, and Geoff Sutcliffe with ZenonModulo.
 
 * [Jesper Cockx](https://jesper.sikanda.be/) worked on refactoring a library for well-scoped syntax representations in Agda ([code](https://github.com/jespercockx/agda-core/blob/main/Scope.agda)). This is intended to be used in the Agda Core project to specify the typing rules of a core language for Agda in Agda, which will improve interoperability between Agda and other languages.
 
@@ -34,7 +34,7 @@ breadcrumbs: true
 
 * [Rishikesh Vaishnav](https://github.com/rish987/) worked on his [Lean2Dk implementation](https://github.com/rish987/lean2dk) for translating Lean into Dedukti, and made progress on the Pure Type System -> lambda-Pi-calculus modulo embedding.
 
-* [Claudio Sacerdoti](https://www.unibo.it/sitoweb/claudio.sacerdoticoen) worked on implementing a search engine for LambdaPI. He completed the implementation started during the last WP meeting and he added a web interface.
+* [Claudio Sacerdoti](https://www.unibo.it/sitoweb/claudio.sacerdoticoen) worked on implementing a search engine for LambdaPI. He completed the implementation started during the meeting in January and he added a web interface.
 
 * Alessio Coltellacci
 
@@ -47,10 +47,10 @@ breadcrumbs: true
   proofs, that, while not required by the TPTP standard, is expected
   by some tools, and performed further work on E.
 
-* Geoff Sutcliffe(http://www.cs.miami.edu/~geoff/)
+* [Geoff Sutcliffe](http://www.cs.miami.edu/~geoff/)
 1. Worked with Stephan Schulz to upgrade the proof output from his PyRes prover so that it is TPTP-compliant, so that the proofs can be viewed in the IDV derivation viewer in SystemOnTSTP (part of the TPTP World). That work was instigated by Claudia Schon from the University of Koblenz-Landau, who uses PyRes and IDV in her research.
-2. Worked with Frederic Blanqui with the aim of completing the embedding of LambdaPi output from the GDV proof verifier (part of the TPTP World). We were so close when I had to leave, and I believe it will be done this week. This also motivated further work to provide remote access to the SystemOnTPTP server (part of the TPTP World) in Miami so that ZenonModulo can be accessed remotely from GDV. That will make it unnecessary to have SystemOnTPTP installed locally. Frederic has added information about the extended GDV tool to the COST action web site.
-3. Discussed the issue of verifying Skolemization steps with various attendees, and learned how Dedukti deal with it from Gilles Dowek's presentation. He presented the algorithm implemented in the SKonverto tool, which might be useful in GDV for generating LambdaPi output for Skolemization steps.
+2. Worked with Frédéric Blanqui with the aim of completing the embedding of LambdaPi output from the GDV proof verifier (part of the TPTP World). We were so close when I had to leave, and I believe it will be done this week. This also motivated further work to provide remote access to the SystemOnTPTP server (part of the TPTP World) in Miami so that ZenonModulo can be accessed remotely from GDV. That will make it unnecessary to have SystemOnTPTP installed locally. Frederic has added information about the extended GDV tool to the COST action web site.
+3. Discussed the issue of verifying Skolemization steps with various attendees, and learned how Dedukti deals with it from Gilles Dowek's presentation. He presented the algorithm implemented in the SKonverto tool, which might be useful in GDV for generating LambdaPi output for Skolemization steps.
 4. Explained what I have been doing to Jesper Cockx, who leads WG1 of the COST action. I joined WG1 and provided the relevant papers to Dmitry Traytel to be added to the COST action web site.
 
 * Simon Guilloud
