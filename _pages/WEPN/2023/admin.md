@@ -22,51 +22,51 @@ breadcrumbs: true
 
 - [] The chair sets up the event on https://e-services.cost.eu/, but not the LOS yet (this will be done later).
 
-- [ ] The chair asks the organizer details about the LOS, with copy to the Grant holder. By the way, the chair asks the organizer to carefully read the rules concerning LOS in the COST annotated rules (see https://www.cost.eu/Annotated_Rules_for_COST_Actions_C page 92). Note in particular that VAT is not reimbursed.
+- [] The chair asks the organizer details about the LOS, with copy to the Grant holder. By the way, the chair asks the organizer to carefully read the rules concerning LOS in the COST annotated rules (see https://www.cost.eu/Annotated_Rules_for_COST_Actions_C page 92). Note in particular that VAT is not reimbursed.
 
-- [ ] The organizer sends to the chair and the Grant Holder the details of the LOS.
+- [] The organizer sends to the chair and the Grant Holder the details of the LOS.
 
-- [ ] The Grant Holder checks the eligibility of the LOS and sends the result to the organizer and the chair.
+- [] The Grant Holder checks the eligibility of the LOS and sends the result to the organizer and the chair.
 
-- [] The chair and the organizer fix the deadline for reimbursement applications at least 1 month before the meeting, and the date of a core group meeting within 1 week after the deadline, to decide which participants will be reimbursed.
+- [x] The chair and the organizer fix the deadline for reimbursement applications at least 1 month before the meeting, and the date of a core group meeting within 1 week after the deadline, to decide which participants will be reimbursed.
 
-    * deadline: ...
+    * deadline: July 16 2023
 
-- [] The organizer adds a web page for the meeting on https://europroofnet.github.io/, possibly with the help of the science communication coordinators, with the following information: date, times, place, program, possible hotels, indication on how to get there, participation application procedure, reimbursement application procedure, link to [reimbursement rules](../reimbursement-rules), daily allowance, deadlines.
+- [x] The organizer adds a web page for the meeting on https://europroofnet.github.io/, possibly with the help of the science communication coordinators, with the following information: date, times, place, program, possible hotels, indication on how to get there, participation application procedure, reimbursement application procedure, link to [reimbursement rules](../reimbursement-rules), daily allowance, deadlines.
 
-- [] The chair sends the call for participation and reimbursement applications to all action members, at least 1 month before the deadline.
+- [x] The chair sends the call for participation and reimbursement applications to all action members, at least 1 month before the deadline.
 
-- [ ] The organizer collects data and files from participants willing to be reimbursed (name, email, country, address, gender, age, dates of arrival and departure, quote for transport, university certificates for master students). To this end, we strongly suggest the organizer to use forms like https://docs.google.com/forms/d/1WgAdt6_BkJiT9u6lSqIQ5p_7955CHFEjbxG2Ucj5gRg or https://docs.google.com/forms/d/12YxrDK-dupOFj5R5CdINvlc6xzW6C5DpEr58JoVmBIg .
+- [x] The organizer collects data and files from participants willing to be reimbursed (name, email, country, address, gender, age, dates of arrival and departure, quote for transport, university certificates for master students). To this end, we strongly suggest the organizer to use forms like https://docs.google.com/forms/d/1WgAdt6_BkJiT9u6lSqIQ5p_7955CHFEjbxG2Ucj5gRg or https://docs.google.com/forms/d/12YxrDK-dupOFj5R5CdINvlc6xzW6C5DpEr58JoVmBIg .
 
-- [ ] The Grant Holder contacts the organizer to collect the additional data it needs.
+- [] The Grant Holder contacts the organizer to collect the additional data it needs.
 
-- [ ] The organizer provides the Grant Holder with the additional data it needs.
+- [] The organizer provides the Grant Holder with the additional data it needs.
 
 ### at least 1 month before the meeting:
 
-- [ ] The organizer and the chair check the eligibility of the applicants.
+- [x] The organizer and the chair check the eligibility of the applicants.
 
-- [ ] Core group meeting to select the participants who will be reimbursed.
+- [x] Core group meeting to select the participants who will be reimbursed (not required). 
 
-- [ ] The organizer informs the applicants of the result.
+- [x] The organizer informs the applicants of the result.
 
-- [ ] The chair invites on https://e-services.cost.eu/ the participants who have been selected.
+- [x] The chair invites on https://e-services.cost.eu/ the participants who have been selected.
 
-- [ ] Participants have 2 weeks maximum to accept their invitation on https://e-services.cost.eu/. After this delay, the invitation is cancelled.
+- [x] Participants have 2 weeks maximum to accept their invitation on https://e-services.cost.eu/. After this delay, the invitation is cancelled.
 
-- [ ] The chair sends to the Grant Holder the list of selected participants.
+- [] The chair sends to the Grant Holder the list of selected participants.
 
-- [ ] The Grant Holder contacts the selected participants to collect the data it needs.
+- [] The Grant Holder contacts the selected participants to collect the data it needs.
 
-- [ ] The selected participants provide the Grant Holder with the data it needs.
+- [] The selected participants provide the Grant Holder with the data it needs.
 
 ### at least 1 day before the meeting:
 
-- [ ] The chair sends to the organizer the attendance sheets generated by https://e-services.cost.eu/ for every day of the meeting.
+- [x] The chair sends to the organizer the attendance sheets generated by https://e-services.cost.eu/ for every day of the meeting.
 
-- [ ] The organizer prints the attendance sheets sent by the chair.
+- [x] The organizer prints the attendance sheets sent by the chair.
 
-- [ ] Participants keep a copy of their travel documents and bills.
+- [] Participants keep a copy of their travel documents and bills.
 
 during the meeting:
 
