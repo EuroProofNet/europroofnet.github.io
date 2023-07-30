@@ -38,7 +38,7 @@ breadcrumbs: true
 
 * Alessio Coltellacci
 
-* Pascal Fontaine
+* [Pascal Fontaine](https://people.montefiore.uliege.be/pfontain/) worked on several libraries for a modular approach to SMT reasoning.  After the seminar, an SMT3 parser started working, and a library to represent and handle SMT3 terms has been designed and was to some extent usable.  This project is related to EuroProofNet in the sense that this set of libraries can be used to create proof producing tools (all libraries will be themselves proof producing with detailed proofs), and can also be useful for tools handling proofs from automated solvers.
 
 * [Stephan Schulz](https://wwwlehre.dhbw-stuttgart.de/~sschulz/)
   improved the TPTP proof output of the ATP PyRes to match inout
