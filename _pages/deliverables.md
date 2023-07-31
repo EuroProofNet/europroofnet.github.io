@@ -57,13 +57,16 @@ author_profile: true
     * [ZenonModulo](https://github.com/Deducteam/zenon_modulo)
     * [ArchSAT](https://github.com/Gbury/archsat)
     * [iProverModulo](https://github.com/gburel/iProverModulo)
-    * [Ekstrakto](https://github.com/Deducteam/ekstrakto) TSTP to Lambdapi
+    * [Ekstrakto](https://github.com/Deducteam/ekstrakto): TSTP to Lambdapi
     * [Skonverto](https://github.com/Deducteam/SKonverto) deskolemizer
+    * [GDV-LP](https://github.com/orgs/TPTPWorld/repositories): TPTP to Lambdapi/FOL ([doc](https://www.tptp.org/Seminars/GDV/GDV-LP.html))
 
 **September 2025:**
 
 - Release of software for translating proofs coming from important proof systems based on set theory like Mizar, Atelier B or TLAPS to Dedukti and back.
 
+    * [B-pog-translator](https://github.com/Deducteam/B-pog-translator): translator from Atelier B proof obligation files to Lambdapi
+    
 - Collection of verification challenges with summary of working recipes for verifying them.
 
 - Technique for syntax-semantics interface for program verification with or without type systems.

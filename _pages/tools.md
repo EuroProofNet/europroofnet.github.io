@@ -31,6 +31,7 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 - [FindFacts](https://search.isabelle.in.tum.de/): search tool for Isabelle
 - [SErAPIS](https://behemoth.cl.cam.ac.uk/search/): search tool for Isabelle
 - [DAMF](https://distributed-assertions.github.io/): Distributed Assertion Management Framework
+- [Lambdapi](https://github.com/Deducteam/lambdapi) >= 2.4.0 includes commands for [indexing](https://lambdapi.readthedocs.io/en/latest/options.html) Dedukti and Lambdapi files, making complex [search queries](https://lambdapi.readthedocs.io/en/latest/query_language.html) and running a [web server](https://lambdapi.readthedocs.io/en/latest/options.html) for making queries on the web
 
 **Proof translation tools**
 
@@ -52,6 +53,7 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 - [CoqHammer](https://coqhammer.github.io/): reconstruct proofs from ATPs in Coq
 - [Maude2Lean](https://fadoss.github.io/maude2lean/)
 - [Lean2Coq](https://coq.discourse.group/t/alpha-announcement-coq-is-a-lean-typechecker/581): Lean to Coq
+- [B-pog-translator](https://github.com/Deducteam/B-pog-translator): translator from Atelier B proof obligation files to Lambdapi
 
 **Interactive theorem provers**
 
