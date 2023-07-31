@@ -36,7 +36,7 @@ breadcrumbs: true
 
 * [Claudio Sacerdoti](https://www.unibo.it/sitoweb/claudio.sacerdoticoen) worked on implementing a search engine for LambdaPI. He completed the implementation started during the meeting in January and he added a web interface.
 
-* Alessio Coltellacci
+* [Alessio Coltellacci](https://github.com/NotBad4U) worked on the reconstruction of [Alethe](https://verit.gitlabpages.uliege.be/alethe/specification.pdf) SMT proof format in Lambdapi. He is adding a new module for exporting Lambdapi proof in the SMT proof checker [Carcara](https://github.com/ufmg-smite/carcara). He started to add the rational number to the standard library of Lambdapi so we will be able to integrate Zenon-modulo-generated proof in the current goal when the tactic `why3` is run.
 
 * [Pascal Fontaine](https://people.montefiore.uliege.be/pfontain/) worked on several libraries for a modular approach to SMT reasoning.  After the seminar, an SMT3 parser started working, and a library to represent and handle SMT3 terms has been designed and was to some extent usable.  This project is related to EuroProofNet in the sense that this set of libraries can be used to create proof producing tools (all libraries will be themselves proof producing with detailed proofs), and can also be useful for tools handling proofs from automated solvers.
 
