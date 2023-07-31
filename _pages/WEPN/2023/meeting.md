@@ -6,7 +6,7 @@ author_profile: true
 breadcrumbs: true
 ---
 
-<img src="/_pages/WEPN/2023/group_photo.jpg"/
+<img src="/_pages/WEPN/2023/2023-07-31 13.15.42.jpg"/>
 
 ## July 31, 2023
 
