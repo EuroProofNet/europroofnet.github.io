@@ -41,9 +41,10 @@ author_profile: true
 
 - Tools for managing the dependencies between proofs, and querying and searching the database.
 
-    * [FindFacts](https://search.isabelle.in.tum.de/)
-    * [SErAPIS](https://behemoth.cl.cam.ac.uk/search/)
-    * [DAMF](https://distributed-assertions.github.io/)
+    * [FindFacts](https://search.isabelle.in.tum.de/): search application to find formal theory content of Isabelle and the AFP
+    * [SErAPIS](https://behemoth.cl.cam.ac.uk/search/): search engine for the Isabelle 2021 and Archive of Formal Proofs 2021 libraries
+    * [DAMF](https://distributed-assertions.github.io/): Distributed Assertion Management Framework
+    * [Lambdapi](https://github.com/Deducteam/lambdapi) >= 2.4.0 includes commands for [indexing](https://lambdapi.readthedocs.io/en/latest/options.html) Dedukti and Lambdapi files, making complex [search queries](https://lambdapi.readthedocs.io/en/latest/query_language.html) and running a [web server](https://lambdapi.readthedocs.io/en/latest/options.html) for making queries on the web
     
 **March 2024:**
 
