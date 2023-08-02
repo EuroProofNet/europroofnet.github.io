@@ -24,8 +24,7 @@ The meeting aims to elicit feedback, suggestions, criticisms, etc, of these reso
 
 **How to get there?** See [here](https://ens-paris-saclay.fr/en/school/how-find-us). ENS is 25 minutes away from Massy by bus (2.10€). Massy is 30 minutes away from Paris center by train (4.05€), and 20 minutes away from Orly airport by train (13.15€).
 
-**Program and Presentations:** [here](https://www.tptp.org/Seminars/TPTPTeaParty/2023/).
-
+**Program and Presentations:** [here](https://www.tptp.org/Seminars/TPTPTeaParty/2023/Contents.html).
 
 **Registration/Funding application procedure:** EuroProofNet can reimburse the travel of a number of participants. If you would like to participate, give a talk or be reimbursed of your travel, check the [eligibility](https://europroofnet.github.io/eligibility/) and [reimbursement rules](https://europroofnet.github.io/reimbursement-rules/), [apply](https://e-services.cost.eu/action/CA20111/working-groups/apply) to the EuroProofNet working groups you are interested in, and fill in the [registration/application form](https://forms.gle/XQmngrzyA5swMaHe8).
 
