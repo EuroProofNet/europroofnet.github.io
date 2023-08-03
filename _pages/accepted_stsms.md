@@ -13,12 +13,14 @@ author_profile: true
   Dates: 2023-03-01 to 2023-04-01
 -->
 
+The grant amounts below are initial estimations and not necessarily the final amounts
+
 ## 6th call (8 May 2023)
 
 * **Reconstruction of incomplete theorems and incomplete proofs with Larus** [application](/_pages/stsm/tabet-app.pdf)   
   Visitor: Salwa Tabet Gonzalez   
   Host: Predrag Janicic   
-  Grant: 1587.79 EUR  
+  Grant: 1587 EUR  
   Dates: 2023-07-15 to 2023-07-22
 
 * **Domain theory for program verification in Lean** [application](/_pages/stsm/cheval-app.pdf)   
