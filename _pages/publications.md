@@ -13,12 +13,23 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 
 **2023**
 
+- [Solving Modal Logic Problems by Translation to Higher-order Logic](https://doi.org/10.1007/978-3-031-40875-5_3), Alexander Steen, Geoff Sutcliffe, Tobias Scholl, and Christoph Benzmüller, [CLAR'23](https://www.zlaire.net/zjulogai2023/clar2023/)
+
+- [Representation, Verification, and Visualization of Tarskian Interpretations for Typed First-order Logic](https://doi.org/10.29007/1rhx), Alexander Steen, Geoff Sutcliffe, Pascal Fontaine, and Jack McKeown, [LPAR'23](https://easychair.org/smart-program/LPAR2023/)
+
+- [An Interactive Interpretation Viewer for Typed First-order Logic](https://doi.org/10.32473/flairs.36.133073), Jack McKeown and Geoff Sutcliffe, [FLAIRS'23](https://www.flairs-36.info)
+
 - [VizAR: Visualization of Automated Reasoning Proofs (System Description)](http://cl-informatik.uibk.ac.at/cek/docs/23/jjck-cicm23.pdf),
   Jan Jakubův and Cezary Kaliszyk, [CICM'23](https://cicm-conference.org/2023/cicm.php)
+
 - [Combining Higher-Order Logic with Set Theory Formalizations](https://doi.org/10.1007/s10817-023-09663-5), Cezary Kaliszyk and Karol Pąk, [*JAR*](https://www.springer.com/journal/10817)
+
 - [Experiments on Infinite Model Finding in SMT Solving](https://doi.org/10.29007/slrm), Julian Parsert, Chad Brown, Mikolas Janota, and Cezary Kaliszyk, [LPAR'23](https://easychair.org/smart-program/LPAR2023/)
-- [Anti-unification and Generalization: A Survey](https://arxiv.org/pdf/2302.00277.pdf), David M. Cerna and Temur Kutsia, to appear in proceedings of IJCAI'23 
-- [A modular construction of type theories](https://arxiv.org/pdf/2111.00543?), Frédéric Blanqui, Gilles Dowek, Emilie Grienenberger, Gabriel Hondet and François Thiré, to appear in Logical Methods in Computer Science (LMCS)
+
+- [Anti-unification and Generalization: A Survey](https://doi.org/10.24963/ijcai.2023/736), David M. Cerna and Temur Kutsia, [IJCAI'23](https://ijcai-23.org) 
+
+- [A modular construction of type theories](https://doi.org/10.46298/lmcs-19(1:12)2023), Frédéric Blanqui, Gilles Dowek, Emilie Grienenberger, Gabriel Hondet, and François Thiré, in [*LMCS*](https://lmcs.episciences.org)
+
 - [Translating proofs from an impredicative type system to a predicative one](https://doi.org/10.4230/LIPIcs.CSL.2023.19), T. Felicissimo, F. Blanqui and A. Kumar Barnawal, [CSL'23](https://csl2023.mimuw.edu.pl/)
 
 **2022**
