@@ -250,7 +250,7 @@ the predicate P can be applied to a, b and c respectively (distributive interpre
 
 (5) For all i, a_i, b_i and c_i are P.
 
-could have a purely distributive interpretation, but also a collective interpretation for the plural entities constituted by a_i, b_i and c_i for each i, and collective interpretations for plural entities like {a_i, b_i, c_i | i} or {{a_i, b_i, c_i} | i}. In many proof texts the natural language mechanism of implicitly forming plural entities is used very effectively.
+could have a purely distributive interpretation, but also a collective interpretation for the plural entities constituted by a_i, b_i and c_i for each i, and collective interpretations for plural entities like \{a_i, b_i, c_i | i\} or \{\{a_i, b_i, c_i\} | i\}. In many proof texts the natural language mechanism of implicitly forming plural entities is used very effectively.
 
 In my contribution I will argue that the notational means to group reference markers and the metonymical uses of mathematical terms are essential for keeping natural language mathematical proofs readable and natural.
 
