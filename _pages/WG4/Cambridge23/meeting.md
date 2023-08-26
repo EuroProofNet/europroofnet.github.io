@@ -143,7 +143,63 @@ If you want to give a talk or if you want to apply for funding, fill out the [Re
 ## Abstracts
 
 <a name="loukanova"></a>
-### Roussanka Loukanova - Type Theories for Computational Grammar of Natural Language (Invited Talk)
+### Roussanka Loukanova - Rendering Natural Language of Mathematical Texts into Formal Languagee (Invited Talk)
+
+The language of mathematical texts, e.g., descriptions, definitions, statements, and proofs, is typically a specialised natural language, suitably interleaved with mathematical symbols and expressions. Fragments of mathematical language are carefully written, e.g., by:
+
+(1) using grammatically well-formed expressions, with respect to major syntactic categories of natural language, of lexemes, phrases, sentences
+
+(2) targeting unambiguous expressions, by eliminating or minimising ambiguities, which are abundant in natural language.
+
+Such factors demonstrate that computational grammar, including syntax and semantics, is essential for processing of mathematical texts. Among the goals is to provide interconnections with verification and proof systems, and integration with macine learning.
+
+Computational syntax of natural language has been an active area since 1950s, with significant achievements of computational grammars. Computational semantics was introduced by methods of mathematical logic, in 1970s. It continues to be an open, active area of development of specialised formal languages, logic, and type theories. For full adequateness, computational grammar targets covering syntax-semantics interfaces, via parsing natural language for rendering it into formal language. Suitable language of logic can provide rendering of mathematical texts into formal expressions, which can be used in computational interfaces with verification and proof systems, as well as with machine learning.
+
+In the talk, I present compositional interface in computational grammar for rendering natural language of mathematics into terms of the formal language (LAR) of acyclic recursion, by using its type theory, calculi, and syntax-semantics interfaces.
+
+I introduce the technique for a class of expressions involving quantifiers, definite descriptors, and relative clauses, in noun phrases (NPs), which are integrate compounds of mathematical texts. I show the roles of logic operators in sentences and in other phrasal constructs.
+
+I employ Generalised Constraint-Based Lexicalized Grammar (GCBLG) of natural language, which represents major, common syntactic characteristics of a variety of approaches to computational grammar, e.g., Head-Driven Phrase Structure Grammar (HPSG), Lexical Functional Grammar (LFG), Categorial Grammar (CG), and Grammatical Framework (GF). 
+
+The LAR terms of mathematical language can surve several major tasks:
+
+(1) LAR provides computational semantics of the language of mathematics, via the syntax-semantics of LAR. LAR has two layers of semantics:
+
+(a) denotational semantics, i.e., den(A), for every LAR term A
+(b) algorithmic semantics: the calculi of LAR determines the algorithmic process, alg(A), of every meaningful LAR term A, for computing its denotation den(A)
+
+(2) LAR provides facility for representing major semantic ambiguities and underspecification, at the object level of its formal language, without recourse to meta-language variables. Specific semantic representations can be obtained by instantiations of underspecified LAR terms, in context.
+
+(3) LAR terms can provide input into verification and proof systems (open tasks)
+
+(4) the output of verification and proof systems can provide inferences to be rendered back into natural language of mathematical texts (open tasks).
+
+References
+
+- [1] Bresnan, J.: Lexical-Functional Syntax. Blackwell Publishers, Oxford (2001)
+- [2] Buszkowski, W.: Mathematical Linguistics and Proof Theory. In: J. van Benthem, A. ter Meulen (eds.) Handbook of Logic and Language, pp. 683–736. North-Holland, Amsterdam (1997). DOI https://doi.org/ 10.1016/B978-044481714-3/50016-3
+- [3] DELPH-IN: Deep Linguistic Processing with HPSG (DELPH-IN) (2018, edited). URL http://moin. delph-in.net. Accessed 20-Aug-2023
+- [4] Gallin, D.: Intensional and Higher-Order Modal Logic: With Applications to Montague Semantics. North- Holland Publishing Company, Amsterdam and Oxford, and American Elsevier Publishing Company (1975). URL https://doi.org/10.2307/2271880
+- [5] The Grammatical Framework GF. http://www.grammaticalframework.org. Accessed 20-Aug-2023
+- [6] Loukanova, R.: Relationships between Specified and Underspecified Quantification by the Theory of Acyclic Recursion. ADCAIJ: Advances in Distributed Computing and Artificial Intelligence Journal 5(4), 19–42 (2016). URL https://doi.org/10.14201/ADCAIJ2016541942
+- [7] Loukanova, R.: An Approach to Functional Formal Models of Constraint-Based Lexicalized Grammar (CBLG). Fundamenta Informaticae 152(4), 341–372 (2017). DOI 10.3233/FI-2017-1524. URL https: //doi.org/10.3233/FI-2017-1524
+- [8] Loukanova, R.: Computational Syntax-Semantics Interface with Type-Theory of Acyclic Recursion for Underspecified Semantics. In: R. Osswald, C. Retoré, P. Sutton (eds.) IWCS 2019 Workshop on Com- puting Semantics with Types, Frames and Related Structures. Proceedings of the Workshop, pp. 37– 48. The Association for Computational Linguistics (ACL), Gothenburg, Sweden (2019). URL https: //www.aclweb.org/anthology/W19-1005
+- [9] Loukanova, R.: Gamma-Reduction in Type Theory of Acyclic Recursion. Fundamenta Informaticae 170(4), 367–411 (2019). URL https://doi.org/10.3233/FI-2019-1867
+- [10] Loukanova, R.: Gamma-Star Canonical Forms in the Type-Theory of Acyclic algorithms. In: J. van den Herik, A.P. Rocha (eds.) Agents and Artificial Intelligence, Lecture Notes in Computer Science, vol. 11352, pp. 383–407. Springer International Publishing, Cham (2019). URL https://doi.org/10.1007/ 978-3-030-05453-3_18
+- [11] Loukanova, R.: Type-Theory of Acyclic Algorithms for Models of Consecutive Binding of Functional Neuro-Receptors. In: A. Grabowski, R. Loukanova, C. Schwarzweller (eds.) AI Aspects in Reasoning, Languages, and Computation, vol. 889, pp. 1–48. Springer International Publishing, Cham (2020). URL https://doi. org/10.1007/978-3-030-41425-2_1
+- [12] Loukanova, R.: Algorithmic Dependent-Type Theory of Situated Information and Context Assessments. In: S. Omatu, R. Mehmood, P. Sitek, S. Cicerone, S. Rodr ́ıguez (eds.) Distributed Computing and Artificial Intelligence, 19th International Conference, vol. 583, pp. 31–41. Springer International Publishing, Cham (2023). DOI 10.1007/978-3-031-20859-1 4. URL https://doi.org/10.1007/978-3-031-20859-1_4
+- [13] Loukanova, R.: Eta-Reduction in Type-Theory of Acyclic Recursion. ADCAIJ: Advances in Distributed Computing and Artificial Intelligence Journal 12(1), 1–22, e29199 (2023). URL https://doi.org/10. 14201/adcaij.29199
+- [14] Loukanova, R.: Restricted Computations and Parameters in Type-Theory of Acyclic Recursion. ADCAIJ: Advances in Distributed Computing and Artificial Intelligence Journal 12(1), 1–40 (2023). URL https: //doi.org/10.14201/adcaij.29081
+- [15] Montague, R.: The Proper Treatment of Quantification in Ordinary English. In: J. Hintikka, J. Moravcsik, P. Suppes (eds.) Approaches to Natural Language, vol. 49, pp. 221–242. Synthese Library. Springer, Dordrecht (1973). URL https://doi.org/10.1007/978-94-010-2506-5_10
+- [16] Moortgat, M.: Categorial Type Logics. In: J. van Benthem, A. ter Meulen (eds.) Handbook of Logic and Language, pp. 93–177. Elsevier, Amsterdam (1997). URL https://doi.org/10.1016/B978-044481714-3/ 50005-9
+- [17] Moschovakis, Y.N.: The formal language of recursion. Journal of Symbolic Logic 54(4), 1216–1252 (1989). URL https://doi.org/10.1017/S0022481200041086
+- [18] Moschovakis, Y.N.: Sense and denotation as algorithm and value. In: J. Oikkonen, J. Väänänen (eds.) Logic Colloquium ’90: ASL Summer Meeting in Helsinki, Lecture Notes in Logic, vol. Volume 2, pp. 210– 249. Springer-Verlag, Berlin (1993). URL https://projecteuclid.org/euclid.lnl/1235423715
+- [19] Moschovakis, Y.N.: The logic of functional recursion. In: M.L. Dalla Chiara, K. Doets, D. Mundici, J. van Benthem (eds.) Logic and Scientific Methods, vol. 259, pp. 179–207. Springer, Dordrecht (1997). URL https://doi.org/10.1007/978-94-017-0487-8_10
+- [20] Moschovakis, Y.N.: On founding the theory of algorithms. In: H. Dales, G. Oliveri (eds.) Truth in mathematics, pp. 71–104. Clarendon Press, Oxford (1998)
+- [21] Moschovakis, Y.N.: A Logical Calculus of Meaning and Synonymy. Linguistics and Philosophy 29(1), 27–89 (2006). URL https://doi.org/10.1007/s10988-005-6920-7
+- [22] Plotkin, G.D.: LCF considered as a programming language. Theoretical Computer Science 5(3), 223–255 (1977). URL https://doi.org/10.1016/0304-3975(77)90044-5
+- [23] Scott, D.S.: A type-theoretical alternative to ISWIM, CUCH, OWHY. Theoretical Computer Science 121(1), 411–440 (1993). URL https://doi.org/10.1016/0304-3975(93)90095-B
+- [24] Thomason, R.H. (ed.): Formal Philosophy: Selected Papers of Richard Montague. Yale University Press, New Haven, Connecticut (1974)
 
 <a name="koepke1"></a>
 ### Peter Koepke, Mateusz Marcol and Patrick Schäfer - Formalizing Sets, Numbers, and some "Wiedijk Theorems" in Naproche
@@ -288,114 +344,51 @@ C) Combine the natural language approach of ℕaproche with established systems.
 - [5] https://isabelle.in.tum.de/
 
 <a name="farmer"></a>
-### William Farmer - Monoid Theory in Alonzo: A Little Theories Formalization in Simple Type Theory (Invited Talk)
-The little theories method [8] is a method for formalizing
-mathematical knowledge as a theory graph [10,11] consisting of
-theories as nodes and theory morphisms as directed edges.  Each
-mathematical topic is developed in the "little theory" in the theory
-graph that has the most convenient level of abstraction and the most
-convenient vocabulary.  Then the definitions and theorems produced in
-the development are transported, as needed, from this abstract theory
-to other, usually more concrete, theories in the graph via the theory
-morphisms in the graph.
+### William Farmer - Little Theories: A Method for Organizing Mathematical Knowledge Illustrated Using Alonzo, a Practice-Oriented Version of Simple Type Theory (Invited Talk)
+An attractive and powerful method for organizing mathematical knowledge
+is the little theories method [5]. A body of mathematical knowledge is represented in the form of a theory graph [7, 8] consisting of theories as nodes and
+theory morphisms as directed edges. Each mathematical topic is developed
+in the “little theory” in the theory graph that has the most convenient level
+of abstraction and the most convenient vocabulary. Then the definitions and
+theorems produced in the development are transported, as needed, from this
+abstract theory to other, usually more concrete, theories in the graph via
+the theory morphisms in the graph.
+Alonzo [4] is a practice-oriented classical higher-order logic. Named
+in honor of Alonzo Church, Alonzo is based on Church’s type theory [1],
+Church’s formulation of simple type theory [3]. Unlike traditional predicate
+logics, Alonzo admits partial functions and undefined expressions in accordance with the approach employed in mathematical practice that we call
+the traditional approach to undefinedness [2]. Alonzo has a simple syntax
+with a formal notation for machines and a compact notation for humans
+that closely resembles the notation found in mathematical practice. It has
+two semantics, one for mathematics based on standard models and one for
+logic based on Henkin-style general models [6]. By virtue of its syntax and
+semantics, Alonzo is exceptionally well suited for expressing and reasoning
+about mathematical ideas in a natural manner. Alonzo is also equipped
+with a set of mathematical knowledge modules for constructing theories and
+theory morphisms and for transporting definitions and theorems from one
+theory to another via theory morphisms.
+This talk illustrates the little theories method by showing how to formalize a sample body of mathematical knowledge in Alonzo as a theory
+graph using Alonzo’s mathematical knowledge modules. We have chosen
+monoid theory as the sample body of mathematical knowledge. A monoid is
+an algebraic structure consisting a nonempty set, a total, associative binary
+function on the set, and a member of the set that is an identity element
+1
+with respect to the function. Monoids are abundant in mathematics and
+computing. Our formalization of monoid theory in Alonzo consists of a theory graph containing 12 theories and 24 theory morphisms. Instead of the
+standard certification-oriented approach to formal mathematics, we follow a
+communication-oriented approach that (1) is fully formal except proofs are
+written in a traditional (informal) style and (2) priorities the communication
+of mathematical ideas over the formal certification of mathematical results.
 
-Alonzo [7] is a practice-oriented classical higher-order logic that
-extends first-order logic.  Named in honor of Alonzo Church, Alonzo is
-based on Church's type theory [1], Church's formulation of simple type
-theory [4].  Unlike traditional predicate logics, Alonzo admits
-partial functions and undefined expressions in accordance with the
-approach employed in mathematical practice that we call the
-traditional approach to undefinedness [3].  Since partial functions
-naturally arise from theory morphisms [2], the little theories method
-works best with a logic like Alonzo that supports partial functions.
-
-Alonzo has a simple syntax with a formal notation for machines and a
-compact notation for humans that closely resembles the notation found
-in mathematical practice.  The compact notation is defined by the
-extensive set of notational definitions and conventions given in [7].
-It has two semantics, one for mathematics based on standard models and
-one for logic based on Henkin-style general models [9].  By virtue of
-its syntax and semantics, Alonzo is exceptionally well suited for
-expressing and reasoning about mathematical ideas in a natural manner.
-Alonzo is also equipped with a set of mathematical knowledge modules
-for constructing theories and theory morphisms and for transporting
-definitions and theorems from one theory to another via theory
-morphisms.
-
-This talk will illustrate how a body of mathematical knowledge can be
-formalized in Alonzo using the little theories method.  A
-formalization in Alonzo is produced by constructing a theory graph
-using Alonzo's mathematical knowledge modules.  Instead of the
-standard certification-oriented approach to formal mathematics, we
-follow a communication-oriented approach [5] that (1) is fully formal
-except proofs are written in a traditional (informal) style and (2)
-puts the communication of mathematical ideas above the formal
-certification of mathematical results.
-
-We have chosen monoid theory as a sample body of mathematical
-knowledge to formalize in Alonzo.  A monoid is an algebraic structure
-consisting a nonempty set, a total, associative binary function on the
-set, and a member of the set that is an identity element with respect
-to the function.  Monoids are abundant in mathematics and computing.
-Our formalization of monoid theory in Alonzo consists of a theory
-graph containing 12 theories and 24 theory morphisms.
-
-We produced the formalization of monoid theory with a minimal amount
-of software support using just the set of LaTeX macros and
-environments for Alonzo given in [6] plus a few macros created
-specifically for monoids.  The macros are for presenting Alonzo types
-and expressions in both the formal and compact notations.  The
-environments are for presenting Alonzo modules.
-
-
-- [1] A. Church. A formulation of the simple theory of types. Journal
-     of Symbolic Logic, 5:56–68, 1940.
-
-- [2] W. M. Farmer. Theory interpretation in simple type theory. In
-     J. Heering, K. Meinke, B. Moeller, and T. Nipkow, editors,
-     Higher-Order Algebra, Logic, and Term Rewriting, volume 816 of
-     Lecture Notes in Computer Science, pages 96–123. Springer, 1994.
-
-- [3] W. M. Farmer. Formalizing undefinedness arising in calculus. In
-     D. A. Basin and M. Rusinowitch, editors, Automated Reasoning --
-     IJCAR 2004, volume 3097 of Lecture Notes in Computer Science,
-     pages 475–489. Springer, 2004.
-
-- [4] W. M. Farmer. The seven virtues of simple type theory. Journal of
-     Applied Logic, 6:267–286, 2008.
-
-- [5] W. M. Farmer. Formal mathematics for the masses. In
-     J. Blanchette, Davenport J, P. Koepke, M. Kohlhase, A. Kohlhase,
-     A. Naumowicz, D. Mueller, Y. Sharoda, and C. Sacerdoti Coen,
-     editors, Workshop Papers of the 14th Conference on Intelligent
-     Computer Mathematics (CICM 2021), volume 3377 of CEUR Workshop
-     Proceedings. CEUR-WS.org, 2023.
-
-- [6] W. M. Farmer. LaTeX for Alonzo. https://imps.mcmaster.ca/doc
-     /latex-for-alonzo.pdf, 2023.
-
-- [7] W. M. Farmer. Simple Type Theory: A Practical Logic for
-     Expressing and Reasoning About Mathematical Ideas. Computer
-     Science Foundations and Applied Logic. Birkhaeuser, 2023.
-
-- [8] W. M. Farmer, J. D. Guttman, and F. J. Thayer. Little
-     theories. In D. Kapur, editor, Automated Deduction -- CADE-11,
-     volume 607 of Lecture Notes in Computer Science, pages
-     567–581. Springer, 1992.
-
-- [9] L. Henkin. Completeness in the theory of types. Journal of
-     Symbolic Logic, 15:81–91, 1950.
-
-- [10] M. Kohlhase. Mathematical knowledge management: Transcending the
-     one-brain-barrier with theory graphs. European Mathematical
-     Society (EMS) Newsletter, 92:22–27, June 2014.
-
-- [11] M. Kohlhase, F. Rabe, and V. Zholudev. Towards MKM in the large:
-     Modular representation and scalable software architecture. In
-     S. Autexier, J. Calmet, D. Delahaye, P. D. F. Ion, L. Rideau,
-     R. Rioboo, and 53A. P. Sexton, editors, Intelligent Computer
-     Mathematics, volume 6167 of Lecture Notes in Computer Science,
-     pages 370–384. Springer, 2010.
+**References**
+- [1] A. Church. A formulation of the simple theory of types. Journal of Symbolic Logic, 5:56–68, 1940.
+- [2] W. M. Farmer. Formalizing undefinedness arising in calculus. In D. A. Basin and M. Rusinowitch, editors, Automated Reasoning — IJCAR 2004, volume 3097 of Lecture Notes in Computer Science, pages 475–489. Springer, 2004.
+- [3] W. M. Farmer. The seven virtues of simple type theory. Journal of Applied Logic, 6:267–286, 2008.
+- [4] W. M. Farmer. Simple Type Theory: A Practical Logic for Expressing and Reasoning About Mathematical Ideas. Computer Science Foundations and Applied Logic. Birkhauser, 2023.
+- [5] W. M. Farmer, J. D. Guttman, and F. J. Thayer. Little theories. In D. Kapur, editor, Automated Deduction — CADE-11, volume 607 of Lecture Notes in Computer Science, pages 567–581. Springer, 1992.
+- [6] L. Henkin. Completeness in the theory of types. Journal of Symbolic Logic, 15:81–91, 1950.
+- [7] M. Kohlhase. Mathematical knowledge management: Transcending the one-brain-barrier with theory graphs. European Mathematical Society (EMS) Newsletter, 92:22–27, June 2014.
+- [8] M. Kohlhase, F. Rabe, and V. Zholudev. Towards MKM in the large: Modular representation and scalable software architecture. In S. Autexier, J. Calmet, D. Delahaye, P. D. F. Ion, L. Rideau, R. Rioboo, and A. P. Sexton, editors, Intelligent Computer Mathematics, volume 6167 of Lecture Notes in Computer Science, pages 370–384. Springer, 2010.
 
 <a name="horowitz"></a>
 ### Lucy Horowitz - MathGloss: Linked Undergraduate Math Concepts
