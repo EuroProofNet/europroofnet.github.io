@@ -7,6 +7,10 @@ author_profile: true
 
 To contribute to the web site, please open an [issue](https://github.com/EuroProofNet/europroofnet.github.io/issues), create a [pull request](https://github.com/EuroProofNet/europroofnet.github.io) or send a mail to the [science communication coordinators](../contact).
 
+- 20 November 2023 (deadline): The [Institute of Computer Science](https://www.cs.cas.cz/) of the Czech Academy of Sciences offers a [tenure track position in Artificial Intelligence](https://www.cs.cas.cz/job-offer/Tenure-Track-Position-Artificial-Intelligence/en), interpreted in its broadest possible sense, including the area of automated reasoning. Contact [Stefan Ratschan](http://www.cs.cas.cz/~ratschan/).
+
+- 20 November 2023 (deadline): The [Institute of Computer Science](https://www.cs.cas.cz/) of the Czech Academy of Sciences offers a [tenure track position in Computer Science](https://www.cs.cas.cz/job-offer/Tenure-Track-Position-Computer-Science/en), open to areas fitting and/or expanding the current research areas at the institute (computational logic, artificial intelligence, statistics, etc.). See the [institute page](https://www.cs.cas.cz/) for more details or contact [ics@cs.cas.cz](ics@cs.cas.cz).
+ 
 - 21 April 2023: [Deducteam](https://deducteam.gitlabpages.inria.fr/) offers a 3-year engineer contract at Inria to help develop, test and maintain tools for proof system interoperability (continuous integration, proof library management, search tools, VSCode, etc.). Net taxable monthly salary between 2148 and 4412 euros depending on experience. If you are interested, please send your CV to [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/).
 
 - 6 March 2023: 3-year [PhD position](https://coq.discourse.group/t/phd-position-at-inria-nantes-universite-france/1897) at Inria / Nantes Université (France) in formalized mathematics and verification of computer algebra. Application deadline: 31 March 2023, contact: [Assia Mahboubi](http://people.rennes.inria.fr/Assia.Mahboubi/).
