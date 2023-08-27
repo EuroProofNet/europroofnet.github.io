@@ -11,6 +11,10 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 
 - 3-8 September 2023: [Artificial Intelligence and Theorem Proving 2023](http://aitp-conference.org/2023) (AITP'23), Aussois, France
 
+- 29-31 August 2023: [35th Symposium on Implementation and Application of Functional Languages](https://ifl23.github.io/) (IFL'23), Braga, Portugal
+
+- 28 August 2023: [2nd Workshop on the Implementation of Type Systems](https://ifl23.github.io/wits.html) (WITS'23), Braga, Portugal
+
 - 31 July - 4 August 2023: [14th Conference on Interactive Theorem Proving](https://mizar.uwb.edu.pl/ITP2023/) (ITP'23), Białystok, Poland
 
 - 3-6 July 2023: [8th International Conference on Formal Structures for Computation and Deduction](https://easyconferences.eu/fscd2023/) (FSCD'23), Rome, Italy
