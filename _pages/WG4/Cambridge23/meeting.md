@@ -147,11 +147,11 @@ If you want to give a talk or if you want to apply for funding, fill out the [Re
 
 The language of mathematical texts, e.g., descriptions, definitions, statements, and proofs, is typically a specialised natural language, suitably interleaved with mathematical symbols and expressions. Fragments of mathematical language are carefully written, e.g., by:
 
-(1) using grammatically well-formed expressions, with respect to major syntactic categories of natural language, of lexemes, phrases, sentences
+1. using grammatically well-formed expressions, with respect to major syntactic categories of natural language, of lexemes, phrases, sentences
 
-(2) targeting unambiguous expressions, by eliminating or minimising ambiguities, which are abundant in natural language.
+2. targeting unambiguous expressions, by eliminating or minimising ambiguities, which are abundant in natural language.
 
-Such factors demonstrate that computational grammar, including syntax and semantics, is essential for processing of mathematical texts. Among the goals is to provide interconnections with verification and proof systems, and integration with macine learning.
+Such factors demonstrate that computational grammar, including syntax and semantics, is essential for processing of mathematical texts. Among the goals is to provide interconnections with verification and proof systems, and integration with machine learning.
 
 Computational syntax of natural language has been an active area since 1950s, with significant achievements of computational grammars. Computational semantics was introduced by methods of mathematical logic, in 1970s. It continues to be an open, active area of development of specialised formal languages, logic, and type theories. For full adequateness, computational grammar targets covering syntax-semantics interfaces, via parsing natural language for rendering it into formal language. Suitable language of logic can provide rendering of mathematical texts into formal expressions, which can be used in computational interfaces with verification and proof systems, as well as with machine learning.
 
@@ -161,11 +161,12 @@ I introduce the technique for a class of expressions involving quantifiers, defi
 
 I employ Generalised Constraint-Based Lexicalized Grammar (GCBLG) of natural language, which represents major, common syntactic characteristics of a variety of approaches to computational grammar, e.g., Head-Driven Phrase Structure Grammar (HPSG), Lexical Functional Grammar (LFG), Categorial Grammar (CG), and Grammatical Framework (GF). 
 
-The LAR terms of mathematical language can surve several major tasks:
+The LAR terms of mathematical language can serve several major tasks:
 
 (1) LAR provides computational semantics of the language of mathematics, via the syntax-semantics of LAR. LAR has two layers of semantics:
 
-(a) denotational semantics, i.e., den(A), for every LAR term A
+(a) denotational semantics, i.e., den(A), for every LAR term A; 
+
 (b) algorithmic semantics: the calculi of LAR determines the algorithmic process, alg(A), of every meaningful LAR term A, for computing its denotation den(A)
 
 (2) LAR provides facility for representing major semantic ambiguities and underspecification, at the object level of its formal language, without recourse to meta-language variables. Specific semantic representations can be obtained by instantiations of underspecified LAR terms, in context.
