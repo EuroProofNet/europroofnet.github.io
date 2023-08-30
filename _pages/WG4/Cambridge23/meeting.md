@@ -119,7 +119,7 @@ If you want to give a talk or if you want to apply for funding, fill out the [Re
 
 | Time          | Speaker             | Title                                                                           |
 | ------------- | ------------------  | ------------------------------------------------------------------------------- |
-| 14:00 - 15:00 | William Farmer      | [**Invited Talk** Monoid Theory in Alonzo: A Little Theories Formalization in Simple Type Theory](#farmer)    |
+| 14:00 - 15:00 | William Farmer      | [**Invited Talk** Little Theories: A Method for Organizing Mathematical Knowledge Illustrated Using Alonzo, a Practice-Oriented Version of Simple Type Theory](#farmer)    |
 | 15:00 - 15:30 | Lucy Horowitz       | [MathGloss: Linked Undergraduate Math Concepts](#horowitz)                      |
 | 15:30 - 16:00 | ------------------- | **BREAK**                                                                       |
 | 16:00 - 16:30 | Marcel Schütz       | [Foundational libraries in Naproche](#schuetz)                                  |
@@ -354,6 +354,7 @@ of abstraction and the most convenient vocabulary. Then the definitions and
 theorems produced in the development are transported, as needed, from this
 abstract theory to other, usually more concrete, theories in the graph via
 the theory morphisms in the graph.
+
 Alonzo [4] is a practice-oriented classical higher-order logic. Named
 in honor of Alonzo Church, Alonzo is based on Church’s type theory [1],
 Church’s formulation of simple type theory [3]. Unlike traditional predicate
@@ -368,12 +369,12 @@ about mathematical ideas in a natural manner. Alonzo is also equipped
 with a set of mathematical knowledge modules for constructing theories and
 theory morphisms and for transporting definitions and theorems from one
 theory to another via theory morphisms.
+
 This talk illustrates the little theories method by showing how to formalize a sample body of mathematical knowledge in Alonzo as a theory
 graph using Alonzo’s mathematical knowledge modules. We have chosen
 monoid theory as the sample body of mathematical knowledge. A monoid is
 an algebraic structure consisting a nonempty set, a total, associative binary
 function on the set, and a member of the set that is an identity element
-1
 with respect to the function. Monoids are abundant in mathematics and
 computing. Our formalization of monoid theory in Alonzo consists of a theory graph containing 12 theories and 24 theory morphisms. Instead of the
 standard certification-oriented approach to formal mathematics, we follow a
