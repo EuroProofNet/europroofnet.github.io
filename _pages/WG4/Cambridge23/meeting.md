@@ -103,39 +103,44 @@ If you want to give a talk or if you want to apply for funding, fill out the [Re
 
 ## Program
 
-### NatFoM (September 6th)
+### NatFoM (Wednesday, September 6th)
 
 | Time          | Speaker             | Title                                                                           |
 | ------------- | ------------------  | ------------------------------------------------------------------------------- |
+| | | **Session 10C: Invited talk & Paper presentation (Chair: Dennis Müller)** |
 | 14:00 - 15:00 | Roussanka Loukanova | [**Invited Talk** Type Theories for Computational Grammar of Natural Language](#loukanova)    |
-| 15:00 - 15:30 | Peter Koepke, Mateusz Marcol and Patrick Schäfer | [Formalizing Sets, Numbers, and some "Wiedijk Theorems" in Naproche](#koepke1)   |
-| 15:30 - 16:00 | ------------------- | **BREAK**                                                                       |
-| 16:00 - 16:30 | Adrian De Lon       | [Scaling a natural proof assistant step by step](#delon)                                  |
+| 15:00 - 15:30 | Peter Koepke        | [Experiences with Natural Language Proof Checking](#koepke2)                                |
+| 15:30 - 16:00 | Adrian De Lon       | [Scaling a natural proof assistant step by step](#delon)                                  |
+| 16:00 - 16:30 |                     | **Coffee Break**                                                                       |
+| | | **Session 11:  Paper presentation (Chair: Roussanka Loukanova)** |
 | 16:30 - 17:00 | Bernhard Schröder   | [Building small worlds in mathematical texts by formal and informal means](#schroeder)        |
-| 17:00 - 17:30 | Peter Koepke        | [Experiences with Natural Language Proof Checking](#koepke2)                                |
-| 17:30 - 18:00 | Peter Koepke        | Naproche Demo                                                                   |
+| 17:00 - 17:30 | Peter Koepke, Mateusz Marcol and Patrick Schäfer | [Formalizing Sets, Numbers, and some "Wiedijk Theorems" in Naproche](#koepke1)   |
+| 17:30 - 18:00 | Adrian De Lon       | Naproche Demo                                                                   |
 
-### Joint Session (September 7th)
+### Joint Session (Thrusday, September 7th)
 
 | Time          | Speaker             | Title                                                                           |
 | ------------- | ------------------  | ------------------------------------------------------------------------------- |
+| | | **Session 16B: Invited talk & Paper presentation (Chair: Angeliki Koutsoukou-Argyraki)** |
 | 14:00 - 15:00 | William Farmer      | [**Invited Talk** Little Theories: A Method for Organizing Mathematical Knowledge Illustrated Using Alonzo, a Practice-Oriented Version of Simple Type Theory](#farmer)    |
 | 15:00 - 15:30 | Lucy Horowitz       | [MathGloss: Linked Undergraduate Math Concepts](#horowitz)                      |
-| 15:30 - 16:00 | ------------------- | **BREAK**                                                                       |
-| 16:00 - 16:30 | Marcel Schütz       | [Foundational libraries in Naproche](#schuetz)                                  |
+| 15:30 - 16:00 | Marcel Schütz       | [Foundational libraries in Naproche](#schuetz)                                  |
+| 16:00 - 16:30 | ------------------- | **Coffee Break**                                                                       |
+| | | **Session 17:  Paper presentation (Chair: Peter Koepke)** |
 | 16:30 - 17:00 | David Berry         | [Categorical Proofs are Natural Proofs](#berry)                                 |
-| 17:00 - 17:30 | ------------------- | **Panel Discussion**                                                            |
-| 17:30 - 18:00 | ------------------- | **Panel Discussion**                                                            |
+| 17:00 - 18:00 | ------------------- | **Panel Discussion**                                                            |
 
 
-### Workshop on Libraries of Formal Proofs and Natural Mathematical Language (September 8th)
+### Workshop on Libraries of Formal Proofs and Natural Mathematical Language (Friday, September 8th)
 
 | Time          | Speaker             | Title                                                                           |
 | ------------- | ------------------  | ------------------------------------------------------------------------------- |
+| | | **Session 22: Invited talk & Paper presentation (Chair: TBA)** |
 | 14:00 - 15:00 | Kyle Miller         | [**Invited Talk** Informalizing formalized mathematics using the Lean theorem prover](#miller)    |
 | 15:00 - 15:30 | Katie Collins       | [CheckMate: an adaptable prototype platform for humans to interact with and evaluate LLMs](#collins)              |
-| 15:30 - 16:00 | ------------------- | **BREAK**                                                                       |
-| 16:00 - 16:30 | Farah Al Wardani    | [Formal Reasoning using Distributed Assertions](#wardani)                       |
+| 15:30 - 16:00 | Farah Al Wardani    | [Formal Reasoning using Distributed Assertions](#wardani)                       |
+| 16:00 - 16:30 | ------------------- | **Coffee Break**                                                                       |
+| | | **Session 23:  Paper presentation (Chair: TBA)** |
 | 16:30 - 17:00 | Anand Rao Tadipatri | [LeanAIde - A statement autoformalisation tool for the Lean theorem prover](#tadipatri)       |
 | 17:00 - 17:30 | Adrian Groza        | [Solving logical puzzles with ChatGPT](#groza)                                  |
 | 17:30 - 18:00 | Claudio Sacerdoti Coen | [An indexer and query language for libraries written in LambdaPi/Dedukti](#coen)      |
