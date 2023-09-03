@@ -61,7 +61,7 @@ At least one author of each accepted extended abstract/demonstration proposal is
   * Adrian De Lon, Bonn (co-chair)
   * Peter Koepke, Bonn (co-chair)
   * Andrea Kohlhase, Neu-Ulm
-  * Angeliki Koutsoukou-Argyraki, Cambridge
+  * Angeliki Koutsoukou-Argyraki, Royal Holloway, University of London and Cambridge
   * Dennis Müller, Erlangen (co-chair)
 
 ## Workshop on Libraries of Formal Proofs and Natural Mathematical Language, Cambridge, 7-8 September 2023
@@ -75,7 +75,7 @@ Accepted abstracts will be made available online.
 Please note that talks will be in person, therefore at least one author of each accepted submission is expected to attend the workshop and to present the submission in person. 
 
 **Programme committee:**
-  * [Angeliki Koutsoukou-Argyraki](https://www.cl.cam.ac.uk/~ak2110/) (Cambridge)
+  * [Angeliki Koutsoukou-Argyraki](https://www.cl.cam.ac.uk/~ak2110/) (Royal Holloway, University of London and Cambridge)
   * [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/) (INRIA)
   * [Claudio Sacerdoti Coen](https://www.cs.unibo.it/~sacerdot/) (Bologna)
   * [Peter Koepke](https://www.math.uni-bonn.de/people/koepke/) (Bonn)
