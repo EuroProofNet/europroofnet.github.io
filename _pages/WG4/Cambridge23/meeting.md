@@ -14,7 +14,6 @@ This joint WG4-WG5 meeting consists of:
 
 The session on September 7 is common to the two workshops.
 
-Note that this meeting happens during the [16th Conference on Intelligent Computer Mathematics](https://cicm-conference.org/2023/) which takes place on September 4-8 at Emmanuel College.
 
 ## Overall programme
 
@@ -34,7 +33,7 @@ University of Cambridge,
 Cambridge CB30FD,
 UK
 
-Note that [16th Conference on Intelligent Computer Mathematics](https://cicm-conference.org/2023/) takes place at Emmanuel College, St Andrew's St, 15 minutes away by bus, 35 minutes away by walk, and 10 minutes away by bike.
+Note that this meeting happens during the [16th Conference on Intelligent Computer Mathematics](https://cicm-conference.org/2023/) which takes place on September 4-8 at Emmanuel College. Emmanuel College, St Andrew's St, is 15 minutes away by bus, 35 minutes away by walk, and 10 minutes away by bike.
 
 ## NatFoM: Workshop on Natural Formal Mathematics, Cambridge, 6-7 September 2023
 
