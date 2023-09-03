@@ -28,7 +28,8 @@ breadcrumbs: true
 
 * [Jesper Cockx](https://jesper.sikanda.be/) worked on refactoring a library for well-scoped syntax representations in Agda ([code](https://github.com/jespercockx/agda-core/blob/main/Scope.agda)). This is intended to be used in the Agda Core project to specify the typing rules of a core language for Agda in Agda, which will improve interoperability between Agda and other languages.
 
-* [Amélie Ledein](https://lmf.cnrs.fr/Perso/AmelieLedein)
+* Simon Guilloud and [Amélie Ledein](https://lmf.cnrs.fr/Perso/AmelieLedein) have continued a reduction of the Sequent Calculus system to Natural Deduction and lambda calculus (using Curry-Howard) inside Lambdapi thanks to rewriting rules. This work has started during the Dedukti meeting in January.
+They have also presented their work around LISA and K respectively.
 
 * [Gilles Dowek](http://www.lsv.fr/~dowek/) presented his work on deskolemization ([slides](http://www.lsv.fr/~dowek/Slides/skolem.pdf), [paper](https://arxiv.org/abs/2305.10016)) and has discussed with several members of the meeting about the implementation of a deskolemization algorithm.
 
@@ -52,8 +53,6 @@ breadcrumbs: true
 2. Worked with Frédéric Blanqui with the aim of completing the embedding of LambdaPi output from the GDV proof verifier (part of the TPTP World). We were so close when I had to leave, and I believe it will be done this week. This also motivated further work to provide remote access to the SystemOnTPTP server (part of the TPTP World) in Miami so that ZenonModulo can be accessed remotely from GDV. That will make it unnecessary to have SystemOnTPTP installed locally. Frederic has added information about the extended GDV tool to the COST action web site.
 3. Discussed the issue of verifying Skolemization steps with various attendees, and learned how Dedukti deals with it from Gilles Dowek's presentation. He presented the algorithm implemented in the SKonverto tool, which might be useful in GDV for generating LambdaPi output for Skolemization steps.
 4. Explained what I have been doing to Jesper Cockx, who leads WG1 of the COST action. I joined WG1 and provided the relevant papers to Dmitry Traytel to be added to the COST action web site.
-
-* Simon Guilloud
 
 * [David Delahaye](https://www.lirmm.fr/~delahaye/) has tested the latest version of [Zenon Modulo](https://github.com/Deducteam/zenon_modulo) (development version) on the [BWare project](http://bware.lri.fr/) benchmark. The results showed (with a low timeout of 3s) that we obtained similar results (10,459 proofs obtained over 12,828 problems) to the version of Zenon Modulo used in the BWare project (in 2016). David Delahaye also worked on the Lambdapi output for the [Goéland](https://github.com/GoelandProver/Goeland/) automated deduction tool (based on tableaux and the use of concurrency).
 
