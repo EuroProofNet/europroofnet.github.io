@@ -116,7 +116,7 @@ If you want to give a talk or if you want to apply for funding, fill out the [Re
 | 17:00 - 17:30 | Peter Koepke, Mateusz Marcol and Patrick Schäfer | [Formalizing Sets, Numbers, and some "Wiedijk Theorems" in Naproche](#koepke1)   |
 | 17:30 - 18:00 | Adrian De Lon       | Naproche Demo                                                                   |
 
-### Joint Session (Thrusday, September 7th)
+### Joint Session (Thursday, September 7th)
 
 | Time          | Speaker             | Title                                                                           |
 | ------------- | ------------------  | ------------------------------------------------------------------------------- |
