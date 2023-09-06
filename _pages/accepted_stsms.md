@@ -123,7 +123,7 @@ The grant amounts below are initial estimations and not necessarily the final am
   Grant: 1355 EUR  
   Dates: 2023-05-21 to 2023-05-27
 
-* **Liquid Monadic Intersection Types** [application](/_pages/stsm/treglia-app.pdf)   
+* **Liquid Monadic Intersection Types** [application](/_pages/stsm/treglia-app.pdf) [report](/_pages/stsm/treglia-rep.pdf)   
   Visitor: Riccardo Treglia (Università di Bologna, Italy)  
   Host: Mário Florido (University of Porto, Portugal)  
   Grant: 1990 EUR  
