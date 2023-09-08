@@ -147,7 +147,7 @@ If you want to give a talk or if you want to apply for funding, fill out the [Re
 ## Abstracts
 
 <a name="loukanova"></a>
-### Roussanka Loukanova - Rendering Natural Language of Mathematical Texts into Formal Languagee (Invited Talk)
+### Roussanka Loukanova - Rendering Natural Language of Mathematical Texts into Formal Language (Invited Talk)
 
 The language of mathematical texts, e.g., descriptions, definitions, statements, and proofs, is typically a specialised natural language, suitably interleaved with mathematical symbols and expressions. Fragments of mathematical language are carefully written, e.g., by:
 
