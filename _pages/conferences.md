@@ -7,6 +7,8 @@ author_profile: true
 
 To contribute to the web site, please open an [issue](https://github.com/EuroProofNet/europroofnet.github.io/issues), create a [pull request](https://github.com/EuroProofNet/europroofnet.github.io) or send a mail to the [science communication coordinators](../contact).
 
+- 6 May - 16 August 2024: [Trimester on Prospects of formal mathematics](https://www.him.uni-bonn.de/programs/future-programs/future-trimester-programs/prospects-of-formal-mathematics/description/), Hausdorff research institute for mathematics, Bonn, Germany
+
 - 4-8 September 2023: [16th Conference on Intelligent Computer Mathematics](https://cicm-conference.org/2023/cicm.php) (CICM'23), Cambridge, UK
 
 - 3-8 September 2023: [Artificial Intelligence and Theorem Proving 2023](http://aitp-conference.org/2023) (AITP'23), Aussois, France
