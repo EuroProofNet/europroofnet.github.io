@@ -71,7 +71,7 @@ The grant amounts below are initial estimations and not necessarily the final am
   Grant: 1421 EUR  
   Dates: 2023-05-22 to 2023-05-26
 
-* **Machine-learned premise selection for Agda: the prover’s infrastructure** [application](/_pages/stsm/melkonian-app.pdf)   
+* **Machine-learned premise selection for Agda: the prover’s infrastructure** [application](/_pages/stsm/melkonian-app.pdf) [report](/_pages/stsm/melkonian-rep.pdf)   
   Visitor: Orestis Melkonian  
   Host: Jean-Philippe Bernardy  
   Grant: 1092 EUR  
