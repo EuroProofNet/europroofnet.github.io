@@ -7,7 +7,19 @@ author_profile: true
 
 To contribute to the web site, please open an [issue](https://github.com/EuroProofNet/europroofnet.github.io/issues), create a [pull request](https://github.com/EuroProofNet/europroofnet.github.io) or send a mail to the [science communication coordinators](../contact).
 
+- 9-14 September 2024: [15th conference on Interactive Theorem Proving](https://itp-conference.github.io/) (ITP'24), Tbilisi, Georgia
+
 - 6 May - 16 August 2024: [Trimester on Prospects of formal mathematics](https://www.him.uni-bonn.de/programs/future-programs/future-trimester-programs/prospects-of-formal-mathematics/description/), Hausdorff research institute for mathematics, Bonn, Germany
+
+- 10-13 July 2024: [9th International Conference on Formal Structures for Computation and Deduction](https://cs.ioc.ee/fscd24/) (FSCD'24), Tallinn, Estonia
+
+- 8-12 July 2024: [39th Annual ACM/IEEE Symposium on Logic in Computer Science](https://lics.siglog.org/lics24/) (LICS'24), Tallinn, Estonia
+
+- 1-6 July 2024: [International Joint Conference on Automated Reasoning](https://merz.gitlabpages.inria.fr/2024-ijcar/) (IJCAR'24), Nancy, France
+
+- 6-11 April 2024: [European joint conferences on theory and practice of software](https://etaps.org/) (ETAPS'24), Luxembourg
+
+- 17-19 January 2024: [51st ACM SIGPLAN Symposium on Principles of Programming Languages](https://popl24.sigplan.org/) (POPL'24), London, UK
 
 - 4-8 September 2023: [16th Conference on Intelligent Computer Mathematics](https://cicm-conference.org/2023/cicm.php) (CICM'23), Cambridge, UK
 
