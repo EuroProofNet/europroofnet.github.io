@@ -6,6 +6,8 @@ author_profile: true
 breadcrumbs: true
 ---
 
+<img src="/_pages/WG4/Cambridge23/group-photo.jpg"/>
+
 This joint WG4-WG5 meeting consists of:
 
 - a Workshop on Natural Formal Mathematics (NatFoM) (September 6-7).
