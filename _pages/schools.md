@@ -7,6 +7,8 @@ author_profile: true
 
 To contribute to the web site, please open an [issue](https://github.com/EuroProofNet/europroofnet.github.io/issues), create a [pull request](https://github.com/EuroProofNet/europroofnet.github.io) or send a mail to the [science communication coordinators](../contact).
 
+- 13-17 May 2024: [School on Formal Mathematics](https://www.him.uni-bonn.de/programs/future-programs/future-trimester-programs/prospects-of-formal-mathematics/school-on-formal-mathematics/), Bonn, Germany
+
 - 18-23 June 2023: [Proof assistants for Teaching](https://pat2023.icube.unistra.fr/), Val d'Ajol, France
 
 - 28 August - 1 September 2023: [Summer School on Reactive Synthesis](http://tcs.uniud.it/summer-school/), Udine, Italy
