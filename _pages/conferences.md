@@ -9,13 +9,13 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 
 - 9-14 September 2024: [15th conference on Interactive Theorem Proving](https://itp-conference.github.io/) (ITP'24), Tbilisi, Georgia
 
-- 6 May - 16 August 2024: [Trimester on Prospects of formal mathematics](https://www.him.uni-bonn.de/programs/future-programs/future-trimester-programs/prospects-of-formal-mathematics/description/), Hausdorff research institute for mathematics, Bonn, Germany
-
 - 10-13 July 2024: [9th International Conference on Formal Structures for Computation and Deduction](https://cs.ioc.ee/fscd24/) (FSCD'24), Tallinn, Estonia
 
 - 8-12 July 2024: [39th Annual ACM/IEEE Symposium on Logic in Computer Science](https://lics.siglog.org/lics24/) (LICS'24), Tallinn, Estonia
 
 - 1-6 July 2024: [International Joint Conference on Automated Reasoning](https://merz.gitlabpages.inria.fr/2024-ijcar/) (IJCAR'24), Nancy, France
+
+- 6 May - 16 August 2024: [Trimester on Prospects of formal mathematics](https://www.him.uni-bonn.de/programs/future-programs/future-trimester-programs/prospects-of-formal-mathematics/description/), Hausdorff research institute for mathematics, Bonn, Germany
 
 - 6-11 April 2024: [European joint conferences on theory and practice of software](https://etaps.org/) (ETAPS'24), Luxembourg
 
