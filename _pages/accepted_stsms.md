@@ -23,7 +23,7 @@ The grant amounts below are initial estimations and not necessarily the final am
   Grant: 1587 EUR  
   Dates: 2023-07-15 to 2023-07-22
 
-* **Domain theory for program verification in Lean** [application](/_pages/stsm/cheval-app.pdf)   
+* **Domain theory for program verification in Lean** [application](/_pages/stsm/cheval-app.pdf) [report](/_pages/stsm/cheval-rep.pdf)   
   Visitor: Horatiu Cheval  
   Host: Vlad Rusu   
   Grant: 1159 EUR  
@@ -85,7 +85,7 @@ The grant amounts below are initial estimations and not necessarily the final am
   Dates: 2023-10-16 to 2023-10-20
 -->
 
-* **SMT solving and proofs for non-linear arithmetic** [application](/_pages/stsm/nalbach-app.pdf)   
+* **SMT solving and proofs for non-linear arithmetic** [application](/_pages/stsm/nalbach-app.pdf) [report](/_pages/stsm/nalbach-rep.pdf)  
   Visitor: Jasper Nalbach  
   Host: James Davenport and Matthew England  
   Grant: 2702 EUR  
