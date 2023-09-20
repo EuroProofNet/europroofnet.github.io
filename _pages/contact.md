@@ -48,7 +48,7 @@ the [Grant Holder](mailto:saf-saclay-recettes@inria.fr).
 
 - [WG2 on automated theorem provers](/wg2)
   * leader: [Alexander Steen](https://www.alexandersteen.de/)
-  * vice leader: [Pascal Fontaine](https://people.montefiore.uliege.be/pfontain/)
+  * vice leader: [Mathias Fleury](https://cca.informatik.uni-freiburg.de/fleury/)
   
 - [WG3 on program verification](/wg3)
   * leader: [Mădălina Eraşcu](https://merascu.github.io/)
