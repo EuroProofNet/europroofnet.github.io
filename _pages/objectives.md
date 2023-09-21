@@ -18,11 +18,11 @@ author_profile: true
 
 **Capacity Building Objectives**
 
-1. Bring together members of the different communities working on proofs in Europe. 		
-2. Act as a stakeholder platform in the field of formal proofs from its theoretical grounds to its industrial applications. 		
-3. Create an excellent and inclusive network of researchers in Europe with lasting collaboration beyond the lifetime of the Action. 		
-4. Ease access to formal verification techniques in education and other areas of science. 		
-5. Actively support young researchers, the under-represented gender, and teams from regions with less capacity. 		
-6. Transfer knowledge in terms of expertise, scientific tools and human resources across the different disciplines and between academia and industry. 		
-7. Prepare competitive EU researchers for a fruitful career in an international environment through intensive use of Short Term Scientific Missions (STSM) and joint educational programs with industry. 		
-8. Disseminate the results of the Action activities to the scientific community, the industry, the certification bodies, the European institutions and to the general public.
+9. Bring together members of the different communities working on proofs in Europe. 		
+10. Act as a stakeholder platform in the field of formal proofs from its theoretical grounds to its industrial applications. 		
+11. Create an excellent and inclusive network of researchers in Europe with lasting collaboration beyond the lifetime of the Action. 		
+12. Ease access to formal verification techniques in education and other areas of science. 		
+13. Actively support young researchers, the under-represented gender, and teams from regions with less capacity. 		
+14. Transfer knowledge in terms of expertise, scientific tools and human resources across the different disciplines and between academia and industry. 		
+15. Prepare competitive EU researchers for a fruitful career in an international environment through intensive use of Short Term Scientific Missions (STSM) and joint educational programs with industry. 		
+16. Disseminate the results of the Action activities to the scientific community, the industry, the certification bodies, the European institutions and to the general public.
