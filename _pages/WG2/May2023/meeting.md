@@ -83,30 +83,30 @@ Working alone or in small groups on the development of tools for automated theor
 
 ## Participants
 
-Bruno Andreotti
-Frédéric Blanqui
-Bernard Boigelot
-Guillaume Burel
-Roland Coghetto
-Alessio Coltellacci
-Robin Coutelier
-Bruno Dutertre
-Mathias Fleury
-Pascal Fontaine
-Chantal Keller
-Anja Petković Komel
-Lucas Michel
-Tanja Schindler
-Stephan Schulz
-Hans-Jörg Schurr
-Claude Stolze
-Martin Suda
-Alex Steen
+Bruno Andreotti,
+Frédéric Blanqui,
+Bernard Boigelot,
+Guillaume Burel,
+Roland Coghetto,
+Alessio Coltellacci,
+Robin Coutelier,
+Bruno Dutertre,
+Mathias Fleury,
+Pascal Fontaine,
+Chantal Keller,
+Anja Petković Komel,
+Lucas Michel,
+Tanja Schindler,
+Stephan Schulz,
+Hans-Jörg Schurr,
+Claude Stolze,
+Martin Suda,
+Alex Steen,
 Baptiste Vergain
 
 ## Activities
 
-On Thursday May 11 morning, Frederic Blanqui and Guillaume Burel presented Dedukti.  [Frédéric's slide set 1](https://europroofnet.github.io/_pages/WG1/Jun2022/frederic.pdf),
+On Thursday May 11 morning, Frédéric Blanqui and Guillaume Burel presented Dedukti.  [Frédéric's slide set 1](https://europroofnet.github.io/_pages/WG1/Jun2022/frederic.pdf),
 [Frédéric's slide set 2](https://resources.mpi-inf.mpg.de/departments/rg1/conferences/vtsa22/slides/lecture1.pdf),
 [Frédéric's slide set 3](https://resources.mpi-inf.mpg.de/departments/rg1/conferences/vtsa22/slides/lecture2.pdf), 
 [Guillaume's slides](/_pages/WG2/May2023/slides/Burel.pdf).  Thursday morning has been dedicated to understanding Dedukti, discussing previous works on transforming proofs from automated theorem provers to Dedukti, and details about encoding particular proof steps inside Dedukti.
