@@ -19,6 +19,8 @@ Participants invited at a meeting or school, and people having an approved STSM,
 
 - Participants must provide the Grant Holder with the **tickets and bills** of their travel and accommodation (at their name and address), and the **receipts of their meals** (lunch and dinner). In the event there are no receipts, the reimbursement will not be possible. These documents are necessary for making sure that the reimbursement is justified but the amount of the reimbursement is a fixed daily allowance (see more details below).
 
+- In case of shared hotel room, the person whose name is on the bill receives a full daily allowance, and the other persons receive 40% of the daily allowance.
+
 **Additional rules for meetings and schools:**
 
 - Participants must sign the attendance sheets during the meeting (only the days spent at the meeting are reimbursed).
