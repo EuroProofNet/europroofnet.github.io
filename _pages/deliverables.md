@@ -19,7 +19,7 @@ author_profile: true
     * [inventory](https://github.com/EuroProofNet/ATP/wiki)
 
 - Comparison of the approaches used in the international Software Verification competition SV-COMP.
-
+    * [inventory](https://github.com/EuroProofNet/ProgramVerification/wiki)
 - Definition of a mathematical framework for modular reasoning about type theories and their extensions.
 
 **September 2023:**
