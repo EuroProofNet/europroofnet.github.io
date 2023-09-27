@@ -6,7 +6,7 @@ author_profile: true
 breadcrumbs: true
 ---
 
-<!--img src="/_pages/WG1/Sep2023/XXX.jpg"/-->
+<img src="/_pages/WG1/Sep2023/IMG_20230927_130736.jpg"/>
 
 **Organizers:** Gilles Dowek, [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/) and Olivier Hermant
 
@@ -42,3 +42,7 @@ breadcrumbs: true
 |15:30-16:00|break|
 |16:00-16:45|categorical proofs|
 |16:45-17:30|scientific report|
+
+<img src="/_pages/WG1/Sep2023/IMG_20230927_151848.jpg"/>
+<img src="/_pages/WG1/Sep2023/IMG_20230927_151732.jpg"/>
+<img src="/_pages/WG1/Sep2023/IMG_20230927_132755.jpg"/>
