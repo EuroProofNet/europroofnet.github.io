@@ -7,26 +7,24 @@ author_profile: true
 
 **September 2022:**
 
-- Database gathering proofs from the proof systems Coq, HOL-Light and Matita, and their translations.
-
-    * [Logipedia](http://logipedia.inria.fr/), a browsable website providing a library of arithmetic results in various languages: Matita, Coq, Lean, PVS, OpenTheory, Dedukti
-    * [Nubo](https://github.com/Deducteam/nubo/), a set of metadata and scripts to download and check Dedukti libraries
+- [D1](../deliverable1). Database gathering proofs from the proof systems Coq, HOL-Light and Matita, and their translations.
 
 **March 2023:**
 
-- Inventory of automated theorem provers producing proofs, description of proof formats, and inventory of checking tools for these proof formats.
+- D2. Inventory of automated theorem provers producing proofs, description of proof formats, and inventory of checking tools for these proof formats.
 
     * [EuroProofNet Automated Theorem Proving Wiki](https://github.com/EuroProofNet/ATP/wiki)
 
-- Comparison of the approaches used in the international Software Verification competition SV-COMP and other relevant ones.
+- D3. Comparison of the approaches used in the international Software Verification competition SV-COMP and other relevant ones.
     * [EuroProofNet Program Verification Wiki](https://github.com/EuroProofNet/ProgramVerification/wiki)
     * Presentation: Beyer, D. [Verification Tools, Exchange Formats, and Combination Approaches](https://europroofnet.github.io/_pages/WG3/Feb2023/Slides/DirkVerification.pdf). Contributed talk in the EuroProofNet - WG3 meeting.
     * Paper: Bhayat, A., Georgiou, P., Eisenhofer, C., Kovács, L., Reger, G. (2022). [Lemmaless Induction in Trace Logic](https://doi.org/10.1007/978-3-031-16681-5_14). In: Buzzard, K., Kutsia, T. (eds) Intelligent Computer Mathematics. CICM 2022. Lecture Notes in Computer Science, vol 13467. Springer, Cham.
-- Definition of a mathematical framework for modular reasoning about type theories and their extensions.
+
+- D4. Definition of a mathematical framework for modular reasoning about type theories and their extensions.
 
 **September 2023:**
 
-- Release of software for translating proofs coming from important proof systems based on type theory like Isabelle, Agda, PVS, Lean or Minlog, to Dedukti and back.
+- D5. Release of software for translating proofs coming from important proof systems based on type theory like Isabelle, Agda, PVS, Lean or Minlog, to Dedukti and back.
 
     * [hol2dk](https://github.com/Deducteam/hol2dk): HOL-Light to Dedukti, Lambdapi and Coq
     * [lambdapi](https://lambdapi.readthedocs.io/en/latest/options.html#export): Dedukti and Lambdapi to Coq
@@ -39,9 +37,9 @@ author_profile: true
     * [STTfaXport](https://github.com/Deducteam/sttfaxport): Dedukti/STTfa to Coq, Lean, PVS, Matita, OpenTheory
     * [Krajono](https://github.com/Deducteam/Krajono): Matita to Dedukti
     
-- Software prototype for the automated inference of program specifications as logical axioms.
+- D6. Software prototype for the automated inference of program specifications as logical axioms.
 
-- Tools for managing the dependencies between proofs, and querying and searching the database.
+- D7. Tools for managing the dependencies between proofs, and querying and searching the database.
 
     * [FindFacts](https://search.isabelle.in.tum.de/): search application to find formal theory content of Isabelle and the AFP
     * [SErAPIS](https://behemoth.cl.cam.ac.uk/search/): search engine for the Isabelle 2021 and Archive of Formal Proofs 2021 libraries
@@ -50,11 +48,11 @@ author_profile: true
     
 **March 2024:**
 
-- Detailed technical report on the evaluation of techniques for learning proof search guidance and premise selection in automated theorem provers.
+- D8. Detailed technical report on the evaluation of techniques for learning proof search guidance and premise selection in automated theorem provers.
 
 **January 2025:**
 
-- Software for translating proof formats used by automated theorem provers to Dedukti.
+- D9. Software for translating proof formats used by automated theorem provers to Dedukti.
 
     * [ZenonModulo](https://github.com/Deducteam/zenon_modulo)
     * [ArchSAT](https://github.com/Gbury/archsat)
@@ -65,16 +63,16 @@ author_profile: true
 
 **September 2025:**
 
-- Release of software for translating proofs coming from important proof systems based on set theory like Mizar, Atelier B or TLAPS to Dedukti and back.
+- D10. Release of software for translating proofs coming from important proof systems based on set theory like Mizar, Atelier B or TLAPS to Dedukti and back.
 
     * [B-pog-translator](https://github.com/Deducteam/B-pog-translator): translator from Atelier B proof obligation files to Lambdapi
     
-- Collection of verification challenges with summary of working recipes for verifying them.
+- D11. Collection of verification challenges with summary of working recipes for verifying them.
 
-- Technique for syntax-semantics interface for program verification with or without type systems.
+- D12. Technique for syntax-semantics interface for program verification with or without type systems.
 
-- Extension of the database and associated tools to other systems like Agda, Minlog, PVS, Lean, Mizar, Atelier B, TLAPS.
+- D13. Extension of the database and associated tools to other systems like Agda, Minlog, PVS, Lean, Mizar, Atelier B, TLAPS.
 
-- White paper on including restricted natural language proof formats to existing proof libraries.
+- D14. White paper on including restricted natural language proof formats to existing proof libraries.
 
-- Prototype implementation of the mathematical framework, with basic user interface, user documentation and gallery of examples of type theories.
+- D15. Prototype implementation of the mathematical framework, with basic user interface, user documentation and gallery of examples of type theories.
