@@ -137,13 +137,13 @@ If you want to give a talk or if you want to apply for funding, fill out the [Re
 | Time          | Speaker             | Title                                                                           |
 | ------------- | ------------------  | ------------------------------------------------------------------------------- |
 | | | **Session 22: Invited talk & Paper presentation (Chair: TBA)** |
-| 14:00 - 15:00 | Kyle Miller         | [**Invited Talk** Informalizing formalized mathematics using the Lean theorem prover](#miller)    |
+| 14:00 - 15:00 | Kyle Miller         | [**Invited Talk** Informalizing formalized mathematics using the Lean theorem prover](#miller) [[slides]](miller.pdf)   |
 | 15:00 - 15:30 | Katie Collins       | [CheckMate: an adaptable prototype platform for humans to interact with and evaluate LLMs](#collins)              |
 | 15:30 - 16:00 | Farah Al Wardani    | [Formal Reasoning using Distributed Assertions](#wardani)                       |
 | 16:00 - 16:30 | ------------------- | **Coffee Break**                                                                       |
 | | | **Session 23:  Paper presentation (Chair: TBA)** |
 | 16:30 - 17:00 | Anand Rao Tadipatri | [LeanAIde - A statement autoformalisation tool for the Lean theorem prover](#tadipatri)       |
-| 17:00 - 17:30 | Adrian Groza        | [Solving logical puzzles with ChatGPT](#groza)                                  |
+| 17:00 - 17:30 | Adrian Groza        | [Solving logical puzzles with ChatGPT](#groza) [[slides]](groza.pdf)                                 |
 | 17:30 - 18:00 | Claudio Sacerdoti Coen | [An indexer and query language for libraries written in LambdaPi/Dedukti](#coen)      |
 
 ## Abstracts
@@ -535,7 +535,7 @@ References:
 - [10] Yuhuai Wu et al. “Autoformalization with large language models”. In: Advances in Neural Information Processing Systems 35 (2022), pp. 32353–32368.
 
 <a name="groza"></a>
-### Adrian Groza - Solving logical puzzles with ChatGPT
+### Adrian Groza - Solving logical puzzles with ChatGPT [[slides]](groza.pdf)
 I will show the limitations and merits of Large Language Models (LLMs) to solve logic puzzles. For experiments I use the 144 puzzles from the library https://users.utcluj.ro/~agroza/puzzles/maloga [1]. The library contains puzzles of various types, including arithmetic puzzles, logical equations, Sudoku-like puzzles, zebra-like puzzles, truth telling puzzles, grid puzzles, strange numbers, or self-reference puzzles. The correct solutions were obtained using Prover9 and Mace4 based on human-modelling in Equational First Order Logic. 
 
 The aim is to investigate how many of these 144 puzzles are actually solved by LLMs. Part of these puzzles have graphical input that makes them difficult to be textualised for ChatGPT, e.g. Futoshiki, Kakurasu, Takuzo, Kakuro. After eliminating these graphical puzzles, a set of 100 logical puzzles remains. Each puzzle was prompted to ChatGPT with ``Solve this puzzle''. The results have been classified as follows. Only 7 puzzles were correctly solved and backed by correct reasoning. 1 puzzle was correct, but only incomplete justification was provided by the language model. For 9 puzzles the correct solution was provided, but backed by faulty justifications or reasoning chain – the correctness was actually a guess since some of the puzzles ask to check if a given sentence is  true or false. Wrong solutions backed by faulty reasoning were provided for 70 puzzles. Additionally to these wrongly solved puzzles, there were the following answers from ChatGPT: claiming no solution when one exists, claiming not enough information to solve the task, or providing wrong solutions without no justification at all. There was one case in which, instead of the exact solution, an inefficient but valid algorithm was provided. Of the most interest might be  one puzzle for which ChatGPT admitted its inability to solve it. 

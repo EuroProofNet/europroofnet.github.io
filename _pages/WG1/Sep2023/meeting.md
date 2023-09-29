@@ -21,11 +21,11 @@ breadcrumbs: true
 **Tuesday 26 September:**
 
 |10:30-10:45|arrival|
-|10:45-11:30|automated theorem provers [Alessio Coltellacci](coltellacci.pdf)|
-|11:30-12:15|set theory|
+|10:45-11:30|[Alethe to Dedukti](alethe.pdf)|
+|11:30-12:15|[set theory](set_theory.pdf)|
 |12:15-14:00|lunch|
-|14:00-14:45|type universes|
-|14:45-15:45|homotopy/cubical type theory|
+|14:00-14:45|[type universes](universes.pdf)|
+|14:45-15:45|[make implicit conversion explicit](transport.pdf)|
 |15:45-16:15|break|
 |16:15-17:00|effective translation of libraries|
 |17:00-18:00|discussion on the group organization|
@@ -38,6 +38,7 @@ breadcrumbs: true
 |10:30-11:00|break|
 |11:00-11:45|arithmetic|
 |12:00-14:00|lunch|
+|14:00-14:45|cubical type theory|
 |14:45-15:30|semantics of programming languages|
 |15:30-16:00|break|
 |16:00-16:45|categorical proofs|
