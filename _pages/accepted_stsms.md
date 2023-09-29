@@ -111,7 +111,7 @@ The grant amounts below are initial estimations and not necessarily the final am
   Grant: 2369 EUR  
   Dates: 2023-04-26 to 2023-05-05
 
-* **Formal Specification and Verification of Attestation in Confidential Computing** [application](/_pages/stsm/sardar-app.pdf) [report](/_pages/stsm/sardar-rep.pdf)  
+* **Formal Specification and Verification of Attestation in Confidential Computing** [application](/_pages/stsm/sardar1-app.pdf) [report](/_pages/stsm/sardar-rep.pdf)  
   Visitor: Muhammad Usama Sardar (Chair of Systems Engineering, Dresden, Germany)  
   Host: Lilia Georgieva (Heriot-Watt University, Edinburgh, UK)  
   Grant: 2041 EUR  
