@@ -7,13 +7,11 @@ author_profile: true
 
 **September 2022:**
 
-- [D1](../deliverable1). Database gathering proofs from the proof systems Coq, HOL-Light and Matita, and their translations.
+- D1. Database gathering proofs from the proof systems Coq, HOL-Light and Matita, and their translations. [[link]](../deliverable1)
 
 **March 2023:**
 
-- D2. Inventory of automated theorem provers producing proofs, description of proof formats, and inventory of checking tools for these proof formats.
-
-    * [EuroProofNet Automated Theorem Proving Wiki](https://github.com/EuroProofNet/ATP/wiki)
+- D2. Inventory of automated theorem provers producing proofs, description of proof formats, and inventory of checking tools for these proof formats. [[link]](https://github.com/EuroProofNet/ATP/wiki)
 
 - D3. Comparison of the approaches used in the international Software Verification competition SV-COMP and other relevant ones.
     * [EuroProofNet Program Verification Wiki](https://github.com/EuroProofNet/ProgramVerification/wiki)
