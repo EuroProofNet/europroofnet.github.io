@@ -24,6 +24,13 @@ author_profile: true
     * Paper: Bhayat, A., Georgiou, P., Eisenhofer, C., Kovács, L., Reger, G. (2022). [Lemmaless Induction in Trace Logic](https://doi.org/10.1007/978-3-031-16681-5_14). In: Buzzard, K., Kutsia, T. (eds) Intelligent Computer Mathematics. CICM 2022. Lecture Notes in Computer Science, vol 13467. Springer, Cham.
 - Definition of a mathematical framework for modular reasoning about type theories and their extensions.
 
+    * Taichi Uemura: A General Framework for the Semantics of Type Theory. https://arxiv.org/abs/1904.04097, https://dblp.org/rec/journals/corr/abs-1904-04097
+    * Andrej Bauer, Anja Petkovic Komel: An extensible equality checking algorithm for dependent type theories. Log. Methods Comput. Sci. 18(1) (2022), https://doi.org/10.46298/lmcs-18%281%3A17%292022, https://dblp.org/rec/journals/lmcs/BauerK22
+    * Philipp G. Haselwarter, Andrej Bauer: Finitary type theories with and without contexts. https://arxiv.org/abs/2112.00539, https://dblp.org/rec/journals/corr/abs-2112-00539
+    * Andrej Bauer, Philipp G. Haselwarter, Anja Petkovic: Equality Checking for General Type Theories in Andromeda 2. ICMS 2020: 253-259, https://link.springer.com/chapter/10.1007/978-3-030-52200-1_25, https://dblp.org/rec/conf/icms/BauerHP20
+    * Andrej Bauer, Philipp G. Haselwarter, Peter LeFanu Lumsdaine: A general definition of dependent type theories. https://arxiv.org/abs/2009.05539, https://dblp.org/rec/journals/corr/abs-2009-05539
+    * Benedikt Ahrens, Jacopo Emmenegger, Paige R. North, Egbert Rijke: Algebraic presentations of dependent type theories, https://arxiv.org/abs/2111.09948 (see also https://doi.org/10.1017/jsl.2023.41)
+
 **September 2023:**
 
 - Release of software for translating proofs coming from important proof systems based on type theory like Isabelle, Agda, PVS, Lean or Minlog, to Dedukti and back.
