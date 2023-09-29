@@ -41,7 +41,7 @@ The grant amounts below are initial estimations and not necessarily the final am
   Grant: 2284 EUR  
   Dates: 2023-09-11 to 2023-09-22
 
-* **Representation of Proofs via Hierarchical Higher-Order Port Graphs** [application](/_pages/stsm/fernandez-app.pdf)   
+* **Representation of Proofs via Hierarchical Higher-Order Port Graphs** [application](/_pages/stsm/fernandez-app.pdf) [application](/_pages/stsm/fernandez2-app.pdf)    
   Visitor: Maribel Fernandez  
   Host: Sandra Alves   
   Grant: 1862 EUR  
