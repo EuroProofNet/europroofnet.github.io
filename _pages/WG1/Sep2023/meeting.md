@@ -21,7 +21,7 @@ breadcrumbs: true
 **Tuesday 26 September:**
 
 |10:30-10:45|arrival|
-|10:45-11:30|automated theorem provers|
+|10:45-11:30|automated theorem provers [Alessio Coltellacci](coltellacci.pdf)|
 |11:30-12:15|set theory|
 |12:15-14:00|lunch|
 |14:00-14:45|type universes|
