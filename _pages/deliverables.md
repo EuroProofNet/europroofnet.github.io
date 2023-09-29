@@ -21,7 +21,7 @@ author_profile: true
 - Comparison of the approaches used in the international Software Verification competition SV-COMP and other relevant ones.
     * [inventory](https://github.com/EuroProofNet/ProgramVerification/wiki)
     * Presentation: Beyer, D. [Verification Tools, Exchange Formats, and Combination Approaches](https://europroofnet.github.io/_pages/WG3/Feb2023/Slides/DirkVerification.pdf). Contributed talk in the EuroProofNet - WG3 meeting.
-    * Paper: Bhayat, A., Georgiou, P., Eisenhofer, C., Kovács, L., Reger, G. (2022). Lemmaless Induction in Trace Logic. In: Buzzard, K., Kutsia, T. (eds) Intelligent Computer Mathematics. CICM 2022. Lecture Notes in Computer Science, vol 13467. Springer, Cham. https://doi.org/10.1007/978-3-031-16681-5_14
+    * Paper: Bhayat, A., Georgiou, P., Eisenhofer, C., Kovács, L., Reger, G. (2022). [Lemmaless Induction in Trace Logic](https://doi.org/10.1007/978-3-031-16681-5_14). In: Buzzard, K., Kutsia, T. (eds) Intelligent Computer Mathematics. CICM 2022. Lecture Notes in Computer Science, vol 13467. Springer, Cham.
 - Definition of a mathematical framework for modular reasoning about type theories and their extensions.
 
 **September 2023:**
