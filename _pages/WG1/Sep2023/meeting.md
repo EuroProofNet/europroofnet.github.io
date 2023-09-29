@@ -1,5 +1,5 @@
 ---
-title: "Inter-WG developers meeting"
+title: "WG1+4 meeting"
 layout: single
 permalink: /WG1+4-meeting-Sep2023/
 author_profile: true
