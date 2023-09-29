@@ -9,8 +9,8 @@ author_profile: true
 
 - Database gathering proofs from the proof systems Coq, HOL-Light and Matita, and their translations.
 
-    * [Logipedia](http://logipedia.inria.fr/)
-    * [Nubo](https://github.com/Deducteam/nubo/)
+    * [Logipedia](http://logipedia.inria.fr/), a browsable website providing a library of arithmetic results in various languages: Matita, Coq, Lean, PVS, OpenTheory, Dedukti
+    * [Nubo](https://github.com/Deducteam/nubo/), a set of metadata and scripts to download and check Dedukti libraries
 
 **March 2023:**
 
