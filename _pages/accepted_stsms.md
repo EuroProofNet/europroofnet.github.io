@@ -59,7 +59,7 @@ The grant amounts below are initial estimations and not necessarily the final am
   Grant: 2702 EUR  
   Dates: 2023-08-28 to 2023-09-08
 
-* **Neural Premise Selection for Agda** [application](/_pages/stsm/kogkalidis-app.pdf)   
+* **Neural Premise Selection for Agda** [application](/_pages/stsm/kogkalidis-app.pdf) [report](/_pages/stsm/kogkalidis-rep.pdf)    
   Visitor: Konstantinos Kogkalidis  
   Host: Jean-Philippe Bernardy  
   Grant: 1105 EUR  
