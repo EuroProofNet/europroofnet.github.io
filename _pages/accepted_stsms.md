@@ -91,7 +91,7 @@ The grant amounts below are initial estimations and not necessarily the final am
   Grant: 2702 EUR  
   Dates: 2023-08-28 to 2023-09-08
 
-* **An interface for category theory in coq, applied to univalent foundations** [application](/_pages/stsm/chabassier-app.pdf)   
+* **An interface for category theory in coq, applied to univalent foundations** [application](/_pages/stsm/chabassier-app.pdf)  [report](/_pages/stsm/chabassier-app.pdf)   
   Visitor: Luc Chabassier  
   Host: Benedikt Ahrens  
   Grant: 2082 EUR  
