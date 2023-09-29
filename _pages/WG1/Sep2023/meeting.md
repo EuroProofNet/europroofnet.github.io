@@ -41,7 +41,7 @@ breadcrumbs: true
 |14:00-14:45|cubical type theory|
 |14:45-15:30|semantics of programming languages|
 |15:30-16:00|break|
-|16:00-16:45|categorical proofs|
+|16:00-16:45|[categorical proofs](category_theory.pdf)|
 |16:45-17:30|scientific report|
 
 <img src="/_pages/WG1/Sep2023/IMG_20230927_151848.jpg"/>
