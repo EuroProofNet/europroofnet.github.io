@@ -13,5 +13,9 @@ computer-assisted reasoning can be extended to proofs that are represented in
 (controlled) natural languages.
 
 ### Activities
+
+- 6-8 September 2023: [Joint WG4-WG5 meeting/Workshop on Natural Formal Mathematics, and on libraries of formal proofs and natural mathematical language](../cambridge-2023), Cambridge, UK
+
 - 18-20 April 2023: WG meeting co-organized  with [Joint Workshops (PAMLTP) and (DG4D^3)](/Prague23), Prague (Czechia)
+
 - 5-8 September 2022: WG meeting [*Machine Learning for Theorem Proving*](/wg5-aitp22) co-organized with [AITP'22](http://aitp-conference.org/2022/) conference, Aussois (France)

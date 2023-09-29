@@ -19,6 +19,9 @@ We use a [git repository](https://github.com/EuroProofNet/ProgramVerification) t
 [inventory of program verification tools](https://github.com/EuroProofNet/ProgramVerification/wiki).
 
 ### Activities
+
+- 28 August - 1st September 2023: [School on Verification Technology, Systems & Applications](https://resources.mpi-inf.mpg.de/departments/rg1/conferences/vtsa23/), Nancy, France
+
 - 8-9 February 2023: [Second WG3 meeting webpage](../wg3-timisoara) 
 
 - 5-9 September 2022: [EuroProofNet Summer School on Verification Technology, Systems & Applications](https://resources.mpi-inf.mpg.de/departments/rg1/conferences/vtsa22/) (VTSA'22), Saarbrücken, Germany

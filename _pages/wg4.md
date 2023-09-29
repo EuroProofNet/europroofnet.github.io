@@ -13,6 +13,12 @@ the entire collection nor of the system that was used to develop the proofs.
 
 ### Activities
 
+- 26-27 September 2023: [WG1+4 meeting](../WG1+4-meeting-Sep2023), Fontainebleau, France
+
+- 6-8 September 2023: [Joint WG4-WG5 meeting/Workshop on Natural Formal Mathematics, and on libraries of formal proofs and natural mathematical language](../cambridge-2023), Cambridge, UK
+
+- 25-27 July 2023: [Inter-WG developers meeting](../dk-meeting-july2023), Le Val d'Ajol, France
+
 - 23-24 September 2022: WG4 kick-off meeting, Tbilisi, Georgia, at the [Computational Logic Autumn Summit 2022](https://viam.science.tsu.ge/clas2022/) with the [15th Conference on Intelligent Computer Mathematics](https://cicm-conference.org/2022/cicm.php) (CICM)
 
 - 24 June 2022: [Introduction to WG4 by Claudio Sacerdoti](https://europroofnet.github.io/_pages/WG1/Jun2022/claudio.pdf)

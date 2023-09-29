@@ -12,7 +12,6 @@ author_profile: true
 **Past events:**
 
 - 26-27 September 2023: [WG1+4 meeting](../WG1+4-meeting-Sep2023), Fontainebleau, France
-
 - 6-8 September 2023: [Joint WG4-WG5 meeting/Workshop on Natural Formal Mathematics, and on libraries of formal proofs and natural mathematical language](../cambridge-2023), Cambridge, UK
 - 28 August - 1st September 2023: [School on Verification Technology, Systems & Applications](https://resources.mpi-inf.mpg.de/departments/rg1/conferences/vtsa23/), Nancy, France
 - 31 July 2023: [Women in EuroProofNet](../women-epn-2023), Bialystok, Poland

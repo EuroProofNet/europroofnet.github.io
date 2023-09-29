@@ -13,6 +13,10 @@ by developing tools to translate proofs from one system to another.
 
 ### Activities
 
+- 26-27 September 2023: [WG1+4 meeting](../WG1+4-meeting-Sep2023), Fontainebleau, France
+
+- 25-27 July 2023: [Inter-WG developers meeting](../dk-meeting-july2023), Le Val d'Ajol, France
+
 - 11-13 May 2023: [Developers meeting on proof generating automated theorem provers](../dk-meeting3), Liège, Belgium
 
 * 27-29 January 2023: [2nd Dedukti tools developers meeting](../dk-meeting2), Fréjus, France
