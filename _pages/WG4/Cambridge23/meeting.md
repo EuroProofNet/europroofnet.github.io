@@ -471,11 +471,11 @@ Proving the details required for formal proofs in Category Theory is often tedio
 
 All the work presented is formalized in the Coq Proof Assistant. This is a crucial aspect of the research programme where constructiveness and computability of the formalized proof is a motivating property.
 
-- [1]  Jason Z. S. Hu and Jacques Carette. 2021. Formalizing Category Theory in Agda. In Proceedings of the 10th ACM SIGPLAN International Conference on Certified Programs and Proofs (Virtual, Denmark) (CPP 2021). Association for Computing Machinery, New York, NY, USA, 327–342. https://doi.org/10.1145/3437992.3439922
-- [2] Djorde Čubrić, Peter Dybjer, and Philip Scott. 1998. Normalization and the Yoneda Embedding. Mathematical Structures in Computer Science 8, 2 (apr 1998), 153–192. https://doi.org/10.1017/S0960129597002508
+- [1]  Jason Z. S. Hu and Jacques Carette. 2021. [Formalizing Category Theory in Agda](https://doi.org/10.1145/3437992.3439922). In Proceedings of the 10th ACM SIGPLAN International Conference on Certified Programs and Proofs (Virtual, Denmark) (CPP 2021). Association for Computing Machinery, New York, NY, USA, 327–342.
+- [2] Djorde Čubrić, Peter Dybjer, and Philip Scott. 1998. [Normalization and the Yoneda Embedding](https://doi.org/10.1017/S0960129597002508). Mathematical Structures in Computer Science 8, 2 (apr 1998), 153–192.
 
 <a name="miller"></a>
-### Kyle Miller - Informalizing formalized mathematics using the Lean theorem prover (Invited Talk)
+### Kyle Miller - Informalizing formalized mathematics using the Lean theorem prover (Invited Talk) [[slides]](miller.pdf)
 One of the applications of interactive theorem provers in pure mathematics is being able to produce machine-verified formal proofs. I will talk about a less-obvious application, which is using formalized mathematics to author interactive informal expositions. I will demonstrate a prototype of an "auto-informalization" system written in Lean that presents the reader with an interface to view proofs at a desired level of detail.  I will also discuss thoughts on the impact of such tools in mathematics. This is joint work with Patrick Massot.
 
 <a name="collins"></a>
