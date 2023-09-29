@@ -17,7 +17,7 @@ The grant amounts below are initial estimations and not necessarily the final am
 
 ## 6th call (8 May 2023)
 
-* **Reconstruction of incomplete theorems and incomplete proofs with Larus** [application](/_pages/stsm/tabet-app.pdf)   
+* **Reconstruction of incomplete theorems and incomplete proofs with Larus** [application](/_pages/stsm/tabet-app.pdf) [report](/_pages/stsm/tabet-rep.pdf)   
   Visitor: Salwa Tabet Gonzalez   
   Host: Predrag Janicic   
   Grant: 1587 EUR  
@@ -29,13 +29,13 @@ The grant amounts below are initial estimations and not necessarily the final am
   Grant: 1159 EUR  
   Dates: 2023-09-04 to 2023-09-10
   
-* **Formal Specification and Verification of Attestation in Confidential Computing** [application](/_pages/stsm/sardar-app.pdf)   
+* **Formal Specification and Verification of Attestation in Confidential Computing** [application](/_pages/stsm/sardar-app.pdf)  [report](/_pages/stsm/sardar-rep.pdf)   
   Visitor: Muhammad Usama Sardar   
   Host:  Lilia Georgieva    
   Grant: 1583 EUR  
-  Dates: 2023-09-10 to 2023-09-014
+  Dates: 2023-09-10 to 2023-09-14
 
-* **Automatic verification of floating-point programs using Constrained Horn Solvers** [application](/_pages/stsm/amilon-app.pdf)   
+* **Automatic verification of floating-point programs using Constrained Horn Solvers** [application](/_pages/stsm/amilon-app.pdf)  [report](/_pages/stsm/amilon-rep.pdf)   
   Visitor: Jasper Amilon    
   Host: Philipp Rümmer   
   Grant: 2284 EUR  
@@ -45,15 +45,15 @@ The grant amounts below are initial estimations and not necessarily the final am
   Visitor: Maribel Fernandez  
   Host: Sandra Alves   
   Grant: 1862 EUR  
-  Dates: 2023-09-11 to 2023-09-18
+  Dates: 2023-09-12 to 2023-09-19
   
-* **Using Coq to formalise differentiable logics for neural network** [application](/_pages/stsm/name-app.pdf)   
+* **Using Coq to formalise differentiable logics for neural network** [application](/_pages/stsm/name-app.pdf)  [report](/_pages/stsm/slusarz-rep.pdf)   
   Visitor: Natalia Slusarz  
   Host:  Alessandro Bruni   
   Grant: 1478 EUR  
-  Dates: 2023-09-18 to 2023-09-23
+  Dates: 2023-09-17 to 2023-09-23
   
-* **Proof calculus for Real Algebraic Geometry** [application](/_pages/stsm/michel-app.pdf)   
+* **Proof calculus for Real Algebraic Geometry** [application](/_pages/stsm/michel-app.pdf) [report](/_pages/stsm/michel-rep.pdf)   
   Visitor: Lucas Michel  
   Hosts: James Davenport and Matthew England  
   Grant: 2702 EUR  
@@ -63,7 +63,7 @@ The grant amounts below are initial estimations and not necessarily the final am
   Visitor: Konstantinos Kogkalidis  
   Host: Jean-Philippe Bernardy  
   Grant: 1105 EUR  
-  Dates: 2023-09-11 to 2023-09-15
+  Dates: 2023-09-05 to 2023-09-12
 
 * **Translation of HOL4 proofs to Dedukti and Lambdapi** [application](/_pages/stsm/blanqui-app.pdf) [report](/_pages/stsm/blanqui-rep.pdf)   
   Visitor: Frédéric Blanqui  
