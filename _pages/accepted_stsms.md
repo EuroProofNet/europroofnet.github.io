@@ -29,7 +29,7 @@ The grant amounts below are initial estimations and not necessarily the final am
   Grant: 1159 EUR  
   Dates: 2023-09-04 to 2023-09-10
   
-* **Formal Specification and Verification of Attestation in Confidential Computing** [application](/_pages/stsm/sardar-app.pdf)  [report](/_pages/stsm/sardar-rep.pdf)   
+* **Formal Specification and Verification of Attestation in Confidential Computing** [application](/_pages/stsm/sardar-app.pdf)  [report](/_pages/stsm/sardar2-rep.pdf)   
   Visitor: Muhammad Usama Sardar   
   Host:  Lilia Georgieva    
   Grant: 1583 EUR  
