@@ -124,7 +124,7 @@ If you want to give a talk or if you want to apply for funding, fill out the [Re
 | ------------- | ------------------  | ------------------------------------------------------------------------------- |
 | | | **Session 16B: Invited talk & Paper presentation (Chair: Angeliki Koutsoukou-Argyraki)** |
 | 14:00 - 15:00 | William Farmer      | [**Invited Talk** Little Theories: A Method for Organizing Mathematical Knowledge Illustrated Using Alonzo, a Practice-Oriented Version of Simple Type Theory](#farmer)    |
-| 15:00 - 15:30 | Lucy Horowitz       | [MathGloss: Linked Undergraduate Math Concepts](#horowitz)                      |
+| 15:00 - 15:30 | Lucy Horowitz       | [MathGloss: Linked Undergraduate Math Concepts](#horowitz) [[slides]](horowitz.pdf)                     |
 | 15:30 - 16:00 | Marcel Schütz       | [Foundational libraries in Naproche](#schuetz)                                  |
 | 16:00 - 16:30 | ------------------- | **Coffee Break**                                                                       |
 | | | **Session 17:  Paper presentation (Chair: Peter Koepke)** |
@@ -399,7 +399,7 @@ of mathematical ideas over the formal certification of mathematical results.
 - [8] M. Kohlhase, F. Rabe, and V. Zholudev. Towards MKM in the large: Modular representation and scalable software architecture. In S. Autexier, J. Calmet, D. Delahaye, P. D. F. Ion, L. Rideau, R. Rioboo, and A. P. Sexton, editors, Intelligent Computer Mathematics, volume 6167 of Lecture Notes in Computer Science, pages 370–384. Springer, 2010.
 
 <a name="horowitz"></a>
-### Lucy Horowitz - MathGloss: Linked Undergraduate Math Concepts
+### Lucy Horowitz - MathGloss: Linked Undergraduate Math Concepts [[slides]](horowitz.pdf)
 Mathematics is made up of a vast web of interrelated concepts and definitions. To successfully formalize a proof, a mathematician must first possess a deep understanding of the concepts involved. As mathematical knowledge continues to expand in both breadth and depth, it is becoming increasingly challenging for individual mathematicians to be fluent in multiple areas of mathematics. MathGloss seeks to partially address this issue by creating a unified framework for organizing and accessing mathematical concepts, enabling individuals to effortlessly navigate and comprehend them.
 
 Concepts in mathematics are delineated by their definitions, and yet these definitions may take different forms depending on the context in which they are used. Notably, definitions in the proof assistant Lean look very different from the definitions found in undergraduate math textbooks. By gathering and connecting different definitions of the same concept from different sources, we hope to enable both novice and seasoned mathematicians to unify their understanding of basic concepts with an eye to formalization. This is done from several corpora as follows: 
