@@ -109,7 +109,7 @@ If you want to give a talk or if you want to apply for funding, fill out the [Re
 | Time          | Speaker             | Title                                                                           |
 | ------------- | ------------------  | ------------------------------------------------------------------------------- |
 | | | **Session 10C: Invited talk & Paper presentation (Chair: Dennis Müller)** |
-| 14:00 - 15:00 | Roussanka Loukanova | [**Invited Talk** Type Theories for Computational Grammar of Natural Language](#loukanova)    |
+| 14:00 - 15:00 | Roussanka Loukanova | [**Invited Talk** Type Theories for Computational Grammar of Natural Language](#loukanova) [[slides]](loukanova.pdf)   |
 | 15:00 - 15:30 | Peter Koepke        | [Experiences with Natural Language Proof Checking](#koepke2)                                |
 | 15:30 - 16:00 | Adrian De Lon       | [Scaling a natural proof assistant step by step](#delon)                                  |
 | 16:00 - 16:30 |                     | **Coffee Break**                                                                       |
@@ -128,7 +128,7 @@ If you want to give a talk or if you want to apply for funding, fill out the [Re
 | 15:30 - 16:00 | Marcel Schütz       | [Foundational libraries in Naproche](#schuetz)                                  |
 | 16:00 - 16:30 | ------------------- | **Coffee Break**                                                                       |
 | | | **Session 17:  Paper presentation (Chair: Peter Koepke)** |
-| 16:30 - 17:00 | David Berry         | [Categorical Proofs are Natural Proofs](#berry)                                 |
+| 16:30 - 17:00 | David Berry         | [Categorical Proofs are Natural Proofs](#berry) [[slides]](berry.pdf)                                |
 | 17:00 - 18:00 | ------------------- | **Panel Discussion**                                                            |
 
 
@@ -149,7 +149,7 @@ If you want to give a talk or if you want to apply for funding, fill out the [Re
 ## Abstracts
 
 <a name="loukanova"></a>
-### Roussanka Loukanova - Rendering Natural Language of Mathematical Texts into Formal Language (Invited Talk)
+### Roussanka Loukanova - Rendering Natural Language of Mathematical Texts into Formal Language (Invited Talk) [[slides]](loukanova.pdf)
 
 The language of mathematical texts, e.g., descriptions, definitions, statements, and proofs, is typically a specialised natural language, suitably interleaved with mathematical symbols and expressions. Fragments of mathematical language are carefully written, e.g., by:
 
@@ -466,7 +466,7 @@ References
 - [12] Furstenberg, H. (1955). On the Infinitude of Primes. In: American Mathematical Monthly 62 (1955): 353.
 
 <a name="berry"></a>
-### David Berry - Categorical Proofs are Natural Proofs
+### David Berry - Categorical Proofs are Natural Proofs [[slides]](berry.pdf)
 Proving the details required for formal proofs in Category Theory is often tedious. This is made worse when using E-Category Theory, as is often found in proof-assistant libraries for category theory today[1]: a destination often called "Setoid Hell". It is even worse when using P-Category Theory[2] (a variant of E-Category Theory where Partial Equivalence Relations are used), which is required for our work: a new destination of "Subsetoid Hell". This short talk will present how structuring the proof of the presheaf exponential in a more categorical fashion allows some of this tedium to be reduced (although, not completely eliminated). This also results in a fuller library of categorical results shedding new light on P-category theory, and allowing for improved future development. However, the grass is not completely greener when proofs are more categorical: the proof terms are often worse and less computationally efficient. Techniques to overcome this seem to force a mild return to Hell.
 
 All the work presented is formalized in the Coq Proof Assistant. This is a crucial aspect of the research programme where constructiveness and computability of the formalized proof is a motivating property.
