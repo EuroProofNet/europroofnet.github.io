@@ -41,6 +41,12 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 
 - [Tableaux and sequent calculi for CTL and ECTL: Satisfiability test with certifying proofs and models](https://doi.org/10.1016/j.jlamp.2022.100828), Alex Abuin, Alexander Bolotov, Montserrat Hermo, Paqui Lucio. J. Log. Algebraic Methods Program. 130:100828.
 
+- [Homotopy Type Theory as Internal Languages of Diagrams of ∞-Logoses](https://doi.org/10.4230/LIPIcs.FSCD.2023.5), Taichi Uemura, FSCD 2023: 5:1-5:19, 
+
+- [B-systems and C-systems are equivalent](https://doi.org/10.1017/jsl.2023.41), Benedikt Ahrens, Jacopo Emmenegger, Paige R. North, Egbert Rijke, Journal of Symbolic Logic
+
+- [For the Metatheory of Type Theory, Internal Sconing Is Enough](https://doi.org/10.4230/LIPIcs.FSCD.2023.18), Rafaël Bocquet, Ambrus Kaposi, Christian Sattler,  FSCD 2023: 18:1-18:23
+
 **2022**
 
 - [Theorem Proving for Maude Specifications Using Lean](https://doi.org/10.1007/978-3-031-17244-1_16), Rubén Rubio and Adrián Riesco, [ICFEM'22](https://maude.ucm.es/ICFEM22)
@@ -68,6 +74,8 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 - [Vers une traduction de K en Dedukti](https://hal.archives-ouvertes.fr/hal-03604962) (Towards a translation of K in Dedukti), Amélie Ledein, Valentin Blot, Catherine Dubois, [JFLA'22](http://jfla.inria.fr/jfla2022.html)
 
 - [Bécassine à la chasse au Coq](https://hal.archives-ouvertes.fr/hal-03604902), Valentin Blot, Louise Dubois de Prisque, Chantal Keller, Pierre Vial, [JFLA'22](http://jfla.inria.fr/jfla2022.html)
+
+- [An extensible equality checking algorithm for dependent type theories](https://doi.org/10.46298/lmcs-18%281%3A17%292022), Andrej Bauer, Anja Petkovic Komel, Log. Methods Comput. Sci. 18(1) (2022)
 
 **Reports**
 
