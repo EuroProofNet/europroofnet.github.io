@@ -13,6 +13,8 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 
 **2023**
 
+- [Terms for Efficient Proof Checking and Parsing](https://doi.org/10.1145/3573105.3575686), Michael Färber, [CPP'23](https://popl23.sigplan.org/home/CPP-2023)
+
 - [Solving Modal Logic Problems by Translation to Higher-order Logic](https://doi.org/10.1007/978-3-031-40875-5_3), Alexander Steen, Geoff Sutcliffe, Tobias Scholl, and Christoph Benzmüller, [CLAR'23](https://www.zlaire.net/zjulogai2023/clar2023/)
 
 - [Representation, Verification, and Visualization of Tarskian Interpretations for Typed First-order Logic](https://doi.org/10.29007/1rhx), Alexander Steen, Geoff Sutcliffe, Pascal Fontaine, and Jack McKeown, [LPAR'23](https://easychair.org/smart-program/LPAR2023/)
