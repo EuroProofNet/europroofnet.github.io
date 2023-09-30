@@ -13,6 +13,9 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 
 **2023**
 
+- [Benchmarking Local Robustness of High-Accuracy Binary Neural Networks for Enhanced Traffic Sign Recognition](https://dx.doi.org/10.4204/EPTCS.389.10), Andreea Postovan and
+  Mădălina Eraşcu, [FROM'23](https://from2023.cs.unibuc.ro)
+
 - [Terms for Efficient Proof Checking and Parsing](https://doi.org/10.1145/3573105.3575686), Michael Färber, [CPP'23](https://popl23.sigplan.org/home/CPP-2023)
 
 - [Solving Modal Logic Problems by Translation to Higher-order Logic](https://doi.org/10.1007/978-3-031-40875-5_3), Alexander Steen, Geoff Sutcliffe, Tobias Scholl, and Christoph Benzmüller, [CLAR'23](https://www.zlaire.net/zjulogai2023/clar2023/)
