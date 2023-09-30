@@ -111,7 +111,7 @@ If you want to give a talk or if you want to apply for funding, fill out the [Re
 | | | **Session 10C: Invited talk & Paper presentation (Chair: Dennis Müller)** |
 | 14:00 - 15:00 | Roussanka Loukanova | [**Invited Talk** Type Theories for Computational Grammar of Natural Language](#loukanova) [[slides]](loukanova.pdf)   |
 | 15:00 - 15:30 | Peter Koepke        | [Experiences with Natural Language Proof Checking](#koepke2)                                |
-| 15:30 - 16:00 | Adrian De Lon       | [Scaling a natural proof assistant step by step](#delon)                                  |
+| 15:30 - 16:00 | Adrian De Lon       | [Scaling a natural proof assistant step by step](#delon) [[slides]](de_lon.pdf)                                 |
 | 16:00 - 16:30 |                     | **Coffee Break**                                                                       |
 | | | **Session 11:  Paper presentation (Chair: Roussanka Loukanova)** |
 | 16:30 - 17:00 | Bernhard Schröder   | [Building small worlds in mathematical texts by formal and informal means](#schroeder)        |
@@ -123,7 +123,7 @@ If you want to give a talk or if you want to apply for funding, fill out the [Re
 | Time          | Speaker             | Title                                                                           |
 | ------------- | ------------------  | ------------------------------------------------------------------------------- |
 | | | **Session 16B: Invited talk & Paper presentation (Chair: Angeliki Koutsoukou-Argyraki)** |
-| 14:00 - 15:00 | William Farmer      | [**Invited Talk** Little Theories: A Method for Organizing Mathematical Knowledge Illustrated Using Alonzo, a Practice-Oriented Version of Simple Type Theory](#farmer)    |
+| 14:00 - 15:00 | William Farmer      | [**Invited Talk** Little Theories: A Method for Organizing Mathematical Knowledge Illustrated Using Alonzo, a Practice-Oriented Version of Simple Type Theory](#farmer) [[slides]](farmer.pdf)   |
 | 15:00 - 15:30 | Lucy Horowitz       | [MathGloss: Linked Undergraduate Math Concepts](#horowitz) [[slides]](horowitz.pdf)                     |
 | 15:30 - 16:00 | Marcel Schütz       | [Foundational libraries in Naproche](#schuetz)                                  |
 | 16:00 - 16:30 | ------------------- | **Coffee Break**                                                                       |
@@ -138,7 +138,7 @@ If you want to give a talk or if you want to apply for funding, fill out the [Re
 | ------------- | ------------------  | ------------------------------------------------------------------------------- |
 | | | **Session 22: Invited talk & Paper presentation (Chair: TBA)** |
 | 14:00 - 15:00 | Kyle Miller         | [**Invited Talk** Informalizing formalized mathematics using the Lean theorem prover](#miller) [[slides]](miller.pdf)   |
-| 15:00 - 15:30 | Katie Collins       | [CheckMate: an adaptable prototype platform for humans to interact with and evaluate LLMs](#collins)              |
+| 15:00 - 15:30 | Katie Collins       | [CheckMate: an adaptable prototype platform for humans to interact with and evaluate LLMs](#collins) [[slides]](collins.pdf)             |
 | 15:30 - 16:00 | Farah Al Wardani    | [Formal Reasoning using Distributed Assertions](#wardani) [[slides]](alwardani.pdf)                      |
 | 16:00 - 16:30 | ------------------- | **Coffee Break**                                                                       |
 | | | **Session 23:  Paper presentation (Chair: TBA)** |
@@ -232,7 +232,7 @@ arithmetic series (#68), and the number of subsets of finite sets (#52). After t
 - [5] https://isabelle.in.tum.de/
 
 <a name="delon"></a>
-### Adrian De Lon - Scaling a natural proof assistant step by step
+### Adrian De Lon - Scaling a natural proof assistant step by step [[slides]](de_lon.pdf)
 The Naproche proof assistant checks formalizations written in controlled
 natural language and fills in gaps in proofs with the help of automated
 provers such as E and Vampire.
@@ -351,7 +351,7 @@ C) Combine the natural language approach of ℕaproche with established systems.
 - [5] https://isabelle.in.tum.de/
 
 <a name="farmer"></a>
-### William Farmer - Little Theories: A Method for Organizing Mathematical Knowledge Illustrated Using Alonzo, a Practice-Oriented Version of Simple Type Theory (Invited Talk)
+### William Farmer - Little Theories: A Method for Organizing Mathematical Knowledge Illustrated Using Alonzo, a Practice-Oriented Version of Simple Type Theory (Invited Talk) [[slides]](farmer.pdf)
 An attractive and powerful method for organizing mathematical knowledge
 is the little theories method [5]. A body of mathematical knowledge is represented in the form of a theory graph [7, 8] consisting of theories as nodes and
 theory morphisms as directed edges. Each mathematical topic is developed
@@ -479,7 +479,7 @@ All the work presented is formalized in the Coq Proof Assistant. This is a cruci
 One of the applications of interactive theorem provers in pure mathematics is being able to produce machine-verified formal proofs. I will talk about a less-obvious application, which is using formalized mathematics to author interactive informal expositions. I will demonstrate a prototype of an "auto-informalization" system written in Lean that presents the reader with an interface to view proofs at a desired level of detail.  I will also discuss thoughts on the impact of such tools in mathematics. This is joint work with Patrick Massot.
 
 <a name="collins"></a>
-### Katie Collins - CheckMate: an adaptable prototype platform for humans to interact with and evaluate LLMs
+### Katie Collins - CheckMate: an adaptable prototype platform for humans to interact with and evaluate LLMs [[slides]](collins.pdf)
 The standard methodology of evaluating large language models (LLMs) based on static pairs of inputs and outputs is insufficient for developing assistants: this kind of assessments fails to take into account the essential interactive element in their deployment, and therefore limits how we understand language model capabilities. We introduce CheckMate, an adaptable prototype platform for humans to interact with and evaluate LLMs. We conduct a study with CheckMate to evaluate three language models~(InstructGPT, ChatGPT, and GPT-4) as assistants in proving undergraduate-level mathematics, with a mixed cohort of participants from undergraduate students to professors of mathematics. We release the resulting interaction and rating dataset, MathConverse. By analysing MathConverse, we derive a preliminary taxonomy of human behaviours and uncover that despite a generally positive correlation, there are notable instances of divergence between correctness and perceived helpfulness in LLM generations, amongst other findings. Further, we identify useful scenarios and existing issues of GPT-4 in mathematical reasoning through a series of case studies contributed by expert mathematicians. We conclude with actionable takeaways for ML practitioners and mathematicians: models which communicate uncertainty, respond well to user corrections, are more interpretable and concise may constitute better assistants; interactive evaluation is a promising way to continually navigate the capability of these models; humans should be aware of language models’ algebraic fallibility, and for that reason discern where they should be used.   
 
 <a name="wardani"></a>
