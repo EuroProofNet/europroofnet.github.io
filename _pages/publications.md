@@ -32,6 +32,10 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 
 - [Translating proofs from an impredicative type system to a predicative one](https://doi.org/10.4230/LIPIcs.CSL.2023.19), T. Felicissimo, F. Blanqui and A. Kumar Barnawal, [CSL'23](https://csl2023.mimuw.edu.pl/)
 
+- [Tableaux for Realizability of Safety Specifications](https://doi.org/10.1007/978-3-031-27481-7_28), Montserrat Hermo, Paqui Lucio, César Sánchez. Formal Methods 2023, p. 495-513.
+
+- [Tableaux and sequent calculi for CTL and ECTL: Satisfiability test with certifying proofs and models](https://doi.org/10.1016/j.jlamp.2022.100828), Alex Abuin, Alexander Bolotov, Montserrat Hermo, Paqui Lucio. J. Log. Algebraic Methods Program. 130:100828.
+
 **2022**
 
 - [Theorem Proving for Maude Specifications Using Lean](https://doi.org/10.1007/978-3-031-17244-1_16), Rubén Rubio and Adrián Riesco, [ICFEM'22](https://maude.ucm.es/ICFEM22)
