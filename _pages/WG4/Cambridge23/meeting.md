@@ -114,7 +114,7 @@ If you want to give a talk or if you want to apply for funding, fill out the [Re
 | 15:30 - 16:00 | Adrian De Lon       | [Scaling a natural proof assistant step by step](#delon) [[slides]](de_lon.pdf)                                 |
 | 16:00 - 16:30 |                     | **Coffee Break**                                                                       |
 | | | **Session 11:  Paper presentation (Chair: Roussanka Loukanova)** |
-| 16:30 - 17:00 | Bernhard Schröder   | [Building small worlds in mathematical texts by formal and informal means](#schroeder)        |
+| 16:30 - 17:00 | Bernhard Schröder   | [Building small worlds in mathematical texts by formal and informal means](#schroeder) [[slides]](schroeder.pdf)       |
 | 17:00 - 17:30 | Peter Koepke, Mateusz Marcol and Patrick Schäfer | [Formalizing Sets, Numbers, and some "Wiedijk Theorems" in Naproche](#koepke1)   |
 | 17:30 - 18:00 | Adrian De Lon       | Naproche Demo                                                                   |
 
@@ -289,7 +289,7 @@ also talk about the following:
   lets automated provers remain effective in large background theories.
 
 <a name="schroeder"></a>
-### Bernhard Schröder - Building small worlds in mathematical texts by formal and informal means
+### Bernhard Schröder - Building small worlds in mathematical texts by formal and informal means [[slides]](schroeder.pdf)
 One aspect of naturalness in natural language proof texts is the limitation of objects to a cognitively manageable number or their grouping in a limited number of aggregates in each part of a proof. More precisely, we should talk about "reference markers" instead of "objects", abstracting from the ontological structure we are referring to. Here, the term "reference marker" is used in a sense that any (generalized) quantifier introduces one or two new reference markers which can be referenced in the following text. In this sense, when talking about "every group g" one new reference marker g and - if not yet introduced into the discourse - a discourse marker for the set of groups are added to the discourse, only.
 
 A common means of grouping discourse markers in formal notations of natural language proof texts are typographical means and diacritics, cf. the notations for a straight line through the point A and B, a ray starting at A and running through B, a line segment between A und B, and its length. Or consider how functions and their derivatives and antiderivatives are usually written.
