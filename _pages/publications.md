@@ -47,6 +47,11 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 
 - [For the Metatheory of Type Theory, Internal Sconing Is Enough](https://doi.org/10.4230/LIPIcs.FSCD.2023.18), Rafaël Bocquet, Ambrus Kaposi, Christian Sattler,  FSCD 2023: 18:1-18:23
 
+- [Verification of the ROS NavFn planner using executable specification languages](https://doi.org/10.1016/j.jlamp.2023.100860), Enrique Martín, Manuel Montenegro, Adrián Riesco, Juan Rodríguez-Hortalá, Rubén Rubio. J. Log. Algebraic Methods Program. 132:100860.
+
+- [Verification of mutable linear data structures and iterator-based algorithms in Dafny](https://doi.org/10.1016/j.jlamp.2023.100875), Jorge Blázquez, Manuel Montenegro, Clara Segura. J. Log. Algebraic Methods Program. 134:100875.
+
+
 **2022**
 
 - [Theorem Proving for Maude Specifications Using Lean](https://doi.org/10.1007/978-3-031-17244-1_16), Rubén Rubio and Adrián Riesco, [ICFEM'22](https://maude.ucm.es/ICFEM22)
