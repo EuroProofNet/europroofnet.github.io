@@ -142,7 +142,7 @@ If you want to give a talk or if you want to apply for funding, fill out the [Re
 | 15:30 - 16:00 | Farah Al Wardani    | [Formal Reasoning using Distributed Assertions](#wardani) [[slides]](alwardani.pdf)                      |
 | 16:00 - 16:30 | ------------------- | **Coffee Break**                                                                       |
 | | | **Session 23:  Paper presentation (Chair: TBA)** |
-| 16:30 - 17:00 | Anand Rao Tadipatri | [LeanAIde - A statement autoformalisation tool for the Lean theorem prover](#tadipatri)       |
+| 16:30 - 17:00 | Anand Rao Tadipatri | [LeanAIde - A statement autoformalisation tool for the Lean theorem prover](#tadipatri) [[slides]](rao.pdf)      |
 | 17:00 - 17:30 | Adrian Groza        | [Solving logical puzzles with ChatGPT](#groza) [[slides]](groza.pdf)                                 |
 | 17:30 - 18:00 | Claudio Sacerdoti Coen | [An indexer and query language for libraries written in LambdaPi/Dedukti](#coen)      |
 
@@ -510,7 +510,7 @@ References:
 - [13] Distributed Assertions website. https://distributed-assertions.github.io/
 
 <a name="tadipatri"></a>
-### Anand Rao Tadipatri - LeanAIde - A statement autoformalisation tool for the Lean theorem prover
+### Anand Rao Tadipatri - LeanAIde - A statement autoformalisation tool for the Lean theorem prover [[slides]](rao.pdf)
 Contributors: Siddhartha Gadgil, Anand Rao Tadipatri, Ayush Agrawal, Ashvni Narayanan, Navin Goyal
 
 We present LeanAIde, a tool to translate mathematical statements within Lean doc-strings into formal Lean code. The tool is integrated with the Lean 4 editor via code actions for ergonomic usage.
