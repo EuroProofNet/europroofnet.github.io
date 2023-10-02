@@ -19,6 +19,8 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 
 - 1-6 July 2024: [International Joint Conference on Automated Reasoning](https://merz.gitlabpages.inria.fr/2024-ijcar/) (IJCAR'24), Nancy, France
 
+- 24-28 June 2024: [Logic Colloquium](https://lc2024.se/), Göteborg, Sweden
+
 - 17-21 June 2024: [Workshop on Formalization of Mathematics](https://www.him.uni-bonn.de/programs/future-programs/future-trimester-programs/prospects-of-formal-mathematics/formalization-of-mathematics/), Bonn, Germany
 
 - 6 May - 16 August 2024: [Trimester on Prospects of formal mathematics](https://www.him.uni-bonn.de/programs/future-programs/future-trimester-programs/prospects-of-formal-mathematics/description/), Hausdorff research institute for mathematics, Bonn, Germany
