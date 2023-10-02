@@ -13,11 +13,7 @@ author_profile: true
 
 - D2. Inventory of automated theorem provers producing proofs, description of proof formats, and inventory of checking tools for these proof formats. [[link]](https://github.com/EuroProofNet/ATP/wiki)
 
-- D3. Comparison of the approaches used in the international Software Verification competition SV-COMP and other relevant ones.
-    * [EuroProofNet Program Verification Wiki](https://github.com/EuroProofNet/ProgramVerification/wiki)
-    * Presentation: Beyer, D. [Verification Tools, Exchange Formats, and Combination Approaches](https://europroofnet.github.io/_pages/WG3/Feb2023/Slides/DirkVerification.pdf). Contributed talk in the EuroProofNet - WG3 meeting.
-    * Paper: Bhayat, A., Georgiou, P., Eisenhofer, C., Kovács, L., Reger, G. (2022). [Lemmaless Induction in Trace Logic](https://doi.org/10.1007/978-3-031-16681-5_14). In: Buzzard, K., Kutsia, T. (eds) Intelligent Computer Mathematics. CICM 2022. Lecture Notes in Computer Science, vol 13467. Springer, Cham.
-
+- D3. Comparison of the approaches used in the international Software Verification competition SV-COMP and other relevant ones. [link](https://github.com/EuroProofNet/ProgramVerification/wiki)
 - D4. Definition of a mathematical framework for modular reasoning about type theories and their extensions.
 
 **September 2023:**

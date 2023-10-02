@@ -13,6 +13,11 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 
 **2023**
 
+- [Benchmarking Local Robustness of High-Accuracy Binary Neural Networks for Enhanced Traffic Sign Recognition](https://dx.doi.org/10.4204/EPTCS.389.10), Andreea Postovan and
+  Mădălina Eraşcu, [FROM'23](https://from2023.cs.unibuc.ro)
+
+- [Terms for Efficient Proof Checking and Parsing](https://doi.org/10.1145/3573105.3575686), Michael Färber, [CPP'23](https://popl23.sigplan.org/home/CPP-2023)
+
 - [Solving Modal Logic Problems by Translation to Higher-order Logic](https://doi.org/10.1007/978-3-031-40875-5_3), Alexander Steen, Geoff Sutcliffe, Tobias Scholl, and Christoph Benzmüller, [CLAR'23](https://www.zlaire.net/zjulogai2023/clar2023/)
 
 - [Representation, Verification, and Visualization of Tarskian Interpretations for Typed First-order Logic](https://doi.org/10.29007/1rhx), Alexander Steen, Geoff Sutcliffe, Pascal Fontaine, and Jack McKeown, [LPAR'23](https://easychair.org/smart-program/LPAR2023/)
@@ -35,6 +40,12 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 - [Tableaux for Realizability of Safety Specifications](https://doi.org/10.1007/978-3-031-27481-7_28), Montserrat Hermo, Paqui Lucio, César Sánchez. Formal Methods 2023, p. 495-513.
 
 - [Tableaux and sequent calculi for CTL and ECTL: Satisfiability test with certifying proofs and models](https://doi.org/10.1016/j.jlamp.2022.100828), Alex Abuin, Alexander Bolotov, Montserrat Hermo, Paqui Lucio. J. Log. Algebraic Methods Program. 130:100828.
+
+- [Homotopy Type Theory as Internal Languages of Diagrams of ∞-Logoses](https://doi.org/10.4230/LIPIcs.FSCD.2023.5), Taichi Uemura, FSCD 2023: 5:1-5:19, 
+
+- [B-systems and C-systems are equivalent](https://doi.org/10.1017/jsl.2023.41), Benedikt Ahrens, Jacopo Emmenegger, Paige R. North, Egbert Rijke, Journal of Symbolic Logic
+
+- [For the Metatheory of Type Theory, Internal Sconing Is Enough](https://doi.org/10.4230/LIPIcs.FSCD.2023.18), Rafaël Bocquet, Ambrus Kaposi, Christian Sattler,  FSCD 2023: 18:1-18:23
 
 **2022**
 
@@ -63,6 +74,8 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 - [Vers une traduction de K en Dedukti](https://hal.archives-ouvertes.fr/hal-03604962) (Towards a translation of K in Dedukti), Amélie Ledein, Valentin Blot, Catherine Dubois, [JFLA'22](http://jfla.inria.fr/jfla2022.html)
 
 - [Bécassine à la chasse au Coq](https://hal.archives-ouvertes.fr/hal-03604902), Valentin Blot, Louise Dubois de Prisque, Chantal Keller, Pierre Vial, [JFLA'22](http://jfla.inria.fr/jfla2022.html)
+
+- [An extensible equality checking algorithm for dependent type theories](https://doi.org/10.46298/lmcs-18%281%3A17%292022), Andrej Bauer, Anja Petkovic Komel, Log. Methods Comput. Sci. 18(1) (2022)
 
 **Reports**
 
