@@ -72,6 +72,7 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 - [cvc5](https://cvc5.github.io/): efficient versatile SMT solver generating proof traces.
 - [E](https://www.eprover.org): High-performance equational theorem prover for first-order logic (and
   increasingly higher-order logic), creating proof objects in TPTP format.
+- [Larus](https://github.com/janicicpredrag/Larus): Larus is a theorem prover for coherent logic that uses SAT/SMT provers to construct proofs. Larus can generate natural language proofs (in LaTeX) and machine checkable proofs (Coq/Isabelle/Mizar).
 - [Vampire](https://vprover.github.io/): ATP handing first-order and higher-order logic with equality and theories producing fine-grained TPTP compliant proofs.
 - [veriT](https://verit-solver.org/): SMT solver generating detailed proof traces in the Alethe format.
 - [ZenonModulo](https://github.com/Deducteam/zenon_modulo): ATP generating Dedukti/FOL or Lambdapi/FOL.

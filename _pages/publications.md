@@ -13,6 +13,10 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 
 **2023**
 
+- [Flexible Automation of Quantified Multi-Modal Logics with Interaction](https://doi.org/10.1007/978-3-031-42608-7_18), Melanie Taprogge and Alexander Steen, [KI 2023](https://ki2023.gi.de/)
+
+- [Who Finds the Short Proof? An Exploration of Variants of Boolos' Curious Inference using Higher-order Automated Theorem Provers](http://doi.org/10.1093/jigpal/jzac082), Christoph Benzmüller, David Fuenmayor, Alexander Steen and Geoff Sutcliffe. [Logic Journal of the IGPL](https://academic.oup.com/jigpal)
+
 - [Benchmarking Local Robustness of High-Accuracy Binary Neural Networks for Enhanced Traffic Sign Recognition](https://dx.doi.org/10.4204/EPTCS.389.10), Andreea Postovan and
   Mădălina Eraşcu, [FROM'23](https://from2023.cs.unibuc.ro)
 
@@ -33,7 +37,7 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 
 - [Anti-unification and Generalization: A Survey](https://doi.org/10.24963/ijcai.2023/736), David M. Cerna and Temur Kutsia, [IJCAI'23](https://ijcai-23.org) 
 
-- [A modular construction of type theories](https://doi.org/10.46298/lmcs-19(1:12)2023), Frédéric Blanqui, Gilles Dowek, Emilie Grienenberger, Gabriel Hondet, and François Thiré, in [*LMCS*](https://lmcs.episciences.org)
+- [A modular construction of type theories](https://doi.org/10.46298/lmcs-19(1:12)2023), Frédéric Blanqui, Gilles Dowek, Emilie Grienenberger, Gabriel Hondet, and François Thiré, Logical Methods in Computer Science
 
 - [Translating proofs from an impredicative type system to a predicative one](https://doi.org/10.4230/LIPIcs.CSL.2023.19), T. Felicissimo, F. Blanqui and A. Kumar Barnawal, [CSL'23](https://csl2023.mimuw.edu.pl/)
 
@@ -51,8 +55,13 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 
 - [Verification of mutable linear data structures and iterator-based algorithms in Dafny](https://doi.org/10.1016/j.jlamp.2023.100875), Jorge Blázquez, Manuel Montenegro, Clara Segura. J. Log. Algebraic Methods Program. 134:100875.
 
+- [An Efficient Proof Checker and Elaborator for SMT Proofs in the Alethe Format](https://doi.org/10.1007/978-3-031-30823-9_19), TACAS 2023.
+
+- [Automated Completion of Statements and Proofs in Synthetic Geometry: an Approach based on Constraint Solving](https://hal.science/hal-04226900), Salwa Tabet Gonzalez, Predrag Janičić, Julien Narboux, ADG 2023.
 
 **2022**
+
+- [Bridging between LegalRuleML and TPTP for Automated Normative Reasoning](https://doi.org/10.1007/978-3-031-21541-4_16), Alexander Steen and David Fuenmayor, [RuleML+RR 2022](https://2022.declarativeai.net/events/ruleml-rr)
 
 - [Theorem Proving for Maude Specifications Using Lean](https://doi.org/10.1007/978-3-031-17244-1_16), Rubén Rubio and Adrián Riesco, [ICFEM'22](https://maude.ucm.es/ICFEM22)
 
@@ -81,6 +90,12 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 - [Bécassine à la chasse au Coq](https://hal.archives-ouvertes.fr/hal-03604902), Valentin Blot, Louise Dubois de Prisque, Chantal Keller, Pierre Vial, [JFLA'22](http://jfla.inria.fr/jfla2022.html)
 
 - [An extensible equality checking algorithm for dependent type theories](https://doi.org/10.46298/lmcs-18%281%3A17%292022), Andrej Bauer, Anja Petkovic Komel, Log. Methods Comput. Sci. 18(1) (2022)
+
+- [Automated Reasoning in Non-classical Logics in the TPTP World](http://ceur-ws.org/Vol-3201/), Alexander Steen, David Fuenmayor, Tobias Gleißner, Geoff Sutcliffe and Christoph Benzmüller, [PAAR 2022](https://paar2022.github.io/)
+
+- [An Extensible Logic Embedding Tool for Lightweight Non-Classical Reasoning](http://ceur-ws.org/Vol-3201/), Alexander Steen, [PAAR 2022](https://paar2022.github.io/)
+
+- [Sikkel: Multimode Simple Type Theory as an Agda Library.](https://doi.org/10.4204/EPTCS.360.5), Joris Ceulemans, Andreas Nuyts and Dominique Devriese, [MSFP 2022](https://msfp-workshop.github.io/msfp2022/)
 
 **Reports**
 

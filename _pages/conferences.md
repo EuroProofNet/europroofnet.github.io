@@ -17,6 +17,8 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 
 - 8-12 July 2024: [39th Annual ACM/IEEE Symposium on Logic in Computer Science](https://lics.siglog.org/lics24/) (LICS'24), Tallinn, Estonia
 
+- 8-12 July 2024: [51st EATCS International Colloquium on Automata, Languages, and Programming](https://compose.ioc.ee/icalp2024/) (ICALP'24), Tallinn, Estonia
+
 - 1-6 July 2024: [International Joint Conference on Automated Reasoning](https://merz.gitlabpages.inria.fr/2024-ijcar/) (IJCAR'24), Nancy, France
 
 - 24-28 June 2024: [Logic Colloquium](https://lc2024.se/), Göteborg, Sweden
@@ -29,6 +31,8 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 
 - 17-19 January 2024: [51st ACM SIGPLAN Symposium on Principles of Programming Languages](https://popl24.sigplan.org/) (POPL'24), London, UK
 
+- 15-16 January 2024: [26th International Symposium on Practical Aspects of Declarative Languages](https://popl24.sigplan.org/home/PADL-2024) (PADL'24), London, United Kingdom
+             
 - 4-8 September 2023: [16th Conference on Intelligent Computer Mathematics](https://cicm-conference.org/2023/cicm.php) (CICM'23), Cambridge, UK
 
 - 3-8 September 2023: [Artificial Intelligence and Theorem Proving 2023](http://aitp-conference.org/2023) (AITP'23), Aussois, France

@@ -16,7 +16,7 @@ breadcrumbs: true
 
 **Programme:** Discussing the current status of proof translation tools and libraries, and what to do and how to organize ourselves in the coming years.
 
-**Participants:** Alessio Coltellacci, Anthony Bordg, 	Bruno Barras, Catherine Dubois, Claude Stolze, Frédéric Blanqui, Gilles Dowek, Olivier Hermant, Guillaume Burel, Louise Dubois de Prisque, Luc Chabassier, 	Rishikesh Vaishnav, Théo Winterhalter, Thiago Felicissimo, Thomas Traversié, Amélie Ledein, Yoan Géran, Abdelghani Alidra
+**Participants (21):** Alessio Coltellacci, Anthony Bordg, Bruno Barras, Catherine Dubois, Claude Stolze, Frédéric Blanqui, Gilles Dowek, Olivier Hermant, Guillaume Burel, Louise Dubois de Prisque, Luc Chabassier, Rishikesh Vaishnav, Théo Winterhalter, Thiago Felicissimo, Thomas Traversié, Amélie Ledein, Yoan Géran, Abdelghani Alidra, Wojciech Loboda, Valentin Blot, Nicolas Margulies
 
 **Tuesday 26 September:**
 
