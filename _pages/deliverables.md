@@ -15,7 +15,7 @@ author_profile: true
 
 - D3. Comparison of the approaches used in the international Software Verification competition SV-COMP and other relevant ones. [[link]](https://github.com/EuroProofNet/ProgramVerification/wiki)
 
-- D4. Definition of a mathematical framework for modular reasoning about type theories and their extensions.
+- D4. Definition of a mathematical framework for modular reasoning about type theories and their extensions. [[link]](../deliverable4)
 
 **September 2023:**
 
