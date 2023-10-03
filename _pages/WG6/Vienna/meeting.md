@@ -27,33 +27,33 @@ The programme will consist mainly of short talks, and plenty of time for discuss
 
 **Invited speakers**  
 [Daniel Gratzer](https://jozefg.github.io/) (Aarhus University):
-_Controlling unfolding in type theory_  
+_Controlling unfolding in type theory_ ([slides](./slides/gratzer.pdf))  
 [Ambroise Lafont](https://amblafont.github.io/) (University of Cambridge):
-_Generic pattern unification: a categorical approach_  
+_Generic pattern unification: a categorical approach_ ([slides](./slides/lafont.pdf))  
 [Anders Mörtberg](https://staff.math.su.se/anders.mortberg/) (Stockholm University):
-_Computational proofs in Cubical Type Theories_  
+_Computational proofs in Cubical Type Theories_ ([slides](./slides/mortberg.pdf))  
 [Loïc Pujet](https://pujet.fr/) (INRIA):
-_Mechanising reducibility proofs in Coq_  
+_Mechanising reducibility proofs in Coq_ ([slides](./slides/pujet.pdf))  
 
 **Contributed talks**  
 Rafaël Bocquet (Eötvös Loránd University):
-_For the Metatheory of Type Theory, Internal Sconing Is Enough_  
+_For the Metatheory of Type Theory, Internal Sconing Is Enough_ ([slides](./slides/bocquet.pdf))  
 Felix Bradley	(Royal Holloway, University of London):
-_On the Metatheory of Subtype Universes_  
+_On the Metatheory of Subtype Universes_ ([slides](./slides/bradley.pdf))  
 Maximilian Doré (University of Oxford):
-_Automating reasoning in cubical type theory_  
+_Automating reasoning in cubical type theory_ ([slides](./slides/dore.pdf))  
 Thiago Felicissimo (Deducteam/LMF/Inria):
-_A Logical Framework for Computational Type Theories_  
+_A Logical Framework for Computational Type Theories_ ([slides](./slides/felicissimo.pdf))  
 Rasmus Møgelberg (IT University of Copenhagen):
-_Higher Inductive Types in Coinductive Definitions via Guarded Recursion_  
+_Higher Inductive Types in Coinductive Definitions via Guarded Recursion_ ([slides](./slides/mogelberg.pdf))  
 Vincent Moreau (IRIF, Université Paris Cité):
-_Profinite lambda-terms and parametricity_  
+_Profinite lambda-terms and parametricity_ ([slides](./slides/moreau.pdf))  
 Andreas Nuyts (KU Leuven):
-_Every modality is a relative right adjoint_  
+_Every modality is a relative right adjoint_ ([slides](./slides/nuyts.pdf))  
 Nima Rasekh (Max Planck Institute for Mathematics):
-_Category Theory of Universes_  
+_Category Theory of Universes_ ([slides](./slides/rasekh.pdf))  
 Taichi Uemura (Stockholm University):
-_Towards modular proof of normalization for type theories_  
+_Towards modular proof of normalization for type theories_ ([slides](./slides/uemura.pdf))  
 
 **Schedule and abstracts:** Please see [here](programme).
 
