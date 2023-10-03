@@ -90,7 +90,8 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 - [Automated Reasoning in Non-classical Logics in the TPTP World](http://ceur-ws.org/Vol-3201/), Alexander Steen, David Fuenmayor, Tobias Gleißner, Geoff Sutcliffe and Christoph Benzmüller, [PAAR 2022](https://paar2022.github.io/)
 
 - [An Extensible Logic Embedding Tool for Lightweight Non-Classical Reasoning](http://ceur-ws.org/Vol-3201/), Alexander Steen, [PAAR 2022](https://paar2022.github.io/)
- 
+
+- [Sikkel: Multimode Simple Type Theory as an Agda Library.](https://doi.org/10.4204/EPTCS.360.5), Joris Ceulemans, Andreas Nuyts and Dominique Devriese, [MSFP 2022](https://msfp-workshop.github.io/msfp2022/)
 
 **Reports**
 
