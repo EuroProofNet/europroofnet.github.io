@@ -49,6 +49,8 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 
 - [An Efficient Proof Checker and Elaborator for SMT Proofs in the Alethe Format](https://doi.org/10.1007/978-3-031-30823-9_19), TACAS 2023.
 
+- [Automated Completion of Statements and Proofs in Synthetic Geometry: an Approach based on Constraint Solving](https://hal.science/hal-04226900), Salwa Tabet Gonzalez, Predrag Janičić, Julien Narboux, ADG 2023.
+
 **2022**
 
 - [Theorem Proving for Maude Specifications Using Lean](https://doi.org/10.1007/978-3-031-17244-1_16), Rubén Rubio and Adrián Riesco, [ICFEM'22](https://maude.ucm.es/ICFEM22)
