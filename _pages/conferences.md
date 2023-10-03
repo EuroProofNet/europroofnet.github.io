@@ -31,6 +31,8 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 
 - 17-19 January 2024: [51st ACM SIGPLAN Symposium on Principles of Programming Languages](https://popl24.sigplan.org/) (POPL'24), London, UK
 
+- 15-16 January 2024: [26th International Symposium on Practical Aspects of Declarative Languages](https://popl24.sigplan.org/home/PADL-2024) (PADL'24), London, United Kingdom
+             
 - 4-8 September 2023: [16th Conference on Intelligent Computer Mathematics](https://cicm-conference.org/2023/cicm.php) (CICM'23), Cambridge, UK
 
 - 3-8 September 2023: [Artificial Intelligence and Theorem Proving 2023](http://aitp-conference.org/2023) (AITP'23), Aussois, France
