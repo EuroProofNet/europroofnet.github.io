@@ -81,6 +81,8 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 
 - [An extensible equality checking algorithm for dependent type theories](https://doi.org/10.46298/lmcs-18%281%3A17%292022), Andrej Bauer, Anja Petkovic Komel, Log. Methods Comput. Sci. 18(1) (2022)
 
+- [Sikkel: Multimode Simple Type Theory as an Agda Library.](https://doi.org/10.4204/EPTCS.360.5), Joris Ceulemans, Andreas Nuyts and Dominique Devriese, [MSFP 2022](https://msfp-workshop.github.io/msfp2022/)
+
 **Reports**
 
 - [2nd WG3 meeting](../wg3-timisoara), Timisoara, 8-9 February 2023, [slides&videos](wg3-meeting-timisoara-program/) [report](https://europroofnet.github.io/_pages/WG3/Feb2023/ReportWG3TimisoaraMeeting.pdf)
