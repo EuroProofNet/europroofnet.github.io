@@ -33,7 +33,7 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 
 - [Anti-unification and Generalization: A Survey](https://doi.org/10.24963/ijcai.2023/736), David M. Cerna and Temur Kutsia, [IJCAI'23](https://ijcai-23.org) 
 
-- [A modular construction of type theories](https://doi.org/10.46298/lmcs-19(1:12)2023), Frédéric Blanqui, Gilles Dowek, Emilie Grienenberger, Gabriel Hondet, and François Thiré, in [*LMCS*](https://lmcs.episciences.org)
+- [A modular construction of type theories](https://doi.org/10.46298/lmcs-19(1:12)2023), Frédéric Blanqui, Gilles Dowek, Emilie Grienenberger, Gabriel Hondet, and François Thiré, Logical Methods in Computer Science
 
 - [Translating proofs from an impredicative type system to a predicative one](https://doi.org/10.4230/LIPIcs.CSL.2023.19), T. Felicissimo, F. Blanqui and A. Kumar Barnawal, [CSL'23](https://csl2023.mimuw.edu.pl/)
 
@@ -46,6 +46,8 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 - [B-systems and C-systems are equivalent](https://doi.org/10.1017/jsl.2023.41), Benedikt Ahrens, Jacopo Emmenegger, Paige R. North, Egbert Rijke, Journal of Symbolic Logic
 
 - [For the Metatheory of Type Theory, Internal Sconing Is Enough](https://doi.org/10.4230/LIPIcs.FSCD.2023.18), Rafaël Bocquet, Ambrus Kaposi, Christian Sattler,  FSCD 2023: 18:1-18:23
+
+- [An Efficient Proof Checker and Elaborator for SMT Proofs in the Alethe Format](https://doi.org/10.1007/978-3-031-30823-9_19), TACAS 2023.
 
 **2022**
 
