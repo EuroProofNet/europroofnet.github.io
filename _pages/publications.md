@@ -51,6 +51,10 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 
 - [For the Metatheory of Type Theory, Internal Sconing Is Enough](https://doi.org/10.4230/LIPIcs.FSCD.2023.18), Rafaël Bocquet, Ambrus Kaposi, Christian Sattler,  FSCD 2023: 18:1-18:23
 
+- [Verification of the ROS NavFn planner using executable specification languages](https://doi.org/10.1016/j.jlamp.2023.100860), Enrique Martín, Manuel Montenegro, Adrián Riesco, Juan Rodríguez-Hortalá, Rubén Rubio. J. Log. Algebraic Methods Program. 132:100860.
+
+- [Verification of mutable linear data structures and iterator-based algorithms in Dafny](https://doi.org/10.1016/j.jlamp.2023.100875), Jorge Blázquez, Manuel Montenegro, Clara Segura. J. Log. Algebraic Methods Program. 134:100875.
+
 - [An Efficient Proof Checker and Elaborator for SMT Proofs in the Alethe Format](https://doi.org/10.1007/978-3-031-30823-9_19), TACAS 2023.
 
 - [Automated Completion of Statements and Proofs in Synthetic Geometry: an Approach based on Constraint Solving](https://hal.science/hal-04226900), Salwa Tabet Gonzalez, Predrag Janičić, Julien Narboux, ADG 2023.
