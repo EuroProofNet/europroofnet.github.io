@@ -46,8 +46,10 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 - [Krajono](https://github.com/Deducteam/Krajono): Matita to Dedukti/Matita
 - [Isabelle\_dedukti](https://github.com/Deducteam/isabelle_dedukti): Isabelle to Dedukti or Lambdapi
 - [Logipedia](https://github.com/Deducteam/Logipedia): Dedukti/STTfa to Coq, Lean, Matita, OpenTheory, HOL-Light, PVS
+- [Logic embedding tool]https://github.com/leoprover/logic-embedding): Translates non-classical proof obligations into higher-order logic
 - [Personoj](https://github.com/Deducteam/personoj): PVS to Lambdapi
 - [Skonverto](https://github.com/Deducteam/SKonverto): construct a proof of a formula from a proof of its skolemized version
+- [tptp-utils](https://github.com/leoprover/tptp-utils): Translates various TPTP/TSTP formats into each other
 - [Universo](https://github.com/Deducteam/universo): type universes rewriting tool
 - [SMTCoq](https://smtcoq.github.io/): reconstruct proofs from SMT solvers in Coq
 - [CoqHammer](https://coqhammer.github.io/): reconstruct proofs from ATPs in Coq
@@ -73,6 +75,7 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 - [E](https://www.eprover.org): High-performance equational theorem prover for first-order logic (and
   increasingly higher-order logic), creating proof objects in TPTP format.
 - [Larus](https://github.com/janicicpredrag/Larus): Larus is a theorem prover for coherent logic that uses SAT/SMT provers to construct proofs. Larus can generate natural language proofs (in LaTeX) and machine checkable proofs (Coq/Isabelle/Mizar).
+- [Leo-III](https://github.com/leoprover/Leo-III): ATP for (polymorphic) higher-order logic, providing proofs in TPTP format.
 - [Vampire](https://vprover.github.io/): ATP handing first-order and higher-order logic with equality and theories producing fine-grained TPTP compliant proofs.
 - [veriT](https://verit-solver.org/): SMT solver generating detailed proof traces in the Alethe format.
 - [ZenonModulo](https://github.com/Deducteam/zenon_modulo): ATP generating Dedukti/FOL or Lambdapi/FOL.
