@@ -9,7 +9,7 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 
 - 9-14 September 2024: [15th conference on Interactive Theorem Proving](https://itp-conference.github.io/) (ITP'24), Tbilisi, Georgia
 
-- 29 July - 2 August: [Workshop on Libraries of Digital Math](https://www.him.uni-bonn.de/programs/future-programs/future-trimester-programs/prospects-of-formal-mathematics/libraries-of-digital-math/), Bonn, Germany
+- 29 July - 2 August 2024: [Workshop on Libraries of Digital Math](https://www.him.uni-bonn.de/programs/future-programs/future-trimester-programs/prospects-of-formal-mathematics/libraries-of-digital-math/), Bonn, Germany
 
 - 10-13 July 2024: [9th International Conference on Formal Structures for Computation and Deduction](https://cs.ioc.ee/fscd24/) (FSCD'24), Tallinn, Estonia
 
@@ -24,6 +24,8 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 - 24-28 June 2024: [Logic Colloquium](https://lc2024.se/), Göteborg, Sweden
 
 - 17-21 June 2024: [Workshop on Formalization of Mathematics](https://www.him.uni-bonn.de/programs/future-programs/future-trimester-programs/prospects-of-formal-mathematics/formalization-of-mathematics/), Bonn, Germany
+
+- 10-14 June 2024: International Conference on Types for Proofs and Programs, Copenhagen, Denmark
 
 - 6 May - 16 August 2024: [Trimester on Prospects of formal mathematics](https://www.him.uni-bonn.de/programs/future-programs/future-trimester-programs/prospects-of-formal-mathematics/description/), Hausdorff research institute for mathematics, Bonn, Germany
 
@@ -50,6 +52,8 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 - 1-4 July 2023: [29th Conference on Automated Deduction](https://easyconferences.eu/cade2023/) (CADE'23), Rome, Italy
 
 - 26-29 June 2023: [38th Annual ACM/IEEE Symposium on Logic in Computer Science](https://lics.siglog.org/lics23/) (LICS'23), Boston, USA
+
+- 12-15 June 2023: [29th International Conference on Types for Proofs and Programs](https://types2023.webs.upv.es/) (TYPES'23), Valencia, Spain
 
 - 4-9 June 2023: [24th International Conference on Logic for Programming Artificial Intelligence and Reasoning](https://easychair.org/smart-program/LPAR2023/) (LPAR-24), Manizales, Colombia
 
