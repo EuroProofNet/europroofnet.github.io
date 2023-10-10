@@ -1,6 +1,5 @@
-
-## Summary of WG1 activities in 2023
-
+---
+title: "Summary of WG1 activities in 2023"
 ---
 
 ### Meetings
