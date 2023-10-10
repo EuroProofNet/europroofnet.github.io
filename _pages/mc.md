@@ -8,6 +8,7 @@ title: "Management Committee Meetings"
 <!-- [minutes](MC/meeting2/minutes.pdf)-->
 - [summary of activities on Nov 22 - Oct 23](MC/meeting3/summary.pdf)
 - [summary of WG2](MC/meeting3/wg2.pdf)
+- [summary of WG5](MC/meeting3/wg5.pdf)
 - [program of Nov 23 - Oct 24](MC/meeting3/plan.pdf)
 <!-- [work and budget plan for Nov 22 - Oct 23](MC/meeting2/WBP-AGA-CA20111-3_16455.pdf)-->
 
