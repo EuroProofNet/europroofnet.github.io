@@ -7,6 +7,7 @@ title: "Management Committee Meetings"
 
 <!-- [minutes](MC/meeting2/minutes.pdf)-->
 - [summary of activities on Nov 22 - Oct 23](MC/meeting3/summary.pdf)
+- [summary of Training](MC/meeting3/training.pdf)
 - [summary of WG1](MC/meeting3/wg1.md)
 - [summary of WG2](MC/meeting3/wg2.pdf)
 - [summary of WG5](MC/meeting3/wg5.pdf)

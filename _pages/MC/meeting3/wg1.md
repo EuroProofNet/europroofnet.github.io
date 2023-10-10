@@ -1,7 +1,5 @@
 
-## WG1: Tools on Proof Systems Interoperability
-
-Report on 2022-2023
+## Summary of WG1 activities in 2023
 
 ---
 
