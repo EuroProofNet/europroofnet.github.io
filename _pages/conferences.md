@@ -31,6 +31,8 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 
 - 6-11 April 2024: [European joint conferences on theory and practice of software](https://etaps.org/) (ETAPS'24), Luxembourg
 
+- 30 January - 2 February 2024: [Journées Francophones des Langages Applicatifs](https://jfla.inria.fr/jfla2024.html) (JFLA'24), Saint-Jacut-de-la-Mer, France
+
 - 17-19 January 2024: [51st ACM SIGPLAN Symposium on Principles of Programming Languages](https://popl24.sigplan.org/) (POPL'24), London, UK
 
 - 15-16 January 2024: [26th International Symposium on Practical Aspects of Declarative Languages](https://popl24.sigplan.org/home/PADL-2024) (PADL'24), London, United Kingdom
