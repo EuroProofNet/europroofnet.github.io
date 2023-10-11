@@ -1,6 +1,3 @@
-<!-- this is a template file, DO NOT modify it,
-make a copy of it in the directory of your event and replace XXX -->
-
 ---
 title: "Administration page for the WG5 meeting in Vienna in 2024"
 layout: single
