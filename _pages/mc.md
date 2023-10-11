@@ -11,6 +11,7 @@ title: "Management Committee Meetings"
 - [summary of WG1](MC/meeting3/wg1.md)
 - [summary of WG2](MC/meeting3/wg2.pdf)
 - [summary of WG5](MC/meeting3/wg5.pdf)
+- [summary of WG6](MC/meeting3/wg6.pdf)
 - [program of Nov 23 - Oct 24](MC/meeting3/plan.pdf)
 <!-- [work and budget plan for Nov 22 - Oct 23](MC/meeting2/WBP-AGA-CA20111-3_16455.pdf)-->
 
