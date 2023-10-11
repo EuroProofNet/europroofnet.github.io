@@ -1,7 +1,7 @@
 ---
-title: "Administration page for the meeting XXX"
+title: "Administration page for the WG6 meeting in Leuven in April 2024"
 layout: single
-permalink: /XXX-admin/
+permalink: /wg6-leuven-admin/
 author_profile: true
 breadcrumbs: true
 ---
