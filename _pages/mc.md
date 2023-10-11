@@ -5,7 +5,7 @@ title: "Management Committee Meetings"
 
 **Meeting 3: 9 October 2023**
 
-<!-- [minutes](MC/meeting2/minutes.pdf)-->
+- [minutes](MC/meeting3/minutes.pdf)
 - [summary of activities on Nov 22 - Oct 23](MC/meeting3/summary.pdf)
 - [summary of Training](MC/meeting3/training.pdf)
 - [summary of WG1](MC/meeting3/wg1.md)
