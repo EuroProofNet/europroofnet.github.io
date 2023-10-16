@@ -28,10 +28,10 @@ TBD
 **Participants:** Please see [here](participants)
 
 **Deadlines (AoE)**
-Submission of talk proposals: TBD
-Author notification: TBD
-Funding requests: TBD
-Registration: TBD
+* Submission of talk proposals: TBD
+* Author notification: TBD
+* Funding requests: TBD
+* Registration: TBD
 
 **Funding:**
 The reimbursement concerns the official dates of the WG6 meeting: Apr 4-5 (so not the colocated event).
