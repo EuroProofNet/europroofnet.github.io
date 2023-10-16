@@ -13,7 +13,7 @@ syntax and semantics.
 
 ### Activities
 
-- 2-5 April 2024: [WG6 meeting](../wg6-leuven), Leuven, Belgium
+- 4-5 April 2024: [WG6 meeting](../wg6-leuven), Leuven, Belgium
 
 - 24-25 April 2023: [WG6 meeting](../wg6-vienna), Vienna, Austria
 
