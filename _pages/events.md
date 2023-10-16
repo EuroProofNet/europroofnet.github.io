@@ -11,6 +11,9 @@ author_profile: true
 
 **Past events:**
 
+**2023**
+
+- 9 October 2023: [3rd Management Committee meeting](https://europroofnet.github.io/mc-meetings/)
 - 26-27 September 2023: [WG1+4 meeting](../WG1+4-meeting-Sep2023), Fontainebleau, France
 - 6-8 September 2023: [Joint WG4-WG5 meeting/Workshop on Natural Formal Mathematics, and on libraries of formal proofs and natural mathematical language](../cambridge-2023), Cambridge, UK
 - 28 August - 1st September 2023: [School on Verification Technology, Systems & Applications](https://resources.mpi-inf.mpg.de/departments/rg1/conferences/vtsa23/), Nancy, France
@@ -28,6 +31,9 @@ author_profile: true
 - 8-9 February 2023: [WG3 meeting on program verification](../wg3-timisoara), Timisoara, Romania
 - 27-29 January 2023: [2nd Dedukti tools developers meeting](../dk-meeting2), Fréjus, France
 - 1st January 2023: deadline for [STSM](../grants) proposals
+
+**2022**
+
 - 24 October 2022: [2nd Management Committee meeting](/mc-meetings)
 - 16-18 October 2022: [Dedukti tools developers meeting](/dk-meeting1), Val d'Ajol, France
 - 23-24 September 2022: [EuroProofNet workshop on the development, maintenance, refactoring and search of large libraries of proofs](/wg4-meeting1), Tbilisi, Georgia
@@ -42,4 +48,7 @@ author_profile: true
 - 10-11 Feb 2022: [WG3 kick-off meeting](https://europroofnet.github.io/wg3-meeting1), Valencia, Spain [Slides&Videos](https://europroofnet.github.io/wg3-meeting1-program) [Report](https://europroofnet.github.io/_pages/WG3/Feb2022/ReportWG3meeting.pdf)
 - 18 January 2022; [Deadline for STSM proposals](/grants) (notification on 26 January)
 - Jan-Oct 2022: [Work and budget plan for January-October 2022](https://europroofnet.github.io/work-plan-1/)
+
+**2021**
+
 - 11-12 Oct 2021: [1st Management Committee Meeting](/mc-meetings) (online)

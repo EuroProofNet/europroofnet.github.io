@@ -103,4 +103,5 @@ Each COST (cooperating) member country can have one or two representatives. Ther
 - Sweden: [Anders Mörtberg](https://staff.math.su.se/anders.mortberg/) and [Robin Adams](https://www.chalmers.se/en/staff/Pages/robinad.aspx)
 - Switzerland: [Viktor Kuncak](https://lara.epfl.ch/~kuncak/)
 - Turkey: [Ümit Ertuğrul](https://avesis.ktu.edu.tr/uertugrul/)
+- Ukraine: Mykola Nikitchenko
 - United Kingdom: [Angeliki Koutsoukou-Argyraki](https://www.cl.cam.ac.uk/~ak2110/) and [Benedikt Ahrens](https://benediktahrens.gitlab.io/)

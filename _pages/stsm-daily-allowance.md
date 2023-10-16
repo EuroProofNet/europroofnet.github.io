@@ -22,9 +22,9 @@ host country as follows (this list is indicative, ask the [Grant Holder](mailto:
 | Denmark | 222 |
 | Estonia | 129 |
 | Finland | 220 |
-| France city of Paris | 145 |
-| France big cities (*) and Paris region | 125 |
-| France other regions | 105 |
+| France city of Paris | 180 |
+| France big cities (*) and Paris region | 160 |
+| France other regions | 130 |
 | Georgia | 158 |
 | Germany | 164 |
 | Greece | 167 |

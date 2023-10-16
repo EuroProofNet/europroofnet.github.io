@@ -110,7 +110,7 @@ If you want to give a talk or if you want to apply for funding, fill out the [Re
 | ------------- | ------------------  | ------------------------------------------------------------------------------- |
 | | | **Session 10C: Invited talk & Paper presentation (Chair: Dennis Müller)** |
 | 14:00 - 15:00 | Roussanka Loukanova | [**Invited Talk** Type Theories for Computational Grammar of Natural Language](#loukanova) [[slides]](loukanova.pdf)   |
-| 15:00 - 15:30 | Peter Koepke        | [Experiences with Natural Language Proof Checking](#koepke2)                                |
+| 15:00 - 15:30 | Peter Koepke        | [Experiences with Natural Language Proof Checking](#koepke2) [[slides]](koepke.pdf)                               |
 | 15:30 - 16:00 | Adrian De Lon       | [Scaling a natural proof assistant step by step](#delon) [[slides]](de_lon.pdf)                                 |
 | 16:00 - 16:30 |                     | **Coffee Break**                                                                       |
 | | | **Session 11:  Paper presentation (Chair: Roussanka Loukanova)** |
@@ -330,7 +330,7 @@ References
 - Schröder, Bernhard (in print): Induktiv oder intuitiv? Die Gewinnung von Frames aus mathematischen Beweistexten 
 
 <a name="koepke2"></a>
-### Peter Koepke - Experiences with Natural Language Proof Checking
+### Peter Koepke - Experiences with Natural Language Proof Checking [[slides]](koepke.pdf)
 The Naproche system (for Natural Proof Checking) [1, 2] interactively proof-checks natural language mathematical texts whilst they are being editing. Input texts are written in the controlled natural language ForTheL (for Formula Theory Language) [3] which is intended to approximate the natural mathematical language. Since ForTheL uses a LaTeX format, high-quality typesetting of formalizations is immediately available. Over the last years a number of theorems from non-trivial university mathematics have been formalized in Naproche. Naproche is distributed as part of the Isabelle prover platform which also includes a selection of Naproche formalizations. Some of these texts closely resemble material that could be found in mathematics textbooks.
 
 Although Naproche allowed to achieve natural mathematical readability for strictly proof-checked formalizations, the formalization process has been slow and arduous. Users not only have to write a logically correct formal document for the intended mathematical content, but at the same time they have to struggle with the

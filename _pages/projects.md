@@ -11,7 +11,7 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 
 - 2022-2026: ForCUTT, Formalisation of Constructive Univalent Type Theory (ERC Advanced Grant to [Thierry Coquand](http://www.cse.chalmers.se/~coquand/))
 
-- 2021- : [Hoskinson Center for Formal Mathematics](https://www.cmu.edu/news/stories/archives/2021/september/hoskinson-center-for-formal-mathematics.html)
+- 2021- : [Hoskinson Center for Formal Mathematics](https://www.cmu.edu/hoskinson/) [[news]](https://www.cmu.edu/news/stories/archives/2021/september/hoskinson-center-for-formal-mathematics.html)
 
 - 2021-2026: [Type Theory for Mathematics and Computer Science](https://kaw.wallenberg.org/en/research/software-checks-proof)
 
