@@ -13,6 +13,8 @@ syntax and semantics.
 
 ### Activities
 
+- 2-5 April 2024: [WG6 meeting](../wg6-leuven), Leuven, Belgium
+
 - 24-25 April 2023: [WG6 meeting](../wg6-vienna), Vienna, Austria
 
 - 20-21 May 2022: kickoff meeting [*Syntax and Semantics of Type Theories*](/wg6-kickoff-stockholm), Stockholm University, Sweden
