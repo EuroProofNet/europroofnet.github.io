@@ -33,10 +33,19 @@ Author notification: TBD
 Funding requests: TBD
 Registration: TBD
 
-**Registration & funding:**
+**Funding:**
 The reimbursement concerns the official dates of the WG6 meeting: Apr 4-5 (so not the colocated event).
 For information regarding reimbursement, please see [here](../reimbursement-rules).
 The daily allowance has been fixed to 140 euros.
+
+The action members who will be reimbursed will be selected among the applicants by
+taking into account the following criteria in order: planned contributions to the
+objectives and deliverables of the action; inclusive target countries; age; gender;
+team with low resources; balance over the action life time between people, teams,
+countries and working groups.
+
+**Registration:**
+TBD
 
 **Local information:** Please see [here](https://anuyts.github.io/2024/venue.html).
 
