@@ -10,6 +10,7 @@ title: "Management Committee Meetings"
 - [summary of Training](MC/meeting3/training.pdf)
 - [summary of WG1](MC/meeting3/wg1.md)
 - [summary of WG2](MC/meeting3/wg2.pdf)
+- [summary of WG3](MC/meeting3/wg3.pdf)
 - [summary of WG5](MC/meeting3/wg5.pdf)
 - [summary of WG6](MC/meeting3/wg6.pdf)
 - [program of Nov 23 - Oct 24](MC/meeting3/plan.pdf)
