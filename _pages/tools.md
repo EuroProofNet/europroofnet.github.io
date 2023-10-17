@@ -56,8 +56,9 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 - [Maude2Lean](https://fadoss.github.io/maude2lean/)
 - [Lean2Coq](https://coq.discourse.group/t/alpha-announcement-coq-is-a-lean-typechecker/581): Lean to Coq
 - [B-pog-translator](https://github.com/Deducteam/B-pog-translator): translator from Atelier B proof obligation files to Lambdapi
-* [Predicativize](https://github.com/Deducteam/predicativize): translate Dedukti proofs to Dedukti proofs with universe polymorphism, and translate them to Agda 
-* [Lean2dk](https://github.com/Deducteam/lean2dk): Lean4 to Dedukti
+- [Predicativize](https://github.com/Deducteam/predicativize): translate Dedukti proofs to Dedukti proofs with universe polymorphism, and translate them to Agda
+- [Lean2dk](https://github.com/Deducteam/lean2dk): Lean4 to Dedukti
+- [Carcara](https://github.com/NotBad4U/carcara/tree/lambdapi-translation): translator from Alethe to Lambdapi
 
 **Interactive theorem provers**
 
