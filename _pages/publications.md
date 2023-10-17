@@ -59,6 +59,8 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 
 - [Automated Completion of Statements and Proofs in Synthetic Geometry: an Approach based on Constraint Solving](https://hal.science/hal-04226900), Salwa Tabet Gonzalez, Predrag Janičić, Julien Narboux, ADG 2023.
 
+- [Reconstruction of TLAPS Proofs Solved by VeriT in Lambdapi](https://link.springer.com/chapter/10.1007/978-3-031-33163-3_29), Coltellacci Alessio, [ABZ 2023](https://abz2023.loria.fr/).
+
 **2022**
 
 - [Bridging between LegalRuleML and TPTP for Automated Normative Reasoning](https://doi.org/10.1007/978-3-031-21541-4_16), Alexander Steen and David Fuenmayor, [RuleML+RR 2022](https://2022.declarativeai.net/events/ruleml-rr)
