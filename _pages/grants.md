@@ -156,7 +156,7 @@ Technology, www.cost.eu)".
 
 **More questions?**
 
-For any question, please contact the two coordinators for STSMs: [Danijela Simic](http://poincare.matf.bg.ac.rs/~danijela) (University of Belgrade, Serbia) **AND** [Ambrus Kaposi](http://akaposi.web.elte.hu) (Eötvös Loránd University, Hungary). Please, contact them both in case one is not available.
+For any question, please contact the two coordinators for STSMs: [Simona Prokić](http://imft.ftn.uns.ac.rs/simona/) (University of Belgrade, Serbia) **AND** [Ambrus Kaposi](http://akaposi.web.elte.hu) (Eötvös Loránd University, Hungary). Please, contact them both in case one is not available.
 
 If you have questions concerning reimbursements, please contact
 the [Grant Holder](mailto:saf-saclay-recettes@inria.fr).
