@@ -13,7 +13,7 @@ EuroProofNet can provide two kinds of grants:
   
 **Upcoming deadlines**
 
-- The next call will be in November or December 2023.
+- 12 November 2023: for STSMs and ITCGs between December 2023 and June 2024
 
 **Application web sites**
 
