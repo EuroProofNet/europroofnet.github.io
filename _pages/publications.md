@@ -37,8 +37,12 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 - [Matching-Logic-Based Understanding of Polynomial Functors and their Initial/Final Models](https://dx.doi.org/10.4204/EPTCS.389.4), Dorel Lucanu, [FROM'23](https://from2023.cs.unibuc.ro)
 - [Measuring the Readability of Geometric Proofs&mdash;The Area Method Case](https://doi.org/10.1007/s10817-022-09652-0), Pedro Quaresma, Pierluigi Graziani, [*JAR*](https://www.springer.com/journal/10817)
 - [Mechanising Gödel–Löb Provability Logic in HOL Light](https://doi.org/10.1007/s10817-023-09677-z), Marco Maggesi, Cosimo Perini Brogi, [*JAR*](https://www.springer.com/journal/10817)
+- [On modified Halpern and Tikhonov-Mann iterations](https://doi.org/10.1007/s10957-023-02192-6), Horațiu Cheval, Ulrich Kohlenbach, Laurentiu Leustean, [*J. Optim. Theor. Appl.*](https://www.springer.com/journal/10957)
 - [Operationally-based program equivalence proofs using LCTRSs](https://doi.org/10.1016/j.jlamp.2023.100894), Ştefan Ciobâcă, Dorel Lucanu, Andrei Sebastian Buruiană, [*JLAMP*](https://www.sciencedirect.com/journal/journal-of-logical-and-algebraic-methods-in-programming)
+- [Parameterized Algebraic Protocols](https://doi.org/10.1145/3591277), Andreia Mordido, Janek Spaderna, Peter Thiemann, Vasco T. Vasconcelos, [PLDI'23](https://pldi23.sigplan.org)
 - [Proof-carrying parameters in certified symbolic execution](https://doi.org/10.1093/jigpal/jzad008), Andrei Arusoaie, Dorel Lucanu, [*LJIGPL*](https://academic.oup.com/jigpal)
+- [Rates of asymptotic regularity for the alternating Halpern-Mann iteration](https://doi.org/10.1007/s11590-023-02002-y), Laurentiu Leustean, Pedro Pinto,
+  [Optimization Letters](https://www.springer.com/journal/11590)
 - [Reconstruction of TLAPS Proofs Solved by VeriT in Lambdapi](https://doi.org/10.1007/978-3-031-33163-3_29), Coltellacci Alessio, [ABZ'23](https://abz2023.loria.fr/)
 - [Representation, Verification, and Visualization of Tarskian Interpretations for Typed First-order Logic](https://doi.org/10.29007/1rhx), Alexander Steen, Geoff Sutcliffe, Pascal Fontaine, Jack McKeown, [LPAR'23](https://easychair.org/smart-program/LPAR2023/)
 - [Simple Type Theory: A Practical Logic for Expressing and Reasoning About Mathematical Ideas](https://doi.org/10.1007/978-3-031-21112-6), William M. Farmer
