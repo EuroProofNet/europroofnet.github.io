@@ -13,6 +13,8 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 
 - 2021- : [Hoskinson Center for Formal Mathematics](https://www.cmu.edu/hoskinson/) [[news]](https://www.cmu.edu/news/stories/archives/2021/september/hoskinson-center-for-formal-mathematics.html)
 
+- 2021- : [LISA](https://github.com/epfl-lara/lisa): Proof assistant based on set theory (SNF Grant 2021-2024)
+
 - 2021-2026: [Type Theory for Mathematics and Computer Science](https://kaw.wallenberg.org/en/research/software-checks-proof)
 
 - 2022-2025: [ICSPA](https://www.clearsy.com/recherche-et-developpement/icspa/), Interoperable and Confident Set-based Proof Assistants

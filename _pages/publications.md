@@ -12,6 +12,9 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 - [STSM reports](../accepted_stsms)
 
 **2023**
+- [LISA: A Modern Proof System](https://drops.dagstuhl.de/opus/volltexte/2023/18392/)  Simon Guilloud, Sankalp Gambhir and Viktor Kunčak
+
+- [Formula Normalizations in Verification](https://link.springer.com/chapter/10.1007/978-3-031-37709-9_19)  Simon Guilloud, Mario Bucev, Dragana Milovančević and Viktor Kunčak
 
 - [Flexible Automation of Quantified Multi-Modal Logics with Interaction](https://doi.org/10.1007/978-3-031-42608-7_18), Melanie Taprogge and Alexander Steen, [KI 2023](https://ki2023.gi.de/)
 
