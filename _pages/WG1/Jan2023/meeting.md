@@ -83,7 +83,7 @@ API. In particular, this should ease the integration with
 [STTfaxport](https://github.com/Deducteam/sttfaxport), a tool to
 export proofs from the logic STTfa to various proof systems.
 
-**Thursday 26 January (optional, for people who arrives the day before the meeting):**
+**Thursday 26 January (optional, for people arriving the day before the meeting):**
 
 |14:00-16:00|work session 3|
 |16:00-16:15|coffee break|
@@ -134,7 +134,7 @@ export proofs from the logic STTfa to various proof systems.
 |19:30-21:00|dinner|
 |21:00-23:00|work session 5 (optional)|
 
-**Monday 30 January (optional, for people who leaves after the meeting):**
+**Monday 30 January (optional, for people arriving after the meeting):**
 
 |08:00-08:30|breakfast|
 |08:30-10:30|work session 1|
