@@ -15,6 +15,7 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 
 - [A modular construction of type theories](https://doi.org/10.46298/lmcs-19(1:12)2023), Frédéric Blanqui, Gilles Dowek, Emilie Grienenberger, Gabriel Hondet, François Thiré, [*LMCS*](https://lmcs.episciences.org)
 - [A Rewriting Coherence Theorem with Applications in Homotopy Type Theory](https://doi.org/10.1017/S0960129523000026), Nicolai Kraus, Jakob von Raumer, [*MSCS*](https://www.cambridge.org/core/journals/mathematical-structures-in-computer-science)
+- [Admissible Types-to-PERs Relativizations in Higher-Order Logic](https://doi.org/10.1145/3571235), Andrei Popescu, Dmitriy Traytel, [POPL'23](https://popl23.sigplan.org)
 - [An Efficient Proof Checker and Elaborator for SMT Proofs in the Alethe Format](https://doi.org/10.1007/978-3-031-30823-9_19), Bruno Andreotti, Hanna Lachnitt, Haniel Barbosa, [TACAS'23](https://etaps.org/2023/conferences/)
 - [An Interactive Interpretation Viewer for Typed First-order Logic](https://doi.org/10.32473/flairs.36.133073), Jack McKeown, Geoff Sutcliffe, [FLAIRS'23](https://www.flairs-36.info)
 - [Anti-unification and Generalization: A Survey](https://doi.org/10.24963/ijcai.2023/736), David M. Cerna, Temur Kutsia, [IJCAI'23](https://ijcai-23.org) 
@@ -28,6 +29,7 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 - [Evasiveness Through Binary Decision Diagrams](https://doi.org/10.1007/978-3-031-42753-4_3), Jesús Aransay, Laureano Lambán, Julio Rubio, [CICM'23](https://cicm-conference.org/2023/cicm.php)
 - [Experiments on Infinite Model Finding in SMT Solving](https://doi.org/10.29007/slrm), Julian Parsert, Chad Brown, Mikolas Janota, Cezary Kaliszyk, [LPAR'23](https://easychair.org/smart-program/LPAR2023/)
 - [Exploring Mathematical Conjecturing with Large Language Models](https://ceur-ws.org/Vol-3432/paper5.pdf), Moa Johansson, Nicholas Smallbone, [NeSy'23](https://sites.google.com/view/nesy2023)
+- [Extending a High-Performance Prover to Higher-Order Logic](https://doi.org/10.1007/978-3-031-30820-8_10), Petar Vukmirović, Jasmin Blanchette, Stephan Schulz, [TACAS'23](https://etaps.org/2023/conferences/)
 - [Flexible Automation of Quantified Multi-Modal Logics with Interaction](https://doi.org/10.1007/978-3-031-42608-7_18), Melanie Taprogge, Alexander Steen, [KI'23](https://ki2023.gi.de/)
 - [For the Metatheory of Type Theory, Internal Sconing Is Enough](https://doi.org/10.4230/LIPIcs.FSCD.2023.18), Rafaël Bocquet, Ambrus Kaposi, Christian Sattler,  [FSCD'23](https://easyconferences.eu/fscd2023/)
 - [Formula Normalizations in Verification](https://doi.org/10.1007/978-3-031-37709-9_19), Simon Guilloud, Mario Bucev, Dragana Milovančević, Viktor Kunčak, [CAV'23](http://www.i-cav.org/2023/)
@@ -40,6 +42,7 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 - [Matching-Logic-Based Understanding of Polynomial Functors and their Initial/Final Models](https://dx.doi.org/10.4204/EPTCS.389.4), Dorel Lucanu, [FROM'23](https://from2023.cs.unibuc.ro)
 - [Measuring the Readability of Geometric Proofs&mdash;The Area Method Case](https://doi.org/10.1007/s10817-022-09652-0), Pedro Quaresma, Pierluigi Graziani, [*JAR*](https://www.springer.com/journal/10817)
 - [Mechanising Gödel–Löb Provability Logic in HOL Light](https://doi.org/10.1007/s10817-023-09677-z), Marco Maggesi, Cosimo Perini Brogi, [*JAR*](https://www.springer.com/journal/10817)
+- [MizAR 60 for Mizar 50](https://doi.org/10.4230/LIPIcs.ITP.2023.19), Jan Jakubův, Karel Chvalovský, Zarathustra Goertzel, Cezary Kaliszyk, Mirek  Olšák, Bartosz Piotrowski, Stephan Schulz, Martin Suda, Josef Urban, [ITP'23](https://mizar.uwb.edu.pl/ITP2023/)
 - [Now It Compiles! Certified Automatic Repair of Uncompilable Protocols](https://doi.org/10.4230/LIPIcs.ITP.2023.11), Luís Cruz-Filipe, Fabrizio Montesi, [ITP'23](https://mizar.uwb.edu.pl/ITP2023/)
 - [On modified Halpern and Tikhonov-Mann iterations](https://doi.org/10.1007/s10957-023-02192-6), Horațiu Cheval, Ulrich Kohlenbach, Laurentiu Leustean, [*J. Optim. Theor. Appl.*](https://www.springer.com/journal/10957)
 - [Operationally-based program equivalence proofs using LCTRSs](https://doi.org/10.1016/j.jlamp.2023.100894), Ştefan Ciobâcă, Dorel Lucanu, Andrei Sebastian Buruiană, [*JLAMP*](https://www.sciencedirect.com/journal/journal-of-logical-and-algebraic-methods-in-programming)
@@ -76,7 +79,9 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 - [Automated Reasoning in Non-classical Logics in the TPTP World](http://ceur-ws.org/Vol-3201/), Alexander Steen, David Fuenmayor, Tobias Gleißner, Geoff Sutcliffe, Christoph Benzmüller, [PAAR'22](https://paar2022.github.io/)
 - [Bécassine à la chasse au Coq](https://hal.archives-ouvertes.fr/hal-03604902), Valentin Blot, Louise Dubois de Prisque, Chantal Keller, Pierre Vial, [JFLA'22](http://jfla.inria.fr/jfla2022.html)
 - [Bridging between LegalRuleML and TPTP for Automated Normative Reasoning](https://doi.org/10.1007/978-3-031-21541-4_16), Alexander Steen, David Fuenmayor, [RuleML+RR'22](https://2022.declarativeai.net/events/ruleml-rr)
+- [Contradiction Detection and Repair in Large Theories](https://doi.org/10.32473/flairs.v35i.130691), Adam Pease, Stephan Schulz, [FLAIRS'22](https://easychair.org/cfp/FLAIRS-35)
 - [Effective Kan Fibrations in Simplicial Sets](https://doi.org/10.1007/978-3-031-18900-5), Benno van den Berg, Eric Faber
+- [Empirical Properties of Term Orderings for Superposition](https://ceur-ws.org/Vol-3201/paper4.pdf), Stephan Schulz, [PAAR'22](https://paar2022.github.io)
 - [Encoding Type Universes Without Using Matching Modulo Associativity and Commutativity](https://doi.org/10.4230/LIPIcs.FSCD.2022.24), Frédéric Blanqui, [FSCD'22](https://www.cs.tau.ac.il/~nachumd/FSCD/)
 - [Evolution of Automated Deduction and Dynamic Constructions in Geometry](https://doi.org/10.1007/978-3-030-86909-0_1), Pedro Quaresma, [Mathematics Education in the Age of Artificial Intelligence, 2022](http://doi.org/10.1007/978-3-030-86909-0)
 - [Formalizing Alexander duality through BDDs](https://isaim2022.cs.ou.edu/papers/ISAIM2022_Formalization_Aransay_et_al.pdf), Jesús Aransay, Laureano Lambán, Julius Michaelis, Julio Rubio, [ISAIM'22](https://isaim2022.cs.ou.edu)
