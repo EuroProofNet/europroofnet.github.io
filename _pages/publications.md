@@ -31,6 +31,7 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 - [Formula Normalizations in Verification](https://doi.org/10.1007/978-3-031-37709-9_19), Simon Guilloud, Mario Bucev, Dragana Milovančević, Viktor Kunčak, [CAV'23](http://www.i-cav.org/2023/)
 - [Hammering Floating-Point Arithmetic](https://doi.org/10.1007/978-3-031-43369-6_12), Olle Torstensson, Tjark Weber, [FroCoS'23](https://frocos2023.github.io)
 - [Homotopy Type Theory as Internal Languages of Diagrams of ∞-Logoses](https://doi.org/10.4230/LIPIcs.FSCD.2023.5), Taichi Uemura, [FSCD'23](https://easyconferences.eu/fscd2023/)
+- [How to frame innovation in mathematics](https://doi.org/10.1007/s11229-023-04310-3), Bernhard Fisseni, Deniz Sarikaya, Bernhard Schröder, [Synthese](https://www.springer.com/journal/11229)
 - [Learning Proof Transformations and Its Applications in Interactive Theorem Proving](https://doi.org/10.1007/978-3-031-43369-6_13), Liao Zhang, Lasse Blaauwbroek, Cezary Kaliszyk, Josef Urban, [FroCoS'23](https://frocos2023.github.io)
 - [LISA: A Modern Proof System](https://doi.org/10.4230/LIPIcs.ITP.2023.17), Simon Guilloud, Sankalp Gambhir, Viktor Kunčak, [ITP'23](https://mizar.uwb.edu.pl/ITP2023/)
 - [Matching-Logic-Based Understanding of Polynomial Functors and their Initial/Final Models](https://dx.doi.org/10.4204/EPTCS.389.4), Dorel Lucanu, [FROM'23](https://from2023.cs.unibuc.ro)
@@ -40,6 +41,7 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 - [Proof-carrying parameters in certified symbolic execution](https://doi.org/10.1093/jigpal/jzad008), Andrei Arusoaie, Dorel Lucanu, [*LJIGPL*](https://academic.oup.com/jigpal)
 - [Reconstruction of TLAPS Proofs Solved by VeriT in Lambdapi](https://doi.org/10.1007/978-3-031-33163-3_29), Coltellacci Alessio, [ABZ'23](https://abz2023.loria.fr/)
 - [Representation, Verification, and Visualization of Tarskian Interpretations for Typed First-order Logic](https://doi.org/10.29007/1rhx), Alexander Steen, Geoff Sutcliffe, Pascal Fontaine, Jack McKeown, [LPAR'23](https://easychair.org/smart-program/LPAR2023/)
+- [Simple Type Theory: A Practical Logic for Expressing and Reasoning About Mathematical Ideas](https://doi.org/10.1007/978-3-031-21112-6), William M. Farmer
 - [Solving Modal Logic Problems by Translation to Higher-order Logic](https://doi.org/10.1007/978-3-031-40875-5_3), Alexander Steen, Geoff Sutcliffe, Tobias Scholl, Christoph Benzmüller, [CLAR'23](https://www.zlaire.net/zjulogai2023/clar2023/)
 - [Solving the SPARQL query containment problem with SpeCS](https://doi.org/10.1016/j.websem.2022.100770), Mirko Spasić, Milena Vujošević Janičić, [*J. Web Semant.*](https://www.sciencedirect.com/journal/journal-of-web-semantics)
 - [Tableaux and sequent calculi for CTL and ECTL: Satisfiability test with certifying proofs and models](https://doi.org/10.1016/j.jlamp.2022.100828), Alex Abuin, Alexander Bolotov, Montserrat Hermo, Paqui Lucio, [*JLAMP*](https://www.sciencedirect.com/journal/journal-of-logical-and-algebraic-methods-in-programming)
@@ -64,7 +66,7 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 - [Automated Reasoning in Non-classical Logics in the TPTP World](http://ceur-ws.org/Vol-3201/), Alexander Steen, David Fuenmayor, Tobias Gleißner, Geoff Sutcliffe, Christoph Benzmüller, [PAAR'22](https://paar2022.github.io/)
 - [Bécassine à la chasse au Coq](https://hal.archives-ouvertes.fr/hal-03604902), Valentin Blot, Louise Dubois de Prisque, Chantal Keller, Pierre Vial, [JFLA'22](http://jfla.inria.fr/jfla2022.html)
 - [Bridging between LegalRuleML and TPTP for Automated Normative Reasoning](https://doi.org/10.1007/978-3-031-21541-4_16), Alexander Steen, David Fuenmayor, [RuleML+RR'22](https://2022.declarativeai.net/events/ruleml-rr)
-- [Effective Kan Fibrations in Simplicial Sets](https://doi.org/10.1007/978-3-031-18900-5), Benno van den Berg , Eric Faber
+- [Effective Kan Fibrations in Simplicial Sets](https://doi.org/10.1007/978-3-031-18900-5), Benno van den Berg, Eric Faber
 - [Encoding Type Universes Without Using Matching Modulo Associativity and Commutativity](https://doi.org/10.4230/LIPIcs.FSCD.2022.24), Frédéric Blanqui, [FSCD'22](https://www.cs.tau.ac.il/~nachumd/FSCD/)
 - [Evolution of Automated Deduction and Dynamic Constructions in Geometry](https://doi.org/10.1007/978-3-030-86909-0_1), Pedro Quaresma, [Mathematics Education in the Age of Artificial Intelligence, 2022](http://doi.org/10.1007/978-3-030-86909-0)
 - [Formalizing Alexander duality through BDDs](https://isaim2022.cs.ou.edu/papers/ISAIM2022_Formalization_Aransay_et_al.pdf), Jesús Aransay, Laureano Lambán, Julius Michaelis, Julio Rubio, [ISAIM'22](https://isaim2022.cs.ou.edu)
