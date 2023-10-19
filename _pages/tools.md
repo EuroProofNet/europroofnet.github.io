@@ -59,6 +59,7 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 - [Predicativize](https://github.com/Deducteam/predicativize): translate Dedukti proofs to Dedukti proofs with universe polymorphism, and translate them to Agda
 - [Lean2dk](https://github.com/Deducteam/lean2dk): Lean4 to Dedukti
 - [Carcara](https://github.com/NotBad4U/carcara/tree/lambdapi-translation): translator from Alethe to Lambdapi
+- [mml2lambdapi](https://github.com/arturkornilowicz/mml2lambdapi.git): translator from Mizar to Lambdapi
 
 **Interactive theorem provers**
 
