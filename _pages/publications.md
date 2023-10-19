@@ -13,7 +13,7 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 
 **2023**
 
-- [A modular construction of type theories](https://doi.org/10.46298/lmcs-19(1:12)2023), Frédéric Blanqui, Gilles Dowek, Emilie Grienenberger, Gabriel Hondet, François Thiré, Logical Methods in Computer Science
+- [A modular construction of type theories](https://doi.org/10.46298/lmcs-19(1:12)2023), Frédéric Blanqui, Gilles Dowek, Emilie Grienenberger, Gabriel Hondet, François Thiré, [*LMCS*](https://lmcs.episciences.org)
 - [An Efficient Proof Checker and Elaborator for SMT Proofs in the Alethe Format](https://doi.org/10.1007/978-3-031-30823-9_19), Bruno Andreotti, Hanna Lachnitt, Haniel Barbosa, [TACAS'23](https://etaps.org/2023/conferences/)
 - [An Interactive Interpretation Viewer for Typed First-order Logic](https://doi.org/10.32473/flairs.36.133073), Jack McKeown, Geoff Sutcliffe, [FLAIRS'23](https://www.flairs-36.info)
 - [Anti-unification and Generalization: A Survey](https://doi.org/10.24963/ijcai.2023/736), David M. Cerna, Temur Kutsia, [IJCAI'23](https://ijcai-23.org) 
