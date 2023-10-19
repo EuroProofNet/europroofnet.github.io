@@ -12,7 +12,7 @@ breadcrumbs: true
 
 **Date:** 23-26 January 2024
 
-Remark: the official dates of the meeting taken into account for reimbursements are from January 23 to January 25. However, since most people will arrive on January 22 afternoon and leave on January 26 afternoon, the program includes two optional work sessions on January 22 afternoon and January 26 morning for the people who will be there.
+Remark: the official dates of the meeting taken into account for reimbursements are from January 23 to January 25 (3 days). However, since most people will arrive on January 22 afternoon and leave on January 26 afternoon, the program includes two optional work sessions on January 22 afternoon and January 26 morning for the people who will be there.
 
 **Venue:** [Hotel Phoebus](https://hotels-gruissan.com/), Boulevard de Planasse 11430 Gruissan, France
 
