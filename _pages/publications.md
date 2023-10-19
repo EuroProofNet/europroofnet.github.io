@@ -13,14 +13,15 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 
 **2023**
 
-- [A modular construction of type theories](https://doi.org/10.46298/lmcs-19(1:12)2023), Frédéric Blanqui, Gilles Dowek, Emilie Grienenberger, Gabriel Hondet, François Thiré, [*LMCS*](https://lmcs.episciences.org)
 - [A Rewriting Coherence Theorem with Applications in Homotopy Type Theory](https://doi.org/10.1017/S0960129523000026), Nicolai Kraus, Jakob von Raumer, [*MSCS*](https://www.cambridge.org/core/journals/mathematical-structures-in-computer-science)
+- [A modular construction of type theories](https://doi.org/10.46298/lmcs-19(1:12)2023), Frédéric Blanqui, Gilles Dowek, Emilie Grienenberger, Gabriel Hondet, François Thiré, [*LMCS*](https://lmcs.episciences.org)
 - [Admissible Types-to-PERs Relativizations in Higher-Order Logic](https://doi.org/10.1145/3571235), Andrei Popescu, Dmitriy Traytel, [POPL'23](https://popl23.sigplan.org)
 - [An Efficient Proof Checker and Elaborator for SMT Proofs in the Alethe Format](https://doi.org/10.1007/978-3-031-30823-9_19), Bruno Andreotti, Hanna Lachnitt, Haniel Barbosa, [TACAS'23](https://etaps.org/2023/conferences/)
 - [An Interactive Interpretation Viewer for Typed First-order Logic](https://doi.org/10.32473/flairs.36.133073), Jack McKeown, Geoff Sutcliffe, [FLAIRS'23](https://www.flairs-36.info)
 - [Anti-unification and Generalization: A Survey](https://doi.org/10.24963/ijcai.2023/736), David M. Cerna, Temur Kutsia, [IJCAI'23](https://ijcai-23.org) 
 - [Automated Completion of Statements and Proofs in Synthetic Geometry: an Approach based on Constraint Solving](https://hal.science/hal-04226900), Salwa Tabet Gonzalez, Predrag Janičić, Julien Narboux, [ADG'23](https://adg2023.matf.bg.ac.rs/?content=general)
 - [B-systems and C-systems are equivalent](https://doi.org/10.1017/jsl.2023.41), Benedikt Ahrens, Jacopo Emmenegger, Paige R. North, Egbert Rijke, [*JSL*](https://www.cambridge.org/core/journals/journal-of-symbolic-logic)
+- [Bases of pseudocompact Bishop spaces](https://doi.org/10.1017/9781009039888.015), Iosif Petrakis, [Handbook of Constructive Mathematics](https://doi.org/10.1017/9781009039888)
 - [Benchmarking Local Robustness of High-Accuracy Binary Neural Networks for Enhanced Traffic Sign Recognition](https://doi.org/10.4204/EPTCS.389.10), Andreea Postovan, Mădălina Eraşcu, [FROM'23](https://from2023.cs.unibuc.ro)
 - [Capturing constrained constructor patterns in matching logic]({https://doi.org/10.1016/j.jlamp.2022.100810), Xiaohong Chen, Dorel Lucanu, Grigore Rosu, [*JLAMP*](https://www.sciencedirect.com/journal/journal-of-logical-and-algebraic-methods-in-programming)
 - [Certified Compilation of Choreographies with hacc](https://doi.org/10.1007/978-3-031-35355-0_3), Luís Cruz-Filipe, Lovro Lugovic, Fabrizio Montesi, [FORTE'23](http://www.discotec.org/2023/forte.html)
@@ -39,8 +40,8 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 - [Homotopy Type Theory as Internal Languages of Diagrams of ∞-Logoses](https://doi.org/10.4230/LIPIcs.FSCD.2023.5), Taichi Uemura, [FSCD'23](https://easyconferences.eu/fscd2023/)
 - [How to frame innovation in mathematics](https://doi.org/10.1007/s11229-023-04310-3), Bernhard Fisseni, Deniz Sarikaya, Bernhard Schröder, [Synthese](https://www.springer.com/journal/11229)
 - [Keep me out of the loop: a more flexible choreographic projection](https://doi.org/10.29007/wbw3), Luís Cruz-Filipe, Fabrizio Montesi, Robert R. Rasmussen, [LPAR'23](https://easychair.org/smart-program/LPAR2023/)
-- [Learning Proof Transformations and Its Applications in Interactive Theorem Proving](https://doi.org/10.1007/978-3-031-43369-6_13), Liao Zhang, Lasse Blaauwbroek, Cezary Kaliszyk, Josef Urban, [FroCoS'23](https://frocos2023.github.io)
 - [LISA: A Modern Proof System](https://doi.org/10.4230/LIPIcs.ITP.2023.17), Simon Guilloud, Sankalp Gambhir, Viktor Kunčak, [ITP'23](https://mizar.uwb.edu.pl/ITP2023/)
+- [Learning Proof Transformations and Its Applications in Interactive Theorem Proving](https://doi.org/10.1007/978-3-031-43369-6_13), Liao Zhang, Lasse Blaauwbroek, Cezary Kaliszyk, Josef Urban, [FroCoS'23](https://frocos2023.github.io)
 - [Matching-Logic-Based Understanding of Polynomial Functors and their Initial/Final Models](https://dx.doi.org/10.4204/EPTCS.389.4), Dorel Lucanu, [FROM'23](https://from2023.cs.unibuc.ro)
 - [Measuring the Readability of Geometric Proofs&mdash;The Area Method Case](https://doi.org/10.1007/s10817-022-09652-0), Pedro Quaresma, Pierluigi Graziani, [*JAR*](https://www.springer.com/journal/10817)
 - [Mechanising Gödel–Löb Provability Logic in HOL Light](https://doi.org/10.1007/s10817-023-09677-z), Marco Maggesi, Cosimo Perini Brogi, [*JAR*](https://www.springer.com/journal/10817)
@@ -51,14 +52,14 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 - [Parameterized Algebraic Protocols](https://doi.org/10.1145/3591277), Andreia Mordido, Janek Spaderna, Peter Thiemann, Vasco T. Vasconcelos, [PLDI'23](https://pldi23.sigplan.org)
 - [Proof-carrying parameters in certified symbolic execution](https://doi.org/10.1093/jigpal/jzad008), Andrei Arusoaie, Dorel Lucanu, [*LJIGPL*](https://academic.oup.com/jigpal)
 - [Propositional Forms of Judgemental Interpretations](https://doi.org/10.1007/s10849-023-09397-y), Tao Xue, Zhaohui Luo, Stergios Chatzikyriakidis, [*J. Log. Lang. Inf.*](https://www.springer.com/journal/10849)
-- [](https://doi.org/10.1007/978-3-031-38499-8_5), Maria Paola Bonacina, Stéphane Graham-Lengrand, Christophe Vauthier, [CADE'23](https://easyconferences.eu/cade2023/)
+- [QSMA: A New Algorithm for Quantified Satisfiability Modulo Theory and Assignment](https://doi.org/10.1007/978-3-031-38499-8_5), Maria Paola Bonacina, Stéphane Graham-Lengrand, Christophe Vauthier, [CADE'23](https://easyconferences.eu/cade2023/)
 - [Rates of asymptotic regularity for the alternating Halpern-Mann iteration](https://doi.org/10.1007/s11590-023-02002-y), Laurentiu Leustean, Pedro Pinto, [*Optimization Letters*](https://www.springer.com/journal/11590)
 - [Reconstruction of TLAPS Proofs Solved by VeriT in Lambdapi](https://doi.org/10.1007/978-3-031-33163-3_29), Coltellacci Alessio, [ABZ'23](https://abz2023.loria.fr/)
 - [Representation, Verification, and Visualization of Tarskian Interpretations for Typed First-order Logic](https://doi.org/10.29007/1rhx), Alexander Steen, Geoff Sutcliffe, Pascal Fontaine, Jack McKeown, [LPAR'23](https://easychair.org/smart-program/LPAR2023/)
 - [Restricted Computations and Parameters in Type-Theory of Acyclic Recursion](https://doi.org/10.14201/adcaij.29081), Roussanka Loukanova, [*ADCAIJ*](https://adcaij.usal.es)
-- [Simple Type Theory: A Practical Logic for Expressing and Reasoning About Mathematical Ideas](https://doi.org/10.1007/978-3-031-21112-6), William M. Farmer
 - [Semantically-guided goal-sensitive reasoning: decision procedures and the Koala prover](https://doi.org/10.1007/s10817-022-09656-w), Maria Paola Bonacina, Sarah Winkler, [*JAR*](https://www.springer.com/journal/10817)
 - [Set-Theoretic and Type-Theoretic Ordinals Coincide](https://doi.org/10.1109/LICS56636.2023.10175762), Tom de Jong, Nicolai Kraus, Fredrik Nordvall Forsberg, Chuangjie Xu, [LICS'23](https://lics.siglog.org/lics23/)
+- [Simple Type Theory: A Practical Logic for Expressing and Reasoning About Mathematical Ideas](https://doi.org/10.1007/978-3-031-21112-6), William M. Farmer
 - [Solving Modal Logic Problems by Translation to Higher-order Logic](https://doi.org/10.1007/978-3-031-40875-5_3), Alexander Steen, Geoff Sutcliffe, Tobias Scholl, Christoph Benzmüller, [CLAR'23](https://www.zlaire.net/zjulogai2023/clar2023/)
 - [Solving the SPARQL query containment problem with SpeCS](https://doi.org/10.1016/j.websem.2022.100770), Mirko Spasić, Milena Vujošević Janičić, [*J. Web Semant.*](https://www.sciencedirect.com/journal/journal-of-web-semantics)
 - [Tableaux and sequent calculi for CTL and ECTL: Satisfiability test with certifying proofs and models](https://doi.org/10.1016/j.jlamp.2022.100828), Alex Abuin, Alexander Bolotov, Montserrat Hermo, Paqui Lucio, [*JLAMP*](https://www.sciencedirect.com/journal/journal-of-logical-and-algebraic-methods-in-programming)
@@ -74,12 +75,14 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 - [Who Finds the Short Proof? An Exploration of Variants of Boolos' Curious Inference using Higher-order Automated Theorem Provers](http://doi.org/10.1093/jigpal/jzac082), Christoph Benzmüller, David Fuenmayor, Alexander Steen, Geoff Sutcliffe. [*LJIGPL*](https://academic.oup.com/jigpal)
 
 
+
 **2022**
 
 
 - [A Matching Logic Foundation for Alk](https://doi.org/10.1007/978-3-031-17715-6_19), Alexandru-Ioan Lungu, Dorel Lucanu, [ICTAC'22](https://viam.science.tsu.ge/clas2022/ictac/)
 - [A Metatheoretic Analysis of Subtype Universes](https://doi.org/10.4230/LIPIcs.TYPES.2022.9), Felix Bradley, Zhaohui Luo, [TYPES'22](https://types22.inria.fr)
 - [Adequate and Computational Encodings in the Logical Framework Dedukti](https://doi.org/10.4230/LIPIcs.FSCD.2022.25), Thiago Felicissimo, [FSCD'22](https://www.cs.tau.ac.il/~nachumd/FSCD/)
+- [Algebras of complemented subsets](https://doi.org/10.1007/978-3-031-08740-0_21), Iosif Petrakis, Daniel Wessel, [CiE'22](https://easychair.org/cfp/CiE2022)
 - [Algorithmic Dependent-Type Theory of Situated Information and Context Assessments](https://doi.org/10.1007/978-3-031-20859-1_4), Roussanka Loukanova, [DCAI'22](https://edition2022.dcai-conference.net/index.html)
 - [An Extensible Logic Embedding Tool for Lightweight Non-Classical Reasoning](http://ceur-ws.org/Vol-3201/), Alexander Steen, [PAAR'22](https://paar2022.github.io/)
 - [An Implementation of Set Theory with Pointed Graphs in Dedukti](https://hal.inria.fr/hal-03740004), Valentin Blot, Gilles Dowek, Thomas Traversié, [LFMTP'22](https://lfmtp.org/workshops/2022/)
@@ -88,6 +91,8 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 - [Bécassine à la chasse au Coq](https://hal.archives-ouvertes.fr/hal-03604902), Valentin Blot, Louise Dubois de Prisque, Chantal Keller, Pierre Vial, [JFLA'22](http://jfla.inria.fr/jfla2022.html)
 - [Bridging between LegalRuleML and TPTP for Automated Normative Reasoning](https://doi.org/10.1007/978-3-031-21541-4_16), Alexander Steen, David Fuenmayor, [RuleML+RR'22](https://2022.declarativeai.net/events/ruleml-rr)
 - [CDSAT for nondisjoint theories with shared predicates: arrays with abstract length](https://ceur-ws.org/Vol-3185/paper9712.pdf), Maria Paola Bonacina, Stéphane Graham-Lengrand, Natarajan Shankar, [SMT'22](https://smt-workshop.cs.uiowa.edu/2022/)
+- [Closed subsets in Bishop topological groups](https://doi.org/10.1016/j.tcs.2022.09.004), Iosif Petrakis, [*TCS*](https://www.sciencedirect.com/journal/theoretical-computer-science)
+- [Computability models over categories and presheaves](https://doi.org/10.1007/978-3-030-93100-1_16), Iosif Petrakis, [LFCS'22](https://lfcs.ws.gc.cuny.edu)
 - [Conflict-driven satisfiability for theory combination: lemmas, modules, and proofs](https://doi.org/10.1007/s10817-021-09606-y), Maria Paola Bonacina, Stéphane Graham-Lengrand, Natarajan Shankar, [*JAR*](https://www.springer.com/journal/10817)
 - [Contradiction Detection and Repair in Large Theories](https://doi.org/10.32473/flairs.v35i.130691), Adam Pease, Stephan Schulz, [FLAIRS'22](https://easychair.org/cfp/FLAIRS-35)
 - [Effective Kan Fibrations in Simplicial Sets](https://doi.org/10.1007/978-3-031-18900-5), Benno van den Berg, Eric Faber
@@ -99,16 +104,19 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 - [Larry Wos &ndash; Visions of automated reasoning](https://doi.org/10.1007/s10817-022-09620-8), Michael Beeson, Maria Paola Bonacina, Michael Kinyon, Geoff Sutcliffe, [*JAR*](https://www.springer.com/journal/10817)
 - [Learning Higher-Order Logic Programs From Failures](https://doi.org/10.24963/ijcai.2022/378), Stanisław J. Purgał, David M. Cerna, Cezary Kaliszyk, [IJCAI'22](https://ijcai-22.org)
 - [Lemmaless Induction in Trace Logic](https://doi.org/10.1007/978-3-031-16681-5_14), Ahmed Bhayat, Pamina Georgiou, Clemens Eisenhofer, Laura Kovács, Giles Reger, [CICM'22](https://cicm-conference.org/2022/cicm.php)
-- [On SGGS and Horn clauses](https://ceur-ws.org/Vol-3201/paper6.pdf), Maria Paola Bonacina, Sarah Winkler, [PAAR'22](https://paar2022.github.io)
 - [On Quantitative Algebraic Higher-Order Theories](https://doi.org/10.4230/LIPIcs.FSCD.2022.4), Ugo Dal Lago, Furio Honsell, Marina Lenisa, Paolo Pistone, [FSCD'22](https://www.cs.tau.ac.il/~nachumd/FSCD/)
+- [On SGGS and Horn clauses](https://ceur-ws.org/Vol-3201/paper6.pdf), Maria Paola Bonacina, Sarah Winkler, [PAAR'22](https://paar2022.github.io)
 - [Proof-Carrying Parameters in Certified Symbolic Execution: The Case Study of Antiunification](https://doi.org/10.4204/EPTCS.369.1), Andrei Arusoaie, Dorel Lucanu, [FROM'22](https://project.inria.fr/from22/)
+- [Proof-relevance in Bishop-style constructive mathematics](https://doi.org/10.1017/S0960129522000159), Iosif Petrakis, [*MSCS*](https://www.cambridge.org/core/journals/mathematical-structures-in-computer-science)
 - [Safe, Fast, Concurrent Proof Checking for the lambda-Pi Calculus Modulo Rewriting](https://doi.org/10.1145/3497775.3503683), Michael Färber, [CPP'22](https://popl22.sigplan.org/home/CPP-2022)
 - [Set of support, demodulation, paramodulation: a historical perspective](https://doi.org/10.1007/s10817-022-09628-0), Maria Paola Bonacina, [*JAR*](https://www.springer.com/journal/10817)
 - [Sikkel: Multimode Simple Type Theory as an Agda Library](https://doi.org/10.4204/EPTCS.360.5), Joris Ceulemans, Andreas Nuyts, Dominique Devriese, [MSFP'22](https://msfp-workshop.github.io/msfp2022/)
+- [Strict computability models over categories and presheaves](https://doi.org/10.1093/logcom/exac077), Iosif Petrakis, [*J. Log. Comput.*](https://academic.oup.com/logcom)
 - [The Logic Languages of the TPTP World](https://doi.org/10.1093/jigpal/jzac068), Geoff Sutcliffe, [*LJIGPL*](https://academic.oup.com/jigpal)
 - [Theorem Proving for Maude Specifications Using Lean](https://doi.org/10.1007/978-3-031-17244-1_16), Rubén Rubio, Adrián Riesco, [ICFEM'22](https://maude.ucm.es/ICFEM22)
 - [Vers une traduction de K en Dedukti](https://hal.archives-ouvertes.fr/hal-03604962) (Towards a translation of K in Dedukti), Amélie Ledein, Valentin Blot, Catherine Dubois, [JFLA'22](http://jfla.inria.fr/jfla2022.html)
 - [What Can Formal Systems Do For Mathematics? A Discussion Through The Lens Of Proof Assistants: Some Recent Advances](https://www.researchgate.net/publication/359592051_What_Can_Formal_Systems_Do_For_Mathematics_A_Discussion_Through_The_Lens_Of_Proof_Assistants_Some_Recent_Advances), Angeliki Koutsoukou-Argyraki Q&A with Jeremy Avigad, Jasmin Blanchette, Frédéric Blanqui, Kevin Buzzard, Johan Commelin, Manuel Eberl, Timothy Gowers, Peter Koepke, Assia Mahboubi, Ursula Martin, Lawrence C. Paulson, Special Issue for the 60th Anniversary of the DVMLG (German Association for Mathematical Logic and for Basic Research in the Exact Sciences), Benedikt Löwe, Deniz Sarikaya (eds.), College Publications, 2022
+
 
 
 **Reports**
