@@ -56,21 +56,21 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 
 - [Verification of the ROS NavFn planner using executable specification languages](https://doi.org/10.1016/j.jlamp.2023.100860), Enrique Martín, Manuel Montenegro, Adrián Riesco, Juan Rodríguez-Hortalá, Rubén Rubio, [*JLAMP*](https://www.sciencedirect.com/journal/journal-of-logical-and-algebraic-methods-in-programming)
 
-- [Verification of mutable linear data structures and iterator-based algorithms in Dafny](https://doi.org/10.1016/j.jlamp.2023.100875), Jorge Blázquez, Manuel Montenegro, and Clara Segura, [*JLAMP*](https://www.sciencedirect.com/journal/journal-of-logical-and-algebraic-methods-in-programming)
+- [Verification of mutable linear data structures and iterator-based algorithms in Dafny](https://doi.org/10.1016/j.jlamp.2023.100875), Jorge Blázquez, Manuel Montenegro, Clara Segura, [*JLAMP*](https://www.sciencedirect.com/journal/journal-of-logical-and-algebraic-methods-in-programming)
 
-- [An Efficient Proof Checker and Elaborator for SMT Proofs in the Alethe Format](https://doi.org/10.1007/978-3-031-30823-9_19), Bruno Andreotti, Hanna Lachnitt, and Haniel Barbosa, [TACAS 2023](https://etaps.org/2023/conferences/)
+- [An Efficient Proof Checker and Elaborator for SMT Proofs in the Alethe Format](https://doi.org/10.1007/978-3-031-30823-9_19), Bruno Andreotti, Hanna Lachnitt, Haniel Barbosa, [TACAS'23](https://etaps.org/2023/conferences/)
 
-- [Automated Completion of Statements and Proofs in Synthetic Geometry: an Approach based on Constraint Solving](https://hal.science/hal-04226900), Salwa Tabet Gonzalez, Predrag Janičić, and Julien Narboux, [ADG'23](https://adg2023.matf.bg.ac.rs/?content=general)
+- [Automated Completion of Statements and Proofs in Synthetic Geometry: an Approach based on Constraint Solving](https://hal.science/hal-04226900), Salwa Tabet Gonzalez, Predrag Janičić, Julien Narboux, [ADG'23](https://adg2023.matf.bg.ac.rs/?content=general)
 
 - [Reconstruction of TLAPS Proofs Solved by VeriT in Lambdapi](https://doi.org/10.1007/978-3-031-33163-3_29), Coltellacci Alessio, [ABZ'23](https://abz2023.loria.fr/)
 
 **2022**
 
-- [Bridging between LegalRuleML and TPTP for Automated Normative Reasoning](https://doi.org/10.1007/978-3-031-21541-4_16), Alexander Steen and David Fuenmayor, [RuleML+RR 2022](https://2022.declarativeai.net/events/ruleml-rr)
+- [Bridging between LegalRuleML and TPTP for Automated Normative Reasoning](https://doi.org/10.1007/978-3-031-21541-4_16), Alexander Steen, David Fuenmayor, [RuleML+RR'22](https://2022.declarativeai.net/events/ruleml-rr)
 
-- [Theorem Proving for Maude Specifications Using Lean](https://doi.org/10.1007/978-3-031-17244-1_16), Rubén Rubio and Adrián Riesco, [ICFEM'22](https://maude.ucm.es/ICFEM22)
+- [Theorem Proving for Maude Specifications Using Lean](https://doi.org/10.1007/978-3-031-17244-1_16), Rubén Rubio, Adrián Riesco, [ICFEM'22](https://maude.ucm.es/ICFEM22)
 
-- [An Implementation of Set Theory with Pointed Graphs in Dedukti](https://hal.inria.fr/hal-03740004), Valentin Blot, Gilles Dowek and Thomas Traversié, LFMTP'22
+- [An Implementation of Set Theory with Pointed Graphs in Dedukti](https://hal.inria.fr/hal-03740004), Valentin Blot, Gilles Dowek, Thomas Traversié, [LFMTP'22](https://lfmtp.org/workshops/2022/)
 
 - [Evolution of Automated Deduction and Dynamic Constructions in Geometry](https://doi.org/10.1007/978-3-030-86909-0_1), Pedro Quaresma, [Mathematics Education in the Age of Artificial Intelligence, 2022](http://doi.org/10.1007/978-3-030-86909-0)
 
@@ -78,7 +78,7 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 
 - [Lemmaless Induction in Trace Logic](https://doi.org/10.1007/978-3-031-16681-5_14), Ahmed Bhayat, Pamina Georgiou, Clemens Eisenhofer, Laura Kovács, Giles Reger, [CICM'22](https://cicm-conference.org/2022/cicm.php)
 
-- [The Logic Languages of the TPTP World](https://doi.org/10.1093/jigpal/jzac068), Geoff Sutcliffe, [Logic Journal of the IGPL, 2022](https://academic.oup.com/jigpal)
+- [The Logic Languages of the TPTP World](https://doi.org/10.1093/jigpal/jzac068), Geoff Sutcliffe, [*LJIGPL*](https://academic.oup.com/jigpal)
 
 - [Learning Higher-Order Logic Programs From Failures](https://doi.org/10.24963/ijcai.2022/378), Stanisław J. Purgał, David M. Cerna, Cezary Kaliszyk, [IJCAI'22](https://ijcai-22.org)
 
@@ -86,7 +86,7 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 
 - [Encoding Type Universes Without Using Matching Modulo Associativity and Commutativity](https://doi.org/10.4230/LIPIcs.FSCD.2022.24), Frédéric Blanqui, [FSCD'22](https://www.cs.tau.ac.il/~nachumd/FSCD/)
 
-- [Safe, Fast, Concurrent Proof Checking for the lambda-Pi Calculus Modulo Rewriting](https://hal.inria.fr/hal-03143359), Michael Färber, [CPP'22](https://popl22.sigplan.org/home/CPP-2022)
+- [Safe, Fast, Concurrent Proof Checking for the lambda-Pi Calculus Modulo Rewriting](https://doi.org/10.1145/3497775.3503683), Michael Färber, [CPP'22](https://popl22.sigplan.org/home/CPP-2022)
 
 - [What Can Formal Systems Do For Mathematics? A Discussion Through The Lens Of Proof Assistants: Some Recent Advances](https://www.researchgate.net/publication/359592051_What_Can_Formal_Systems_Do_For_Mathematics_A_Discussion_Through_The_Lens_Of_Proof_Assistants_Some_Recent_Advances), Angeliki Koutsoukou-Argyraki Q&A with Jeremy Avigad, Jasmin Blanchette, Frédéric Blanqui, Kevin Buzzard, Johan Commelin, Manuel Eberl, Timothy Gowers, Peter Koepke, Assia Mahboubi, Ursula Martin, Lawrence C. Paulson, Special Issue for the 60th Anniversary of the DVMLG (German Association for Mathematical Logic and for Basic Research in the Exact Sciences), Benedikt Löwe, Deniz Sarikaya (eds.), College Publications, 2022
 
@@ -94,13 +94,13 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 
 - [Bécassine à la chasse au Coq](https://hal.archives-ouvertes.fr/hal-03604902), Valentin Blot, Louise Dubois de Prisque, Chantal Keller, Pierre Vial, [JFLA'22](http://jfla.inria.fr/jfla2022.html)
 
-- [An extensible equality checking algorithm for dependent type theories](https://doi.org/10.46298/lmcs-18%281%3A17%292022), Andrej Bauer, Anja Petkovic Komel, Log. Methods Comput. Sci. 18(1) (2022)
+- [An extensible equality checking algorithm for dependent type theories](https://doi.org/10.46298/lmcs-18(1:17)2022), Andrej Bauer, Anja Petkovic Komel, [*LMCS*](https://lmcs.episciences.org)
 
-- [Automated Reasoning in Non-classical Logics in the TPTP World](http://ceur-ws.org/Vol-3201/), Alexander Steen, David Fuenmayor, Tobias Gleißner, Geoff Sutcliffe and Christoph Benzmüller, [PAAR 2022](https://paar2022.github.io/)
+- [Automated Reasoning in Non-classical Logics in the TPTP World](http://ceur-ws.org/Vol-3201/), Alexander Steen, David Fuenmayor, Tobias Gleißner, Geoff Sutcliffe, Christoph Benzmüller, [PAAR'22](https://paar2022.github.io/)
 
-- [An Extensible Logic Embedding Tool for Lightweight Non-Classical Reasoning](http://ceur-ws.org/Vol-3201/), Alexander Steen, [PAAR 2022](https://paar2022.github.io/)
+- [An Extensible Logic Embedding Tool for Lightweight Non-Classical Reasoning](http://ceur-ws.org/Vol-3201/), Alexander Steen, [PAAR'22](https://paar2022.github.io/)
 
-- [Sikkel: Multimode Simple Type Theory as an Agda Library.](https://doi.org/10.4204/EPTCS.360.5), Joris Ceulemans, Andreas Nuyts and Dominique Devriese, [MSFP 2022](https://msfp-workshop.github.io/msfp2022/)
+- [Sikkel: Multimode Simple Type Theory as an Agda Library.](https://doi.org/10.4204/EPTCS.360.5), Joris Ceulemans, Andreas Nuyts, Dominique Devriese, [MSFP'22](https://msfp-workshop.github.io/msfp2022/)
 
 **Reports**
 
