@@ -57,6 +57,8 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 
 - 12-15 June 2023: [29th International Conference on Types for Proofs and Programs](https://types2023.webs.upv.es/) (TYPES'23), Valencia, Spain
 
+- 12-14 June 2023: [AI to Assist Mathematical Reasoning: A Workshop](https://www.nationalacademies.org/our-work/ai-to-assist-mathematical-reasoning-a-workshop) online organized by USA National Academies of Sciences, Engineering and Medicine.
+
 - 4-9 June 2023: [24th International Conference on Logic for Programming Artificial Intelligence and Reasoning](https://easychair.org/smart-program/LPAR2023/) (LPAR-24), Manizales, Colombia
 
 - 22-27 April 2023: [European Joint Conferences on Theory and Practice of Software](https://etaps.org/) (ETAPS'23), Paris, France
