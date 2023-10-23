@@ -13,6 +13,8 @@ by developing tools to translate proofs from one system to another.
 
 ### Activities
 
+- 23-26 January 2024: [WG1 meeting](../wg1-gruissan24), Gruissan, France
+
 - 26-27 September 2023: [WG1+4 meeting](../WG1+4-meeting-Sep2023), Fontainebleau, France
 
 - 25-27 July 2023: [Inter-WG developers meeting](../dk-meeting-july2023), Le Val d'Ajol, France
