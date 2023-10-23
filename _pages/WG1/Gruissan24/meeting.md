@@ -35,7 +35,7 @@ may organize a private shuttle.
   * cost of travel in euros with quote (screen capture)
   * work plan: describe what you would like to do
 
-**Deadline:** 19 November 2023.
+**Deadline:** 12 November 2023.
 
 **Cost:** Participants have to organize their travel by themselves. For accommodation and meals, they will have to pay 30% at the hotel and the remaining on site. See the [reimbursement rules](https://europroofnet.github.io/reimbursement-rules/) for more details. To cover the accommodation and meals, the daily allowance is fixed at 120 euros.
 
