@@ -37,7 +37,7 @@ may organize a private shuttle.
 
 **Deadline:** 12 November 2023.
 
-**Cost:** Participants have to organize their travel by themselves. For accommodation and meals, they will have to pay 30% at the hotel and the remaining on site. See the [reimbursement rules](https://europroofnet.github.io/reimbursement-rules/) for more details. To cover the accommodation and meals, the daily allowance is fixed at 120 euros.
+**Cost:** Participants have to organize their travel by themselves. For accommodation and meals, they will have to pay 30% at the hotel and the remaining on site. See the [reimbursement rules](https://europroofnet.github.io/reimbursement-rules/) for more details. The daily allowance is fixed at 120 euros.
 
 <!--
 **Participants (1):**
