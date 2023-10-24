@@ -12,7 +12,12 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 - [STSM reports](../accepted_stsms)
 
 **2023**
-
+- [Logic Operators and Quantifiers in Type-Theory of Algorithms](https://doi.org/10.1007/978-3-031-43977-3_11), Roussanka Loukanova, In: Logic and Engineering of Natural Language Semantics.
+D. Bekki et al. (Eds.): LENLS 2022, Lecture Notes in Computer Science., LNCS Volume 14213, FoLLI series, 2024.
+- [Algorithmic Dependent-Type Theory of Situated Information and Context Assessments](https://doi.org/10.1007/978-3-031-20859-1_4), Roussanka Loukanova, In: Omatu, S., Mehmood, R., Sitek, P., Cicerone, S., Rodr ́ıguez, S. (eds) Distributed Computing and Artificial Intelligence, 19th International Conference. DCAI 2022
+- [Currying Order and Restricted Algorithmic Beta-Conversion in Type Theory of Acyclic Recursion](http://www.collegepublications.co.uk/tributes/?00049), Roussanka Loukanova, In: Pavel Materna and Bjørn Jespersen (eds). Logically Speaking. A Festschrift for Marie Duzi. Tribute Series edited by Dov Gabbay. 2022. (Appeared in January 2023.) Volume 49. pp. 285–310. College Publications. 
+- [Eta-Reduction in Type-Theory of Acyclic Recursion](https://doi.org/10.14201/adcaij.29199), Roussanka Loukanova, Advances in Distributed Computing and Artificial Intelligence Journal
+- [Restricted Computations and Parameters in Type-Theory of Acyclic Recursion](https://doi.org/10.14201/adcaij.29081), Roussanka Loukanova, Advances in Distributed Computing and Artificial Intelligence Journal
 - [A Rewriting Coherence Theorem with Applications in Homotopy Type Theory](https://doi.org/10.1017/S0960129523000026), Nicolai Kraus, Jakob von Raumer, [*MSCS*](https://www.cambridge.org/core/journals/mathematical-structures-in-computer-science)
 - [A modular construction of type theories](https://doi.org/10.46298/lmcs-19(1:12)2023), Frédéric Blanqui, Gilles Dowek, Emilie Grienenberger, Gabriel Hondet, François Thiré, [*LMCS*](https://lmcs.episciences.org)
 - [Admissible Types-to-PERs Relativizations in Higher-Order Logic](https://doi.org/10.1145/3571235), Andrei Popescu, Dmitriy Traytel, [POPL'23](https://popl23.sigplan.org)
