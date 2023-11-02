@@ -16,7 +16,7 @@ This joint WG4-WG5 meeting consists of:
 
 The session on September 7 is common to the two workshops.
 
-## Registered particiants (24)
+## Registered participants (24)
 
 Frédéric Blanqui, Angeliki Koutsoukou-Argyraki, Peter Koepke, Mateusz Marcol, Bernhard Schröder, Adrian De Lon, Claudio Sacerdoti Coen, Shashank Pathak, William M. Farmer, Patrick Schäfer, Katie Collins, David Berry, Anand Rao Tadipatri, Roussanka Loukanova, Kyle Miller, Ján Perháč, Mehmet Tahir Sandikkaya, Ursula Martin, Marcel Schütz, Sky Wilshaw, Adrian Groza, Ayşe Sayın, Lucy Horowitz, Farah Al Wardani.
 
