@@ -81,6 +81,8 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 **2022**
 
 
+ - [Formal Entity Graphs as Complex Networks: Assessing Centrality Metrics of the Archive of Formal Proofs] (https://doi.org/10.1007/978-3-031-16681-5_10), Fabian Huch, In International Conference on Intelligent Computer Mathematics. 
+ - [Re-imagining the Isabelle Archive of Formal Proofs] (https://doi.org/10.1007/978-3-031-16681-5_11), MacKenzie, C., Huch, F., Vaughan, J., and Fleuriot, J. In International Conference on Intelligent Computer Mathematics. 
 - [A Matching Logic Foundation for Alk](https://doi.org/10.1007/978-3-031-17715-6_19), Alexandru-Ioan Lungu, Dorel Lucanu, [ICTAC'22](https://viam.science.tsu.ge/clas2022/ictac/)
 - [A Metatheoretic Analysis of Subtype Universes](https://doi.org/10.4230/LIPIcs.TYPES.2022.9), Felix Bradley, Zhaohui Luo, [TYPES'22](https://types22.inria.fr)
 - [Adequate and Computational Encodings in the Logical Framework Dedukti](https://doi.org/10.4230/LIPIcs.FSCD.2022.25), Thiago Felicissimo, [FSCD'22](https://www.cs.tau.ac.il/~nachumd/FSCD/)
