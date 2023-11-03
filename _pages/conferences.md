@@ -39,7 +39,7 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 
 - 15-16 January 2024: [26th International Symposium on Practical Aspects of Declarative Languages](https://popl24.sigplan.org/home/PADL-2024) (PADL'24), London, United Kingdom
 
-- 21-22 September 2023: [Working Formal Methods Symposium](https://from2023.cs.unibuc.ro/) (FROM'23), Bucharest, Romania
+- 21-22 September 2023: [7th Working Formal Methods Symposium](https://from2023.cs.unibuc.ro/) (FROM'23), Bucharest, Romania
 
 - 4-8 September 2023: [16th Conference on Intelligent Computer Mathematics](https://cicm-conference.org/2023/cicm.php) (CICM'23), Cambridge, UK
 
