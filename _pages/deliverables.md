@@ -21,7 +21,7 @@ author_profile: true
 
 - D5. Release of software for translating proofs coming from important proof systems based on type theory like Isabelle, Agda, PVS, Lean or Minlog, to Dedukti and back. [[link]](../deliverable5)
     
-- D6. Software prototype for the automated inference of program specifications as logical axioms.
+- D6. Software prototype for the automated inference of program specifications as logical axioms. [[link]](../deliverable6)
 
 - D7. Tools for managing the dependencies between proofs, and querying and searching the database. [[link]](../deliverable7)
     
