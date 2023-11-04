@@ -127,7 +127,6 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 - [Set of support, demodulation, paramodulation: a historical perspective](https://doi.org/10.1007/s10817-022-09628-0), Maria Paola Bonacina, [*JAR*](https://www.springer.com/journal/10817)
 - [Sikkel: Multimode Simple Type Theory as an Agda Library](https://doi.org/10.4204/EPTCS.360.5), Joris Ceulemans, Andreas Nuyts, Dominique Devriese, [MSFP'22](https://msfp-workshop.github.io/msfp2022/)
 - [Strict computability models over categories and presheaves](https://doi.org/10.1093/logcom/exac077), Iosif Petrakis, [*J. Log. Comput.*](https://academic.oup.com/logcom)
-- [Tableaux for Realizability of Safety Specifications](https://doi.org/10.1007/978-3-031-27481-7_28), Montserrat Hermo, Paqui Lucio, César Sánchez [FM'23](https://fm2023.isp.uni-luebeck.de/)
 - [The Logic Languages of the TPTP World](https://doi.org/10.1093/jigpal/jzac068), Geoff Sutcliffe, [*LJIGPL*](https://academic.oup.com/jigpal)
 - [Theorem Proving for Maude Specifications Using Lean](https://doi.org/10.1007/978-3-031-17244-1_16), Rubén Rubio, Adrián Riesco, [ICFEM'22](https://maude.ucm.es/ICFEM22)
 - [Vers une traduction de K en Dedukti](https://hal.archives-ouvertes.fr/hal-03604962) (Towards a translation of K in Dedukti), Amélie Ledein, Valentin Blot, Catherine Dubois, [JFLA'22](http://jfla.inria.fr/jfla2022.html)
