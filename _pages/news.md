@@ -9,7 +9,11 @@ August 2024: Frédéric Blanqui, chair of EuroProofNet, has been invited to give
 
 1 July 2023: Sandra Alves, co-chair of EuroProofNet, has been invited to give a talk at [Women in Logic 2023](https://sites.google.com/view/wil2023/home), Roma, Italy.
 
+21 September 2023: Alicia Villanueva, WG3 leader, has been invited to give a talk at the [7th Working Formal Methods Symposium]((https://from2023.cs.unibuc.ro/)) (FROM'23), Bucharest, Romania.
+
 8 September 2023: Frédéric Blanqui, chair of EuroProofNet, has been invited to give a talk at the [16th Conference on Intelligent Computer Mathematics](https://cicm-conference.org/2023/) (CICM'23), Cambridge, UK.
+
+24-25 May 2023: András Kovács and Anders Mörtberg have been invited to give talks at the [2nd International Conference on Homotopy Type Theory](https://hott.github.io/HoTT-2023) (HoTT 2023), Pittsburg, USA
 
 8 August 2022: Gilles Dowek, vice-leader of WG4, has been invited to give a talk at the [11th International Joint Conference on Automated Reasoning](https://ijcar.org) (IJCAR'22), Haifa, Israel.
 
