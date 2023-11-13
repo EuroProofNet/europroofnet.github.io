@@ -59,11 +59,12 @@ _Towards modular proof of normalization for type theories_ ([slides](./slides/ue
 
 **Participants:** Please see [here](participants)
 
-**Deadlines (AoE)**  
-Submission of talk proposals: Monday 27 February
-Author notification: Tuesday 7 March
-Funding requests: Sunday 19 March
-Registration: Friday 7 April
+**Deadlines (AoE)**
+
+* Submission of talk proposals: Monday 27 February
+* Author notification: Tuesday 7 March
+* Funding requests: Sunday 19 March
+* Registration: Friday 7 April
 
 **Registration & funding:**
 Registration is now closed. For information regarding reimbursement, please see [here](../reimbursement-rules). The daily allowance has been fixed to 140 euros.

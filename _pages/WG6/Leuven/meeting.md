@@ -13,6 +13,9 @@ breadcrumbs: true
 **[Venue information](https://anuyts.github.io/2024/venue.html)**
 
 The aim of this meeting series is to bring together researchers working on the topics of [working group 6 of EuroProofNet](https://europroofnet.github.io/wg6/). The main focus is thus on the syntax and semantics of type theory.
+This includes, but is not limited to the goal of WG6:
+
+> The aim of this WG is to develop a comprehensive theory of type theories, which (i) accounts for its domain-specific variants and the type theories currently used in proof assistants, and (ii) allows for the modular reasoning about their syntax and semantics.
 
 The programme will consist mainly of short talks, and plenty of time for discussion. The meeting will be in person and is open to anyone interested in type theory.
 
@@ -27,14 +30,16 @@ TBD
 
 **Participants:** Please see [here](participants)
 
-**Deadlines (AoE)**
-Submission of talk proposals: TBD
-Author notification: TBD
-Funding requests: TBD
-Registration: TBD
+**Deadlines**
+
+- Submission of talk proposals: 2 February 2024 (AoE)
+- Author notification: 16 February 224
+- Funding requests: 23 February 2024 (AoE)
+- Funding notification: 4 March 2024
+- Registration: 8 March 2024 (AoE)
 
 **Funding:**
-The reimbursement concerns the official dates of the WG6 meeting: Apr 4-5 (so not the colocated event).
+The reimbursement concerns the official dates of the WG6 meeting: Apr 4-5 (so not the co-located event).
 For information regarding reimbursement, please see [here](../reimbursement-rules).
 The daily allowance has been fixed to 140 euros.
 
@@ -43,6 +48,8 @@ taking into account the following criteria in order: planned contributions to th
 objectives and deliverables of the action; inclusive target countries; age; gender;
 team with low resources; balance over the action life time between people, teams,
 countries and working groups.
+
+**[Submission of proposals](https://lipn.univ-paris13.fr/limesurvey/index.php/752657?lang=en)**
 
 **Registration:**
 TBD
