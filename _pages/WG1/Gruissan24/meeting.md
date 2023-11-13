@@ -10,9 +10,9 @@ breadcrumbs: true
 
 **Organizer:** [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/)
 
-**Date:** 23-26 January 2024
+**Date:** 23-25 January 2024
 
-Remark: the official dates of the meeting taken into account for reimbursements are from January 23 to January 25 (3 days). However, since most people will arrive on January 22 afternoon and leave on January 26 afternoon, the program includes two optional work sessions on January 22 afternoon and January 26 morning for the people who will be there.
+Remark: the official dates of the meeting taken into account for reimbursements are from January 23 to January 25 (3 days). However, since most people will arrive on January 22 and leave on January 26, the program includes two optional work sessions on January 22 afternoon and January 26 morning for the people who will be there.
 
 **Venue:** [Hotel Phoebus](https://hotels-gruissan.com/), Boulevard de Planasse 11430 Gruissan, France
 
@@ -35,7 +35,9 @@ may organize a private shuttle.
   * cost of travel in euros with quote (screen capture)
   * work plan: describe what you would like to do
 
-**Cost:** Participants have to organize their travel by themselves. For accommodation and meals, they will have to pay 30% at the hotel and the remaining on site. See the [reimbursement rules](https://europroofnet.github.io/reimbursement-rules/) for more details. <!--To cover the accommodation and meals, the daily allowance is fixed at 120 euros.-->
+**Deadline:** 12 November 2023.
+
+**Cost:** Participants have to organize their travel by themselves. For accommodation and meals, they will have to pay 30% at the hotel and the remaining on site. See the [reimbursement rules](https://europroofnet.github.io/reimbursement-rules/) for more details. The daily allowance is fixed at 120 euros.
 
 <!--
 **Participants (1):**

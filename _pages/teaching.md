@@ -8,13 +8,17 @@ author_profile: true
 To contribute to the web site, please open an [issue](https://github.com/EuroProofNet/europroofnet.github.io/issues), create a [pull request](https://github.com/EuroProofNet/europroofnet.github.io) or send a mail to the [science communication coordinators](../contact).
 
 
-## Teaching resources:
+## Teaching resources
 
 - [Formal Methods Teaching Committee](https://fme-teaching.github.io/): events & meetings, courses database, case studies, tutorials
 
 - [List of tools for online teaching](https://www7.in.tum.de/~kretinsk/fomeo.html)
 
-## Conferences:
+## Projects
+
+- 2024-2027: [APPAM](https://appam.icube.unistra.fr/): proof assistants for learning mathematics
+
+## Conferences
 
 - 5 July 2023: [Theorem-proving Components for Educational Software](https://www.uc.pt/en/congressos/thedu/ThEdu23/) (ThEdu23) workshop at the, 29th international Conference on Automated Deduction (CADE 2023), July 1-4, 2023, Rome, Italy.
 

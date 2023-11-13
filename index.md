@@ -34,8 +34,8 @@ corner).
 
 **Coming events:**
 
-- 12 November 2023: Call for STSM and ITCG proposals between December and June
-- January 2024: WG1 meeting
+- 12 November 2023: [submission deadline for STSM and ITCG proposals between December and June](../grants)
+- 23-25 January 2024: [WG1 meeting](../wg1-gruissan24), Gruissan, France
 - February or March 2024: WG3 meeting with the participation of industrial users and a focus on security in Dresden, Germany
 - March: WG2 meeting on ATPs for geometry
 - 25-26 March 2024: WG5 meeting on the Alignment of Proof Systems and Machine Learning in Vienna, Austria

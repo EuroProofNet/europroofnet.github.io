@@ -24,12 +24,12 @@ EuroProofNet can provide two kinds of grants:
 
 **What is an ITCG?**
 
-ITC Conference Grants are given to young (<= 40 years old) researchers
-affiliated in an [Inclusiveness Target Country or Near Neighbour
-Country](../eligibility) to present a work related to EuroProofNet in
-a high-level conference fully organized by a third party, i.e. not
-organized nor co-organized by EuroProofNet. Reimbursement rules are
-the same as for STSMs.
+ITC Conference Grants are given to young (<= 40 years old at the time
+of the conference) researchers affiliated in an [Inclusiveness Target
+Country or Near Neighbour Country](../eligibility) to present a work
+related to EuroProofNet in a high-level conference fully organized by
+a third party, i.e. not organized nor co-organized by
+EuroProofNet. Reimbursement rules are the same as for STSMs.
 
 **What is an STSM?**
 

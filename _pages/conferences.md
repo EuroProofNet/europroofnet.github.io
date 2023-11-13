@@ -27,6 +27,8 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 
 - 10-14 June 2024: International Conference on Types for Proofs and Programs, Copenhagen, Denmark
 
+- 26-31 May 2024: [25th Conference on Logic for Programming, Artificial Intelligence and Reasoning](http://www.lpar-25.info) (LPAR'24), Mauritius
+
 - 6 May - 16 August 2024: [Trimester on Prospects of formal mathematics](https://www.him.uni-bonn.de/programs/future-programs/future-trimester-programs/prospects-of-formal-mathematics/description/), Hausdorff research institute for mathematics, Bonn, Germany
 
 - 6-11 April 2024: [European joint conferences on theory and practice of software](https://etaps.org/) (ETAPS'24), Luxembourg
@@ -36,7 +38,9 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 - 17-19 January 2024: [51st ACM SIGPLAN Symposium on Principles of Programming Languages](https://popl24.sigplan.org/) (POPL'24), London, UK
 
 - 15-16 January 2024: [26th International Symposium on Practical Aspects of Declarative Languages](https://popl24.sigplan.org/home/PADL-2024) (PADL'24), London, United Kingdom
-             
+
+- 21-22 September 2023: [7th Working Formal Methods Symposium](https://from2023.cs.unibuc.ro/) (FROM'23), Bucharest, Romania
+
 - 4-8 September 2023: [16th Conference on Intelligent Computer Mathematics](https://cicm-conference.org/2023/cicm.php) (CICM'23), Cambridge, UK
 
 - 3-8 September 2023: [Artificial Intelligence and Theorem Proving 2023](http://aitp-conference.org/2023) (AITP'23), Aussois, France
