@@ -59,7 +59,8 @@ _Towards modular proof of normalization for type theories_ ([slides](./slides/ue
 
 **Participants:** Please see [here](participants)
 
-**Deadlines (AoE)**  
+**Deadlines (AoE)**
+
 * Submission of talk proposals: Monday 27 February
 * Author notification: Tuesday 7 March
 * Funding requests: Sunday 19 March
