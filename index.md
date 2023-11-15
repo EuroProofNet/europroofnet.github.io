@@ -34,7 +34,7 @@ corner).
 
 **Coming events:**
 
-- 12 November 2023: [submission deadline for STSM and ITCG proposals between December and June](../grants)
+- 7 January 2024: [submission deadline for STSM/ITCG proposals between February and August 2024]. We especially welcome proposals from the working groups 4 and 3, and from [inclusive-target countries](../eligibility) and [women](../gender-balance)
 - 23-25 January 2024: [WG1 meeting](../wg1-gruissan24), Gruissan, France
 - February or March 2024: WG3 meeting with the participation of industrial users and a focus on security in Dresden, Germany
 - March: WG2 meeting on ATPs for geometry

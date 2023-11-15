@@ -13,7 +13,7 @@ EuroProofNet can provide two kinds of grants:
   
 **Upcoming deadlines**
 
-- 12 November 2023: for STSMs and ITCGs between December 2023 and June 2024
+- 7 January 2024: for STSMs and ITCGs between February and August 2024. We especially welcome proposals from the working groups 4 and 3, and from [inclusive-target countries](../eligibility) and [women](../gender-balance).
 
 **Application web sites**
 
