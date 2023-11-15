@@ -39,21 +39,37 @@ may organize a private shuttle.
 
 **Cost:** Participants have to organize their travel by themselves. For accommodation and meals, they will have to pay 30% at the hotel and the remaining on site. See the [reimbursement rules](https://europroofnet.github.io/reimbursement-rules/) for more details. The daily allowance is fixed at 120 euros.
 
-<!--
-**Participants (1):**
+**Participants (11):**
 
-- [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/)
+<!-- hotel paid -->
 
+- [Rishikesh Vaishnav](https://lmf.cnrs.fr/Perso/RishVaishnav) will work on [lean2dk](https://github.com/Deducteam/lean2dk
 
-- [Thiago Felicissimo](http://www.lsv.fr/~felicissimo/)
-- Yoan Géran
-- [Julien Narboux](https://dpt-info.di.unistra.fr/~narboux/) and [Predrag Janičić](http://poincare.matf.bg.ac.rs/~janicic/)
+- [Théo Winterhalter](https://theowinterhalter.github.io/)
+
+- [Thomas Traversié]( https://thomastraversie.github.io/) will work on the constructivisation of classical proofs.
+
+- [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/) will work on [hol2dk](https://github.com/Deducteam/hol2dk/), [isabelle\_dedukti](https://github.com/Deducteam/isabelle_dedukti/) and [lambdapi](https://github.com/Deducteam/lambdapi/).
+
+- [Thiago Felicissimo](http://www.lsv.fr/~felicissimo/) will work on CompLF.
+
+- Abdelghani Alidra: hands-on learning of the encoding of logical features in Dedukti, discuss with other participants the current and the desired features and development workflow, meet and network with other EuroProofNet community members.
+
+- Gabriel Hondet will work on Dedukti, Lambdapi and STTfaxport.
+
+<!-- hotel not not paid yet -->
+
+- [Bruno Barras](http://www.lsv.fr/~barras/)
+
+- Alessio Coltellacci with work on the encoding of Alethe proofs from SMT solvers to Lambdapi
+
 - [Claudio Sacerdoti Coen](http://www.cs.unibo.it/~sacerdot/)
-- Thomas Traversié
+
+- Claude Stolze will work on the encoding of Atelier B proofs in Lambdapi.
+
+<!--
 - [Amélie Ledein](https://lmf.cnrs.fr/Perso/AmelieLedein)
-- Claude Stolze
 - [Artur Korniłowicz](http://math.uwb.edu.pl/~arturk/)
-- Gabriel Hondet
 - François Thiré
 -->
 
