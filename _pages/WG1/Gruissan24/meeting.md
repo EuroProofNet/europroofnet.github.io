@@ -41,7 +41,7 @@ may organize a private shuttle.
 
 <!-- hotel paid -->
 
-- [Rishikesh Vaishnav](https://lmf.cnrs.fr/Perso/RishVaishnav) will work on [lean2dk](https://github.com/Deducteam/lean2dk
+- [Rishikesh Vaishnav](https://lmf.cnrs.fr/Perso/RishVaishnav) will work on [lean2dk](https://github.com/Deducteam/lean2dk)
 
 - [Théo Winterhalter](https://theowinterhalter.github.io/) plans to work on extending Dedukti with decision procedures.
 
@@ -53,9 +53,9 @@ may organize a private shuttle.
 
 - Abdelghani Alidra: hands-on learning of the encoding of logical features in Dedukti, discuss with other participants the current and the desired features and development workflow, meet and network with other EuroProofNet community members.
 
-- Gabriel Hondet will work on Lambdapi and STTfaxport.
+- Gabriel Hondet will work on Lambdapi and [STTfaxport](https://github.com/Deducteam/sttfaxport).
 
-- Claude Stolze will work on the encoding of Atelier B proofs in Lambdapi.
+- Claude Stolze will work on the translation and verification of Atelier B proofs in Lambdapi, [B-pog-translator](https://github.com/Deducteam/B-pog-translator).
 
 <!-- hotel not not paid yet -->
 
