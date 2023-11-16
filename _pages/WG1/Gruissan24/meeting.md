@@ -35,17 +35,15 @@ may organize a private shuttle.
   * cost of travel in euros with quote (screen capture)
   * work plan: describe what you would like to do
 
-**Deadline:** 12 November 2023.
-
 **Cost:** Participants have to organize their travel by themselves. For accommodation and meals, they will have to pay 30% at the hotel and the remaining on site. See the [reimbursement rules](https://europroofnet.github.io/reimbursement-rules/) for more details. The daily allowance is fixed at 120 euros.
 
-**Participants (11):**
+**Participants (12):**
 
 <!-- hotel paid -->
 
 - [Rishikesh Vaishnav](https://lmf.cnrs.fr/Perso/RishVaishnav) will work on [lean2dk](https://github.com/Deducteam/lean2dk
 
-- [Théo Winterhalter](https://theowinterhalter.github.io/)
+- [Théo Winterhalter](https://theowinterhalter.github.io/) plans to work on extending Dedukti with decision procedures.
 
 - [Thomas Traversié]( https://thomastraversie.github.io/) will work on the constructivisation of classical proofs.
 
@@ -55,7 +53,9 @@ may organize a private shuttle.
 
 - Abdelghani Alidra: hands-on learning of the encoding of logical features in Dedukti, discuss with other participants the current and the desired features and development workflow, meet and network with other EuroProofNet community members.
 
-- Gabriel Hondet will work on Dedukti, Lambdapi and STTfaxport.
+- Gabriel Hondet will work on Lambdapi and STTfaxport.
+
+- Claude Stolze will work on the encoding of Atelier B proofs in Lambdapi.
 
 <!-- hotel not not paid yet -->
 
@@ -65,7 +65,9 @@ may organize a private shuttle.
 
 - [Claudio Sacerdoti Coen](http://www.cs.unibo.it/~sacerdot/)
 
-- Claude Stolze will work on the encoding of Atelier B proofs in Lambdapi.
+<!-- to be confirmed -->
+
+- François Thiré will work on Dedukti and STTfaxport.
 
 <!--
 - [Amélie Ledein](https://lmf.cnrs.fr/Perso/AmelieLedein)
