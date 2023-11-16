@@ -1,5 +1,5 @@
 ---
-title: "WG1 meeting in Gruissan in January 2024"
+title: "Meeting on Dedukti and proof systems interoperability in Gruissan in January 2024"
 layout: single
 permalink: /wg1-gruissan24/
 author_profile: true
@@ -25,7 +25,7 @@ may organize a private shuttle.
 
 <!--A shuttle will be organized from/to the train station on October 15 at 15:30, and from the hotel to Remiremont train station on October 19 at 15:00. If you want to take the shuttle, send a mail to [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/)-->
 
-**Program:** Discussing the encoding in Dedukti of logical features (universe polymorphism with impredicativity, type classes, etc.), and working alone or in small groups on the development of tools for generating, handling or transforming Dedukti files, taking advantage of the participation of experts on Dedukti or other languages and tools, to make progress on EuroProofNet [objectives](../objectives) and [deliverables](../deliverables).
+**Program:** Discussing the encoding in Dedukti of logical features (universe polymorphism with impredicativity, type classes, etc.), working alone or in small groups on the development of tools for generating, handling or transforming Dedukti files, taking advantage of the participation of experts on Dedukti or other languages and tools, working on the translation of proofs from one system to another system, to make progress on EuroProofNet [objectives](../objectives) and [deliverables](../deliverables).
 
 **Application procedure:** The number of participants is limited. If you want to be funded, check the [eligibility rules](https://europroofnet.github.io/eligibility/) and send a mail to [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/) with the following information and documents:
 
@@ -35,7 +35,7 @@ may organize a private shuttle.
   * cost of travel in euros with quote (screen capture)
   * work plan: describe what you would like to do
 
-**Cost:** Participants have to organize their travel by themselves. For accommodation and meals, they will have to pay 30% at the hotel and the remaining on site. See the [reimbursement rules](https://europroofnet.github.io/reimbursement-rules/) for more details. The daily allowance is fixed at 120 euros.
+**Cost:** Participants have to organize their travel by themselves. For accommodation and meals, they will have to pay to the hotel 30% in advance (that can be reimbursed in case of cancellation before January 14) and the remaining on site. See the [reimbursement rules](https://europroofnet.github.io/reimbursement-rules/) for more details. The daily allowance is fixed at 120 euros.
 
 **Participants (12):**
 
