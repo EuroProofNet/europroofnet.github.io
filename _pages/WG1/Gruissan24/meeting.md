@@ -37,7 +37,7 @@ may organize a private shuttle.
 
 **Cost:** Participants have to organize their travel by themselves. For accommodation and meals, they will have to pay to the hotel 30% in advance (that can be reimbursed in case of cancellation before January 14) and the remaining on site. See the [reimbursement rules](https://europroofnet.github.io/reimbursement-rules/) for more details. The daily allowance is fixed at 120 euros.
 
-**Participants (12):**
+**Participants (16):**
 
 <!-- hotel paid -->
 
@@ -57,22 +57,33 @@ may organize a private shuttle.
 
 - Claude Stolze will work on the translation and verification of Atelier B proofs in Lambdapi, [B-pog-translator](https://github.com/Deducteam/B-pog-translator).
 
-<!-- hotel not not paid yet -->
-
-- [Bruno Barras](http://www.lsv.fr/~barras/)
-
 - Alessio Coltellacci with work on the encoding of Alethe proofs from SMT solvers to Lambdapi
 
-- [Claudio Sacerdoti Coen](http://www.cs.unibo.it/~sacerdot/)
+<!-- hotel not not paid yet -->
 
-<!-- to be confirmed -->
+- [Bruno Barras](http://www.lsv.fr/~barras/) plans to work on Lambdapi (reduction engine, use of de Bruijn indices).
+
+- [Claudio Sacerdoti Coen](http://www.cs.unibo.it/~sacerdot/) plans to work on the translation of type classes between Isabelle and Coq.
+
+- [Nicolas Magaud](https://dpt-info.u-strasbg.fr/~magaud/) will investigate how to use the Dedukti/Lambdapi toolchain to transform the Isabelle/HOL formal description of Faradžev-Read algorithm into an equivalent formal description in Coq.
+
+- [Filip Maric](http://www.matf.bg.ac.rs/~filip) will work on using Dedukti/Lambdapi (esp. isabelle_dedukti) to translate a whole Isabelle/HOL development into a similar one in Coq.
+
+- David Delahaye will work on extending the Dedukti/Lambdapi outputs of ZenonModulo to handle arithmetic proofs.
+
+- Isaac Lluis will work on extending the Dedukti/Lambdapi outputs of ZenonModulo to handle arithmetic proofs.
 
 - François Thiré will work on Dedukti and STTfaxport.
 
+<!-- to be confirmed -->
 <!--
-- [Amélie Ledein](https://lmf.cnrs.fr/Perso/AmelieLedein)
+- Sophie Tourret
+
+- Melanie Taprogge
+
 - [Artur Korniłowicz](http://math.uwb.edu.pl/~arturk/)
-- François Thiré
+
+- [Amélie Ledein](https://lmf.cnrs.fr/Perso/AmelieLedein)
 -->
 
 **Monday 22 January (optional, for people arriving the day before the meeting):**
