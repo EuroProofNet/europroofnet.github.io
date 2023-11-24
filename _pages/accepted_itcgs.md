@@ -13,6 +13,15 @@ author_profile: true
   Dates: 2023-03-01 to 2023-04-01__
 -->
 
+## 3th call (12 November 2023)
+
+* **Proof based teaching for elementary education**[application](/_pages/stsm/tekin-app.pdf)
+  Grantee: Firdevs Tuğba Tekin (Saliha Şükriye Yoluç Primary School, Istanbul, Turkey) 
+  Conference: [7th World Conference on Future of Education](https://www.wcfeducation.org/), Cambridge, United Kingdom 
+  Grant: 1870 EUR  
+  Dates: 2023-12-15 to 2023-12-17
+
+
 ## 2nd call (8 May 2023)
 
 * **Anti-unification and Generalization: A Survey**  
