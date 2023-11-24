@@ -18,13 +18,13 @@ The grant amounts below are initial estimations and not necessarily the final am
 ## 7th call (12 November 2023)
 
 * **Reconstructing AletheLF Proofs in Lambdapi** [application](/_pages/stsm/coltellacci-app.pdf)   
-  Visitor: Alessio Coltellacci 
+  Visitor: Alessio Coltellacci   
   Host: Yoni Zohar   
   Grant: 3457 EUR  
   Dates: 2024-04-01 to 2024-04-12
 
 * **Learning for Automated Theorem Proving Based on Proof Structures in the Presence of a Large Proof Library** [application](/_pages/stsm/zombori-app.pdf)   
-  Visitor: Zsolt Zombori 
+  Visitor: Zsolt Zombori    
   Host: Christoph Wernhard    
   Grant: 1500 EUR  
   Dates: 2024-04-01 to 2024-04-07
@@ -54,7 +54,7 @@ The grant amounts below are initial estimations and not necessarily the final am
   Dates: 2024-02-19 to 2024-02-23
 
 * **Expansion of the Goéland Theorem Prover and Interoperability with the LISA Proof Assistant** [application](/_pages/stsm/cailler-app.pdf)   
-  Visitor: Julie Cailler 
+  Visitor: Julie Cailler     
   Host: Viktor Kuncak    
   Grant: 3434 EUR  
   Dates: 2024-02-19 to 2024-03-01
