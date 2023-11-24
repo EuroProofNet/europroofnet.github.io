@@ -15,6 +15,74 @@ author_profile: true
 
 The grant amounts below are initial estimations and not necessarily the final amounts
 
+## 7th call (12 November 2023)
+
+* **Reconstructing AletheLF Proofs in Lambdapi** [application](/_pages/stsm/coltellacci-app.pdf)   
+  Visitor: Alessio Coltellacci 
+  Host: Yoni Zohar   
+  Grant: 3457 EUR  
+  Dates: 2024-04-01 to 2024-04-12
+
+* **Learning for Automated Theorem Proving Based on Proof Structures in the Presence of a Large Proof Library** [application](/_pages/stsm/zombori-app.pdf)   
+  Visitor: Zsolt Zombori 
+  Host: Christoph Wernhard    
+  Grant: 1500 EUR  
+  Dates: 2024-04-01 to 2024-04-07
+
+* **Interoperability of Tableaux and Sequent Calculus Proof Systems** [application](/_pages/stsm/guilloud-app.pdf)   
+  Visitor: Simon Guilloud  
+  Host: Philipp Rümmer    
+  Grant: 2500 EUR  
+  Dates: 2024-03-25 to 2024-04-06
+
+* **Towards 2-dimensional second-order algebraic theories** [application](/_pages/stsm/arkor-app.pdf)   
+  Visitor: Nathanael Arkor  
+  Host: Dylan McDermott        
+  Grant: 1916 EUR  
+  Dates: 2024-03-10 to 2024-03-16
+
+* **Towards 2-dimensional 2nd-order algebraic theories** [application](/_pages/stsm/saville-app.pdf)   
+  Visitor: Philip Saville  
+  Host: Dylan McDermott    
+  Grant: 1933 EUR  
+  Dates: 2024-03-10 to 2024-03-17
+
+* **Checking proofs from QBF solvers in Dedukti and Lambdapi** [application](/_pages/stsm/seidl-app.pdf)   
+  Visitor: Martina Seidl  
+  Host: Catherine Dubois    
+  Grant: 1250 EUR  
+  Dates: 2024-02-19 to 2024-02-23
+
+* **Expansion of the Goéland Theorem Prover and Interoperability with the LISA Proof Assistant** [application](/_pages/stsm/cailler-app.pdf)   
+  Visitor: Julie Cailler 
+  Host: Viktor Kuncak    
+  Grant: 3434 EUR  
+  Dates: 2024-02-19 to 2024-03-01
+
+* **Conjecture and proof search in Agda with large language models** [application](/_pages/stsm/dore-app.pdf)   
+  Visitor: Maximilian Doré  
+  Host: Moa Johansson    
+  Grant: 1220 EUR  
+  Dates: 2024-01-28 to 2024-02-02
+
+* **Initial semantics for polymorphic type systems** [application](/_pages/stsm/ahrens-app.pdf)   
+  Visitor: Benedikt Ahrens  
+  Host: Ambroise Lafont    
+  Grant: 1302 EUR  
+  Dates: 2024-01-21 to 2024-01-27
+
+* **Translating from Lean to Dedukti** [application](/_pages/stsm/vaishnav-app.pdf)   
+  Visitor: Rishikesh Vaishnav  
+  Host: Sebastian Ullrich    
+  Grant: 1500 EUR  
+  Dates: 2024-01-15 to 2024-01-21
+
+* **ω-categories, syntax and models** [application](/_pages/stsm/name-app.pdf)   
+  Visitor: Michele De Pascalis  
+  Host: Eric Finster    
+  Grant: 1606 EUR  
+  Dates: 2024-01-14 to 2024-01-20
+
 ## 6th call (8 May 2023)
 
 * **Reconstruction of incomplete theorems and incomplete proofs with Larus** [application](/_pages/stsm/tabet-app.pdf) [report](/_pages/stsm/tabet-rep.pdf)   
