@@ -77,7 +77,7 @@ The grant amounts below are initial estimations and not necessarily the final am
   Grant: 1500 EUR  
   Dates: 2024-01-15 to 2024-01-21
 
-* **ω-categories, syntax and models** [application](/_pages/stsm/name-app.pdf)   
+* **ω-categories, syntax and models** [application](/_pages/stsm/pascalis-app.pdf)   
   Visitor: Michele De Pascalis  
   Host: Eric Finster    
   Grant: 1606 EUR  
