@@ -29,7 +29,7 @@ the [Grant Holder](mailto:saf-saclay-recettes@inria.fr).
 - Vice chair: [Sandra Alves](https://www.dcc.fc.up.pt/~sandra/)
 
 - Science communication
-  * coordinator: [Ornela Dardha](http://www.dcs.gla.ac.uk/~ornela/)
+  * coordinator: [Natasa Stojkovik](natasa.stojkovik@ugd.edu.mk)
   * vice coordinator: [Dmitriy Traytel](https://traytel.bitbucket.io/)
 
 - Grant awarding
