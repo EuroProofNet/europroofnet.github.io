@@ -1,5 +1,5 @@
 ---
-title: "WG1 meeting in Gruissan in January 2024"
+title: "Meeting on Dedukti and proof systems interoperability in Gruissan in January 2024"
 layout: single
 permalink: /wg1-gruissan24/
 author_profile: true
@@ -25,7 +25,7 @@ may organize a private shuttle.
 
 <!--A shuttle will be organized from/to the train station on October 15 at 15:30, and from the hotel to Remiremont train station on October 19 at 15:00. If you want to take the shuttle, send a mail to [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/)-->
 
-**Program:** Discussing the encoding in Dedukti of logical features (universe polymorphism with impredicativity, type classes, etc.), and working alone or in small groups on the development of tools for generating, handling or transforming Dedukti files, taking advantage of the participation of experts on Dedukti or other languages and tools, to make progress on EuroProofNet [objectives](../objectives) and [deliverables](../deliverables).
+**Program:** Discussing the encoding in Dedukti of logical features (universe polymorphism with impredicativity, type classes, etc.), working alone or in small groups on the development of tools for generating, handling or transforming Dedukti files, taking advantage of the participation of experts on Dedukti or other languages and tools, working on the translation of proofs from one system to another system, to make progress on EuroProofNet [objectives](../objectives) and [deliverables](../deliverables).
 
 **Application procedure:** The number of participants is limited. If you want to be funded, check the [eligibility rules](https://europroofnet.github.io/eligibility/) and send a mail to [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/) with the following information and documents:
 
@@ -35,26 +35,56 @@ may organize a private shuttle.
   * cost of travel in euros with quote (screen capture)
   * work plan: describe what you would like to do
 
-**Deadline:** 12 November 2023.
+**Cost:** Participants have to organize their travel by themselves. For accommodation and meals, they will have to pay to the hotel 30% in advance (that can be reimbursed in case of cancellation before January 14) and the remaining on site. See the [reimbursement rules](https://europroofnet.github.io/reimbursement-rules/) for more details. The daily allowance is fixed at 120 euros.
 
-**Cost:** Participants have to organize their travel by themselves. For accommodation and meals, they will have to pay 30% at the hotel and the remaining on site. See the [reimbursement rules](https://europroofnet.github.io/reimbursement-rules/) for more details. The daily allowance is fixed at 120 euros.
+**Participants (17):**
 
+<!-- hotel paid -->
+
+- [Rishikesh Vaishnav](https://lmf.cnrs.fr/Perso/RishVaishnav) will work on [lean2dk](https://github.com/Deducteam/lean2dk).
+
+- [Théo Winterhalter](https://theowinterhalter.github.io/) plans to work on extending Dedukti with decision procedures.
+
+- [Thomas Traversié]( https://thomastraversie.github.io/) will work on the constructivisation of classical proofs.
+
+- [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/) will work on [hol2dk](https://github.com/Deducteam/hol2dk/), [isabelle\_dedukti](https://github.com/Deducteam/isabelle_dedukti/) and [lambdapi](https://github.com/Deducteam/lambdapi/).
+
+- [Thiago Felicissimo](http://www.lsv.fr/~felicissimo/) will work on CompLF.
+
+- Abdelghani Alidra: hands-on learning of the encoding of logical features in Dedukti, discuss with other participants the current and the desired features and development workflow, meet and network with other EuroProofNet community members.
+
+- Gabriel Hondet will work on Lambdapi and [STTfaxport](https://github.com/Deducteam/sttfaxport).
+
+- Claude Stolze will work on the translation and verification of Atelier B proofs in Lambdapi, [B-pog-translator](https://github.com/Deducteam/B-pog-translator).
+
+- Alessio Coltellacci with work on the encoding of Alethe proofs from SMT solvers to Lambdapi.
+
+- [Nicolas Magaud](https://dpt-info.u-strasbg.fr/~magaud/) will investigate how to use the Dedukti/Lambdapi toolchain to transform the Isabelle/HOL formal description of Faradžev-Read algorithm into an equivalent formal description in Coq.
+
+- François Thiré will work on Dedukti and STTfaxport.
+
+- [Claudio Sacerdoti Coen](http://www.cs.unibo.it/~sacerdot/) plans to work on importing/exporting from Matita to Dedukti and developing a type checker for
+Dedukti written in Rust using term graphs.
+
+- Melanie Taprogge will work on the encoding of the THF proofs and the verification of LEO-III proofs in Dedukti/Lambdapi.
+
+<!-- hotel not not paid yet -->
+
+- [Bruno Barras](http://www.lsv.fr/~barras/) plans to work on Lambdapi (reduction engine, use of de Bruijn indices).
+
+- [Filip Maric](http://www.matf.bg.ac.rs/~filip) will work on using Dedukti/Lambdapi (esp. isabelle_dedukti) to translate a whole Isabelle/HOL development into a similar one in Coq.
+
+- David Delahaye will work on extending the Dedukti/Lambdapi outputs of ZenonModulo to handle arithmetic proofs.
+
+- Isaac Lluis will work on extending the Dedukti/Lambdapi outputs of ZenonModulo to handle arithmetic proofs.
+
+<!-- to be confirmed -->
 <!--
-**Participants (1):**
+- [Sophie Tourret](https://www.mpi-inf.mpg.de/departments/automation-of-logic/people/sophie-tourret)
 
-- [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/)
-
-
-- [Thiago Felicissimo](http://www.lsv.fr/~felicissimo/)
-- Yoan Géran
-- [Julien Narboux](https://dpt-info.di.unistra.fr/~narboux/) and [Predrag Janičić](http://poincare.matf.bg.ac.rs/~janicic/)
-- [Claudio Sacerdoti Coen](http://www.cs.unibo.it/~sacerdot/)
-- Thomas Traversié
-- [Amélie Ledein](https://lmf.cnrs.fr/Perso/AmelieLedein)
-- Claude Stolze
 - [Artur Korniłowicz](http://math.uwb.edu.pl/~arturk/)
-- Gabriel Hondet
-- François Thiré
+
+- [Amélie Ledein](https://lmf.cnrs.fr/Perso/AmelieLedein)
 -->
 
 **Monday 22 January (optional, for people arriving the day before the meeting):**

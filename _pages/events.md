@@ -13,6 +13,7 @@ author_profile: true
 
 **2023**
 
+- 12 November 2023: [submission deadline for STSM and ITCG proposals between December and June](../grants)
 - 9 October 2023: [3rd Management Committee meeting](https://europroofnet.github.io/mc-meetings/)
 - 26-27 September 2023: [WG1+4 meeting](../WG1+4-meeting-Sep2023), Fontainebleau, France
 - 6-8 September 2023: [Joint WG4-WG5 meeting/Workshop on Natural Formal Mathematics, and on libraries of formal proofs and natural mathematical language](../cambridge-2023), Cambridge, UK

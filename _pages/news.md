@@ -5,17 +5,19 @@ permalink: /news/
 author_profile: true
 ---
 
-August 2024: Frédéric Blanqui, chair of EuroProofNet, has been invited to give a series of lectures at the [14th International School on Rewriting](http://cl-informatik.uibk.ac.at/isr24/) (ISR'24,), Obergurgl, Austria.
+August 2024: [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/), chair of EuroProofNet, has been invited to give a series of lectures at the [14th International School on Rewriting](http://cl-informatik.uibk.ac.at/isr24/) (ISR'24,), Obergurgl, Austria.
 
-1 July 2023: Sandra Alves, co-chair of EuroProofNet, has been invited to give a talk at [Women in Logic 2023](https://sites.google.com/view/wil2023/home), Roma, Italy.
+20 October 2023: [Gilles Dowek](http://www.lsv.fr/~dowek/) received the [Grand Prix Inria - Académie des Sciences 2023](https://www.inria.fr/fr/gilles-dowek-methodes-formelles-grand-prix-scientifique-inria-academie-des-sciences-2023).
 
-21 September 2023: Alicia Villanueva, WG3 leader, has been invited to give a talk at the [7th Working Formal Methods Symposium]((https://from2023.cs.unibuc.ro/)) (FROM'23), Bucharest, Romania.
+1 July 2023: [Sandra Alves](https://www.dcc.fc.up.pt/~sandra/Home/Home.html), co-chair of EuroProofNet, has been invited to give a talk at [Women in Logic 2023](https://sites.google.com/view/wil2023/home), Roma, Italy.
 
-8 September 2023: Frédéric Blanqui, chair of EuroProofNet, has been invited to give a talk at the [16th Conference on Intelligent Computer Mathematics](https://cicm-conference.org/2023/) (CICM'23), Cambridge, UK.
+21 September 2023: [Alicia Villanueva](http://personales.upv.es/alvilga1/), WG3 leader, has been invited to give a talk at the [7th Working Formal Methods Symposium]((https://from2023.cs.unibuc.ro/)) (FROM'23), Bucharest, Romania.
 
-24-25 May 2023: András Kovács and Anders Mörtberg have been invited to give talks at the [2nd International Conference on Homotopy Type Theory](https://hott.github.io/HoTT-2023) (HoTT 2023), Pittsburg, USA
+8 September 2023: [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/), chair of EuroProofNet, has been invited to give a talk at the [16th Conference on Intelligent Computer Mathematics](https://cicm-conference.org/2023/) (CICM'23), Cambridge, UK.
 
-8 August 2022: Gilles Dowek, vice-leader of WG4, has been invited to give a talk at the [11th International Joint Conference on Automated Reasoning](https://ijcar.org) (IJCAR'22), Haifa, Israel.
+24-25 May 2023: [András Kovács](https://andraskovacs.github.io/) and [Anders Mörtberg](https://staff.math.su.se/anders.mortberg/) have been invited to give talks at the [2nd International Conference on Homotopy Type Theory](https://hott.github.io/HoTT-2023) (HoTT 2023), Pittsburg, USA
+
+8 August 2022: [Gilles Dowek](http://www.lsv.fr/~dowek/), vice-leader of WG4, has been invited to give a talk at the [11th International Joint Conference on Automated Reasoning](https://ijcar.org) (IJCAR'22), Haifa, Israel.
 
 6 May 2022: [L’interopérabilité des systèmes de preuve](https://www.lemonde.fr/blog/binaire/2022/05/06/linteroperabilite-des-systemes-de-preuve/), Binaire, France
 
