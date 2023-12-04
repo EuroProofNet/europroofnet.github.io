@@ -38,7 +38,7 @@ TBD
 **Deadlines**
 
 - Submission of talk proposals: 2 February 2024 (AoE)
-- Author notification: 16 February 224
+- Author notification: 16 February 2024
 - Funding requests: 23 February 2024 (AoE)
 - Funding notification: 4 March 2024
 - Registration: 8 March 2024 (AoE)
