@@ -63,19 +63,20 @@ may organize a private shuttle.
 
 - François Thiré will work on Dedukti and STTfaxport.
 
+- [Claudio Sacerdoti Coen](http://www.cs.unibo.it/~sacerdot/) plans to work on importing/exporting from Matita to Dedukti and developing a type checker for
+Dedukti written in Rust using term graphs.
+
+- Melanie Taprogge will work on the encoding of the THF proofs and the verification of LEO-III proofs in Dedukti/Lambdapi.
+
 <!-- hotel not not paid yet -->
 
 - [Bruno Barras](http://www.lsv.fr/~barras/) plans to work on Lambdapi (reduction engine, use of de Bruijn indices).
-
-- [Claudio Sacerdoti Coen](http://www.cs.unibo.it/~sacerdot/) plans to work on the translation of type classes between Isabelle and Coq.
 
 - [Filip Maric](http://www.matf.bg.ac.rs/~filip) will work on using Dedukti/Lambdapi (esp. isabelle_dedukti) to translate a whole Isabelle/HOL development into a similar one in Coq.
 
 - David Delahaye will work on extending the Dedukti/Lambdapi outputs of ZenonModulo to handle arithmetic proofs.
 
 - Isaac Lluis will work on extending the Dedukti/Lambdapi outputs of ZenonModulo to handle arithmetic proofs.
-
-- Melanie Taprogge will work on the encoding of the THF proofs and the verification of LEO-III proofs in Dedukti/Lambdapi.
 
 <!-- to be confirmed -->
 <!--
