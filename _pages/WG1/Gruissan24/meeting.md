@@ -41,7 +41,7 @@ may organize a private shuttle.
 
 <!-- hotel paid -->
 
-- [Rishikesh Vaishnav](https://lmf.cnrs.fr/Perso/RishVaishnav) will work on [lean2dk](https://github.com/Deducteam/lean2dk)
+- [Rishikesh Vaishnav](https://lmf.cnrs.fr/Perso/RishVaishnav) will work on [lean2dk](https://github.com/Deducteam/lean2dk).
 
 - [Théo Winterhalter](https://theowinterhalter.github.io/) plans to work on extending Dedukti with decision procedures.
 
@@ -57,7 +57,7 @@ may organize a private shuttle.
 
 - Claude Stolze will work on the translation and verification of Atelier B proofs in Lambdapi, [B-pog-translator](https://github.com/Deducteam/B-pog-translator).
 
-- Alessio Coltellacci with work on the encoding of Alethe proofs from SMT solvers to Lambdapi
+- Alessio Coltellacci with work on the encoding of Alethe proofs from SMT solvers to Lambdapi.
 
 - [Nicolas Magaud](https://dpt-info.u-strasbg.fr/~magaud/) will investigate how to use the Dedukti/Lambdapi toolchain to transform the Isabelle/HOL formal description of Faradžev-Read algorithm into an equivalent formal description in Coq.
 
