@@ -21,6 +21,15 @@ breadcrumbs: true
   * transfer knowledge in terms of expertise and scientific tools across the different disciplines and between academia and industry, and
   * foster collaborations and build synergies among participants to ease the path to more fruitful results for the Action.
 
+**Confirmed speakers:** The event will have talks from academic as well as industrial experts, including: 
+
+  * Vincent Cheval (University of Oxford)
+  * Hannes Tschofenig (Siemens, Austria)
+  * Ionut Mihalcea (Arm, UK)
+  * Thomas Fossati (Linaro, Switzerland)
+  * Arto Niemi (Huawei, Finland)
+  * Lilia Georgieva (Microsoft, UK)
+
 **Important dates:**
   * Submission of talk proposals: 22 December 2023
   * Notification of selected talks: 12 January 2024
@@ -36,12 +45,3 @@ breadcrumbs: true
 **Cost:** The event is free of cost for anyone interested but we may need to limit the number of participants. Hence, please utilize the "Short bio" field in the form to tell us about how you can benefit from the event. Also, please wait for the confirmation email before making travel arrangements. 
 
 **Reimbursement:** Participants selected for funding will have to organize their travel by themselves. See the [reimbursement rules](https://europroofnet.github.io/reimbursement-rules/) for more details. The daily allowance (covering accommodation, local transport and meals) is fixed at 130 Euros.
-
-**Confirmed speakers:** The event will have talks from academic as well as industrial experts, including: 
-
-  * Vincent Cheval (University of Oxford)
-  * Hannes Tschofenig (Siemens, Austria)
-  * Ionut Mihalcea (Arm, UK)
-  * Thomas Fossati (Linaro, Switzerland)
-  * Arto Niemi (Huawei, Finland)
-  * Lilia Georgieva (Microsoft, UK)
