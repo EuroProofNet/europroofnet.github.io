@@ -10,8 +10,6 @@ breadcrumbs: true
 
 **Date:** 27-28 March 2024
 
-Remark: the official dates of the meeting taken into account for reimbursements are from March 27 to March 28 (2 days). You can plan to arrive on March 26 and leave on March 29.
-
 **Venue:** Dresden, Germany
 
 **Main idea:** Despite significant advances in formal methods, there remains a huge barrier to the adoption of formal methods in the industry. The key idea of this event is to bring together industry designers and formal methods research community to share ideas and experiences on how to improve the tools to reduce the barrier to adoption.
