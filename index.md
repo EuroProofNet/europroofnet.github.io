@@ -45,7 +45,7 @@ corner).
 - June 2024: Women in EuroProofNet workshop in Bonn, Germany, around the Workshop in Formalization of Mathematics taking place on June 17-21 during the Hausdorff trimester on formal mathematics
 - July 2024: SAT/SMT/AR school in co-location with IJCAR'24 in Nancy, France
 - July 2024: WG2 meeting/TPTP Tea Party in co-location with IJCAR'24 in Nancy, France
-- September 2024: WG4 meeting/2nd workshop on the development, maintenance, refactoring and mining of large libraries of proofs in Tbilisi, Georgia, in co-location with ITP'24 (to be confirmed)
+- September 2024: [WG4 meeting/2nd workshop on the development, maintenance, refactoring and mining of large libraries of proofs](../wg4-tbilisi24) in Tbilisi, Georgia, in co-location with [ITP'24](https://www.viam.science.tsu.ge/itp2024/) (to be confirmed)
 - 15-21 September 2024: school on Proof & Computation at Fischbachau, Germany
 
 [Past events](../events)
