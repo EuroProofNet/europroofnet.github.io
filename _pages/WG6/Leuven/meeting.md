@@ -10,7 +10,17 @@ breadcrumbs: true
 
 **Place:** Leuven, Belgium
 
-**[Venue information](https://anuyts.github.io/2024/venue.html)**
+**Venue:** Dept. of Computer Science
+
+Celestijnenlaan 200A
+
+3001 Heverlee (Leuven)
+
+**Talks:** Auditorium Erik Duval, 200A.00.225
+
+**Collaborative room:** Seminar room 200A.00.144 
+
+**[Local information](https://anuyts.github.io/2024/venue.html)**
 
 The aim of this meeting series is to bring together researchers working on the topics of [working group 6 of EuroProofNet](https://europroofnet.github.io/wg6/). The main focus is thus on the syntax and semantics of type theory.
 This includes, but is not limited to the goal of WG6:
