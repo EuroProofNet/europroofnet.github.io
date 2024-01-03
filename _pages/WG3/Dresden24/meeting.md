@@ -10,7 +10,7 @@ breadcrumbs: true
 
 **Date:** 27-28 March 2024
 
-**Venue:** Dresden, Germany
+**Venue:** TU Dresden, Germany ([APB Andreas-Pfitzmann-Bau](https://navigator.tu-dresden.de/gebaeude/apb), Nöthnitzer Str. 46, 01069 Dresden)
 
 **Main idea:** Despite significant advances in formal methods, there remains a huge barrier to the adoption of formal methods in the industry. The key idea of this event is to bring together industry designers and formal methods research community to share ideas and experiences on how to improve the tools to reduce the barrier to adoption.
 
@@ -21,7 +21,7 @@ breadcrumbs: true
   * transfer knowledge in terms of expertise and scientific tools across the different disciplines and between academia and industry, and
   * foster collaborations and build synergies among participants to ease the path to more fruitful results for the Action.
 
-**Confirmed speakers:** The event will have talks from academic as well as industrial experts, including: 
+**Confirmed speakers:** The event will have talks from young researchers as well as academic and industrial experts, including: 
 
   * **Confidential Computing/Attestation** 
     * Hannes Tschofenig (Siemens, Austria)
@@ -29,7 +29,9 @@ breadcrumbs: true
     * Thomas Fossati (Linaro, Switzerland)
     * Arto Niemi (Huawei, Finland)
     * Angelo	Ruocco (IBM Research, Switzerland)
+    * Andreas	Berg	(gematik GmbH,	Germany)
     * Michael	Roitzsch	(Barkhausen Institut,	Germany)
+    * Richard	Zak	(Enarx maintainer,	USA)
     * Rui	Almeida	(Klave,	UK)
       
   * **Formal methods for security** 
@@ -37,7 +39,10 @@ breadcrumbs: true
     * Lilia Georgieva (Microsoft, UK)
     * Georgio	Nicolas	(KU Leuven,	Belgium)
     * Jannik	Mähn	(Barkhausen Institut,	Germany)
-    * Dorel	Lucanu	(Alexandru Ioan Cuza University, Romania)
+    * Dorel	Lucanu and Andrei	Mogage	(Alexandru Ioan Cuza University, Romania)
+    * Horatiu Cheval	(University of Bucharest,	Romania)
+    * João	Mota (NOVA School of Science and Technology,	Portugal)
+
       
 **Important dates:**
   * Submission of talk proposals: 22 December 2023
@@ -47,9 +52,9 @@ breadcrumbs: true
   * Registration for attendance (without talk): 31 January 2024
 
 **Application procedure:** In all cases, please [fill the same form](https://docs.google.com/forms/d/1TeOnw5RDcjfXmrayhQ6qBkYx4tqfooBW9Bmeqku1ltc).
-  * **Case 1**: _You have a cool talk proposal_: please fill out the optional fields of title, duration, and abstract.
-  * **Case 2**: _You would like to apply for funding_: check the [eligibility rules](https://europroofnet.github.io/eligibility/) and please fill out all the optional fields on second page of Google form. If you are not yet a member of EuroProofNet, please join it. If you are unsure of working group, please select WG3 because the event is being organized by WG3.
-  * **Case 3**: _You would just like to attend the event without any talk proposal_: please fill out the _required_ (marked with *) fields of the Google form, leaving the optional fields as blank. Being a member of EuroProofNet is not a requirement for this case. 
+  * **Case 1**: _You have a cool talk proposal_: please fill out the _optional_ fields of title, duration, and abstract.
+  * **Case 2**: _You would like to apply for funding_: check the [eligibility rules](https://europroofnet.github.io/eligibility/) and please fill out all the _optional_ fields on second page of Google form. If you are not yet a member of EuroProofNet, please join it. If you are unsure of working group, please select WG3 because the event is being organized by WG3.
+  * **Case 3**: _You would just like to attend the event without any talk proposal_: please fill out the _required_ (marked with *) fields of the Google form, leaving the _optional_ fields as blank. Being a member of EuroProofNet is not a requirement for this case. 
   
 **Cost:** The event is free of cost for anyone interested but we may need to limit the number of participants. Hence, please utilize the "Short bio" field in the form to tell us about how you can benefit from the event. Also, please wait for the confirmation email before making travel arrangements. 
 
