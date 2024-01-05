@@ -11,6 +11,10 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 
 - [STSM reports](../accepted_stsms)
 
+**2024**
+
+- [Formal Specification and Verification of Architecturally-Defined Attestation Mechanisms in Arm CCA and Intel TDX](https://doi.org/10.1109/access.2023.3346501), M. U. Sardar, T. Fossati, S. Frost, S. Xiong, IEEE Access, pp. 361-381, vol 12.
+
 **2023**
 
 - [CICM’22 System Entries](10.1007/978-3-031-16681-5_24), P. Koepke, A. Lorenzen, B. Shminke, Intelligent Computer Mathematics. CICM 2022. Lecture Notes in Computer Science, vol 13467.
