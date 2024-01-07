@@ -12,7 +12,7 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 - [STSM reports](../accepted_stsms)
 
 **2024**
-
+- [Generalisation through Negation and Predicate Invention](https://doi.org/10.48550/arXiv.2301.07629), David M. Cerna and Andrew Cropper, AAAI-24, Feb. 22-25, 2024, to appear.
 - [Formal Specification and Verification of Architecturally-Defined Attestation Mechanisms in Arm CCA and Intel TDX](https://doi.org/10.1109/access.2023.3346501), M. U. Sardar, T. Fossati, S. Frost, S. Xiong, IEEE Access, pp. 361-381, vol 12.
 
 **2023**
