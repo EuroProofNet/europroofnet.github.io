@@ -73,11 +73,11 @@ Tentative program schedule (subject to change):
 | Time        | Session |
 | ----------- | ----------- |
 | 09:00-09:05 | Opening & Welcome |
-| 09:05-10:00 | Invited talk: Małgorzata Biernacka: Reduction Strategies in the Lambda Calculus: A Systematic Approach to Their Specification and Efficient Implementation with Abstract Machines |
-| 10:05-10:30 | Dragana Milovancevic: [Towards Practical and Rigorous Automated Grading in Functional Programming Courses](abstracts/WEPN_2023_paper_Milovancevic.pdf)|
+| 09:05-10:00 | Invited talk: Małgorzata Biernacka: Reduction Strategies in the Lambda Calculus: A Systematic Approach to Their Specification and Efficient Implementation with Abstract Machines [(slides)](slides/biernacka.pdf)|
+| 10:05-10:30 | Dragana Milovancevic: [Towards Practical and Rigorous Automated Grading in Functional Programming Courses](abstracts/WEPN_2023_paper_Milovancevic.pdf) [(slides)](slides/dragana.pdf)|
 | 10:35-11:00 | Natalia Ślusarz: [Logic of Differentiable Logics: Towards a Uniform Semantics of DL](abstracts/WEPN_2023_paper_Slusarz.pdf)|
 | 11:00-11:30 | _Coffee Break_ |
-| 11:30-11:55 | Chelsea Edmonds: [An Introduction to the Probabilistic Method for Combinatorics in Isabelle/HOL](abstracts/WEPN_2023_paper_Edmonds.pdf) |
+| 11:30-11:55 | Chelsea Edmonds: [An Introduction to the Probabilistic Method for Combinatorics in Isabelle/HOL](abstracts/WEPN_2023_paper_Edmonds.pdf) [(slides)](slides/edmonds_wepn.pdf)|
 | 12:00-13:25 | Discussion on gender balance issues |
 | 13:25-13:30 | Group photo |
 | 13:30-15:00 | lunch |
