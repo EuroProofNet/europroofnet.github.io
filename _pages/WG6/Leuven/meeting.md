@@ -35,7 +35,10 @@ collectively are also welcome: please use the same form and clearly mark your
 entry as a discussion proposal, we will try to organize a few short discussion sessions.
 
 **Invited speakers**
-TBD
+
+- [Meven Lennon-Bertrand](https://www.meven.ac/)
+- [Dmitrij Szamozvancev](https://www.cl.cam.ac.uk/~ds709/)
+- [Maaike Zwart](https://maaikezwart.com/)
 
 **Contributed talks**
 TBD
@@ -64,10 +67,16 @@ objectives and deliverables of the action; inclusive target countries; age; gend
 team with low resources; balance over the action life time between people, teams,
 countries and working groups.
 
-**[Submission of proposals](https://lipn.univ-paris13.fr/limesurvey/index.php/752657?lang=en)**
+To apply for funding, simply fill out the 
+[funding and registration form](http://lipn.univ-paris13.fr/limesurvey/index.php/736237?lang=en)
+before February 23.
+You can still confirm or cancel your registration after a decision on awarding funding has been made.
+
+**Submission of proposals:**
+[Submission form](https://lipn.univ-paris13.fr/limesurvey/index.php/752657?lang=en)
 
 **Registration:**
-TBD
+[Registration form](http://lipn.univ-paris13.fr/limesurvey/index.php/736237?lang=en)
 
 **Local information:** Please see [here](https://anuyts.github.io/2024/venue.html).
 
