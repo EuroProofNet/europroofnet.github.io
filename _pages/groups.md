@@ -42,6 +42,7 @@ Groups marked with (EPN) have members participating to EuroProofNet.
 **Estonia**
 
 - [Logic and Semantics group](https://cs.ioc.ee/lsg/), Tallinn University of Technology (EPN)
+- [Laboratory for Software Science](https://sws.cs.ut.ee), University of Tartu (EPN)
 
 **Finland**
 
