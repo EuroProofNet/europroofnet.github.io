@@ -41,7 +41,8 @@ breadcrumbs: true
     * Jannik	Mähn	(Barkhausen Institut,	Germany)
     * Dorel	Lucanu and Andrei	Mogage	(Alexandru Ioan Cuza University, Romania)
     * Horatiu Cheval	(University of Bucharest,	Romania)
-    * João	Mota (NOVA School of Science and Technology,	Portugal)
+    * Volker	Stolz	(Høgskulen på Vestlandet,	Norway)
+    * Ayşe	Sayin	(Istanbul Technical University,	Turkey)
 
       
 **Important dates:**
@@ -49,6 +50,7 @@ breadcrumbs: true
   * Notification of selected talks: 12 January 2024
   * Funding request: 22 December 2023 (Applications received by this date will receive priority for reimbursement.)
   * Notification of funding decisions: 12 January 2024
+  * Tentative detailed agenda: 25 January 2024
   * Registration for attendance (without talk): 31 January 2024
 
 **Application procedure:** In all cases, please [fill the same form](https://docs.google.com/forms/d/1TeOnw5RDcjfXmrayhQ6qBkYx4tqfooBW9Bmeqku1ltc).
