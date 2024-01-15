@@ -1,7 +1,7 @@
 ---
 title: "The Workshop on Alignment of Proof Systems and Machine Learning"
 layout: single
-permalink: wg5-vienna24
+permalink: /wg5-vienna24/
 author_profile: true
 breadcrumbs: true
 ---
