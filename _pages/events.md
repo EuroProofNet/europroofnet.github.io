@@ -11,6 +11,10 @@ author_profile: true
 
 **Past events:**
 
+**2024**
+
+- 7 January 2024: [submission deadline for STSM/ITCG proposals between February and August 2024](../grants). We especially welcome proposals from the working groups 4 and 3, and from [inclusive-target countries](../eligibility) and [women](../gender-balance)
+
 **2023**
 
 - 12 November 2023: [submission deadline for STSM and ITCG proposals between December and June](../grants)
