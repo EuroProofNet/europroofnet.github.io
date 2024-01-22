@@ -14,14 +14,14 @@ breadcrumbs: true
 
     * [X] complete address: TU Wien Informatics, Favoritenstraße 9-11, 1040 Wien, Austria. The room is likely to be 'Zemanek', on the ground floor in
 Favoritenstraße 11.
-    * [ ] starting date and time: March 25 at 08:00 ?
-    * [ ] ending date and time: March 26 at 19:00 ?
+    * [ ] starting date and time: March 25 at 09:00 ?
+    * [ ] ending date and time: March 26 at 17:00 ?
 
 - [X] The organizer checks the prices of accommodations and restaurants around the place of the meeting at the dates of the meeting, and sends to the chair a proposal for the daily allowance.
 
-    * [ ] daily allowance: 160 euros ?
+    * [X] daily allowance: 160 euros
 
-- [ ] The chair sets up the event on https://e-services.cost.eu/, but not the LOS yet (this will be done later).
+- [X] The chair sets up the event on https://e-services.cost.eu/, but not the LOS yet (this will be done later).
 
 - [X] The chair asks the organizer details about the LOS. By the way, the chair asks the organizer to carefully read the rules concerning LOS in the COST annotated rules (see https://www.cost.eu/Annotated_Rules_for_COST_Actions_C page 92). Note in particular that VAT is not reimbursed.
 
@@ -31,13 +31,13 @@ Favoritenstraße 11.
 
 - [X] The Grant Holder checks the eligibility of the LOS and sends the result to the organizer and the chair.
 
-- [ ] The chair and the organizer fix the deadline for reimbursement applications at least 1 month before the meeting, and the date of an online core group meeting within 1 week after the deadline, to decide which participants will be reimbursed, if this cannot be decided by email.
+- [X] The chair and the organizer fix the deadline for reimbursement applications at least 1 month before the meeting, and the date of an online core group meeting within 1 week after the deadline, to decide which participants will be reimbursed, if this cannot be decided by email.
 
-    * deadline:
+    * deadline: 25 February
 
-- [ ] The organizer adds a web page for the meeting on https://europroofnet.github.io/, possibly with the help of the science communication coordinators, with the following information: date, times, place, program, possible hotels, indication on how to get there, participation application procedure, reimbursement application procedure, link to [reimbursement rules](../reimbursement-rules), daily allowance, deadlines.
+- [X] The organizer adds a web page for the meeting on https://europroofnet.github.io/, possibly with the help of the science communication coordinators, with the following information: date, times, place, program, possible hotels, indication on how to get there, participation application procedure, reimbursement application procedure, link to [reimbursement rules](../reimbursement-rules), daily allowance, deadlines.
 
-- [ ] The chair sends the call for participation and reimbursement applications to all action members, at least 1 month before the deadline.
+- [X] The chair sends the call for participation and reimbursement applications to all action members, at least 1 month before the deadline.
 
 - [ ] The organizer collects data and files from participants willing to be reimbursed (name, email, country, address, gender, age, dates of arrival and departure, quote for transport, university certificates for master students). To this end, we strongly suggest the organizer to use forms like https://docs.google.com/forms/d/1WgAdt6_BkJiT9u6lSqIQ5p_7955CHFEjbxG2Ucj5gRg or https://docs.google.com/forms/d/12YxrDK-dupOFj5R5CdINvlc6xzW6C5DpEr58JoVmBIg .
 
