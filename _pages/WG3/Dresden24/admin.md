@@ -13,14 +13,14 @@ breadcrumbs: true
 - [ ] The organizer gives to the chair the exact address, and the starting and ending dates and times:
 
     * [X] complete address: Nöthnitzer Str. 46, 01069 Dresden, Germany
-    * [ ] starting date and time: 27 March at ?
-    * [ ] ending date and time: 28 March at ?
+    * [ ] starting date and time: 27 March at 9:00 ?
+    * [ ] ending date and time: 28 March at 17:00 ?
 
 - [X] The organizer checks the prices of accommodations and restaurants around the place of the meeting at the dates of the meeting, and sends to the chair a proposal for the daily allowance.
 
     * [X] daily allowance: 130 euros
 
-- [ ] The chair sets up the event on https://e-services.cost.eu/, but not the LOS yet (this will be done later).
+- [X] The chair sets up the event on https://e-services.cost.eu/, but not the LOS yet (this will be done later).
 
 - [X] The chair asks the organizer details about the LOS. By the way, the chair asks the organizer to carefully read the rules concerning LOS in the COST annotated rules (see https://www.cost.eu/Annotated_Rules_for_COST_Actions_C page 92). Note in particular that VAT is not reimbursed.
 
@@ -48,7 +48,7 @@ breadcrumbs: true
 
 - [X] Core group meeting to select the participants who will be reimbursed.
 
-- [ ] The organizer informs the applicants of the result.
+- [X] The organizer informs the applicants of the result.
 
 - [ ] The chair invites on https://e-services.cost.eu/ the participants who have been selected.
 
