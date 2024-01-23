@@ -47,11 +47,11 @@ breadcrumbs: true
 
 - [x] The chair sends the call for participation and reimbursement applications to all action members, at least 1 month before the deadline.
 
-- [ ] The organizer collects data and files from participants willing to be reimbursed (name, email, country, address, gender, age, dates of arrival and departure, quote for transport, university certificates for master students). To this end, we strongly suggest the organizer to use forms like https://docs.google.com/forms/d/1WgAdt6_BkJiT9u6lSqIQ5p_7955CHFEjbxG2Ucj5gRg or https://docs.google.com/forms/d/12YxrDK-dupOFj5R5CdINvlc6xzW6C5DpEr58JoVmBIg .
+- [x] The organizer collects data and files from participants willing to be reimbursed (name, email, country, address, gender, age, dates of arrival and departure, quote for transport, university certificates for master students). To this end, we strongly suggest the organizer to use forms like https://docs.google.com/forms/d/1WgAdt6_BkJiT9u6lSqIQ5p_7955CHFEjbxG2Ucj5gRg or https://docs.google.com/forms/d/12YxrDK-dupOFj5R5CdINvlc6xzW6C5DpEr58JoVmBIg .
 
-- [ ] The Grant Holder contacts the organizer to collect the additional data it needs for the LOS.
+- [ ] The **Grant Holder** contacts the organizer to collect the additional data it needs for the LOS.
 
-- [ ] The organizer provides the Grant Holder with the additional data it needs for the LOS.
+- [ ] The **organizer** provides the Grant Holder with the additional data it needs for the LOS.
 
 ### at least 1 month before the meeting (< Mar 4, 2024):
 
