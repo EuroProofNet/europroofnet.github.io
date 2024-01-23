@@ -29,6 +29,8 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 
 - 10-14 June 2024: International Conference on Types for Proofs and Programs, Copenhagen, Denmark
 
+- 10-13 June 2024: [30th Workshop on Logic, Language, Information and Computation](https://wollic2024.inf.unibe.ch/), Bern, Switzerland
+
 - 26-31 May 2024: [25th Conference on Logic for Programming, Artificial Intelligence and Reasoning](http://www.lpar-25.info) (LPAR'24), Mauritius
 
 - 6 May - 16 August 2024: [Trimester on Prospects of formal mathematics](https://www.him.uni-bonn.de/programs/future-programs/future-trimester-programs/prospects-of-formal-mathematics/description/), Hausdorff research institute for mathematics, Bonn, Germany
