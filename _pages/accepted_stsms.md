@@ -37,7 +37,7 @@ The grant amounts below are initial estimations and not necessarily the final am
   Dates: 2024-03-25 to 2024-04-07
 
 * **Bidimensional Markov categories** [application](/_pages/stsm/dilavore-app.pdf)   
-  Visitor: Elena Di Lavore 
+  Visitor: Elena Di Lavore    
   Host: Mario Roman Garcia    
   Grant: 1694 EUR  
   Dates: 2024-03-10 to 2024-03-16
