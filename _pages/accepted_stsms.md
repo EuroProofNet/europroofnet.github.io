@@ -63,7 +63,7 @@ The grant amounts below are initial estimations and not necessarily the final am
   Visitor: Maximilian Doré  
   Host: Moa Johansson    
   Grant: 1220 EUR  
-  Dates: 2024-01-28 to 2024-02-02
+  Dates: 2024-03-11 to 2024-03-15
 
 * **Initial semantics for polymorphic type systems** [application](/_pages/stsm/ahrens-app.pdf)   
   Visitor: Benedikt Ahrens  
