@@ -18,31 +18,31 @@ The grant amounts below are initial estimations and not necessarily the final am
 ## 8th call (7 January  2024)
 
 
-* **Title** [application](/_pages/stsm/cheval-app24.pdf)   
+* **Domain theory for program verification in Lean** [application](/_pages/stsm/cheval-app24.pdf)   
   Visitor: Horatiu Cheval  
   Host: Vlad Rusu   
   Grant: 1230 EUR  
   Dates: 2024-10-06 to 2024-06-15
 
-* **Title** [application](/_pages/stsm/perhac-app.pdf)   
+* **Proof Theory for Programmers: Promoting Output of Theorem Provers to Formative Feedback for Computer Science Students** [application](/_pages/stsm/perhac-app.pdf)   
   Visitor: Ján Perháč  
   Host: Michael Kirkedal Thomsen   
   Grant: 1650 EUR  
   Dates: 2024-06-01 to 2024-06-09
 
-* **Title** [application](/_pages/stsm/name-app.pdf)   
+* **Computer-Assisted Proof Verification for Higher-Order Automated Reasoning within the Dedukti Framework** [application](/_pages/stsm/taprogge-app.pdf)   
   Visitor: Melanie Taprogge  
   Host: Frédéric Blanqui    
   Grant: 2433 EUR  
   Dates: 2024-03-25 to 2024-04-07
 
-* **Title** [application](/_pages/stsm/name-app.pdf)   
+* **Bidimensional Markov categories** [application](/_pages/stsm/dilavore-app.pdf)   
   Visitor: Elena Di Lavore 
   Host: Mario Roman Garcia    
   Grant: 1694 EUR  
   Dates: 2024-03-10 to 2024-03-16
 
-* **Title** [application](/_pages/stsm/name-app.pdf)   
+* **Propositional containers and reductions in computability theory** [application](/_pages/stsm/ahman-app.pdf)   
   Visitor: Danel Ahman   
   Host: Andrej Bauer    
   Grant: 2808 EUR  
