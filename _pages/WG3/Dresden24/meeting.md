@@ -50,8 +50,8 @@ breadcrumbs: true
   * Notification of selected talks: 12 January 2024
   * Funding request: 22 December 2023 (Applications received by this date will receive priority for reimbursement.)
   * Notification of funding decisions: 12 January 2024
-  * Tentative detailed agenda: 25 January 2024
-  * Registration for attendance (without talk): 31 January 2024
+  * Tentative detailed agenda: 31 January 2024
+  * Registration for attendance (without talk): 15 February 2024
 
 **Application procedure:** In all cases, please [fill the same form](https://docs.google.com/forms/d/1TeOnw5RDcjfXmrayhQ6qBkYx4tqfooBW9Bmeqku1ltc).
   * **Case 1**: _You have a cool talk proposal_: please fill out the _optional_ fields of title, duration, and abstract.
