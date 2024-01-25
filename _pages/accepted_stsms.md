@@ -15,6 +15,39 @@ author_profile: true
 
 The grant amounts below are initial estimations and not necessarily the final amounts
 
+## 8th call (7 January  2024)
+
+
+* **Domain theory for program verification in Lean** [application](/_pages/stsm/cheval-app24.pdf)   
+  Visitor: Horatiu Cheval  
+  Host: Vlad Rusu   
+  Grant: 1230 EUR  
+  Dates: 2024-10-06 to 2024-06-15
+
+* **Proof Theory for Programmers: Promoting Output of Theorem Provers to Formative Feedback for Computer Science Students** [application](/_pages/stsm/perhac-app.pdf)   
+  Visitor: Ján Perháč  
+  Host: Michael Kirkedal Thomsen   
+  Grant: 1650 EUR  
+  Dates: 2024-06-01 to 2024-06-09
+
+* **Computer-Assisted Proof Verification for Higher-Order Automated Reasoning within the Dedukti Framework** [application](/_pages/stsm/taprogge-app.pdf)   
+  Visitor: Melanie Taprogge  
+  Host: Frédéric Blanqui    
+  Grant: 2433 EUR  
+  Dates: 2024-03-25 to 2024-04-07
+
+* **Bidimensional Markov categories** [application](/_pages/stsm/dilavore-app.pdf)   
+  Visitor: Elena Di Lavore    
+  Host: Mario Roman Garcia    
+  Grant: 1694 EUR  
+  Dates: 2024-03-10 to 2024-03-16
+
+* **Propositional containers and reductions in computability theory** [application](/_pages/stsm/ahman-app.pdf)   
+  Visitor: Danel Ahman   
+  Host: Andrej Bauer    
+  Grant: 2808 EUR  
+  Dates: 2024-02-25 to 2024-03-09
+  
 ## 7th call (12 November 2023)
 
 * **Reconstructing AletheLF Proofs in Lambdapi** [application](/_pages/stsm/coltellacci-app.pdf)   
@@ -63,19 +96,19 @@ The grant amounts below are initial estimations and not necessarily the final am
   Visitor: Maximilian Doré  
   Host: Moa Johansson    
   Grant: 1220 EUR  
-  Dates: 2024-01-28 to 2024-02-02
+  Dates: 2024-03-11 to 2024-03-15
 
 * **Initial semantics for polymorphic type systems** [application](/_pages/stsm/ahrens-app.pdf)   
   Visitor: Benedikt Ahrens  
   Host: Ambroise Lafont    
   Grant: 1302 EUR  
-  Dates: 2024-01-21 to 2024-01-27
+  Dates: 2024-02-04 to 2024-02-10
 
 * **Translating from Lean to Dedukti** [application](/_pages/stsm/vaishnav-app.pdf)   
   Visitor: Rishikesh Vaishnav  
   Host: Sebastian Ullrich    
   Grant: 1500 EUR  
-  Dates: 2024-01-15 to 2024-01-21
+  Dates: 2024-02-19 to 2024-02-25
 
 * **ω-categories, syntax and models** [application](/_pages/stsm/pascalis-app.pdf)   
   Visitor: Michele De Pascalis  
