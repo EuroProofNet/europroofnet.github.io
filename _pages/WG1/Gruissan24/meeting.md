@@ -6,7 +6,7 @@ author_profile: true
 breadcrumbs: true
 ---
 
-<!--img src="/_pages/WG1/Jan2023/20230129_135357_resized.jpg"/-->
+<img src="/_pages/WG1/Gruissan24/IMG_20240124_144635.jpg"/>
 
 **Organizer:** [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/)
 
@@ -146,4 +146,5 @@ Dedukti written in Rust using term graphs.
 |10:45-12:45|work session 2|
 |12:45-14:00|lunch|
 
-<!--img src="/_pages/WG1/Jan2023/20230126_161524_resized.jpg"/-->
+<img src="/_pages/WG1/Gruissan24/IMG_20240123_172836.jpg"/>
+<img src="/_pages/WG1/Gruissan24/IMG_20240123_135333.jpg"/>
