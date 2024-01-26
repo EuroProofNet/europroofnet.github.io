@@ -41,15 +41,15 @@ may organize a private shuttle.
 
 - [Rishikesh Vaishnav](https://lmf.cnrs.fr/Perso/RishVaishnav) will work on [lean2dk](https://github.com/Deducteam/lean2dk).
 
-- [Théo Winterhalter](https://theowinterhalter.github.io/) plans to work on extending Dedukti with decision procedures.
+- Bruno Barras, [Thiago Felicissimo](http://www.lsv.fr/~felicissimo/) and [Théo Winterhalter](https://theowinterhalter.github.io/) worked on a new formalism to extend Dedukti and Lambdapi with user-defined equational theories. The idea would be to cover theories such as those of universes (with max, 0 and successor) or interval variables in Cubical Type Theory. One of the biggest challenges seems to be the interaction between these new symbols that are identified up to theory and higher-order terms which may feature rewrite rules. We have thought of several criteria so that the resulting type theory remains well behaved, but more investigation needs to be done before we are ready to experiment with an implementation.
 
 - [Thomas Traversié](https://thomastraversie.github.io/) worked on the transformation of higher-order classical proofs into intuitionistic proofs, and improved the [implementation](https://github.com/thomastraversie/Construkti) of this transformation on Dedukti and Lambdapi proofs. To test it, he worked on Frédéric Blanqui's translator of HOL-Light proofs, so that it outputs proofs with explicit natural deduction rules.
 
-- [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/) worked on adding sharing in the lambdapi output of [hol2dk](https://github.com/Deducteam/hol2dk/) ([PR88](https://github.com/Deducteam/hol2dk/pull/88)), fixed some bugs in hol2dk ([PR89](https://github.com/Deducteam/hol2dk/pull/89)), provided explanations about lambdapi and hol2dk, and discussed the certification of SMT proofs with Alessio and of LEO-III proofs with Melanie.
+- [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/) worked on adding sharing in the Lambdapi output of [hol2dk](https://github.com/Deducteam/hol2dk/) ([PR88](https://github.com/Deducteam/hol2dk/pull/88)), fixed some bugs in hol2dk ([PR89](https://github.com/Deducteam/hol2dk/pull/89)), provided explanations about Lambdapi and hol2dk, and discussed the certification of SMT proofs with Alessio and of LEO-III proofs with Melanie.
 
-- [Thiago Felicissimo](http://www.lsv.fr/~felicissimo/) will work on CompLF.
+- [Thiago Felicissimo](http://www.lsv.fr/~felicissimo/) <!--will work on CompLF.-->
 
-- Abdelghani Alidra: Documenting the installation process of Dedukti and Lambdapi. Hands-on learning of the Lambdapi syntax and supportive theory. Disscussing bugs and future evolutions of the Lambdapi Vscode plugin.
+- Abdelghani Alidra: Documenting the installation process of Dedukti and Lambdapi. Hands-on learning of the Lambdapi syntax and supportive theory. Discussing bugs and future evolutions of the Lambdapi Vscode plugin.
 
 - Gabriel Hondet will work on Lambdapi and [STTfaxport](https://github.com/Deducteam/sttfaxport).
 
