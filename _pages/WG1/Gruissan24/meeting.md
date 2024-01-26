@@ -51,7 +51,7 @@ may organize a private shuttle.
 
 - [Thiago Felicissimo](http://www.lsv.fr/~felicissimo/) will work on CompLF.
 
-- Abdelghani Alidra: hands-on learning of the encoding of logical features in Dedukti, discuss with other participants the current and the desired features and development workflow, meet and network with other EuroProofNet community members.
+- Abdelghani Alidra: Documenting the installation process of Dedukti and Lambdapi. Hands-on learning of the Lambdapi syntax and supportive theory. Disscussing bugs and future evolutions of the Lambdapi Vscode plugin.
 
 - Gabriel Hondet will work on Lambdapi and [STTfaxport](https://github.com/Deducteam/sttfaxport).
 
