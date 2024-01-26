@@ -127,3 +127,7 @@ Dedukti written in Rust using term graphs.
 
 <img src="/_pages/WG1/Gruissan24/IMG_20240123_172836.jpg"/>
 <img src="/_pages/WG1/Gruissan24/IMG_20240123_135333.jpg"/>
+
+**Summary of accomplished work:**
+
+- Bruno Baras, Thiago Felicissimo and Théo Winterhalter have worked on a new formalism to extend Dedukti and Lambdapi with user-defined equational theories. The idea would be to cover theories such as those of universes (with max, 0 and successor) or interval variables in Cubical Type Theory. One of the biggest challenges seems to be the interaction between these new symbols that are identified up to theory and higher-order terms which may feature rewrite rules. We have thought of several criteria so that the resulting type theory remains well behaved, but more investigation needs to be done before we are ready to experiment with an implementation.
