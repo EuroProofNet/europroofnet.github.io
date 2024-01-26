@@ -37,9 +37,7 @@ may organize a private shuttle.
 
 **Cost:** Participants have to organize their travel by themselves. For accommodation and meals, they will have to pay to the hotel 30% in advance (that can be reimbursed in case of cancellation before January 14) and the remaining on site. See the [reimbursement rules](https://europroofnet.github.io/reimbursement-rules/) for more details. The daily allowance is fixed at 120 euros.
 
-**Participants (17):**
-
-<!-- hotel paid -->
+**Participants (13):**
 
 - [Rishikesh Vaishnav](https://lmf.cnrs.fr/Perso/RishVaishnav) will work on [lean2dk](https://github.com/Deducteam/lean2dk).
 
@@ -47,7 +45,7 @@ may organize a private shuttle.
 
 - [Thomas Traversié]( https://thomastraversie.github.io/) will work on the constructivisation of classical proofs.
 
-- [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/) will work on [hol2dk](https://github.com/Deducteam/hol2dk/), [isabelle\_dedukti](https://github.com/Deducteam/isabelle_dedukti/) and [lambdapi](https://github.com/Deducteam/lambdapi/).
+- [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/) worked on adding sharing in the lambdapi output of [hol2dk](https://github.com/Deducteam/hol2dk/) ([PR88](https://github.com/Deducteam/hol2dk/pull/88)), fixed some bugs in hol2dk ([PR89](https://github.com/Deducteam/hol2dk/pull/89)), provided explanations about lambdapi and hol2dk, and discussed the certification of SMT proofs with Alessio and of LEO-III proofs with Melanie.
 
 - [Thiago Felicissimo](http://www.lsv.fr/~felicissimo/) will work on CompLF.
 
@@ -55,37 +53,18 @@ may organize a private shuttle.
 
 - Gabriel Hondet will work on Lambdapi and [STTfaxport](https://github.com/Deducteam/sttfaxport).
 
-- Claude Stolze will work on the translation and verification of Atelier B proofs in Lambdapi, [B-pog-translator](https://github.com/Deducteam/B-pog-translator).
-
 - Alessio Coltellacci with work on the encoding of Alethe proofs from SMT solvers to Lambdapi.
 
 - [Nicolas Magaud](https://dpt-info.u-strasbg.fr/~magaud/) will investigate how to use the Dedukti/Lambdapi toolchain to transform the Isabelle/HOL formal description of Faradžev-Read algorithm into an equivalent formal description in Coq.
-
-- François Thiré will work on Dedukti and STTfaxport.
 
 - [Claudio Sacerdoti Coen](http://www.cs.unibo.it/~sacerdot/) plans to work on importing/exporting from Matita to Dedukti and developing a type checker for
 Dedukti written in Rust using term graphs.
 
 - Melanie Taprogge will work on the encoding of the THF proofs and the verification of LEO-III proofs in Dedukti/Lambdapi.
 
-<!-- hotel not not paid yet -->
-
 - [Bruno Barras](http://www.lsv.fr/~barras/) plans to work on Lambdapi (reduction engine, use of de Bruijn indices).
 
 - [Filip Maric](http://www.matf.bg.ac.rs/~filip) will work on using Dedukti/Lambdapi (esp. isabelle_dedukti) to translate a whole Isabelle/HOL development into a similar one in Coq.
-
-- David Delahaye will work on extending the Dedukti/Lambdapi outputs of ZenonModulo to handle arithmetic proofs.
-
-- Isaac Lluis will work on extending the Dedukti/Lambdapi outputs of ZenonModulo to handle arithmetic proofs.
-
-<!-- to be confirmed -->
-<!--
-- [Sophie Tourret](https://www.mpi-inf.mpg.de/departments/automation-of-logic/people/sophie-tourret)
-
-- [Artur Korniłowicz](http://math.uwb.edu.pl/~arturk/)
-
-- [Amélie Ledein](https://lmf.cnrs.fr/Perso/AmelieLedein)
--->
 
 **Monday 22 January (optional, for people arriving the day before the meeting):**
 
