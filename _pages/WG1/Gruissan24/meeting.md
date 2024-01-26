@@ -39,7 +39,7 @@ may organize a private shuttle.
 
 **Participants (13):**
 
-- [Rishikesh Vaishnav](https://lmf.cnrs.fr/Perso/RishVaishnav) will work on [lean2dk](https://github.com/Deducteam/lean2dk).
+- [Rishikesh Vaishnav](https://lmf.cnrs.fr/Perso/RishVaishnav) Rish made progress with his translation project from Lean to Dedukti ([lean2dk](https://github.com/Deducteam/lean2dk)). He began by translating the prelude file of Lean standard library, and discovered the need for a reduction rule for subsingleton inductives that is not well-typed and requires further investigation. He then proceeded to debug and eliminate sources of non-left-linearity in his translation.
 
 - Bruno Barras, [Thiago Felicissimo](http://www.lsv.fr/~felicissimo/) and [Théo Winterhalter](https://theowinterhalter.github.io/) worked on a new formalism to extend Dedukti and Lambdapi with user-defined equational theories. The idea would be to cover theories such as those of universes (with max, 0 and successor) or interval variables in Cubical Type Theory. One of the biggest challenges seems to be the interaction between these new symbols that are identified up to theory and higher-order terms which may feature rewrite rules. We have thought of several criteria so that the resulting type theory remains well behaved, but more investigation needs to be done before we are ready to experiment with an implementation.
 
