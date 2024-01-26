@@ -43,7 +43,7 @@ may organize a private shuttle.
 
 - [Théo Winterhalter](https://theowinterhalter.github.io/) plans to work on extending Dedukti with decision procedures.
 
-- [Thomas Traversié]( https://thomastraversie.github.io/) will work on the constructivisation of classical proofs.
+- [Thomas Traversié](https://thomastraversie.github.io/) worked on the transformation of higher-order classical proofs into intuitionistic proofs, and improved the [implementation](https://github.com/thomastraversie/Construkti) of this transformation on Dedukti and Lambdapi proofs. To test it, he worked on Frédéric Blanqui's translator of HOL-Light proofs, so that it outputs proofs with explicit natural deduction rules.
 
 - [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/) worked on adding sharing in the lambdapi output of [hol2dk](https://github.com/Deducteam/hol2dk/) ([PR88](https://github.com/Deducteam/hol2dk/pull/88)), fixed some bugs in hol2dk ([PR89](https://github.com/Deducteam/hol2dk/pull/89)), provided explanations about lambdapi and hol2dk, and discussed the certification of SMT proofs with Alessio and of LEO-III proofs with Melanie.
 
