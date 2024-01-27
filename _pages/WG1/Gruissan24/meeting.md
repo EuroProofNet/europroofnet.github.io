@@ -51,7 +51,7 @@ may organize a private shuttle.
 
 - Abdelghani Alidra: Documenting the installation process of Dedukti and Lambdapi. Hands-on learning of the Lambdapi syntax and supportive theory. Discussing bugs and future evolutions of the Lambdapi Vscode plugin.
 
-- Gabriel Hondet will work on Lambdapi and [STTfaxport](https://github.com/Deducteam/sttfaxport).
+- Gabriel Hondet worked [Personoj](https://github.com/Deducteam/personoj), a translator from [PVS](https://pvs.csl.sri.com/) to Lambdapi. Personj is now compatible with PVS8. The installation procedure of Personoj has been smoothened and robustified.
 
 - Alessio Coltellacci with work on the encoding of Alethe proofs from SMT solvers to Lambdapi.
 
