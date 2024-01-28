@@ -10,7 +10,9 @@ breadcrumbs: true
 
 **Date:** 27-28 March 2024
 
-**Venue:** TU Dresden, Germany ([APB Andreas-Pfitzmann-Bau](https://navigator.tu-dresden.de/gebaeude/apb), Nöthnitzer Str. 46, 01069 Dresden)
+**Venue:** TU Dresden, Germany <br>
+Address: Nöthnitzer Str. 46, 01069 Dresden <br>
+Room: [APB E023](https://navigator.tu-dresden.de/raum/542100.2310)
 
 **Main idea:** Despite significant advances in formal methods, there remains a huge barrier to the adoption of formal methods in the industry. The key idea of this event is to bring together industry designers and formal methods research community to share ideas and experiences on how to improve the tools to reduce the barrier to adoption.
 
@@ -61,3 +63,17 @@ breadcrumbs: true
 **Cost:** The event is free of cost for anyone interested but we may need to limit the number of participants. Hence, please utilize the "Short bio" field in the form to tell us about how you can benefit from the event. Also, please wait for the confirmation email before making travel arrangements. 
 
 **Reimbursement:** Participants selected for funding will have to organize their travel by themselves. See the [reimbursement rules](https://europroofnet.github.io/reimbursement-rules/) for more details. The daily allowance (covering accommodation, local transport and meals) is fixed at 130 Euros.
+
+**Some accommodation options:**
+* [Premier Inn Dresden City Prager Straße](https://www.booking.com/hotel/de/premier-inn-dresden-city-prager-strasse.en-gb.html)
+* ​​[ibis Dresden Zentrum](https://www.booking.com/hotel/de/ibisbasteidresden.en-gb.html): 3-star
+* [IntercityHotel Dresden](https://www.booking.com/hotel/de/intercityhotel-dresden.en-gb.html)
+* [NH Collection Dresden Altmarkt](https://www.booking.com/hotel/de/nh-dresden-altmarkt.en-gb.html): 4-star
+* Also check out other options [here](https://www.dresden.de/en/tourism/book/accommodation.php)
+
+**Local transportation:**
+* [Taxi](https://www.dresden.de/en/living/09/Taxi.php)
+* [Trams and buses](https://www.dvb.de/en/Homepage/): The nearest bus stop to the venue is "Helmholtzstraße" for Bus 85 and "Münchner Platz" for tram 3.
+
+**Tourism:**
+* Explore [this page](https://www.dresden.de/en/tourism/tourism.php) to find places to visit
