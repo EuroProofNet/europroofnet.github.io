@@ -1,0 +1,26 @@
+---
+title: "WG2 meeting on ATPs for geometry, Nice, France, 28-30 May 2024"
+layout: single
+permalink: /events/
+author_profile: true
+---
+
+This joint WG2 meeting is dedicated to the study of  Rule based prover for geometry
+
+- Presentation of current systems JGEx (Zoltán Kovács); OGPCP-GDDM (Pedro Quaresma); Larus (Vesna Marinkovic)
+
+- Criteria for the construction of good set of rules (Jelena Markovic)
+
+- Validation of the set of rules by Automatic provers and proof assistants (Julien Narboux)
+
+Following some small presentations an open discussion will address this issues.
+
+The goal is to set the basis for the preparation of a meta-prover
+capable of accepting different set of rules, formally verified to be
+consistence and sound, and with natural languages and geometric
+renderings and capable to be integrated in a dynamic geometry system
+
+## Registered participants
+
+Alexander Vujic, Anna Petiurenko, Jelena Markovic, Julien Narboux, Nuno Baeta, Pedro Quaresma, Piotr Błaszczyk, Vesna Marinkovic, Zoltán Kovács
+
