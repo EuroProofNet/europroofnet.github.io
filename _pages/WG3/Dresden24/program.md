@@ -37,7 +37,7 @@ The event is scheduled as a two-day meeting. Times are CET.
 * 9:00-11:00 **Talks** 
   - 9:00-9:30: *TBA*. Thomas Fossati (Linaro, Switzerland)
   - 9:30-10:00: *TLS and TEEs*. Arto Niemi (Huawei, Finland)
-  - 10:00-10:30: *TBA*. Ionut Mihalcea (Arm, UK)
+  - 10:00-10:30: *DICE Protection Environment*. Ionut Mihalcea (Arm, UK)
   - 10:30-11:00: *A rollercoaster ride on the formal analysis of attested TLS*. Muhammad Usama Sardar (TU Dresden, Germany)
 * 11:00-11:30 **Break**
 * 11:30-12:30 **Talks**
