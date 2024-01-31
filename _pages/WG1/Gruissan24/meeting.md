@@ -56,7 +56,7 @@ may organize a private shuttle.
 
 - Alessio Coltellacci with work on the encoding of Alethe proofs from SMT solvers to Lambdapi.
 
-- [Nicolas Magaud](https://dpt-info.u-strasbg.fr/~magaud/) will investigate how to use the Dedukti/Lambdapi toolchain to transform the Isabelle/HOL formal description of Faradžev-Read algorithm into an equivalent formal description in Coq.
+- During this meeting, [Nicolas Magaud](https://dpt-info.u-strasbg.fr/~magaud/) initiated a collaboration with Filip Maric on the use of SAT/SMT solvers inside proof assistants. We started working on proving properties of spreads and packings of some small projective space geometry models, namely PG(3,2) and PG(3,3). Using a SAT encoding, we manage to prove results on the combinatorics of spreads and packings of PG(3,2) in Isabelle/HOL. We are currently porting this results by hand in Coq. In parallel, we successfully used the dedukti framework and isabelle_dedukti to translate the Isabelle/HOL theories into corresponding ones in Coq. The translation was quite fast and leads to checkable Coq proof scripts.  The next step would be to enhance alignments so that the Coq output becomes more readable.  Further work is planned to formally verify the correctness of the classification of spreads and packings of PG(3,3) in both Isabelle/HOL and Coq. 
 
 - [Claudio Sacerdoti Coen](http://www.cs.unibo.it/~sacerdot/) plans to work on importing/exporting from Matita to Dedukti and developing a type checker for
 Dedukti written in Rust using term graphs.
