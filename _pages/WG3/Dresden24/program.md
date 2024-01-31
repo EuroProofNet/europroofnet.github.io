@@ -35,15 +35,15 @@ The event is scheduled as a two-day meeting. Times are CET.
 
 **Day 2. March 28, 2024**
 * 9:00-11:00 **Talks** 
-  - 9:00-9:30: *TBA*. Thomas Fossati (Linaro, Switzerland)
-  - 9:30-10:00: *TBA*. Arto Niemi (Huawei, Finland)
-  - 10:00-10:30: *TBA*. Ionut Mihalcea (Arm, UK)
+  - 9:00-9:30: *Some industry-relevant use cases*. Thomas Fossati (Linaro, Switzerland)
+  - 9:30-10:00: *TLS and TEEs*. Arto Niemi (Huawei, Finland)
+  - 10:00-10:30: *DICE Protection Environment*. Ionut Mihalcea (Arm, UK)
   - 10:30-11:00: *A rollercoaster ride on the formal analysis of attested TLS*. Muhammad Usama Sardar (TU Dresden, Germany)
 * 11:00-11:30 **Break**
 * 11:30-12:30 **Talks**
   - 11:30-12:00: *Enarx attestation validation with Steward*. Richard Zak (Enarx maintainer, USA)
   - 12:00-12:30: *Klave - Trustless Confidential Computing platform*. Rui Almeida (Klave, UK)
-* 12:40-14:00 **Lunch Break**
+* 12:30-14:00 **Lunch Break**
 * 14:00-15:25 **Talks** 
   - 14:00-14:45: *Model checking for security*. Lilia Georgieva (Microsoft, UK)
   - 14:45-15:05: *Towards Logical Specification and Checking of Malicious Capabilities*. Dorel Lucanu and Andrei Mogage (Alexandru Ioan Cuza University, Romania)
