@@ -12,19 +12,21 @@ breadcrumbs: true
 
 - [ ] The organizer gives to the chair the exact address, and the starting and ending dates and times:
 
-    * [ ] complete address:
-    * [ ] starting date and time:
-    * [ ] ending date and time:
+    * [X] complete address: Hôtel Restaurant Campanile Nice Aéroport, Nice, France 
+    * [ ] starting date and time: 28 May, time? (people can arrive on the 27 and leave on the 31) 
+    * [ ] ending date and time: 30 May, time? 
 
 - [ ] The organizer checks the prices of accommodations and restaurants around the place of the meeting at the dates of the meeting, and sends to the chair a proposal for the daily allowance.
 
-    * [ ] daily allowance:
+    * [X] daily allowance:
+          DA 125€ (hotel rooms are 84€ per night including breakfast, lunch buffet is 18 euros, so with the diner it should be OK with the 125 euro) 
 
 - [ ] The chair sets up the event on https://e-services.cost.eu/, but not the LOS yet (this will be done later).
 
 - [ ] The chair asks the organizer details about the LOS. By the way, the chair asks the organizer to carefully read the rules concerning LOS in the COST annotated rules (see https://www.cost.eu/Annotated_Rules_for_COST_Actions_C page 92). Note in particular that VAT is not reimbursed.
 
-- [ ] The organizer sends to the chair and the Grant Holder the details of the LOS.
+- [X] The organizer sends to the chair and the Grant Holder the details of the LOS:
+      The meeting room is 240 euros TTC per day (we need 3 days)
 
 - [ ] The Grant Holder checks the eligibility of the LOS and sends the result to the organizer and the chair.
 
