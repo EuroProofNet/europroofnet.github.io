@@ -14,6 +14,8 @@ breadcrumbs: true
 Address: Nöthnitzer Str. 46, 01069 Dresden <br>
 Room: [APB E023](https://navigator.tu-dresden.de/raum/542100.2310)
 
+**Tentative program:** see [here](https://europroofnet.github.io/wg3-dresden24-program/) 
+
 **Main idea:** Despite significant advances in formal methods, there remains a huge barrier to the adoption of formal methods in the industry. The key idea of this event is to bring together industry designers and formal methods research community to share ideas and experiences on how to improve the tools to reduce the barrier to adoption.
 
 **Meeting aims:** The meeting aims to:
@@ -73,7 +75,9 @@ Room: [APB E023](https://navigator.tu-dresden.de/raum/542100.2310)
 
 **Local transportation:**
 * [Taxi](https://www.dresden.de/en/living/09/Taxi.php)
-* [Trams and buses](https://www.dvb.de/en/Homepage/): The nearest bus stop to the venue is "Helmholtzstraße" for Bus 85 and "Münchner Platz" for tram 3.
+* [Trams and buses](https://www.dvb.de/en/Homepage/): The nearest stops to the venue are:
+  * "Helmholtzstraße" for Bus 85 and
+  * "Münchner Platz" for tram 3.
 
 **Tourism:**
 * Explore [this page](https://www.dresden.de/en/tourism/tourism.php) to find places to visit
