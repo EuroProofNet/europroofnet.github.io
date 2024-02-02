@@ -89,7 +89,7 @@ Each COST (cooperating) member country can have one or two representatives. Ther
 - Ireland: [Madhusanka Liyanage](https://sites.google.com/view/madhusanka/home)
 - Israel: [Liron Cohen](https://in.bgu.ac.il/en/Pages/Liron-Cohen.aspx) and [Yakir Vizel](http://www.cs.technion.ac.il/~yvizel/)
 - Italy: [Claudio Sacerdoti Coen](http://www.cs.unibo.it/~sacerdot/) and [Maria Emilia Maietti](https://www.math.unipd.it/~maietti/)
-- Lithuania: [Linas Laibinis]()
+- Lithuania: Linas Laibinis
 - Luxembourg: [Jun Pang](https://satoss.uni.lu/members/jun/) and [Alexander Steen](https://www.alexandersteen.de/)
 - Netherlands: [Herman Geuvers](http://www.cs.ru.nl/~herman/) and [Jesper Cockx](https://jesper.sikanda.be/)
 - North Macedonia: [Natasha Maksimova](https://scholar.ugd.edu.mk/nmaksimova) and [Marija Mihova](https://finki.ukim.mk/en/staff/marija-mihova)
