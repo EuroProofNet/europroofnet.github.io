@@ -60,7 +60,7 @@ the [Grant Holder](mailto:saf-saclay-recettes@inria.fr).
 
 - [WG5 on machine learning](/wg5)
   * leader: [David Cerna](https://www.cs.cas.cz/dcerna/)
-  * vice leader: Adrian de Lon
+  * vice leader: [Adrian de Lon](https://adelon.net)
 
 - [WG6 on type theory](/wg6)
   * leader: [Benedikt Ahrens](https://benediktahrens.gitlab.io/)

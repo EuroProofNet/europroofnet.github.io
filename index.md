@@ -40,8 +40,8 @@ corner).
 - 4-5 April 2024: [WG6 meeting](../wg6-leuven), Leuven, Belgium, in co-location with the HoTT/UF workshop
 - April or May 2024 (TBC): inter-WG developers meeting
 - 28-30 May 2024: WG2 meeting on ATPs for geometry, Nice, France
-- 14-15 June 2024 (TBC): workshop on proof systems for mathematics and program verification in Bern, Switzerland, in colocation with a meeting of the Society for Logic and the Philosophy of Science of Switzerland, just after the [30th Workshop on Logic, Language, Information and Computation](https://wollic2024.inf.unibe.ch/)
-- June 2024: Women in EuroProofNet workshop in Bonn, Germany, around the Workshop in Formalization of Mathematics taking place on June 17-21 during the Hausdorff trimester on formal mathematics
+  - 14-15 June 2024 (TBC): workshop on proof systems for mathematics and program verification in Lausanne, Switzerland, <!--in colocation with a meeting of the Society for Logic and the Philosophy of Science of Switzerland,--> just after the [30th Workshop on Logic, Language, Information and Computation](https://wollic2024.inf.unibe.ch/) in Bern
+- June or July 2024 (TBC): Women in EuroProofNet workshop in Bonn, Germany, around the Workshop in Formalization of Mathematics taking place on June 17-21 during the Hausdorff trimester on formal mathematics
 - 26-29 June 2024: [SAT/SMT/AR school](https://sat-smt-ar-school.gitlab.io/www/2024/) in co-location with [IJCAR'24](https://merz.gitlabpages.inria.fr/2024-ijcar/) in Nancy, France
 - 1st July 2024: WG2 meeting/TPTP Tea Party in co-location with [IJCAR'24](https://merz.gitlabpages.inria.fr/2024-ijcar/) in Nancy, France
 - September 2024: [WG4 meeting/2nd workshop on the development, maintenance, refactoring and mining of large libraries of proofs](../wg4-tbilisi24) in Tbilisi, Georgia, in co-location with [ITP'24](https://www.viam.science.tsu.ge/itp2024/) (to be confirmed)
