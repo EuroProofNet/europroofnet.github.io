@@ -33,8 +33,10 @@ Room: [APB E023](https://navigator.tu-dresden.de/raum/542100.2310)
     * Thomas Fossati (Linaro, Switzerland)
     * Arto Niemi (Huawei, Finland)
     * Angelo	Ruocco (IBM Research, Switzerland)
+    * Samuel Ortiz (Rivos Inc, France)
+    * Ghada Arfaoui (Orange, France)
     * Andreas	Berg	(gematik GmbH,	Germany)
-    * Michael	Roitzsch	(Barkhausen Institut,	Germany)
+    * Carsten Weinhold	(Barkhausen Institut,	Germany)
     * Richard	Zak	(Enarx maintainer,	USA)
     * Rui	Almeida	(Klave,	UK)
       
@@ -48,7 +50,6 @@ Room: [APB E023](https://navigator.tu-dresden.de/raum/542100.2310)
     * Volker	Stolz	(Høgskulen på Vestlandet,	Norway)
     * Ayşe	Sayin	(Istanbul Technical University,	Turkey)
 
-      
 **Important dates:**
   * Submission of talk proposals: 22 December 2023
   * Notification of selected talks: 12 January 2024
