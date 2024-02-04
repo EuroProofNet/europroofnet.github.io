@@ -65,7 +65,8 @@ Room: [APB E023](https://navigator.tu-dresden.de/raum/542100.2310)
   
 **Cost:** The event is free of cost for anyone interested but we may need to limit the number of participants. Hence, please utilize the "Short bio" field in the form to tell us about how you can benefit from the event. Also, please wait for the confirmation email before making travel arrangements. 
 
-**Reimbursement:** Participants selected for funding will have to organize their travel by themselves. See the [reimbursement rules](https://europroofnet.github.io/reimbursement-rules/) for more details. The daily allowance (covering accommodation, local transport and meals) is fixed at 130 Euros.
+**Reimbursement:** Participants selected for funding will have to organize their travel and accommodation by themselves. 
+ * Please note that any transport <100 km is not reimbursed as they are included in the daily allowance. Please check the [reimbursement rules](https://europroofnet.github.io/reimbursement-rules/) carefully so that there is no bad surprise after the meeting. The daily allowance (covering accommodation, local transport and meals) is fixed at 130 Euros.
 
 **Some accommodation options:**
 * [Premier Inn Dresden City Prager Straße](https://www.booking.com/hotel/de/premier-inn-dresden-city-prager-strasse.en-gb.html)
@@ -75,7 +76,7 @@ Room: [APB E023](https://navigator.tu-dresden.de/raum/542100.2310)
 * Also check out other options [here](https://www.dresden.de/en/tourism/book/accommodation.php)
 
 **Local transportation:**
-* [Taxi](https://www.dresden.de/en/living/09/Taxi.php)
+* [Taxi](https://www.dresden.de/en/living/09/Taxi.php): For those funded by EuroProofNet, please note that taxis are not reimbursed.
 * [Trams and buses](https://www.dvb.de/en/Homepage/): The nearest stops to the venue are:
   * "Helmholtzstraße" for Bus 85 and
   * "Münchner Platz" for tram 3.
