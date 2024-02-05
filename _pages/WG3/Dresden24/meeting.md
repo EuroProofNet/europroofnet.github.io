@@ -66,6 +66,7 @@ Room: [APB E023](https://navigator.tu-dresden.de/raum/542100.2310)
 **Cost:** The event is free of cost for anyone interested but we may need to limit the number of participants. Hence, please utilize the "Short bio" field in the form to tell us about how you can benefit from the event. Also, please wait for the confirmation email before making travel arrangements. 
 
 **Reimbursement:** Participants selected for funding will have to organize their travel and accommodation by themselves. 
+ * Membership of at least one WG of EPN is mandatory for reimbursement. Please [join here](https://e-services.cost.eu/action/CA20111/working-groups/apply) if you are not already a member.
  * Please note that any transport <100 km is not reimbursed as they are included in the daily allowance. Please check the [reimbursement rules](https://europroofnet.github.io/reimbursement-rules/) carefully so that there is no bad surprise after the meeting. The daily allowance (covering accommodation, local transport and meals) is fixed at 130 Euros.
 
 **Some accommodation options:**
