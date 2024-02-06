@@ -10,7 +10,7 @@ breadcrumbs: true
 
 - [x] The chair asks the organizer the exact address, the starting and ending dates and times of the meeting, and the daily allowance. The daily allowance should cover the cost of an hotel night + the meals + local transport if hotels are far from the meeting place. It has to be fixed at the right level so that people get reimbursed of what they need to spend but not too much so that we can invite more people. Note that the daily allowance cannot be changed once invitations have been sent.
 
-- [x] The organizer gives to the chair the exact address, and the starting and ending dates and times:
+- [ ] The organizer gives to the chair the exact address, and the starting and ending dates and times:
   
    * [x] complete address:
      
@@ -22,30 +22,29 @@ breadcrumbs: true
      > **Talks:** Auditorium Erik Duval, 200A.00.225  
      > **Collaborative room:** Seminar room 200A.00.144
   
-   * [x] starting date and time: Apr 4, **time TBD**
+   * [ ] starting date and time: Apr 4, **time TBD**
   
-   * [x] ending date and time: Apr 5, **time TBD**
+   * [ ] ending date and time: Apr 5, **time TBD**
 
 - [x] The organizer checks the prices of accommodations and restaurants around the place of the meeting at the dates of the meeting, and sends to the chair a proposal for the daily allowance.
   
    * [x] daily allowance: 140€
 
-- [ ] The **chair** sets up the event on https://e-services.cost.eu/, but not the LOS yet (this will be done later).
+- [ ] The chair sets up the event on https://e-services.cost.eu/, but not the LOS yet (this will be done later).
 
-- [ ] The chair asks the **organizer** details about the LOS. By the way, the chair asks the organizer to carefully read the rules concerning LOS in the COST annotated rules (see https://www.cost.eu/Annotated_Rules_for_COST_Actions_C page 92). Note in particular that VAT is not reimbursed.
+- [ ] The chair asks the organizer details about the LOS. By the way, the chair asks the organizer to carefully read the rules concerning LOS in the COST annotated rules (see https://www.cost.eu/Annotated_Rules_for_COST_Actions_C page 92). Note in particular that VAT is not reimbursed.
 
-- [ ] The **organizer** sends to the chair and the Grant Holder the details of the LOS.
+- [ ] The organizer sends to the chair and the Grant Holder the details of the LOS.
 
 - [ ] The Grant Holder checks the eligibility of the LOS and sends the result to the organizer and the chair.
 
 - [ ] The chair and the organizer fix the deadline for reimbursement applications at least 1 month before the meeting, and the date of an online core group meeting within 1 week after the deadline, to decide which participants will be reimbursed, if this cannot be decided by email.
   
-   * deadline: 23 February 2024
-   * core group meeting: TBD
+   * deadline:
 
-- [ ] The organizer adds a web page for the meeting on https://europroofnet.github.io/, possibly with the help of the science communication coordinators, with the following information: √ date, **times**, √ place, **program**, √ possible hotels, √ indication on how to get there, √ participation application procedure, √ reimbursement application procedure, √ link to [reimbursement rules](../reimbursement-rules), √ daily allowance, √ deadlines.
+- [ ] The organizer adds a web page for the meeting on https://europroofnet.github.io/, possibly with the help of the science communication coordinators, with the following information: √ date, **times**, √ place, **program**, √ possible hotels, √ indication on how to get there, **participation application procedure**, **reimbursement application procedure**, √ link to [reimbursement rules](../reimbursement-rules), √ daily allowance, **deadlines**.
 
-- [x] The chair sends the call for participation and reimbursement applications to all action members, at least 1 month before the deadline.
+- [ ] The chair sends the call for participation and reimbursement applications to all action members, at least 1 month before the deadline.
 
 - [ ] The organizer collects data and files from participants willing to be reimbursed (name, email, country, address, gender, age, dates of arrival and departure, quote for transport, university certificates for master students). To this end, we strongly suggest the organizer to use forms like https://docs.google.com/forms/d/1WgAdt6_BkJiT9u6lSqIQ5p_7955CHFEjbxG2Ucj5gRg or https://docs.google.com/forms/d/12YxrDK-dupOFj5R5CdINvlc6xzW6C5DpEr58JoVmBIg .
 
@@ -53,7 +52,7 @@ breadcrumbs: true
 
 - [ ] The organizer provides the Grant Holder with the additional data it needs for the LOS.
 
-### at least 1 month before the meeting (< Mar 4, 2024):
+### at least 1 month before the meeting:
 
 - [ ] The organizer and the chair check the eligibility of the applicants.
 
