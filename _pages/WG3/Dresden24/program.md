@@ -19,11 +19,11 @@ The event is scheduled as a two-day meeting. Times are CET.
 * 9:15-11:15 **Hands-on tutorial**
   - 9:15-11:15: *ProVerif*. Vincent Cheval (University of Oxford, UK) (Assistants: Muhammad Usama Sardar and Georgio Nicolas)
 * 11:15-11:45 **Break**
-* 11:45-12:45 **Talks**
+* 11:45-12:40 **Talks**
   - 11:45-12:15: *Why formal methods remain inaccessible for most cryptographers*. Georgio Nicolas (KU Leuven, Belgium)
-  - 12:15-12:45: *A rollercoaster ride on the formal analysis of attested TLS*. Muhammad Usama Sardar (TU Dresden, Germany)
-  - 12:45-12:55: *Towards formally-verified remote attestation in SSProve*. Jannik Mähn (Barkhausen Institut, Germany)
-* 12:55-14:00 **Lunch break** 
+  - 12:15-12:25: *Towards formally-verified remote attestation in SSProve*. Jannik Mähn (Barkhausen Institut, Germany)
+  - 12:25-12:40: *Verification of cryptographic protocols*. ilias Cherkaoui (Walton Institute, Ireland)
+* 12:40-14:00 **Lunch break** 
 * 14:00-15:30 **Talks** 
   - 14:00-15:00: *Platform-level Formal Verification for Public Sector Trustworthy Computing: Considerations and Challenges*. Andreas Berg (gematik GmbH, Germany)
   - 15:00-15:30: *Towards Modular Trusted Execution Environments*. Carsten Weinhold (Barkhausen Institut, Germany)
@@ -43,16 +43,18 @@ The event is scheduled as a two-day meeting. Times are CET.
   - 10:30-11:00: *Attested CSR*. Hannes Tschofenig (Siemens, Austria)
 * 11:00-11:30 **Break**
 * 11:30-12:30 **Talks**
-  - 11:30-12:00: *Enarx attestation validation with Steward*. Richard Zak (Enarx maintainer, USA)
-  - 12:00-12:30: *Klave - Trustless Confidential Computing platform*. Rui Almeida (Klave, UK)
-* 12:30-14:00 **Lunch Break**
-* 14:00-15:25 **Talks** 
-  - 14:00-14:45: *Model checking for security*. Lilia Georgieva (Microsoft, UK)
-  - 14:45-15:05: *Towards Logical Specification and Checking of Malicious Capabilities*. Dorel Lucanu and Andrei Mogage (Alexandru Ioan Cuza University, Romania)
-  - 15:05-15:25: *Interactive theorem proving for protocol verification*. Horatiu Cheval (University of Bucharest, Romania)
-* 15:30-16:00 **Break**
-* 16:00-17:00 **Talks** 
-  - 16:00-16:20: *Formal correctness-proofs of refactorings*. Volker Stolz (Høgskulen på Vestlandet, Norway)
-  - 16:20-17:00: *Wrapping-up: Setting the agenda for the year*. 
+  - 11:30-12:00: *Hardening NVIDIA’s Confidential Computing: A Formally Verified Implementation of the SPDM Device Attestation Protocol*. Tobias Reiher (AdaCore, Germany)
+  - 12:00-12:30: *A rollercoaster ride on the formal analysis of attested TLS*. Muhammad Usama Sardar (TU Dresden, Germany)
+* 12:30-13:30 **Lunch Break**
+* 13:30-15:35 **Talks** 
+  - 13:30-14:00: *Enarx attestation validation with Steward*. Richard Zak (Enarx maintainer, USA)
+  - 14:00-14:30: *Klave - Trustless Confidential Computing platform*. Rui Almeida (Klave, UK)
+  - 14:30-15:15: *Model checking for security*. Lilia Georgieva (Microsoft, UK)
+  - 15:15-15:35: *Interactive theorem proving for protocol verification*. Horatiu Cheval (University of Bucharest, Romania)
+* 15:35-16:00 **Break**
+* 16:00-17:30 **Talks** 
+  - 16:00-16:20: *Towards Logical Specification and Checking of Malicious Capabilities*. Dorel Lucanu and Andrei Mogage (Alexandru Ioan Cuza University, Romania)
+  - 16:20-16:40: *Formal correctness-proofs of refactorings*. Volker Stolz (Høgskulen på Vestlandet, Norway)
+  - 16:40-17:15: *Wrapping-up: Setting the agenda for the year*. 
   
 
