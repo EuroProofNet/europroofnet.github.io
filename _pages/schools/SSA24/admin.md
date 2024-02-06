@@ -1,7 +1,7 @@
 ---
-title: "Administration page for the WG2 Geometry meeting in 2024"
+title: "Administration page for the SAT-SMT-AR school 2024"
 layout: single
-permalink: /wg2-geo24-admin/
+permalink: /SSA24-admin/
 author_profile: true
 breadcrumbs: true
 ---
@@ -12,23 +12,21 @@ breadcrumbs: true
 
 - [ ] The organizer gives to the chair the exact address, and the starting and ending dates and times:
 
-    * [X] complete address: Hôtel Restaurant Campanile Nice Aéroport, Nice, France 
-    * [ ] starting date and time: 28 May, 9:00?
-    * [ ] ending date and time: 30 May, 17:00? 
+    * [ ] complete address:
+    * [ ] starting date and time:
+    * [ ] ending date and time:
 
-- [X] The organizer checks the prices of accommodations and restaurants around the place of the meeting at the dates of the meeting, and sends to the chair a proposal for the daily allowance.
+- [ ] The organizer checks the prices of accommodations and restaurants around the place of the meeting at the dates of the meeting, and sends to the chair a proposal for the daily allowance.
 
-    * [X] daily allowance:
-          DA 125€ (hotel rooms are 84€ per night including breakfast, lunch buffet is 18 euros, so with the diner it should be OK with the 125 euro) 
+    * [ ] daily allowance:
 
-- [X] The chair sets up the event on https://e-services.cost.eu/, but not the LOS yet (this will be done later).
+- [ ] The chair sets up the event on https://e-services.cost.eu/, but not the LOS yet (this will be done later).
 
-- [X] The chair asks the organizer details about the LOS. By the way, the chair asks the organizer to carefully read the rules concerning LOS in the COST annotated rules (see https://www.cost.eu/Annotated_Rules_for_COST_Actions_C page 92). Note in particular that VAT is not reimbursed.
+- [ ] The chair asks the organizer details about the LOS. By the way, the chair asks the organizer to carefully read the rules concerning LOS in the COST annotated rules (see https://www.cost.eu/Annotated_Rules_for_COST_Actions_C page 92). Note in particular that VAT is not reimbursed.
 
-- [X] The organizer sends to the chair and the Grant Holder the details of the LOS:
-      The meeting room is 240 euros TTC per day (we need 3 days)
+- [ ] The organizer sends to the chair and the Grant Holder the details of the LOS.
 
-- [X] The Grant Holder checks the eligibility of the LOS and sends the result to the organizer and the chair.
+- [ ] The Grant Holder checks the eligibility of the LOS and sends the result to the organizer and the chair.
 
 - [ ] The chair and the organizer fix the deadline for reimbursement applications at least 1 month before the meeting, and the date of an online core group meeting within 1 week after the deadline, to decide which participants will be reimbursed, if this cannot be decided by email.
 
