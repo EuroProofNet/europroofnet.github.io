@@ -7,6 +7,8 @@ author_profile: true
 
 To contribute to the web site, please open an [issue](https://github.com/EuroProofNet/europroofnet.github.io/issues), create a [pull request](https://github.com/EuroProofNet/europroofnet.github.io) or send a mail to the [science communication coordinators](../contact).
 
+- 25-29 November 2024: [21st International Colloquium on Theoretical Aspects of Computing](https://ictac2024.cs.ait.ac.th/) (ICTAC'24), Bangkok, Thailand
+
 - 9-14 September 2024: [15th conference on Interactive Theorem Proving](https://itp-conference.github.io/) (ITP'24), Tbilisi, Georgia
 
 - 5-9 August 2024: [17th Conference on Intelligent Computer Mathematics](https://cicm-conference.org/2024/) (CICM'24), Montréal, Canda
