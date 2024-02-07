@@ -51,16 +51,16 @@ the [Grant Holder](mailto:saf-saclay-recettes@inria.fr).
   * vice leader: [Mathias Fleury](https://cca.informatik.uni-freiburg.de/fleury/)
   
 - [WG3 on program verification](/wg3)
-  * leader: [Mădălina Eraşcu](https://merascu.github.io/)
-  * vice leader: [Alicia Villanueva](http://personales.upv.es/alvilga1/)
+  * leader: [Alicia Villanueva](http://personales.upv.es/alvilga1/)
+  * vice leader: [Mădălina Eraşcu](https://merascu.github.io/)
 
 - [WG4 on libraries](/wg4)
   * leader: [Angeliki Koutsoukou-Argyraki](https://www.cl.cam.ac.uk/~ak2110/)
   * vice leader: [Claudio Sacerdoti Coen](http://www.cs.unibo.it/~sacerdot/)
 
 - [WG5 on machine learning](/wg5)
-  * leader: [Cezary Kaliszyk](http://cl-informatik.uibk.ac.at/cek/)
-  * vice leader: [Peter Koepke](http://www.hcm.uni-bonn.de/de/people/profile/peter-koepke/)
+  * leader: [David Cerna](https://www.cs.cas.cz/dcerna/)
+  * vice leader: [Adrian de Lon](https://adelon.net)
 
 - [WG6 on type theory](/wg6)
   * leader: [Benedikt Ahrens](https://benediktahrens.gitlab.io/)
@@ -73,11 +73,12 @@ Each COST (cooperating) member country can have one or two representatives. Ther
 - Albania: Elda Xhumari
 - Austria: [Laura Kovács](http://lkovacs.com/) and [Cezary Kaliszyk](http://cl-informatik.uibk.ac.at/cek/)
 - Belgium: [Christophe Scholliers](https://users.ugent.be/~chscholl/) and [Pascal Fontaine](https://people.montefiore.uliege.be/pfontain/)
+- Bosnia and Herzegovina: Marina Milićević
 - Bulgaria: [Roussanka Loukanova](https://staff.math.su.se/rloukanova/)
 - Croatia: [Zvonko Iljazović](https://www.pmf.unizg.hr/en/zvonko.iljazovic) and [Sandro Skansi](https://www.hrstud.unizg.hr/staff/sandro.skansi)
 - Czech Republic: [Martin Suda](http://people.ciirc.cvut.cz/~sudamar2/) and [David Cerna](https://www.cs.cas.cz/staff/dcerna/)
 - Denmark: [Amin Timany](https://cs.au.dk/~timany/) and [Dmitriy Traytel](https://traytel.bitbucket.io/)
-- Estonia: [Niccolo Veltri](https://niccoloveltri.github.io/)
+- Estonia: [Niccolo Veltri](https://niccoloveltri.github.io/) and [Danel Ahman](https://danel.ahman.ee/)
 - Finland: [Luigia Petre](http://users.abo.fi/lpetre/)
 - France: [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/) and [Catherine Dubois](http://web4.ensiie.fr/~catherine.dubois/)
 - Germany: [Erika Ábrahám](https://ths.rwth-aachen.de/people/erika-abraham/) and [Chuangjie Xu](https://cj-xu.github.io/)
@@ -88,7 +89,7 @@ Each COST (cooperating) member country can have one or two representatives. Ther
 - Ireland: [Madhusanka Liyanage](https://sites.google.com/view/madhusanka/home)
 - Israel: [Liron Cohen](https://in.bgu.ac.il/en/Pages/Liron-Cohen.aspx) and [Yakir Vizel](http://www.cs.technion.ac.il/~yvizel/)
 - Italy: [Claudio Sacerdoti Coen](http://www.cs.unibo.it/~sacerdot/) and [Maria Emilia Maietti](https://www.math.unipd.it/~maietti/)
-- Lithuania: [Linas Laibinis]()
+- Lithuania: Linas Laibinis
 - Luxembourg: [Jun Pang](https://satoss.uni.lu/members/jun/) and [Alexander Steen](https://www.alexandersteen.de/)
 - Netherlands: [Herman Geuvers](http://www.cs.ru.nl/~herman/) and [Jesper Cockx](https://jesper.sikanda.be/)
 - North Macedonia: [Natasha Maksimova](https://scholar.ugd.edu.mk/nmaksimova) and [Marija Mihova](https://finki.ukim.mk/en/staff/marija-mihova)

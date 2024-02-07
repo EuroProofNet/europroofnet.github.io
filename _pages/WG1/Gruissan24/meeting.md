@@ -6,7 +6,7 @@ author_profile: true
 breadcrumbs: true
 ---
 
-<!--img src="/_pages/WG1/Jan2023/20230129_135357_resized.jpg"/-->
+<img src="/_pages/WG1/Gruissan24/IMG_20240124_144635.jpg"/>
 
 **Organizer:** [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/)
 
@@ -37,55 +37,46 @@ may organize a private shuttle.
 
 **Cost:** Participants have to organize their travel by themselves. For accommodation and meals, they will have to pay to the hotel 30% in advance (that can be reimbursed in case of cancellation before January 14) and the remaining on site. See the [reimbursement rules](https://europroofnet.github.io/reimbursement-rules/) for more details. The daily allowance is fixed at 120 euros.
 
-**Participants (17):**
+**Participants (13):**
 
-<!-- hotel paid -->
+- [Rishikesh Vaishnav](https://lmf.cnrs.fr/Perso/RishVaishnav) Rish made progress with his translation project from Lean to Dedukti ([lean2dk](https://github.com/Deducteam/lean2dk)). He began by translating the prelude file of Lean standard library, and discovered the need for a reduction rule for subsingleton inductives that is not well-typed and requires further investigation. He then proceeded to debug and eliminate sources of non-left-linearity in his translation.
 
-- [Rishikesh Vaishnav](https://lmf.cnrs.fr/Perso/RishVaishnav) will work on [lean2dk](https://github.com/Deducteam/lean2dk).
+- Bruno Barras, [Thiago Felicissimo](http://www.lsv.fr/~felicissimo/) and [Théo Winterhalter](https://theowinterhalter.github.io/) worked on a new formalism to extend Dedukti and Lambdapi with user-defined equational theories. The idea would be to cover theories such as those of universes (with max, 0 and successor) or interval variables in Cubical Type Theory. One of the biggest challenges seems to be the interaction between these new symbols that are identified up to theory and higher-order terms which may feature rewrite rules. We have thought of several criteria so that the resulting type theory remains well behaved, but more investigation needs to be done before we are ready to experiment with an implementation.
 
-- [Théo Winterhalter](https://theowinterhalter.github.io/) plans to work on extending Dedukti with decision procedures.
+- Aside from his work with Bruno Barras and Théo Winterhalter, [Thiago Felicissimo](http://www.lsv.fr/~felicissimo/) worked on [BiTTs](https://github.com/thiagofelicissimo/BiTTs), an implementation of a logical framework in the same family as Dedukti, but with support for customized bidirectional typing. In particular, he started making an output from [hol2dk](https://github.com/Deducteam/hol2dk/) to his format in order to test the tool with bigger files.
 
-- [Thomas Traversié]( https://thomastraversie.github.io/) will work on the constructivisation of classical proofs.
+- [Thomas Traversié](https://thomastraversie.github.io/) worked on the transformation of higher-order classical proofs into intuitionistic proofs, and improved the [implementation](https://github.com/thomastraversie/Construkti) of this transformation on Dedukti and Lambdapi proofs. To test it, he worked on Frédéric Blanqui's translator of HOL-Light proofs, so that it outputs proofs with explicit natural deduction rules.
 
-- [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/) will work on [hol2dk](https://github.com/Deducteam/hol2dk/), [isabelle\_dedukti](https://github.com/Deducteam/isabelle_dedukti/) and [lambdapi](https://github.com/Deducteam/lambdapi/).
+- [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/) worked on adding sharing in the Lambdapi output of [hol2dk](https://github.com/Deducteam/hol2dk/) ([PR88](https://github.com/Deducteam/hol2dk/pull/88)), fixed some bugs in hol2dk ([PR89](https://github.com/Deducteam/hol2dk/pull/89)), provided explanations about Lambdapi and hol2dk, and discussed the certification of SMT proofs with Alessio and of LEO-III proofs with Melanie.
 
-- [Thiago Felicissimo](http://www.lsv.fr/~felicissimo/) will work on CompLF.
 
-- Abdelghani Alidra: hands-on learning of the encoding of logical features in Dedukti, discuss with other participants the current and the desired features and development workflow, meet and network with other EuroProofNet community members.
+- Abdelghani Alidra: Documenting the installation process of Dedukti and Lambdapi. Hands-on learning of the Lambdapi syntax and supportive theory. Discussing bugs and future evolutions of the Lambdapi Vscode plugin.
 
-- Gabriel Hondet will work on Lambdapi and [STTfaxport](https://github.com/Deducteam/sttfaxport).
+- Gabriel Hondet worked [Personoj](https://github.com/Deducteam/personoj), a translator from [PVS](https://pvs.csl.sri.com/) to Lambdapi. Personj is now compatible with PVS8. The installation procedure of Personoj has been smoothened and robustified.
 
-- Claude Stolze will work on the translation and verification of Atelier B proofs in Lambdapi, [B-pog-translator](https://github.com/Deducteam/B-pog-translator).
+- Alessio Coltellacci worked on the translation to Lambdapi of rewriting steps in Alethe proofs from SMT solvers. He added a meta-tactic `try` in Lambdapi to allow to apply different rewriting without blocking on failure since SMT solvers do not provide enough fine-grained proof for rewriting steps ([PR1032](https://github.com/Deducteam/lambdapi/pull/1032)). He discussed with Frédéric and Claudio the encoding of user declared `Sort`, and changing the structure of the proofs goals in Lambdapi necessary for supporting the meta-tactic `repeat`.
 
-- Alessio Coltellacci with work on the encoding of Alethe proofs from SMT solvers to Lambdapi.
+- During this meeting, [Nicolas Magaud](https://dpt-info.u-strasbg.fr/~magaud/) initiated a collaboration with Filip Maric on the use of SAT/SMT solvers inside proof assistants. We started working on proving properties of spreads and packings of some small projective space geometry models, namely PG(3,2) and PG(3,3). Using a SAT encoding, we manage to prove results on the combinatorics of spreads and packings of PG(3,2) in Isabelle/HOL. We are currently porting this results by hand in Coq. In parallel, we successfully used the dedukti framework and isabelle_dedukti to translate the Isabelle/HOL theories into corresponding ones in Coq. The translation was quite fast and leads to checkable Coq proof scripts.  The next step would be to enhance alignments so that the Coq output becomes more readable.  Further work is planned to formally verify the correctness of the classification of spreads and packings of PG(3,3) in both Isabelle/HOL and Coq. 
 
-- [Nicolas Magaud](https://dpt-info.u-strasbg.fr/~magaud/) will investigate how to use the Dedukti/Lambdapi toolchain to transform the Isabelle/HOL formal description of Faradžev-Read algorithm into an equivalent formal description in Coq.
+- [Claudio Sacerdoti Coen](http://www.cs.unibo.it/~sacerdot/) worked on a new implementation in Rust of a checker for Dedukti files. The checker differs from previous implementations because it is based on term graphs. On pure lambda-calculus, previous work by C. Sacerdoti Coen and colleagues established that conversion can be checked in time bi-linear in the size of the initial term and the number of beta-steps required to compute the normal forms.
 
-- François Thiré will work on Dedukti and STTfaxport.
-
-- [Claudio Sacerdoti Coen](http://www.cs.unibo.it/~sacerdot/) plans to work on importing/exporting from Matita to Dedukti and developing a type checker for
-Dedukti written in Rust using term graphs.
-
-- Melanie Taprogge will work on the encoding of the THF proofs and the verification of LEO-III proofs in Dedukti/Lambdapi.
-
-<!-- hotel not not paid yet -->
+- Melanie Taprogge discussed the encoding of higher-order logic, simplification and inference rules in Lambdapi with Frédéric and Alessio, gained a deeper understanding of Lambdapi, experimented with the translation of proofs generated by the higher-order logic ATP Leo-III in preparation for a planned automated translation.
 
 - [Bruno Barras](http://www.lsv.fr/~barras/) plans to work on Lambdapi (reduction engine, use of de Bruijn indices).
 
-- [Filip Maric](http://www.matf.bg.ac.rs/~filip) will work on using Dedukti/Lambdapi (esp. isabelle_dedukti) to translate a whole Isabelle/HOL development into a similar one in Coq.
-
-- David Delahaye will work on extending the Dedukti/Lambdapi outputs of ZenonModulo to handle arithmetic proofs.
-
-- Isaac Lluis will work on extending the Dedukti/Lambdapi outputs of ZenonModulo to handle arithmetic proofs.
-
-<!-- to be confirmed -->
-<!--
-- [Sophie Tourret](https://www.mpi-inf.mpg.de/departments/automation-of-logic/people/sophie-tourret)
-
-- [Artur Korniłowicz](http://math.uwb.edu.pl/~arturk/)
-
-- [Amélie Ledein](https://lmf.cnrs.fr/Perso/AmelieLedein)
--->
+- [Filip Maric](http://www.matf.bg.ac.rs/~filip) worked with Nicolas
+  Magaud on verification of spreads and packings in projective
+  geometry. We developed proofs in Isabelle/HOL and Coq that use
+  available SAT and SMT solver support to efficiently show that
+  enumerations of spreads and packings are complete. We explored the
+  possibility of exporting these Isabelle/HOL proofs to Coq using
+  Dedukti/Lambdapi (esp. isabelle_dedukti). At the current state, we
+  managed to transfer proofs of the general theory of projective
+  geometry and plan to improve this by better alignment. However,
+  large proofs generated by SAT and SMT solvers take too much time and
+  memory to export, while proofs based on evaluation (the eval tactic
+  of Isabelle/HOL) do not generate valid proof terms and therefore
+  cannot be exported.
 
 **Monday 22 January (optional, for people arriving the day before the meeting):**
 
@@ -146,4 +137,5 @@ Dedukti written in Rust using term graphs.
 |10:45-12:45|work session 2|
 |12:45-14:00|lunch|
 
-<!--img src="/_pages/WG1/Jan2023/20230126_161524_resized.jpg"/-->
+<img src="/_pages/WG1/Gruissan24/IMG_20240123_172836.jpg"/>
+<img src="/_pages/WG1/Gruissan24/IMG_20240123_135333.jpg"/>

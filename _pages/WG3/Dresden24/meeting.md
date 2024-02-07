@@ -10,7 +10,11 @@ breadcrumbs: true
 
 **Date:** 27-28 March 2024
 
-**Venue:** TU Dresden, Germany ([APB Andreas-Pfitzmann-Bau](https://navigator.tu-dresden.de/gebaeude/apb), Nöthnitzer Str. 46, 01069 Dresden)
+**Venue:** TU Dresden, Germany <br>
+Address: Nöthnitzer Str. 46, 01069 Dresden <br>
+Room: [APB E023](https://navigator.tu-dresden.de/raum/542100.2310)
+
+**Tentative program:** see [here](https://europroofnet.github.io/wg3-dresden24-program/) 
 
 **Main idea:** Despite significant advances in formal methods, there remains a huge barrier to the adoption of formal methods in the industry. The key idea of this event is to bring together industry designers and formal methods research community to share ideas and experiences on how to improve the tools to reduce the barrier to adoption.
 
@@ -29,8 +33,10 @@ breadcrumbs: true
     * Thomas Fossati (Linaro, Switzerland)
     * Arto Niemi (Huawei, Finland)
     * Angelo	Ruocco (IBM Research, Switzerland)
+    * Samuel Ortiz (Rivos Inc, France)
+    * Ghada Arfaoui (Orange, France)
     * Andreas	Berg	(gematik GmbH,	Germany)
-    * Michael	Roitzsch	(Barkhausen Institut,	Germany)
+    * Carsten Weinhold	(Barkhausen Institut,	Germany)
     * Richard	Zak	(Enarx maintainer,	USA)
     * Rui	Almeida	(Klave,	UK)
       
@@ -44,14 +50,13 @@ breadcrumbs: true
     * Volker	Stolz	(Høgskulen på Vestlandet,	Norway)
     * Ayşe	Sayin	(Istanbul Technical University,	Turkey)
 
-      
 **Important dates:**
   * Submission of talk proposals: 22 December 2023
   * Notification of selected talks: 12 January 2024
   * Funding request: 22 December 2023 (Applications received by this date will receive priority for reimbursement.)
   * Notification of funding decisions: 12 January 2024
-  * Tentative detailed agenda: 25 January 2024
-  * Registration for attendance (without talk): 31 January 2024
+  * Tentative detailed agenda: 31 January 2024
+  * Registration for attendance (without talk): 15 February 2024
 
 **Application procedure:** In all cases, please [fill the same form](https://docs.google.com/forms/d/1TeOnw5RDcjfXmrayhQ6qBkYx4tqfooBW9Bmeqku1ltc).
   * **Case 1**: _You have a cool talk proposal_: please fill out the _optional_ fields of title, duration, and abstract.
@@ -60,4 +65,22 @@ breadcrumbs: true
   
 **Cost:** The event is free of cost for anyone interested but we may need to limit the number of participants. Hence, please utilize the "Short bio" field in the form to tell us about how you can benefit from the event. Also, please wait for the confirmation email before making travel arrangements. 
 
-**Reimbursement:** Participants selected for funding will have to organize their travel by themselves. See the [reimbursement rules](https://europroofnet.github.io/reimbursement-rules/) for more details. The daily allowance (covering accommodation, local transport and meals) is fixed at 130 Euros.
+**Reimbursement:** Participants selected for funding will have to organize their travel and accommodation by themselves. 
+ * Membership of at least one WG of EPN is mandatory for reimbursement. Please [join here](https://e-services.cost.eu/action/CA20111/working-groups/apply) if you are not already a member.
+ * Please note that any transport <100 km is not reimbursed as they are included in the daily allowance. Please check the [reimbursement rules](https://europroofnet.github.io/reimbursement-rules/) carefully so that there is no bad surprise after the meeting. The daily allowance (covering accommodation, local transport and meals) is fixed at 130 Euros.
+
+**Some accommodation options:**
+* [Premier Inn Dresden City Prager Straße](https://www.booking.com/hotel/de/premier-inn-dresden-city-prager-strasse.en-gb.html)
+* ​​[ibis Dresden Zentrum](https://www.booking.com/hotel/de/ibisbasteidresden.en-gb.html): 3-star
+* [IntercityHotel Dresden](https://www.booking.com/hotel/de/intercityhotel-dresden.en-gb.html)
+* [NH Collection Dresden Altmarkt](https://www.booking.com/hotel/de/nh-dresden-altmarkt.en-gb.html): 4-star
+* Also check out other options [here](https://www.dresden.de/en/tourism/book/accommodation.php)
+
+**Local transportation:**
+* [Taxi](https://www.dresden.de/en/living/09/Taxi.php): For those funded by EuroProofNet, please note that taxis are not reimbursed.
+* [Trams and buses](https://www.dvb.de/en/Homepage/): The nearest stops to the venue are:
+  * "Helmholtzstraße" for Bus 85 and
+  * "Münchner Platz" for tram 3.
+
+**Tourism:**
+* Explore [this page](https://www.dresden.de/en/tourism/tourism.php) to find places to visit
