@@ -34,7 +34,6 @@ corner).
 
 **Coming events:**
 
-- 23-25 January 2024: [Meeting on Dedukti and proof systems interoperabilty](../wg1-gruissan24), Gruissan, France
 - 25-26 March 2024: [WG5 meeting on the Alignment of Proof Systems and Machine Learning](../wg5-vienna24), Vienna, Austria
 - 27-28 March 2024: [WG3 meeting/Tutorial on Usable Formal Methods for Security of Systems](../wg3-dresden24) with the participation of industrial users, Dresden, Germany
 - 4-5 April 2024: [WG6 meeting](../wg6-leuven), Leuven, Belgium, in co-location with the HoTT/UF workshop
