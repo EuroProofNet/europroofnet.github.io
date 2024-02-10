@@ -28,12 +28,13 @@ The event is scheduled as a two-day meeting. Times are CET.
   - 14:00-15:00: *Platform-level Formal Verification for Public Sector Trustworthy Computing: Considerations and Challenges*. Andreas Berg (gematik GmbH, Germany)
   - 15:00-15:30: *Towards Modular Trusted Execution Environments*. Carsten Weinhold (Barkhausen Institut, Germany)
 * 15:30-16:00 **Break** 
-* 16:00-18:00 **Talks & Conclusions of the day**
+* 16:00-18:15 **Talks & Conclusions of the day**
   - 16:00-16:30: *The RISC-V confidential computing attestation framework*. Samuel	Ortiz	(Rivos Inc, France)
   - 16:30-16:50: *An ephemeral virtual TPM device to allow Remote Attestation for Confidential Virtual Machines*. Angelo Ruocco (IBM Research, Switzerland)
   - 16:50-17:20: *Attestation for Mobile Network*. Ghada Arfaoui (Orange, France)
-  - 17:20-17:30: *Role of Formal Verification in Next-Generation Mobile Networks*. Ayşe Sayin (Istanbul Technical University, Turkey)
-  - 17:30-18:00: *Wrapping-up: Conclusions of the day & plan*. 
+  - 17:20-17:50: *Attesting the Verticals*. Ian Oliver (University of Jyväskylä, Finland)
+  - 17:50-18:00: *Role of Formal Verification in Next-Generation Mobile Networks*. Ayşe Sayin (Istanbul Technical University, Turkey)
+  - 18:00-18:15: *Wrapping-up: Conclusions of the day & plan*. 
 
 **Day 2. March 28, 2024**
 * 9:00-11:00 **Talks** 
@@ -52,7 +53,7 @@ The event is scheduled as a two-day meeting. Times are CET.
   - 14:30-15:15: *Model checking for security*. Lilia Georgieva (Microsoft, UK)
   - 15:15-15:35: *Interactive theorem proving for protocol verification*. Horatiu Cheval (University of Bucharest, Romania)
 * 15:35-16:00 **Break**
-* 16:00-17:30 **Talks** 
+* 16:00-17:15 **Talks**
   - 16:00-16:20: *Towards Logical Specification and Checking of Malicious Capabilities*. Dorel Lucanu and Andrei Mogage (Alexandru Ioan Cuza University, Romania)
   - 16:20-16:40: *Formal correctness-proofs of refactorings*. Volker Stolz (Høgskulen på Vestlandet, Norway)
   - 16:40-17:15: *Wrapping-up: Setting the agenda for the year*. 
