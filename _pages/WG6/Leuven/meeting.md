@@ -36,9 +36,10 @@ entry as a discussion proposal, we will try to organize a few short discussion s
 
 **Invited speakers**
 
-- [Meven Lennon-Bertrand](https://www.meven.ac/)
-- [Dmitrij Szamozvancev](https://www.cl.cam.ac.uk/~ds709/)
-- [Maaike Zwart](https://maaikezwart.com/)
+- [Liang-Ting Chen](https://l-tchen.github.io/) (Institute of Information Science, Academia Sinica, Taiwan)
+- [Meven Lennon-Bertrand](https://www.meven.ac/) (University of Cambrige, UK)
+- [Dmitrij Szamozvancev](https://www.cl.cam.ac.uk/~ds709/) (University of Cambrige, UK)
+- [Maaike Zwart](https://maaikezwart.com/) (IT University of Copenhagen, Denmark)
 
 **Contributed talks**
 TBD
