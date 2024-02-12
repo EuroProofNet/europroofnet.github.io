@@ -20,7 +20,7 @@ Celestijnenlaan 200A
 
 **Collaborative room:** Seminar room 200A.00.144 
 
-**[Local information](https://anuyts.github.io/2024/venue.html)**
+**[Local information](https://anuyts.github.io/2024/venue.html)** - ⚠️⚠️ Please beware of accommodation-related scam emails targetting this specific event. ⚠️⚠️
 
 The aim of this meeting series is to bring together researchers working on the topics of [working group 6 of EuroProofNet](https://europroofnet.github.io/wg6/). The main focus is thus on the syntax and semantics of type theory.
 This includes, but is not limited to the goal of WG6:

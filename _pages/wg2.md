@@ -21,6 +21,12 @@ We use a [git repository to store all our documents and deliverables](https://gi
 
 ### Activities
 
+* July 2024: [TPTP Tea-Party 2024](https://www.tptp.org/TPTP/TPTPTParty/2024/) in Nancy (France)
+
+* May 2024: Rule based automated provers for geometry in Nice (France)
+
+* July 2023: [TPTP Tea Party 2023](https://europroofnet.github.io/tptp23-meeting/) in Paris-Saclay (France)
+
 * May 2023: [WG2 second meeting and Dedukti tools developers meeting 3](https://europroofnet.github.io/dk-meeting3/) in Liège (Belgium)
 
 * August 2022: [WG2 kickoff meeting](https://europroofnet.github.io/wg2-meeting1/) co-located with the [PAAR workshop](https://paar2022.github.io/) during [FLOC](https://www.floc2022.org/) at Haifa (Israel)
