@@ -10,20 +10,20 @@ breadcrumbs: true
 
 **Date:** 28-30 May 2024
 
-Remark: the official dates of the meeting taken into account for reimbursements are from January 28 to 30 pf May (3 days). However, since most people will arrive on the 27th and leave on the 31st, the program includes two optional work sessions on those days (afternoon and morning).
+Remark: the official dates of the meeting taken into account for reimbursements are from 28 to 30 of May (3 days). However, since most people will arrive on the 27th and leave on the 31st, the program includes two optional work sessions on those days (afternoon and morning).
 
 **Venue:** [Hôtel Restaurant Campanile Nice Aéroport, Nice, France](https://nice-aeroport.campanile.com/fr-fr/) 459-461 Promenade Des Anglais L'arénas 06200 Nice, France
 
 **How to get there?** Hotel Campanile Nice Airport is 300m away from the airport.
 
-**Program:** Different geometry systems, including axiomatic developments,  school-level geometry, and automated theorem provers use a range of primitive axioms or "rules". Preparing a meta-prover capable of dealing with and merging different sets of rules, specified in TPTP-FOL, formally verified to be consistent, with natural languages and geometric renderings and capable to be integrated in an array of educational system, such as dynamic geometry system is a milestone goal.
+**Program:** Different geometry systems, including axiomatic developments, school-level geometry, and automated theorem provers use a range of primitive axioms or "rules". Preparing a meta-prover capable of dealing with and merging different sets of rules, specified in TPTP-FOL, formally verified to be consistent, with natural languages and geometric renderings and capable to be integrated in an array of educational system, such as dynamic geometry system is a milestone goal.
 
 **Objectives/Deliverables:**
 
 * The construction/formal verification of the set of
    rules.
 
-* The construction of a rule based provers
+* The construction of rule based provers
 
 *  Integration of the provers in DGS(s), with  natural and geometric renderings.
 
