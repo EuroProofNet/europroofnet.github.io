@@ -10,7 +10,7 @@ breadcrumbs: true
 
 **Date:** 28-30 May 2024
 
-Remark: the official dates of the meeting taken into account for reimbursements are from January 28 to 30 pf May (3 days). However, since most people will arrive on the 27th and leave on the 31st, the program includes two optional work sessions on those days (afternoon and morning).
+Remark: the official dates of the meeting taken into account for reimbursements are from 28 to 30 of May (3 days). However, since most people will arrive on the 27th and leave on the 31st, the program includes two optional work sessions on those days (afternoon and morning).
 
 **Venue:** [Hôtel Restaurant Campanile Nice Aéroport, Nice, France](https://nice-aeroport.campanile.com/fr-fr/) 459-461 Promenade Des Anglais L'arénas 06200 Nice, France
 
@@ -23,9 +23,9 @@ Remark: the official dates of the meeting taken into account for reimbursements 
 * The construction/formal verification of the set of
    rules.
 
-* The construction of a rule based provers
+* The construction of rule based provers
 
-*  Integration of the provers in DGS(s), with  natural and geometric renderings.
+*  Integration of the provers in DGS(s), with natural and geometric renderings.
 
 **Application procedure:** The number of participants is limited. If you want to be funded, check the [eligibility rules](https://europroofnet.github.io/eligibility/) and send a mail to [Pedro Quaresma](mailto:pedro@mat.uc.pt) with the following information and documents:
 
@@ -37,4 +37,4 @@ Remark: the official dates of the meeting taken into account for reimbursements 
 
 Application deadline: 29/2/2024
 
-**Cost:** Participants have to organize their travel by themselves. The hotel rooms are 84euros per night including breakfast, lunch buffet is 18 euros.  See the [reimbursement rules](https://europroofnet.github.io/reimbursement-rules/) for more details. The daily allowance is fixed at 125 euros. 
+**Cost:** Participants have to organize their travel by themselves. The hotel rooms are 84 euros per night including breakfast, lunch buffet is 18 euros.  See the [reimbursement rules](https://europroofnet.github.io/reimbursement-rules/) for more details. The daily allowance is fixed at 125 euros. 
