@@ -23,7 +23,7 @@ We use a [git repository to store all our documents and deliverables](https://gi
 
 * July 2024: [TPTP Tea-Party 2024](https://www.tptp.org/TPTP/TPTPTParty/2024/) in Nancy (France)
 
-* May 2024: Rule based automated provers for geometry in Nice (France)
+* May 2024: [Rule based automated provers for geometry](https://europroofnet.github.io/wg2-geo24/) in Nice (France)
 
 * July 2023: [TPTP Tea Party 2023](https://europroofnet.github.io/tptp23-meeting/) in Paris-Saclay (France)
 
