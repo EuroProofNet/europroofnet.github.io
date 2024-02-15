@@ -43,39 +43,17 @@ entry as a discussion proposal, we will try to organize a few short discussion s
 
 **Contributed talks**
 
-- Vincent R.B. Blazy, Hugo Herbelin & Pierre Letouzey (Université Paris Cité):
-  
-  *Explicit Cumulativity in CC_ω*
-- Joris Ceulemans, Andreas Nuyts, Dominique Devriese (KU Leuven):
-  
-  *Admissibility of Substitution for Multimode Type Theory*
-- Joshua Chen, Nicolai Kraus (University of Nottingham):
-  
-  *Constructing inverse diagrams in homotopical type theory*
-- Thiago Felicissimo (Inria/LMF/Deducteam):
-  
-  *Generic bidirectional typing for dependent type theories*
-- Jonas Frey (Carnegie Mellon University):
-  
-  *The shape of contexts*
-- Ambroise Lafont, Thomas Lamiaux, Benedikt Ahrens (École Polytechnique, ENS Saclay, Delft University of Technology):
-  
-  *Initial semantics for polymorphic type systems*
-- Roussanka Loukanova (Department of Algebra and Logic, Institute of Mathematics and Informatics, Bulgarian Academy of Sciences):
-  
-  *Relatons between let-Terms of Lambda-Calculus and where-Terms of Type-Theory of Recursion*
-- Jacob Neumann (University of Nottingham):
-  
-  *Towards Modal SOGATs*
-- Josselin Poiret (Nantes Université and Inria, Galinette Team):
-  
-  *A multiverse type theory*
-- Stelios Tsampas (Friedrich-Alexander-Universität Erlangen-Nürnberg):
-  
-  *Logical Relations in Higher-Order Mathematical Operational Semantics*
-- Théo Winterhalter (Inria Saclay):
-  
-  *Dependent ghosts enjoy reflection for free*
+- Vincent R.B. Blazy, Hugo Herbelin & Pierre Letouzey (Université Paris Cité): *Explicit Cumulativity in CC_ω*
+- Joris Ceulemans, Andreas Nuyts, Dominique Devriese (KU Leuven): *Admissibility of Substitution for Multimode Type Theory*
+- Joshua Chen, Nicolai Kraus (University of Nottingham): *Constructing inverse diagrams in homotopical type theory*
+- Thiago Felicissimo (Inria/LMF/Deducteam): *Generic bidirectional typing for dependent type theories*
+- Jonas Frey (Carnegie Mellon University): *The shape of contexts*
+- Ambroise Lafont, Thomas Lamiaux, Benedikt Ahrens (École Polytechnique, ENS Saclay, Delft University of Technology): *Initial semantics for polymorphic type systems*
+- Roussanka Loukanova (Department of Algebra and Logic, Institute of Mathematics and Informatics, Bulgarian Academy of Sciences): *Relatons between let-Terms of Lambda-Calculus and where-Terms of Type-Theory of Recursion*
+- Jacob Neumann (University of Nottingham): *Towards Modal SOGATs*
+- Josselin Poiret (Nantes Université and Inria, Galinette Team): *A multiverse type theory*
+- Stelios Tsampas (Friedrich-Alexander-Universität Erlangen-Nürnberg): *Logical Relations in Higher-Order Mathematical Operational Semantics*
+- Théo Winterhalter (Inria Saclay): *Dependent ghosts enjoy reflection for free*
 
 **Schedule and abstracts:**
 TBD
