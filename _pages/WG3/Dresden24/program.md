@@ -19,11 +19,11 @@ The event is scheduled as a two-day meeting. Times are CET.
 * 9:15-11:15 **Hands-on tutorial**
   - 9:15-11:15: *ProVerif*. Vincent Cheval (University of Oxford, UK) (Assistants: Muhammad Usama Sardar and Georgio Nicolas)
 * 11:15-11:45 **Break**
-* 11:45-12:40 **Talks**
+* 11:45-12:55 **Talks**
   - 11:45-12:15: *Why formal methods remain inaccessible for most cryptographers*. Georgio Nicolas (KU Leuven, Belgium)
   - 12:15-12:25: *Towards formally-verified remote attestation in SSProve*. Jannik Mähn (Barkhausen Institut, Germany)
-  - 12:25-12:40: *Verification of cryptographic protocols*. ilias Cherkaoui (Walton Institute, Ireland)
-* 12:40-14:00 **Lunch break** 
+  - 12:25-12:55: *Verification of cryptographic protocols*. ilias Cherkaoui (Walton Institute, Ireland)
+* 12:55-14:00 **Lunch break** 
 * 14:00-15:30 **Talks** 
   - 14:00-15:00: *Platform-level Formal Verification for Public Sector Trustworthy Computing: Considerations and Challenges*. Andreas Berg (gematik GmbH, Germany)
   - 15:00-15:30: *Towards Modular Trusted Execution Environments*. Carsten Weinhold (Barkhausen Institut, Germany)
