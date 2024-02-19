@@ -34,6 +34,7 @@ corner).
 
 **Coming events:**
 
+- 17 March 2024: [submission deadline for STSM/ITCG proposals between April and September 2024](../grants). We especially welcome proposals from the working group 4, [inclusive-target countries](../eligibility) and [women](../gender-balance)
 - 25-26 March 2024: [WG5 meeting on the Alignment of Proof Systems and Machine Learning](../wg5-vienna24), Vienna, Austria
 - 27-28 March 2024: [WG3 meeting/Tutorial on Usable Formal Methods for Security of Systems](../wg3-dresden24) with the participation of industrial users, Dresden, Germany
 - 4-5 April 2024: [WG6 meeting](../wg6-leuven), Leuven, Belgium, in co-location with the HoTT/UF workshop
