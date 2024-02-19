@@ -13,7 +13,7 @@ computer-assisted reasoning can be extended to proofs that are represented in
 (controlled) natural languages.
 
 ### Activities
-
+- 25-26 March 2024: [Workshop on Alignment of Proof Systems and Machine Learning](/wg5-vienna24/), Vienna, Austria
 - 6-8 September 2023: [Joint WG4-WG5 meeting/Workshop on Natural Formal Mathematics, and on libraries of formal proofs and natural mathematical language](../cambridge-2023), Cambridge, UK
 
 - 18-20 April 2023: WG meeting co-organized  with [Joint Workshops (PAMLTP) and (DG4D^3)](/Prague23), Prague (Czechia)
