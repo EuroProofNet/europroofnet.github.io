@@ -28,7 +28,7 @@ The workshop will be a forum for exchange of solutions to these problems between
 The workshop solicits contributed talks supported by an extended abstract of up to 1 page, excluding references, in the [EasyChair format](https://easychair.org/publications/for_authors). Abstracts will be reviewed for relevance and quality and subsequently made public on the workshop's web page. Participants that contribute talks will be given preference when applying for travel support &mdash; see below. Workshop deadlines are as follows:
 
 - Abstract submission: February 25th
-- Travel support application: Feburary 25th
+- Travel support application: February 25th
 - Notification of acceptance: ASAP thereafter.
 
 Please submit abstracts via [email](mailto:michael@rawsons.uk).
