@@ -21,9 +21,8 @@ The event is scheduled as a two-day meeting. Times are CET.
 * 11:15-11:45 **Break**
 * 11:45-12:55 **Talks**
   - 11:45-12:15: *Why formal methods remain inaccessible for most cryptographers*. Georgio Nicolas (KU Leuven, Belgium)
-  - 12:15-12:25: *Towards formally-verified remote attestation in SSProve*. Jannik Mähn (Barkhausen Institut, Germany)
-  - 12:25-12:55: *Verification of cryptographic protocols*. ilias Cherkaoui (Walton Institute, Ireland)
-* 12:55-14:00 **Lunch break** 
+  - 12:15-12:45: *Verification of cryptographic protocols*. ilias Cherkaoui (Walton Institute, Ireland)
+* 12:45-14:00 **Lunch break** 
 * 14:00-15:30 **Talks** 
   - 14:00-15:00: *Platform-level Formal Verification for Public Sector Trustworthy Computing: Considerations and Challenges*. Andreas Berg (gematik GmbH, Germany)
   - 15:00-15:30: *Towards Modular Trusted Execution Environments*. Carsten Weinhold (Barkhausen Institut, Germany)
@@ -56,6 +55,7 @@ The event is scheduled as a two-day meeting. Times are CET.
 * 16:00-17:15 **Talks**
   - 16:00-16:20: *Towards Logical Specification and Checking of Malicious Capabilities*. Dorel Lucanu and Andrei Mogage (Alexandru Ioan Cuza University, Romania)
   - 16:20-16:40: *Formal correctness-proofs of refactorings*. Volker Stolz (Høgskulen på Vestlandet, Norway)
-  - 16:40-17:15: *Wrapping-up: Setting the agenda for the year*. 
+  - 16:40-16:50: *Towards formally-verified remote attestation in SSProve*. Jannik Mähn (Barkhausen Institut, Germany)
+  - 16:50-17:15: *Wrapping-up: Setting the agenda for the year*. 
   
 
