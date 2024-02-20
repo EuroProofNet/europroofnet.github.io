@@ -94,8 +94,7 @@ Current membership can be checked [here](https://www.cost.eu/actions/CA20111/#ta
 
 **Submission of proposals:**
 ~~[Submission form](https://lipn.univ-paris13.fr/limesurvey/index.php/752657?lang=en)~~
-
-Submission is closed.
+(Submission is closed.)
 
 **Registration:**
 [Registration form](http://lipn.univ-paris13.fr/limesurvey/index.php/736237?lang=en)
