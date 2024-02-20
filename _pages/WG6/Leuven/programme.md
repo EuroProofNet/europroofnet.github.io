@@ -18,7 +18,7 @@ Abstract TBD
 ##### [Meven Lennon-Bertrand](https://www.meven.ac/) (University of Cambrige, UK): *Towards a certified type theoretic kernel* {#lennonbertrand}
 Proof assistant kernels are a natural target for program certification: they are small, critical, and well-specified. Still, despite the maturity of type theory and software verification, we are yet to see a certified Agda, Coq or Lean. In this talk, I will give an overview of the current state of the landscape around this goal, present two complementary lines of work advancing towards it, and try and explain why it is still evading us. The first line, MetaCoq, is a large scale endeavour, broadly aiming at manipulating Coq terms and derivations inside Coq, in particular developing a certified type-checker for a very significant fragment of Coq. The second is concerned with formalised logical relations, the standard tool of the trade to deal with normalisation proofs and extensionality equations.
 
-##### [Dmitrij Szamozvancev](https://www.cl.cam.ac.uk/~ds709/) (University of Cambrige, UK) {#szamozvancev}: *TBD*
+##### [Dmitrij Szamozvancev](https://www.cl.cam.ac.uk/~ds709/) (University of Cambrige, UK): *TBD* {#szamozvancev}
 Abstract TBD
 
 ##### [Maaike Zwart](https://maaikezwart.com/) (IT University of Copenhagen, Denmark): *What monads can and cannot do with a bit of extra time* {#zwart}
