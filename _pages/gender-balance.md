@@ -38,6 +38,6 @@ If you are organizing an event within the action or if you have other questions/
 
 - [GenderMag Method](https://gendermag.org/index.php) enables software practitioners (e.g., developers, managers, UX professionals) find gender-inclusivity "bugs" in their software, and then fix the bugs they find.
 
-- [Women in Logic](https://sites.google.com/view/womeninlogic)
+- [Women in Logic](https://sites.google.com/view/womeninlogic) and its [online seminar series](https://www.vcla.at/2024/02/women-in-logic-online/)
 
 - [She Figures 2021 report](https://op.europa.eu/en/web/eu-law-and-publications/publication-detail/-/publication/67d5a207-4da1-11ec-91ac-01aa75ed71a1): European Commission and Directorate-General for Research and Innovation (2021). She figures 2021: gender in research and innovation: statistics and indicators. Publications Office. doi:10.2777/06090.
