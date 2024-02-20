@@ -61,11 +61,13 @@ entry as a discussion proposal, we will try to organize a few short discussion s
 
 **Deadlines**
 
-- Submission of talk proposals: ~~2 February 2024~~ 9 February 2024 (AoE)
-- Author notification: 16 February 2024
-- Funding requests: 23 February 2024 (AoE)
+- ~~Submission of talk proposals: ~~2 February 2024~~ 9 February 2024 (AoE)~~
+- ~~Author notification: 16 February 2024~~
+- Funding requests: **23 February 2024 (AoE)**
+  - Please register also as EuroProofNet member (see below) by this deadline.
 - Funding notification: 4 March 2024
-- Registration: 8 March 2024 (AoE)
+- Registration: **8 March 2024 (AoE)**
+- Meeting itself: 4-5 April 2024
 
 **Funding:**
 The reimbursement concerns the official dates of the WG6 meeting: Apr 4-5 (so not the co-located event).
@@ -78,13 +80,22 @@ objectives and deliverables of the action; inclusive target countries; age; gend
 team with low resources; balance over the action life time between people, teams,
 countries and working groups.
 
-To apply for funding, simply fill out the 
+To apply for funding, fill out the 
 [funding and registration form](http://lipn.univ-paris13.fr/limesurvey/index.php/736237?lang=en)
 before February 23.
 You can still confirm or cancel your registration after a decision on awarding funding has been made.
 
+Please note that, in order to be eligible for reimbursement, **you ALSO need to register as a EuroProofNet member.**
+Information on how to apply can be found on the [EuroProofNet home page](https://europroofnet.github.io/),
+and the link to register as a EuroProofNet member is <https://e-services.cost.eu/action/CA20111/working-groups/apply>.
+Choose any work groups you like, but in particular WG6.
+
+Current membership can be checked [here](https://www.cost.eu/actions/CA20111/#tabs+Name:Working%20Groups%20and%20Membership) (not alphabetical, despite appearances).
+
 **Submission of proposals:**
-[Submission form](https://lipn.univ-paris13.fr/limesurvey/index.php/752657?lang=en)
+~~[Submission form](https://lipn.univ-paris13.fr/limesurvey/index.php/752657?lang=en)~~
+
+Submission is closed.
 
 **Registration:**
 [Registration form](http://lipn.univ-paris13.fr/limesurvey/index.php/736237?lang=en)
