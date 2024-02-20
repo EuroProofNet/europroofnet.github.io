@@ -36,27 +36,26 @@ entry as a discussion proposal, we will try to organize a few short discussion s
 
 **Invited speakers**
 
-- [Liang-Ting Chen](https://l-tchen.github.io/) (Institute of Information Science, Academia Sinica, Taiwan)
-- [Meven Lennon-Bertrand](https://www.meven.ac/) (University of Cambrige, UK)
-- [Dmitrij Szamozvancev](https://www.cl.cam.ac.uk/~ds709/) (University of Cambrige, UK)
-- [Maaike Zwart](https://maaikezwart.com/) (IT University of Copenhagen, Denmark)
+- [Liang-Ting Chen](https://l-tchen.github.io/) (Institute of Information Science, Academia Sinica, Taiwan): *From Datatype Genericity To Language Genericity* ([Abstract](programme#ltchen))
+- [Meven Lennon-Bertrand](https://www.meven.ac/) (University of Cambrige, UK): *Towards a certified type theoretic kernel* ([Abstract](programme#lennonbertrand))
+- [Dmitrij Szamozvancev](https://www.cl.cam.ac.uk/~ds709/) (University of Cambrige, UK): *TBD* ([Abstract](programme#szamozvancev))
+- [Maaike Zwart](https://maaikezwart.com/) (IT University of Copenhagen, Denmark): *What monads can and cannot do with a bit of extra time* ([Abstract](programme#zwart))
 
 **Contributed talks**
 
-- Vincent R.B. Blazy, Hugo Herbelin & Pierre Letouzey (Université Paris Cité): *Explicit Cumulativity in CC_ω*
-- Joris Ceulemans, Andreas Nuyts, Dominique Devriese (KU Leuven): *Admissibility of Substitution for Multimode Type Theory*
-- Joshua Chen, Nicolai Kraus (University of Nottingham): *Constructing inverse diagrams in homotopical type theory*
-- Thiago Felicissimo (Inria/LMF/Deducteam): *Generic bidirectional typing for dependent type theories*
-- Jonas Frey (Carnegie Mellon University): *The shape of contexts*
-- Ambroise Lafont, Thomas Lamiaux, Benedikt Ahrens (École Polytechnique, ENS Saclay, Delft University of Technology): *Initial semantics for polymorphic type systems*
-- Roussanka Loukanova (Department of Algebra and Logic, Institute of Mathematics and Informatics, Bulgarian Academy of Sciences): *Relatons between let-Terms of Lambda-Calculus and where-Terms of Type-Theory of Recursion*
-- Jacob Neumann (University of Nottingham): *Towards Modal SOGATs*
-- Josselin Poiret (Nantes Université and Inria, Galinette Team): *A multiverse type theory*
-- Stelios Tsampas (Friedrich-Alexander-Universität Erlangen-Nürnberg): *Logical Relations in Higher-Order Mathematical Operational Semantics*
-- Théo Winterhalter (Inria Saclay): *Dependent ghosts enjoy reflection for free*
+- Vincent R.B. Blazy, Hugo Herbelin & Pierre Letouzey (Université Paris Cité): *Explicit Cumulativity in CC_ω* ([Abstract](programme#blazy-herbelin-letouzey))
+- Joris Ceulemans, Andreas Nuyts, Dominique Devriese (KU Leuven): *Admissibility of Substitution for Multimode Type Theory* ([Abstract](programme#ceulemans-nuyts-devriese))
+- Joshua Chen, Nicolai Kraus (University of Nottingham): *Constructing inverse diagrams in homotopical type theory* ([Abstract](programme#chen-kraus))
+- Thiago Felicissimo (Inria/LMF/Deducteam): *Generic bidirectional typing for dependent type theories* ([Abstract](programme#felicissimo))
+- Jonas Frey (Carnegie Mellon University): *The shape of contexts* ([Abstract](programme#frey))
+- Ambroise Lafont, Thomas Lamiaux, Benedikt Ahrens (École Polytechnique, ENS Saclay, Delft University of Technology): *Initial semantics for polymorphic type systems* ([Abstract](programme#lafont-lamiaux-ahrens))
+- Roussanka Loukanova (Department of Algebra and Logic, Institute of Mathematics and Informatics, Bulgarian Academy of Sciences): *Relatons between let-Terms of Lambda-Calculus and where-Terms of Type-Theory of Recursion* ([Abstract](programme#loukanova))
+- Jacob Neumann (University of Nottingham): *Towards Modal SOGATs* ([Abstract](programme#neumann))
+- Josselin Poiret (Nantes Université and Inria, Galinette Team): *A multiverse type theory* ([Abstract](programme#poiret))
+- Stelios Tsampas (Friedrich-Alexander-Universität Erlangen-Nürnberg): *Logical Relations in Higher-Order Mathematical Operational Semantics* ([Abstract](programme#tsampas))
+- Théo Winterhalter (Inria Saclay): *Dependent ghosts enjoy reflection for free* ([Abstract](programme#winterhalter))
 
-**Schedule and abstracts:**
-TBD
+**Schedule and abstracts:** Please see [here](programme)
 
 **Participants:** Please see [here](participants)
 
