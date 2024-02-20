@@ -36,37 +36,38 @@ entry as a discussion proposal, we will try to organize a few short discussion s
 
 **Invited speakers**
 
-- [Liang-Ting Chen](https://l-tchen.github.io/) (Institute of Information Science, Academia Sinica, Taiwan)
-- [Meven Lennon-Bertrand](https://www.meven.ac/) (University of Cambrige, UK)
-- [Dmitrij Szamozvancev](https://www.cl.cam.ac.uk/~ds709/) (University of Cambrige, UK)
-- [Maaike Zwart](https://maaikezwart.com/) (IT University of Copenhagen, Denmark)
+- [Liang-Ting Chen](https://l-tchen.github.io/) (Institute of Information Science, Academia Sinica, Taiwan): *From Datatype Genericity To Language Genericity* ([Abstract](programme#ltchen))
+- [Meven Lennon-Bertrand](https://www.meven.ac/) (University of Cambrige, UK): *Towards a certified type theoretic kernel* ([Abstract](programme#lennonbertrand))
+- [Dmitrij Szamozvancev](https://www.cl.cam.ac.uk/~ds709/) (University of Cambrige, UK): *TBD* ([Abstract](programme#szamozvancev))
+- [Maaike Zwart](https://maaikezwart.com/) (IT University of Copenhagen, Denmark): *What monads can and cannot do with a bit of extra time* ([Abstract](programme#zwart))
 
 **Contributed talks**
 
-- Vincent R.B. Blazy, Hugo Herbelin & Pierre Letouzey (Université Paris Cité): *Explicit Cumulativity in CC_ω*
-- Joris Ceulemans, Andreas Nuyts, Dominique Devriese (KU Leuven): *Admissibility of Substitution for Multimode Type Theory*
-- Joshua Chen, Nicolai Kraus (University of Nottingham): *Constructing inverse diagrams in homotopical type theory*
-- Thiago Felicissimo (Inria/LMF/Deducteam): *Generic bidirectional typing for dependent type theories*
-- Jonas Frey (Carnegie Mellon University): *The shape of contexts*
-- Ambroise Lafont, Thomas Lamiaux, Benedikt Ahrens (École Polytechnique, ENS Saclay, Delft University of Technology): *Initial semantics for polymorphic type systems*
-- Roussanka Loukanova (Department of Algebra and Logic, Institute of Mathematics and Informatics, Bulgarian Academy of Sciences): *Relatons between let-Terms of Lambda-Calculus and where-Terms of Type-Theory of Recursion*
-- Jacob Neumann (University of Nottingham): *Towards Modal SOGATs*
-- Josselin Poiret (Nantes Université and Inria, Galinette Team): *A multiverse type theory*
-- Stelios Tsampas (Friedrich-Alexander-Universität Erlangen-Nürnberg): *Logical Relations in Higher-Order Mathematical Operational Semantics*
-- Théo Winterhalter (Inria Saclay): *Dependent ghosts enjoy reflection for free*
+- Vincent R.B. Blazy, Hugo Herbelin & Pierre Letouzey (Université Paris Cité): *Explicit Cumulativity in CC_ω* ([Abstract](programme#blazy-herbelin-letouzey))
+- Joris Ceulemans, Andreas Nuyts, Dominique Devriese (KU Leuven): *Admissibility of Substitution for Multimode Type Theory* ([Abstract](programme#ceulemans-nuyts-devriese))
+- Joshua Chen, Nicolai Kraus (University of Nottingham): *Constructing inverse diagrams in homotopical type theory* ([Abstract](programme#chen-kraus))
+- Thiago Felicissimo (Inria/LMF/Deducteam): *Generic bidirectional typing for dependent type theories* ([Abstract](programme#felicissimo))
+- Jonas Frey (Carnegie Mellon University): *The shape of contexts* ([Abstract](programme#frey))
+- Ambroise Lafont, Thomas Lamiaux, Benedikt Ahrens (École Polytechnique, ENS Saclay, Delft University of Technology): *Initial semantics for polymorphic type systems* ([Abstract](programme#lafont-lamiaux-ahrens))
+- Roussanka Loukanova (Department of Algebra and Logic, Institute of Mathematics and Informatics, Bulgarian Academy of Sciences): *Relatons between let-Terms of Lambda-Calculus and where-Terms of Type-Theory of Recursion* ([Abstract](programme#loukanova))
+- Jacob Neumann (University of Nottingham): *Towards Modal SOGATs* ([Abstract](programme#neumann))
+- Josselin Poiret (Nantes Université and Inria, Galinette Team): *A multiverse type theory* ([Abstract](programme#poiret))
+- Stelios Tsampas (Friedrich-Alexander-Universität Erlangen-Nürnberg): *Logical Relations in Higher-Order Mathematical Operational Semantics* ([Abstract](programme#tsampas))
+- Théo Winterhalter (Inria Saclay): *Dependent ghosts enjoy reflection for free* ([Abstract](programme#winterhalter))
 
-**Schedule and abstracts:**
-TBD
+**Schedule and abstracts:** Please see [here](programme)
 
 **Participants:** Please see [here](participants)
 
 **Deadlines**
 
-- Submission of talk proposals: ~~2 February 2024~~ 9 February 2024 (AoE)
-- Author notification: 16 February 2024
-- Funding requests: 23 February 2024 (AoE)
+- ~~Submission of talk proposals: ~~2 February 2024~~ 9 February 2024 (AoE)~~
+- ~~Author notification: 16 February 2024~~
+- Funding requests: **23 February 2024 (AoE)**
+  - Please register also as EuroProofNet member (see below) by this deadline.
 - Funding notification: 4 March 2024
-- Registration: 8 March 2024 (AoE)
+- Registration: **8 March 2024 (AoE)**
+- Meeting itself: 4-5 April 2024
 
 **Funding:**
 The reimbursement concerns the official dates of the WG6 meeting: Apr 4-5 (so not the co-located event).
@@ -79,13 +80,21 @@ objectives and deliverables of the action; inclusive target countries; age; gend
 team with low resources; balance over the action life time between people, teams,
 countries and working groups.
 
-To apply for funding, simply fill out the 
+To apply for funding, fill out the 
 [funding and registration form](http://lipn.univ-paris13.fr/limesurvey/index.php/736237?lang=en)
 before February 23.
 You can still confirm or cancel your registration after a decision on awarding funding has been made.
 
+Please note that, in order to be eligible for reimbursement, **you ALSO need to register as a EuroProofNet member.**
+Information on how to apply can be found on the [EuroProofNet home page](https://europroofnet.github.io/),
+and the link to register as a EuroProofNet member is <https://e-services.cost.eu/action/CA20111/working-groups/apply>.
+Choose any work groups you like, but in particular WG6.
+
+Current membership can be checked [here](https://www.cost.eu/actions/CA20111/#tabs+Name:Working%20Groups%20and%20Membership) (not alphabetical, despite appearances).
+
 **Submission of proposals:**
-[Submission form](https://lipn.univ-paris13.fr/limesurvey/index.php/752657?lang=en)
+~~[Submission form](https://lipn.univ-paris13.fr/limesurvey/index.php/752657?lang=en)~~
+(Submission is closed.)
 
 **Registration:**
 [Registration form](http://lipn.univ-paris13.fr/limesurvey/index.php/736237?lang=en)
