@@ -98,7 +98,7 @@ The grant amounts below are initial estimations and not necessarily the final am
   Grant: 1220 EUR  
   Dates: 2024-03-11 to 2024-03-15
 
-* **Initial semantics for polymorphic type systems** [application](/_pages/stsm/ahrens-app.pdf)[report](/_pages/stsm/ahrens-rep.pdf)      
+* **Initial semantics for polymorphic type systems** [application](/_pages/stsm/ahrens-app.pdf)  [report](/_pages/stsm/ahrens-rep.pdf)      
   Visitor: Benedikt Ahrens  
   Host: Ambroise Lafont    
   Grant: 1302 EUR  
@@ -110,7 +110,7 @@ The grant amounts below are initial estimations and not necessarily the final am
   Grant: 1500 EUR  
   Dates: 2024-02-19 to 2024-02-25
 
-* **ω-categories, syntax and models** [application](/_pages/stsm/pascalis-app.pdf)[report](/_pages/stsm/pascalis-rep.pdf)     
+* **ω-categories, syntax and models** [application](/_pages/stsm/pascalis-app.pdf)  [report](/_pages/stsm/pascalis-rep.pdf)     
   Visitor: Michele De Pascalis  
   Host: Eric Finster    
   Grant: 1606 EUR  
