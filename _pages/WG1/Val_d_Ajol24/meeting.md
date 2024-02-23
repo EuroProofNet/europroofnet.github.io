@@ -18,9 +18,9 @@ Remark: the official dates of the meeting taken into account for reimbursements 
 
 **How to get there?** There is a direct train from Paris to Remiremont train station (East of France) on April 22 at 12:22, arrival at 15:09, and a direct train from Remiremont to Paris on APril 26 at 15:56, arrival at 18:46. A shuttle will be organized from Remiremont to the hotel on April 22 at 15:10, and from the hotel to Remiremont on April 26 at 15:00.
 
-**Program:** Discussing encodings, translations and searching tools, and working alone or in small groups on the development of tools for generating, handling or transforming proof files, taking advantage of the participation of experts on various languages and tools, to make progress on EuroProofNet [objectives](../objectives) and [deliverables](../deliverables).
+**Program:** Discussing encodings, translations and searching tools, and working alone or in small groups on the development of tools for generating, handling, transforming or searching proof files, taking advantage of the participation of experts on various languages and tools, to make progress on EuroProofNet [objectives](../objectives) and [deliverables](../deliverables).
 
-**Cost:** The cost of accommodation and meals is about 150 euros/day/person. Participants have to make a bank transfer of half of the cost to La Résidence ([IBAN](https://europroofnet.github.io/_pages/WG1/Jul2023/IBAN-R%C3%A9sidence.png): FR7617206002135619393901050) in order to confirm their participation. The second half will have to be paid at the hotel.
+**Cost:** The cost of accommodation and meals is about 150 euros/day/person. Participants have to make a bank transfer of half of the cost to La Résidence ([IBAN](https://europroofnet.github.io/_pages/WG1/Jul2023/IBAN-R%C3%A9sidence.png): FR7617206002135619393901050) in order to confirm their participation, and send a mail to contact@la-residence.com and [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/) to inform us of the bank transfer. The second half will have to be paid at the hotel.
 
 **Funding:** EuroProofNet can reimburse the transport and a daily allowance for the accommodation and meals to a limited number of participants with the following priorities: contribution to EuroProofNet objectives and deliverables, people from COST inclusiveness target countries, young researchers, under-represented genders. Check [eligibility rules](https://europroofnet.github.io/eligibility/) and [reimbursement rules](https://europroofnet.github.io/reimbursement-rules/) to get more details.
 
@@ -31,6 +31,7 @@ Remark: the official dates of the meeting taken into account for reimbursements 
   * planned date and time of departure
   * cost of travel in euros with quote (screen capture)
   * work plan: describe what you would like to do
+  * special diet if any
 
 <!--
 **Participants (13):**
