@@ -57,9 +57,9 @@ Remark: the official dates of the meeting taken into account for reimbursements 
 
 **Monday 22 April (optional, for people arriving the day before the meeting):**
 
-|16:45-17:00|welcome coffee|
-|17:00-17:30|free time|
-|17:30-19:30|work session 4|
+|16:00-16:30|welcome coffee|
+|16:30-18:30|work session 4|
+|18:30-19:30|free time|
 |19:30-21:00|dinner|
 |21:00-23:00|work session 5 (optional)|
 
