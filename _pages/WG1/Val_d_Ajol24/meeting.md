@@ -24,7 +24,7 @@ Remark: the official dates of the meeting taken into account for reimbursements 
 
 **Funding:** EuroProofNet can reimburse the transport and a daily allowance for the accommodation and meals to a limited number of participants with the following priorities: contribution to EuroProofNet objectives and deliverables, people from COST inclusiveness target countries, young researchers, under-represented genders. Check [eligibility rules](https://europroofnet.github.io/eligibility/) and [reimbursement rules](https://europroofnet.github.io/reimbursement-rules/) to get more details.
 
-**Registration and funding application:** Deadline: 17 March 2024. If you want to participate, apply to [EuroProofNet](https://e-services.cost.eu/action/CA20111/working-groups/apply) if not already done, and send a mail to [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/) with the following information and documents:
+**Registration and funding application:** Deadline: 10 March 2024. If you want to participate, apply to [EuroProofNet](https://e-services.cost.eu/action/CA20111/working-groups/apply) if not already done, and send a mail to [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/) with the following information and documents:
 
   * URL of your homepage
   * planned date and time of arrival
