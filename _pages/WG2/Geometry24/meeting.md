@@ -37,4 +37,4 @@ Remark: the official dates of the meeting taken into account for reimbursements 
 
 Application deadline: 29/2/2024
 
-**Cost:** Participants have to organize their travel by themselves. The hotel rooms are 84euros per night including breakfast, lunch buffet is 18 euros.  See the [reimbursement rules](https://europroofnet.github.io/reimbursement-rules/) for more details. The daily allowance is fixed at 125 euros. 
+**Cost:** Participants have to organize their travel by themselves. The hotel rooms are 84 euros per night including breakfast, lunch buffet is 18 euros.  See the [reimbursement rules](https://europroofnet.github.io/reimbursement-rules/) for more details. The daily allowance is fixed at 125 euros. 
