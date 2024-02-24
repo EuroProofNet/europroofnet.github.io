@@ -16,7 +16,7 @@ Remark: the official dates of the meeting taken into account for reimbursements 
 
 **Venue:** [La Résidence](https://la-residence.com/), 5 rue des Mousses, 88340 Le Val d’Ajol, France
 
-**How to get there?** There is a direct train from Paris to Remiremont train station (East of France) on April 22 at 12:22, arrival at 15:09, and a direct train from Remiremont to Paris on APril 26 at 15:56, arrival at 18:46. A shuttle will be organized from Remiremont to the hotel on April 22 at 15:10, and from the hotel to Remiremont on April 26 at 15:00.
+**How to get there?** There is a direct train from Paris to Remiremont train station (East of France) on April 22 at 12:22, arrival at 15:09, and a direct train from Remiremont to Paris on April 26 at 15:56, arrival at 18:46. A shuttle will be organized from Remiremont to the hotel on April 22 at 15:10, and from the hotel to Remiremont on April 26 at 15:00.
 
 **Program:** Discussing encodings, translations and searching tools, and working alone or in small groups on the development of tools for generating, handling or transforming proof files, taking advantage of the participation of experts on various languages and tools, to make progress on EuroProofNet [objectives](../objectives) and [deliverables](../deliverables).
 
