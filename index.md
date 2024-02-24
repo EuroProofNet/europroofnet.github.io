@@ -39,7 +39,7 @@ corner).
 - 27-28 March 2024: [WG3 meeting/Tutorial on Usable Formal Methods for Security of Systems](../wg3-dresden24) with the participation of industrial users, Dresden, Germany
 - 4-5 April 2024: [WG6 meeting](../wg6-leuven), Leuven, Belgium, in co-location with the HoTT/UF workshop
 - 23-25 April 2024: [inter-WG developers meeting](../inter-wg-24), Le Val d'Ajol, France
-- 28-30 May 2024: WG2 meeting on ATPs for geometry, Nice, France
+- 28-30 May 2024: [WG2 meeting on ATPs for geometry](../wg2-geo24), Nice, France
 - 14-15 June 2024: workshop on proof systems for mathematics and program verification in Lausanne, Switzerland, <!--in colocation with a meeting of the Society for Logic and the Philosophy of Science of Switzerland,--> just after the [30th Workshop on Logic, Language, Information and Computation](https://wollic2024.inf.unibe.ch/)
 - June or July 2024 (TBC): Women in EuroProofNet workshop in Bonn, Germany, around the Workshop in Formalization of Mathematics taking place on June 17-21 during the Hausdorff trimester on formal mathematics
 - 26-29 June 2024: [SAT/SMT/AR school](https://sat-smt-ar-school.gitlab.io/www/2024/) in co-location with [IJCAR'24](https://merz.gitlabpages.inria.fr/2024-ijcar/) in Nancy, France
