@@ -46,6 +46,9 @@ Selected participants will have **2 weeks** to accept the invitation sent from e
 If you do not accept the invitation within 2 weeks, you will not be reimbursed.
 Support will be at a flat rate of approximately €160 per day.
 
+TU Wien has facilities for attendees with children, including a dedicated parent-child room.
+Please e-mail the organisers for more details if you would like to make use of them.
+
 ### Location
 
 [Hörsaal Zemanek](https://tuw-maps.tuwien.ac.at/?q=HHEG01)
