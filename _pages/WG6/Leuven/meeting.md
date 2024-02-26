@@ -49,7 +49,7 @@ entry as a discussion proposal, we will try to organize a few short discussion s
 - Thiago Felicissimo (Inria/LMF/Deducteam): *Generic bidirectional typing for dependent type theories* ([Abstract](programme#felicissimo))
 - Jonas Frey (Carnegie Mellon University): *The shape of contexts* ([Abstract](programme#frey))
 - Ambroise Lafont, Thomas Lamiaux, Benedikt Ahrens (École Polytechnique, ENS Saclay, Delft University of Technology): *Initial semantics for polymorphic type systems* ([Abstract](programme#lafont-lamiaux-ahrens))
-- Roussanka Loukanova (Department of Algebra and Logic, Institute of Mathematics and Informatics, Bulgarian Academy of Sciences): *Relatons between let-Terms of Lambda-Calculus and where-Terms of Type-Theory of Recursion* ([Abstract](programme#loukanova))
+- Roussanka Loukanova (Department of Algebra and Logic, Institute of Mathematics and Informatics, Bulgarian Academy of Sciences): *Relations between let-Terms of Lambda-Calculus and where-Terms of Type-Theory of Recursion* ([Abstract](programme#loukanova))
 - Jacob Neumann (University of Nottingham): *Towards Modal SOGATs* ([Abstract](programme#neumann))
 - Josselin Poiret (Nantes Université and Inria, Galinette Team): *A multiverse type theory* ([Abstract](programme#poiret))
 - Stelios Tsampas (Friedrich-Alexander-Universität Erlangen-Nürnberg): *Logical Relations in Higher-Order Mathematical Operational Semantics* ([Abstract](programme#tsampas))
@@ -61,9 +61,9 @@ entry as a discussion proposal, we will try to organize a few short discussion s
 
 **Deadlines**
 
-- ~~Submission of talk proposals: ~~2 February 2024~~ 9 February 2024 (AoE)~~
+- ~~Submission of talk proposals: 2 February 2024 / 9 February 2024 (AoE)~~
 - ~~Author notification: 16 February 2024~~
-- Funding requests: **23 February 2024 (AoE)**
+- ~~Funding requests: 23 February 2024 (AoE)~~
   - Please register also as EuroProofNet member (see below) by this deadline.
 - Funding notification: 4 March 2024
 - Registration: **8 March 2024 (AoE)**
