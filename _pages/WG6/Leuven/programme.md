@@ -90,13 +90,13 @@ In our work in progress, we aim to first reformulate, then extend, the work by H
 - \[2\] Makoto Hamana, Polymorphic Abstract Syntax via Grothendieck Construction, FoSSaCS 2011, pp. 381-395, <https://link.springer.com/content/pdf/10.1007/978-3-642-19805-2_26.pdf>
 - \[3\] Thomas Lamiaux and Benedikt Ahrens, An Introduction to Different Approaches to Initial Semantics, <https://arxiv.org/abs/2401.09366>
 
-##### Roussanka Loukanova (Department of Algebra and Logic, Institute of Mathematics and Informatics, Bulgarian Academy of Sciences): *Relatons between let-Terms of Lambda-Calculus and where-Terms of Type-Theory of Recursion* {#loukanova}
+##### Roussanka Loukanova (Department of Algebra and Logic, Institute of Mathematics and Informatics, Bulgarian Academy of Sciences): *Relations between let-Terms of Lambda-Calculus and where-Terms of Type-Theory of Recursion* {#loukanova}
 I shall present the extended Type-Theory of Recursion (TTR) introduced in \[3,1,2\].
 I demonstrate the role of the canonical forms of the TTR terms for their algorithmic and denotational semantics by examples of translations of natural language expressions into TTR.
 
 TTR provides type-theoretic algorithmic semantics of natural and formal languages by generalizing the let-expressions of lambda-calculus, e.g., in the formal language LCF, by Dana S. Scott and Gordon Plotkin.  In \[1\], I provide a mathematical proof that Scott let-terms are not algorithmically equivalent with the where-recursion terms of TTR. They remain denotationally equivalent.  I shall present the major points of the theorem.
 
-Dana Scott has encouraged me with a high assessment of \[1\]. But, he also presented me with an important question, which encourages further development of TTA. I shall open the Scott question by giving new lines of initiated and future work on TTR.
+Dana Scott has encouraged me with a high assessment of \[1\]. But, he also presented me with an important question, which encourages further development of TTR. I shall open the Scott question by giving new lines of initiated and future work on TTR.
 
 References
 
