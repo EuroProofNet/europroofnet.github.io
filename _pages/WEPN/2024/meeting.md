@@ -50,28 +50,12 @@ Funding application form: TBA
 
 Note that it is possible to arrive a few days before and leave a few days after the workshop (for instance in case you want to also attend ITP 2023) but a maximum of 2.4 daily allowances will be reimbursed.
 
-Please contact <!--Anja Petković Komel--> and Sandra Alves if you have any problem during the application for funding process, including reluctance to use google forms.
+Please contact Sandra Alves if you have any problem during the application for funding process, including reluctance to use google forms.
 
 ### Program
 
 The event is scheduled as a half-day meeting.
-<!--
-Tentative program schedule (subject to change):
 
-
-| Time        | Session |
-| ----------- | ----------- |
-| 09:00-09:05 | Opening & Welcome |
-| 09:05-10:00 | Invited talk: Małgorzata Biernacka: Reduction Strategies in the Lambda Calculus: A Systematic Approach to Their Specification and Efficient Implementation with Abstract Machines [(slides)](slides/biernacka.pdf)|
-| 10:05-10:30 | Dragana Milovancevic: [Towards Practical and Rigorous Automated Grading in Functional Programming Courses](abstracts/WEPN_2023_paper_Milovancevic.pdf) [(slides)](slides/dragana.pdf)|
-| 10:35-11:00 | Natalia Ślusarz: [Logic of Differentiable Logics: Towards a Uniform Semantics of DL](abstracts/WEPN_2023_paper_Slusarz.pdf)|
-| 11:00-11:30 | _Coffee Break_ |
-| 11:30-11:55 | Chelsea Edmonds: [An Introduction to the Probabilistic Method for Combinatorics in Isabelle/HOL](abstracts/WEPN_2023_paper_Edmonds.pdf) [(slides)](slides/edmonds_wepn.pdf)|
-| 12:00-13:25 | Discussion on gender balance issues |
-| 13:25-13:30 | Group photo |
-| 13:30-15:00 | lunch |
-
--->
 ### Booklet of best practices
 
 Within the cost action European Network For Gender Balance in Informatics ([EUGAIN](https://eugain.eu/)) a [Booklet “From Ph.D. to Professor”](https://eugain.eu/results/deliverables/) of best practices was developed to address some of the gender balance issues, particularly in the stage between PhD and professorship. The booklet is going to be updated during the life of the EUGAIN action.
