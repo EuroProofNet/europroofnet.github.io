@@ -41,9 +41,9 @@ corner).
 - 23-25 April 2024: [inter-WG developers meeting](../inter-wg-24), Le Val d'Ajol, France
 - 28-30 May 2024: [WG2 meeting on ATPs for geometry](../wg2-geo24), Nice, France
 - 14-15 June 2024: workshop on proof systems for mathematics and program verification in Lausanne, Switzerland, <!--in colocation with a meeting of the Society for Logic and the Philosophy of Science of Switzerland,--> just after the [30th Workshop on Logic, Language, Information and Computation](https://wollic2024.inf.unibe.ch/)
-- 6 July 2024: Women in EuroProofNet workshop in Bonn, Germany, just before the [Workshop on Bridging between informal and formal mathematics](https://www.mathematics.uni-bonn.de/him/programs/future/tp_2024_05#wrks2)
 - 26-29 June 2024: [SAT/SMT/AR school](https://sat-smt-ar-school.gitlab.io/www/2024/) in co-location with [IJCAR'24](https://merz.gitlabpages.inria.fr/2024-ijcar/) in Nancy, France
 - 1st July 2024: WG2 meeting/TPTP Tea Party in co-location with [IJCAR'24](https://merz.gitlabpages.inria.fr/2024-ijcar/) in Nancy, France
+- 6 July 2024: Women in EuroProofNet workshop in Bonn, Germany, just before the [Workshop on Bridging between informal and formal mathematics](https://www.mathematics.uni-bonn.de/him/programs/future/tp_2024_05#wrks2)
 - 13-14 September 2024: [WG4 meeting/2nd workshop on the development, maintenance, refactoring and mining of large libraries of proofs](../wg4-tbilisi24) in Tbilisi, Georgia, in co-location with [ITP'24](https://www.viam.science.tsu.ge/itp2024/) (to be confirmed)
 - 15-21 September 2024: school on Proof & Computation at Fischbachau, Germany
 
