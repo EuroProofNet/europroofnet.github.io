@@ -64,9 +64,9 @@ entry as a discussion proposal, we will try to organize a few short discussion s
 - ~~Submission of talk proposals: 2 February 2024 / 9 February 2024 (AoE)~~
 - ~~Author notification: 16 February 2024~~
 - ~~Funding requests: 23 February 2024 (AoE)~~
-  - Please register also as EuroProofNet member (see below) by this deadline.
+  - ~~Please register also as EuroProofNet member (see below) by this deadline.~~
 - Funding notification: 4 March 2024
-- Registration: **8 March 2024 (AoE)**
+- Registration: ~~8 March 2024~~ **15 March 2024 (AoE)**
 - Meeting itself: 4-5 April 2024
 
 **Funding:**
