@@ -8,13 +8,13 @@ breadcrumbs: true
 
 ### at least 2 months before the meeting:
 
-- [] The chair asks the organizer the exact address, the starting and ending dates and times of the meeting, and the daily allowance. The daily allowance should cover the cost of an hotel night + the meals + local transport if hotels are far from the meeting place. It has to be fixed at the right level so that people get reimbursed of what they need to spend but not too much so that we can invite more people. Note that the daily allowance cannot be changed once invitations have been sent.
+- [X] The chair asks the organizer the exact address, the starting and ending dates and times of the meeting, and the daily allowance. The daily allowance should cover the cost of an hotel night + the meals + local transport if hotels are far from the meeting place. It has to be fixed at the right level so that people get reimbursed of what they need to spend but not too much so that we can invite more people. Note that the daily allowance cannot be changed once invitations have been sent.
 
-- [] The organizer gives to the chair the exact address, and the starting and ending dates and times:
+- [x] The organizer gives to the chair the exact address, and the starting and ending dates and times:
 
-    * [] complete address: 
-    * [] starting date and time: 
-    * [] ending date and time:
+    * [x] complete address: Hausdorff Research Institute for Mathematics,  Poppelsdorfer Allee 45, 53115 Bonn, Germany
+    * [x] starting date and time: 06/07/2024 14h00
+    * [x] ending date and time: 06/07/2024 18h00
 
 - [] The organizer checks the prices of accommodations and restaurants around the place of the meeting at the dates of the meeting, and sends to the chair a proposal for the daily allowance.
 
