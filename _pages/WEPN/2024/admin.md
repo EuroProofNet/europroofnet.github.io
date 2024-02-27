@@ -18,7 +18,7 @@ breadcrumbs: true
 
 - [] The organizer checks the prices of accommodations and restaurants around the place of the meeting at the dates of the meeting, and sends to the chair a proposal for the daily allowance.
 
-    * [] daily allowance: 
+    * [] daily allowance: 160 ?
 
 - [] The chair sets up the event on https://e-services.cost.eu/, but not the LOS yet (this will be done later).
 
