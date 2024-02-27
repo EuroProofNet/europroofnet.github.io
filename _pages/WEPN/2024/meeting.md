@@ -33,7 +33,7 @@ Considering the broad background of the expected audience, we encourage authors 
 
 ### Venue
 
-
+Hausdorff Research Institute for Mathematics, Bonn, Germany
 
 ### Registration
 
