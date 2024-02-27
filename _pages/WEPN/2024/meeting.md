@@ -50,7 +50,7 @@ Funding application form: TBA
 
 Note that it is possible to arrive a few days before and leave a few days after the workshop (for instance in case you want to also attend ITP 2023) but a maximum of 2.4 daily allowances will be reimbursed.
 
-Please contact Anja Petković Komel and Sandra Alves if you have any problem during the application for funding process, including reluctance to use google forms.
+Please contact <!--Anja Petković Komel--> and Sandra Alves if you have any problem during the application for funding process, including reluctance to use google forms.
 
 ### Program
 
