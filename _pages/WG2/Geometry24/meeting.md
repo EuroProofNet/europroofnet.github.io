@@ -27,6 +27,11 @@ Remark: the official dates of the meeting taken into account for reimbursements 
 
 *  Integration of the provers in DGS(s), with  natural and geometric renderings.
 
+**Registered participants:**
+
+Alexander Vujic, Anna Petiurenko,Jelena Markovic,Julien Narboux,Nicolas Magaud,Nuno Baeta,Pedro Quaresma,Piotr Błaszczyk,Vesna Marinković,Zoltán Kovács
+
+
 **Application procedure:** The number of participants is limited. If you want to be funded, check the [eligibility rules](https://europroofnet.github.io/eligibility/) and send a mail to [Pedro Quaresma](mailto:pedro@mat.uc.pt) with the following information and documents:
 
   * URL of your homepage
