@@ -59,7 +59,17 @@ Favoritenstraße 9-11
 
 ### Schedule
 
-To be announced.
+To be announced, but at least the following talks will be given:
+- _Machine Learning for Automated Theorem Proving: an ML-side perspective_ (Boris Shminke)
+- _Automated Proof Techniques for Assessing the Security of Chaos-Based Encryption Algorithms_ (Fatih Özkaynak)
+- _Two Learning Operators for Clause Selection Guidance_ (Martin Suda)
+- _Exploration of properties of differentiable logics through mechanisation_ (Natalia Ślusarz)
+- _Learning to Rank in Automatic Theorem Proving_ (Filip Bártek)
+- _Neural Termination Analysis_ (Julian Parsert)
+- _Guiding Enumerative Program Synthesis with Large Language Models_ (Yixuan Li)
+- _Neuro-Symbolic Specification Generation for C programs_ (George Granberry)
+- _Algorithm Selection for Symbolic Integration using Machine Learning_ (Rashid Barket)
+- _Integrating ML into SMT solvers_ (Jelle Piepenbrock)
 
 ### Directions and Getting Around
 
