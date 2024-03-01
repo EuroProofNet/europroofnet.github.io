@@ -22,7 +22,9 @@ Proof assistant kernels are a natural target for program certification: they are
 Abstract TBD
 
 ##### [Maaike Zwart](https://maaikezwart.com/) (IT University of Copenhagen, Denmark): *What monads can and cannot do with a bit of extra time* {#zwart}
-Abstract TBD
+The delay monad provides a simple way to introduce general recursion in type theory. Combining this monad with other monads then allows us to write programs in type theory that use a wide range of computational effects.
+In this talk I will look at two ways of combining the delay monad with monads that can be described by higher inductive types (HITs). The first way is via a distributive law, which describes the interaction between the two effects. But... such distributive laws do not always exist. In fact, I will show that there is no distributive law for combining the delay monad with the finite powerset monad (modelling non-determinism) or the finite distribution monad (modelling probability).
+We therefore also look at a second way, via a free combination with no interaction between the two effects. This still gives a rich language allowing us to reason about non-determinism and probabilistic effects in the presence of recursion.
 
 ### Contributed talks
 
