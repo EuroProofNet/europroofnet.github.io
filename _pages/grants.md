@@ -132,7 +132,8 @@ every meal (lunch and diner).
 
 **Reimbursement rules**
 
-To be reimbursed, a short scientific report signed by the host must be
+To be reimbursed, a short scientific report, following this
+[template](../STSM-report-template.docx), signed by the host must be
 submitted through the e-cost system along with the travel tickets and
 meal receipts, **within 2 weeks after the end of the STSM.** See the
 [reimbursement rules](../reimbursement-rules) for more details.
