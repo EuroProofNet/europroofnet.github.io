@@ -14,31 +14,31 @@ breadcrumbs: true
 | --------------- | ------------------------------------------------------------------------------------------------------------ |
 | 8h50 - 9h00     | Welcome & practical info                                                                                     |
 | 9h00 - 10h15 †  | [HoTT talks](https://hott-uf.github.io/2024/)                                                                |
-| 10h20 - 10h40   | [J. Chen & Kraus](https://europroofnet.github.io/wg6-leuven/programme#chen-kraus)                            |
-| 10h40 - 11h00   | [Frey](https://europroofnet.github.io/wg6-leuven/programme#frey)                                             |
-| 11h00 - 11h30   | 30 min break                                                                                                 |
-| 11h30 - 12h30   | [Szamozvancev](https://europroofnet.github.io/wg6-leuven/programme#szamozvancev)                             |
+| 10h20 - 10h45   | [J. Chen & Kraus](https://europroofnet.github.io/wg6-leuven/programme#chen-kraus)                            |
+| 10h45 - 11h10   | [Frey](https://europroofnet.github.io/wg6-leuven/programme#frey)                                             |
+| 11h10 - 11h40   | 30 min break                                                                                                 |
+| 11h40 - 12h30   | [Szamozvancev](https://europroofnet.github.io/wg6-leuven/programme#szamozvancev)                             |
 | 12h30 - 14h00   | 90 min [lunch](https://anuyts.github.io/2024/venue.html#food) break                                          |
-| 14h00 - 14h20   | [Felicissimo](https://europroofnet.github.io/wg6-leuven/programme#felicissimo)                               |
-| 14h20 - 14h40 † | [Lafont & Lamiaux & Ahrens](https://europroofnet.github.io/wg6-leuven/programme#lafont-lamiaux-ahrens)       |
-| 14h45 - 15h05   | [Tsampas](https://europroofnet.github.io/wg6-leuven/programme#tsampas)                                       |
-| 15h05 - 16h00   | 55 min break                                                                                                 |
-| 16h00 - 17h00   | [Zwart](https://europroofnet.github.io/wg6-leuven/programme#zwart)                                           |
-| 17h00 - 17h20   | 20 min break                                                                                                 |
-| 17h20 - 17h40   | [Ceulemans & Nuyts & Devriese](https://europroofnet.github.io/wg6-leuven/programme#ceulemans-nuyts-devriese) |
-| 17h40 - 18h00   | [Neumann](https://europroofnet.github.io/wg6-leuven/programme#neumann)                                       |
+| 14h00 - 14h25   | [Felicissimo](https://europroofnet.github.io/wg6-leuven/programme#felicissimo)                               |
+| 14h25 - 14h50 † | [Lafont & Lamiaux & Ahrens](https://europroofnet.github.io/wg6-leuven/programme#lafont-lamiaux-ahrens)       |
+| 14h55 - 15h20   | [Tsampas](https://europroofnet.github.io/wg6-leuven/programme#tsampas)                                       |
+| 15h20 - 16h00   | 40 min break                                                                                                 |
+| 16h00 - 16h50   | [Zwart](https://europroofnet.github.io/wg6-leuven/programme#zwart)                                           |
+| 16h50 - 17h10   | 20 min break                                                                                                 |
+| 17h10 - 17h35   | [Ceulemans & Nuyts & Devriese](https://europroofnet.github.io/wg6-leuven/programme#ceulemans-nuyts-devriese) |
+| 17h35 - 18h00   | [Neumann](https://europroofnet.github.io/wg6-leuven/programme#neumann)                                       |
 
 |                 | Friday Apr 5                                                                                               |
 | --------------- | ---------------------------------------------------------------------------------------------------------- |
-| 9h00 - 10h00    | [L.-T. Chen](https://europroofnet.github.io/wg6-leuven/programme#ltchen)                                   |
-| 10h00 - 11h00   | 60 min break                                                                                               |
-| 11h00 - 11h20   | [Loukanova](https://europroofnet.github.io/wg6-leuven/programme#loukanova)                                 |
-| 11h20 - 11h40 † | [Blazy & Herbelin & Letouzey](https://europroofnet.github.io/wg6-leuven/programme#blazy-herbelin-letouzey) |
-| 11h45 - 12h05   | [Poiret](https://europroofnet.github.io/wg6-leuven/programme#poiret)                                       |
-| 12h05 - 12h25   | [Winterhalter](https://europroofnet.github.io/wg6-leuven/programme#winterhalter)                           |
-| 12h25 - 14h00   | 95 min [lunch](https://anuyts.github.io/2024/venue.html#food) break                                        |
-| 14h00 - 15h00   | [Lennon-Bertrand](https://europroofnet.github.io/wg6-leuven/programme#lennonbertrand)                      |
-| 15h00 - dinner  | Collaborative time                                                                                         |
+| 9h00 - 9h50    | [L.-T. Chen](https://europroofnet.github.io/wg6-leuven/programme#ltchen)                                   |
+| 9h50 - 10h45   | 55 min break                                                                                               |
+| 10h45 - 11h10   | [Loukanova](https://europroofnet.github.io/wg6-leuven/programme#loukanova)                                 |
+| 11h10 - 11h35 † | [Blazy & Herbelin & Letouzey](https://europroofnet.github.io/wg6-leuven/programme#blazy-herbelin-letouzey) |
+| 11h40 - 12h05   | [Poiret](https://europroofnet.github.io/wg6-leuven/programme#poiret)                                       |
+| 12h05 - 12h30   | [Winterhalter](https://europroofnet.github.io/wg6-leuven/programme#winterhalter)                           |
+| 12h30 - 14h00   | 90 min [lunch](https://anuyts.github.io/2024/venue.html#food) break                                        |
+| 14h00 - 14h50   | [Lennon-Bertrand](https://europroofnet.github.io/wg6-leuven/programme#lennonbertrand)                      |
+| 14h50 - dinner  | Collaborative time                                                                                         |
 
 ### Invited talks
 
