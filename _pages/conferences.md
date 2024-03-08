@@ -37,6 +37,8 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 
 - 6 May - 16 August 2024: [Trimester on Prospects of formal mathematics](https://www.him.uni-bonn.de/programs/future-programs/future-trimester-programs/prospects-of-formal-mathematics/description/), Hausdorff research institute for mathematics, Bonn, Germany
 
+- 22-23 April 2024: [Workshop on Theory and Applications of Craig Interpolation and Beth Definability](https://cibd.bitbucket.io), Amsterdam, Netherlands
+
 - 6-11 April 2024: [European joint conferences on theory and practice of software](https://etaps.org/) (ETAPS'24), Luxembourg
 
 - 30 January - 2 February 2024: [Journées Francophones des Langages Applicatifs](https://jfla.inria.fr/jfla2024.html) (JFLA'24), Saint-Jacut-de-la-Mer, France
