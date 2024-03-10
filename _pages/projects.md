@@ -19,6 +19,8 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 
 - 2022-2025: [ICSPA](https://www.clearsy.com/recherche-et-developpement/icspa/), Interoperable and Confident Set-based Proof Assistants
 
+- 2020-2025: [TydiForm](https://tydiform.fmf.uni-lj.si/): Type Theory for Data-Intensive Formalization
+
 - 2017-2022: [Alexandria](https://www.cl.cam.ac.uk/~lp15/Grants/Alexandria/), Large-Scale Formal Proof for the Working Mathematician
 
 - 2017-2022: [SMART](https://project-smart.uibk.ac.at/), Strong
