@@ -80,13 +80,13 @@ The grant amounts below are initial estimations and not necessarily the final am
   Grant: 1933 EUR  
   Dates: 2024-03-10 to 2024-03-17
 
-* **Checking proofs from QBF solvers in Dedukti and Lambdapi** [application](/_pages/stsm/seidl-app.pdf)   
+* **Checking proofs from QBF solvers in Dedukti and Lambdapi** [application](/_pages/stsm/seidl-app.pdf)  [report](/_pages/stsm/seidl-rep.pdf)   
   Visitor: Martina Seidl  
   Host: Catherine Dubois    
   Grant: 1250 EUR  
   Dates: 2024-02-19 to 2024-02-23
 
-* **Expansion of the Goéland Theorem Prover and Interoperability with the LISA Proof Assistant** [application](/_pages/stsm/cailler-app.pdf)   
+* **Expansion of the Goéland Theorem Prover and Interoperability with the LISA Proof Assistant** [application](/_pages/stsm/cailler-app.pdf)  [report](/_pages/stsm/cailler-rep.pdf)   
   Visitor: Julie Cailler     
   Host: Viktor Kuncak    
   Grant: 3434 EUR  
