@@ -1,7 +1,7 @@
 ---
-title: "Administration page for the EPN meeting in Bern in 2024"
+title: "Administration page for the EPN meeting in Lausanne in 2024"
 layout: single
-permalink: /bern24-admin/
+permalink: /lausanne24-admin/
 author_profile: true
 breadcrumbs: true
 ---
