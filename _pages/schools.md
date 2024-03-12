@@ -7,12 +7,12 @@ author_profile: true
 
 To contribute to the web site, please open an [issue](https://github.com/EuroProofNet/europroofnet.github.io/issues), create a [pull request](https://github.com/EuroProofNet/europroofnet.github.io) or send a mail to the [science communication coordinators](../contact).
 
-## Schools (co-)organized by EuroProofNet
-
 - 15-21 September 2024: school on [Proof & Computation](http://www.mathematik.uni-muenchen.de/~schwicht/pc24.php), Fischbachau, Germany
 
 - 25 August - 1st September 2024: [14th International School on Rewriting](http://cl-informatik.uibk.ac.at/isr24/) (ISR'24), Obergurgl, Austria
- 
+
+- 26-29 June 2024: [SAT/SMT/AR school](https://sat-smt-ar-school.gitlab.io/www/2024/), Nancy, France, in co-location with [IJCAR'24](https://merz.gitlabpages.inria.fr/2024-ijcar/)
+
 - 13-17 May 2024: [School on Formal Mathematics](https://www.him.uni-bonn.de/programs/future-programs/future-trimester-programs/prospects-of-formal-mathematics/school-on-formal-mathematics/), Bonn, Germany
 
 - 28 August - 1st September 2023: [School on Verification Technology, Systems & Applications](https://resources.mpi-inf.mpg.de/departments/rg1/conferences/vtsa23/), Nancy, France
