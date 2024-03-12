@@ -42,17 +42,22 @@ breadcrumbs: true
 
 ### Invited talks
 
-##### [Liang-Ting Chen](https://l-tchen.github.io/) (Institute of Information Science, Academia Sinica, Taiwan): *From Datatype Genericity To Language Genericity* {#ltchen}
+##### [Liang-Ting Chen](https://l-tchen.github.io/) (Institute of Information Science, Academia Sinica, Taiwan): *From Datatype Genericity to Language Genericity* {#ltchen}
 
-Abstract TBD
+Traditional language formalisation frameworks prioritise formalising and analysing ‘well-typed syntax’,
+which includes generic syntax signatures, terms, operations rooted in well-typed syntax, and associated
+substitution proofs. However, these frameworks only cover a small fraction of language design and implementation,
+leaving many concepts untouched. This talk explores insights from datatype-generic programming to illustrate the
+path towards language-generic programming. Specifically, we will showcase the isomorphism between extrinsic
+and intrinsic typing using McBride’s ornaments, generic bidirectional type synthesis, and some ongoing work.
 
 ##### [Meven Lennon-Bertrand](https://www.meven.ac/) (University of Cambrige, UK): *Towards a certified type theoretic kernel* {#lennonbertrand}
 
 Proof assistant kernels are a natural target for program certification: they are small, critical, and well-specified. Still, despite the maturity of type theory and software verification, we are yet to see a certified Agda, Coq or Lean. In this talk, I will give an overview of the current state of the landscape around this goal, present two complementary lines of work advancing towards it, and try and explain why it is still evading us. The first line, MetaCoq, is a large scale endeavour, broadly aiming at manipulating Coq terms and derivations inside Coq, in particular developing a certified type-checker for a very significant fragment of Coq. The second is concerned with formalised logical relations, the standard tool of the trade to deal with normalisation proofs and extensionality equations.
 
-##### [Dmitrij Szamozvancev](https://www.cl.cam.ac.uk/~ds709/) (University of Cambrige, UK): *TBD* {#szamozvancev}
+##### [Dmitrij Szamozvancev](https://www.cl.cam.ac.uk/~ds709/) (University of Cambrige, UK): *Functorial models of scope-safe syntax* {#szamozvancev}
 
-Abstract TBD
+Computer implementation and formalisation of syntaxes with variable binding regularly encounters difficulties with the representation of variables, definition of substitution, and verification of standard meta-syntactic properties. Among the variety of approaches developed over the past 40 years, the functorial approach – encoding syntax as a functor on scopes – proved to be robust and efficient, possessing strong categorical properties that result in clean and well-behaved formalisations. This talk will give an overview of the monadic and presheaf approaches, detailing ongoing work to adapt the latter to practical dependently-typed settings.
 
 ##### [Maaike Zwart](https://maaikezwart.com/) (IT University of Copenhagen, Denmark): *What monads can and cannot do with a bit of extra time* {#zwart}
 
