@@ -36,9 +36,9 @@ entry as a discussion proposal, we will try to organize a few short discussion s
 
 **Invited speakers**
 
-- [Liang-Ting Chen](https://l-tchen.github.io/) (Institute of Information Science, Academia Sinica, Taiwan): *From Datatype Genericity To Language Genericity* ([Abstract](programme#ltchen))
+- [Liang-Ting Chen](https://l-tchen.github.io/) (Institute of Information Science, Academia Sinica, Taiwan): *From Datatype Genericity to Language Genericity* ([Abstract](programme#ltchen))
 - [Meven Lennon-Bertrand](https://www.meven.ac/) (University of Cambrige, UK): *Towards a certified type theoretic kernel* ([Abstract](programme#lennonbertrand))
-- [Dmitrij Szamozvancev](https://www.cl.cam.ac.uk/~ds709/) (University of Cambrige, UK): *TBD* ([Abstract](programme#szamozvancev))
+- [Dmitrij Szamozvancev](https://www.cl.cam.ac.uk/~ds709/) (University of Cambrige, UK): *Functorial models of scope-safe syntax* ([Abstract](programme#szamozvancev))
 - [Maaike Zwart](https://maaikezwart.com/) (IT University of Copenhagen, Denmark): *What monads can and cannot do with a bit of extra time* ([Abstract](programme#zwart))
 
 **Contributed talks**
