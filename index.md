@@ -45,7 +45,7 @@ corner).
 - 1st July 2024: WG2 meeting/TPTP Tea Party, Nancy, France, in co-location with [IJCAR'24](https://merz.gitlabpages.inria.fr/2024-ijcar/)
 - 6 July 2024: [Women in EuroProofNet](../women-epn-2024), Bonn, Germany, just before the [Workshop on Bridging between informal and formal mathematics](https://www.mathematics.uni-bonn.de/him/programs/future/tp_2024_05#wrks2)
 - 13-14 September 2024: [WG4 meeting/2nd workshop on the development, maintenance, refactoring and mining of large libraries of proofs](../wg4-tbilisi24) in Tbilisi, Georgia, in co-location with [ITP'24](https://www.viam.science.tsu.ge/itp2024/)
-- 15-21 September 2024: school on Proof & Computation, Fischbachau, Germany
+- 15-21 September 2024: school on [Proof & Computation](http://www.mathematik.uni-muenchen.de/~schwicht/pc24.php), Fischbachau, Germany
 
 [Past events](../events)
 
