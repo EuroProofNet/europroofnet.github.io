@@ -33,25 +33,24 @@ Remark: the official dates of the meeting taken into account for reimbursements 
   * work plan: describe what you would like to do
   * special diet if any
 
-<!--
 **Participants (13):**
-
-- [Rishikesh Vaishnav](https://lmf.cnrs.fr/Perso/RishVaishnav)
-
-- Bruno Barras, [Thiago Felicissimo](http://www.lsv.fr/~felicissimo/) and [Théo Winterhalter](https://theowinterhalter.github.io/)
-
-- [Thomas Traversié](https://thomastraversie.github.io/)
-
 - [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/)
-
-- Abdelghani Alidra
-
-- Gabriel Hondet worked [Personoj](https://github.com/Deducteam/personoj)
-
+- Claude Stolze
+- Pascal Fontaine
+- Stephan Schulz
 - Alessio Coltellacci
+- Abdelghani Alidra
+- [Rishikesh Vaishnav](https://lmf.cnrs.fr/Perso/RishVaishnav)
+- Nicolas Margulies
+- Yoan Géran
+- Gabriel Hondet
+- Michael Färber
 
+<!--
+- [Thiago Felicissimo](http://www.lsv.fr/~felicissimo/)
+- [Théo Winterhalter](https://theowinterhalter.github.io/)
+- [Thomas Traversié](https://thomastraversie.github.io/)
 - [Claudio Sacerdoti Coen](http://www.cs.unibo.it/~sacerdot/)
-
 - [Bruno Barras](http://www.lsv.fr/~barras/)
 -->
 
