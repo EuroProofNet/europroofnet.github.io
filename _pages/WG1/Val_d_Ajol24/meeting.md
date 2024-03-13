@@ -33,11 +33,11 @@ Remark: the official dates of the meeting taken into account for reimbursements 
   * work plan: describe what you would like to do
   * special diet if any
 
-**Participants (13):**
+**Participants (11):**
 - [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/)
 - Claude Stolze
-- Pascal Fontaine
-- Stephan Schulz
+- [Pascal Fontaine](https://people.montefiore.uliege.be/pfontain/)
+- [Stephan Schulz](http://wwwlehre.dhbw-stuttgart.de/~sschulz/DHBW_Stephan_Schulz/Stephan_Schulz.html)
 - Alessio Coltellacci
 - Abdelghani Alidra
 - [Rishikesh Vaishnav](https://lmf.cnrs.fr/Perso/RishVaishnav)
