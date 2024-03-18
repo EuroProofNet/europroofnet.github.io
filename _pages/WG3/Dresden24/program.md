@@ -19,7 +19,7 @@ The event is scheduled as a two-day meeting. Times are CET.
 * 9:15-11:15 **Hands-on tutorial**
   - 9:15-11:15: *ProVerif*. Vincent Cheval (University of Oxford, UK) (Assistants: Muhammad Usama Sardar and Georgio Nicolas)
 * 11:15-11:45 **Break**
-* 11:45-12:55 **Talks**
+* 11:45-12:45 **Talks**
   - 11:45-12:15: *Why formal methods remain inaccessible for most cryptographers*. Georgio Nicolas (KU Leuven, Belgium)
   - 12:15-12:45: *Verification of cryptographic protocols*. ilias Cherkaoui (Walton Institute, Ireland)
 * 12:45-14:00 **Lunch break** 
