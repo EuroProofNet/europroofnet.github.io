@@ -25,10 +25,10 @@ The event is scheduled as a two-day meeting. Times are CET.
 * 12:45-14:00 **Lunch break** 
 * 14:00-15:30 **Talks** 
   - 14:00-15:00: *Platform-level Formal Verification for Public Sector Trustworthy Computing: Considerations and Challenges*. Andreas Berg (gematik GmbH, Germany)
-  - 15:00-15:30: *Towards Modular Trusted Execution Environments*. Carsten Weinhold (Barkhausen Institut, Germany)
+  - 15:00-15:30: *CoCo KBS*. Samuel	Ortiz	(Rivos Inc, France)
 * 15:30-16:00 **Break** 
 * 16:00-18:15 **Talks & Conclusions of the day**
-  - 16:00-16:30: *The RISC-V confidential computing attestation framework*. Samuel	Ortiz	(Rivos Inc, France)
+  - 16:00-16:30: *Towards Modular Trusted Execution Environments*. Carsten Weinhold (Barkhausen Institut, Germany)
   - 16:30-16:50: *An ephemeral virtual TPM device to allow Remote Attestation for Confidential Virtual Machines*. Angelo Ruocco (IBM Research, Switzerland)
   - 16:50-17:20: *Attestation for Mobile Network*. Ghada Arfaoui (Orange, France)
   - 17:20-17:50: *Attesting the Verticals*. Ian Oliver (University of Jyväskylä, Finland)
