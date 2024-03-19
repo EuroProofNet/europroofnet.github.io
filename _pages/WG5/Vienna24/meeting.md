@@ -55,27 +55,28 @@ Favoritenstraße 9-11
 
 ### Schedule
 #### 25th March
-- 1000&ndash;1100 Boris Shminke: *Machine Learning for Automated Theorem Proving: an ML-side perspective*
+- 1000&ndash;1100 Boris Shminke: *Machine Learning for Automated Theorem Proving: an ML-side perspective* [abstracts](abstracts/Shminke.pdf)
 - 1100&ndash;1130 break
-- 1130&ndash;1200 Fatih Özkaynak: *Automated Proof Techniques for Assessing the Security of Chaos-Based Encryption Algorithms*
-- 1200&ndash;1230 Rashid Barket: *Algorithm Selection for Symbolic Integration using Machine Learning*
+- 1130&ndash;1200 Fatih Özkaynak: *Automated Proof Techniques for Assessing the Security of Chaos-Based Encryption Algorithms* [abstract](abstracts/Özkaynak.pdf)
+- 1200&ndash;1230 Rashid Barket: *Algorithm Selection for Symbolic Integration using Machine Learning* [abstract](abstracts/Barket.pdf)
 - 1230&ndash;1400 lunch (not provided)
-- 1400&ndash;1430 Natalia Ślusarz: *Exploration of properties of differentiable logics through mechanisation*
-- 1430&ndash;1500 Filip Bártek: *Learning to Rank in Automatic Theorem Proving*
+- 1400&ndash;1430 Natalia Ślusarz: *Exploration of properties of differentiable logics through mechanisation* [abstract](abstracts/Ślusarz.pdf)
+- 1430&ndash;1500 Filip Bártek: *Learning to Rank in Automatic Theorem Proving* [abstract](abstracts/Bártek.pdf)
 - 1500&ndash;1530 break
 - 1530 WG5 meeting
 
 #### 26th March
-- 1000&ndash;1030 Yixuan Li: *Guiding Enumerative Program Synthesis with Large Language Models*
-- 1030&ndash;1100 George Granberry: *Neuro-Symbolic Specification Generation for C programs*
+- 0930&ndash;1000 Alessandro Bruni: *Yet another formal theory of probabilities (with an application to random sampling)* [abstract](abstracts/Bruni.pdf)
+- 1000&ndash;1030 Yixuan Li: *Guiding Enumerative Program Synthesis with Large Language Models* [abstract](abstracts/Li.pdf)
+- 1030&ndash;1100 George Granberry: *Neuro-Symbolic Specification Generation for C programs* [abstract](abstracts/Granberry.pdf)
 - 1100&ndash;1130 break
 - 1130&ndash;1200 Jelle Piepenbrock: *Integrating ML into SMT solvers*
-- 1200&ndash;1230 Julian Parsert: *Neural Termination Analysis*
+- 1200&ndash;1230 Julian Parsert: *Neural Termination Analysis* [abstract](abstracts/Parsert.pdf)
 - 1230&ndash;1400 lunch (not provided)
 - 1400&ndash;1410 Clemens Eisenhofer: *CheeZ3: using LLMs to predict SMT models*
 - 1410&ndash;1430 Robin Coutelier: *A practical application of machine learning in Vampire*
 - 1430&ndash;1500 coffee
-- 1500&ndash;1530 Martin Suda: *Two Learning Operators for Clause Selection Guidance*
+- 1500&ndash;1530 Martin Suda: *Two Learning Operators for Clause Selection Guidance* [abstract](abstracts/Suda.pdf)
 
 ### Directions and Getting Around
 From the airport, take a train to the city.
