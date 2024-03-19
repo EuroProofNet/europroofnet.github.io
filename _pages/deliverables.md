@@ -27,7 +27,7 @@ author_profile: true
     
 **March 2024:**
 
-- D8. Detailed technical report on the evaluation of techniques for learning proof search guidance and premise selection in automated theorem provers.
+- D8. Detailed technical report on the evaluation of techniques for learning proof search guidance and premise selection in automated theorem provers. [[link]](https://arxiv.org/abs/2403.04017)
 
 **January 2025:**
 
