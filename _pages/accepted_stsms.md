@@ -30,7 +30,7 @@ The grant amounts below are initial estimations and not necessarily the final am
   Dates: 2024-06-21 to 2024-06-29
 
 * **Coinduction in Cubical Agda** [application](/_pages/stsm/damato-app.pdf)   
-  Visitor: Stefania Damato 
+  Visitor: Stefania Damato   
   Host: Anders Mortberg    
   Grant: 2181 EUR  
   Dates: 2024-06-19 to 2024-06-27
