@@ -13,10 +13,39 @@ author_profile: true
   Dates: 2023-03-01 to 2023-04-01
 -->
 
-The grant amounts below are initial estimations and not necessarily the final amounts
+The grant amounts below are initial estimations and not necessarily the final amounts.
 
 ## 9th call (17 March  2024)
 
+* **Auditable Constraint Programming: Integrating Proof Logging with Fuzzing and Explanations** [application](/_pages/stsm/mcilree-app.pdf)   
+  Visitor: Matthew McIlree  
+  Host: Tias Guns    
+  Grant: 2200 EUR  
+  Dates: 2024-07-07 to 2024-07-15
+
+* **Second-Order Generalised Algebraic Theories for Modal and Substructural Type Theories** [application](/_pages/stsm/neumann-app.pdf)   
+  Visitor: Jacob Neumann  
+  Host: Ambrus Kaposi    
+  Grant: 1777 EUR  
+  Dates: 2024-06-21 to 2024-06-29
+
+* **Coinduction in Cubical Agda** [application](/_pages/stsm/damato-app.pdf)   
+  Visitor: Stefania Damato 
+  Host: Anders Mortberg    
+  Grant: 2181 EUR  
+  Dates: 2024-06-19 to 2024-06-27
+
+* **Higher-order effectful programming languages and quantitative type system** [application](/_pages/stsm/alves-app.pdf)   
+  Visitor: Sandra Alves  
+  Host: Delia Kesner    
+  Grant: 1516 EUR  
+  Dates: 2024-06-16 to 2024-06-22
+
+* **Evaluation and development of the Alk platform for enhancing students’ algorithm design and analysis skills** [application](/_pages/stsm/andrei-app.pdf)   
+  Visitor: Oana Andrei  
+  Host: Dorel Lucanu    
+  Grant: 2131 EUR  
+  Dates: 2024-05-13 to 2024-05-21
 
 ## 8th call (7 January  2024)
 
