@@ -13,7 +13,7 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 
 - 1-6 September 2024: [Artificial Intelligence and Theorem Proving](http://aitp-conference.org/2024), Aussois, France
 
-- 5-9 August 2024: [17th Conference on Intelligent Computer Mathematics](https://cicm-conference.org/2024/) (CICM'24), Montréal, Canda
+- 5-9 August 2024: [17th Conference on Intelligent Computer Mathematics](https://cicm-conference.org/2024/) (CICM'24), Montréal, Canada
 
 - 29 July - 2 August 2024: [Workshop on Libraries of Digital Math](https://www.him.uni-bonn.de/programs/future-programs/future-trimester-programs/prospects-of-formal-mathematics/libraries-of-digital-math/), Bonn, Germany
 
