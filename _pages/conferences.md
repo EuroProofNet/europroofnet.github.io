@@ -31,7 +31,7 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 
 - 17-21 June 2024: [Workshop on Formalization of Mathematics](https://www.him.uni-bonn.de/programs/future-programs/future-trimester-programs/prospects-of-formal-mathematics/formalization-of-mathematics/), Bonn, Germany
 
-- 10-14 June 2024: International Conference on Types for Proofs and Programs, Copenhagen, Denmark
+- 10-14 June 2024: [International Conference on Types for Proofs and Programs](https://types2024.itu.dk/Index.html), Copenhagen, Denmark
 
 - 10-13 June 2024: [30th Workshop on Logic, Language, Information and Computation](https://wollic2024.inf.unibe.ch/), Bern, Switzerland
 
