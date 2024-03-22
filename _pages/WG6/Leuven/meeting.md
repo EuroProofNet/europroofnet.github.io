@@ -12,12 +12,9 @@ breadcrumbs: true
 
 **Venue:** Dept. of Computer Science <br/>
 Celestijnenlaan 200A <br/>
-3001 Heverlee (Leuven)
-
-**Talks:** Auditorium Erik Duval, 200A.00.225
-
-**Collaborative room:** Seminar room 200A.00.144 
-
+3001 Heverlee (Leuven) <br/>
+**Talks:** Auditorium Erik Duval, 200A.00.225 <br/>
+**Collaborative room:** Seminar room 200A.00.144 <br/>
 **Livestream:** <https://livestream.kuleuven.be/?pin=829052> <br/>
 Note: If it freezes or does not load, reloading can help.
 
