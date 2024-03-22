@@ -10,15 +10,16 @@ breadcrumbs: true
 
 **Place:** Leuven, Belgium
 
-**Venue:** Dept. of Computer Science
-
-Celestijnenlaan 200A
-
+**Venue:** Dept. of Computer Science <br/>
+Celestijnenlaan 200A <br/>
 3001 Heverlee (Leuven)
 
 **Talks:** Auditorium Erik Duval, 200A.00.225
 
 **Collaborative room:** Seminar room 200A.00.144 
+
+**Livestream:** <https://livestream.kuleuven.be/?pin=829052> <br/>
+Note: If it freezes or does not load, reloading can help.
 
 **[Local information](https://anuyts.github.io/2024/venue.html)** - ⚠️⚠️ Please beware of accommodation-related scam emails targetting this specific event. ⚠️⚠️
 
@@ -33,6 +34,8 @@ interested in type theory. Talks can expose published work or work in
 progress. Submissions of open questions and topics to be discussed
 collectively are also welcome: please use the same form and clearly mark your
 entry as a discussion proposal, we will try to organize a few short discussion sessions.
+
+**Schedule and abstracts:** Please see [here](programme)
 
 **Invited speakers**
 
@@ -54,10 +57,6 @@ entry as a discussion proposal, we will try to organize a few short discussion s
 - Josselin Poiret (Nantes Université and Inria, Galinette Team): *A multiverse type theory* ([Abstract](programme#poiret))
 - Stelios Tsampas (Friedrich-Alexander-Universität Erlangen-Nürnberg): *Logical Relations in Higher-Order Mathematical Operational Semantics* ([Abstract](programme#tsampas))
 - Théo Winterhalter (Inria Saclay): *Dependent ghosts enjoy reflection for free* ([Abstract](programme#winterhalter))
-
-**Schedule and abstracts:** Please see [here](programme)
-
-**Participants:** Please see [here](participants)
 
 **Deadlines**
 
