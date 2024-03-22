@@ -13,6 +13,7 @@ author_profile: true
 
 **2024**
 
+- 17 March 2024: [submission deadline for STSM/ITCG proposals between April and September 2024](../grants). We especially welcome proposals from the working group 4, [inclusive-target countries](../eligibility) and [women](../gender-balance)
 - 23-25 January 2024: [Meeting on Dedukti and proof systems interoperabilty](../wg1-gruissan24), Gruissan, France
 - 7 January 2024: [submission deadline for STSM/ITCG proposals between February and August 2024](../grants). We especially welcome proposals from the working groups 4 and 3, and from [inclusive-target countries](../eligibility) and [women](../gender-balance)
 
