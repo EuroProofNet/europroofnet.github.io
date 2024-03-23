@@ -25,7 +25,7 @@ The event is scheduled as a two-day meeting. Times are CET.
 * 12:45-14:00 **Lunch break** 
 * 14:00-15:30 **Talks** 
   - 14:00-15:00: *Platform-level Formal Verification for Public Sector Trustworthy Computing: Considerations and Challenges*. Andreas Berg (gematik GmbH, Germany)
-  - 15:00-15:30: *CoCo KBS*. Samuel	Ortiz	(Rivos Inc, France)
+  - 15:00-15:30: *Building a vendor-agnostic attestation service: Confidential Containers Trustee*. Samuel	Ortiz	(Rivos Inc, France)
 * 15:30-16:00 **Break** 
 * 16:00-18:15 **Talks & Conclusions of the day**
   - 16:00-16:30: *Towards Modular Trusted Execution Environments*. Carsten Weinhold (Barkhausen Institut, Germany)
@@ -40,7 +40,7 @@ The event is scheduled as a two-day meeting. Times are CET.
   - 9:00-9:30: *Some industry-relevant use cases*. Thomas Fossati (Linaro, Switzerland)
   - 9:30-10:00: *TLS and TEEs*. Arto Niemi (Huawei, Finland)
   - 10:00-10:30: *DICE Protection Environment*. Ionut Mihalcea (Arm, UK)
-  - 10:30-11:00: *Attested CSR*. Hannes Tschofenig (Siemens, Austria)
+  - 10:30-11:00: *Attested CSR*. Hannes Tschofenig (University of Applied Sciences Bonn-Rhein-Sieg, Siemens/Germany)
 * 11:00-11:30 **Break**
 * 11:30-12:30 **Talks**
   - 11:30-12:00: *Hardening NVIDIA’s Confidential Computing: A Formally Verified Implementation of the SPDM Device Attestation Protocol*. Tobias Reiher (AdaCore, Germany)
