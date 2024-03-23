@@ -28,7 +28,7 @@ Room: [APB E023](https://navigator.tu-dresden.de/raum/542100.2310)
 **Confirmed speakers:** The event will have talks from young researchers as well as academic and industrial experts, including: 
 
   * **Confidential Computing/Attestation** 
-    * Hannes Tschofenig (Siemens, Austria)
+    * Hannes Tschofenig (University of Applied Sciences Bonn-Rhein-Sieg, Siemens/Germany)
     * Ionut Mihalcea (Arm, UK)
     * Thomas Fossati (Linaro, Switzerland)
     * Arto Niemi (Huawei, Finland)
