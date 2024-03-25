@@ -9,6 +9,8 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 
 - 25-29 November 2024: [21st International Colloquium on Theoretical Aspects of Computing](https://ictac2024.cs.ait.ac.th/) (ICTAC'24), Bangkok, Thailand
 
+- 18-20 September 2024: [19th Logical and Semantic Frameworks with Applications](https://sites.google.com/ufg.br/lsfa2024) (LSFA'24), Goiânia, Brazil
+
 - 9-14 September 2024: [15th conference on Interactive Theorem Proving](https://itp-conference.github.io/) (ITP'24), Tbilisi, Georgia
 
 - 1-6 September 2024: [Artificial Intelligence and Theorem Proving](http://aitp-conference.org/2024), Aussois, France
