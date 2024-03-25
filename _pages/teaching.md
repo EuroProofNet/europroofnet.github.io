@@ -19,6 +19,7 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 
 ## Conferences
 
+- 2 July 2024: [13th International Workshop on Theorem proving components for Educational software](https://www.uc.pt/en/congressos/thedu/ThEdu24) (ThEdu'24), Satellite event at IJCAR 2024, Nancy, France 
 - 5 July 2023: [Theorem-proving Components for Educational Software](https://www.uc.pt/en/congressos/thedu/ThEdu23/) (ThEdu23) workshop at the, 29th international Conference on Automated Deduction (CADE 2023), July 1-4, 2023, Rome, Italy.
 - 6 March 2023: [Formal Methods Teaching Workshop](https://fmtea.github.io) (FMTea'23), Lübeck, Germany
 - 11-12 August 2022: [Theorem-proving Components for Educational Software](https://www.uc.pt/en/congressos/thedu/ThEdu22) (ThEdu'22), Haifa, Israel
