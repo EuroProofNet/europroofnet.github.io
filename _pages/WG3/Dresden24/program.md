@@ -52,7 +52,7 @@ The event is scheduled as a two-day meeting. Times are CET.
   - 15:15-15:35: *Interactive theorem proving for protocol verification*. Horatiu Cheval (University of Bucharest, Romania)
 * 15:35-16:00 **Break**
 * 16:00-17:15 **Talks**
-  - 16:00-16:20: *Towards Logical Specification and Checking of Malicious Capabilities*. Dorel Lucanu and Andrei Mogage (Alexandru Ioan Cuza University, Romania)
+  - 16:00-16:20: *Towards Logical Specification and Checking of Malicious Capabilities*. Andrei Mogage (Alexandru Ioan Cuza University, Romania)
   - 16:20-16:40: *Formal correctness-proofs of refactorings*. Volker Stolz (Høgskulen på Vestlandet, Norway)
   - 16:40-16:50: *Towards formally-verified remote attestation in SSProve*. Jannik Mähn (Barkhausen Institut, Germany)
   - 16:50-17:15: *Wrapping-up: Setting the agenda for the year*. 
