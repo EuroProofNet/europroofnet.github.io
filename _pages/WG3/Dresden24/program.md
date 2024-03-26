@@ -32,8 +32,7 @@ The event is scheduled as a two-day meeting. Times are CET.
   - 16:30-16:50: *An ephemeral virtual TPM device to allow Remote Attestation for Confidential Virtual Machines*. Angelo Ruocco (IBM Research, Switzerland)
   - 16:50-17:20: *Attestation for Mobile Network*. Ghada Arfaoui (Orange, France)
   - 17:20-17:50: *Attesting the Verticals*. Ian Oliver (University of Jyväskylä, Finland)
-  - 17:50-18:00: *Role of Formal Verification in Next-Generation Mobile Networks*. Ayşe Sayin (Istanbul Technical University, Turkey)
-  - 18:00-18:15: *Wrapping-up: Conclusions of the day & plan*. 
+  - 17:50-18:15: *Wrapping-up: Discussion, conclusions of the day & plan*. 
 
 **Day 2. March 28, 2024**
 * 9:00-11:00 **Talks** 
