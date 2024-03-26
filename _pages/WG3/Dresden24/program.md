@@ -49,7 +49,7 @@ The event is scheduled as a two-day meeting. Times are CET.
 * 13:30-15:35 **Talks** 
   - 13:30-14:00: *Enarx attestation validation with Steward*. Richard Zak (Enarx maintainer, USA)
   - 14:00-14:30: *Klave - Trustless Confidential Computing platform*. Rui Almeida (Klave, UK)
-  - 14:30-15:15: *Model checking for security*. Lilia Georgieva (Microsoft, UK)
+  - 14:30-15:15: *Model checking for security*. Lilia Georgieva (Heriot Watt University, UK)
   - 15:15-15:35: *Interactive theorem proving for protocol verification*. Horatiu Cheval (University of Bucharest, Romania)
 * 15:35-16:00 **Break**
 * 16:00-17:15 **Talks**
