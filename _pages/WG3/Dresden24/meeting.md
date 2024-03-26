@@ -11,8 +11,8 @@ breadcrumbs: true
 **Date:** 27-28 March 2024
 
 **Venue:** TU Dresden, Germany <br>
-Address: Nöthnitzer Str. 46, 01069 Dresden <br>
-Room: [APB E023](https://navigator.tu-dresden.de/raum/542100.2310)
+Address: [Nöthnitzer Str. 46, 01069 Dresden](https://maps.app.goo.gl/m6nAt82gL8DdB8p39) <br>
+Room: [APB E023](https://navigator.tu-dresden.de/etplan/apb/00/raum/542100.2310) on ground floor
 
 **Tentative program:** see [here](https://europroofnet.github.io/wg3-dresden24-program/) 
 
@@ -44,14 +44,13 @@ Room: [APB E023](https://navigator.tu-dresden.de/raum/542100.2310)
       
   * **Formal methods for security** 
     * Vincent Cheval (University of Oxford, UK)
-    * Lilia Georgieva (Microsoft, UK)
+    * Lilia Georgieva (Microsoft/Heriot-Watt University, UK)
     * Ilias Cherkaoui (Walton Institute, Ireland)
     * Georgio	Nicolas	(KU Leuven,	Belgium)
     * Jannik	Mähn	(Barkhausen Institut,	Germany)
     * Dorel	Lucanu and Andrei	Mogage	(Alexandru Ioan Cuza University, Romania)
     * Horatiu Cheval	(University of Bucharest,	Romania)
     * Volker	Stolz	(Høgskulen på Vestlandet,	Norway)
-    * Ayşe	Sayin	(Istanbul Technical University,	Turkey)
 
 **Important dates:**
   * Submission of talk proposals: 22 December 2023
@@ -81,7 +80,7 @@ Room: [APB E023](https://navigator.tu-dresden.de/raum/542100.2310)
 
 **Local transportation:**
 * [Taxi](https://www.dresden.de/en/living/09/Taxi.php): For those funded by EuroProofNet, please note that taxis are not reimbursed.
-* [Trams and buses](https://www.dvb.de/en/Homepage/): The nearest stops to the venue are:
+* [Trams and buses](https://www.dvb.de/en-GB/): The nearest stops to the venue are:
   * "Helmholtzstraße" for Bus 85 and
   * "Münchner Platz" for tram 3.
 
