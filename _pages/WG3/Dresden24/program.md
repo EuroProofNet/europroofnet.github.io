@@ -24,16 +24,16 @@ The event is scheduled as a two-day meeting. Times are CET.
   - 12:15-12:45: *Verification of cryptographic protocols*. ilias Cherkaoui (Walton Institute, Ireland)
 * 12:45-14:00 **Lunch break** 
 * 14:00-15:30 **Talks** 
-  - 14:00-15:00: *Platform-level Formal Verification for Public Sector Trustworthy Computing: Considerations and Challenges*. Andreas Berg (gematik GmbH, Germany)
-  - 15:00-15:30: *Building a vendor-agnostic attestation service: Confidential Containers Trustee*. Samuel	Ortiz	(Rivos Inc, France)
-* 15:30-16:00 **Break** 
-* 16:00-18:15 **Talks & Conclusions of the day**
-  - 16:00-16:30: *Towards Modular Trusted Execution Environments*. Carsten Weinhold (Barkhausen Institut, Germany)
-  - 16:30-16:50: *An ephemeral virtual TPM device to allow Remote Attestation for Confidential Virtual Machines*. Angelo Ruocco (IBM Research, Switzerland)
-  - 16:50-17:20: *Attestation for Mobile Network*. Ghada Arfaoui (Orange, France)
-  - 17:20-17:50: *Attesting the Verticals*. Ian Oliver (University of Jyväskylä, Finland)
-  - 17:50-18:00: *Role of Formal Verification in Next-Generation Mobile Networks*. Ayşe Sayin (Istanbul Technical University, Turkey)
-  - 18:00-18:15: *Wrapping-up: Discussion, conclusions of the day & plan*. 
+  - 14:30-15:30: *Platform-level Formal Verification for Public Sector Trustworthy Computing: Considerations and Challenges*. Andreas Berg (gematik GmbH, Germany)
+  - 15:30-16:00: *Building a vendor-agnostic attestation service: Confidential Containers Trustee*. Samuel	Ortiz	(Rivos Inc, France)
+* 16:00-16:15 **Break** 
+* 16:15-18:30 **Talks & Conclusions of the day**
+  - 16:15-16:45: *Towards Modular Trusted Execution Environments*. Carsten Weinhold (Barkhausen Institut, Germany)
+  - 16:45-17:05: *An ephemeral virtual TPM device to allow Remote Attestation for Confidential Virtual Machines*. Angelo Ruocco (IBM Research, Switzerland)
+  - 17:05-17:35: *Attestation for Mobile Network*. Ghada Arfaoui (Orange, France)
+  - 17:35-18:05: *Attesting the Verticals*. Ian Oliver (University of Jyväskylä, Finland)
+  - 18:05-18:20: *Role of Formal Verification in Next-Generation Mobile Networks*. Ayşe Sayin (Istanbul Technical University, Turkey)
+  - 18:20-18:30: *Wrapping-up: Discussion, conclusions of the day & plan*. 
 
 **Day 2. March 28, 2024**
 * 9:00-11:00 **Talks** 
