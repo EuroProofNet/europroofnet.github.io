@@ -46,16 +46,16 @@ The event is scheduled as a two-day meeting. Times are CET.
   - 11:30-12:00: *Hardening NVIDIA’s Confidential Computing: A Formally Verified Implementation of the SPDM Device Attestation Protocol*. Tobias Reiher (AdaCore, Germany)
   - 12:00-12:30: *A rollercoaster ride on the formal analysis of attested TLS*. Muhammad Usama Sardar (TU Dresden, Germany)
 * 12:30-13:30 **Lunch Break**
-* 13:30-15:35 **Talks** 
-  - 13:30-14:00: *Enarx attestation validation with Steward*. Richard Zak (Enarx maintainer, USA)
-  - 14:00-14:30: *Klave - Trustless Confidential Computing platform*. Rui Almeida (Klave, UK)
-  - 14:30-15:15: *Model checking for security*. Lilia Georgieva (Heriot Watt University, UK)
-  - 15:15-15:35: *Interactive theorem proving for protocol verification*. Horatiu Cheval (University of Bucharest, Romania)
-* 15:35-16:00 **Break**
-* 16:00-17:15 **Talks**
-  - 16:00-16:20: *Towards Logical Specification and Checking of Malicious Capabilities*. Andrei Mogage (Alexandru Ioan Cuza University, Romania)
-  - 16:20-16:40: *Formal correctness-proofs of refactorings*. Volker Stolz (Høgskulen på Vestlandet, Norway)
-  - 16:40-16:50: *Towards formally-verified remote attestation in SSProve*. Jannik Mähn (Barkhausen Institut, Germany)
-  - 16:50-17:15: *Wrapping-up: Setting the agenda for the year*. 
+* 14:30-16:35 **Talks** 
+  - 14:30-15:00: *Enarx attestation validation with Steward*. Richard Zak (Enarx maintainer, USA)
+  - 15:00-15:30: *Klave - Trustless Confidential Computing platform*. Rui Almeida (Klave, UK)
+  - 15:30-16:15: *Model checking for security*. Lilia Georgieva (Heriot Watt University, UK)
+  - 16:15-16:35: *Interactive theorem proving for protocol verification*. Horatiu Cheval (University of Bucharest, Romania)
+* 16:35-17:00 **Break**
+* 17:00-18:15 **Talks**
+  - 17:00-17:20: *Towards Logical Specification and Checking of Malicious Capabilities*. Andrei Mogage (Alexandru Ioan Cuza University, Romania)
+  - 17:20-17:40: *Formal correctness-proofs of refactorings*. Volker Stolz (Høgskulen på Vestlandet, Norway)
+  - 17:40-17:50: *Towards formally-verified remote attestation in SSProve*. Jannik Mähn (Barkhausen Institut, Germany)
+  - 17:50-18:15: *Wrapping-up: Setting the agenda for the year*. 
   
 
