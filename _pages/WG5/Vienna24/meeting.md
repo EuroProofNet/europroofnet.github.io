@@ -6,8 +6,8 @@ author_profile: true
 breadcrumbs: true
 ---
 
-will take place at [TU Wien Informatics](https://informatics.tuwien.ac.at/), Vienna, Austria, March 25th-26th 2024, organised by [Michael Rawson](https://rawsons.uk/michael) and [Cezary Kaliszyk](http://cl-informatik.uibk.ac.at/cek/). Complaints to the former.
-The event is supported by the [Cost Action CA20111 - European Research Network on Formal Proofs](https://europroofnet.github.io/) and will be co-located with a meeting of [Working Group 5 of the action](https://europroofnet.github.io/wg5/), "Machine Learning in Proofs".
+took place at [TU Wien Informatics](https://informatics.tuwien.ac.at/), Vienna, Austria, March 25th-26th 2024, organised by [Michael Rawson](https://rawsons.uk/michael) and [Cezary Kaliszyk](http://cl-informatik.uibk.ac.at/cek/). Complaints to the former.
+The event was supported by the [Cost Action CA20111 - European Research Network on Formal Proofs](https://europroofnet.github.io/) and co-located with a meeting of [Working Group 5 of the action](https://europroofnet.github.io/wg5/), "Machine Learning in Proofs".
 
 ### Aims
 The symbolic and statistical approaches to artificial intelligence can be difficult to combine.
@@ -55,15 +55,15 @@ Favoritenstraße 9-11
 
 ### Schedule
 #### 25th March
-- 1000&ndash;1100 Boris Shminke: *Machine Learning for Automated Theorem Proving: an ML-side perspective* [abstracts](abstracts/Shminke.pdf)
+- 1000&ndash;1100 Boris Shminke: *Machine Learning for Automated Theorem Proving: an ML-side perspective* [abstracts](abstracts/Shminke.pdf) [slides](slides/Shminke.pdf)
 - 1100&ndash;1130 break
 - 1130&ndash;1200 Fatih Özkaynak: *Automated Proof Techniques for Assessing the Security of Chaos-Based Encryption Algorithms* [abstract](abstracts/Özkaynak.pdf)
-- 1200&ndash;1230 Rashid Barket: *Algorithm Selection for Symbolic Integration using Machine Learning* [abstract](abstracts/Barket.pdf)
+- 1200&ndash;1230 Rashid Barket: *Algorithm Selection for Symbolic Integration using Machine Learning* [abstract](abstracts/Barket.pdf) [slides](slides/Barket.pdf)
 - 1230&ndash;1400 lunch (not provided)
 - 1400&ndash;1430 Natalia Ślusarz: *Exploration of properties of differentiable logics through mechanisation* [abstract](abstracts/Ślusarz.pdf)
-- 1430&ndash;1500 Filip Bártek: *Learning to Rank in Automatic Theorem Proving* [abstract](abstracts/Bártek.pdf)
+- 1430&ndash;1500 Filip Bártek: *Learning to Rank in Automatic Theorem Proving* [abstract](abstracts/Bártek.pdf) [slides](slides/Bártek.pdf)
 - 1500&ndash;1530 break
-- 1530 WG5 meeting
+- 1530 WG5 meeting [slides](slides/Cerna.pdf)
 
 #### 26th March
 - 0930&ndash;1000 Alessandro Bruni: *Yet another formal theory of probabilities (with an application to random sampling)* [abstract](abstracts/Bruni.pdf)
@@ -76,7 +76,7 @@ Favoritenstraße 9-11
 - 1400&ndash;1410 Clemens Eisenhofer: *CheeZ3: using LLMs to predict SMT models*
 - 1410&ndash;1430 Robin Coutelier: *A practical application of machine learning in Vampire*
 - 1430&ndash;1500 coffee
-- 1500&ndash;1530 Martin Suda: *Two Learning Operators for Clause Selection Guidance* [abstract](abstracts/Suda.pdf)
+- 1500&ndash;1530 Martin Suda: *Two Learning Operators for Clause Selection Guidance* [abstract](abstracts/Suda.pdf) [slides](slides/Suda.pdf)
 
 ### Directions and Getting Around
 From the airport, take a train to the city.
@@ -108,4 +108,7 @@ NB these tickets are *not* valid for the train to/from the airport, as this leav
 Refer to the [excellent guide](https://hott-uf.github.io/2023/local-info.html) produced for the WG6 meeting here. Please note that the location is different this time.
 
 ### Event Photos
-To be taken.
+![all participants seated, taken from the front of the room](photos/everyone.jpg)
+![the invited speaker from the back of the room](photos/invited.jpg)
+![David Cerna presenting at the WG5 meeting](photos/meeting.jpg)
+![Martin Suda explaining saturation-based proof search with a large diagram](photos/diagram.jpg)
