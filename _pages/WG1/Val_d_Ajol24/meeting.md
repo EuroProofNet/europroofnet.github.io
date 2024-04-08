@@ -39,7 +39,9 @@ Remark: the official dates of the meeting taken into account for reimbursements 
 - [Pascal Fontaine](https://people.montefiore.uliege.be/pfontain/)
 - [Stephan Schulz](http://wwwlehre.dhbw-stuttgart.de/~sschulz/DHBW_Stephan_Schulz/Stephan_Schulz.html)
 - Alessio Coltellacci
-- Abdelghani Alidra
+- Abdelghani Alidra plans to work on aligning the code of the Lambdapi Language Server Protocol with the one of [CoqLsp](https://github.com/ejgallego/coq-lsp) and ultimately merge the two tools in a single one that can be used for both languages. This would result in the reduction of the development and maintenance costs and benefit from the latest features of CoqLsp.
+
+
 - [Rishikesh Vaishnav](https://lmf.cnrs.fr/Perso/RishVaishnav)
 - Nicolas Margulies
 - Yoan Géran
