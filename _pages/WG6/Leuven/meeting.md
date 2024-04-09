@@ -6,6 +6,8 @@ author_profile: true
 breadcrumbs: true
 ---
 
+![Workshop group photo](./leuven-group-photo.jpg)
+
 **Date:** 4-5 April 2024, in co-location with the [HoTT/UF 2024 Workshop](https://hott-uf.github.io/2024/).
 
 **Place:** Leuven, Belgium
