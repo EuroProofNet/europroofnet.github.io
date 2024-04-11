@@ -8,17 +8,17 @@ breadcrumbs: true
 
 ### at least 2 months before the meeting:
 
-- [ ] The chair asks the organizer the exact address, the starting and ending dates and times of the meeting, and the daily allowance. The daily allowance should cover the cost of an hotel night + the meals + local transport if hotels are far from the meeting place. It has to be fixed at the right level so that people get reimbursed of what they need to spend but not too much so that we can invite more people. Note that the daily allowance cannot be changed once invitations have been sent.
+- [X] The chair asks the organizer the exact address, the starting and ending dates and times of the meeting, and the daily allowance. The daily allowance should cover the cost of an hotel night + the meals + local transport if hotels are far from the meeting place. It has to be fixed at the right level so that people get reimbursed of what they need to spend but not too much so that we can invite more people. Note that the daily allowance cannot be changed once invitations have been sent.
 
 - [ ] The organizer gives to the chair the exact address, and the starting and ending dates and times:
 
-    * [ ] complete address: Nöthnitzer Str. 46, 01069 Dresden, Germany
-    * [ ] starting date and time: 27 March at 9:00 ?
-    * [ ] ending date and time: 28 March at 17:00 ?
+    * [ ] complete address: BC Building, Room 420, Chemin Alan Turing, CH-1015 Ecublens (VD), Switzerland ?
+    * [X] starting date and time: June 14 at 10:00
+    * [X] ending date and time: June 15 at 16:00
 
-- [ ] The organizer checks the prices of accommodations and restaurants around the place of the meeting at the dates of the meeting, and sends to the chair a proposal for the daily allowance.
+- [X] The organizer checks the prices of accommodations and restaurants around the place of the meeting at the dates of the meeting, and sends to the chair a proposal for the daily allowance.
 
-    * [ ] daily allowance: 130 euros
+    * [X] daily allowance: 209 euros
 
 - [ ] The chair sets up the event on https://e-services.cost.eu/, but not the LOS yet (this will be done later).
 
