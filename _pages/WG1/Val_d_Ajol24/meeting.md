@@ -37,7 +37,7 @@ Remark: the official dates of the meeting taken into account for reimbursements 
 
 - [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/) will work on the translation of HOL-Light proofs to Coq using [hol2dk](https://github.com/Deducteam/hol2dk), and possibly the alignment of the type of real numbers between these two systems.
 
-- [Pascal Fontaine](https://people.montefiore.uliege.be/pfontain/)
+- [Pascal Fontaine](https://people.montefiore.uliege.be/pfontain/) will work on the modular implementation of SMT, and hope to finalize a working SAT-solver - Theory reasoner interaction.  If times allow, he will adapt the testing infrastructure and design the proof production module of the solver.
 
 - [Stephan Schulz](http://wwwlehre.dhbw-stuttgart.de/~sschulz/DHBW_Stephan_Schulz/Stephan_Schulz.html) plans to improve the TPTP compliance of E, primarily by
 adding support for features not yet implemented. If time permits, he will
