@@ -50,7 +50,7 @@ objects more detailed and unambiguous.
 
 - [Rishikesh Vaishnav](https://lmf.cnrs.fr/Perso/RishVaishnav) will work on the representation of Lean proofs in Dedukti using [lean2dk](https://github.com/Deducteam/lean2dk), and especially on turning definitional equalities for proof irrelevance into propositional equalities.
 
-- Nicolas Margulies
+- Nicolas Margulies will work on the encoding of cubical type theory in Dedukti.
 
 - Yoan Géran will work on the generation of Coq proof scripts for coherent logic with [dkpltact](https://gitlab.crans.org/geran/dkpltact).
 
