@@ -44,7 +44,7 @@ entry as a discussion proposal, we will try to organize a few short discussion s
 **Contributed talks**
 
 - Vincent R.B. Blazy, Hugo Herbelin & Pierre Letouzey (Université Paris Cité): *Explicit Cumulativity in CC_ω* ([Abstract](programme#blazy-herbelin-letouzey))
-- Joris Ceulemans, Andreas Nuyts, Dominique Devriese (KU Leuven): *Admissibility of Substitution for Multimode Type Theory* ([Abstract](programme#ceulemans-nuyts-devriese)) - [Slides](./slides/ceulemans.pdf)
+- Joris Ceulemans, Andreas Nuyts, Dominique Devriese (KU Leuven): *Admissibility of Substitution for Multimode Type Theory* ([Abstract](programme#ceulemans-nuyts-devriese) - [Slides](./slides/ceulemans.pdf))
 - Joshua Chen, Nicolai Kraus (University of Nottingham): *Constructing inverse diagrams in homotopical type theory* ([Abstract](programme#chen-kraus))
 - Thiago Felicissimo (Inria/LMF/Deducteam): *Generic bidirectional typing for dependent type theories* ([Abstract](programme#felicissimo) - [Slides](./slides/felicissimo.pdf))
 - Jonas Frey (Carnegie Mellon University): *The shape of contexts* ([Abstract](programme#frey) - [Slides](./slides/frey.pdf))
