@@ -39,7 +39,10 @@ Remark: the official dates of the meeting taken into account for reimbursements 
 
 - [Pascal Fontaine](https://people.montefiore.uliege.be/pfontain/)
 
-- [Stephan Schulz](http://wwwlehre.dhbw-stuttgart.de/~sschulz/DHBW_Stephan_Schulz/Stephan_Schulz.html) plans to improve the TPTP compliance of E, primarily by adding support for features not yet implemented. If time permits, he will also  write a full TPTP proof parser for E, or work towards E proof objects more detailed and unambiguous. 
+- [Stephan Schulz](http://wwwlehre.dhbw-stuttgart.de/~sschulz/DHBW_Stephan_Schulz/Stephan_Schulz.html) plans to improve the TPTP compliance of E, primarily by
+adding support for features not yet implemented. If time permits, he will
+also  write a full TPTP proof parser for E, or work towards making E proof
+objects more detailed and unambiguous.
 
 - Alessio Coltellacci will work translating Alethe proofs from SMT solvers to Lambdapi using [Carcara](https://github.com/ufmg-smite/carcara).
 
