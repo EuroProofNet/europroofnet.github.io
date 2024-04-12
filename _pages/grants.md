@@ -13,7 +13,7 @@ EuroProofNet can provide two kinds of grants:
   
 **Upcoming deadlines**
 
-- 1 May 2024: submission deadline for ITCG proposals between June and September 2024. (Likely there will be no more STSM calls until November 2024.)
+- 1st May 2024: submission deadline for STSM and ITCG proposals between May and September 2024.
 
 **Application web sites**
 
