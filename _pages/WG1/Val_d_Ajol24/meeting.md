@@ -33,28 +33,30 @@ Remark: the official dates of the meeting taken into account for reimbursements 
   * work plan: describe what you would like to do
   * special diet if any
 
-**Participants (11):**
-- [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/)
-- Claude Stolze
-- [Pascal Fontaine](https://people.montefiore.uliege.be/pfontain/)
-- [Stephan Schulz](http://wwwlehre.dhbw-stuttgart.de/~sschulz/DHBW_Stephan_Schulz/Stephan_Schulz.html)
-- Alessio Coltellacci
+**Participants (10):**
+
+- [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/) will work on the translation of HOL-Light proofs to Coq using [hol2dk](https://github.com/Deducteam/hol2dk), and possibly the alignment of the type of real numbers between these two systems.
+
+- [Pascal Fontaine](https://people.montefiore.uliege.be/pfontain/) will work on the modular implementation of SMT, and hope to finalize a working SAT-solver - Theory reasoner interaction.  If times allow, he will adapt the testing infrastructure and design the proof production module of the solver.
+
+- [Stephan Schulz](http://wwwlehre.dhbw-stuttgart.de/~sschulz/DHBW_Stephan_Schulz/Stephan_Schulz.html) plans to improve the TPTP compliance of E, primarily by
+adding support for features not yet implemented. If time permits, he will
+also  write a full TPTP proof parser for E, or work towards making E proof
+objects more detailed and unambiguous.
+
+- Alessio Coltellacci will work translating Alethe proofs from SMT solvers to Lambdapi using [Carcara](https://github.com/ufmg-smite/carcara).
+
 - Abdelghani Alidra plans to work on aligning the code of the Lambdapi Language Server Protocol with the one of [CoqLsp](https://github.com/ejgallego/coq-lsp) and ultimately merge the two tools in a single one that can be used for both languages. This would result in the reduction of the development and maintenance costs and benefit from the latest features of CoqLsp.
 
+- [Rishikesh Vaishnav](https://lmf.cnrs.fr/Perso/RishVaishnav) will work on the representation of Lean proofs in Dedukti using [lean2dk](https://github.com/Deducteam/lean2dk), and especially on turning definitional equalities for proof irrelevance into propositional equalities.
 
-- [Rishikesh Vaishnav](https://lmf.cnrs.fr/Perso/RishVaishnav)
-- Nicolas Margulies
-- Yoan Géran
-- Gabriel Hondet
-- Michael Färber
+- Nicolas Margulies will work on the encoding of cubical type theory in Dedukti.
 
-<!--
-- [Thiago Felicissimo](http://www.lsv.fr/~felicissimo/)
-- [Théo Winterhalter](https://theowinterhalter.github.io/)
-- [Thomas Traversié](https://thomastraversie.github.io/)
-- [Claudio Sacerdoti Coen](http://www.cs.unibo.it/~sacerdot/)
-- [Bruno Barras](http://www.lsv.fr/~barras/)
--->
+- Yoan Géran will work on the generation of Coq proof scripts for coherent logic with [dkpltact](https://gitlab.crans.org/geran/dkpltact).
+
+- Gabriel Hondet will work on fixing problems in the Dedukti type checker [dkcheck](https://github.com/Deducteam/dedukti).
+
+- Michael Färber will work on fixing problems in the Dedukti type checker [kontroli](https://github.com/01mf02/kontroli-rs).
 
 **Monday 22 April (optional, for people arriving the day before the meeting):**
 

@@ -35,9 +35,9 @@ corner).
 **Coming events:**
 
 - 23-25 April 2024: [inter-WG developers meeting](../inter-wg-24), Le Val d'Ajol, France
-- 1st May 2024: [deadline for ITCG proposals between May and September 2024](..:grants)
+- 1st May 2024: [deadline for STSM and ITCG proposals between May and September 2024](..:grants)
 - 28-30 May 2024: [WG2 meeting on ATPs for geometry](../wg2-geo24), Nice, France
-- 14-15 June 2024: workshop on proof systems for mathematics and program verification, Lausanne, Switzerland, <!--in colocation with a meeting of the Society for Logic and the Philosophy of Science of Switzerland,--> just after the [30th Workshop on Logic, Language, Information and Computation](https://wollic2024.inf.unibe.ch/)
+- 14-15 June 2024: [Workshop on Proof Systems for Mathematics and Verification](https://proofs.swiss/ps/2024/), Lausanne, Switzerland, just after the [30th Workshop on Logic, Language, Information and Computation](https://wollic2024.inf.unibe.ch/)
 - 26-29 June 2024: [SAT/SMT/AR school](https://sat-smt-ar-school.gitlab.io/www/2024/), Nancy, France, in co-location with [IJCAR'24](https://merz.gitlabpages.inria.fr/2024-ijcar/)
 - 1st July 2024: WG2 meeting/TPTP Tea Party, Nancy, France, in co-location with [IJCAR'24](https://merz.gitlabpages.inria.fr/2024-ijcar/)
 - 6 July 2024: [Women in EuroProofNet](../women-epn-2024), Bonn, Germany, just before the [Workshop on Bridging between informal and formal mathematics](https://www.mathematics.uni-bonn.de/him/programs/future/tp_2024_05)
