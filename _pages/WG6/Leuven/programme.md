@@ -67,7 +67,7 @@ We therefore also look at a second way, via a free combination with no interacti
 
 ### Contributed talks
 
-##### Vincent R.B. Blazy, Hugo Herbelin & Pierre Letouzey (Université Paris Cité): *Explicit Cumulativity in CC\_ω* {#blazy-herbelin-letouzey}
+##### Vincent R.B. Blazy, Hugo Herbelin & Pierre Letouzey (Université Paris Cité): *Explicit Cumulativity in CC\_ω* ([Slides](./slides/blazy.pdf)) {#blazy-herbelin-letouzey}
 
 In usual CIC (or even CC\_ω), because of the cumulativity of the hierarchy of universes, there is no unicity of the sort of a type: a type known to be a proposition (i.e. inhabiting Prop) is also a type (i.e. inhabiting Type\_i for some nonzero natural number i). This phenomenon is called subsumption. Cumulativity is then a form of subsumptive, implicit subtyping between universes that somewhat introduces a lack of control in the typing (in particular, the sorting) information in CIC, and precludes this way a proper detailed analysis of the structure of their hierarchy. 
 
@@ -79,7 +79,7 @@ This talk will be about our attempt - namely CC\_ω^sub - of explicitation of th
 
 Multimode Type theory (MTT) \[Gratzer et al., 2020\] is a generic type theory that can be instantiated with an arbitrary mode theory to model features like parametricity, cohesion and guarded recursion. However, the presence of modalities in MTT significantly complicates the substitution calculus of this system. Moreover, MTT’s syntax has explicit substitutions with an axiomatic system – not an algorithm – governing the connection between an explicitly substituted term and the resulting term in which variables have actually been replaced. So far, admissibility of substitution for MTT has only been proved as a consequence of normalisation via normalisation by evaluation. In this talk, we will present a proof of admissibility of substitution for MTT that is completely separated from normalisation. To this end, we introduce Substitution-Free Multimode Type Theory (SFMTT): a formulation of MTT without explicit substitutions, but for which we are able to give a structurally recursive substitution algorithm, suitable for implementation in a total programming language or proof assistant. On the usual formulation of MTT, we consider σ-equality, the congruence generated solely by equality rules for explicit substitutions. There is a trivial embedding from SFMTT to MTT, and a converse translation that eliminates the explicit substitutions. We prove soundness and completeness with respect to σ-equivalence and thus establish that MTT with σ-equality has computable σ-normal forms, given by the terms of SFMTT.
 
-##### Joshua Chen, Nicolai Kraus (University of Nottingham): *Constructing inverse diagrams in homotopical type theory* {#chen-kraus}
+##### Joshua Chen, Nicolai Kraus (University of Nottingham): *Constructing inverse diagrams in homotopical type theory* ([Slides](./slides/jchen.pdf)) {#chen-kraus}
 
 Inverse diagrams, i.e. functors indexed by inverse categories, feature prominently in both the metatheory and applications of homotopical type theory (which we take to include MLTT without UIP, alongside the various incarnations of homotopy type theory). Besides their well known appearances as building blocks for higher categories and presheaf models of HoTT, they also give new model constructions (Shulman 2013, Kapulkin and Lumsdaine 2021), (homotopy) canonicity and parametricity results (Shulman 2013), and presentations of higher categorical structures with strict composition (Kock 2005).
 
@@ -156,7 +156,7 @@ URL <https://doi.org/10.14201/adcaij.29081>
 \[3\] Moschovakis, Y.N.: A Logical Calculus of Meaning and Synonymy. Linguistics and Philosophy 29(1), 27–89 (2006).
 URL <https://doi.org/10.1007/s10988-005-6920-7>
 
-##### Jacob Neumann (University of Nottingham): *Towards Modal SOGATs* {#neumann}
+##### Jacob Neumann (University of Nottingham): *Towards Modal SOGATs* ([Blackboard](./slides/neumann.jpg)) {#neumann}
 
 One notable shortcoming of standard semantics of type theory, such as
 categories with families (CwFs), is that each new type- and term- former
