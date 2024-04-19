@@ -33,7 +33,7 @@ Remark: the official dates of the meeting taken into account for reimbursements 
   * work plan: describe what you would like to do
   * special diet if any
 
-**Participants (10):**
+**Participants (11):**
 
 - [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/) will work on the translation of HOL-Light proofs to Coq using [hol2dk](https://github.com/Deducteam/hol2dk), and possibly the alignment of the type of real numbers between these two systems.
 
@@ -57,6 +57,8 @@ objects more detailed and unambiguous.
 - Gabriel Hondet will work on fixing problems in the Dedukti type checker [dkcheck](https://github.com/Deducteam/dedukti).
 
 - Michael Färber will work on fixing problems in the Dedukti type checker [kontroli](https://github.com/01mf02/kontroli-rs).
+
+- Ciarán Dunne will learn how to use Dedukti and Lambdapi, and how to encode SMT proofs in Dedukti or Lambdapi.
 
 **Monday 22 April (optional, for people arriving the day before the meeting):**
 
