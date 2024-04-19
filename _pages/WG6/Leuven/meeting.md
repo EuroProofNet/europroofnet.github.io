@@ -40,7 +40,7 @@ entry as a discussion proposal, we will try to organize a few short discussion s
 
 - [Liang-Ting Chen](https://l-tchen.github.io/) (Institute of Information Science, Academia Sinica, Taiwan): *From Datatype Genericity to Language Genericity* ([Abstract](programme#ltchen) - [Slides](./slides/ltchen.pdf))
 - [Meven Lennon-Bertrand](https://www.meven.ac/) (University of Cambrige, UK): *Towards a certified type theoretic kernel* ([Abstract](programme#lennonbertrand) - [Slides](./slides/lennonbertrand.pdf))
-- [Dmitrij Szamozvancev](https://www.cl.cam.ac.uk/~ds709/) (University of Cambrige, UK): *Functorial models of scope-safe syntax* ([Abstract](programme#szamozvancev))
+- [Dmitrij Szamozvancev](https://www.cl.cam.ac.uk/~ds709/) (University of Cambrige, UK): *Functorial models of scope-safe syntax* ([Abstract](programme#szamozvancev) - [Slides](./slides/szamozvancev.pdf))
 - [Maaike Zwart](https://maaikezwart.com/) (IT University of Copenhagen, Denmark): *What monads can and cannot do with a bit of extra time* ([Abstract](programme#zwart) - [Slides](./slides/zwart.pdf))
 
 **Contributed talks**
