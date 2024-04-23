@@ -9,7 +9,7 @@ breadcrumbs: true
 
 ## July 6, 2024
 
-Co-located with the Workshop for Women in Formal Mathematics as part of the [trimester on Prospects of Formalized Math](https://www.him.uni-bonn.de/programs/future-programs/future-trimester-programs/prospects-of-formal-mathematics/description/) at the Hausdorff Institute of Mathematics, there will be a half-day event dedicated to gender balance in the community.
+Co-located with the Workshop for [Women in Formal Mathematics](https://www.mathematics.uni-bonn.de/him/programs/special-events/women-in-formal-math) as part of the [trimester on Prospects of Formalized Math](https://www.him.uni-bonn.de/programs/future-programs/future-trimester-programs/prospects-of-formal-mathematics/description/) at the Hausdorff Institute of Mathematics, there will be a half-day event dedicated to gender balance in the community.
 The event will consist of an invited talk and a few contributed talks by women to promote their research and improve their visibility. 
 The talks will be followed by a discussion on gender balance issues, subconscious biases that occur and what we can do to improve the situation.
 
@@ -17,7 +17,7 @@ The talks will be followed by a discussion on gender balance issues, subconsciou
 
 ## Invited Speaker
 
-TBA
+[Olivia Caramello](https://www.oliviacaramello.com)
 
 ## Call for contributions
 
@@ -44,11 +44,11 @@ Early registration deadline: TBA
 
 ### Funding applications: (deadline: TBA)
 
-The EuroProofNet COST action can provide funding for a limited amount of participants - **all genders welcome to apply for funding**! If you would like the apply for funding, fill out the details for funding on the registration form. Before applying for funding see [reimbursement rules](../reimbursement-rules). <!--The daily allowance was set to 80€.-->
+The EuroProofNet COST action can provide funding for a limited amount of participants - **all genders welcome to apply for funding**! If you would like the apply for funding, fill out the details for funding on the registration form. Before applying for funding see [reimbursement rules](../reimbursement-rules).
 
 Funding application form: TBA
 
-Note that it is possible to arrive a few days before and leave a few days after the workshop (for instance in case you want to also attend ITP 2023) but a maximum of 2.4 daily allowances will be reimbursed.
+Note that it is possible to arrive a few days before and leave a few days after the workshop but a maximum of 2.4 daily allowances will be reimbursed.
 
 Please contact Sandra Alves if you have any problem during the application for funding process, including reluctance to use google forms.
 
@@ -64,4 +64,3 @@ We will consider some of those practices during the discussion part of the event
 ### Organizing committee
 
 * [Sandra Alves](https://www.dcc.fc.up.pt/~sandra/Home/Home.html)
-  
