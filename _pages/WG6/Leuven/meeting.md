@@ -53,7 +53,7 @@ entry as a discussion proposal, we will try to organize a few short discussion s
 - Ambroise Lafont, Thomas Lamiaux, Benedikt Ahrens (École Polytechnique, ENS Saclay, Delft University of Technology): *Initial semantics for polymorphic type systems* ([Abstract](programme#lafont-lamiaux-ahrens))
 - Roussanka Loukanova (Department of Algebra and Logic, Institute of Mathematics and Informatics, Bulgarian Academy of Sciences): *Relations between let-Terms of Lambda-Calculus and where-Terms of Type-Theory of Recursion* ([Abstract](programme#loukanova) - [Slides](./slides/loukanova.pdf) - [Video](https://youtu.be/3Arq90N_Yjw))
 - Jacob Neumann (University of Nottingham): *Towards Modal SOGATs* ([Abstract](programme#neumann) - [Blackboard](./slides/neumann.jpg) - [Video](https://youtu.be/HhOfutONahc))
-- Josselin Poiret (Nantes Université and Inria, Galinette Team): *A multiverse type theory* ([Abstract](programme#poiret))
+- Josselin Poiret (Nantes Université and Inria, Galinette Team): *A multiverse type theory* ([Abstract](programme#poiret) - [Slides](./slides/poiret.pdf) - [Video](https://youtu.be/nw1zMFjmwsI))
 - Stelios Tsampas (Friedrich-Alexander-Universität Erlangen-Nürnberg): *Logical Relations in Higher-Order Mathematical Operational Semantics* ([Abstract](programme#tsampas) - [Slides](./slides/tsampas.pdf) - [Video](https://youtu.be/6i-GPv0Eit4))
 - Théo Winterhalter (Inria Saclay): *Dependent ghosts enjoy reflection for free* ([Abstract](programme#winterhalter) - [Slides](./slides/lennonbertrand.pdf) - [Video](https://youtu.be/zNlq5m3AXr4))
 

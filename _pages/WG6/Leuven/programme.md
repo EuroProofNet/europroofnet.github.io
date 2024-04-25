@@ -188,7 +188,7 @@ expressible in higher-order abstract syntax. This will hopefully provide
 a roadmap for doing the same for arbitrary modalities, permitting us to
 combine these two exciting avenues of research.
 
-##### Josselin Poiret (Nantes Université and Inria, Galinette Team): *A multiverse type theory* {#poiret}
+##### Josselin Poiret (Nantes Université and Inria, Galinette Team): *A multiverse type theory* ([Slides](./slides/poiret.pdf) - [Video](https://youtu.be/nw1zMFjmwsI)) {#poiret}
 
 Recent years have seen a flourishing of different type theories based on CIC or
 Martin Löf Type Theory, purpose-built for domain-specific problems: Homotopical
