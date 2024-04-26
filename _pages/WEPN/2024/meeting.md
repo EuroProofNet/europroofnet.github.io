@@ -15,7 +15,7 @@ The talks will be followed by a discussion on gender balance issues, subconsciou
 
 ## Invited Speaker
 
-[Olivia Caramello](https://www.oliviacaramello.com)
+TBA
 
 ## Call for contributions
 * Abstract submission deadline: June 3, 2024
