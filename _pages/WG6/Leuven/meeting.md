@@ -38,24 +38,24 @@ entry as a discussion proposal, we will try to organize a few short discussion s
 
 **Invited speakers**
 
-- [Liang-Ting Chen](https://l-tchen.github.io/) (Institute of Information Science, Academia Sinica, Taiwan): *From Datatype Genericity to Language Genericity* ([Abstract](programme#ltchen) - [Slides](./slides/ltchen.pdf))
-- [Meven Lennon-Bertrand](https://www.meven.ac/) (University of Cambrige, UK): *Towards a certified type theoretic kernel* ([Abstract](programme#lennonbertrand) - [Slides](./slides/lennonbertrand.pdf))
-- [Dmitrij Szamozvancev](https://www.cl.cam.ac.uk/~ds709/) (University of Cambrige, UK): *Functorial models of scope-safe syntax* ([Abstract](programme#szamozvancev) - [Slides](./slides/szamozvancev.pdf))
-- [Maaike Zwart](https://maaikezwart.com/) (IT University of Copenhagen, Denmark): *What monads can and cannot do with a bit of extra time* ([Abstract](programme#zwart) - [Slides](./slides/zwart.pdf))
+- [Liang-Ting Chen](https://l-tchen.github.io/) (Institute of Information Science, Academia Sinica, Taiwan): *From Datatype Genericity to Language Genericity* ([Abstract](programme#ltchen) - [Slides](./slides/ltchen.pdf) - [Video](https://youtu.be/nQ66pqBFLhA))
+- [Meven Lennon-Bertrand](https://www.meven.ac/) (University of Cambrige, UK): *Towards a certified type theoretic kernel* ([Abstract](programme#lennonbertrand) - [Slides](./slides/lennonbertrand.pdf) - [Video](https://youtu.be/dak5fVWAgwc))
+- [Dmitrij Szamozvancev](https://www.cl.cam.ac.uk/~ds709/) (University of Cambrige, UK): *Functorial models of scope-safe syntax* ([Abstract](programme#szamozvancev) - [Slides](./slides/szamozvancev.pdf) - [Video](https://youtu.be/mYcuK-UaqIo))
+- [Maaike Zwart](https://maaikezwart.com/) (IT University of Copenhagen, Denmark): *What monads can and cannot do with a bit of extra time* ([Abstract](programme#zwart) - [Slides](./slides/zwart.pdf) - [Video](https://youtu.be/mNI8ykJfuyw))
 
 **Contributed talks**
 
-- Vincent R.B. Blazy, Hugo Herbelin & Pierre Letouzey (Université Paris Cité): *Explicit Cumulativity in CC_ω* ([Abstract](programme#blazy-herbelin-letouzey) - [Slides](./slides/blazy.pdf))
-- Joris Ceulemans, Andreas Nuyts, Dominique Devriese (KU Leuven): *Admissibility of Substitution for Multimode Type Theory* ([Abstract](programme#ceulemans-nuyts-devriese) - [Slides](./slides/ceulemans.pdf))
-- Joshua Chen, Nicolai Kraus (University of Nottingham): *Constructing inverse diagrams in homotopical type theory* ([Abstract](programme#chen-kraus) - [Slides](./slides/jchen.pdf))
-- Thiago Felicissimo (Inria/LMF/Deducteam): *Generic bidirectional typing for dependent type theories* ([Abstract](programme#felicissimo) - [Slides](./slides/felicissimo.pdf))
-- Jonas Frey (Carnegie Mellon University): *The shape of contexts* ([Abstract](programme#frey) - [Slides](./slides/frey.pdf))
+- Vincent R.B. Blazy, Hugo Herbelin & Pierre Letouzey (Université Paris Cité): *Explicit Cumulativity in CC_ω* ([Abstract](programme#blazy-herbelin-letouzey) - [Slides](./slides/blazy.pdf) - [Video](https://youtu.be/YQ-6FRln4Os))
+- Joris Ceulemans, Andreas Nuyts, Dominique Devriese (KU Leuven): *Admissibility of Substitution for Multimode Type Theory* ([Abstract](programme#ceulemans-nuyts-devriese) - [Slides](./slides/ceulemans.pdf) - [Video](https://youtu.be/_TLdMxUk2pE))
+- Joshua Chen, Nicolai Kraus (University of Nottingham): *Constructing inverse diagrams in homotopical type theory* ([Abstract](programme#chen-kraus) - [Slides](./slides/jchen.pdf) - [Video](https://youtu.be/cB9hml8YBj4))
+- Thiago Felicissimo (Inria/LMF/Deducteam): *Generic bidirectional typing for dependent type theories* ([Abstract](programme#felicissimo) - [Slides](./slides/felicissimo.pdf) - [Video](https://youtu.be/1XulDpHuDs8))
+- Jonas Frey (Carnegie Mellon University): *The shape of contexts* ([Abstract](programme#frey) - [Slides](./slides/frey.pdf) - [Video](https://youtu.be/fqyF30n8pj8))
 - Ambroise Lafont, Thomas Lamiaux, Benedikt Ahrens (École Polytechnique, ENS Saclay, Delft University of Technology): *Initial semantics for polymorphic type systems* ([Abstract](programme#lafont-lamiaux-ahrens))
-- Roussanka Loukanova (Department of Algebra and Logic, Institute of Mathematics and Informatics, Bulgarian Academy of Sciences): *Relations between let-Terms of Lambda-Calculus and where-Terms of Type-Theory of Recursion* ([Abstract](programme#loukanova) - [Slides](./slides/loukanova.pdf))
-- Jacob Neumann (University of Nottingham): *Towards Modal SOGATs* ([Abstract](programme#neumann) - [Blackboard](./slides/neumann.jpg))
-- Josselin Poiret (Nantes Université and Inria, Galinette Team): *A multiverse type theory* ([Abstract](programme#poiret))
-- Stelios Tsampas (Friedrich-Alexander-Universität Erlangen-Nürnberg): *Logical Relations in Higher-Order Mathematical Operational Semantics* ([Abstract](programme#tsampas) - [Slides](./slides/tsampas.pdf))
-- Théo Winterhalter (Inria Saclay): *Dependent ghosts enjoy reflection for free* ([Abstract](programme#winterhalter) - [Slides](./slides/lennonbertrand.pdf))
+- Roussanka Loukanova (Department of Algebra and Logic, Institute of Mathematics and Informatics, Bulgarian Academy of Sciences): *Relations between let-Terms of Lambda-Calculus and where-Terms of Type-Theory of Recursion* ([Abstract](programme#loukanova) - [Slides](./slides/loukanova.pdf) - [Video](https://youtu.be/3Arq90N_Yjw))
+- Jacob Neumann (University of Nottingham): *Towards Modal SOGATs* ([Abstract](programme#neumann) - [Blackboard](./slides/neumann.jpg) - [Video](https://youtu.be/HhOfutONahc))
+- Josselin Poiret (Nantes Université and Inria, Galinette Team): *A multiverse type theory* ([Abstract](programme#poiret) - [Slides](./slides/poiret.pdf) - [Video](https://youtu.be/nw1zMFjmwsI))
+- Stelios Tsampas (Friedrich-Alexander-Universität Erlangen-Nürnberg): *Logical Relations in Higher-Order Mathematical Operational Semantics* ([Abstract](programme#tsampas) - [Slides](./slides/tsampas.pdf) - [Video](https://youtu.be/6i-GPv0Eit4))
+- Théo Winterhalter (Inria Saclay): *Dependent ghosts enjoy reflection for free* ([Abstract](programme#winterhalter) - [Slides](./slides/lennonbertrand.pdf) - [Video](https://youtu.be/zNlq5m3AXr4))
 
 **Deadlines**
 
