@@ -6,6 +6,8 @@ author_profile: true
 breadcrumbs: true
 ---
 
+<img src="/_pages/WG3/Dresden24/Photos/Group.jpg"/>
+
 ## March 27-28, 2024
 
 ### Tentative Program
@@ -57,5 +59,30 @@ The event is scheduled as a two-day meeting. Times are CET.
   - 17:20-17:40: *Formal correctness-proofs of refactorings*. Volker Stolz (Høgskulen på Vestlandet, Norway) [(slides)](./Slides/28-12-Volker-Stolz.pdf)
   - 17:40-17:50: *Towards formally-verified remote attestation in SSProve*. Jannik Mähn (Barkhausen Institut, Germany) [(slides)](./Slides/28-13-jannik-maehn.pdf)
   - 17:50-18:15: *Wrapping-up: Setting the agenda for the year*. 
-  
+
+### Photos
+
+<img src="/_pages/WG3/Dresden24/Photos/20240327_091940.jpg" width="400"/>
+<img src="/_pages/WG3/Dresden24/Photos/20240327_093346.jpg" width="400"/>
+<img src="/_pages/WG3/Dresden24/Photos/20240327_122915.jpg" width="400"/>
+<img src="/_pages/WG3/Dresden24/Photos/20240327_143412.jpg" width="400"/>
+<img src="/_pages/WG3/Dresden24/Photos/20240327_154819.jpg" width="400"/>
+<img src="/_pages/WG3/Dresden24/Photos/20240327_172210.jpg" width="400"/>
+<img src="/_pages/WG3/Dresden24/Photos/20240327_174213.jpg" width="400"/>
+<img src="/_pages/WG3/Dresden24/Photos/20240327_182010.jpg" width="400"/>
+<img src="/_pages/WG3/Dresden24/Photos/20240327_184229.jpg" width="400"/>
+<img src="/_pages/WG3/Dresden24/Photos/20240328_092232.jpg" width="400"/>
+<img src="/_pages/WG3/Dresden24/Photos/20240328_093958.jpg" width="400"/>
+<img src="/_pages/WG3/Dresden24/Photos/20240328_095434.jpg" width="400"/>
+<img src="/_pages/WG3/Dresden24/Photos/20240328_101933.jpg" width="400"/>
+<img src="/_pages/WG3/Dresden24/Photos/20240328_104037.jpg" width="400"/>
+<img src="/_pages/WG3/Dresden24/Photos/20240328_110020.jpg" width="400"/>
+<img src="/_pages/WG3/Dresden24/Photos/20240328_113045.jpg" width="400"/>
+<img src="/_pages/WG3/Dresden24/Photos/20240328_123758.jpg" width="400"/>
+<img src="/_pages/WG3/Dresden24/Photos/20240328_144159.jpg" width="400"/>
+<img src="/_pages/WG3/Dresden24/Photos/20240328_151143.jpg" width="400"/>
+<img src="/_pages/WG3/Dresden24/Photos/20240328_170526.jpg" width="400"/>
+<img src="/_pages/WG3/Dresden24/Photos/20240328_175249.jpg" width="400"/>
+
+
 
