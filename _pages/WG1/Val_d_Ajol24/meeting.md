@@ -6,7 +6,7 @@ author_profile: true
 breadcrumbs: true
 ---
 
-<!--img src="/_pages/WG1/Val_d_Ajol24/IMG_20240124_144635.jpg"/-->
+<img src="/_pages/WG1/Val_d_Ajol24/IMG_20240423_195536.jpg"/>
 
 **Organizer:** [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/)
 
@@ -118,8 +118,7 @@ objects more detailed and unambiguous.
 |10:45-12:45|work session 2|
 |12:45-14:00|lunch|
 
-<img src="/_pages/WG1/Val_d_Ajol24/IMG_20240423_195346.jpg"/>
-<img src="/_pages/WG1/Val_d_Ajol24/IMG_20240423_195536.jpg"/>
-<img src="/_pages/WG1/Val_d_Ajol24/IMG_20240425_171113.jpg"/>
 <img src="/_pages/WG1/Val_d_Ajol24/IMG_20240423_195440.jpg"/>
 <img src="/_pages/WG1/Val_d_Ajol24/IMG_20240424_105935.jpg"/>
+<img src="/_pages/WG1/Val_d_Ajol24/IMG_20240425_171113.jpg"/>
+<img src="/_pages/WG1/Val_d_Ajol24/IMG_20240423_195346.jpg"/>
