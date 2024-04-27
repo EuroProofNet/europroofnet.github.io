@@ -34,7 +34,6 @@ corner).
 
 **Coming events:**
 
-- 23-25 April 2024: [inter-WG developers meeting](../inter-wg-24), Le Val d'Ajol, France
 - 1st May 2024: [deadline for STSM and ITCG proposals between May and September 2024](..:grants)
 - 28-30 May 2024: [WG2 meeting on ATPs for geometry](../wg2-geo24), Nice, France
 - 14-15 June 2024: [Workshop on Proof Systems for Mathematics and Verification](https://proofs.swiss/ps/2024/), Lausanne, Switzerland, just after the [30th Workshop on Logic, Language, Information and Computation](https://wollic2024.inf.unibe.ch/)
