@@ -136,7 +136,7 @@ The grant amounts below are initial estimations and not necessarily the final am
   Grant: 1302 EUR  
   Dates: 2024-02-04 to 2024-02-10
 
-* **Translating from Lean to Dedukti** [application](/_pages/stsm/vaishnav-app.pdf)  [report](/_pages/stsm/vaishav-rep.pdf)   
+* **Translating from Lean to Dedukti** [application](/_pages/stsm/vaishnav-app.pdf)  [report](/_pages/stsm/vaishnav-rep.pdf)   
   Visitor: Rishikesh Vaishnav  
   Host: Sebastian Ullrich    
   Grant: 1500 EUR  
