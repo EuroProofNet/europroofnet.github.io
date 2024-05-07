@@ -124,7 +124,7 @@ The grant amounts below are initial estimations and not necessarily the final am
   Grant: 3434 EUR  
   Dates: 2024-02-19 to 2024-03-01
 
-* **Conjecture and proof search in Agda with large language models** [application](/_pages/stsm/dore-app.pdf)  [report](/_pages/stsm/dore-rep.pdf)   
+* **Conjecture and proof search in Agda with large language models** [application](/_pages/stsm/dore-app.pdf)  [report](/_pages/stsm/dore-rep2.pdf)   
   Visitor: Maximilian Doré  
   Host: Moa Johansson    
   Grant: 1220 EUR  
