@@ -88,25 +88,25 @@ The grant amounts below are initial estimations and not necessarily the final am
   Grant: 3457 EUR  
   Dates: 2024-04-01 to 2024-04-12
 
-* **Learning for Automated Theorem Proving Based on Proof Structures in the Presence of a Large Proof Library** [application](/_pages/stsm/zombori-app.pdf)   
+* **Learning for Automated Theorem Proving Based on Proof Structures in the Presence of a Large Proof Library** [application](/_pages/stsm/zombori-app.pdf)  [report](/_pages/stsm/zombori-rep.pdf)      
   Visitor: Zsolt Zombori    
   Host: Christoph Wernhard    
   Grant: 1500 EUR  
   Dates: 2024-04-01 to 2024-04-07
 
-* **Interoperability of Tableaux and Sequent Calculus Proof Systems** [application](/_pages/stsm/guilloud-app.pdf)   
+* **Interoperability of Tableaux and Sequent Calculus Proof Systems** [application](/_pages/stsm/guilloud-app.pdf) [report](/_pages/stsm/guilloud-rep.pdf)  
   Visitor: Simon Guilloud  
   Host: Philipp Rümmer    
   Grant: 2500 EUR  
   Dates: 2024-03-25 to 2024-04-06
 
-* **Towards 2-dimensional second-order algebraic theories** [application](/_pages/stsm/arkor-app.pdf)   
+* **Towards 2-dimensional second-order algebraic theories** [application](/_pages/stsm/arkor-app.pdf)  [report](/_pages/stsm/arkor-rep.pdf)   
   Visitor: Nathanael Arkor  
   Host: Dylan McDermott        
   Grant: 1916 EUR  
   Dates: 2024-03-10 to 2024-03-16
 
-* **Towards 2-dimensional 2nd-order algebraic theories** [application](/_pages/stsm/saville-app.pdf)   
+* **Towards 2-dimensional 2nd-order algebraic theories** [application](/_pages/stsm/saville-app.pdf)  [report](/_pages/stsm/saville-rep.pdf)   
   Visitor: Philip Saville  
   Host: Dylan McDermott    
   Grant: 1933 EUR  
@@ -124,7 +124,7 @@ The grant amounts below are initial estimations and not necessarily the final am
   Grant: 3434 EUR  
   Dates: 2024-02-19 to 2024-03-01
 
-* **Conjecture and proof search in Agda with large language models** [application](/_pages/stsm/dore-app.pdf)   
+* **Conjecture and proof search in Agda with large language models** [application](/_pages/stsm/dore-app.pdf)  [report](/_pages/stsm/dore-rep.pdf)   
   Visitor: Maximilian Doré  
   Host: Moa Johansson    
   Grant: 1220 EUR  
@@ -136,7 +136,7 @@ The grant amounts below are initial estimations and not necessarily the final am
   Grant: 1302 EUR  
   Dates: 2024-02-04 to 2024-02-10
 
-* **Translating from Lean to Dedukti** [application](/_pages/stsm/vaishnav-app.pdf)   
+* **Translating from Lean to Dedukti** [application](/_pages/stsm/vaishnav-app.pdf)  [report](/_pages/stsm/vaishav-rep.pdf)   
   Visitor: Rishikesh Vaishnav  
   Host: Sebastian Ullrich    
   Grant: 1500 EUR  
