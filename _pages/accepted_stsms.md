@@ -62,19 +62,19 @@ The grant amounts below are initial estimations and not necessarily the final am
   Grant: 1650 EUR  
   Dates: 2024-06-01 to 2024-06-09
 
-* **Computer-Assisted Proof Verification for Higher-Order Automated Reasoning within the Dedukti Framework** [application](/_pages/stsm/taprogge-app.pdf)   
+* **Computer-Assisted Proof Verification for Higher-Order Automated Reasoning within the Dedukti Framework** [application](/_pages/stsm/taprogge-app.pdf)  [report](/_pages/stsm/taprogge-rep.pdf)    
   Visitor: Melanie Taprogge  
   Host: Frédéric Blanqui    
   Grant: 2433 EUR  
   Dates: 2024-03-25 to 2024-04-07
 
-* **Bidimensional Markov categories** [application](/_pages/stsm/dilavore-app.pdf)   
+* **Bidimensional Markov categories** [application](/_pages/stsm/dilavore-app.pdf)  [report](/_pages/stsm/ahman-rep.pdf)    
   Visitor: Elena Di Lavore    
   Host: Mario Roman Garcia    
   Grant: 1694 EUR  
   Dates: 2024-03-10 to 2024-03-16
 
-* **Propositional containers and reductions in computability theory** [application](/_pages/stsm/ahman-app.pdf)   
+* **Propositional containers and reductions in computability theory** [application](/_pages/stsm/ahman-app.pdf)  [report](/_pages/stsm/ahman-rep.pdf)    
   Visitor: Danel Ahman   
   Host: Andrej Bauer    
   Grant: 2808 EUR  
