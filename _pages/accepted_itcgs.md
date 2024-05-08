@@ -15,7 +15,7 @@ author_profile: true
 
 ## 4th call (1 May 2024)
 
-* **Comparing Quotient- and Symmetric Containers** [application](/_pages/stsm/joran-TYPES-app.pdf)     
+* **Comparing Quotient- and Symmetric Containers** [application](/_pages/stsm/joram-TYPES-app.pdf)     
   Grantee: Philipp Joram   
   Conference: 30th International Conference on Types for Proofs and Programs  
   Grant: 2000 EUR  
