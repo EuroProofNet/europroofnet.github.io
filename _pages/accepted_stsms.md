@@ -10,10 +10,43 @@ author_profile: true
   Visitor: 
   Host:   
   Grant: 0 EUR  
-  Dates: 2023-03-01 to 2023-04-01
+  Dates: 2024-03-01 to 2024-04-01
 -->
 
 The grant amounts below are initial estimations and not necessarily the final amounts.
+
+## 10th call (1 May  2024)
+
+* **Challenges in the Formal Verification of Attested TLS in Confidential Computing** [application](/_pages/stsm/sardar-app24.pdf)   
+  Visitor: Muhammad Usama Sardar   
+  Host: Lilia Georgieva     
+  Grant: 2264 EUR  
+  Dates: 2024-06-09 to 2024-06-15
+
+* **A type theory for exact and continuous Bayesian observations** [application](/_pages/stsm/roman-app.pdf)   
+  Visitor: Mario Román   
+  Host:  Elena Di Lavore    
+  Grant: 1349 EUR  
+  Dates: 2024-06-10 to 2024-06-14
+
+* **A new axiomatization for synthetic differential geometry** [application](/_pages/stsm/cherubini-app.pdf)   
+  Visitor:  Felix Cherubini   
+  Host: Ulrik Buchholtz     
+  Grant: 1924 EUR  
+  Dates: 2024-06-23 to 2024-06-29
+
+* **A rethinking of a Prolog interpreter based on a three-valued logic using Maude** [application](/_pages/stsm/barbosa-app.pdf)   
+  Visitor: João Barbosa  
+  Host:  Santiago Escobar    
+  Grant: 1057 EUR  
+  Dates: 2024-07-21 to 2024-07-27
+
+* **Coupling SMT and theorem proving to prove hardware/software security mechanisms** [application](/_pages/stsm/stolz-app.pdf)   
+  Visitor: Volker Stolz   
+  Host:  Guillaume HIET     
+  Grant: 1939 EUR  
+  Dates: 2024-09-01 to 2024-09-11
+
 
 ## 9th call (17 March  2024)
 
@@ -54,7 +87,7 @@ The grant amounts below are initial estimations and not necessarily the final am
   Visitor: Horatiu Cheval  
   Host: Vlad Rusu   
   Grant: 1230 EUR  
-  Dates: 2024-10-06 to 2024-06-15
+  Dates: 2024-06-10 to 2024-06-15
 
 * **Proof Theory for Programmers: Promoting Output of Theorem Provers to Formative Feedback for Computer Science Students** [application](/_pages/stsm/perhac-app.pdf)   
   Visitor: Ján Perháč  
