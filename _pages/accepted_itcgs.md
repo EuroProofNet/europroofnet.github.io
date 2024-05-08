@@ -29,13 +29,13 @@ author_profile: true
 
 * **Equational Anti-Unification over Absorption Theories** [application](/_pages/stsm/cerna-IJCAR-app.pdf)     
   Grantee: David Cerna   
-  Conference: International Joint Conference on Automated Reasoning + ( UNIF 2024) 
+  Conference: International Joint Conference on Automated Reasoning + ( UNIF 2024)   
   Grant: 2000 EUR  
   Dates: 2024-06-30 to 2024-07-07
 
 * **Second-order generalised algebraic theories: signatures and first-order semantics** [application](/_pages/stsm/xie-FSCD-app.pdf)     
   Grantee: Szumi Xie   
-  Conference: 9th International Conference on Formal Structures for Computation and Deduction (FSCD 2024) 
+  Conference: 9th International Conference on Formal Structures for Computation and Deduction (FSCD 2024)    
   Grant: 1615 EUR   
   Dates: 2024-07-09 to 2024-07-14
 
