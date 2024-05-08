@@ -23,7 +23,7 @@ author_profile: true
 
 * **Strict syntax of type theory via alpha-normalisation** [application](/_pages/stsm/bense-TYPES-app.pdf)      
   Grantee: Viktor Bense  
-  Conference: 30th International Conference on Types for Proofs and Programs 
+  Conference: 30th International Conference on Types for Proofs and Programs    
   Grant: 2000 EUR  
   Dates: 2024-06-09 to 2024-06-15
 
