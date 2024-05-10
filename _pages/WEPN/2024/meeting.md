@@ -15,7 +15,7 @@ The talks will be followed by a discussion on gender balance issues, subconsciou
 
 ## Invited Speaker
 
-TBA
+[María Inés de Frutos-Fernández](https://mariainesdff.github.io) - Universidad Autónoma de Madrid.
 
 ## Call for contributions
 * Abstract submission deadline: June 3, 2024
