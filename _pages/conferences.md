@@ -39,6 +39,8 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 
 - 26-31 May 2024: [25th Conference on Logic for Programming, Artificial Intelligence and Reasoning](http://www.lpar-25.info) (LPAR'24), Mauritius
 
+- 20-24 May 2024: [1st International Workshop on Highlights in Organizing and Optimizing Proof-logging Systems](https://jakobnordstrom.se/WHOOPS24/) (WHOOPS'24), Copenhagen, Denmark
+
 - 6 May - 16 August 2024: [Trimester on Prospects of formal mathematics](https://www.him.uni-bonn.de/programs/future-programs/future-trimester-programs/prospects-of-formal-mathematics/description/), Hausdorff research institute for mathematics, Bonn, Germany
 
 - 22-23 April 2024: [Workshop on Theory and Applications of Craig Interpolation and Beth Definability](https://cibd.bitbucket.io), Amsterdam, Netherlands
