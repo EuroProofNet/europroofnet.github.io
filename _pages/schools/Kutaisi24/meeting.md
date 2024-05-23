@@ -32,20 +32,10 @@ The goal of the Summer School is to give participants a general overview on mode
 
 | Time         | Monday | Tuesday | Thursday |
 |--------------|--------|---------|----------|
-| 9:00-10:30   | Andrea Kohlhase | David Cerna   | David Cerna    |
-| 11:00-12:30  | Michael Kohlhase| Celine  | Zarathustra Goertzel     |
-| 14:00-15:30  | Peter Koepke  | Peter Koepke   | Yutaka Nagashisma   |
-| 16:00-17:30  | Celine Hocquette | Michael | Andrea Kohlhase  |
-
-
-
-### Format:
-
-TODO
-
-### Optional Travel Support:
-
-TODO
+| 9:00-10:30   | An Introduction to Eye Tracking for a Deeper Understanding of Interactions with Math | Computational Proof Theory: Transforming Proofs Using Automated Reasoning   | Computational Proof Theory: Transforming Proofs Using Automated Reasoning    |
+| 11:00-12:30  | Symbolic Natural Language Processing in GLIF | An Introduction to Symbolic Machine Learning  | AI-Powered Theorem Prover Guidance     |
+| 14:00-15:30  | Natural Language Proving with Naproche  | Natural Language Proving with Naproche   | Interactive Theorem Proving in Isabelle/HOL and Its AI-Driven Automation Efforts   |
+| 16:00-17:30  | An introduction to Symbolic Machine Learning | Symbolic Natural Language Processing in GLIF | An Introduction to Eye Tracking for a Deeper Understanding of Interactions with Math  |
 
 ### Directions:
 
