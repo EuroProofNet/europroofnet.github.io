@@ -40,7 +40,7 @@ The goal of the Summer School is to give participants a general overview on mode
 
 From Kutaisi International Airport, take a bus to the city center for around €4. Alternatively, you can take a taxi for about €10. From the city center to [Kutaisi International University](https://www.google.com/maps/place/Kutaisi+International+University+%7C+Building+K+%7C/@42.2112127,42.7135331,17z/data=!4m10!1m2!2m1!1skutaisi+international+university!3m6!1s0x405cedda7a2ef2d1:0xb65f0fc450dc07e6!8m2!3d42.213231!4d42.7154753!15sCiBrdXRhaXNpIGludGVybmF0aW9uYWwgdW5pdmVyc2l0eZIBCnVuaXZlcnNpdHngAQA!16s%2Fg%2F11hft0jt6k?entry=ttu), there is bus N3 where you can pursue ticket using credit/debit card.
 
-You can also order a taxi directly from the airport to the university without going to the city center. For finding out public transport routes and schedules, you can use the Moovit app, or use taxi apps such as maxim and YandexGo.
+You can also order a taxi directly from the airport to the university without going to the city center. For finding out public transport routes and schedules, you can use the Moovit app, or use taxi apps such as maxim and YandexGo
 
 ### Event Photos:
 
