@@ -4,7 +4,6 @@ layout: single
 permalink: /Kutaisi24/
 author_profile: true
 breadcrumbs: true
-
 ---
 
 Will take place at Kutaisi International University, Kutaisi, Georgia, June 24th-28th 2024, organised by David Cerna and Besik Dundua.
