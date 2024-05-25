@@ -23,7 +23,7 @@ The event is scheduled as a two-day meeting. Times are CET.
 * 11:15-11:45 **Break**
 * 11:45-12:45 **Talks**
   - 11:45-12:15: *Why formal methods remain inaccessible for most cryptographers*. Georgio Nicolas (KU Leuven, Belgium) [(slides)](./Slides/27-03-Georgio-Nicolas.pdf)
-  - 12:15-12:45: *Verification of cryptographic protocols*. ilias Cherkaoui (Walton Institute, Ireland) 
+  - 12:15-12:45: *Verification of cryptographic protocols*. ilias Cherkaoui (Walton Institute, Ireland) [(slides)](./Slides/27-04-Ilias-Cherkaoui.pdf)
 * 12:45-14:30 **Lunch break** 
 * 14:30-15:30 **Talks** 
   - 14:30-15:30: *Platform-level Formal Verification for Public Sector Trustworthy Computing: Considerations and Challenges*. Andreas Berg (gematik GmbH, Germany) [(slides)](./Slides/27-05-Andreas-Berg.pdf)
