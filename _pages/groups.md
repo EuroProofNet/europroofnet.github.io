@@ -163,3 +163,4 @@ Groups marked with (EPN) have members participating to EuroProofNet.
 - [Programming, Logic, and Semantics Group](https://www.cl.cam.ac.uk/research/pls/index.html), University of Cambridge (EPN)
 - [Software Systems group](https://www.kcl.ac.uk/research/ssy), King's College London (EPN)
 - [Theory of Computation](https://www.birmingham.ac.uk/research/activity/computer-science/theory-of-computation/index.aspx), University of Birmingham (EPN)
+- [Department of Computer Science] (https://www.royalholloway.ac.uk/research-and-teaching/departments-and-schools/computer-science/), Royal Holloway, University of London
