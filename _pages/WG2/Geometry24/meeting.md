@@ -31,6 +31,16 @@ Remark: the official dates of the meeting taken into account for reimbursements 
 
 Alexander Vujic, Anna Petiurenko,Jelena Marković, Julien Narboux, Nicolas Magaud, Nuno Baeta, Pedro Quaresma, Piotr Błaszczyk, Vesna Marinković, Zoltán Kovács
 
+**Some Photos:**
+![WhatsApp Image 2024-05-28 at 11 51 36](https://github.com/EuroProofNet/europroofnet.github.io/assets/33553413/61ac4de1-12af-48e2-a61f-addef71b7384)
+![WhatsApp Image 2024-05-28 at 19 53 38](https://github.com/EuroProofNet/europroofnet.github.io/assets/33553413/5793d75c-9424-4f73-9865-00ca3f67dca8)
+![WhatsApp Image 2024-05-28 at 14 11 54](https://github.com/EuroProofNet/europroofnet.github.io/assets/33553413/4cae0fdd-7d6a-4e06-b2ce-bf1afbb1707e)
+![img3407](https://github.com/EuroProofNet/europroofnet.github.io/assets/33553413/c86cd78f-d8af-45bd-88d5-55678ef1d645)
+
+
+
+
+
 **Programme:**
 
 | Day 1           |  28 May |
