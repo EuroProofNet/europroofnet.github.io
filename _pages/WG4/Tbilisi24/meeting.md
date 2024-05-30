@@ -6,7 +6,7 @@ author_profile: true
 breadcrumbs: true
 ---
 
-**Date:** 13 or 14 September 2024, colocated with the [15th Conference on Interactive Theorem Proving](https://www.viam.science.tsu.ge/itp2024/) (ITP'24) on September 9-13, the [Coq workshop](https://coq-workshop.gitlab.io/2024/) and the [Isabelle workshop](https://sketis.net/isabelle/isabelle-workshop-2024) on September 14.
+**Date:** 13-14 September 2024, colocated with the [15th Conference on Interactive Theorem Proving](https://www.viam.science.tsu.ge/itp2024/) (ITP'24) on September 9-13, the [Coq workshop](https://coq-workshop.gitlab.io/2024/) and the [Isabelle workshop](https://sketis.net/isabelle/isabelle-workshop-2024) on September 14.
 
 **Venue:** [Tbilisi State University, Chavchavadze ave. 1, 0179 Tbilisi, Georgia](https://www.viam.science.tsu.ge/itp2024/venue)
 
