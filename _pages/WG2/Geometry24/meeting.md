@@ -10,7 +10,7 @@ breadcrumbs: true
 
 **Date:** 28-30 May 2024
 
-Remark: the official dates of the meeting taken into account for reimbursements are from 28 to 30 of May (3 days). However, since most people will arrive on the 27th and leave on the 31st, the program includes two optional work sessions on those days (afternoon and morning).
+Remark: the official dates of the meeting taken into account for reimbursements are from 28 to 30 of May (3 days). 
 
 **Venue:** [Hôtel Restaurant Campanile Nice Aéroport, Nice, France](https://nice-aeroport.campanile.com/fr-fr/) 459-461 Promenade Des Anglais L'arénas 06200 Nice, France
 
@@ -29,7 +29,7 @@ Remark: the official dates of the meeting taken into account for reimbursements 
 
 **Registered participants:**
 
-Alexander Vujic, Anna Petiurenko,Jelena Marković, Julien Narboux, Nicolas Magaud, Nuno Baeta, Pedro Quaresma, Piotr Błaszczyk, Vesna Marinković, Zoltán Kovács
+Alexander Vujic, Anna Petiurenko,Jelena Marković, Julien Narboux, Pierre Boutry, Nuno Baeta, Pedro Quaresma, Piotr Błaszczyk, Vesna Marinković, Zoltán Kovács. Thierry Dana-Picard also join the group (extra-registry).
 
 **Some Photos:**
 ![WhatsApp Image 2024-05-28 at 11 51 36](https://github.com/EuroProofNet/europroofnet.github.io/assets/33553413/61ac4de1-12af-48e2-a61f-addef71b7384)
