@@ -24,7 +24,7 @@ workshop, please send a mail to [Frédéric Blanqui](https://blanqui.gitlabpages
 **Funding application:** If you want to be reimbursed of your transport to Tbilisi, and of your accommodation and meals during the workshop (including a day before/after), following the COST [reimbursement rules](https://europroofnet.github.io/reimbursement-rules/), with a daily allowance of 80 euros, you need to:
 - check your [eligibility](https://europroofnet.github.io/eligibility)
 - [register](https://e-services.cost.eu/action/CA20111/working-groups/apply) to at least one EuroProofNet working group
-- send a mail to [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/) with the following information: arrival and departure dates, and estimation in EUROS of the transport to Tbilisi with a screen capture
+- send a mail to [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/) with the following information: departure date from home, return date at home, and estimation in EUROS of the transport to Tbilisi with a screen capture
 
 <!--
 **Programme:**
