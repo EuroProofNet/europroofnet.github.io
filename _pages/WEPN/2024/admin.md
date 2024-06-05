@@ -16,9 +16,9 @@ breadcrumbs: true
     * [x] starting date and time: 06/07/2024 14h00
     * [x] ending date and time: 06/07/2024 18h00
 
-- [] The organizer checks the prices of accommodations and restaurants around the place of the meeting at the dates of the meeting, and sends to the chair a proposal for the daily allowance.
+- [x] The organizer checks the prices of accommodations and restaurants around the place of the meeting at the dates of the meeting, and sends to the chair a proposal for the daily allowance.
 
-    * [] daily allowance: 160 ?
+    * [x] daily allowance: 160 
 
 - [] The chair sets up the event on https://e-services.cost.eu/, but not the LOS yet (this will be done later).
 
@@ -28,7 +28,7 @@ breadcrumbs: true
 
 - [] The Grant Holder checks the eligibility of the LOS and sends the result to the organizer and the chair.
 
-- [] The chair and the organizer fix the deadline for reimbursement applications at least 1 month before the meeting, and the date of a core group meeting within 1 week after the deadline, to decide which participants will be reimbursed.
+- [x] The chair and the organizer fix the deadline for reimbursement applications at least 1 month before the meeting, and the date of a core group meeting within 1 week after the deadline, to decide which participants will be reimbursed.
 
     * deadline: 
 
