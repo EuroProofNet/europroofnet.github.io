@@ -68,7 +68,7 @@ the [Grant Holder](mailto:saf-saclay-recettes@inria.fr).
 
 **Management Committee/Country representatives**
 
-Each COST (cooperating) member country can have one or two representatives. There are currently 34/42 countries represented in EuroProofNet. We are looking for representatives for Armenia, Cyprus, Latvia, Malta, the Republic of Moldova, Montenegro, Ukraine. If you are interested, please contact the chair.
+Each COST (cooperating) member country can have one or two representatives. There are currently 34/42 countries represented in EuroProofNet. We are looking for representatives for Armenia, Cyprus, Latvia, Malta, the Republic of Moldova, Montenegro. If you are interested, please contact the chair.
 
 - Albania: Elda Xhumari
 - Austria: [Laura Kovács](http://lkovacs.com/) and [Cezary Kaliszyk](http://cl-informatik.uibk.ac.at/cek/)

@@ -13,6 +13,7 @@ author_profile: true
 
 **2024**
 
+- 28-30 May 2024: [WG2 meeting on ATPs for geometry](../wg2-geo24), Nice, France
 - 1st May 2024: [deadline for STSM and ITCG proposals between May and September 2024](../grants)
 - 23-25 April 2024: [inter-WG developers meeting](../inter-wg-24), Le Val d'Ajol, France
 - 4-5 April 2024: [WG6 meeting](../wg6-leuven), Leuven, Belgium, in co-location with the [2024 HoTT/UF workshop](https://hott-uf.github.io/2024/)
