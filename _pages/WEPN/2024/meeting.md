@@ -44,7 +44,7 @@ Note that it is possible to arrive a few days before and leave a few days after 
 Please contact [Sandra Alves](sandra@fc.up.pt) if you have any problem during the application for funding process, including reluctance to use google forms.
 
 ### Program
-The following is a tentative combined program for the two events
+The following is a tentative combined program for the two events (subject to change).
 #### Day 1 (Women in Formal Math and Women in EuroProofNet)
 | Time        | Session |
 | ----------- | ----------- |
