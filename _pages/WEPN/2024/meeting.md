@@ -49,7 +49,7 @@ The following is a tentative combined program for the two events (subject to cha
 | Time        | Session |
 | ----------- | ----------- |
 | 09:25-09:30 | Opening & Welcome |
-| 09:30-10:30 | Invited talk - Ursula Martins: "The social machine of mathematics"
+| 09:30-10:30 | Invited talk - Ursula Martins: "The social machine of mathematics" |
 | 10:30-11:00 |  _Coffee/Tea_ |
 | 11:00-11:40 | Roussanka Loukanova: "Algorithmic Syntax-Semantics with the Type Theory of acyclic Algorithms" |
 | 12:00-14:00 | _Lunch_ |
