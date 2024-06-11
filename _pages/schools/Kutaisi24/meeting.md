@@ -12,7 +12,7 @@ Will take place at Kutaisi International University, Kutaisi, Georgia, June 24th
 
 The goal of the Summer School is to give participants a general overview on modern AI based techniques and tools for reasoning and mathematical knowledge management. The intended audience is computer science and mathematics students as well as researchers interested in this field. The offered courses are: 
 
-- An Intro to Eye Tracking for a deeper Understanding of Interactions with Math ([Andrea Kohlhase](http://www.hnu.de/andrea-kohlhase), Hochschule Neu-Ulm, Germany)
+- An Introduction to Eye Tracking for a Deeper Understanding of Interactions with Math ([Andrea Kohlhase](http://www.hnu.de/andrea-kohlhase), Hochschule Neu-Ulm, Germany)
 
 - Symbolic Natural Language Processing in GLIF ([Michael Kohlhase](http://www.dhss.phil.fau.de/person/michael-kohlhase/), University of Erlangen–Nuremberg, Germany)
 
@@ -20,7 +20,7 @@ The goal of the Summer School is to give participants a general overview on mode
 
 - AI-Powered Theorem Prover Guidance ([Zarathustra Goertzel](https://gardenofminds.art/research/), Czech Institute of Informatics, Robotics and Cybernetics, Czechia)
 
-- ILP, symbolic AI ([Celine Hocquette](https://celinehocquette.github.io/), University of Oxford, United Kingdom)
+- An Introduction to Symbolic Machine Learning ([Celine Hocquette](https://celinehocquette.github.io/), University of Oxford, United Kingdom)
 
 - Interactive Theorem Proving in Isabelle/HOL and Its AI-Driven Automation Efforts ([Yutaka Nagashisma](https://unitedreasoning.wordpress.com/about/), Czech Academy Of Sciences, Czechia)
 
@@ -29,12 +29,14 @@ The goal of the Summer School is to give participants a general overview on mode
 
 ### Schedule
 
-| Time         | Monday | Tuesday | Thursday |
-|--------------|--------|---------|----------|
-| 9:00-10:30   | An Introduction to Eye Tracking for a Deeper Understanding of Interactions with Math | Computational Proof Theory: Transforming Proofs Using Automated Reasoning   | Computational Proof Theory: Transforming Proofs Using Automated Reasoning    |
-| 11:00-12:30  | Symbolic Natural Language Processing in GLIF | An Introduction to Symbolic Machine Learning  | AI-Powered Theorem Prover Guidance     |
-| 14:00-15:30  | Natural Language Proving with Naproche  | Natural Language Proving with Naproche   | Interactive Theorem Proving in Isabelle/HOL and Its AI-Driven Automation Efforts   |
-| 16:00-17:30  | An introduction to Symbolic Machine Learning | Symbolic Natural Language Processing in GLIF | An Introduction to Eye Tracking for a Deeper Understanding of Interactions with Math  |
+| Time         | Monday              | Tuesday              | Thursday                                              | Friday                                                |
+|--------------|---------------------|----------------------|-------------------------------------------------------|-------------------------------------------------------|
+| 9:00-10:30   |                     | Michael Kohlhase     | Peter Koepke                                          | Andrea Kohlhase                                       |
+| 11:00-12:30  |                     | Celine Hocquette     | Zarathustra Goertzel                                  | David Cerna                                           |
+| 14:00-15:30  |                     | Peter Koepke         | Yutaka Nagashisma                                     |                                                       |
+| 16:00-17:30  | Andrea Kohlhase     | David Cerna          | Michael Kohlhase                                      |                                                       |
+| 18:00-19:30  | Celine Hocquette    |                      |                                                       |                                                       |
+
 
 ### Directions:
 
