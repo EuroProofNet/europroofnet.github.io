@@ -29,13 +29,13 @@ The goal of the Summer School is to give participants a general overview on mode
 
 ### Schedule
 
-| Time         | Monday | Tuesday | Thursday | Friday |
-|--------------|--------|---------|----------|--------|
-| 9:00-10:30   |        | Symbolic Natural Language Processing in GLIF | Natural Language Proving with Naproche | An Introduction to Eye Tracking for a Deeper Understanding of Interactions with Math |
-| 11:00-12:30  |        | An Introduction to Symbolic Machine Learning | AI-Powered Theorem Prover Guidance | Computational Proof Theory: Transforming Proofs Using Automated Reasoning |
-| 14:00-15:30  |        | Natural Language Proving with Naproche | Interactive Theorem Proving in Isabelle/HOL and Its AI-Driven Automation Efforts |        |
-| 16:00-17:30  | An Introduction to Eye Tracking for a Deeper Understanding of Interactions with Math | Computational Proof Theory: Transforming Proofs Using Automated Reasoning | Symbolic Natural Language Processing in GLIF |  |        |
-| 18:00-19:30  | An Introduction to Symbolic Machine Learning |         |          |        |
+| Time         | Monday              | Tuesday              | Thursday                                              | Friday                                                |
+|--------------|---------------------|----------------------|-------------------------------------------------------|-------------------------------------------------------|
+| 9:00-10:30   |                     | Michael Kohlhase     | Peter Koepke                                          | Andrea Kohlhase                                       |
+| 11:00-12:30  |                     | Celine Hocquette     | Zarathustra Goertzel                                  | David Cerna                                           |
+| 14:00-15:30  |                     | Peter Koepke         | Yutaka Nagashisma                                     |                                                       |
+| 16:00-17:30  | Andrea Kohlhase     | David Cerna          | Michael Kohlhase                                      |                                                       |
+| 18:00-19:30  | Celine Hocquette    |                      |                                                       |                                                       |
 
 
 ### Directions:
