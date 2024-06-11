@@ -44,7 +44,36 @@ Note that it is possible to arrive a few days before and leave a few days after 
 Please contact [Sandra Alves](sandra@fc.up.pt) if you have any problem during the application for funding process, including reluctance to use google forms.
 
 ### Program
-The event is scheduled as a half-day meeting.
+
+The following is a tentative combined program for the two events (subject to change).
+#### Day 1 (Women in Formal Math and Women in EuroProofNet)
+
+| Time        | Session |
+| ----------- | ----------- |
+| 09:25-09:30 | Opening & Welcome |
+| 09:30-10:30 | Invited talk - Ursula Martins: "The social machine of mathematics" |
+| 10:30-11:00 |  _Coffee Tea Break_ |
+| 11:00-11:40 | Roussanka Loukanova: "Algorithmic Syntax-Semantics with the Type Theory of acyclic Algorithms" |
+| 12:00-14:00 | _Lunch_ |
+| 14:00-15:00 | WEPN Invited talk - María Inés de Frutos-Fernández: TBA |
+| 15:00-15:30 | _Coffee Tea Break_ |
+| 15:30-16:10 | Uskuplu Elif: "Formalizing locally nameless syntax with cofinite quantification" |
+| 16:10-16:50 | Anshula Gandhi: "Automatically Generalizing Proofs" |
+| 16:50-      | WEPN discussion |
+
+#### Day 2 (Women in Formal Math)
+
+| Time        | Session |
+| ----------- | ----------- |
+| 09:30-10:30 | Invited talk - Sandra Alves: "Structural Rules and Algebraic Properties of Intersection Types" |
+| 10:30-11:00 |  _Coffee Tea Break_ |
+| 11:00-11:40 | Lucy Horowitz: TBA |
+| 12:00-14:00 | _Lunch_ |
+| 14:00-15:00 | Invited talk - Brigitte Pientka: TBA |
+| 15:00-15:30 | _Coffee Tea Break_ |
+| 15:30-16:10 | Andrea Kolhase: TBA |
+| 16:10-16:50 | Gisele Reis: "Loparic avec les lacaniens - challenges from a translation" |
+| 16:50-      | Discussion2: WIL Next Steps |
 
 ### Booklet of best practices
 Within the cost action European Network For Gender Balance in Informatics ([EUGAIN](https://eugain.eu/)) a [Booklet “From Ph.D. to Professor”](https://eugain.eu/results/deliverables/) of best practices was developed to address some of the gender balance issues, particularly in the stage between PhD and professorship. The booklet is going to be updated during the life of the EUGAIN action.
