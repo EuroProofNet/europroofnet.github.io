@@ -67,11 +67,11 @@ The following is a tentative combined program for the two events (subject to cha
 | ----------- | ----------- |
 | 09:30-10:30 | Invited talk - Sandra Alves: "Structural Rules and Algebraic Properties of Intersection Types" |
 | 10:30-11:00 |  _Coffee Tea Break_ |
-| 11:00-11:40 | Lucy Horowitz: TBA |
+| 11:00-11:40 | Lucy Horowitz: "MathGloss and Beyond" |
 | 12:00-14:00 | _Lunch_ |
-| 14:00-15:00 | Invited talk - Brigitte Pientka: TBA |
+| 14:00-15:00 | Invited talk - Brigitte Pientka: "A Type-Theoretic Framework for Certified Meta-programming" |
 | 15:00-15:30 | _Coffee Tea Break_ |
-| 15:30-16:10 | Andrea Kolhase: TBA |
+| 15:30-16:10 | Andrea Kolhase: "Insights into Search Interfaces for Mathematicians" |
 | 16:10-16:50 | Gisele Reis: "Loparic avec les lacaniens - challenges from a translation" |
 | 16:50-      | Discussion2: WIL Next Steps |
 
