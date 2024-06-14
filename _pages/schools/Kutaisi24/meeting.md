@@ -20,7 +20,7 @@ The goal of the Summer School is to give participants a general overview on mode
 
 - AI-Powered Theorem Prover Guidance ([Zarathustra Goertzel](https://gardenofminds.art/research/), Czech Institute of Informatics, Robotics and Cybernetics, Czechia)
 
-- An Introduction to Symbolic Machine Learning ([Celine Hocquette](https://celinehocquette.github.io/), University of Oxford, United Kingdom)
+- An introduction to Inductive Logic Programming ([Celine Hocquette](https://celinehocquette.github.io/), University of Oxford, United Kingdom)
 
 - Interactive Theorem Proving in Isabelle/HOL and Its AI-Driven Automation Efforts ([Yutaka Nagashisma](https://unitedreasoning.wordpress.com/about/), Czech Academy Of Sciences, Czechia)
 
