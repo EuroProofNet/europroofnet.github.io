@@ -46,7 +46,7 @@ Please contact [Sandra Alves](sandra@fc.up.pt) if you have any problem during th
 ### Program
 
 The following is a tentative combined program for the two events (subject to change).
-#### Day 1 (Women in Formal Math and Women in EuroProofNet)
+#### Day 1 - July 6, 2024 (Women in Formal Math and Women in EuroProofNet)
 
 | Time        | Session |
 | ----------- | ----------- |
@@ -61,7 +61,7 @@ The following is a tentative combined program for the two events (subject to cha
 | 16:10-16:50 | Anshula Gandhi: "Automatically Generalizing Proofs" |
 | 16:50-      | WEPN discussion |
 
-#### Day 2 (Women in Formal Math)
+#### Day 2 - July 7, 2024 (Women in Formal Math)
 
 | Time        | Session |
 | ----------- | ----------- |
