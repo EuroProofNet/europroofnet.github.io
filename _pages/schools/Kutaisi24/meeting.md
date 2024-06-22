@@ -16,7 +16,7 @@ The goal of the Summer School is to give participants a general overview on mode
 
 - Symbolic Natural Language Processing in GLIF ([Michael Kohlhase](http://www.dhss.phil.fau.de/person/michael-kohlhase/), University of Erlangen–Nuremberg, Germany)
 
-- Natural language proving with Naproche ([Peter Koepke](http://www.math.uni-bonn.de/people/koepke/), University of Bonn, Germany)
+- Natural language proving with Naproche ([Peter Koepke](http://www.math.uni-bonn.de/people/koepke/), University of Bonn, Germany. Adrian De Lon, University of Bonn, Germany )
 
 - AI-Powered Theorem Prover Guidance ([Zarathustra Goertzel](https://gardenofminds.art/research/), Czech Institute of Informatics, Robotics and Cybernetics, Czechia)
 
@@ -31,9 +31,9 @@ The goal of the Summer School is to give participants a general overview on mode
 
 | Time         | Monday              | Tuesday              | Thursday                                              | Friday                                                |
 |--------------|---------------------|----------------------|-------------------------------------------------------|-------------------------------------------------------|
-| 9:00-10:30   |                     | Michael Kohlhase     | Peter Koepke                                          | Andrea Kohlhase                                       |
+| 9:00-10:30   |                     | Michael Kohlhase     | Peter Koepke, Adrian De Lon                                          | Andrea Kohlhase                                       |
 | 11:00-12:30  |                     | Celine Hocquette     | Zarathustra Goertzel                                  | David Cerna                                           |
-| 14:00-15:30  |                     | Peter Koepke         | Yutaka Nagashisma                                     |                                                       |
+| 14:00-15:30  |                     | Peter Koepke, Adrian De Lon         | Yutaka Nagashisma                                     |                                                       |
 | 16:00-17:30  | Andrea Kohlhase     | David Cerna          | Michael Kohlhase                                      |                                                       |
 | 18:00-19:30  | Celine Hocquette    |                      |                                                       |                                                       |
 
