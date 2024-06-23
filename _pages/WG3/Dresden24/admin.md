@@ -82,7 +82,7 @@ during the meeting:
 
 - [x] The organizer adds photos of the event on https://europroofnet.github.io/.
 
-- [ ] The organizer sends photos to the science communication coordinators.
+- [x] The organizer sends photos to the science communication coordinators.
 
 - [ ] The science communication coordinators advertise the event on social networks.
 
@@ -94,7 +94,7 @@ during the meeting:
 
 - [x] The organizer adds the slides of the talks on the web site.
 
-- [ ] The organizer adds the videos of the talks on the web site.
+- [x] The organizer adds the videos of the talks on the web site.
 
 - [x] The organizer adds its claim for LOS on https://e-services.cost.eu/.
 
