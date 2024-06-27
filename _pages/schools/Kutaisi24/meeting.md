@@ -12,13 +12,13 @@ Will take place at Kutaisi International University, Kutaisi, Georgia, June 24th
 
 The goal of the Summer School is to give participants a general overview on modern AI based techniques and tools for reasoning and mathematical knowledge management. The intended audience is computer science and mathematics students as well as researchers interested in this field. The offered courses are: 
 
-- An Introduction to Eye Tracking for a Deeper Understanding of Interactions with Math ([Andrea Kohlhase](http://www.hnu.de/andrea-kohlhase), Hochschule Neu-Ulm, Germany)
-
+- [An Introduction to Eye Tracking for a Deeper Understanding of Interactions with Math]({{ site.url }}/_pages/schools/Kutaisi/Andrea.pdf)
+ ([Andrea Kohlhase](http://www.hnu.de/andrea-kohlhase), Hochschule Neu-Ulm, Germany)
 - Symbolic Natural Language Processing in GLIF ([Michael Kohlhase](http://www.dhss.phil.fau.de/person/michael-kohlhase/), University of Erlangen–Nuremberg, Germany)
 
 - Natural language proving with Naproche ([Peter Koepke](http://www.math.uni-bonn.de/people/koepke/), University of Bonn, Germany. Adrian De Lon, University of Bonn, Germany )
 
-- AI-Powered Theorem Prover Guidance ([Zarathustra Goertzel](https://gardenofminds.art/research/), Czech Institute of Informatics, Robotics and Cybernetics, Czechia)
+- [AI-Powered Theorem Prover Guidance]({{ site.url }}/_pages/WG5/Prague23/pres/Zar.pdf)([Zarathustra Goertzel](https://gardenofminds.art/research/), Czech Institute of Informatics, Robotics and Cybernetics, Czechia)
 
 - An introduction to Inductive Logic Programming ([Celine Hocquette](https://celinehocquette.github.io/), University of Oxford, United Kingdom)
 
