@@ -46,4 +46,20 @@ You can also order a taxi directly from the airport to the university without go
 
 ### Event Photos:
 
-upcoming
+- Kutaisi, Georgia
+  ![Group]({{ site.url }}/_pages/schools/Kutaisi24/pictures/Kutaisi)
+- Georgian Dinner
+  ![Group]({{ site.url }}/_pages/schools/Kutaisi24/pictures/dinner)
+- Students and Lecturers
+  ![Group]({{ site.url }}/_pages/schools/Kutaisi24/pictures/Students.jpeg)
+- Lecturers and Rector
+  ![Group]({{ site.url }}/_pages/schools/Kutaisi24/pictures/Lecturers_and_Rector.jpeg)
+- Michael Kohlhase Lecture
+  ![Group]({{ site.url }}/_pages/schools/Kutaisi24/pictures/michael_Kohlhase)
+- Peter Koepke Lecture
+  ![Group]({{ site.url }}/_pages/schools/Kutaisi24/pictures/peter_koepke)
+- Zarathustra Goertzel  Lecture
+  ![Group]({{ site.url }}/_pages/schools/Kutaisi24/pictures/Zar_Goertzel)
+
+- Yutaka Nagashisma Lecture
+  ![Group]({{ site.url }}/_pages/schools/Kutaisi24/pictures/Yutaka_nagashima_two)
