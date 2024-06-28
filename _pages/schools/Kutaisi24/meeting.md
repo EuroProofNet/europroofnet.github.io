@@ -14,7 +14,7 @@ The goal of the Summer School is to give participants a general overview on mode
 
 - [An Introduction to Eye Tracking for a Deeper Understanding of Interactions with Math]({{ site.url }}/_pages/schools/Kutaisi24/pres/Andrea.pdf)
  ([Andrea Kohlhase](http://www.hnu.de/andrea-kohlhase), Hochschule Neu-Ulm, Germany)
-- Symbolic Natural Language Processing in GLIF ([Michael Kohlhase](http://www.dhss.phil.fau.de/person/michael-kohlhase/), University of Erlangen–Nuremberg, Germany)
+- [Symbolic Natural Language Processing in GLIF]({{ site.url }}/_pages/schools/Kutaisi24/pres/Michael.pdf)  ([Michael Kohlhase](http://www.dhss.phil.fau.de/person/michael-kohlhase/), University of Erlangen–Nuremberg, Germany)
 
 - Natural language proving with Naproche ([Peter Koepke](http://www.math.uni-bonn.de/people/koepke/), University of Bonn, Germany. Adrian De Lon, University of Bonn, Germany )
 
@@ -24,7 +24,7 @@ The goal of the Summer School is to give participants a general overview on mode
 
 - Interactive Theorem Proving in Isabelle/HOL and Its AI-Driven Automation Efforts ([Yutaka Nagashisma](https://unitedreasoning.wordpress.com/about/), Czech Academy Of Sciences, Czechia)
 
-- Computational Proof Theory: Transforming Proofs using Automated Reasoning ([David Cerna](http://www.cs.cas.cz/dcerna/), Czech Academy Of Sciences, Czechia)
+- [Computational Proof Theory: Transforming Proofs using Automated Reasoning]({{ site.url }}/_pages/schools/Kutaisi24/pres/David.pdf) ([David Cerna](http://www.cs.cas.cz/dcerna/), Czech Academy Of Sciences, Czechia)
 
 
 ### Schedule
