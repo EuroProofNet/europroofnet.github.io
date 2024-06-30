@@ -55,9 +55,9 @@ The following is a tentative combined program for the two events (subject to cha
 | 10:30-11:00 |  _Coffee Tea Break_ |
 | 11:00-11:40 | Roussanka Loukanova: "Algorithmic Syntax-Semantics with the Type Theory of acyclic Algorithms" |
 | 12:00-14:00 | _Lunch_ |
-| 14:00-15:00 | WEPN Invited talk - María Inés de Frutos-Fernández: "Local fields in Lean" |
+| 14:00-15:00 | Invited talk - María Inés de Frutos-Fernández: "Local fields in Lean" |
 | 15:00-15:30 | _Coffee Tea Break_ |
-| 15:30-16:10 | Mateja Jamnik: "How can we make trustworthy AI" |
+| 15:30-16:10 | Invited talk - Mateja Jamnik: "How can we make trustworthy AI" |
 | 16:10-16:50 | Anshula Gandhi: "Automatically Generalizing Proofs" |
 | 16:50-      | WEPN discussion |
 
