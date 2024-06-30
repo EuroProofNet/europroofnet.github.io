@@ -57,9 +57,9 @@ The following is a tentative combined program for the two events (subject to cha
 | 12:00-14:00 | _Lunch_ |
 | 14:00-15:00 | Invited talk - María Inés de Frutos-Fernández: "Local fields in Lean" |
 | 15:00-15:30 | _Coffee Tea Break_ |
-| 15:30-16:10 | Invited talk - Mateja Jamnik: "How can we make trustworthy AI" |
-| 16:10-16:50 | Anshula Gandhi: "Automatically Generalizing Proofs" |
-| 16:50-      | WEPN discussion |
+| 15:30-16:15 | Invited talk - Mateja Jamnik: "How can we make trustworthy AI" |
+| 16:15-16:55 | Anshula Gandhi: "Automatically Generalizing Proofs" |
+| 17:00-      | WEPN discussion |
 
 #### Day 2 - July 7, 2024 (Women in Formal Math)
 
