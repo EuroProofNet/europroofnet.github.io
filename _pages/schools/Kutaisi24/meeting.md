@@ -60,6 +60,11 @@ You can also order a taxi directly from the airport to the university without go
   ![Group]({{ site.url }}/_pages/schools/Kutaisi24/pictures/peter_koepke)
 - Zarathustra Goertzel  Lecture
   ![Group]({{ site.url }}/_pages/schools/Kutaisi24/pictures/Zar_Goertzel)
-
 - Yutaka Nagashisma Lecture
   ![Group]({{ site.url }}/_pages/schools/Kutaisi24/pictures/Yutaka_nagashima_two)
+- Andrea Kohlhase Lecture
+  ![Group]({{ site.url }}/_pages/schools/Kutaisi24/pictures/Andrea_Kohlhase)
+- View from dinner provided by hosting university
+  ![Group]({{ site.url }}/_pages/schools/Kutaisi24/pictures/Host_University_Dinner)
+- Challenges overcame
+  ![Group]({{ site.url }}/_pages/schools/Kutaisi24/pictures/Georgian_Weather)
