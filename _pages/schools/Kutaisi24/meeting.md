@@ -12,7 +12,7 @@ Will take place at Kutaisi International University, Kutaisi, Georgia, June 24th
 
 The goal of the Summer School is to give participants a general overview on modern AI based techniques and tools for reasoning and mathematical knowledge management. The intended audience is computer science and mathematics students as well as researchers interested in this field. The offered courses are: 
 
-- [An Introduction to Eye Tracking for a Deeper Understanding of Interactions with Math]({{ site.url }}/_pages/schools/Kutaisi24/pres/Andrea.pdf)
+- [An Introduction to Eye Tracking for a Deeper Understanding of Interactions with Math]({{ site.url }}/_pages/schools/Kutaisi24/pres/Andrea.pdf) [part 2]({{ site.url }}/_pages/schools/Kutaisi24/pres/Andrea_2.pdf)
  ([Andrea Kohlhase](http://www.hnu.de/andrea-kohlhase), Hochschule Neu-Ulm, Germany)
 - [Symbolic Natural Language Processing in GLIF]({{ site.url }}/_pages/schools/Kutaisi24/pres/Michael.pdf)  ([Michael Kohlhase](http://www.dhss.phil.fau.de/person/michael-kohlhase/), University of Erlangen–Nuremberg, Germany)
 
