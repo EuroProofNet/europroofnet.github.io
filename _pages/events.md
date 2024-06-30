@@ -13,6 +13,9 @@ author_profile: true
 
 **2024**
 
+- 26-29 June 2024: [SAT/SMT/AR school](https://sat-smt-ar-school.gitlab.io/www/2024/), Nancy, France, in co-location with [IJCAR'24](https://merz.gitlabpages.inria.fr/2024-ijcar/)
+- 24-27 June 2024: [Summer School on Symbolic and Statistical Methods for Reasoning and Processing of Formal Expressions](../Kutaisi24), Kutaisi, Georgia
+- 14-15 June 2024: [Workshop on Proof Systems for Mathematics and Verification](https://proofs.swiss/ps/2024/), Lausanne, Switzerland, just after the [30th Workshop on Logic, Language, Information and Computation](https://wollic2024.inf.unibe.ch/)
 - 28-30 May 2024: [WG2 meeting on ATPs for geometry](../wg2-geo24), Nice, France
 - 1st May 2024: [deadline for STSM and ITCG proposals between May and September 2024](../grants)
 - 23-25 April 2024: [inter-WG developers meeting](../inter-wg-24), Le Val d'Ajol, France
