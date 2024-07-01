@@ -16,7 +16,7 @@ The goal of the Summer School is to give participants a general overview on mode
  ([Andrea Kohlhase](http://www.hnu.de/andrea-kohlhase), Hochschule Neu-Ulm, Germany)
 - [Symbolic Natural Language Processing in GLIF]({{ site.url }}/_pages/schools/Kutaisi24/pres/Michael.pdf)  ([Michael Kohlhase](http://www.dhss.phil.fau.de/person/michael-kohlhase/), University of Erlangen–Nuremberg, Germany)
 
-- Natural language proving with Naproche ([Peter Koepke](http://www.math.uni-bonn.de/people/koepke/), University of Bonn, Germany. Adrian De Lon, University of Bonn, Germany )
+- [Natural language proving with Naproche]({{ site.url }}/_pages/schools/Kutaisi24/pres/Peter.pdf) ([Peter Koepke](http://www.math.uni-bonn.de/people/koepke/), University of Bonn, Germany. Adrian De Lon, University of Bonn, Germany )
 
 - [AI-Powered Theorem Prover Guidance]({{ site.url }}/_pages/schools/Kutaisi24/pres/Zar.pdf)([Zarathustra Goertzel](https://gardenofminds.art/research/), Czech Institute of Informatics, Robotics and Cybernetics, Czechia)
 
