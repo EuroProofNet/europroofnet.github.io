@@ -7,6 +7,8 @@ author_profile: true
 
 To contribute to the web site, please open an [issue](https://github.com/EuroProofNet/europroofnet.github.io/issues), create a [pull request](https://github.com/EuroProofNet/europroofnet.github.io) or send a mail to the [science communication coordinators](../contact).
 
+- 28-31 January 2024: [36e Journées Francophones des Langages Applicatifs](http://jfla.inria.fr/jfla2025.html) (JFLA'24), Roiffé, France
+
 - 25-29 November 2024: [21st International Colloquium on Theoretical Aspects of Computing](https://ictac2024.cs.ait.ac.th/) (ICTAC'24), Bangkok, Thailand
 
 - 18-20 September 2024: [19th Logical and Semantic Frameworks with Applications](https://sites.google.com/ufg.br/lsfa2024) (LSFA'24), Goiânia, Brazil
