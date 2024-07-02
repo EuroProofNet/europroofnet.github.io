@@ -7,13 +7,21 @@ author_profile: true
 
 To contribute to the web site, please open an [issue](https://github.com/EuroProofNet/europroofnet.github.io/issues), create a [pull request](https://github.com/EuroProofNet/europroofnet.github.io) or send a mail to the [science communication coordinators](../contact).
 
-- 28-31 January 2024: [36e Journées Francophones des Langages Applicatifs](http://jfla.inria.fr/jfla2025.html) (JFLA'24), Roiffé, France
+**2025**
+
+- 28-31 January 2025: [36e Journées Francophones des Langages Applicatifs](http://jfla.inria.fr/jfla2025.html) (JFLA'24), Roiffé, France
+
+- 19-25 January 2025: [52nd ACM SIGPLAN Symposium on Principles of Programming Languages](https://popl25.sigplan.org/) (POPL'25), Denver, USA
+
+**2024**
 
 - 25-29 November 2024: [21st International Colloquium on Theoretical Aspects of Computing](https://ictac2024.cs.ait.ac.th/) (ICTAC'24), Bangkok, Thailand
 
 - 18-20 September 2024: [19th Logical and Semantic Frameworks with Applications](https://sites.google.com/ufg.br/lsfa2024) (LSFA'24), Goiânia, Brazil
 
 - 9-14 September 2024: [15th conference on Interactive Theorem Proving](https://itp-conference.github.io/) (ITP'24), Tbilisi, Georgia
+
+- 2-7 September 2024: [ 29th ACM SIGPLAN International Conference on Functional Programming](https://icfp24.sigplan.org/) (ICFP'24), Milan, Italy
 
 - 1-6 September 2024: [Artificial Intelligence and Theorem Proving](http://aitp-conference.org/2024), Aussois, France
 
@@ -54,6 +62,8 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 - 17-19 January 2024: [51st ACM SIGPLAN Symposium on Principles of Programming Languages](https://popl24.sigplan.org/) (POPL'24), London, UK
 
 - 15-16 January 2024: [26th International Symposium on Practical Aspects of Declarative Languages](https://popl24.sigplan.org/home/PADL-2024) (PADL'24), London, United Kingdom
+
+**2023**
 
 - 21-22 September 2023: [7th Working Formal Methods Symposium](https://from2023.cs.unibuc.ro/) (FROM'23), Bucharest, Romania
 
@@ -96,6 +106,8 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 - 16-17 January 2023: [24th International Conference on Verification, Model Checking, and Abstract Interpretation](https://popl23.sigplan.org/home/VMCAI-2023) (VMCAI'23), Boston, USA
 
 - 15-21 January 2023: [50th ACM SIGPLAN Symposium on Principles of Programming Languages](https://popl23.sigplan.org/) (POPL'23), Boston, USA
+
+**2022**
 
 - 11-12 November 2022: [Autumn Workshop Proof Theory](https://uswpt.sites.uu.nl/), Utrecht, Netherlands
 
