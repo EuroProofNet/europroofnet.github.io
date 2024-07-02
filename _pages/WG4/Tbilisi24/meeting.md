@@ -26,6 +26,8 @@ workshop, please send a mail to [Frédéric Blanqui](https://blanqui.gitlabpages
 - [register](https://e-services.cost.eu/action/CA20111/working-groups/apply) to at least one EuroProofNet working group
 - send a mail to [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/) with the following information: departure date from home, return date at home, and estimation in EUROS of the transport to Tbilisi with a screen capture, before **July 16**
 
+Priority will be given to people giving a talk, people living in inclusive target countries (Albania, Armenia, Bosnia and Herzegovina, Bulgaria, Croatia, Cyprus, Czech Republic, Estonia, Georgia, Greece, Hungary, Latvia, Lithuania, Malta, Moldova, Montenegro, North Macedonia, Poland, Portugal, Romania, Serbia, Slovakia, Slovenia, Turkey and Ukraine), young researchers (<= 40) and women.
+
 <!--
 **Programme:**
 -->
