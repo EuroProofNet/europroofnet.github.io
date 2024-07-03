@@ -20,9 +20,9 @@ The goal of the Summer School is to give participants a general overview on mode
 
 - [AI-Powered Theorem Prover Guidance]({{ site.url }}/_pages/schools/Kutaisi24/pres/Zar.pdf)([Zarathustra Goertzel](https://gardenofminds.art/research/), Czech Institute of Informatics, Robotics and Cybernetics, Czechia)
 
-- An introduction to Inductive Logic Programming ([Celine Hocquette](https://celinehocquette.github.io/), University of Oxford, United Kingdom)
+- [An introduction to Inductive Logic Programming]({{ site.url }}/_pages/schools/Kutaisi24/pres/celine.pdf)  ([Celine Hocquette](https://celinehocquette.github.io/), University of Oxford, United Kingdom)
 
-- Interactive Theorem Proving in Isabelle/HOL and Its AI-Driven Automation Efforts ([Yutaka Nagashisma](https://unitedreasoning.wordpress.com/about/), Czech Academy Of Sciences, Czechia)
+- Interactive Theorem Proving in Isabelle/HOL and Its AI-Driven Automation Efforts (Live demonstration) ([Yutaka Nagashisma](https://unitedreasoning.wordpress.com/about/), Czech Academy Of Sciences, Czechia)
 
 - [Computational Proof Theory: Transforming Proofs using Automated Reasoning]({{ site.url }}/_pages/schools/Kutaisi24/pres/David.pdf) ([David Cerna](http://www.cs.cas.cz/dcerna/), Czech Academy Of Sciences, Czechia)
 
