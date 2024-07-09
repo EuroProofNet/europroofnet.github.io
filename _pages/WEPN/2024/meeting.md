@@ -5,6 +5,9 @@ permalink: /women-epn-2024/
 author_profile: true
 breadcrumbs: true
 ---
+
+<img src="/_pages/WEPN/2024/group-photo.jpg"/>
+
 ## July 6, 2024
 
 Co-located with the Workshop for [Women in Formal Mathematics](https://www.mathematics.uni-bonn.de/him/programs/special-events/women-in-formal-math) as part of the [trimester on Prospects of Formalized Math](https://www.him.uni-bonn.de/programs/future-programs/future-trimester-programs/prospects-of-formal-mathematics/description/) at the Hausdorff Institute of Mathematics, there will be a half-day event dedicated to gender balance in the community.
