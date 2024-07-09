@@ -6,7 +6,7 @@ author_profile: true
 breadcrumbs: true
 ---
 
-<img src="/_pages/WEPN/2024/group-photo.jpg"/>
+<img src="/_pages/WEPN/2024/group_photo.jpg"/>
 
 ## July 6, 2024
 
