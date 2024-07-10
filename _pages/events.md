@@ -13,6 +13,8 @@ author_profile: true
 
 **2024**
 
+- 6 July 2024: [Women in EuroProofNet](../women-epn-2024), Bonn, Germany, just before the [Workshop on Bridging between informal and formal mathematics](https://www.mathematics.uni-bonn.de/him/programs/future/tp_2024_05)
+- 1st July 2024: [TPTP Tea Party](https://tptp.org/TPTPTParty/2024/Contents.html), Nancy, France, in co-location with [IJCAR'24](https://merz.gitlabpages.inria.fr/2024-ijcar/)
 - 26-29 June 2024: [SAT/SMT/AR school](https://sat-smt-ar-school.gitlab.io/www/2024/), Nancy, France, in co-location with [IJCAR'24](https://merz.gitlabpages.inria.fr/2024-ijcar/)
 - 24-27 June 2024: [Summer School on Symbolic and Statistical Methods for Reasoning and Processing of Formal Expressions](../Kutaisi24), Kutaisi, Georgia
 - 14-15 June 2024: [Workshop on Proof Systems for Mathematics and Verification](https://proofs.swiss/ps/2024/), Lausanne, Switzerland, just after the [30th Workshop on Logic, Language, Information and Computation](https://wollic2024.inf.unibe.ch/)

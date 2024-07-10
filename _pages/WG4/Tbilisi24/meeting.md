@@ -1,12 +1,20 @@
 ---
-title: "EuroProofNet 2nd Workshop on the development, maintenance, refactoring and search of large libraries of proofs"
+title: "EuroProofNet WG4 meeting on proof libraries"
 layout: single
 permalink: /wg4-tbilisi24/
 author_profile: true
 breadcrumbs: true
 ---
 
-**Date:** 14 September 2024, colocated with the [15th Conference on Interactive Theorem Proving](https://www.viam.science.tsu.ge/itp2024/) (ITP'24) on September 9-13, the [Coq workshop](https://coq-workshop.gitlab.io/2024/) and the [Isabelle workshop](https://sketis.net/isabelle/isabelle-workshop-2024) on September 14.
+**Date:** 13-14 September 2024
+
+The WG4 meeting on proof libraries will include several sessions shared with other co-located events:
+- **September 13:**
+  - session with the [15th Conference on Interactive Theorem Proving](https://www.viam.science.tsu.ge/itp2024/) (ITP'24)
+  - 2nd Workshop on the development, maintenance, refactoring and search of large libraries of proofs
+- **September 14:**
+  - session with the [Coq workshop](https://coq-workshop.gitlab.io/2024/)
+  - session with the [Isabelle workshop](https://sketis.net/isabelle/isabelle-workshop-2024).
 
 **Venue:** [Tbilisi State University, Chavchavadze ave. 1, 0179 Tbilisi, Georgia](https://www.viam.science.tsu.ge/itp2024/venue)
 
@@ -21,7 +29,7 @@ refactoring and search of large libraries of proofs.
 **Registration:** Registration is free but mandatory. To attend the
 workshop, please send a mail to [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/).
 
-**Funding application:** If you want to be reimbursed of your transport to Tbilisi, and of your accommodation and meals during the workshop (including a day before/after), following the COST [reimbursement rules](https://europroofnet.github.io/reimbursement-rules/), with a daily allowance of 80 euros, you need to:
+**Funding application:** If you are attending the Isabelle workshop, the Coq workshop, the ITP conference or the 2nd Workshop on the development, maintenance, refactoring and search of large libraries of proofs, and want to be reimbursed of your transport to Tbilisi, and of your accommodation and meals during the workshop (including one day before/after), following the COST [reimbursement rules](https://europroofnet.github.io/reimbursement-rules/), with a daily allowance of 80 euros, you need to:
 - check your [eligibility](https://europroofnet.github.io/eligibility)
 - [register](https://e-services.cost.eu/action/CA20111/working-groups/apply) to at least one EuroProofNet working group
 - send a mail to [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/) with the following information: departure date from home, return date at home, and estimation in EUROS of the transport to Tbilisi with a screen capture, before **July 16**
