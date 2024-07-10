@@ -1,5 +1,5 @@
 ---
-title: "EuroProofNet WG4 meeting on proof libraries"
+title: "EuroProofNet meeting on proof libraries"
 layout: single
 permalink: /wg4-tbilisi24/
 author_profile: true
@@ -8,17 +8,17 @@ breadcrumbs: true
 
 **Date:** 13-14 September 2024
 
-The WG4 meeting on proof libraries will include several sessions shared with other co-located events:
+**Venue:** [Tbilisi State University, Chavchavadze ave. 1, 0179 Tbilisi, Georgia](https://www.viam.science.tsu.ge/itp2024/venue)
+
+This meeting includes several sessions shared with other co-located events:
 - **September 13:**
   - session with the [15th Conference on Interactive Theorem Proving](https://www.viam.science.tsu.ge/itp2024/) (ITP'24)
   - 2nd Workshop on the development, maintenance, refactoring and search of large libraries of proofs
 - **September 14:**
   - session with the [Coq workshop](https://coq-workshop.gitlab.io/2024/)
-  - session with the [Isabelle workshop](https://sketis.net/isabelle/isabelle-workshop-2024).
+  - session with the [Isabelle workshop](https://sketis.net/isabelle/isabelle-workshop-2024)
 
-**Venue:** [Tbilisi State University, Chavchavadze ave. 1, 0179 Tbilisi, Georgia](https://www.viam.science.tsu.ge/itp2024/venue)
-
-**Call for talk proposals:** If you are interested in giving a talk,
+**Call for talk proposals:** If you are interested in giving a talk at the 2nd Workshop on the development, maintenance, refactoring and search of large libraries of proofs,
 send a mail to [Frédéric
 Blanqui](https://blanqui.gitlabpages.inria.fr/) with a title and short
 abstract before **July 16**. We welcome talks, tutorials, demos, on
