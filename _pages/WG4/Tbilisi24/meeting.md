@@ -26,10 +26,9 @@ library descriptions or on methodologies, algorithms and tools trying
 to tackle the challenges raised by the development, maintenance,
 refactoring and search of large libraries of proofs.
 
-**Registration:** Registration is free but mandatory. To attend the
-workshop, please send a mail to [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/).
+**Registration:** Registration to the 2nd Workshop on the development, maintenance, refactoring and search of large libraries of proofs is free but mandatory. To attend the workshop, please send a mail to [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/).
 
-**Funding application:** If you are attending the Isabelle workshop, the Coq workshop, the ITP conference or the 2nd Workshop on the development, maintenance, refactoring and search of large libraries of proofs, and want to be reimbursed of your transport to Tbilisi, and of your accommodation and meals during the workshop (including one day before/after), following the COST [reimbursement rules](https://europroofnet.github.io/reimbursement-rules/), with a daily allowance of 80 euros, you need to:
+**Funding application:** If you are attending the Isabelle workshop, the Coq workshop, the ITP conference or the 2nd Workshop on the development, maintenance, refactoring and search of large libraries of proofs, and want to be reimbursed of your transport to Tbilisi, and of your accommodation and meals between September 12 and September 15, following the COST [reimbursement rules](https://europroofnet.github.io/reimbursement-rules/), with a daily allowance of 80 euros, you need to:
 - check your [eligibility](https://europroofnet.github.io/eligibility)
 - [register](https://e-services.cost.eu/action/CA20111/working-groups/apply) to at least one EuroProofNet working group
 - send a mail to [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/) with the following information: departure date from home, return date at home, and estimation in EUROS of the transport to Tbilisi with a screen capture, before **July 16**
