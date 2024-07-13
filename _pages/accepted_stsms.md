@@ -23,7 +23,7 @@ The grant amounts below are initial estimations and not necessarily the final am
   Grant: 2264 EUR  
   Dates: 2024-06-09 to 2024-06-15
 
-* **A type theory for exact and continuous Bayesian observations** [application](/_pages/stsm/roman-app.pdf)   
+* **A type theory for exact and continuous Bayesian observations** [application](/_pages/stsm/roman-app.pdf) [report](/_pages/stsm/roman-rep.pdf)   
   Visitor: Mario Román   
   Host:  Elena Di Lavore    
   Grant: 1349 EUR  
@@ -62,19 +62,20 @@ The grant amounts below are initial estimations and not necessarily the final am
   Grant: 1777 EUR  
   Dates: 2024-06-21 to 2024-06-29
 
-* **Coinduction in Cubical Agda** [application](/_pages/stsm/damato-app.pdf)[report](/_pages/stsm/damato-rep.pdf)   
+* **Coinduction in Cubical Agda** [application](/_pages/stsm/damato-app.pdf) [report](/_pages/stsm/damato-rep.pdf)   
   Visitor: Stefania Damato   
   Host: Anders Mortberg    
   Grant: 2181 EUR  
   Dates: 2024-06-19 to 2024-06-27
 
-* **Higher-order effectful programming languages and quantitative type system** [application](/_pages/stsm/alves-app.pdf)[report](/_pages/stsm/alves-rep.pdf)   
+* **Higher-order effectful programming languages and quantitative type system** [application](/_pages/stsm/alves-app.pdf) [report](/_pages/stsm/alves-rep.pdf)   
   Visitor: Sandra Alves  
   Host: Delia Kesner    
   Grant: 1516 EUR  
   Dates: 2024-06-16 to 2024-06-22
 
-* **Evaluation and development of the Alk platform for enhancing students’ algorithm design and analysis skills** [application](/_pages/stsm/andrei-app.pdf) [report](/_pages/stsm/andrei-rep.pdf)   
+* **Evaluation and development of the Alk platform for enhancing students’ algorithm design and analysis skills** [application](/_pages/stsm/andrei-app.pdf) 
+ [report](/_pages/stsm/andrei-rep.pdf)   
   Visitor: Oana Andrei  
   Host: Dorel Lucanu    
   Grant: 2131 EUR  
@@ -83,13 +84,13 @@ The grant amounts below are initial estimations and not necessarily the final am
 ## 8th call (7 January  2024)
 
 
-* **Domain theory for program verification in Lean** [application](/_pages/stsm/cheval-app24.pdf)[report](/_pages/stsm/cheval-rep2.pdf)   
+* **Domain theory for program verification in Lean** [application](/_pages/stsm/cheval-app24.pdf) [report](/_pages/stsm/cheval-rep2.pdf)   
   Visitor: Horatiu Cheval  
   Host: Vlad Rusu   
   Grant: 1230 EUR  
   Dates: 2024-06-10 to 2024-06-15
 
-* **Proof Theory for Programmers: Promoting Output of Theorem Provers to Formative Feedback for Computer Science Students** [application](/_pages/stsm/perhac-app.pdf)[report](/_pages/stsm/perhac-rep.pdf)    
+* **Proof Theory for Programmers: Promoting Output of Theorem Provers to Formative Feedback for Computer Science Students** [application](/_pages/stsm/perhac-app.pdf) [report](/_pages/stsm/perhac-rep.pdf)    
   Visitor: Ján Perháč  
   Host: Michael Kirkedal Thomsen   
   Grant: 1650 EUR  
