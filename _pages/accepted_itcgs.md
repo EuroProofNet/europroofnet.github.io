@@ -15,13 +15,13 @@ author_profile: true
 
 ## 4th call (1 May 2024)
 
-* **Comparing Quotient- and Symmetric Containers** [application](/_pages/stsm/joram-TYPES-app.pdf)[report](/_pages/stsm/joram-rep.pdf)       
+* **Comparing Quotient- and Symmetric Containers** [application](/_pages/stsm/joram-TYPES-app.pdf) [report](/_pages/stsm/joram-rep.pdf)       
   Grantee: Philipp Joram   
   Conference: 30th International Conference on Types for Proofs and Programs  
   Grant: 2000 EUR  
   Dates: 2024-06-09 to 2024-06-15
 
-* **Strict syntax of type theory via alpha-normalisation** [application](/_pages/stsm/bense-TYPES-app.pdf)[report](/_pages/stsm/bense-rep.pdf)      
+* **Strict syntax of type theory via alpha-normalisation** [application](/_pages/stsm/bense-TYPES-app.pdf) [report](/_pages/stsm/bense-rep.pdf)      
   Grantee: Viktor Bense  
   Conference: 30th International Conference on Types for Proofs and Programs    
   Grant: 2000 EUR  
