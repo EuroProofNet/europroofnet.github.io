@@ -41,6 +41,31 @@ order to emphasize the observed differences, address pertinent
 questions, and present the current progress on the mechanization of
 anti-unification modulo algorithms.
 
+- Exploring the benefits of a general abstract formalization, Thaynara Arielly de Lima
+
+One of the main challenges in formal methods is the reuse of formal
+proofs in several contexts.  With this in mind, the recent PVS
+developments regarding abstract algebra have been mechanized as
+generally as possible, allowing their application to different
+algebraic structures. For example, recently, a Euclidean gcd algorithm
+for Euclidean domains was specified in PVS and its correctness was
+formalized. Thus verifying that the rings of integers and the Gaussian
+integers are Euclidean domains provides a straightforward manner to
+infer the correctness of this algorithm for both structures.  Another
+example concerns quaternions. It is well known that Hamilton's
+quaternions mimic any 3D rotation.  However, specifying quaternion
+structures using any arbitrary field as a parameter allows not only
+the verification of the completeness of three-dimensional rotations
+but also a simple specification of Hurwitz quaternions, which can be
+used to give an alternative proof of the well-known Lagrange's
+four-square theorem.  This talk will discuss the main recent
+developments of the PVS theory algebra, highlighting the benefits of
+its general abstract discipline of formalization by exploring as a
+case study the use of Hurwitz Rings, the First Isomorphism Theorem for
+rings and the characterization of algebraic properties that lead to
+constructing quaternions as division rings to establish Lagrange's
+four-square theorem.
+
 **Call for talk proposals:** If you are interested in giving a talk at
 the 2nd Workshop on the development, maintenance, refactoring and
 search of large libraries of proofs, send a mail to [Frédéric
