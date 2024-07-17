@@ -19,16 +19,16 @@ This meeting includes several sessions shared with other co-located events:
   |time|title, authors|
   |--|--|  
   |09:00|Invited talk: Translating libraries of definitions and theorems between proof system, Frédéric Blanqui|
-  |10:00|Graphical rewriting for diagrammatic reasoning in monoidal categories in Lean4|
-  |10:15|Formalising Half of a Graduate Textbook on Number Theory|
+  |10:00|Graphical rewriting for diagrammatic reasoning in monoidal categories in Lean4, Sam Ezeh|
+  |10:15|Formalising Half of a Graduate Textbook on Number Theory, Manuel Eberl, Anthony Bordg, Lawrence Paulson and Wenda Li|
   |10:30|break|
-  |11:00|An Isabelle/HOL formalization of narrowing and multiset narrowing for E-unifiability,  reachability and infeasibility|
-  |11:30|A Modular Formalization of Superposition in Isabelle/HOL
-  |12:00|A Proof-Producing Superposition Theorem Prover for Dependent Type Theory|
+  |11:00|An Isabelle/HOL formalization of narrowing and multiset narrowing for E-unifiability,  reachability and infeasibility, Dohan Kim|
+  |11:30|A Modular Formalization of Superposition in Isabelle/HOL, Martin Desharnais, Balazs Toth, Uwe Waldmann, Jasmin Blanchette and Sophie Tourret|
+  |12:00|A Proof-Producing Superposition Theorem Prover for Dependent Type Theory, Joshua Clune, Yicheng Qian, Alexander Bentkamp and Jeremy Avigad|
   |12:30|lunch|
-  |14:00|Mechanized HOL Reasoning in Set Theory|
-  |14:30|End-to-End Formal Verification of a Fast and Accurate Floating-Point Approximation|
-  |15:00|Distributed Parallel Build for the Isabelle Archive of Formal Proofs|
+  |14:00|Mechanized HOL Reasoning in Set Theory, Simon Guilloud, Sankalp Gambhir, Andrea Gilot and Viktor Kuncak|
+  |14:30|End-to-End Formal Verification of a Fast and Accurate Floating-Point Approximation, Florian Faissole, Paul Geneau de Lamarlière and Guillaume Melquiond|
+  |15:00|Distributed Parallel Build for the Isabelle Archive of Formal Proofs, Fabian Huch and Makarius Wenzel|
   |15:30|break|
 
 - **2nd Workshop on the development, maintenance, refactoring and search of large libraries of proofs**
