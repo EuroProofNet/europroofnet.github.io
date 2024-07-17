@@ -18,7 +18,7 @@ This meeting includes several sessions shared with other co-located events:
 
   |time|title, authors|
   |--|--|  
-  |09:00|Invited talk: Translating libraries of definitions and theorems between proof system, Frédéric Blanqui|
+  |09:00|Invited talk: Translating libraries of definitions and theorems between proof systems, Frédéric Blanqui|
   |10:00|Graphical rewriting for diagrammatic reasoning in monoidal categories in Lean4, Sam Ezeh|
   |10:15|Formalising Half of a Graduate Textbook on Number Theory, Manuel Eberl, Anthony Bordg, Lawrence Paulson and Wenda Li|
   |10:30|break|
