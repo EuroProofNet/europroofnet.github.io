@@ -121,6 +121,8 @@ search of large libraries of proofs.
 - [register](https://e-services.cost.eu/action/CA20111/working-groups/apply) to at least one EuroProofNet working group
 - send a mail to [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/) with the following information: departure date from home, return date at home, and estimation in EUROS of the transport to Tbilisi with a screen capture
 
+**Funded participants (13):** Abdelghani Alidra, Claudio Sacerdoti Coen, Clement Pit-Claudel, Ján Perháč, Luca Pasetto, Mauricio Ayala-Rincon, Max Zeuner, Muhammad Usama Sardar, Natalia Slusarz, Nicolas Magaud, Simon Guilloud, Thaynara Arielly de Lima, Théo Winterhalter
+
 <!--Priority will be given to people giving a talk, people living in inclusive target countries (Albania, Armenia, Bosnia and Herzegovina, Bulgaria, Croatia, Cyprus, Czech Republic, Estonia, Georgia, Greece, Hungary, Latvia, Lithuania, Malta, Moldova, Montenegro, North Macedonia, Poland, Portugal, Romania, Serbia, Slovakia, Slovenia, Turkey and Ukraine), young researchers (<= 40) and women.-->
 
 <!--
