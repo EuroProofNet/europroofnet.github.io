@@ -21,6 +21,8 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 
 - 9-14 September 2024: [15th conference on Interactive Theorem Proving](https://itp-conference.github.io/) (ITP'24), Tbilisi, Georgia
 
+- 3-11 September 2024: [Toposes in Mondovì](https://ctta.igrothendieck.org/), Mondovi, Italy
+
 - 2-7 September 2024: [ 29th ACM SIGPLAN International Conference on Functional Programming](https://icfp24.sigplan.org/) (ICFP'24), Milan, Italy
 
 - 1-6 September 2024: [Artificial Intelligence and Theorem Proving](http://aitp-conference.org/2024), Aussois, France
