@@ -9,6 +9,8 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 
 **2025**
 
+- 3-8 May 2025: [28th International Joint Conferences On Theory and Practice of Software](https://etaps.org/2025) (ETAPS'25), Hamilton, Canada
+
 - 28-31 January 2025: [36e Journées Francophones des Langages Applicatifs](http://jfla.inria.fr/jfla2025.html) (JFLA'24), Roiffé, France
 
 - 19-25 January 2025: [52nd ACM SIGPLAN Symposium on Principles of Programming Languages](https://popl25.sigplan.org/) (POPL'25), Denver, USA
