@@ -95,6 +95,24 @@ alignments. -->
 **September 14:**
 
   - session with the [Coq workshop](https://coq-workshop.gitlab.io/2024/)
+  
+  |time|title, authors|
+  |--|--|  
+  |9:40|On the Potential of Coq as the Platform of Choice for Hardware Design, Sebastian Ertel, Max Kurze and Michael Raitza|
+  |10:00|A Development Process for Coq Projects Permitting Invalid Proofs, Hendrik Tews|
+  |10:30|break|
+  |11:00|CoqPilot, a plugin for LLM-based generation of proofs, Andrei Kozyrev, Gleb Solovev, Nikita Khramov and Anton Podkopaev|
+  |11:30|Blueprints for formalisation in Coq, Peter Lefanu Lumsdaine|
+  |11:50|Coq Platform docs: A Compilation of Short Interactive Tutorials and How-To Guides for Coq, Thomas Lamiaux, Pierre Rousselin and Théo Zimmermann|
+  |12:20|lunch|
+  |14:00|Shared invited talk TBA|
+  |15:00|Lessons from Formalizing (Higher) Category Theory, Benedikt Ahrens and Niels van der Weide|
+  |15:30|break|
+  |16:00|Towards Formalising the Guard Condition of Coq, Yee Jian Tan and Yannick Forster|
+  |16:25|Turning the Coq Proof Assistant into a Pocket Calculator, Guillaume Melquiond|
+  |16:45|Discussion with Coq developers|
+  |18:00|end|
+
   - session with the [Isabelle workshop](https://sketis.net/isabelle/isabelle-workshop-2024)
 
 <!--
