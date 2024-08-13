@@ -31,7 +31,7 @@ Participants invited at a meeting or school, and people having an approved STSM,
 
 - STSM grantees must upload on the COST website their report, signed by their host, once the final amount of their STSM has been approved.
 
-- For accommodation, meals and local transport, the reimbursement is a [daily flat rate](../stsm-daily-allowance) fixed by the Grant Holder depending on the host country. About 2/3 of the flat rate is for the hotel, 1/6 for the lunch and 1/6 for the diner. Be careful that a lunch or diner will not be reimbursed if there is no receipt for it (see details below). Receipts from markets or supermarkets are accepted.
+- For accommodation, meals and local transport, the reimbursement is a [daily flat rate](../stsm-daily-allowance) fixed by the Grant Holder depending on the host country. About 2/3 of the flat rate is for the hotel, 1/6 for the lunch and 1/6 for the diner.
 
 - **Before the travel:**
 
@@ -54,11 +54,7 @@ Participants invited at a meeting or school, and people having an approved STSM,
 
     * Accommodation expenses will be paid in the form of an accommodation allowance (65% of daily allowance) on presentation of the accommodation invoice in your name. 
 
-    * Meal expenses will be paid in the form of a meal allowance (35% of daily allowance) for lunch (17,5%) and for dinner (17,50%), according to the following rules: 
-
-         - One meal allowance for lunch and one meal allowance for dinner / day (lunch must be purchased between 10am and 3pm. / dinner must be purchased after 6pm.)
-         - Breakfasts are NOT eligible for reimbursement.
-         - If you prefer to buy some food in a supermarket, keep the tickets (the dates and times must be visible), and precise us the dates and meals concerned.
+    * Meal expenses will be paid in the form of a meal allowance (35% of daily allowance) for lunch (17,5%) and for dinner (17,50%).
 
 - **After the travel:**
 
