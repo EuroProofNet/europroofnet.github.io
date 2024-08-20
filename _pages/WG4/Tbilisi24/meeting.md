@@ -94,7 +94,7 @@ alignments. -->
 
 **September 14:**
 
-  - session with the [Coq workshop](https://coq-workshop.gitlab.io/2024/)
+  - [Coq workshop](https://coq-workshop.gitlab.io/2024/)
   
   |time|title, authors|
   |--|--|  
@@ -113,7 +113,7 @@ alignments. -->
   |16:45|Discussion with Coq developers|
   |18:00|end|
 
-  - session with the [Isabelle workshop](https://sketis.net/isabelle/isabelle-workshop-2024)
+  - [Isabelle workshop](https://sketis.net/isabelle/isabelle-workshop-2024)
 
   |time|title, authors|
   |--|--|
@@ -153,11 +153,7 @@ search of large libraries of proofs.
 
 <!--Priority will be given to people giving a talk, people living in inclusive target countries (Albania, Armenia, Bosnia and Herzegovina, Bulgaria, Croatia, Cyprus, Czech Republic, Estonia, Georgia, Greece, Hungary, Latvia, Lithuania, Malta, Moldova, Montenegro, North Macedonia, Poland, Portugal, Romania, Serbia, Slovakia, Slovenia, Turkey and Ukraine), young researchers (<= 40) and women.-->
 
-<!--
-**Programme:**
--->
-
-**Scientific organizers:** [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/), [Angeliki Koutsoukou Argyraki](https://www.cl.cam.ac.uk/~ak2110/) and [Claudio Sacerdoti](http://www.cs.unibo.it/~sacerdot/)
+**Scientific organizers:** [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/), [Angeliki Koutsoukou Argyraki](https://www.cl.cam.ac.uk/~ak2110/), [Claudio Sacerdoti](http://www.cs.unibo.it/~sacerdot/) for the workshop on libraries, Yves Bertot for ITP, Théo Winterhalter and Clément Pit-Claudel for the Coq workshop, Makarius Wenzel for the Isabelle workshop
 
 **Local organizer:** [Besik Dundua](https://cte.ibsu.edu.ge/en/besik-dundua/)
 
