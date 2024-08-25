@@ -121,12 +121,12 @@ alignments. -->
   |09:30|A formalized programming language with speculative execution, Jamie Wright and Andrei Popescu|
   |10:00|A programming language for controlling robots (work in progress), Artur Graczyk, Marialena Hadjikosti and Andrei Popescu|
   |10:30|break|
-  |11:00|HOL Light to Isabelle/HOL Translation, Rebooted, Ghilain Bergeron, Stéphane Glondu and Sophie Tourret|
-  |11:30|Isabelle/DOF: Extended Abstract and Tool Demonstration, Achim D. Brucker, Idir Ait-Sadoune, Nicolas Méric and Burkhart Wolff|
-  |12:00|Isabelle proof terms revisited, Makarius Wenzel|
+  |11:00|Isabelle proof terms revisited, Makarius Wenzel|
+  |11:30|Isabelle as Systems Platform: Managing Automated and Quasi-interactive Builds, Fabian Huch|
+  |12:00|Isabelle/DOF: Extended Abstract and Tool Demonstration, Achim D. Brucker, Idir Ait-Sadoune, Nicolas Méric and Burkhart Wolff|
   |12:30|lunch|
   |14:00|Shared invited talk: From 100 to 1000+ theorems, Freek Wiedijk|
-  |15:00|Isabelle as Systems Platform: Managing Automated and Quasi-interactive Builds, Fabian Huch|
+  |15:00|HOL Light to Isabelle/HOL Translation, Rebooted, Ghilain Bergeron, Stéphane Glondu and Sophie Tourret|
   |15:30|break|
   |16:00|Verified Preprocessing of Linear Integer Arithmetic Constraints, René Thiemann|
   |16:30|Time-Aware Stream Processing in Isabelle/HOL, Rafael Castro Gonçalves Silva and Dmitriy Traytel|
