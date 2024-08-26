@@ -9,6 +9,12 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 
 **2025**
 
+- 6-11 October 2025: [18th Conference on Intelligent Computer Mathematics](https://cicm-conference.org/2025/) (CICM'25), Brasília, Brazil
+
+- 28 September - 3 October: [16th conference on Interactive Theorem Proving](https://itp-conference.github.io/) (ITP'25), Island (TBC)
+
+- 8-19 September 2025: EuroProofNet symposium, Institut Pascal, Orsay, France
+
 - 3-8 May 2025: [28th International Joint Conferences On Theory and Practice of Software](https://etaps.org/2025) (ETAPS'25), Hamilton, Canada
 
 - 28-31 January 2025: [36e Journées Francophones des Langages Applicatifs](http://jfla.inria.fr/jfla2025.html) (JFLA'24), Roiffé, France
@@ -21,7 +27,7 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 
 - 18-20 September 2024: [19th Logical and Semantic Frameworks with Applications](https://sites.google.com/ufg.br/lsfa2024) (LSFA'24), Goiânia, Brazil
 
-- 9-14 September 2024: [15th conference on Interactive Theorem Proving](https://itp-conference.github.io/) (ITP'24), Tbilisi, Georgia
+- 9-14 September 2024: [15th conference on Interactive Theorem Proving](https://www.viam.science.tsu.ge/itp2024/) (ITP'24), Tbilisi, Georgia
 
 - 3-11 September 2024: [Toposes in Mondovì](https://ctta.igrothendieck.org/), Mondovi, Italy
 
