@@ -47,12 +47,12 @@ the [Grant Holder](mailto:saf-saclay-recettes@inria.fr).
   * vice leader: [Catherine Dubois](http://web4.ensiie.fr/~catherine.dubois/)
 
 - [WG2 on automated theorem provers](/wg2)
-  * leader: [Alexander Steen](https://www.alexandersteen.de/)
-  * vice leader: [Mathias Fleury](https://cca.informatik.uni-freiburg.de/fleury/)
+  * leader: [Mathias Fleury](https://cca.informatik.uni-freiburg.de/fleury/)
+  * vice leader: [Sophie Tourret](https://www.mpi-inf.mpg.de/departments/automation-of-logic/people/sophie-tourret)
   
 - [WG3 on program verification](/wg3)
   * leader: [Alicia Villanueva](http://personales.upv.es/alvilga1/)
-  * vice leader: [Mădălina Eraşcu](https://merascu.github.io/)
+  * vice leader: [Adrián Riesco](https://maude.ucm.es/~adrian/)
 
 - [WG4 on libraries](/wg4)
   * leader: [Angeliki Koutsoukou-Argyraki](https://www.cl.cam.ac.uk/~ak2110/)
