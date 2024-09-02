@@ -13,7 +13,7 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 
 **2024**
 - [Equational Anti-Unification over Absorption Theories](https://arxiv.org/abs/2310.11136) Mauricio Ayala-Rincon, David M. Cerna, Andres Felipe Gonzalez Barragan, Temur Kutsia, IJCAR 2024, July 1st-6th 2024.
-- [Learning Guided Automated Reasoning: A Brief Survey](https://arxiv.org/abs/2403.04017) Lasse Blaauwbroek, David M. Cerna, Thibault Gauthier, Jan Jakubův, Cezary Kaliszyk, Martin Suda, Josef Urban, Arxiv, to appear. (Deliverable- D8)
+- [Learning Guided Automated Reasoning: A Brief Survey](https://link.springer.com/chapter/10.1007/978-3-031-61716-4_4) Lasse Blaauwbroek, David M. Cerna, Thibault Gauthier, Jan Jakubův, Cezary Kaliszyk, Martin Suda, Josef Urban, Logics and Type Systems in Theory and Practice 2024.
 - [Generalisation through Negation and Predicate Invention](https://doi.org/10.48550/arXiv.2301.07629), David M. Cerna and Andrew Cropper, AAAI-24, Feb. 22-25.
 - [Formal Specification and Verification of Architecturally-Defined Attestation Mechanisms in Arm CCA and Intel TDX](https://doi.org/10.1109/access.2023.3346501), M. U. Sardar, T. Fossati, S. Frost, S. Xiong, IEEE Access, pp. 361-381, vol 12.
 
