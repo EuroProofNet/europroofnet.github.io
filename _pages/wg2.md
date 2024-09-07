@@ -21,6 +21,12 @@ We use a [git repository to store all our documents and deliverables](https://gi
 
 ### Activities
 
+* July 2024: [SAT/SMT/AR Summer School](https://sat-smt-ar-school.gitlab.io/www/2024/) in Nancy (France) with TPTP (below) and IJCAR
+
+* July 2024: [TPTP Tea-Party 2024](https://www.tptp.org/TPTP/TPTPTParty/2024/) in Nancy (France)
+
+* June 2024: [Proof Systems for Mathematics and Verification](https://proofs.swiss/ps/2024/) in Lausanne (Switzerland)
+
 * July 2024: [TPTP Tea-Party 2024](https://www.tptp.org/TPTP/TPTPTParty/2024/) in Nancy (France)
 
 * May 2024: [Rule based automated provers for geometry](https://europroofnet.github.io/wg2-geo24/) in Nice (France)
