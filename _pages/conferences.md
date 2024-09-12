@@ -11,7 +11,7 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 
 - 6-11 October 2025: [18th Conference on Intelligent Computer Mathematics](https://cicm-conference.org/2025/) (CICM'25), Brasília, Brazil
 
-- 28 September - 3 October: [16th conference on Interactive Theorem Proving](https://itp-conference.github.io/) (ITP'25), Iceland (TBC)
+- 27 September - 3 October: [16th conference on Interactive Theorem Proving](https://itp-conference.github.io/) (ITP'25), Reykjavik, Iceland
 
 - 8-19 September 2025: EuroProofNet symposium, Institut Pascal, Orsay, France
 
