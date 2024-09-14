@@ -37,7 +37,7 @@ This meeting includes several sessions shared with other co-located events. Regi
   |--|--|  
   |16:00|Exploring the benefits of a general abstract formalization, Thaynara Arielly de Lima|
   |16:30|[Post-processing Coq Proof Scripts to Make Them More Robust](magaud.pdf), Titouan Lozac’h and Nicolas Magaud|
-  |17:00|Verifying Nominal Equational Reasoning Modulo Algorithms, Mauricio Ayala-Rincón|
+  |17:00|[Verifying Nominal Equational Reasoning Modulo Algorithms](ayala.pdf), Mauricio Ayala-Rincón|
   |17:30|An Indexer and Query Language for Libraries written in LambdaPi/Dedukti, Claudio Sacerdoti Coen|
 
 <!--Post-processing Coq Proof Scripts to Make Them More Robust, Titouan Lozac’h and Nicolas Magaud: Proof assistants like Coq are increasingly popular to help mathematicians carry out proofs of the results they conjecture. However, formal proofs remain highly technical and are especially difficult to reuse. In this paper, we present a framework to carry out a posteriori script transformations. These transformations are meant to be applied as an automated post-processing step, once the proof has been completed. We implemented two transformations so far:  the first one takes an arbitrary large proof script and produces an equivalent single-line proof script, which can be executed by Coq in one single step. 
