@@ -46,19 +46,17 @@ Participants invited at a meeting or school, and people having an approved STSM,
 
 - **During the travel:**
 
-  Bank card receipts without tickets are NOT accepted.
+  Keep all the receipts and tickets of your transports and accommodations:
 
-  Keep all the receipts and tickets, in order to be reimbursed for your transport, accommodation and meal expenses, according to the following rules:
+    * Transport expenses will be reimbursed according to your real expenses on presentation of the transport invoice in your name with details of dates, times and place of transport. Proof of travel in the form of boarding passes, train tickets or toll tickets is mandatory.
 
-    * Transport expenses will be paid according to your real expenses, on presentation of the transport invoice in your name with details of dates, times and place of transport. Proof of travel in the form of boarding passes, train tickets or toll tickets is mandatory.
+    * Accommodation expenses will be reimbursed in the form of an accommodation allowance (65% of daily allowance) on presentation of the accommodation invoice in your name.
 
-    * Accommodation expenses will be paid in the form of an accommodation allowance (65% of daily allowance) on presentation of the accommodation invoice in your name. 
-
-    * Meal expenses will be paid in the form of a meal allowance (35% of daily allowance) for lunch (17,5%) and for dinner (17,50%).
+    * Meal expenses will be paid in the form of a meal allowance for lunch (17,50% of daily allowance) and for dinner (17,50% of daily allowance).
 
 - **After the travel:**
 
-  In order to be reimbursed readily, please send all the travel documents and proofs of payments, as soon as possible after your mission to Aïssatou DIALLO (aissatou-sadio.diallo@inria.fr).
+  In order to be reimbursed readily, send all the travel documents and proofs of payments as soon as possible after your mission to Aïssatou DIALLO (aissatou-sadio.diallo@inria.fr).
 
 If you have questions, please contact
 the [Grant Holder](mailto:saf-saclay-recettes@inria.fr).
