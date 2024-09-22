@@ -6,6 +6,8 @@ author_profile: true
 breadcrumbs: true
 ---
 
+<img src="/_pages/WG4/Tbilisi24/IMG-20240911-WA0002.jpg"/>
+
 **Date:** 13-14 September 2024
 
 **Venue:** [Tbilisi State University, Chavchavadze ave. 1, 0179 Tbilisi, Georgia](https://www.viam.science.tsu.ge/itp2024/venue)
