@@ -26,7 +26,7 @@ breadcrumbs: true
 
 **Schedule:**
 
-|             | Mo 8  | Tu 9  | We 10 | Th 11 |
+|             | Mo8   | Tu9   | We10  | Th11  |
 | 09:00-10:30 | AK    | FR    | FB    | AB    |
 | 10:30-11:00 | break | break | break | break |
 | 11:00-12:30 | AB    | AK    | FR    | FB    |

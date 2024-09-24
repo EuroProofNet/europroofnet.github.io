@@ -18,19 +18,19 @@ breadcrumbs: true
 
 * LFPSI: [1st International School on Logical Frameworks and Proof Systems Interoperability](../LFPSI24)
 
-* WG 2: Workshop on Automated THeorem Proving and Proof Logging
+* WG2: Workshop on Automated THeorem Proving and Proof Logging
 
 * WG4: Workshop on Large Proof Libraries
 
 * MCL: Conference on Mathematical and Computational Linguistics for Proofs
 
-* WG 3: Worshop on Program Verification
+* WG3: Worshop on Program Verification
 
 **Schedule:**
 
-| Mo 8                | Tu 9                | We 10               | Th 11               | Fr 12 | Sa 13 | Su 14 | Mo 15 | Tu 16 | We 17 | Th 18 | Fr 19 |
-| [LFPSI](../LFPSI24) | [LFPSI](../LFPSI24) | [LFPSI](../LFPSI24) | [LFPSI](../LFPSI24) |       |       |       |       |       |       |       |       |
-|                     |                     |                     | WG 2                | WG 2  | WG 2  |       |       |       |       |       |       |
-|                     |                     |                     |                     |       |       |       | WG 4  | WG 4  |       |       |       |
-|                     |                     |                     |                     |       |       |       | MCLP  | MCLP  | MCLP  | MCLP  |       |
-|                     |                     |                     |                     |       |       |       |       |       | WG 3  | WG 3  | WG 3  |
+| Mo8                 | Tu9                 | We10                | Th11                | Fr12 | Sa13 | Su14 | Mo15 | Tu16 | We17 | Th18 | Fr19 |
+| [LFPSI](../LFPSI24) | [LFPSI](../LFPSI24) | [LFPSI](../LFPSI24) | [LFPSI](../LFPSI24) |      |      |      |      |      |      |      |      |
+|                     |                     |                     | WG2                 | WG2  | WG2  |      |      |      |      |      |      |
+|                     |                     |                     |                     |      |      |      | WG4  | WG4  |      |      |      |
+|                     |                     |                     |                     |      |      |      | MCLP | MCLP | MCLP | MCLP |      |
+|                     |                     |                     |                     |      |      |      |      |      | WG3  | WG3  | WG3  |
