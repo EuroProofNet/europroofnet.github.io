@@ -18,7 +18,7 @@ breadcrumbs: true
 
 * LFPSI: [1st International School on Logical Frameworks and Proof Systems Interoperability](../LFPSI24)
 
-* WG2: Workshop on Automated THeorem Proving and Proof Logging
+* WG2: Workshop on Automated Theorem Proving and Proof Logging
 
 * WG4: Workshop on Large Proof Libraries
 
@@ -34,3 +34,8 @@ breadcrumbs: true
 |                     |                     |                     |                     |      |      |      | WG4  | WG4  |      |      |      |
 |                     |                     |                     |                     |      |      |      | MCLP | MCLP | MCLP | MCLP |      |
 |                     |                     |                     |                     |      |      |      |      |      | WG3  | WG3  | WG3  |
+
+<img src="/_pages/symposium/ipa11.jpg"/>
+<img src="/_pages/symposium/ipa13.jpg"/>
+<img src="/_pages/symposium/ipa10.jpg"/>
+<img src="/_pages/symposium/ipa7.jpg"/>
