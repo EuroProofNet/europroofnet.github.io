@@ -36,5 +36,7 @@ corner).
 
 - 26-27 September 2024: [WG1+2+4 meeting](../Fontainebleau24), Fontainebleau, France
 
+- 8-19 September 2025: [EuroProofNet Symposium](../Symposium), Institut Pascal, Orsay, France
+
 [Past events](../events)
 

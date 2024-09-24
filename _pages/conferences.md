@@ -13,7 +13,7 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 
 - 27 September - 3 October 2025: [16th conference on Interactive Theorem Proving](https://itp-conference.github.io/) (ITP'25), Reykjavik, Iceland
 
-- 8-19 September 2025: EuroProofNet symposium, Institut Pascal, Orsay, France
+- 8-19 September 2025: [EuroProofNet Symposium](../symposium), Institut Pascal, Orsay, France
 
 - 9-13 June 2025 (TBC): 31st International Conference on Types for Proofs and Programs, University of Strathclyde, UK
 
