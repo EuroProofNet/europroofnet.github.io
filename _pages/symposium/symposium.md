@@ -33,15 +33,10 @@ Week 1:
 | Mo8                 | Tu9                 | We10                | Th11                | Fr12 | Sa13 | Su14 |
 | [LFPSI](../LFPSI24) | [LFPSI](../LFPSI24) | [LFPSI](../LFPSI24) | [LFPSI](../LFPSI24) |      |      |      |
 |                     |                     |                     | WG2                 | WG2  | WG2  |      |
-|                     |                     |                     |                     |      |      |      |
-|                     |                     |                     |                     |      |      |      |
-|                     |                     |                     |                     |      |      |      |
 
 Week 2:
 
 | Mo15 | Tu16 | We17 | Th18 | Fr19 |
-|      |      |      |      |      |
-|      |      |      |      |      |
 | WG4  | WG4  |      |      |      |
 | MCLP | MCLP | MCLP | MCLP |      |
 |      |      | WG3  | WG3  | WG3  |
