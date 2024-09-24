@@ -22,7 +22,7 @@ breadcrumbs: true
 
 * WG4: Workshop on Large Proof Libraries
 
-* MCL: Conference on Mathematical and Computational Linguistics for Proofs
+* MCLP: Conference on Mathematical and Computational Linguistics for Proofs
 
 * WG3: Worshop on Program Verification
 
