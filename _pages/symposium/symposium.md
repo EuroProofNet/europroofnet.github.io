@@ -6,9 +6,9 @@ author_profile: true
 breadcrumbs: true
 ---
 
-(page under construction)
+<img src="/_pages/symposium/ipa11.jpg"/>
 
-<!--img src="/_pages/WG1/Sep2023/IMG_20230927_130736.jpg"/-->
+(page under construction)
 
 **Date:** 8-19 September 2025
 
@@ -28,14 +28,24 @@ breadcrumbs: true
 
 **Schedule:**
 
-| Mo8                 | Tu9                 | We10                | Th11                | Fr12 | Sa13 | Su14 | Mo15 | Tu16 | We17 | Th18 | Fr19 |
-| [LFPSI](../LFPSI24) | [LFPSI](../LFPSI24) | [LFPSI](../LFPSI24) | [LFPSI](../LFPSI24) |      |      |      |      |      |      |      |      |
-|                     |                     |                     | WG2                 | WG2  | WG2  |      |      |      |      |      |      |
-|                     |                     |                     |                     |      |      |      | WG4  | WG4  |      |      |      |
-|                     |                     |                     |                     |      |      |      | MCLP | MCLP | MCLP | MCLP |      |
-|                     |                     |                     |                     |      |      |      |      |      | WG3  | WG3  | WG3  |
+Week 1:
 
-<img src="/_pages/symposium/ipa11.jpg"/>
+| Mo8                 | Tu9                 | We10                | Th11                | Fr12 | Sa13 | Su14 |
+| [LFPSI](../LFPSI24) | [LFPSI](../LFPSI24) | [LFPSI](../LFPSI24) | [LFPSI](../LFPSI24) |      |      |      |
+|                     |                     |                     | WG2                 | WG2  | WG2  |      |
+|                     |                     |                     |                     |      |      |      |
+|                     |                     |                     |                     |      |      |      |
+|                     |                     |                     |                     |      |      |      |
+
+Week 2:
+
+| Mo15 | Tu16 | We17 | Th18 | Fr19 |
+|      |      |      |      |      |
+|      |      |      |      |      |
+| WG4  | WG4  |      |      |      |
+| MCLP | MCLP | MCLP | MCLP |      |
+|      |      | WG3  | WG3  | WG3  |
+
 <img src="/_pages/symposium/ipa13.jpg"/>
 <img src="/_pages/symposium/ipa10.jpg"/>
 <img src="/_pages/symposium/ipa7.jpg"/>
