@@ -34,9 +34,7 @@ corner).
 
 **Coming events:**
 
-- 25 August - 1st September 2024: [14th International School on Rewriting](http://cl-informatik.uibk.ac.at/events/isr-2024/), Obergurgl, Austria
-- 13-14 September 2024: [WG4 meeting/2nd workshop on the development, maintenance, refactoring and mining of large libraries of proofs](../wg4-tbilisi24) in Tbilisi, Georgia, in co-location with [ITP'24](https://www.viam.science.tsu.ge/itp2024/)
-- 15-21 September 2024: school on [Proof & Computation](http://www.mathematik.uni-muenchen.de/~schwicht/pc24.php), Fischbachau, Germany
+- 26-27 September 2024: [WG1+2+4 meeting](../Fontainebleau24), Fontainebleau, France
 
 [Past events](../events)
 

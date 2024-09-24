@@ -13,6 +13,10 @@ the entire collection nor of the system that was used to develop the proofs.
 
 ### Activities
 
+- 26-27 September 2024: [WG1+2+4 meeting](../Fontainebleau24), Fontainebleau, France
+
+- 13-14 September 2024: [WG4 meeting/2nd workshop on the development, maintenance, refactoring and mining of large libraries of proofs](../wg4-tbilisi24) in Tbilisi, Georgia, in co-location with [ITP'24](https://www.viam.science.tsu.ge/itp2024/)
+
 - 26-27 September 2023: [WG1+4 meeting](../WG1+4-meeting-Sep2023), Fontainebleau, France
 
 - 6-8 September 2023: [Joint WG4-WG5 meeting/Workshop on Natural Formal Mathematics, and on libraries of formal proofs and natural mathematical language](../cambridge-2023), Cambridge, UK

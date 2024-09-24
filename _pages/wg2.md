@@ -21,6 +21,8 @@ We use a [git repository to store all our documents and deliverables](https://gi
 
 ### Activities
 
+* September 2024: [WG1+2+4 meeting](../Fontainebleau24), Fontainebleau, France
+
 * July 2024: [SAT/SMT/AR Summer School](https://sat-smt-ar-school.gitlab.io/www/2024/) in Nancy (France) with TPTP (below) and IJCAR
 
 * July 2024: [TPTP Tea-Party 2024](https://www.tptp.org/TPTP/TPTPTParty/2024/) in Nancy (France)
