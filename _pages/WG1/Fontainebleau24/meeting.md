@@ -14,7 +14,7 @@ breadcrumbs: true
 
 **Venue:** Ecole des Mines, 35 rue Saint-Honoré, Fontainebleau, France
 
-**Participants (14):** Bruno Barras, Catherine Dubois, Frédéric Blanqui, Olivier Hermant, Guillaume Burel, Luc Chabassier, Rishikesh Vaishnav, Théo Winterhalter, Thiago Felicissimo, Thomas Traversié, Abdelghani Alidra, Anne Grieu, Melanie Taprogge, Salwa Tabet Gonzalez
+**Participants (15):** Bruno Barras, Catherine Dubois, Frédéric Blanqui, Olivier Hermant, Guillaume Burel, Luc Chabassier, Rishikesh Vaishnav, Théo Winterhalter, Thiago Felicissimo, Thomas Traversié, Abdelghani Alidra, Anne Grieu, Melanie Taprogge, Salwa Tabet Gonzalez, Tomaz Mascarenhas
 
 **Thursday 26 September:**
 
