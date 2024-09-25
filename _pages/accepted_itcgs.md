@@ -12,8 +12,21 @@ author_profile: true
   Grant: 0 EUR__
   Dates: 2023-03-01 to 2023-04-01__
 -->
+## 5th call (31st July 2024)
 
-## 4th call (1 May 2024)
+* **Term Search in Rust**  [application](/_pages/stsm/annus-app.pdf)  
+  Grantee: Tavo Annus   
+  Conference: 2024 Workshop on Type-Driven Development (TyDe)  
+  Grant: 1100 EUR  
+  Dates: 2024-09-05 to 2024-09-07
+
+* **On interpolation applications in complexity and verification**  [application](/_pages/stsm/jalali-app.pdf)  
+  Grantee: Raheleh Jalali
+  Conference: The 7th Workshop on Proof Theory, Modal Logic and Reflection Principles   
+  Grant: 1800 EUR  
+  Dates: 2024-09-01 to 2024-09-06
+
+## 4th call (1st May 2024)
 
 * **Comparing Quotient- and Symmetric Containers** [application](/_pages/stsm/joram-TYPES-app.pdf) [report](/_pages/stsm/joram-rep.pdf)       
   Grantee: Philipp Joram   
@@ -39,7 +52,7 @@ author_profile: true
   Grant: 1615 EUR   
   Dates: 2024-07-09 to 2024-07-14
 
-## 3th call (12 November 2023)
+## 3th call (12th November 2023)
 
 * **Proof based teaching for elementary education** [application](/_pages/stsm/tekin-app.pdf)   
   Grantee: Firdevs Tuğba Tekin (Saliha Şükriye Yoluç Primary School, Istanbul, Turkey)     
@@ -48,7 +61,7 @@ author_profile: true
   Dates: 2023-12-15 to 2023-12-17
 
 
-## 2nd call (8 May 2023)
+## 2nd call (8th May 2023)
 
 * **Anti-unification and Generalization: A Survey**  
   Grantee: [David Cerna](https://www.cs.cas.cz/dcerna) (Czech Academy of Sciences Institute of Computer Science, Czech Republic)  
@@ -57,7 +70,7 @@ author_profile: true
   Dates: 2023-08-17 to 2023-08-26  
 
 
-## 1st call (1 March 2023)
+## 1st call (1st March 2023)
 
 * **[System F mu omega with Context-free Session Types](https://arxiv.org/abs/2301.08659)**__   
   Grantee: [Diogo Poças](https://diogopocas1991.gitlab.io) (LASIGE, Lisbo, Portugal)__  
