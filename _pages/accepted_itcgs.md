@@ -14,13 +14,13 @@ author_profile: true
 -->
 ## 5th call (31st July 2024)
 
-* **Term Search in Rust**  [application](/_pages/stsm/annus-app.pdf)  
+* **Term Search in Rust**  [application](/_pages/stsm/annus-app.pdf) [report](/_pages/stsm/annus-rep.pdf)    
   Grantee: Tavo Annus   
   Conference: 2024 Workshop on Type-Driven Development (TyDe)  
   Grant: 1100 EUR  
   Dates: 2024-09-05 to 2024-09-07
 
-* **On interpolation applications in complexity and verification**  [application](/_pages/stsm/jalali-app.pdf)  
+* **On interpolation applications in complexity and verification**  [application](/_pages/stsm/jalali-app.pdf) [report](/_pages/stsm/annus-rep.pdf)   
   Grantee: Raheleh Jalali  
   Conference: The 7th Workshop on Proof Theory, Modal Logic and Reflection Principles   
   Grant: 1800 EUR  
