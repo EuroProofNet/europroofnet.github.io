@@ -33,7 +33,7 @@ The grant amounts below are initial estimations and not necessarily the final am
   Visitor: Thorsten Altenkirch    
   Host: Tarmo Uustalu     
   Grant: 2033 EUR  
-  Dates: 2024-09-01 to 2024-09-07
+  Dates: 2024-08-31 to 2024-09-06
 
 * **Modern algebraic perspectives on the λ-calculus and its extensions** [application](/_pages/stsm/arkor-app24.pdf) [report](/_pages/stsm/arkor-rep24.pdf)     
   Visitor: Nathanael Arkor   
