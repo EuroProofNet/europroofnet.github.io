@@ -17,11 +17,11 @@ The grant amounts below are initial estimations and not necessarily the final am
 
 ## 10th call (1 May  2024)
 
-* **Challenges in the Formal Verification of Attested TLS in Confidential Computing** [application](/_pages/stsm/sardar-app24.pdf)   
+* **Challenges in the Formal Verification of Attested TLS in Confidential Computing** [application](/_pages/stsm/sardar-app24.pdf) [report](/_pages/stsm/sardar-rep24.pdf)    
   Visitor: Muhammad Usama Sardar   
   Host: Lilia Georgieva     
   Grant: 2264 EUR  
-  Dates: 2024-06-09 to 2024-06-15
+  Dates: 2024-08-25 to 2024-08-31
 
 * **A type theory for exact and continuous Bayesian observations** [application](/_pages/stsm/roman-app.pdf) [report](/_pages/stsm/roman-rep.pdf)   
   Visitor: Mario Román   
@@ -35,13 +35,13 @@ The grant amounts below are initial estimations and not necessarily the final am
   Grant: 1924 EUR  
   Dates: 2024-06-23 to 2024-06-29
 
-* **A rethinking of a Prolog interpreter based on a three-valued logic using Maude** [application](/_pages/stsm/barbosa-app.pdf)   
+* **A rethinking of a Prolog interpreter based on a three-valued logic using Maude** [application](/_pages/stsm/barbosa-app.pdf) [report](/_pages/stsm/barbosa-rep.pdf)     
   Visitor: João Barbosa  
   Host:  Santiago Escobar    
   Grant: 1057 EUR  
   Dates: 2024-07-21 to 2024-07-27
 
-* **Coupling SMT and theorem proving to prove hardware/software security mechanisms** [application](/_pages/stsm/stolz-app.pdf)   
+* **Coupling SMT and theorem proving to prove hardware/software security mechanisms** [application](/_pages/stsm/stolz-app.pdf) [report](/_pages/stsm/stolz-rep.pdf)    
   Visitor: Volker Stolz   
   Host:  Guillaume HIET     
   Grant: 1939 EUR  
@@ -50,17 +50,17 @@ The grant amounts below are initial estimations and not necessarily the final am
 
 ## 9th call (17 March  2024)
 
-* **Auditable Constraint Programming: Integrating Proof Logging with Fuzzing and Explanations** [application](/_pages/stsm/mcilree-app.pdf)   
+* **Auditable Constraint Programming: Integrating Proof Logging with Fuzzing and Explanations** [application](/_pages/stsm/mcilree-app.pdf)  [report](/_pages/stsm/mcilree-rep.pdf)      
   Visitor: Matthew McIlree  
   Host: Tias Guns    
   Grant: 2200 EUR  
   Dates: 2024-07-07 to 2024-07-15
 
-* **Second-Order Generalised Algebraic Theories for Modal and Substructural Type Theories** [application](/_pages/stsm/neumann-app.pdf)   
+* **Second-Order Generalised Algebraic Theories for Modal and Substructural Type Theories** [application](/_pages/stsm/neumann-app.pdf) [report](/_pages/stsm/neumann-rep.pdf)     
   Visitor: Jacob Neumann  
   Host: Ambrus Kaposi    
   Grant: 1777 EUR  
-  Dates: 2024-06-21 to 2024-06-29
+  Dates: 2024-06-24 to 2024-07-02
 
 * **Coinduction in Cubical Agda** [application](/_pages/stsm/damato-app.pdf) [report](/_pages/stsm/damato-rep.pdf)   
   Visitor: Stefania Damato   
