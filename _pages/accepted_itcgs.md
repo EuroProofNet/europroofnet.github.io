@@ -20,7 +20,7 @@ author_profile: true
   Grant: 1100 EUR  
   Dates: 2024-09-05 to 2024-09-07
 
-* **On interpolation applications in complexity and verification**  [application](/_pages/stsm/jalali-app.pdf) [report](/_pages/stsm/annus-rep.pdf)   
+* **On interpolation applications in complexity and verification**  [application](/_pages/stsm/jalali-app.pdf) [report](/_pages/stsm/jalali-rep.pdf)   
   Grantee: Raheleh Jalali  
   Conference: The 7th Workshop on Proof Theory, Modal Logic and Reflection Principles   
   Grant: 1800 EUR  
