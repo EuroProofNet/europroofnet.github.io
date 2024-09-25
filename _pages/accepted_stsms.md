@@ -35,7 +35,7 @@ The grant amounts below are initial estimations and not necessarily the final am
   Grant: 2033 EUR  
   Dates: 2024-09-01 to 2024-09-07
 
-* **Modern algebraic perspectives on the λ-calculus and its extensions** [application](/_pages/stsm/arkor-app.pdf) [report](/_pages/stsm/name-app.pdf)     
+* **Modern algebraic perspectives on the λ-calculus and its extensions** [application](/_pages/stsm/arkor-app24.pdf) [report](/_pages/stsm/name-app.pdf)     
   Visitor: Nathanael Arkor   
   Host: Martin Hyland      
   Grant: 1750 EUR   
