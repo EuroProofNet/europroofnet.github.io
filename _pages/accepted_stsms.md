@@ -15,7 +15,7 @@ author_profile: true
 
 The grant amounts below are initial estimations and not necessarily the final amounts.
 
-## 11th call (31 July  2024)
+## 11th call (31st July  2024)
 
 * **Comodule representations of second-order functionals** [application](/_pages/stsm/ahman-app24.pdf)      
   Visitor: Danel Ahman  
@@ -55,7 +55,7 @@ The grant amounts below are initial estimations and not necessarily the final am
 
 
 
-## 10th call (1 May  2024)
+## 10th call (1st May  2024)
 
 * **Challenges in the Formal Verification of Attested TLS in Confidential Computing** [application](/_pages/stsm/sardar-app24.pdf) [report](/_pages/stsm/sardar-rep24.pdf)    
   Visitor: Muhammad Usama Sardar   
@@ -88,7 +88,7 @@ The grant amounts below are initial estimations and not necessarily the final am
   Dates: 2024-09-01 to 2024-09-11
 
 
-## 9th call (17 March  2024)
+## 9th call (17th March  2024)
 
 * **Auditable Constraint Programming: Integrating Proof Logging with Fuzzing and Explanations** [application](/_pages/stsm/mcilree-app.pdf)  [report](/_pages/stsm/mcilree-rep.pdf)      
   Visitor: Matthew McIlree  
@@ -121,7 +121,7 @@ The grant amounts below are initial estimations and not necessarily the final am
   Grant: 2131 EUR  
   Dates: 2024-05-13 to 2024-05-21
 
-## 8th call (7 January  2024)
+## 8th call (7th January  2024)
 
 
 * **Domain theory for program verification in Lean** [application](/_pages/stsm/cheval-app24.pdf) [report](/_pages/stsm/cheval-rep2.pdf)   
@@ -154,13 +154,15 @@ The grant amounts below are initial estimations and not necessarily the final am
   Grant: 2808 EUR  
   Dates: 2024-02-25 to 2024-03-09
   
-## 7th call (12 November 2023)
+## 7th call (12th November 2023)
 
+<!--
 * **Reconstructing AletheLF Proofs in Lambdapi** [application](/_pages/stsm/coltellacci-app.pdf)   
   Visitor: Alessio Coltellacci   
   Host: Yoni Zohar   
   Grant: 3457 EUR  
   Dates: 2024-04-01 to 2024-04-12
+-->
 
 * **Learning for Automated Theorem Proving Based on Proof Structures in the Presence of a Large Proof Library** [application](/_pages/stsm/zombori-app.pdf)  [report](/_pages/stsm/zombori-rep.pdf)      
   Visitor: Zsolt Zombori    
@@ -222,7 +224,7 @@ The grant amounts below are initial estimations and not necessarily the final am
   Grant: 1606 EUR  
   Dates: 2024-01-14 to 2024-01-20
 
-## 6th call (8 May 2023)
+## 6th call (8th May 2023)
 
 * **Reconstruction of incomplete theorems and incomplete proofs with Larus** [application](/_pages/stsm/tabet-app.pdf) [report](/_pages/stsm/tabet-rep.pdf)   
   Visitor: Salwa Tabet Gonzalez   
@@ -342,7 +344,7 @@ The grant amounts below are initial estimations and not necessarily the final am
   Grant: 2459 EUR  
   Dates: 2023-05-22 to 2023-06-04
 
-## 4th call (1 January 2023)
+## 4th call (1st January 2023)
 
 * **Translation from Dedukti to Minlog** [application](/_pages/stsm/geran-app.pdf) [report](/_pages/stsm/geran-rep.pdf)   
   Visitor: Yoan Géran (MINES ParisTech, Fontainebleau, France)   
@@ -398,7 +400,7 @@ The grant amounts below are initial estimations and not necessarily the final am
   Grant: 1037 EUR  
   Dates: 2023-04-16 to 2023-04-21
 
-## 3rd call (1 July 2022)
+## 3rd call (1st July 2022)
 
 * **Behavioural Types for Smart Contracts** [application](/_pages/stsm/tuosto-app.pdf) [report](/_pages/stsm/tuosto-rep.pdf)   
   Visitor: Emilio Tuosto (Gran Sasso Science Institute, L'Aquila, IT)  
@@ -430,7 +432,7 @@ The grant amounts below are initial estimations and not necessarily the final am
   Grant: 2450 EUR  
   Dates: 2022-09-04 to 2022-09-18
 
-## 2nd call (3 April 2022)
+## 2nd call (3rd April 2022)
 
 * **Using "behavioural types" for automatic validation of distributed systems** [application](/_pages/stsm/giannini-app.pdf) [report](/_pages/stsm/giannini-rep.pdf)   
   Visitor: Paola Giannini (Università del Piemonte Orientale, Alessandria, IT)  
@@ -468,7 +470,7 @@ The grant amounts below are initial estimations and not necessarily the final am
   Grant: 1200 EUR  
   Dates: 2022-05-22 to 2022-05-29
 
-## 1st call (18 January 2022)
+## 1st call (18th January 2022)
 
 * **Infrastructure for Automated Theorem Provers Inventory** [application](/_pages/stsm/steen-app.pdf) [report](/_pages/stsm/steen-rep.pdf)   
   Visitor: Alexander Steen (University of Greifswald, DE)  
