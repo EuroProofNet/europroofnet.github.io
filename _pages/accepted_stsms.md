@@ -48,10 +48,10 @@ The grant amounts below are initial estimations and not necessarily the final am
   Dates: 2024-08-11 to 2024-08-18
 
 * **Exploring anti-unification over typed languages and equational theories** [application](/_pages/stsm/name-app.pdf)   
-  Visitor: Temur Kutsia
-  Host:  David Cerna
-  Grant: 1800 EUR  
-  Dates: 2024-08-01 to 2024-08-10
+  Visitor: David Cerna    
+  Host: Temur Kutsia     
+  Grant: 1800 EUR    
+  Dates: 2024-08-01 to 2024-08-10  
 
 
 
