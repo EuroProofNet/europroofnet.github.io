@@ -15,6 +15,46 @@ author_profile: true
 
 The grant amounts below are initial estimations and not necessarily the final amounts.
 
+## 11th call (31 July  2024)
+
+* **Comodule representations of second-order functionals** [application](/_pages/stsm/name-app.pdf)   
+  Visitor: Danel Ahman  
+  Host: Andrej Bauer   
+  Grant: 2850 EUR  
+  Dates: 2024-09-09 to 2024-09-24
+
+* **Strictification of the syntax of type theory** [application](/_pages/stsm/name-app.pdf)   
+  Visitor: Loïc Pujet 
+  Host: Ambrus Kaposi   
+  Grant: 1430 EUR  
+  Dates: 2024-09-02 to 2024-09-06
+
+* **Concurrency in cubical type theory** [application](/_pages/stsm/name-app.pdf)   
+  Visitor: Thorsten Altenkirch  
+  Host: Tarmo Uustalu   
+  Grant: 2033 EUR  
+  Dates: 2024-09-01 to 2024-09-07
+
+* **Modern algebraic perspectives on the λ-calculus and its extensions** [application](/_pages/stsm/name-app.pdf)   
+  Visitor: Nathanael Arkor 
+  Host: Martin Hyland    
+  Grant: 1750 EUR  
+  Dates: 2024-08-11 to 2024-08-18
+
+* **Modern algebraic perspectives on the λ-calculus and its extensions** [application](/_pages/stsm/name-app.pdf)   
+  Visitor: Dylan McDermott  
+  Host: Martin Hyland 
+  Grant: 1710 EUR  
+  Dates: 2024-08-11 to 2024-08-18
+
+* **Exploring anti-unification over typed languages and equational theories** [application](/_pages/stsm/name-app.pdf)   
+  Visitor: Temur Kutsia
+  Host:  David Cerna
+  Grant: 1800 EUR  
+  Dates: 2024-08-01 to 2024-08-10
+
+
+
 ## 10th call (1 May  2024)
 
 * **Challenges in the Formal Verification of Attested TLS in Confidential Computing** [application](/_pages/stsm/sardar-app24.pdf) [report](/_pages/stsm/sardar-rep24.pdf)    
