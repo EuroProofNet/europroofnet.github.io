@@ -20,7 +20,7 @@ breadcrumbs: true
 
 |09:30-10:00|welcome coffee|
 |10:00-10:45|[Encoding of Atelier B proofs in Lambdapi](anne.pdf), Anne Grieu|
-|10:45-11:30|Certification of Leo-III proofs in Lambdapi, Melanie Taprogge|
+|10:45-11:30|[Certification of Leo-III proofs in Lambdapi](melanie.pdf), Melanie Taprogge|
 |11:30-13:00|lunch|
 |13:00-13:45|Progress on Lean4Less, Rishikesh Vaishnav|
 |13:45-14:15|[Ghost types and equality reflection](theo.pdf), Théo Winterhalter|
