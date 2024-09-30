@@ -34,7 +34,7 @@ breadcrumbs: true
 **Friday 27 September:**
 
 |09:00-09:30|Alignment of concepts in Logipedia: some experiments in Coq and Lambdapi, Salwa Tabet Gonzalez|
-|09:30-10:15|Generic translations between Dedukti theories, Thomas Traversié|
+|09:30-10:15|[Generic translations between Dedukti theories](thomas.pdf), Thomas Traversié|
 |10:15-11:00|[Alignment of real numbers between HOL-Light and Coq](frederic.pdf), Frédéric Blanqui|
 |11:00-12:30|discussion session|
 |12:30-13:30|lunch|
