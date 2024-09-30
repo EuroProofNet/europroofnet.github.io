@@ -22,7 +22,7 @@ breadcrumbs: true
 |10:00-10:45|[Encoding of Atelier B proofs in Lambdapi](anne.pdf), Anne Grieu|
 |10:45-11:30|[Certification of Leo-III proofs in Lambdapi](melanie.pdf), Melanie Taprogge|
 |11:30-13:00|lunch|
-|13:00-13:45|Progress on Lean4Less, Rishikesh Vaishnav|
+|13:00-13:45|[Progress on Lean4Less](rish.pdf), Rishikesh Vaishnav|
 |13:45-14:15|[Ghost types and equality reflection](theo.pdf), Théo Winterhalter|
 |14:15-14:45|Dedukti modulo theories, Bruno Barras|
 |14:45-16:00|discussion session|
