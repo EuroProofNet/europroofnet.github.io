@@ -41,7 +41,7 @@ breadcrumbs: true
 |13:30-14:00|[Adaptation of coq-lsp to Lambdapi](abdelghani.pdf), Abdelghani Alida|
 |14:00-14:30|Tool for graphical category proofs, Luc Chabassier|
 |14:30-15:00|[Deskolemization](olivier.pdf), Olivier Hermant|
-|15:00-15:30|Representation of automated proofs in Lambdapi using GDV-LP, Guillaume Burel|
+|15:00-15:30|[Representation of automated proofs in Lambdapi using GDV-LP](guillaume.pdf), Guillaume Burel|
 |15:30-16:00|break|
 |16:00-17:30|discussion session|
 
