@@ -12,10 +12,12 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 - [STSM reports](../accepted_stsms)
 
 **2024**
-- [Equational Anti-Unification over Absorption Theories](https://arxiv.org/abs/2310.11136) Mauricio Ayala-Rincon, David M. Cerna, Andres Felipe Gonzalez Barragan, Temur Kutsia, IJCAR 2024, July 1st-6th 2024.
-- [Learning Guided Automated Reasoning: A Brief Survey](https://link.springer.com/chapter/10.1007/978-3-031-61716-4_4) Lasse Blaauwbroek, David M. Cerna, Thibault Gauthier, Jan Jakubův, Cezary Kaliszyk, Martin Suda, Josef Urban, Logics and Type Systems in Theory and Practice 2024.
+- [Equational Anti-Unification over Absorption Theories](https://arxiv.org/abs/2310.11136), Mauricio Ayala-Rincon, David M. Cerna, Andres Felipe Gonzalez Barragan, Temur Kutsia, IJCAR 2024, July 1st-6th 2024.
+- [Learning Guided Automated Reasoning: A Brief Survey](https://link.springer.com/chapter/10.1007/978-3-031-61716-4_4), Lasse Blaauwbroek, David M. Cerna, Thibault Gauthier, Jan Jakubův, Cezary Kaliszyk, Martin Suda, Josef Urban, Logics and Type Systems in Theory and Practice 2024.
 - [Generalisation through Negation and Predicate Invention](https://doi.org/10.48550/arXiv.2301.07629), David M. Cerna and Andrew Cropper, AAAI-24, Feb. 22-25.
 - [Formal Specification and Verification of Architecturally-Defined Attestation Mechanisms in Arm CCA and Intel TDX](https://doi.org/10.1109/access.2023.3346501), M. U. Sardar, T. Fossati, S. Frost, S. Xiong, IEEE Access, pp. 361-381, vol 12.
+- [Translating HOL-Light proofs to Coq](https://doi.org/10.29007/6k4x), Frédéric Blanqui, 25th International Conference on Logic for Programming, Artificial Intelligence and Reasoning (LPAR).
+- [Sharing proofs with predicative theories through universe-polymorphic elaboration](https://doi.org/10.46298/lmcs-20(3:23)2024), Thiago Felicissimo and Frédéric Blanqui, Logical Methods in Computer Science, Volume 20, Issue 3. 
 
 **2023**
 
