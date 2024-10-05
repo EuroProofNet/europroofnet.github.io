@@ -7,6 +7,8 @@ author_profile: true
 
 To contribute to the web site, please open an [issue](https://github.com/EuroProofNet/europroofnet.github.io/issues), create a [pull request](https://github.com/EuroProofNet/europroofnet.github.io) or send a mail to the [science communication coordinators](../contact).
 
+- 2024-2029: [CertiFOX](https://www.bartbogaerts.eu/projects/certifox), Certified First-Order Model Expansion
+
 - 2024-2027: [APPAM](https://appam.icube.unistra.fr/): proof assistants for learning mathematics
 
 - 2022-2026: ForCUTT, Formalisation of Constructive Univalent Type Theory (ERC Advanced Grant to [Thierry Coquand](http://www.cse.chalmers.se/~coquand/))

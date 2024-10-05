@@ -7,6 +7,8 @@ author_profile: true
 
 To contribute to the web site, please open an [issue](https://github.com/EuroProofNet/europroofnet.github.io/issues), create a [pull request](https://github.com/EuroProofNet/europroofnet.github.io) or send a mail to the [science communication coordinators](../contact).
 
+- 31 July 2024 (deadline): [Postdoc position](https://www.kuleuven.be/personeel/jobsite/jobs/60344086?utm_medium=jobsites&utm_source=academicpositions) in ERC CoG project [CertiFOX](https://www.bartbogaerts.eu/projects/certifox) on trustworthy combinatorial optimization using proof logging
+
 - 20 November 2023 (deadline): The [Institute of Computer Science](https://www.cs.cas.cz/) of the Czech Academy of Sciences offers a [tenure track position in Artificial Intelligence](https://www.cs.cas.cz/job-offer/Tenure-Track-Position-Artificial-Intelligence/en), interpreted in its broadest possible sense, including the area of automated reasoning. Contact [Stefan Ratschan](http://www.cs.cas.cz/~ratschan/).
 
 - 20 November 2023 (deadline): The [Institute of Computer Science](https://www.cs.cas.cz/) of the Czech Academy of Sciences offers a [tenure track position in Computer Science](https://www.cs.cas.cz/job-offer/Tenure-Track-Position-Computer-Science/en), open to areas fitting and/or expanding the current research areas at the institute (computational logic, artificial intelligence, statistics, etc.). See the [institute page](https://www.cs.cas.cz/) for more details or contact [ics@cs.cas.cz](ics@cs.cas.cz).
