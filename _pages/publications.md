@@ -19,6 +19,7 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 - [Translating HOL-Light proofs to Coq](https://doi.org/10.29007/6k4x), Frédéric Blanqui, 25th International Conference on Logic for Programming, Artificial Intelligence and Reasoning (LPAR).
 - [Sharing proofs with predicative theories through universe-polymorphic elaboration](https://doi.org/10.46298/lmcs-20(3:23)2024), Thiago Felicissimo and Frédéric Blanqui, Logical Methods in Computer Science, Volume 20, Issue 3. 
 - [Maude2Lean: Theorem proving for Maude specifications using Lean](https://doi.org/10.1016/j.jlamp.2024.101005), Rubén Rubio and Adrián Riesco, [*JLAMP*](https://www.sciencedirect.com/journal/journal-of-logical-and-algebraic-methods-in-programming)
+- [Comodule Representations of Second-Order Functionals](https://arxiv.org/abs/2409.17664), Danel Ahman and Andrej Bauer
 
 **2023**
 
