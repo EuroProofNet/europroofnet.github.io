@@ -28,7 +28,7 @@ Proving Tactic Prediction](https://www.lamda.nju.edu.cn/ijclr24/index.html), Lia
 - [Transpension: The Right Adjoint to the Pi-type](https://doi.org/10.46298/lmcs-20(2:16)2024). Andreas Nuyts and Dominique Devriese. 2024. Logical Methods in Computer Science Volume 20, Issue 2, (June 2024).
 - [Kuroda’s Translation for the λΠ-Calculus Modulo Theory and Dedukti](http://dx.doi.org/10.4204/EPTCS.404.3), Thomas Traversié, Logical Frameworks and Meta-Languages: Theory and Practice (LFMTP 2024).
 - [Proofs for Free in the λΠ-Calculus Modulo Theory](https://dx.doi.org/10.4204/EPTCS.404.4), Thomas Traversié, Logical Frameworks and Meta-Languages: Theory and Practice (LFMTP 2024).
-- [Internal and Observational Parametricity for Cubical Agda](https://doi.org/10.1145/3632850 ). Antoine Van Muylder, Andreas Nuyts, and Dominique Devriese. 2024. Proc. ACM Program. Lang. 8, POPL (January 2024).
+- [Internal and Observational Parametricity for Cubical Agda](https://doi.org/10.1145/3632850). Antoine Van Muylder, Andreas Nuyts, and Dominique Devriese. 2024. Proc. ACM Program. Lang. 8, POPL (January 2024).
 
 **2023**
 
