@@ -12,6 +12,10 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 - [STSM reports](../accepted_stsms)
 
 **2024**
+- [Differentiable Inductive Logic Programming in
+High-Dimensional Space](https://arxiv.org/abs/2208.06652), Stanisław J. Purgał, David M. Cerna, Cezary Kaliszyk, IJCLR 2024, September 20th-22th 2024.
+- [Learning Rules Explaining Interactive Theorem
+Proving Tactic Prediction](https://www.lamda.nju.edu.cn/ijclr24/index.html), Liao Zhang, David M. Cerna, Cezary Kaliszyk, IJCLR 2024, September 20th-22th 2024.
 - [Equational Anti-Unification over Absorption Theories](https://arxiv.org/abs/2310.11136), Mauricio Ayala-Rincon, David M. Cerna, Andres Felipe Gonzalez Barragan, Temur Kutsia, IJCAR 2024, July 1st-6th 2024.
 - [Learning Guided Automated Reasoning: A Brief Survey](https://link.springer.com/chapter/10.1007/978-3-031-61716-4_4), Lasse Blaauwbroek, David M. Cerna, Thibault Gauthier, Jan Jakubův, Cezary Kaliszyk, Martin Suda, Josef Urban, Logics and Type Systems in Theory and Practice 2024.
 - [Generalisation through Negation and Predicate Invention](https://doi.org/10.48550/arXiv.2301.07629), David M. Cerna and Andrew Cropper, AAAI-24, Feb. 22-25.
