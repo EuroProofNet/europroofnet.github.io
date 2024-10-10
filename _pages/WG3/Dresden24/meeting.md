@@ -14,7 +14,12 @@ breadcrumbs: true
 Address: [Nöthnitzer Str. 46, 01069 Dresden](https://maps.app.goo.gl/m6nAt82gL8DdB8p39) <br>
 Room: [APB E023](https://navigator.tu-dresden.de/etplan/apb/00/raum/542100.2310) on ground floor
 
-**Tentative program:** see [here](https://europroofnet.github.io/wg3-dresden24-program/) 
+**Output**
+
+* Final [Report](./Report_WG3meetingDresden.pdf).
+* Some presentations and video recordings have been addded to the [program page](https://europroofnet.github.io/wg3-dresden24-program/).
+
+**Program:** see [here](https://europroofnet.github.io/wg3-dresden24-program/) 
 
 **Main idea:** Despite significant advances in formal methods, there remains a huge barrier to the adoption of formal methods in the industry. The key idea of this event is to bring together industry designers and formal methods research community to share ideas and experiences on how to improve the tools to reduce the barrier to adoption.
 
