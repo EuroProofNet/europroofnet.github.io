@@ -4,7 +4,7 @@ layout: single
 author_profile: true
 ---
 
-# Participants:
+# Participants (25):
 
 -   Adams Robin (SE)
 -   Ahrens Benedikt (UK)

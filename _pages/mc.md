@@ -5,7 +5,7 @@ title: "Management Committee Meetings"
 
 **Meeting 4: 11 October 2024**
 
-<!-- [minutes](MC/meeting4/minutes.pdf)-->
+- [minutes](MC/meeting4/minutes.md)
 - [summary of activities on Nov 23 - Oct 24](MC/meeting4/summary.pdf)
 - [summary of WG1](MC/meeting4/wg1.md)
 - [summary of WG2](MC/meeting4/wg2.pdf)
