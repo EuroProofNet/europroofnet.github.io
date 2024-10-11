@@ -4,7 +4,7 @@ layout: single
 author_profile: true
 ---
 
-# Participants (25):
+## Participants (25):
 
 -   Adams Robin (SE)
 -   Ahrens Benedikt (UK)
@@ -32,58 +32,58 @@ author_profile: true
 -   Villanueva Alicia (ES)
 -   Ertuğrul Ümit (TR)
 
-# Meeting 4
-
 ## Situation Summary by Frédéric
 
-See the slides of the Chair
+[slides](summary.pdf)
 
 -   Slow evolution in the number of people
--   Maybe record more talks next talks, only few new this year?
+-   Record more talks next year (only few this year)
 -   Many publications needed for the final version of the report
 -   Budget: STSMs and ICTGs largest expense. Sometimes less money spent
-    than planned, so more events could be funded.  Now full budget spent.
--   Reimbursement: before september only LOS missing. Since September,
+    than planned, so more events could be funded. Now full budget spent.
+-   Reimbursement: before September only LOS missing. Since September,
     not reimbursed yet (not checked yet / not fully reimbursed
     yet). Should be done in the coming month.
 
 ## STSMs and ITCGs by Simona Prokic
 
-See the slides
+[slides](grants.pdf)
 
 -   Improvement in percentage of woman visitors
--   more visits to and esp. from ITC compared to last year
-
+-   More visits to and esp. from ITC compared to last year
 
 ## WG coordinators
 
-See the slides
-
-
 ### WG1 by Jesper Cockx
 
-
-### WG3 by Alicia Villanueva
-
+[slides](wg1.pdf)
 
 ### WG2 by Mathias Fleury
 
-[Slides](./wg2.pdf)
+[slides](wg2.pdf)
+
+### WG3 by Alicia Villanueva
+
+[slides](wg3.pdf)
 
 ### WG4 by Claudio Sacerdoti
 
+[slides](wg4.pdf)
 
 ### WG5 by Adrian De Lon
 
+[slides](wg5.pdf)
+
 ### WG6 by Rousanka Loukanova
 
-(no slides prepared by Benedikt Ahrens who has technical issues)
-
-
+(Benedikt Ahrens got connection problems)
 
 ## Work and budget plan by Frédéric
 
-See slides.  Main event next year: final symposium. Already accepted
-by the organization, now Grant holder must accept it.
-Final report due next October.
+[slides](program.pdf)
 
+Main event next year:
+
+ - final symposium. Already accepted by the organization, now Grant holder must accept it.
+
+ - Final report due next October.
