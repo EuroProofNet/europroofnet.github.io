@@ -20,6 +20,8 @@ We use a [git repository](https://github.com/EuroProofNet/ProgramVerification) t
 
 ### Activities
 
+- 27-28 March 2024: [WG3 meeting/Tutorial on Usable Formal Methods for Security of Systems](https://europroofnet.github.io/wg3-dresden24), Dresden, Germany
+
 - 28 August - 1st September 2023: [School on Verification Technology, Systems & Applications](https://resources.mpi-inf.mpg.de/departments/rg1/conferences/vtsa23/), Nancy, France
 
 - 8-9 February 2023: [Second WG3 meeting webpage](../wg3-timisoara) 
