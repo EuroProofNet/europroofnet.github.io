@@ -36,14 +36,13 @@ author_profile: true
 
 [slides](summary.pdf)
 
--   Slow evolution in the number of people
--   Record more talks next year (only few this year)
--   Many publications needed for the final version of the report
+-   One new country: Bosnia and Herzegovina
+-   Good evolution in the number of members
+-   Fewer talks recorded this year
 -   Budget: STSMs and ICTGs largest expense. Sometimes less money spent
     than planned, so more events could be funded. Now full budget spent.
 -   Reimbursement: before September only LOS missing. Since September,
-    not reimbursed yet (not checked yet / not fully reimbursed
-    yet). Should be done in the coming month.
+    not fully reimbursed yet but many checked. Reimbursements should be done in the coming month.
 
 ## STSMs and ITCGs by Simona Prokic
 
