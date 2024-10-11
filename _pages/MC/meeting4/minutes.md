@@ -83,6 +83,8 @@ author_profile: true
 
 Main event next year:
 
- - final symposium. Already accepted by the organization, now Grant holder must accept it.
+ - Final EuroProofNet symposium on Sep 8-19 in Orsay, France.
+ 
+ Already accepted by COST and the MC. Validation by GH next week. Call for new STSMs and ITCGs soon.
 
  - Final report due next October.
