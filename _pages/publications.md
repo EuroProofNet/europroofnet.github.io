@@ -29,6 +29,16 @@ Proving Tactic Prediction](https://www.lamda.nju.edu.cn/ijclr24/index.html), Lia
 - [Kuroda’s Translation for the λΠ-Calculus Modulo Theory and Dedukti](http://dx.doi.org/10.4204/EPTCS.404.3), Thomas Traversié, Logical Frameworks and Meta-Languages: Theory and Practice (LFMTP 2024).
 - [Proofs for Free in the λΠ-Calculus Modulo Theory](https://dx.doi.org/10.4204/EPTCS.404.4), Thomas Traversié, Logical Frameworks and Meta-Languages: Theory and Practice (LFMTP 2024).
 - [Internal and Observational Parametricity for Cubical Agda](https://doi.org/10.1145/3632850). Antoine Van Muylder, Andreas Nuyts, and Dominique Devriese. 2024. Proc. ACM Program. Lang. 8, POPL (January 2024).
+- [The MoXI Model Exchange Tool Suite](https://link.springer.com/chapter/10.1007/978-3-031-65627-9_10), Chris Johannsen, Karthik Nukala, Rohit Dureja, Ahmed Irfan, Natarajan Shankar, Cesare Tinelli, Moshe Y. Vardi, Kristin Yvonne Rozier, CAV 2024
+- [Satisfiability Modulo Theories: A Beginner's Tutorial](https://link.springer.com/chapter/10.1007/978-3-031-71177-0_31), Clark W. Barrett, Cesare Tinelli, HanielBarbosa, Aina Niemetz, Mathias Preiner, Andrew Reynolds, Yoni Zohar. FM 2024
+- [A Matroid-Based Automatic Prover and Coq Proof Generator for Projective Incidence Geometry](https://link.springer.com/article/10.1007/s10817-023-09690-2), David Braun, NicolasMagaud, Pascal Schreck, JAR 2024.
+- [Automatic Verification of SMT Rewrites in Isabelle/HOL](https://doi.org/10.1007/978-3-031-57246-3_17), Hanna Lachnitt and  Mathias Fleury and  Leni Aniva and  Andrew Reynolds and Haniel Barbosa and   Andres Nötzli and   Clark W. Barrett and Cesare Tinelli. TACAS 2024.
+- [Certifying Incremental SAT Solving](https://easychair.org/publications/paper/TbPs), Katalin Fazekas, Florian Pollitt, Mathias Fleury and Armin Biere. LPAR 2024.
+- [A Modular Formalization of Superposition in Isabelle/HOL](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ITP.2024.12), Martin Desharnais, Balázs Tóth, Uwe Waldmann, Jasmin Blanchette, Sophie Tourret. ITP 2024.
+- [HOL Light to Isabelle/HOL Translation, Rebooted](https://files.sketis.net/Isabelle_Workshop_2024/Isabelle_2024_paper_2.pdf), Ghilain Bergeron, Stéphane Glondu and Sophie Tourret. Isabelle workshop 2024.
+- [Towards Producing Shorter Congruence Closure Proofs in a State-of-the-art SMT Solver (Extended Abstract)](https://ceur-ws.org/Vol-3717/short1.pdf), Bruno Andreotti and Haniel Barbosa and Oliver Flatt. PAAR 2024.
+- [Who finds the short proof?](https://doi.org/10.1093/jigpal/jzac082). Christoph Benzmüller, David Fuenmayor, Alexander Steen, Geoff Sutcliffe. Log. J. IGPL 2024.
+- [The New TPTP Format for Interpretations](https://arxiv.org/pdf/2406.06108). Geoff Sutcliffe, Alexander Steen, Pascal Fontaine.
 
 **2023**
 
@@ -155,7 +165,7 @@ Proving Tactic Prediction](https://www.lamda.nju.edu.cn/ijclr24/index.html), Lia
 Emanuele De Angelis, Maurizio Proietti, Fabio Fioravanti, Alberto Pettorossi, [*TPLP*](https://www.cambridge.org/core/journals/theory-and-practice-of-logic-programming)
 - [Vers une traduction de K en Dedukti](https://hal.archives-ouvertes.fr/hal-03604962) (Towards a translation of K in Dedukti), Amélie Ledein, Valentin Blot, Catherine Dubois, [JFLA'22](http://jfla.inria.fr/jfla2022.html)
 - [What Can Formal Systems Do For Mathematics? A Discussion Through The Lens Of Proof Assistants: Some Recent Advances](https://www.researchgate.net/publication/359592051_What_Can_Formal_Systems_Do_For_Mathematics_A_Discussion_Through_The_Lens_Of_Proof_Assistants_Some_Recent_Advances), Angeliki Koutsoukou-Argyraki Q&A with Jeremy Avigad, Jasmin Blanchette, Frédéric Blanqui, Kevin Buzzard, Johan Commelin, Manuel Eberl, Timothy Gowers, Peter Koepke, Assia Mahboubi, Ursula Martin, Lawrence C. Paulson, Special Issue for the 60th Anniversary of the DVMLG (German Association for Mathematical Logic and for Basic Research in the Exact Sciences), Benedikt Löwe, Deniz Sarikaya (eds.), College Publications, 2022
-
+- [A More Pragmatic {CDCL} for IsaSAT and Targetting {LLVM} (Short Paper)](https://doi.org/10.1007/978-3-031-38499-8_12). Mathias Fleury and Peter Lammich. CADE'29 (2023).
 
 
 **Reports**
