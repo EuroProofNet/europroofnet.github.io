@@ -30,7 +30,7 @@ author_profile: true
 -   Suda Martin (CZ)
 -   Tourret Sophie (FR)
 -   Villanueva Alicia (ES)
-
+-   Ertuğrul Ümit (TR)
 
 # Meeting 4
 
