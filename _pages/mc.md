@@ -7,6 +7,7 @@ title: "Management Committee Meetings"
 
 - [minutes](MC/meeting4/minutes.md)
 - [summary of activities on Nov 23 - Oct 24](MC/meeting4/summary.pdf)
+- [summary of STSMs and ITCGs](MC/meeting4/grants.pdf)
 - [summary of WG1](MC/meeting4/wg1.md)
 - [summary of WG2](MC/meeting4/wg2.pdf)
 - [summary of WG3](MC/meeting4/wg3.pdf)
