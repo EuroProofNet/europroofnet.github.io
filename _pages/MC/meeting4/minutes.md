@@ -55,7 +55,7 @@ author_profile: true
 
 ### WG1 by Jesper Cockx
 
-[slides](wg1.pdf)
+[report](wg1.md)
 
 ### WG2 by Mathias Fleury
 
