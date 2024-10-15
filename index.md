@@ -34,9 +34,30 @@ corner).
 
 **Coming events:**
 
-- 26-27 September 2024: [WG1+2+4 meeting](../Fontainebleau24), Fontainebleau, France
+- 3-7 February 2025 (TBC): WG1 meeting
 
-- 8-19 September 2025: [EuroProofNet Symposium](../Symposium), Institut Pascal, Orsay, France
+- 27-28 April 2025 (TBC): WG5 meeting on Theorem Proving with LLMs: SoA and Future Perspectives, Edinburgh, UK
+
+- April or May 2025 (TBC): WG2 meeting on ATPs for geometry, Coimbra, Portugal
+
+- 17-18 April 2025: WG6 meeting, Genoa, Italy
+
+- 5-6 May 2025: Workshop on Reasoning with Quantitative Types, Porto, Portugal
+
+- 10 June 2025: Women in EuroProofNet workshop at TYPES, Glasgow
+
+- 10-12 June 2025 (TBC): School on Natural Language Formalizations (SoNaLF), Bonn, Germany
+
+- 14-18 July 2025 (TBC): Scottish Programming Languages and Verification School, Edinburgh, UK
+
+- 14-18 July 2025 (TBC): School on Symbolic and Statistical Methods for Reasoning and Processing Formal Expressions, Kutaisi, Georgia
+
+- 8-19 September 2025: [EuroProofNet Symposium](../Symposium), Institut Pascal, Orsay, France, with:
+    - 8-11 September 2025: [1st International School on Logical Frameworks and Proof Systems Interoperability](../LFPSI24)
+    - 11-13 September 2025: WG2 meeting on proof-logging
+    - 15-16 September 2025: WG4 meeting on the development of large proof libraries
+    - 15-18 September 2025: Conference on Mathematical and Computational Linguistics for Proofs
+    - 17-19 September 2025: WG3 meeting on program verification
 
 [Past events](../events)
 
