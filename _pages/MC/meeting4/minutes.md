@@ -79,7 +79,7 @@ author_profile: true
 
 ## Work and budget plan by Frédéric
 
-[slides](program.pdf)
+[slides](plan.pdf)
 
 Main event next year:
 
