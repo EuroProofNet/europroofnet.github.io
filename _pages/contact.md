@@ -63,8 +63,8 @@ the [Grant Holder](mailto:saf-saclay-recettes@inria.fr).
   * vice leader: [Adrian de Lon](https://adelon.net)
 
 - [WG6 on type theory](/wg6)
-  * leader: [Benedikt Ahrens](https://benediktahrens.gitlab.io/)
-  * vice leader: [Roussanka Loukanova](https://staff.math.su.se/rloukanova/)
+  * leader: [Roussanka Loukanova](https://staff.math.su.se/rloukanova/)
+  * vice-leader: [Benedikt Ahrens](https://benediktahrens.gitlab.io/)
 
 **Management Committee/Country representatives**
 
