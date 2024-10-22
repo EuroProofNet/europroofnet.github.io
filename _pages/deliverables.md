@@ -39,9 +39,9 @@ author_profile: true
     
 - D11. Collection of verification challenges with summary of working recipes for verifying them.
 
-- D12. Technique for syntax-semantics interface for program verification with or without type systems.
+- D12. Technique for syntax-semantics interface for program verification with or without type systems. [[link]](../deliverable12)
 
-- D13. Extension of the database and associated tools to other systems like Agda, Minlog, PVS, Lean, Mizar, Atelier B, TLAPS.
+- D13. Extension of the database and associated tools to other systems like Agda, Minlog, PVS, Lean, Mizar, Atelier B, TLAPS. [[link]](../deliverable1)
 
 - D14. White paper on including restricted natural language proof formats to existing proof libraries.
 
