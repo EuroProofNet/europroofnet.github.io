@@ -37,7 +37,7 @@ author_profile: true
 
 - D10. Release of software for translating proofs coming from important proof systems based on set theory like Mizar, Atelier B or TLAPS to Dedukti and back. [[link]](../deliverable10)
     
-- D11. Collection of verification challenges with summary of working recipes for verifying them.
+- D11. Collection of verification challenges with summary of working recipes for verifying them. [[link]](../deliverable11)
 
 - D12. Technique for syntax-semantics interface for program verification with or without type systems. [[link]](../deliverable12)
 
