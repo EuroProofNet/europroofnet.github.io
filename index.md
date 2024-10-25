@@ -42,7 +42,7 @@ corner).
 
 - 17-18 April 2025: WG6 meeting, Genoa, Italy
 
-- 5-6 May 2025: Workshop on Reasoning with Quantitative Types, Porto, Portugal
+- 5-6 June 2025: Workshop on Reasoning with Quantitative Types, Porto, Portugal
 
 - 10 June 2025: Women in EuroProofNet workshop at TYPES, Glasgow
 
