@@ -1,7 +1,6 @@
 ---
-title: "Food options during the EuroProofNet Symposium"
+title: "Food options"
 layout: single
-permalink: /Symposium-FoodOptions/
 author_profile: true
 breadcrumbs: true
 ---
