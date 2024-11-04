@@ -14,6 +14,9 @@ breadcrumbs: true
 
 **Venue:** [Institut Pascal](https://www.institut-pascal.universite-paris-saclay.fr/), 530 Rue André Rivière, 91400 Orsay
 
+    - [Hotels](../Symposium_Hotels)
+    - [Restaurants](../Symposium_FoodOptions)
+    
 **Events:**
 
 * LFPSI: [1st International School on Logical Frameworks and Proof Systems Interoperability](../LFPSI24)
