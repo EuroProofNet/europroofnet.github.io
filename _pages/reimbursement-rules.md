@@ -1,11 +1,11 @@
 ---
-title: "Reimbursement rules"
+title: "Reimbursement rules for meetings, schools and ITCGs"
 layout: single
 permalink: /reimbursement-rules/
 author_profile: true
 ---
 
-Participants invited at a meeting or school, and people having an approved STSM, are reimbursed only of their travel, accommodation and meal expenses according to the following rules.
+Participants invited at a meeting or school, and people having an approved ITCG, are reimbursed only of their travel, accommodation and meal expenses according to the following rules:
 
 - Participants must be [eligible](../eligibility).
 
@@ -15,23 +15,21 @@ Participants invited at a meeting or school, and people having an approved STSM,
 
 - Participants must book their flight/train/bus and accommodation by themself as much in advance as possible to get good prices, together with insurance in case of cancelation. They must choose the most economical means of transportation. First-class tickets are not allowed. Taxis are not reimbursed. In any case, the reimbursement for travel costs is limited to 1500 euros.
 
-- Participants can use their own car if it is less expensive than using flight/train/bus, especially for a group. The reimbursement is around 0.35 euros/km for the driver (ask the precise amount to the Grant Holder). On the other hand, parking, fuel, toll and car rental are not reimbursed.
+- Participants can use their own car if it is less expensive than using flight/train/bus, especially for a group. The reimbursement is 0.35 euros/km for the driver, with 1000 km maximum (parking, fuel, toll and car rental are not reimbursed). To be reimbursed, one must provide a **parking ticket or bill**, or an attestation of the hotel.
 
-- Participants must provide the Grant Holder with the **tickets and bills** of their travel and accommodation (at their name and address). In the event there are no receipts, the reimbursement will not be possible. These documents are necessary for making sure that the reimbursement is justified but the amount of the reimbursement is a fixed daily allowance (see more details below).
+- Participants must provide the Grant Holder with the **tickets and bills** of their travel and accommodation (at their name and address). In the event there are no receipt, the reimbursement will not be possible. These documents are necessary for making sure that the reimbursement is justified but the amount of the reimbursement is a fixed daily allowance (see more details below).
 
 - In case of shared hotel room, the person whose name is on the bill receives a full daily allowance, and the other persons receive 40% of the daily allowance.
 
-**Additional rules for meetings and schools:**
+- For meetings and schools, participants must sign the attendance sheet (only the days spent at the meeting are reimbursed).
 
-- Participants must sign the attendance sheets during the meeting (only the days spent at the meeting are reimbursed).
+- For accommodation, meals and travels <=100km, the reimbursement is a daily flat rate fixed by the core group (usually around 160 euros/day depending on the country). Ask the precise amount to the organizers of the event.
 
-- For accommodation, meals and travels <=100km, the reimbursement is a daily flat rate fixed by the core group (usually around 120 euros/day depending on the country). Ask the precise amount from the organizers of the event.
+**Additional rules for ITCGs:**
 
-**Additional rules for STSMs:**
+- ITCG beneficiaries must upload on the COST website their report once the final amount of their STSM has been approved, **within two weeks maximum after the end of the STSM**.
 
-- STSM grantees must upload on the COST website their report, signed by their host, once the final amount of their STSM has been approved.
-
-- For accommodation, meals and local transport, the reimbursement is a [daily flat rate](../stsm-daily-allowance) fixed by the Grant Holder depending on the host country. About 2/3 of the flat rate is for the hotel, 1/6 for the lunch and 1/6 for the diner.
+- For ITCGs, the accommodation and meals are reimbursed according to a [daily flat rate](../itcg-daily-allowance) fixed by the Grant Holder depending on the host country. 2/3 of the flat rate is for the hotel, 1/6 for the lunch and 1/6 for the diner.
 
 - **Before the travel:**
 
@@ -39,7 +37,7 @@ Participants invited at a meeting or school, and people having an approved STSM,
     * Your full name (first and last name)
     * Your place and date of birth
     * Your address
-    * The name of your current university
+    * The name of your current university or company
     * An official document from your bank or one or several screen captures where we can find: your name, IBAN, Swift code, name and address of your bank. Each of these details is essential for the reimbursement of your expenses.
 
   If you have already sent this information for a previous meeting AND if it has not changed since then, there is no need to resend it.
