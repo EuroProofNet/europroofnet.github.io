@@ -14,9 +14,9 @@ breadcrumbs: true
 
 **Venue:** [Institut Pascal](https://www.institut-pascal.universite-paris-saclay.fr/), 530 Rue André Rivière, 91400 Orsay
 
-    - [Access](access.md)
-    - [Hotels](hotels.md)
-    - [Food options](food.md)
+- [Access](access.md)
+- [Hotels](hotels.md)
+- [Food options](food.md)
     
 **Events:**
 
