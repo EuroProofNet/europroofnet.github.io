@@ -71,7 +71,8 @@ euros, if the conditions described [here](../reimbursement-rules) are
 satisfied. Therefore, the amount initially awarded to a beneficiary of
 an ITCG is only indicative and the final amount will be based on the
 provided receipts. See [reimbursement rules](../reimbursement-rules)
-for more details.
+for more details. You can use this [Excel sheet](itcg.xlsx) to
+estimate the amount of your grant.
 
 **Documents to provide for STSMs**
 
