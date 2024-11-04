@@ -7,23 +7,7 @@ breadcrumbs: true
 
 Opening hours are subject to changes. Please check them on the Internet.
 
-At 950 m (13 minutes):
-
-- [Campanile](https://paris-saclay.campanile.com/fr-fr/#Restauration), restaurant open Monday to Thursday from 19:00 to 22:00, breakfast every day from 6:00 to 9:00 (7:00 to 10:00 on week-end), bar open every day from 11:00 to 23:00
-
-At 1500 m (20 minutes) on Mail Pierre Potier at Gif-sur-Yvette:
-
-- Supermarket Intermarché Express Gif-sur-Yvette, open every day from 8:30 to 20:00, but on Sunday from 9:30 to 12:45.
-
-- Bakery/Sandwich Boulangerie OCT Tradition, open Monday to Saturday from 7:00 to 19:30
-
-- Yucai Sushi, open every day from 11:00 to 14:30 (except Sunday), and from 18:00 to 22:00.
-
-- La Maison du Tacos, open every day from 11:30 to 14:30 (except Sunday), and from 18:00 to 22:30.
-
-- FO Pizza au feu de bois, open every day from 11:00 to 15:00 (except Sunday), and from 18:00 to 22:30.
-
-University restaurants open from Monday to Friday:
+**University restaurants open from Monday to Friday (only 2 are open for dinner):**
 
 - [RU Lieu de Vie](https://www.crous-versailles.fr/restaurant/ru-lieu-de-vie-2/), 11:30-14:00, 13 bis rue Joliot Curie 91190 Gif-sur-Yvette, 800 m (11 minutes)
 
@@ -35,7 +19,7 @@ University restaurants open from Monday to Friday:
 
 - [RU ENS](https://www.crous-versailles.fr/restaurant/ru-ens-2/), 11:30-14:00, 4 avenue des Sciences 91190 Gif-sur-Yvette, 1600 m (22 minutes)
 
-Cafeteria (sandwichs, salads, etc.) open from Monday to Friday (and Saturday for the Cafeteria Le Tropical):
+**Cafeterias (sandwichs, salads, etc.) open from Monday to Friday (and Saturday for the Cafeteria Le Tropical):**
 
 - [Cafétéria libre-service Henri Moissan](https://www.crous-versailles.fr/restaurant/cafeteria-libre-service-henri-moissan-2/), 8:30-16:00, 15 avenue des Sciences 91190 Gif-sur-Yvette, 900 (12 minutes)
 
@@ -44,3 +28,19 @@ Cafeteria (sandwichs, salads, etc.) open from Monday to Friday (and Saturday for
 - [Cafétéria Eiffel](https://www.crous-versailles.fr/restaurant/cafeteria-eiffel-2/), 8:00-17:00, 8 rue Joliot Curie 91190 Gif-sur-Yvette, 1000 m (14 minutes)
 
 - [Cafétéria L’Amphi](https://www.crous-versailles.fr/restaurant/cafeteria-lamphi-2/), 8:00-16:00, Bâtiment 332, 91440 Bures-sur-Yvette, 1700 m (25 minutes)
+
+**Options at 1500 m (20 minutes) on Mail Pierre Potier at Gif-sur-Yvette:**
+
+- Supermarket Intermarché Express Gif-sur-Yvette, open every day from 8:30 to 20:00, but on Sunday from 9:30 to 12:45.
+
+- Bakery/Sandwich Boulangerie OCT Tradition, open Monday to Saturday from 7:00 to 19:30
+
+- Yucai Sushi, open every day from 11:00 to 14:30 (except Sunday), and from 18:00 to 22:00.
+
+- La Maison du Tacos, open every day from 11:30 to 14:30 (except Sunday), and from 18:00 to 22:30.
+
+- FO Pizza au feu de bois, open every day from 11:00 to 15:00 (except Sunday), and from 18:00 to 22:30.
+
+**Other option at 950 m (13 minutes):**
+
+- [Campanile](https://paris-saclay.campanile.com/fr-fr/#Restauration), 9 Ter Rue Joliot Curie 91192 Gif Sur Yvette, 950 m (13 minutes), restaurant open Monday to Thursday from 19:00 to 22:00, breakfast every day from 6:00 to 9:00 (7:00 to 10:00 on week-end), bar open every day from 11:00 to 23:00
