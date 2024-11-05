@@ -28,7 +28,7 @@ breadcrumbs: true
 
 * MCLP: Conference on Mathematical and Computational Linguistics for Proofs
 
-* WG3: Worshop on Program Verification
+* WG3: Workshop on Program Verification
 
 **Schedule:**
 
