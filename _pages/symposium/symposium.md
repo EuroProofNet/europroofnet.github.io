@@ -1,5 +1,5 @@
 ---
-title: "EuroProofNet Symposium"
+title: "Final EuroProofNet Symposium"
 layout: single
 permalink: /Symposium/
 author_profile: true
