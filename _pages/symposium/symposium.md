@@ -30,6 +30,19 @@ breadcrumbs: true
 
 * WG3: Workshop on Program Verification
 
+**Steering committee:**
+- [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/) (INRIA, chair of EuroProofNet)
+- [Patrick Massot](https://www.imo.universite-paris-saclay.fr/~patrick.massot/) (LMO, University Paris Saclay)
+- [Florent Hivert](https://www.lri.fr/~hivert/) (LISN, University Paris Saclay)
+- [Angeliki Koutsoukou Argyraki](https://pure.royalholloway.ac.uk/en/persons/angeliki-koutsoukou-argyraki) (University of London, UK)
+- [Benedikt Ahrens](https://benediktahrens.gitlab.io/) (Delft University of Technology, NL)
+- [Alicia Villanueva](http://personales.upv.es/alvilga1/) (Universitat Politècnica de València, Spain)
+- [Cezary Kaliszyk](https://findanexpert.unimelb.edu.au/profile/1063018-cezary-kaliszyk) (University of Melbourne, AU)
+- [Roussanka Loukanova](http://www.math.bas.bg/logic/loukanovarp/) (Institute of Mathematics and Informatics, Bulgarian Academy of Sciences)
+- [Pascal Fontaine](https://people.montefiore.uliege.be/pfontain/) (Université de Liège, Belgium)
+- [Assia Mahboubi](http://people.rennes.inria.fr/Assia.Mahboubi/) (INRIA)
+- [Julien Narboux](https://dpt-info.u-strasbg.fr/~narboux/) (Université Paris Cité)
+
 **Schedule:**
 
 Week 1:
