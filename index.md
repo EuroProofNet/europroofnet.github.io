@@ -48,7 +48,7 @@ corner).
 
 - 10-12 June 2025 (TBC): School on Natural Language Formalizations (SoNaLF), Bonn, Germany
 
-- 21-25 July 2025: Scottish Programming Languages and Verification School, Edinburgh, UK
+- 21-25 July 2025: [Scottish Programming Languages and Verification School](https://spli.scot/splv/2025-edinburgh/), Edinburgh, UK
 
 - 14-18 July 2025 (TBC): School on Symbolic and Statistical Methods for Reasoning and Processing Formal Expressions, Kutaisi, Georgia
 
