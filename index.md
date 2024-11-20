@@ -36,7 +36,7 @@ corner).
 
 - 3-7 February 2025 (TBC): WG1 meeting
 
-- 27-28 April 2025 (TBC): WG5 meeting on Theorem Proving with LLMs: SoA and Future Perspectives, Edinburgh, UK
+- 27-28 April 2025 (TBC): [WG5 meeting on Theorem Proving with LLMs: SoA and Future Perspectives](../wg5-edinburgh25), Edinburgh, UK
 
 - April or May 2025 (TBC): WG2 meeting on ATPs for geometry, Coimbra, Portugal
 
