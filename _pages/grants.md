@@ -10,7 +10,7 @@ EuroProofNet can provide two kinds of grants:
 - Short-Term Scientific Mission (STSM) -- see [past STSMs](../accepted_stsms)
 
 - Inclusiveness Target Country Conference Grants (ITCG) -- see [past ITCGs](../accepted_itcgs)
-  
+
 **Upcoming deadlines**
 
 - 24 November 2024: submission deadline for STSM and ITCG proposals between December 2024 and May 2025
@@ -20,7 +20,9 @@ EuroProofNet can provide two kinds of grants:
 [Excel sheet to compute your grant estimation](stsm.xlsx)
 
 - [STSM](https://e-services.cost.eu/activity/grants/add?type=STSM)
+  [[form]](STSM-application-template.docx)
 - [ITCG](https://e-services.cost.eu/activity/grants/add?type=ITCG)
+  [[form]](ITCG-application-template.docx)
 
 **What is an ITCG?**
 
@@ -51,28 +53,11 @@ Check the [eligibility rules](../eligibility) to know whether you can get an STS
 
 **Reimbursement rules for STSMs**
 
-The beneficiary of an STSM will receive a grant after their STSM if
-they provide **within 2 weeks after the end of their STSM** a report
-following this [template](/_pages/STSM-report-template.docx), signed
-by their host and approved by the core group. The amount of the grant
-is fixed before the STSM, based on an estimation of the travel
-expenses plus a maximum [daily
-allowance](http://www.cost.eu/daily_allowance) depending on the host
-country for each day of his/her stay. Since this is a grant and not a
-reimbursement, it may not cover all the expenses. On the other hand,
-the STSM beneficiary does not have to provide tickets or bills.
+Beneficiaries of an STSM receive the grant after their STSM if they provide **within 2 weeks after the end of their STSM** a report following this [template](/_pages/STSM-report-template.docx), **signed by their host** and approved by the core group. The amount of the grant is fixed before the STSM, based on an estimation of the travel expenses plus a maximum [daily allowance](http://www.cost.eu/daily_allowance) depending on the host country for each day of his/her stay. Candidates can use this Excel [sheet](grant.xlsx) to estimate the amount of their grant. Note that, since this is a grant and not a reimbursement, it may not cover all the expenses. On the other hand, STSM beneficiaries do not have to provide tickets or bills.
 
 **Reimbursement rules for ITCGs**
 
-The beneficiary of an ITCG will be reimbursed only of his/her travel
-expenses plus a [daily allowance](../itcg-daily-allowance) depending
-on the host country for each day of his/her stay, in the limit of 2000
-euros, if the conditions described [here](../reimbursement-rules) are
-satisfied. Therefore, the amount initially awarded to a beneficiary of
-an ITCG is only indicative and the final amount will be based on the
-provided receipts. See [reimbursement rules](../reimbursement-rules)
-for more details. You can use this [Excel sheet](itcg.xlsx) to
-estimate the amount of your grant.
+Beneficiaries of an ITCG are reimbursed of their travel expenses plus a [daily allowance](../itcg-daily-allowance) depending on the host country for each day of his/her stay, in the limit of 2000 euros, if after their ITCG they provide **within 2 weeks after the end of their ITCG** a report following this [template](ITCG-report-template.docx), approved by the core group. See [reimbursement rules](../reimbursement-rules) for more details. Note that the amount initially awarded to a beneficiary of an ITCG is only indicative and the final amount will be based on the provided receipts. Candidate can use this Excel [sheet](grant.xlsx) to estimate the amount of your grant.
 
 **Documents to provide for STSMs**
 

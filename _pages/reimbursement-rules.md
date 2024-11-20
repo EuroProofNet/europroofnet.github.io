@@ -27,9 +27,11 @@ Participants invited at a meeting or school, and people having an approved ITCG,
 
 **Additional rules for ITCGs:**
 
-- ITCG beneficiaries must upload on the COST website their report once the final amount of their STSM has been approved, **within two weeks maximum after the end of the STSM**.
+- ITCG beneficiaries must send to the [chair](https://blanqui.gitlabpages.inria.fr/) and the [grant awarding coordinator](http://imft.ftn.uns.ac.rs/simona/) a report following this [template](/_pages/ITCG-report-template.docx) **within two weeks maximum after the end of the ITCG**.
 
-- For ITCGs, the accommodation and meals are reimbursed according to a [daily flat rate](../itcg-daily-allowance) fixed by the Grant Holder depending on the host country. 2/3 of the flat rate is for the hotel, 1/6 for the lunch and 1/6 for the diner.
+- The accommodation and meals are reimbursed according to a [daily flat rate](../itcg-daily-allowance) fixed by the Grant Holder depending on the host country. 2/3 of the flat rate is for the hotel, 1/6 for the lunch and 1/6 for the diner.
+
+- Once the report is approved and the final amount computed, ITCG beneficiaries receive a mail asking them to upload on the COST website their report.
 
 - **Before the travel:**
 
