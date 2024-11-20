@@ -19,10 +19,10 @@ EuroProofNet can provide two kinds of grants:
 
 [Excel sheet to compute your grant estimation](stsm.xlsx)
 
-- [STSM](https://e-services.cost.eu/activity/grants/add?type=STSM)
-  [[form]](STSM-application-template.docx)
-- [ITCG](https://e-services.cost.eu/activity/grants/add?type=ITCG)
-  [[form]](ITCG-application-template.docx)
+- STSM [[form]](STSM-application-template.docx)
+  [page](https://e-services.cost.eu/activity/grants/add?type=STSM)
+- ITCG [[form]](ITCG-application-template.docx)
+  [page](https://e-services.cost.eu/activity/grants/add?type=ITCG)
 
 **What is an ITCG?**
 
