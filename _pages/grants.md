@@ -19,10 +19,10 @@ EuroProofNet can provide two kinds of grants:
 
 [Excel sheet to compute your grant estimation](stsm.xlsx)
 
-- STSM [[form]](STSM-application-template.docx)
-  [page](https://e-services.cost.eu/activity/grants/add?type=STSM)
-- ITCG [[form]](ITCG-application-template.docx)
-  [page](https://e-services.cost.eu/activity/grants/add?type=ITCG)
+- STSM [[template]](STSM-application-template.docx)
+  [[website]](https://e-services.cost.eu/activity/grants/add?type=STSM)
+- ITCG [[template]](ITCG-application-template.docx)
+  [[website]](https://e-services.cost.eu/activity/grants/add?type=ITCG)
 
 **What is an ITCG?**
 
@@ -63,7 +63,7 @@ Beneficiaries of an ITCG are reimbursed of their travel expenses plus a [daily a
 
 Proposals must be made through the [e-COST system](https://e-services.cost.eu/activity/grants/add?type=STSM) (you need to add a bank account on your profile first). The following documents must be uploaded:
 
-- The application form provided by e-COST which requires:
+- The application [template](STSM-application-template.docx) which requires:
   - Details of the STSM (title and dates)
   - Goals of the STSM (max 200 words)
   - Working plan (max 500 words)
@@ -71,15 +71,13 @@ Proposals must be made through the [e-COST system](https://e-services.cost.eu/ac
 - A letter from the host confirming that he or she will receive the applicant.
 - A quote for the travel in euros (screen capture).
 
-Be careful to check flight/train tickets that you
-can modify or cancel for free or at little cost (possibly by taking
-some insurance).
+Be careful to check flight/train tickets that you can modify or cancel for free or at little cost (possibly by taking some insurance).
 
 **Documents to provide for ITCGs**
 
 Proposals must be made through the [e-COST system](https://e-services.cost.eu/activity/grants/add?type=ITCG) (you need to add a bank account on your profile first). The following documents must be uploaded:
 
-- The application form provided by e-COST which requires:
+- The application [template](ITCG-application-template.docx) which requires:
   - Details of the conference (title and dates)
   - Details of the presentation (title, abstract)
   - Relevance wrt EuroProofNet [objectives](../description) (max 500 words)
