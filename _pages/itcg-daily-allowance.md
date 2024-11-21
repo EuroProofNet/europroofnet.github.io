@@ -1,5 +1,5 @@
 ---
-title: "Daily allowance by country for STSMs"
+title: "Daily allowance by country for ITCGs"
 layout: single
 permalink: /itcg-daily-allowance/
 author_profile: true
