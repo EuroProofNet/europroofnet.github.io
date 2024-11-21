@@ -17,7 +17,7 @@ EuroProofNet can provide two kinds of grants:
 
 **Application web sites**
 
-[Excel sheet to compute your grant estimation](stsm.xlsx)
+[Excel sheet to compute your grant estimation](grant.xlsx)
 
 - STSM [[template]](STSM-application-template.docx)
   [[website]](https://e-services.cost.eu/activity/grants/add?type=STSM)
