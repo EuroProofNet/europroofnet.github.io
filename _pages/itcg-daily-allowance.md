@@ -1,7 +1,7 @@
 ---
 title: "Daily allowance by country for STSMs"
 layout: single
-permalink: /stsm-daily-allowance/
+permalink: /itcg-daily-allowance/
 author_profile: true
 ---
 
