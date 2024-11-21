@@ -64,12 +64,13 @@ Beneficiaries of an ITCG are reimbursed of their travel expenses plus a [daily a
 Proposals must be made through the [e-COST system](https://e-services.cost.eu/activity/grants/add?type=STSM) (you need to add a bank account on your profile first). The following documents must be uploaded:
 
 - The application [template](STSM-application-template.docx) which requires:
-  - Details of the STSM (title and dates)
+  - Details of the STSM (title, dates and cost)
   - Goals of the STSM (max 200 words)
   - Working plan (max 500 words)
   - Expected outputs and contribution to the Action MoU [objectives and deliverables](../description) (max 500 words). Clearly indicate the main WG it contributes to.
-- A letter from the host confirming that he or she will receive the applicant.
+- A letter from the host confirming that he or she will receive the applicant at the desired dates.
 - A quote for the travel in euros (screen capture).
+- A quote for the hotel in euros (screen capture).
 
 Be careful to check flight/train tickets that you can modify or cancel for free or at little cost (possibly by taking some insurance).
 
