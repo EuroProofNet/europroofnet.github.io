@@ -6,8 +6,8 @@ author_profile: true
 ---
 
 For accommodation, meals and local transport, the reimbursement of an
-STSM is a daily flat rate fixed by the Grant Holder depending on the
-host country as follows (this list is indicative, ask the [Grant Holder](mailto:saf-saclay-recettes@inria.fr) for the last up to date amount or if your host country is not in the list). Please be aware that these daily flat-rate apply only for a complete day in the country. About 2/3 of the flat rate is for the hotel, 1/6 for the lunch and 1/6 for the diner. Be careful that a lunch or diner will not be reimbursed if there is no receipt for it. Receipts from markets or supermarkets are accepted.
+ITCG is a daily flat rate fixed by the Grant Holder depending on the
+host country as follows (this list is indicative, ask the [Grant Holder](mailto:saf-saclay-recettes@inria.fr) for the last up to date amount or if your host country is not in the list). Please be aware that these daily flat rates apply only for a complete day in the country. About 2/3 of the flat rate is for the hotel, 1/6 for the lunch and 1/6 for the diner.
 
 | Country | DA in euros |
 | --- | --- |
