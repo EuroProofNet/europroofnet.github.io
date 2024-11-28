@@ -15,6 +15,7 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 - Type-Theory of Algorithms with Chain-Free Memory, Roussanka Loukanova, 21st International Conference on Distributed Computing and Artificial Intelligence (DCAI'24).
 
 **2024**
+- [Formal Specification and Verification of Architecturally-Defined Attestation Mechanisms in Arm CCA and Intel TDX](https://ieeexplore.ieee.org/document/10752524), Muhammad Usama Sardar, Arto Niemi, Hannes Tschofenig, Thomas Fossati, IEEE Access, pp. 173670-173685, vol 12.
 - [Semantics of Propositional Attitudes in Type-Theory of Algorithms](https://doi.org/10.1007/978-3-031-60878-0_15), Roussanka Loukanova, Logic and Engineering of Natural Language Semantics (LENLS) 2023, LNCS 14569.
 - [Mechanized HOL Reasoning in Set Theory](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ITP.2024.18). Simon Guilloud, Sankalp Gambhir, Andrea Gilot, Viktor Kunčak. ITP 2024.
 - [SC-TPTP: An Extension of the TPTP Derivation Format for Sequent-Based Calculus](https://infoscience.epfl.ch/entities/publication/d0a5cbd0-9bf3-4769-9516-00c21cf04595). Julie Cailler, Simon Guilloud. PAAR 2024.
