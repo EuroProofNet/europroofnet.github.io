@@ -34,9 +34,9 @@ corner).
 
 **Coming events:**
 
-- 3-7 February 2025 (TBC): WG1 meeting
+- 11-13 February 2025: WG1 meeting
 
-- 27-28 April 2025 (TBC): [WG5 meeting on Theorem Proving with LLMs: SoA and Future Perspectives](../wg5-edinburgh25), Edinburgh, UK
+- 7-8 April 2025: [WG5 meeting on Theorem Proving with LLMs: SoA and Future Perspectives](../wg5-edinburgh25), Edinburgh, UK
 
 - April or May 2025 (TBC): WG2 meeting on ATPs for geometry, Coimbra, Portugal
 
@@ -50,7 +50,7 @@ corner).
 
 - 21-25 July 2025: [Scottish Programming Languages and Verification School](https://spli.scot/splv/2025-edinburgh/), Edinburgh, UK
 
-- 14-18 July 2025 (TBC): School on Symbolic and Statistical Methods for Reasoning and Processing Formal Expressions, Kutaisi, Georgia
+- 21-25 July 2025 (TBC): School on Symbolic and Statistical Methods for Reasoning and Processing Formal Expressions, Kutaisi, Georgia
 
 - 8-19 September 2025: [EuroProofNet Symposium](../Symposium), Institut Pascal, Orsay, France, with:
     - 8-11 September 2025: [1st International School on Logical Frameworks and Proof Systems Interoperability](../LFPSI24)

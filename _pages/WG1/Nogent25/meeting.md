@@ -14,13 +14,13 @@ breadcrumbs: true
 
 **Venue:** <a href="https://www.hotel-beaurivage-nogentsurseine.com/">Hôtel Beau Rivage</a>, 20 rue de Villiers aux Choux 10400 Nogent-sur-Seine, France
 
-**How to get there?** There is a direct train from Paris Gare de l'Est to Nogent-sur-Seine.
+**How to get there?** There are direct trains from Paris Gare de l'Est to Nogent-sur-Seine (for instance 09:42-10:38 and 11:42-12:40), and from Nogent-sur-Seine to Paris Gare de l'Est (for instance 14:20-15:16 and 15:20-16:19). The hotel is a 20-minutes walk from the train station.
 
 **Program:** The goal is to discuss logic encodings and proof translation tools, taking advantage of the participation of experts on various languages and tools, to make progress on EuroProofNet [objectives](../objectives) and [deliverables](../deliverables).
 
-**Cost:** The cost of accommodation and meals is about 150 euros/day/person. Participants have to make a bank transfer of half of the cost to <a href="https://www.hotel-beaurivage-nogentsurseine.com/">Hôtel Beau Rivage</a> in order to confirm their participation, and send a mail to aubeaurivage@wanadoo.fr and Frédéric Blanqui, with subject "EuroProofNet seminar 10-14 February 2025", to inform us of the bank transfer. The second half will have to be paid at the hotel. It is possible to be reimbursed of the first half if the hotel is informed of the cancellation before January 27.
+**Cost:** The cost of accommodation and meals is about 160 euros/day/person. Participants have to make a bank transfer of half of the cost to <a href="https://www.hotel-beaurivage-nogentsurseine.com/">Hôtel Beau Rivage</a> in order to confirm their participation, and send a mail to aubeaurivage@wanadoo.fr and Frédéric Blanqui, with subject "EuroProofNet seminar 10-14 February 2025", to inform us of the bank transfer. The second half will have to be paid at the hotel. It is possible to be reimbursed of the first half if the hotel is informed of the cancellation before January 27.
 
-**Participants (11):** Frédéric Blanqui, Rishikesh Vaishnav, Melanie Taprogge, Théo Winterhalter, Anne Grieu, Alessio Coltellacci, Thomas Traversié, Ciaran Dunne, Claudio Sacerdoti Coen, Gabriel Hondet, Abdelghani Alidra
+**Participants (16):** Frédéric Blanqui, Rishikesh Vaishnav, Melanie Taprogge, Théo Winterhalter, Anne Grieu, Alessio Coltellacci, Thomas Traversié, Ciaran Dunne, Claudio Sacerdoti Coen, Gabriel Hondet, Abdelghani Alidra, Jérémy Dubut, Bruno Barras, Michael Färber, Olivier Hermant, Nicolas Margulies
 
 **Monday 10 February (optional, for people arriving the day before the meeting):**
 
