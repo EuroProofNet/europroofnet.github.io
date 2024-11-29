@@ -12,6 +12,7 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 - [STSM reports](../accepted_stsms)
 
 **2025**
+- [Learning Structure-Aware Representations of Dependent Types](https://arxiv.org/abs/2402.02104), Konstantinos Kogkalidis, Orestis Melkonian, Jean-Philippe Bernardy, 38th Annual Conference on Neural Information Processing Systems ([NeurIPS'24](https://neurips.cc/)).
 - Type-Theory of Algorithms with Chain-Free Memory, Roussanka Loukanova, 21st International Conference on Distributed Computing and Artificial Intelligence (DCAI'24).
 
 **2024**
