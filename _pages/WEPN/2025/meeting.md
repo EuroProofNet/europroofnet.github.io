@@ -6,7 +6,7 @@ author_profile: true
 breadcrumbs: true
 ---
 
-## June 11, 2025
+## June 10, 2025
 
 Co-located with [TYPES 2025](https://msp.cis.strath.ac.uk/types2025/) there will be a half-day event dedicated to gender balance in the community.
 The event will consist of an invited talk and a few contributed talks by women to promote their research and improve their visibility. 
