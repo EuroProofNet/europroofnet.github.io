@@ -22,7 +22,7 @@ TBA
 * Abstract submission deadline: TBA (May, 2025)
 * Author notification:  TBA (May, 2025)
 
-The contributed talks are meant as a platform to disseminate research done by women in the community. Only women (including transgender women) are invited to submit a contributed talk. Abstracts should be written in English and should not exceed 1-2 pages. Please use the EasyChair style for formatting your submission (EasyChair Style Guidelines).
+The contributed talks are meant as a platform to disseminate research done by women in the community. Only women (including transgender women) are invited to submit a contributed talk. Abstracts should be written in English and should not exceed 1-2 pages. Please use the EasyChair style for formatting your submission (EasyChair Style Guidelines). Additional details about the submission of contributed talks will be made available closer to the event.
 
 
 ## Organization
@@ -33,7 +33,7 @@ University of Strathclyde, Glasgow, Scotland
 
 ### Registration and Funding applications:
 
-Participation at the WEPN 2025 is free.
+Participation at the WEPN 2025 is free. Details about registration will be made available closer to the deadline.
 
 The EuroProofNet COST action can provide funding for a limited amount of participants - **all genders welcome to apply for funding**! 
 Details about application for funding will be published closer to the event. Before applying for funding see [reimbursement rules](../reimbursement-rules).
