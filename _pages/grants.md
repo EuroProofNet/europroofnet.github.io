@@ -53,7 +53,7 @@ Check the [eligibility rules](../eligibility) to know whether you can get an STS
 
 **Reimbursement rules for STSMs**
 
-Beneficiaries of an STSM receive the grant after their STSM if they provide **within 2 weeks after the end of their STSM** a report following this [template](/_pages/STSM-report-template.docx), **signed by their host** and approved by the core group. The amount of the grant is fixed before the STSM, based on an estimation of their travel expenses. Note that, since this is a grant and not a reimbursement, it may not cover all the final expenses. On the other hand, STSM beneficiaries do not have to provide tickets or bills.
+Beneficiaries of an STSM must pay their travel by themselves. They receive the grant after their STSM if they provide **within 2 weeks after the end of their STSM** a report following this [template](/_pages/STSM-report-template.docx), **signed by their host** and approved by the core group. The amount of the grant is fixed before the STSM, based on an estimation of their travel expenses. Note that, since this is a grant and not a reimbursement, it may not cover all the final expenses. On the other hand, STSM beneficiaries do not have to provide tickets or bills.
 
 **Reimbursement rules for ITCGs**
 

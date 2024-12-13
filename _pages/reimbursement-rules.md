@@ -33,7 +33,7 @@ Participants invited at a meeting or school, and people having an approved ITCG,
 
 - Once the report is approved and the final amount computed, ITCG beneficiaries receive a mail asking them to upload on the COST website their report.
 
-- **Before the travel:**
+**Before the travel:**
 
   The current Grant Holder cannot use the bank details entered on the COST platform. It is imperative to send the following information to Aissatou DIALLO (aissatou-sadio.diallo@inria.fr):
     * Your full name (first and last name)
@@ -44,7 +44,7 @@ Participants invited at a meeting or school, and people having an approved ITCG,
 
   If you have already sent this information for a previous meeting AND if it has not changed since then, there is no need to resend it.
 
-- **During the travel:**
+**During the travel:**
 
   Keep all the receipts and tickets of your transports and accommodations:
 
@@ -54,7 +54,7 @@ Participants invited at a meeting or school, and people having an approved ITCG,
 
     * Meal expenses will be paid in the form of a meal allowance for lunch (17,50% of daily allowance) and for dinner (17,50% of daily allowance).
 
-- **After the travel:**
+**After the travel:**
 
   In order to be reimbursed readily, send all the travel documents and proofs of payments as soon as possible after your mission to Aïssatou DIALLO (aissatou-sadio.diallo@inria.fr).
 
