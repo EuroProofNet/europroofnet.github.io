@@ -15,9 +15,9 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 
 - 8-19 September 2025: [EuroProofNet Symposium](../symposium), Institut Pascal, Orsay, France
 
-- 28 July - 2 August 2025: [30th international Conference on Automated Deduction](https://www.dhbw-stuttgart.de/cade-30/), Stuttgart, Germany
+- 28 July - 2 August 2025: [30th international Conference on Automated Deduction](https://www.dhbw-stuttgart.de/cade-30/) (CADE'25), Stuttgart, Germany
                  
-- 9-13 June 2025: [31st International Conference on Types for Proofs and Programs](https://msp.cis.strath.ac.uk/types2025/), University of Strathclyde, UK
+- 9-13 June 2025: [31st International Conference on Types for Proofs and Programs](https://msp.cis.strath.ac.uk/types2025/) (TYPES'25), University of Strathclyde, UK
 
 - 3-8 May 2025: [28th International Joint Conferences On Theory and Practice of Software](https://etaps.org/2025) (ETAPS'25), Hamilton, Canada
 
