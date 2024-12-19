@@ -7,6 +7,10 @@ author_profile: true
 
 To contribute to the web site, please open an [issue](https://github.com/EuroProofNet/europroofnet.github.io/issues), create a [pull request](https://github.com/EuroProofNet/europroofnet.github.io) or send a mail to the [science communication coordinators](../contact).
 
+**AI models for theorem proving**
+
+- [Quill](https://github.com/konstantinosKokos/quill/): neural representation of dependently-typed Agda terms, with an application in premise selection (uses the JSON dataset generated from [agda2train](https://github.com/omelkonian/agda2train))
+
 **Type-checkers for the λΠ-calculus modulo theory**
 
 - [Dkcheck](https://deducteam.github.io/): type-checker 
@@ -28,6 +32,7 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 
 **Proof data bases tools**
 
+- [agda2train](https://github.com/omelkonian/agda2train): extracts JSON proof objects from Agda programs, to be used for machine learning purposes (as in [Quill](https://github.com/konstantinosKokos/quill/))
 - [FindFacts](https://search.isabelle.in.tum.de/): search tool for Isabelle
 - [SErAPIS](https://behemoth.cl.cam.ac.uk/search/): search tool for Isabelle
 - [DAMF](https://distributed-assertions.github.io/): Distributed Assertion Management Framework
