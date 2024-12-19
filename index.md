@@ -34,7 +34,7 @@ corner).
 
 **Coming events:**
 
-- 11-13 February 2025: WG1 meeting
+- 11-13 February 2025: [WG1 meeting](../Nogent25/)
 
 - 7-8 April 2025: [WG5 meeting on Theorem Proving with LLMs: SoA and Future Perspectives](../wg5-edinburgh25), Edinburgh, UK
 
@@ -44,7 +44,7 @@ corner).
 
 - 5-6 June 2025: Workshop on Reasoning with Quantitative Types, Porto, Portugal
 
-- 10 June 2025: Women in EuroProofNet workshop at TYPES, Glasgow
+- 10 June 2025: Women in EuroProofNet workshop at the [31st International Conference on Types for Proofs and Programs](https://msp.cis.strath.ac.uk/types2025/) (TYPES'25), University of Strathclyde, Glasgow, UK
 
 - 10-12 June 2025 (TBC): School on Natural Language Formalizations (SoNaLF), Bonn, Germany
 
