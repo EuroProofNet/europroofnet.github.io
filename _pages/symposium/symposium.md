@@ -30,6 +30,8 @@ breadcrumbs: true
 
 * WG3: Workshop on Program Verification
 
+* MC: Report on EuroProofNet results
+
 **Schedule:**
 
 Week 1:
@@ -44,6 +46,7 @@ Week 2:
 | WG4  | WG4  |      |      |      |
 | MCLP | MCLP | MCLP | MCLP |      |
 |      |      | WG3  | WG3  | WG3  |
+|      |      |      |      | MC   |
 
 **Steering committee:**
 - [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/) (INRIA & LMF, chair of EuroProofNet)

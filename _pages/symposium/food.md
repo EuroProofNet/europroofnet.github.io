@@ -29,7 +29,7 @@ Opening hours are subject to changes. Please check them on the Internet.
 
 - [Cafétéria L’Amphi](https://www.crous-versailles.fr/restaurant/cafeteria-lamphi-2/), 8:00-16:00, Bâtiment 332, 91440 Bures-sur-Yvette, 1700 m (25 minutes)
 
-**Options at 1500 m (20 minutes) on Mail Pierre Potier at Gif-sur-Yvette:**
+**Options on Mail Pierre Potier at Gif-sur-Yvette (1500 m, 20 minutes):**
 
 - Supermarket Intermarché Express Gif-sur-Yvette, open every day from 8:30 to 20:00, but on Sunday from 9:30 to 12:45.
 
