@@ -40,7 +40,7 @@ corner).
 
 - April or May 2025 (TBC): WG2 meeting on ATPs for geometry, Coimbra, Portugal
 
-- 17-18 April 2025: WG6 meeting, Genoa, Italy
+- 17-18 April 2025: WG6 meeting, co-located with the [2025 Workshop on Homotopy Type Theory / Univalent Foundations](https://hott-uf.github.io/2025/) (HoTT/UF), Genoa, Italy
 
 - 5-6 June 2025: Workshop on Reasoning with Quantitative Types, Porto, Portugal
 
@@ -58,5 +58,6 @@ corner).
     - 15-16 September 2025: WG4 meeting on the development of large proof libraries
     - 15-18 September 2025: Conference on Mathematical and Computational Linguistics for Proofs
     - 17-19 September 2025: WG3 meeting on program verification
+    - 19 September 2025 at 14:00 (Paris time): final Management Committee meeting
 
 [Past events](../events)
