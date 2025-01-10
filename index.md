@@ -38,13 +38,13 @@ corner).
 
 - 7-8 April 2025: [WG5 meeting on Theorem Proving with LLMs: SoA and Future Perspectives](../wg5-edinburgh25), Edinburgh, UK
 
-- April or May 2025 (TBC): WG2 meeting on ATPs for geometry, Coimbra, Portugal
-
 - 17-18 April 2025: WG6 meeting, co-located with the [2025 Workshop on Homotopy Type Theory / Univalent Foundations](https://hott-uf.github.io/2025/) (HoTT/UF), Genoa, Italy
+
+- 3-5 June 2025: WG2 meeting on ATPs for geometry
 
 - 5-6 June 2025: Workshop on Reasoning with Quantitative Types, Porto, Portugal
 
-- 10 June 2025: Women in EuroProofNet workshop at the [31st International Conference on Types for Proofs and Programs](https://msp.cis.strath.ac.uk/types2025/) (TYPES'25), University of Strathclyde, Glasgow, UK
+- 10 June 2025: [Women in EuroProofNet workshop](https://europroofnet.github.io/women-epn-2025/) at the [31st International Conference on Types for Proofs and Programs](https://msp.cis.strath.ac.uk/types2025/) (TYPES'25), University of Strathclyde, Glasgow, UK
 
 - 10-12 June 2025 (TBC): School on Natural Language Formalizations (SoNaLF), Bonn, Germany
 
