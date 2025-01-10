@@ -19,8 +19,7 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 
 - 14-20 July 2025: [10th International Conference on Formal Structures for Computation and Deduction](https://fscd2025.github.io/) (FSCD'25), Birmingham, UK
 
-- 23-26 June 2025: [Fortieth Annual ACM/IEEE Symposium on
-Logic in Computer Science](https://lics.siglog.org/lics25/) (LICS'25), Singapore
+- 23-26 June 2025: [40th Annual ACM/IEEE Symposium on Logic in Computer Science](https://lics.siglog.org/lics25/) (LICS'25), Singapore
 
 - 9-13 June 2025: [31st International Conference on Types for Proofs and Programs](https://msp.cis.strath.ac.uk/types2025/) (TYPES'25), University of Strathclyde, Glasgow, UK
 
