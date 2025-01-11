@@ -38,14 +38,14 @@ The programme will consist mainly of short talks, and plenty of time for discuss
 * Registration: Friday 21 March
 
 **Submission of talk proposals**:
-Please fill out [this form]() to submit a proposal for a contributed talk.
+Please fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSe7yLhQDEdegdPDhP0IRlW2p-3KjvP3lT3CbvaEGgbfu9rVCw/viewform?usp=preview) to submit a proposal for a contributed talk.
 
 **Registration & funding:**
-To register, please fill out [this form]().
+To register, please fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSdaGDgt4Znuzn4mz6mZjoVMQnLgK-2HtbuZX6WupfpxwtRqZg/viewform?usp=preview).
 The form also gives the option to submit a funding request.
-Funding consists of reimbursement of travel expenses and a daily allowance for the meeting's dates. Recepits of travel and accommodation expenses have to be provided.
+Funding consists of reimbursement of travel expenses and a daily allowance for the meeting's dates. Despite the falt rate, recepits of (travel and) accommodation expenses have to be provided.
 The daily allowance has been fixed to 140 euros.
-We reccomend those interesed in applying to read the official information regarding reimbursement available [here](../reimbursement-rules).
+We recommend those interesed in applying to read the official information regarding reimbursement available [here](../reimbursement-rules).
 In particular, note you will have to register as a memeber of EuroProofNet to receive funding.
 
 
