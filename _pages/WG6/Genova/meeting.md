@@ -19,7 +19,7 @@ This includes, but is not limited to the goal of WG6:
 
 > The aim of this WG is to develop a comprehensive theory of type theories, which (i) accounts for its domain-specific variants and the type theories currently used in proof assistants, and (ii) allows for the modular reasoning about their syntax and semantics.
 
-The programme will consist mainly of short talks, and plenty of time for discussion. The meeting will be in person and is open to anyone interested in type theory.
+The programme will consist mainly of short talks, and plenty of time for discussion. The meeting will be in person and is open to anyone interested in type theory. Talks can expose published work or work in progress.
 
 
 **Invited speakers**
@@ -37,12 +37,16 @@ The programme will consist mainly of short talks, and plenty of time for discuss
 * Funding request: Friday 7 March
 * Registration: Friday 21 March
 
+**Submission of talk proposals**:
+Please fill out [this form]() to submit a proposal for a contributed talk.
+
 **Registration & funding:**
 To register, please fill out [this form]().
 The form also gives the option to submit a funding request.
 Funding consists of reimbursement of travel expenses and a daily allowance for the meeting's dates. Recepits of travel and accommodation expenses have to be provided.
 The daily allowance has been fixed to 140 euros.
 We reccomend those interesed in applying to read the official information regarding reimbursement available [here](../reimbursement-rules).
+In particular, note you will have to register as a memeber of EuroProofNet to receive funding.
 
 
 **Local information:** Coming soon.
