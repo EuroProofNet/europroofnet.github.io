@@ -10,11 +10,14 @@ breadcrumbs: true
 
 **Place:** Genova, Italy
 
-**Venue:** Villa Cambiaso, via Montallegro 1, Genova 16145
+**Venue:**  
+Villa Cambiaso,  
+Scuola Politecnica, Università di Genova  
+via Montallegro 1, Genova 16145  
 
-Co-located with the [HoTT/UF 2025 Workshop](https://hott-uf.github.io/2025/).
+Co-located with the [HoTT/UF 2025 Workshop](https://hott-uf.github.io/2025/).  
 
-The aim of this meeting series is to bring together researchers working on the topics of [working group 6 of EuroProofNet](https://europroofnet.github.io/wg6/). The main focus is thus on the syntax and semantics of type theory.
+The aim of this meeting series is to bring together researchers working on the topics of [Working Group 6 of EuroProofNet](https://europroofnet.github.io/wg6/). The main focus is thus on the syntax and semantics of type theory.
 This includes, but is not limited to the goal of WG6:
 
 > The aim of this WG is to develop a comprehensive theory of type theories, which (i) accounts for its domain-specific variants and the type theories currently used in proof assistants, and (ii) allows for the modular reasoning about their syntax and semantics.
@@ -35,7 +38,7 @@ The programme will consist mainly of short talks, and plenty of time for discuss
 * Submission of talk proposals: Friday 28 February
 * Author notification: Tuesday 4 March
 * Funding request: Friday 7 March
-* Registration: Friday 21 March
+* Registration: Friday 28 March
 
 **Submission of talk proposals**:
 Please fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSe7yLhQDEdegdPDhP0IRlW2p-3KjvP3lT3CbvaEGgbfu9rVCw/viewform?usp=preview) to submit a proposal for a contributed talk.
@@ -46,9 +49,9 @@ The form also gives the option to submit a funding request.
 Funding consists of reimbursement of travel expenses and a daily allowance for the meeting's dates. Despite the falt rate, recepits of (travel and) accommodation expenses have to be provided.
 The daily allowance has been fixed to 140 euros.
 We recommend those interesed in applying to read the official information regarding reimbursement available [here](../reimbursement-rules).
-In particular, note you will have to register as a memeber of EuroProofNet to receive funding.
+In particular, note you will have to register as a member of EuroProofNet to receive funding.
 
 
-**Local information:** Coming soon.
+**Local information:** Please see [here](local-info).
 
 **Organizers:** [Francesco Dagnino](https://fdgn.github.io/) and [Jacopo Emmenegger](https://jacopoemmenegger.wordpress.com/)
