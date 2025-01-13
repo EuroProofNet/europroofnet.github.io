@@ -6,12 +6,12 @@ author_profile: true
 breadcrumbs: true
 ---
 
-**Date:** 17-18 April 2025
+**Dates:** 17-18 April 2025
 
 **Place:** Genova, Italy
 
 **Venue:**  
-Villa Cambiaso,  
+Villa Giustiniani-Cambiaso,  
 Scuola Politecnica, Università di Genova  
 via Montallegro 1, Genova 16145  
 
@@ -46,11 +46,10 @@ Please fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSe7yLhQDEde
 **Registration & funding:**
 To register, please fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSdaGDgt4Znuzn4mz6mZjoVMQnLgK-2HtbuZX6WupfpxwtRqZg/viewform?usp=preview).
 The form also gives the option to submit a funding request.
-Funding consists of reimbursement of travel expenses and a daily allowance for the meeting's dates. Despite the falt rate, recepits of (travel and) accommodation expenses have to be provided.
+Funding consists of reimbursement of travel expenses and a daily allowance for the meeting's dates (but recepits of both travel and accommodation expenses have to be provided).
 The daily allowance has been fixed to 140 euros.
-We recommend those interesed in applying to read the official information regarding reimbursement available [here](../reimbursement-rules).
-In particular, note you will have to register as a member of EuroProofNet to receive funding.
-
+We recommend those interested in applying to read the official information regarding reimbursement available [here](../reimbursement-rules).
+In particular, note that to receive funding you will be asked to register as a member of EuroProofNet if you are not already.
 
 **Local information:** Please see [here](local-info).
 
