@@ -1,7 +1,7 @@
 ---
 title: "WG6 meeting in Genova in April 2025"
 layout: single
-permalink: /wg6-genova/
+permalink: /wg6-genoa/
 author_profile: true
 breadcrumbs: true
 ---
