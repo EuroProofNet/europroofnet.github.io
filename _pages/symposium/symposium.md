@@ -17,7 +17,7 @@ breadcrumbs: true
 - [Access](access.md)
 - [Hotels](hotels.md)
 - [Food options](food.md)
-    
+
 **Events:**
 
 * LFPSI: [1st International School on Logical Frameworks and Proof Systems Interoperability](../LFPSI24)
@@ -39,6 +39,7 @@ Week 1:
 | Mo8                 | Tu9                 | We10                | Th11                | Fr12 | Sa13 | Su14 |
 | [LFPSI](../LFPSI24) | [LFPSI](../LFPSI24) | [LFPSI](../LFPSI24) | [LFPSI](../LFPSI24) |      |      |      |
 |                     |                     |                     | WG2                 | WG2  | WG2  |      |
+| (*)                 |                     |                     | (*)                 |      |      |      |
 
 Week 2:
 
@@ -47,6 +48,9 @@ Week 2:
 | MCLP | MCLP | MCLP | MCLP |      |
 |      |      | WG3  | WG3  | WG3  |
 |      |      |      |      | MC   |
+| (*)  |      | (*)  |      | MC   |
+
+(*) 17:30-18:30: happy hour/wine & cheese party
 
 **Steering committee:**
 - [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/) (INRIA & LMF, chair of EuroProofNet)

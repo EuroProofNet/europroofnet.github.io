@@ -27,6 +27,7 @@ breadcrumbs: true
 **Schedule:**
 
 |             | Mo8   | Tu9   | We10  | Th11  |
+| 08:30-09:00 |welcome|       |       |       |
 | 09:00-10:30 | AK    | FR    | FB    | AB    |
 | 10:30-11:00 | break | break | break | break |
 | 11:00-12:30 | AB    | AK    | FR    | FB    |
@@ -34,4 +35,4 @@ breadcrumbs: true
 | 14:00-15:30 | FB    | AB    | AK    | FR    |
 | 15:30-16:00 | break | break | break | break |
 | 16:00-17:30 | FR    | FB    | AB    | AK    |
-
+| 17:30-18:30 |happy hour|    |       |wine&cheese|
