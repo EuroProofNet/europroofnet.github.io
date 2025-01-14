@@ -36,7 +36,7 @@ The grant amounts below are initial estimations and not necessarily the final am
   Dates: 2025-05-07 to 2025-05-20
 
 * **Model-Checking Smart Contracts** [application](/_pages/stsm/konjoh-selabi-app.pdf)   
-  Visitor: Elvis Gerardin Konjoh Selabi 
+  Visitor: Elvis Gerardin Konjoh Selabi    
   Host: Alberto Lluch Lafuente     
   Grant: 1631 EUR  
   Dates: 2025-04-14 to 2025-04-25
@@ -54,7 +54,7 @@ The grant amounts below are initial estimations and not necessarily the final am
   Dates: 2025-04-05 to 2025-04-12
 
 * **Algorithmic foundations of graded coalgebraic semantics** [application](/_pages/stsm/ford-app.pdf)   
-  Visitor: Chase Ford 
+  Visitor: Chase Ford     
   Host: Lutz Schröder     
   Grant: 1358 EUR  
   Dates: 2025-03-23 to 2025-03-29      
@@ -90,7 +90,7 @@ The grant amounts below are initial estimations and not necessarily the final am
   Dates: 2025-02-17 to 2025-03-02
 
  * **Developing a graded type system for a resource-aware workflow modelling language** [application](/_pages/stsm/pun-app25.pdf)   
-  Visitor: Violet Ka I Pun 
+  Visitor: Violet Ka I Pun     
   Host: Elena Zucca      
   Grant: 1520 EUR  
   Dates: 2025-02-16 to 2025-02-22
