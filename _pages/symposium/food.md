@@ -9,7 +9,7 @@ Opening hours are subject to changes. Please check them on the Internet.
 
 **University restaurants open from Monday to Friday (only 2 are open for dinner):**
 
-The cost of a meal for non-local people at a university restaurant (RU) is about 10 euros, and 17.5 euros at the CESFO restaurant.
+The cost of a meal for non-local people at a university restaurant (RU) is about 10 euros, and 16.47 euros at the CESFO restaurant.
 
 - [Restaurant CESFO Plateau](https://cesfo.fr/), Rue André Rivière, 91400 Orsay (50 m but a meal costs 17.5 euros for non-local people)
 
