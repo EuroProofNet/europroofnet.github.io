@@ -8,9 +8,10 @@ breadcrumbs: true
 
 will take place in Edinburgh, Scotland, UK, April 7th-8th 2025, organised by Ekaterina Komendantskaya,  Elizabeth Polgreen, Christian Saemann, Kathrin Stark, and Michael Rawson. The event is supported by the Cost Action CA20111 - European Research Network on Formal Proofs.
 
+
 # Aims
 
-Machine learning has been shown to be very successful in programming and translation talks, and creates new opportunities combining AI with proofs. Recently, various claims have been made that large language models (LLMs) will revolutionise these areas. However, many questions about the details of the applications of LLMs and their impact on theorem proving and mathematics remain open. At the workshop, we want to bring together researchers from a wide range of communities: mathematics, automated and interactive theorem proving, machine learning, natural language processing, and formal methods, in order to discuss the state-of the art and future directions for this new area of research.
+Machine learning (ML) has been shown to be very successful in programming and translation tasks, and creates new opportunities combining AI with proofs. Recently, various claims have been made that large language models (LLMs) will revolutionise these areas. However, many questions about the details of the applications of LLMs and their impact on theorem proving and mathematics remain open. At the workshop, we want to bring together researchers from a wide range of communities: mathematics, automated and interactive theorem proving, machine learning, natural language processing, and formal methods, in order to discuss the state-of-the-art and future directions for this new area of research.
 
 Examples of topics that we intend to discuss include, but are not limited to:
 
@@ -32,13 +33,16 @@ Examples of topics that we intend to discuss include, but are not limited to:
 # Format
 
 ## Keynote Talks
-- *Machine Learning in Industrial Verification*: [Swarat Chaudhuri](https://www.cs.utexas.edu/~swarat/) (Google DeepMind)
+- *Machine Learning in Industrial Verification*: [Swarat Chaudhuri](https://www.cs.utexas.edu/~swarat/) (UT Austin and Google Deepmind)
 - *Machine Learning for Mathematics Research*: [Sergei Gukov](http://theory.caltech.edu/~gukov/) (Caltech & Dublin Inst. Adv. Studies)
 - *Machine Learning in Theorem Proving*: [Josef Urban](https://people.ciirc.cvut.cz/~urbanjo3/) (CIIRC/CVUT)
 
 ## Call for Presentations
 The workshop solicits contributed talks supported by an extended abstract of up to 2 pages in LNCS format, excluding references. Abstracts will be reviewed for relevance and quality and subsequently made public on the workshop's web page.
-All abstracts must be submitted via [this Easychair page](https://easychair.org/conferences/?conf=europroofnetwg5). 
+All abstracts must be submitted via [this Easychair page](https://easychair.org/conferences/?conf=europroofnetwg5).
+
+## Publication plans
+The chairs are investigating the possibility of organising a special journal issue dedicated to the topics of this workshop, at the J. of Annals of Mathematics and AI. Further details will be discussed at the time of the workshop.
 
 **Abstract submission**: January 31st 2025 (AOE).
 **Travel support application**: January 31st 2025.
