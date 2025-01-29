@@ -7,6 +7,8 @@ author_profile: true
 
 To contribute to the web site, please open an [issue](https://github.com/EuroProofNet/europroofnet.github.io/issues), create a [pull request](https://github.com/EuroProofNet/europroofnet.github.io) or send a mail to the [science communication coordinators](../contact).
 
+- 1 May 2025 (soft deadline): 2 postdoc positions on Higher Observational Type Theory funded by the HOTT ERC project. This is a 5 year project starting on 1 May 2025, later starting dates and shorter postdocs are possible. Location: [type theory research group](https://bitbucket.org/akaposi/tipuselmelet) at the [Faculty of Informatics](https://www.inf.elte.hu/en) at Eötvös Loránd University in Budapest. Please contact [Ambrus Kaposi](https://akaposi.web.elte.hu).
+
 - 31 July 2024 (deadline): [Postdoc position](https://www.kuleuven.be/personeel/jobsite/jobs/60344086?utm_medium=jobsites&utm_source=academicpositions) in ERC CoG project [CertiFOX](https://www.bartbogaerts.eu/projects/certifox) on trustworthy combinatorial optimization using proof logging
 
 - 20 November 2023 (deadline): The [Institute of Computer Science](https://www.cs.cas.cz/) of the Czech Academy of Sciences offers a [tenure track position in Artificial Intelligence](https://www.cs.cas.cz/job-offer/Tenure-Track-Position-Artificial-Intelligence/en), interpreted in its broadest possible sense, including the area of automated reasoning. Contact [Stefan Ratschan](http://www.cs.cas.cz/~ratschan/).
