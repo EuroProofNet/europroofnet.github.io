@@ -38,7 +38,7 @@ Week 1:
 
 | Mo8                 | Tu9                 | We10                | Th11                | Fr12 | Sa13 | Su14 |
 | [LFPSI](../LFPSI24) | [LFPSI](../LFPSI24) | [LFPSI](../LFPSI24) | [LFPSI](../LFPSI24) |      |      |      |
-|                     |                     |                     | WG2                 | WG2  | WG2  |      |
+|                     |                     |                     | [WG2](../wg2-symposium/)                 | [WG2](../wg2-symposium/)  | [WG2](../wg2-symposium/)  |      |
 | (*)                 |                     |                     | (*)                 |      |      |      |
 
 Week 2:
@@ -50,7 +50,7 @@ Week 2:
 |      |      |      |      | MC   |
 | (*)  |      | (*)  |      | MC   |
 
-(*) 17:30-18:30: happy hour/wine & cheese party
+(*) 17:30-18:30: happy hour
 
 **Steering committee:**
 - [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/) (INRIA & LMF, chair of EuroProofNet)
