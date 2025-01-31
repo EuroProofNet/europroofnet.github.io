@@ -22,7 +22,7 @@ breadcrumbs: true
 
 * LFPSI: [1st International School on Logical Frameworks and Proof Systems Interoperability](../LFPSI24)
 
-* [WG2: Workshop on Automated Theorem Proving and Proof Logging](../WG2/Symposium)
+* [WG2: Workshop on Automated Theorem Proving and Proof Logging](../wg2-symposium)
 
 * WG4: Workshop on Large Proof Libraries
 

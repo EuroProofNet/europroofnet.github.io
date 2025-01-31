@@ -1,6 +1,7 @@
 ---
 title: "WG2: Workshop on Automated Theorem Proving and Proof Logging"
 layout: single
+permalink: /wg2-symposium/
 author_profile: true
 breadcrumbs: true
 ---
