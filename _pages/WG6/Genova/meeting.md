@@ -22,15 +22,15 @@ This includes, but is not limited to the goal of WG6:
 
 > The aim of this WG is to develop a comprehensive theory of type theories, which (i) accounts for its domain-specific variants and the type theories currently used in proof assistants, and (ii) allows for the modular reasoning about their syntax and semantics.
 
-The meeting will be in person with support for remote participation and is open to anyone interested in type theory. Talks can expose published work or work in progress.
+The meeting will be in person with support for remote participation and is open to anyone interested in type theory. Talks can present published work or work in progress.
 
 
 **Invited speakers**
 
 * [Francesco Gavazzo](https://sites.google.com/view/francescogavazzo/home) (Università di Padova)
+* [András Kovács](https://andraskovacs.github.io/) (Chalmers & Göteborgs universitet)
 * [Thomas Lamiaux](https://thomas-lamiaux.github.io/) (Nantes Université)
 * [Paige Randall North](https://paigenorth.github.io/) (Universiteit Utrecht)
-* TBA
 
 
 **Deadlines (AoE)**
