@@ -13,6 +13,8 @@ syntax and semantics.
 
 ### Activities
 
+- 17-18 April 2025: [WG6 meeting](../wg6-genoa), Genoa, Italy
+
 - 4-5 April 2024: [WG6 meeting](../wg6-leuven), Leuven, Belgium
 
 - 24-25 April 2023: [WG6 meeting](../wg6-vienna), Vienna, Austria
