@@ -62,3 +62,5 @@ Participants who contribute talks will be given preference when applying for tra
 # Location
 
 [Postgraduate Centre Heriot-Watt](https://maps.app.goo.gl/vBKoBeCjZBNVnqeb9), Heriot-Watt University, Edinburgh, EH14 4AL, UK. More information about the campus:[Heriot-Watt](https://www.hw.ac.uk/uk/edinburgh/maps-directions.htm).
+
+![GAIL](gail.jpg)
