@@ -52,3 +52,4 @@ We will consider some of those practices during the discussion part of the event
 
 ### Organizing committee
 * [Sandra Alves](https://www.dcc.fc.up.pt/~sandra/Home/Home.html)
+* [Anja Petković Komel](https://anjapetkovic.com/)
