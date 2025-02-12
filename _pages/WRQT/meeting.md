@@ -7,8 +7,7 @@ breadcrumbs: true
 ---
 
 ## June 5-6, 2025
-The Workshop on Reasoning with Quantitative Types is a two day event, supported by the European Research Network on Formal Proofs.
-
+The Workshop on Reasoning with Quantitative Types is a two day event, supported by the European Research Network on Formal Proofs. Intersection types were introduced near the end of the 1970s to overcome the limitations of Curry's type assignment system and to provide a characterization of the strongly normalizing terms of the Lambda Calculus. The key idea is to introduce an intersection type constructor ∧ such that a term of type t ∧ s can be used at both type t and s within the same context. If the intersection type constructor is considered to be non-idempotent, then type systems can be used to give, not only qualitative characterizations of operational properties, but also quantitative ones.
 ## Invited Speakers
 
 - Delia Kesner
