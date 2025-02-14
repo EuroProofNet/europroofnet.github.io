@@ -24,7 +24,7 @@ breadcrumbs: true
 
 - [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/) added new proof tactics in Lambdapi ([1194](https://github.com/Deducteam/lambdapi/pull/1194), [1195](https://github.com/Deducteam/lambdapi/pull/1195)) and, together with Rishikesh Vaishnav, started to translate HOL-Light to Lean, by extending Lambdapi ([1197](https://github.com/Deducteam/lambdapi/pull/1197)) and Hol2dk ([173](https://github.com/Deducteam/hol2dk/pull/173)).
 
-- [Thomas Traversié](https://thomastraversie.github.io/) worked on translation mechanisms for exchanging proofs between Dedukti theories, by extending theory morphisms and logical relations from LF to Dedukti. This work will be continued during his STSM hosted by Florian Rabe.
+- [Thomas Traversié](https://thomastraversie.github.io/) worked on translation mechanisms to exchange proofs between Dedukti theories, by extending theory morphisms and logical relations from LF to Dedukti. This work will be continued during his STSM hosted by Florian Rabe.
 
 **Tuesday 11 February:**
 
