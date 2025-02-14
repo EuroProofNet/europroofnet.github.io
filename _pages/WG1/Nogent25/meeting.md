@@ -22,7 +22,7 @@ breadcrumbs: true
 
 **Participants (18):** Frédéric Blanqui, Rishikesh Vaishnav, Melanie Taprogge, Théo Winterhalter, Anne Grieu, Alessio Coltellacci, Thomas Traversié, Ciaran Dunne, Claudio Sacerdoti Coen, Gabriel Hondet, Abdelghani Alidra, Jérémy Dubut, Bruno Barras, Michael Färber, Olivier Hermant, Nicolas Margulies, Catherine Dubois, Guillaume Burel
 
-- [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/) added new proof tactics in Lambdapi ([1194](https://github.com/Deducteam/lambdapi/pull/1194), [1195](https://github.com/Deducteam/lambdapi/pull/1195)) and, together with Rishikesh Vaishnav, started to translate HOL-Light to Lean, by extending Lambdapi ([1197](https://github.com/Deducteam/lambdapi/pull/1194)) and Hol2dk ([173](https://github.com/Deducteam/hol2dk/pull/173)).
+- [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/) added new proof tactics in Lambdapi ([1194](https://github.com/Deducteam/lambdapi/pull/1194), [1195](https://github.com/Deducteam/lambdapi/pull/1195)) and, together with Rishikesh Vaishnav, started to translate HOL-Light to Lean, by extending Lambdapi ([1197](https://github.com/Deducteam/lambdapi/pull/1197)) and Hol2dk ([173](https://github.com/Deducteam/hol2dk/pull/173)).
 
 **Tuesday 11 February:**
 
