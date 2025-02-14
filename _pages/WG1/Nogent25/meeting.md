@@ -26,6 +26,8 @@ breadcrumbs: true
 
 - [Thomas Traversié](https://thomastraversie.github.io/) worked on translation mechanisms to exchange proofs between Dedukti theories, by extending theory morphisms and logical relations from LF to Dedukti. This work will be continued during his STSM hosted by Florian Rabe.
 
+- [Théo Winterhalter](https://theowinterhalter.github.io/) worked on alignment of concepts between Hol Light and Coq with Alessio Coltellacci ([PR#6](https://github.com/Deducteam/coq-hol-light/pull/6)), and, had discussions with Rishikesh Vaishnav about Lean4Less.
+
 **Tuesday 11 February:**
 
 |08:00-08:30|breakfast|
