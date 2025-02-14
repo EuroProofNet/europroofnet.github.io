@@ -6,11 +6,9 @@ author_profile: true
 breadcrumbs: true
 ---
 
-<!--img src="/_pages/WG1/Nogent24/IMG_20230927_130736.jpg"/-->
-
 **Organizer:** [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/)
 
-**Date:** 10-14 February 2025
+**Date:** 11-13 February 2025
 
 **Venue:** <a href="https://www.hotel-beaurivage-nogentsurseine.com/">Hôtel Beau Rivage</a>, 20 rue de Villiers aux Choux 10400 Nogent-sur-Seine, France
 
@@ -64,6 +62,7 @@ breadcrumbs: true
 |19:30-21:00|dinner|
 
 
-<!--img src="/_pages/WG1/Sep2023/IMG_20230927_151848.jpg"/>
-<img src="/_pages/WG1/Sep2023/IMG_20230927_151732.jpg"/>
-<img src="/_pages/WG1/Sep2023/IMG_20230927_132755.jpg"/-->
+<img src="/_pages/WG1/Nogent25/IMG_20250211_192948.jpg"/>
+<img src="/_pages/WG1/Nogent25/IMG_20250211_094446.jpg"/>
+<img src="/_pages/WG1/Nogent25/IMG_20250211_094409.jpg"/>
+<img src="/_pages/WG1/Nogent25/IMG_20250211_094349.jpg"/>
