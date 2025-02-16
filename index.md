@@ -54,9 +54,9 @@ corner).
 
 - 8-19 September 2025: [EuroProofNet Symposium](../Symposium), Institut Pascal, Orsay, France, with:
     - 8-11 September 2025: [1st International School on Logical Frameworks and Proof Systems Interoperability](../LFPSI24)
-    - 11-13 September 2025: WG2 meeting on proof-logging
+    - 11-13 September 2025: [WG2 meeting on proof-logging](../wg2-symposium)
     - 15-16 September 2025: WG4 meeting on the development of large proof libraries
-    - 15-18 September 2025: Conference on Mathematical and Computational Linguistics for Proofs
+    - 15-18 September 2025: [Conference on Mathematical and Computational Linguistics for Proofs](../MCLP)
     - 17-19 September 2025: WG3 meeting on program verification
     - 19 September 2025 at 14:00 (Paris time): final Management Committee meeting
 
