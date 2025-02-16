@@ -6,6 +6,8 @@ author_profile: true
 breadcrumbs: true
 ---
 
+<img src="/_pages/WG1/Nogent25/IMG_20250211_094409.jpg"/>
+
 **Organizer:** [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/)
 
 **Date:** 11-13 February 2025
@@ -67,5 +69,4 @@ breadcrumbs: true
 
 <img src="/_pages/WG1/Nogent25/IMG_20250211_192948.jpg"/>
 <img src="/_pages/WG1/Nogent25/IMG_20250211_094446.jpg"/>
-<img src="/_pages/WG1/Nogent25/IMG_20250211_094409.jpg"/>
 <img src="/_pages/WG1/Nogent25/IMG_20250211_094349.jpg"/>
