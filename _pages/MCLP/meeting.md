@@ -1,7 +1,7 @@
 ---
 title: "International Conference on Mathematical and Computational Linguistics for Proofs"
 layout: single
-permalink: /MCLP25/
+permalink: /MCLP/
 author_profile: true
 breadcrumbs: true
 ---
