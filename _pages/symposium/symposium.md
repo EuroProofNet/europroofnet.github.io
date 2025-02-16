@@ -26,7 +26,7 @@ breadcrumbs: true
 
 * WG4: Workshop on Large Proof Libraries
 
-* MCLP: Conference on Mathematical and Computational Linguistics for Proofs
+* [MCLP: Conference on Mathematical and Computational Linguistics for Proofs](../MCLP)
 
 * WG3: Workshop on Program Verification
 
@@ -45,7 +45,7 @@ Week 2:
 
 | Mo15 | Tu16 | We17 | Th18 | Fr19 |
 | WG4  | WG4  |      |      |      |
-| MCLP | MCLP | MCLP | MCLP |      |
+| [MCLP](../MCLP) | [MCLP](../MCLP) | [MCLP](../MCLP) | [MCLP](../MCLP) |      |
 |      |      | WG3  | WG3  | WG3  |
 |      |      |      |      | MC   |
 | (*)  |      | (*)  |      | MC   |
