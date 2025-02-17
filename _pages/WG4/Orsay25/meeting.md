@@ -8,7 +8,7 @@ breadcrumbs: true
 
 MCLP is part of the [EuroProofNet Symposium](../Symposium). See the symposium page to get information on the other co-located events, the venue, hotels and food options.
 
-**Organizer:** [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/), [Claudio Sacerdoti](http://www.cs.unibo.it/~sacerdot/), [Angeliki Koutsoukou Argyraki](https://pure.royalholloway.ac.uk/en/persons/angeliki-koutsoukou-argyraki)
+**Organizer:** [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/), [Claudio Sacerdoti](http://www.cs.unibo.it/~sacerdot/)
 
 **Date:** 15-16 September 2025
 

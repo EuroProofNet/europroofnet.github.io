@@ -15,4 +15,6 @@ breadcrumbs: true
 
 - [Aparthotel Adagio Access Palaiseau Saclay](https://www.adagio-city.com/fr/hotel-a0x3-apparthotel-adagio-access-palaiseau-saclay.shtml), 6 Boulevard Gaspard Monge 91120 Palaiseau, 21 minutes by bus and walk
 
+- [Maison d'accueil franciscaine](https://www.clarte-dieu.fr/accueil/accueil-des-groupes-et-individuels-et-tarifs/) (religious establishment), also on [booking.com](https://www.booking.com/hotel/fr/maison-d-accueil-franciscaine.fr.html), La Clarté-Dieu, 95 Rue de Paris 91400 Orsay, 25 minutes by bus 9 and walk
+
 - Many hotels can be found in Massy as well
