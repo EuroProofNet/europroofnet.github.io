@@ -63,4 +63,14 @@ Participants who contribute talks will be given preference when applying for tra
 
 [Postgraduate Centre Heriot-Watt](https://maps.app.goo.gl/vBKoBeCjZBNVnqeb9), Heriot-Watt University, Edinburgh, EH14 4AL, UK. More information about the campus:[Heriot-Watt](https://www.hw.ac.uk/uk/edinburgh/maps-directions.htm).
 
+# Program
+The [initial program](https://easychair.org/smart-program/EuroProofNet-WG5/) is online, but it is not yet fixed.
+We will ask participants to finalise their registration soon.
+
+# Further Acknowledgements
+We are grateful for support from the following organisations in addition to EuroProofNet.
+- [EPSRC](https://www.ukri.org/councils/epsrc/)
+- [AISEC](https://www.macs.hw.ac.uk/aisec/)
+- [Heriot-Watt University](https://www.hw.ac.uk/)
+
 ![GAIL](gail.jpg)
