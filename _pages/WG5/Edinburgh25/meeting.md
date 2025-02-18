@@ -39,7 +39,7 @@ The workshop features 27 contributions, a panel discussion and a poster session.
 A detailed schedule is available via [EasyChair](https://easychair.org/smart-program/EuroProofNet-WG5/).
 
 # Registration
-We are expecting a large number of participants, and therefore registration is **mandatory**. Registration opens shortly, and will close on the 12th March 2025 at 1600 UK time.
+We are expecting a large number of participants, and therefore registration is **mandatory**. Registration is [online](https://www.epay.ed.ac.uk/conferences-and-events/college-of-science-and-engineering/school-of-informatics/informatics-events/workshop-on-theorem-proving-and-machine-learning-in-the-age-of-llms), and will close on the 12th March 2025 at 1600 UK time.
 
 ## Workshop Dinner
 There is an optional workshop dinner at the [Surgeon's Hall](https://museum.rcsed.ac.uk/) at a cost of £63 per person.
