@@ -28,6 +28,7 @@ breadcrumbs: true
 - [Thomas Traversié](https://thomastraversie.github.io/) worked on translation mechanisms to exchange proofs between Dedukti theories, by extending theory morphisms and logical relations from LF to Dedukti. This work will be continued during his STSM hosted by Florian Rabe.
 - Melanie Taprogge continued her ongoing work on implementing the Lambdapi output of the HOL ATP Leo-III by evaluating the coverage of the current proof encoding using the TPTP problem library. She then improved and extended the implementation accordingly.
 - [Jérémy Dubut](https://jeremydubut.com) worked on the alignement of functions on natural numbers (even, odd, factorial, ...) between HOL light and Coq, as well as on a profiler to check the time required to build each proof in an Isabelle theory.
+- [Guillaume Burel](http://web4.ensiie.fr/~guillaume.burel/) discussed with Ciarán Dunne about his embedding of Eunoia in Lambdapi, and more generally about generalization of  set theories. He also updated [lrat2dk](https://github.com/gburel/lrat2dk) to make it compile with recent versions of OCaml, and he began to clean its output to prepare new formats such as Lambdapi or Rocq.
 
 **Tuesday 11 February:**
 
