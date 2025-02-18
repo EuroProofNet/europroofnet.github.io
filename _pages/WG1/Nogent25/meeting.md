@@ -29,6 +29,8 @@ breadcrumbs: true
 - Melanie Taprogge continued her ongoing work on implementing the Lambdapi output of the HOL ATP Leo-III by evaluating the coverage of the current proof encoding using the TPTP problem library. She then improved and extended the implementation accordingly.
 - [Jérémy Dubut](https://jeremydubut.com) worked on the alignement of functions on natural numbers (even, odd, factorial, ...) between HOL light and Coq, as well as on a profiler to check the time required to build each proof in an Isabelle theory.
 
+- [Théo Winterhalter](https://theowinterhalter.github.io/) worked on alignment of concepts between Hol Light and Coq with Alessio Coltellacci ([PR#6](https://github.com/Deducteam/coq-hol-light/pull/6)), and, had discussions with Rishikesh Vaishnav about Lean4Less.
+
 **Tuesday 11 February:**
 
 |08:00-08:30|breakfast|
