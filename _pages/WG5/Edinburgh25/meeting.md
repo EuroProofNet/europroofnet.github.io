@@ -30,47 +30,36 @@ Examples of topics that we intend to discuss include, but are not limited to:
 - **Cross-Domain Connections**: e.g., developing user-friendly natural language interfaces for proof assistants, adapting LLM capabilities from general domains to formal logic and proofs.
 
 
-# Format
-
-## Keynote Talks
-- *Machine Learning in Industrial Verification*: [Swarat Chaudhuri](https://www.cs.utexas.edu/~swarat/) (UT Austin and Google Deepmind)
+# Schedule
+The workshop features 27 contributions, a panel discussion and a poster session. We are proud to have three invited speakers:
+- *Formal Mathematical Reasoning: A New Frontier for Large Language Models*: [Swarat Chaudhuri](https://www.cs.utexas.edu/~swarat/) (UT Austin and Google Deepmind)
 - *Machine Learning for Mathematics Research*: [Sergei Gukov](http://theory.caltech.edu/~gukov/) (Caltech & Dublin Inst. Adv. Studies)
 - *Machine Learning in Theorem Proving*: [Josef Urban](https://people.ciirc.cvut.cz/~urbanjo3/) (CIIRC/CVUT)
 
-## Call for Presentations
-The workshop solicits contributed talks supported by an extended abstract of up to 2 pages in LNCS format, excluding references. Abstracts will be reviewed for relevance and quality and subsequently made public on the workshop's web page.
-All abstracts must be submitted via [this Easychair page](https://easychair.org/conferences/?conf=europroofnetwg5).
+A detailed schedule is available via [EasyChair](https://easychair.org/smart-program/EuroProofNet-WG5/).
 
-## Publication plans
-The chairs are investigating the possibility of organising a special journal issue dedicated to the topics of this workshop, at the J. of Annals of Mathematics and AI. Further details will be discussed at the time of the workshop.
+# Registration
+We are expecting a large number of participants, and therefore registration is **mandatory**. Registration opens shortly, and will close on the 12th March 2025 at 1600 UK time.
 
-**Abstract submission**: January 31st 2025 (AOE).
-**Travel support application**: January 31st 2025.
-**Notification of acceptance**: ASAP thereafter.
-
-# Registration and Optional Travel Support
-
-Please fill out the following [form](https://forms.gle/4kzSBmkDS8SMXtxXA) if you plan to attend, regardless of whether you submit an abstract or apply for support.
-
-The travel and accommodation of a number of participants (approximately 12) will be supported by the [Cost Action CA20111 - European Research Network on Formal Proofs](https://europroofnet.github.io/).
-If you want to be funded, please check the [eligibility](https://europroofnet.github.io/eligibility) and [reimbursement](https://europroofnet.github.io/reimbursement-rules/) rules to know whether you can be funded.
-[Register](https://e-services.cost.eu/action/CA20111/working-groups/apply) to EuroProofNet if you have not already.
-
-Participants who contribute talks will be given preference when applying for travel support.
-
+## Workshop Dinner
+There is an optional workshop dinner at the [Surgeon's Hall](https://museum.rcsed.ac.uk/) at a cost of £63 per person.
+You may, if you like, invite an additional guest at extra cost.
+These options will be available at the time of registration.
 
 # Location
 
-[Postgraduate Centre Heriot-Watt](https://maps.app.goo.gl/vBKoBeCjZBNVnqeb9), Heriot-Watt University, Edinburgh, EH14 4AL, UK. More information about the campus:[Heriot-Watt](https://www.hw.ac.uk/uk/edinburgh/maps-directions.htm).
+[Postgraduate Centre Heriot-Watt](https://maps.app.goo.gl/vBKoBeCjZBNVnqeb9), Heriot-Watt University, Edinburgh, EH14 4AL, UK. More information about the campus from [Heriot-Watt](https://www.hw.ac.uk/uk/edinburgh/maps-directions.htm).
 
-# Program
-The [initial program](https://easychair.org/smart-program/EuroProofNet-WG5/) is online, but it is not yet fixed.
-We will ask participants to finalise their registration soon.
+# Publication plans
+The chairs are investigating the possibility of organising a special journal issue dedicated to the topics of this workshop, at the J. of Annals of Mathematics and AI. Further details will be discussed at the time of the workshop.
+
+# Travel Grants
+The travel and accommodation of a number of participants (approximately 12) will be supported by the [Cost Action CA20111 - European Research Network on Formal Proofs](https://europroofnet.github.io/).
+Applications have now closed.
 
 # Further Acknowledgements
-We are grateful for support from the following organisations in addition to EuroProofNet.
-- [EPSRC](https://www.ukri.org/councils/epsrc/)
-- [AISEC](https://www.macs.hw.ac.uk/aisec/)
-- [Heriot-Watt University](https://www.hw.ac.uk/)
-
-![GAIL](gail.jpg)
+We are grateful for support from the following organisations in addition to EuroProofNet.  
+[<img alt="EPSRC" src="https://www.ukri.org/wp-content/uploads/2022/03/ukri-epsrc-square-logo.png" width=200>](https://www.ukri.org/councils/epsrc/)
+[<img alt="AISEC" src="https://www.macs.hw.ac.uk/aisec/assets/img/front_page_logo.png" width=200>](https://www.macs.hw.ac.uk/aisec/)
+[<img alt="Heriot-Watt University" src="https://www.hw.ac.uk/uk/services/img/HWU-global-logo.jpg" width=200>](https://www.hw.ac.uk/)
+[![GAIL](gail.jpg)](https://gail.ed.ac.uk/)
