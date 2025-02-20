@@ -31,6 +31,8 @@ breadcrumbs: true
 - [Guillaume Burel](http://web4.ensiie.fr/~guillaume.burel/) discussed with Ciarán Dunne about his embedding of Eunoia in Lambdapi, and more generally about generalization of  set theories. He also updated [lrat2dk](https://github.com/gburel/lrat2dk) to make it compile with recent versions of OCaml, and he began to clean its output to prepare new formats such as Lambdapi or Rocq.
 - [Claudio Sacerdoti Coen](https://www.unibo.it/sitoweb/claudio.sacerdoticoen/en) and Abdelghani Alidra worked on indexing and retrieval in heterogenous libraries, focusing on providing a web interface to search for results in the HOL library exported to Lambdapi, up to the alignments in use when exporting the library to Coq.
 
+- [Théo Winterhalter](https://theowinterhalter.github.io/) worked on alignment of concepts between Hol Light and Coq with Alessio Coltellacci ([PR#6](https://github.com/Deducteam/coq-hol-light/pull/6)), and, had discussions with Rishikesh Vaishnav about Lean4Less.
+
 **Tuesday 11 February:**
 
 |08:00-08:30|breakfast|
