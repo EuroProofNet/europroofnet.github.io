@@ -32,6 +32,7 @@ breadcrumbs: true
 - [Claudio Sacerdoti Coen](https://www.unibo.it/sitoweb/claudio.sacerdoticoen/en) and Abdelghani Alidra worked on indexing and retrieval in heterogenous libraries, focusing on providing a web interface to search for results in the HOL library exported to Lambdapi, up to the alignments in use when exporting the library to Coq.
 
 - [Théo Winterhalter](https://theowinterhalter.github.io/) worked on alignment of concepts between Hol Light and Coq with Alessio Coltellacci ([PR#6](https://github.com/Deducteam/coq-hol-light/pull/6)), and, had discussions with Rishikesh Vaishnav about Lean4Less.
+- [Olivier Hermant](https://www.cri.minesparis.psl.eu/~hermant/) worked on the different encoding of set theories in Dedukti, by updating a translator from B proof obligations to why3 and Dedukti.
 
 **Tuesday 11 February:**
 
