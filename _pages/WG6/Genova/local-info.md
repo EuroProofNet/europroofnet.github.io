@@ -41,10 +41,15 @@ Bus 43 stops at the second one, bus 15 leaves from the third one.
 The nearest bus stop to the venue is Albaro/Causa.
 
 ### Hotels
-TBA
-<!-- * Hotel La Capannina * Hotel NoLogo * Best Western Hotel Moderno Verdi -->
 
-<!-- **Other suggested hotels close to conference venue**: * Giardino di Albaro * Rex Hotel -->
+The University of Genoa has agreements with the hotels listed [here](https://intranet.unige.it/convenzioni-hotel/).
+Please open the pdf corresponding to the hotel for special fares and contacts (in Italian, but quite self-explanatory. Please write to the organisers if you need help).
+
+If you intend to book at one of these hotels taking advantage of the special fare, please write to the address listed in the pdf and specify that you are coming to Genoa for a conference at the University of Genoa and would like to have the University fare.
+
+The hotels closest to the venue are close to Brignole train station:
+* Hotel Moderno Verdi (Univ. fare: 95 single, 132 double)
+* Hotel Nologo (Univ. fare: 65 single, 75 double)
 
 ### Restaurants
 TBA
