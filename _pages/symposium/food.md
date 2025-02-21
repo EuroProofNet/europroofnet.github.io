@@ -35,6 +35,8 @@ The cost of a meal for non-local people at a university restaurant (RU) is about
 
 **Options on Mail Pierre Potier at Gif-sur-Yvette (1500 m, 20 minutes):**
 
+- [Brass & Co](https://www.brassandco.fr/), open Monday to Friday from 11:30 to 23:30.
+
 - Supermarket Intermarché Express Gif-sur-Yvette, open every day from 8:30 to 20:00, but on Sunday from 9:30 to 12:45.
 
 - Bakery/Sandwich Boulangerie OCT Tradition, open Monday to Saturday from 7:00 to 19:30

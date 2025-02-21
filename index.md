@@ -46,7 +46,7 @@ corner).
 
 - 10 June 2025: [Women in EuroProofNet workshop](https://europroofnet.github.io/women-epn-2025/) at the [31st International Conference on Types for Proofs and Programs](https://msp.cis.strath.ac.uk/types2025/) (TYPES'25), University of Strathclyde, Glasgow, UK
 
-- 10-12 June 2025 (TBC): School on Natural Language Formalizations (SoNaLF), Bonn, Germany
+- 3-5 June 2025: School on Natural Language Formalizations (SoNaLF), Bonn, Germany
 
 - 7-11 July 2025: School on Symbolic and Statistical Methods for Reasoning and Processing Formal Expressions, Kutaisi, Georgia
 
