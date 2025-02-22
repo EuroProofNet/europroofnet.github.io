@@ -12,9 +12,10 @@ This will be the final meeting of the WG3 meeting. It will part of the [Final Eu
 
 **Date:** 17-19 September 2025
 
-**Venue:**  [Institut Pascal](https://www.institut-pascal.universite-paris-saclay.fr/), 530 Rue André Rivière, 91400 Orsay. See the [Symposium page](https://europroofnet.github.io/Symposium/) for hotel and food options.
-
-**How to get there**: See [here](_pages/symposium/access.md).
+**Venue:**  [Institut Pascal](https://www.institut-pascal.universite-paris-saclay.fr/), 530 Rue André Rivière, 91400 Orsay
+[Access](access.md)
+[Hotels](hotels.md)
+[Food options](food.md)
 
 **Reimbursement:** EuroProofNet can reimburse a few people. The deadline for [funding requests](https://forms.gle/JWH48nfBay9uCjhPA) is May 25.
 

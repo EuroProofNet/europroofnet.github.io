@@ -8,13 +8,16 @@ breadcrumbs: true
 
 (Page under development.)
 
-This workshop/WG4 meeting is part of the [EuroProofNet Symposium](../Symposium). See the symposium page to get information on the other co-located events, the venue, hotels and food options.
+This workshop/WG4 meeting is part of the [EuroProofNet Symposium](../Symposium). See the symposium page to get information on the other co-located events.
 
 The objective is to have talks or demos like in the [1st Workshop on the development, maintenance, refactoring and search of large libraries of proofs](../wg4-meeting1) and, if time permits, some common development sessions.
 
 **Date:** 15-16 September 2025
 
 **Venue:** [Institut Pascal](https://www.institut-pascal.universite-paris-saclay.fr/), 530 Rue André Rivière, 91400 Orsay
+[Access](access.md)
+[Hotels](hotels.md)
+[Food options](food.md)
 
 **Organizer:** [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/), [Claudio Sacerdoti](http://www.cs.unibo.it/~sacerdot/)
 

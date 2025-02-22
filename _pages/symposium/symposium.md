@@ -11,32 +11,22 @@ breadcrumbs: true
 **Date:** 8-19 September 2025
 
 **Venue:** [Institut Pascal](https://www.institut-pascal.universite-paris-saclay.fr/), 530 Rue André Rivière, 91400 Orsay
+[Access](access.md)
+[Hotels](hotels.md)
+[Food options](food.md)
 
-- [Access](access.md)
-- [Hotels](hotels.md)
-- [Food options](food.md)
-
-**Registration/funding requests:**
-
-- [Registration/funding requests form](https://forms.gle/JWH48nfBay9uCjhPA)
+**Registration/funding requests:** [form](https://forms.gle/JWH48nfBay9uCjhPA)
 
 **Important dates:**
-
 - May 25: [funding requests](https://forms.gle/JWH48nfBay9uCjhPA) deadline
 - June 1st: funding requests notification
 
 **Events:**
-
-* [LFPSI: 1st International School on Logical Frameworks and Proof Systems Interoperability](../LFPSI24)
-
+* [LFPSI: 1st International School on Logical Frameworks and Proof Systems Interoperability](../LFPSI25)
 * [WG2: Workshop on Automated Reasoning and Proof Logging](../wg2-symposium)
-
 * [WG4: Workshop on Proof Libraries](../WG4_Orsay25)
-
 * [MCLP: Conference on Mathematical and Computational Linguistics for Proofs](../MCLP)
-
 * [WG3: Workshop on Program Verification](../wg3-Sept2025)
-
 * [MC: Report on EuroProofNet results](../mc-meetings)
 
 **Schedule:**
@@ -44,7 +34,7 @@ breadcrumbs: true
 Week 1:
 
 | Mo8                 | Tu9                 | We10                | Th11                | Fr12 | Sa13 | Su14 |
-| [LFPSI](../LFPSI24) | [LFPSI](../LFPSI24) | [LFPSI](../LFPSI24) | [LFPSI](../LFPSI24) |      |      |      |
+| [LFPSI](../LFPSI25) | [LFPSI](../LFPSI25) | [LFPSI](../LFPSI25) | [LFPSI](../LFPSI25) |      |      |      |
 |                     |                     |                     | [WG2](../wg2-symposium/)                 | [WG2](../wg2-symposium/)  | [WG2](../wg2-symposium/)  |      |
 | (*)                 |                     |                     | (*)                 |      |      |      |
 
