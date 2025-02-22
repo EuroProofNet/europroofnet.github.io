@@ -8,23 +8,22 @@ breadcrumbs: true
 
 This workshop/WG4 meeting is part of the [EuroProofNet Symposium](../Symposium). See the symposium page to get information on the other co-located events.
 
-The objective is to have talks or demos like in the [1st Workshop on the development, maintenance, refactoring and search of large libraries of proofs](../wg4-meeting1) and, if time permits, some common development sessions.
+The objective is to have talks and demos like in the [1st Workshop on the development, maintenance, refactoring and search of large libraries of proofs](../wg4-meeting1) and, if time permits, some common development sessions.
 
 **Date:** 15-16 September 2025
 
-**Venue:** [Institut Pascal](https://www.institut-pascal.universite-paris-saclay.fr/), 530 Rue André Rivière, 91400 Orsay
+**Venue:** [Institut Pascal](https://www.institut-pascal.universite-paris-saclay.fr/), 530 Rue André Rivière, 91400 Orsay &nbsp;
+[[access]](access.md) &nbsp; [[hotels]](hotels.md) &nbsp; [[food options]](food.md)
 
-[Access](access.md) - [Hotels](hotels.md) - [Food options](food.md)
+**Organizers:** [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/), [Claudio Sacerdoti](http://www.cs.unibo.it/~sacerdot/)
 
-**Organizer:** [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/), [Claudio Sacerdoti](http://www.cs.unibo.it/~sacerdot/)
-
-**Registration/funding requests:** fill in this form [form](https://forms.gle/JWH48nfBay9uCjhPA)
+**Registration/funding requests:** fill in this [form](https://forms.gle/JWH48nfBay9uCjhPA)
 
 **Important dates:**
 - May 25: deadline for [funding requests](https://forms.gle/JWH48nfBay9uCjhPA) and talk proposals
 - June 1st: notification
 
-**Talk proposals:** If you want to give a talk, send a mail to [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/) with a title and abstract
+**Talk proposals:** If you want to give a talk or make a tool demo, send a mail to [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/) with a title and abstract before May 25.
 
 **Previous workshops:**
 - [1st Workshop on the development, maintenance, refactoring and search of large libraries of proofs](../wg4-meeting1), Tbilisi, Georgia, 23-24 September 2022
