@@ -10,13 +10,13 @@ breadcrumbs: true
 
 This will be the final meeting of the WG3 meeting. It will part of the [Final EuroProofNet Symposium](https://europroofnet.github.io/Symposium/).
 
-**Date:** 17-19 Septermber 2025
+**Date:** 17-19 September 2025
 
-**Venue:**  [Institut Pascal](https://www.institut-pascal.universite-paris-saclay.fr/), 530 Rue André Rivière, 91400 Orsay. See the overall [Symposium page](https://europroofnet.github.io/Symposium/) for hotel and food options.
+**Venue:**  [Institut Pascal](https://www.institut-pascal.universite-paris-saclay.fr/), 530 Rue André Rivière, 91400 Orsay. See the [Symposium page](https://europroofnet.github.io/Symposium/) for hotel and food options.
 
-**How to get there**: [See here](_pages/symposium/access.md).
+**How to get there**: See [here](_pages/symposium/access.md).
 
-**Reimbursement:** EuroProofNet is able to reimburse a few people. We expect the deadline for the registration to be around Mid-May.
+**Reimbursement:** EuroProofNet can reimburse a few people. The deadline for [funding requests](https://forms.gle/JWH48nfBay9uCjhPA) is May 25.
 
 <!--
 **Output**
@@ -27,7 +27,7 @@ This will be the final meeting of the WG3 meeting. It will part of the [Final Eu
 **Program:** see [here](https://europroofnet.github.io/wg3-orsay24-program/) 
 -->
 
-**Meeting program:** 
+**Program:**
 
 This WG3 meeting will consist of a three-day meeting allowing members of the software formal verification community to share their work on the objectives and deliverables of WG3. More specifically, we aim to
 
@@ -38,7 +38,7 @@ This WG3 meeting will consist of a three-day meeting allowing members of the sof
 
 The program will be composed of talks and discussion sessions on these topics, taking advantage of the participation of experts on verification and proof systems.
 
-**Meeting objectives:** 
+**Objectives:**
 
 The meeting aims to:
 
