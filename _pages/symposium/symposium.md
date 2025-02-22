@@ -46,9 +46,9 @@ Week 2:
 | Mo15 | Tu16 | We17 | Th18 | Fr19 |
 | [WG4](../WG4_Orsay25) | [WG4](../WG4_Orsay25) |      |      |      |
 | [MCLP](../MCLP) | [MCLP](../MCLP) | [MCLP](../MCLP) | [MCLP](../MCLP) |      |
-|      |      | WG3  | WG3  | WG3  |
-|      |      |      |      | MC   |
-| (*)  |      | (*)  |      | MC   |
+|      |      | [WG3](../wg3-Sept2025) | [WG3](../wg3-Sept2025) | [WG3](../wg3-Sept2025)  |
+|      |      |      |      | [MC](../mc-meetings) |
+| (*)  |      | (*)  |      |    |
 
 (*) 17:30-18:30: happy hour
 
