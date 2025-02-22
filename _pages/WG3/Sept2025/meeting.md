@@ -6,18 +6,19 @@ author_profile: true
 breadcrumbs: true
 ---
 
-(Page under construction)
-
-This will be the final meeting of the WG3 meeting. It will part of the [Final EuroProofNet Symposium](https://europroofnet.github.io/Symposium/).
+This will be the final meeting of the WG3. It is part of the [Final EuroProofNet Symposium](https://europroofnet.github.io/Symposium/).
 
 **Date:** 17-19 September 2025
 
-**Venue:**  [Institut Pascal](https://www.institut-pascal.universite-paris-saclay.fr/), 530 Rue André Rivière, 91400 Orsay
-[Access](access.md)
-[Hotels](hotels.md)
-[Food options](food.md)
+**Venue:**  [Institut Pascal](https://www.institut-pascal.universite-paris-saclay.fr/), 530 Rue André Rivière, 91400 Orsay [[access]](access.md) [[hotels]](hotels.md) [[food options]](food.md)
 
-**Reimbursement:** EuroProofNet can reimburse a few people. The deadline for [funding requests](https://forms.gle/JWH48nfBay9uCjhPA) is May 25.
+**Organizers:** [Adrián Riesco](https://maude.sip.ucm.es/~adrian/), [Alicia Villanueva](https://personales.upv.es/alvilga1/), [Burkhart Wolff](https://www.lri.fr/~wolff/)
+
+**Registration/funding requests:** fill in this [form](https://forms.gle/JWH48nfBay9uCjhPA)
+
+**Important dates:**
+- May 25: deadline for [funding requests](https://forms.gle/JWH48nfBay9uCjhPA)
+- June 1st: notification
 
 <!--
 **Output**
@@ -50,16 +51,6 @@ The meeting aims to:
   * foster collaborations and build synergies among participants to ease the path to more fruitful results beyond the end of the Action.
 
 
-
-**Important dates:**
- * TBA
-
-
-
-**Application procedure:** 
-
-TBA
-
 <!-- In all cases, please [fill the same form](https://docs.google.com/forms/d/1TeOnw5RDcjfXmrayhQ6qBkYx4tqfooBW9Bmeqku1ltc).
   * **Case 1**: _You have a cool talk proposal_: please fill out the _optional_ fields of title, duration, and abstract.
   * **Case 2**: _You would like to apply for funding_: check the [eligibility rules](https://europroofnet.github.io/eligibility/) and please fill out all the _optional_ fields on second page of Google form. If you are not yet a member of EuroProofNet, please join it. If you are unsure of working group, please select WG3 because the event is being organized by WG3.
@@ -74,9 +65,3 @@ TBA
  * Membership of at least one WG of EPN is mandatory for reimbursement. Please [join here](https://e-services.cost.eu/action/CA20111/working-groups/apply) if you are not already a member.
  * Please note that any transport <100 km is not reimbursed as they are included in the daily allowance. Please check the [reimbursement rules](https://europroofnet.github.io/reimbursement-rules/) carefully so that there is no bad surprise after the meeting. The daily allowance (covering accommodation, local transport and meals) is fixed at 130 Euros.
 -->
-
-**Organization:**
-
-* [Adrián Riesco](https://maude.sip.ucm.es/~adrian/)
-* [Alicia Villanueva](https://personales.upv.es/alvilga1/)
-* [Burkhart Wolff](https://www.lri.fr/~wolff/)
