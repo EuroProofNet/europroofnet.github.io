@@ -10,7 +10,7 @@ breadcrumbs: true
 
 **Date:** 8-19 September 2025
 
-**Venue:** [Institut Pascal](https://www.institut-pascal.universite-paris-saclay.fr/), 530 Rue André Rivière, 91400 Orsay &nbsp; [[hotels]](hotels.md) &nbsp; [[food options]](food.md)
+**Venue:** [Institut Pascal](https://www.institut-pascal.universite-paris-saclay.fr/), 530 Rue André Rivière, 91400 Orsay [[access]](access.md) [[hotels]](hotels.md) [[food options]](food.md)
 
 **Registration/funding requests:** fill in this [form](https://forms.gle/JWH48nfBay9uCjhPA)
 
