@@ -1,5 +1,5 @@
 ---
-title: "1st International School on Logical Frameworks and Proof Systems Interoperability"
+title: "1st International School on Logical Frameworks and Proof Systems Interoperability (LFPSI)"
 layout: single
 permalink: /LFPSI25/
 author_profile: true
@@ -13,15 +13,14 @@ This school is part of the [EuroProofNet Symposium](../Symposium). See the sympo
 **Date:** 8-11 September 2025
 
 **Venue:** [Institut Pascal](https://www.institut-pascal.universite-paris-saclay.fr/), 530 Rue André Rivière, 91400 Orsay
-[Access](access.md)
-[Hotels](hotels.md)
-[Food options](food.md)
 
-**Registration/funding requests:** [form](https://forms.gle/JWH48nfBay9uCjhPA)
+[Access](access.md) - [Hotels](hotels.md) - [Food options](food.md)
+
+**Registration/funding requests:** fill in this [form](https://forms.gle/JWH48nfBay9uCjhPA)
 
 **Important dates:**
 - May 25: deadline for [funding requests](https://forms.gle/JWH48nfBay9uCjhPA) and talk proposals
-- June 1st: funding requests notification
+- June 1st: notification
 
 **Lectures:**
 
