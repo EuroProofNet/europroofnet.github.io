@@ -7,6 +7,12 @@ author_profile: true
 
 To contribute to the web site, please open an [issue](https://github.com/EuroProofNet/europroofnet.github.io/issues), create a [pull request](https://github.com/EuroProofNet/europroofnet.github.io) or send a mail to the [science communication coordinators](../contact).
 
+**2026**
+
+- 11-17 January 2026: [53rd ACM SIGPLAN Symposium on Principles of Programming Languages](https://popl26.sigplan.org/) (POPL'26), Rennes, France
+
+- 13-29 July 2026: [Federated Logic Conference](https://www.floc26.org/) (FLOC'26), Lisbon, Portugal
+
 **2025**
 
 - 6-11 October 2025: [18th Conference on Intelligent Computer Mathematics](https://cicm-conference.org/2025/) (CICM'25), Brasília, Brazil
