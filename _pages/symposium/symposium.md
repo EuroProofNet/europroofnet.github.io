@@ -8,8 +8,6 @@ breadcrumbs: true
 
 <img src="/_pages/symposium/ipa11.jpg"/>
 
-(page under construction)
-
 **Date:** 8-19 September 2025
 
 **Venue:** [Institut Pascal](https://www.institut-pascal.universite-paris-saclay.fr/), 530 Rue André Rivière, 91400 Orsay
@@ -18,9 +16,18 @@ breadcrumbs: true
 - [Hotels](hotels.md)
 - [Food options](food.md)
 
+**Registration/funding requests:**
+
+- [Registration/funding requests form](https://forms.gle/JWH48nfBay9uCjhPA)
+
+**Important dates:**
+
+- May 25: [funding requests](https://forms.gle/JWH48nfBay9uCjhPA) deadline
+- June 1st: funding requests notification
+
 **Events:**
 
-* LFPSI: [1st International School on Logical Frameworks and Proof Systems Interoperability](../LFPSI24)
+* [LFPSI: 1st International School on Logical Frameworks and Proof Systems Interoperability](../LFPSI24)
 
 * [WG2: Workshop on Automated Reasoning and Proof Logging](../wg2-symposium)
 
