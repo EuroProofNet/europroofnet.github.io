@@ -6,12 +6,18 @@ author_profile: true
 breadcrumbs: true
 ---
 
-MCLP is part of the [EuroProofNet Symposium](../Symposium). See the symposium page to get information on the other co-located events, the venue, hotels and food options.
+(Page under development.)
 
-**Organizer:** Roussanka Loukanova
+This conference is part of the [EuroProofNet Symposium](../Symposium). See the symposium page to get information on the other co-located events.
 
 **Date:** 15-18 September 2025
 
-**Venue:** [Institut Pascal](https://www.institut-pascal.universite-paris-saclay.fr/), 530 Rue André Rivière, 91400 Orsay
+**Venue:** [Institut Pascal](https://www.institut-pascal.universite-paris-saclay.fr/), 530 Rue André Rivière, 91400 Orsay &nbsp; [[access]](access.md) &nbsp; [[hotels]](hotels.md) &nbsp; [[food options]](food.md)
 
-Page under development.
+**Organizer:** Roussanka Loukanova
+
+**Registration/funding requests:** fill in this [form](https://forms.gle/JWH48nfBay9uCjhPA)
+
+**Important dates:**
+- May 25: deadline for [funding requests](https://forms.gle/JWH48nfBay9uCjhPA)
+- June 1st: notification
