@@ -22,15 +22,15 @@ breadcrumbs: true
 
 * LFPSI: [1st International School on Logical Frameworks and Proof Systems Interoperability](../LFPSI24)
 
-* [WG2: Workshop on Automated Theorem Proving and Proof Logging](../wg2-symposium)
+* [WG2: Workshop on Automated Reasoning and Proof Logging](../wg2-symposium)
 
-* WG4: Workshop on Large Proof Libraries
+* [WG4: Workshop on Proof Libraries](../WG4_Orsay25)
 
 * [MCLP: Conference on Mathematical and Computational Linguistics for Proofs](../MCLP)
 
-* WG3: Workshop on Program Verification
+* [WG3: Workshop on Program Verification](../wg3-Sept2025)
 
-* MC: Report on EuroProofNet results
+* [MC: Report on EuroProofNet results](../mc-meetings)
 
 **Schedule:**
 
