@@ -50,6 +50,12 @@ These options will be available at the time of registration.
 
 [Postgraduate Centre Heriot-Watt](https://maps.app.goo.gl/vBKoBeCjZBNVnqeb9), Heriot-Watt University, Edinburgh, EH14 4AL, UK. More information about the campus from [Heriot-Watt](https://www.hw.ac.uk/uk/edinburgh/maps-directions.htm).
 
+## UK Electronic Travel Authorisation
+The UK has introduced an Electronic Travel Authorisation system.
+You may need one to enter the UK.
+From 2nd April, European visitors will also need an ETA.
+They can [apply](https://www.gov.uk/guidance/apply-for-an-electronic-travel-authorisation-eta) from the 5th March.
+
 # Publication plans
 The chairs are investigating the possibility of organising a special journal issue dedicated to the topics of this workshop, at the J. of Annals of Mathematics and AI. Further details will be discussed at the time of the workshop.
 
