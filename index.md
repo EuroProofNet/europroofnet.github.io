@@ -57,7 +57,7 @@ corner).
     - 11-13 September 2025: [WG2 meeting on proof-logging](../wg2-symposium)
     - 15-16 September 2025: [WG4 meeting on the development of large proof libraries](../WG4_Orsay25)
     - 15-18 September 2025: [Conference on Mathematical and Computational Linguistics for Proofs](../MCLP)
-    - 17-19 September 2025: WG3 meeting on program verification
+    - 17-19 September 2025: [WG3 meeting on program verification](../wg3-Sept2025)
     - 19 September 2025 at 14:00 (Paris time): final Management Committee meeting
 
 [Past events](../events)

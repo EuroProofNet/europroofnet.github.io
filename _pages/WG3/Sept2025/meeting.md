@@ -50,6 +50,10 @@ The meeting aims to:
   * transfer knowledge in terms of expertise and scientific tools across the different disciplines and between academia and industry, and
   * foster collaborations and build synergies among participants to ease the path to more fruitful results beyond the end of the Action.
 
+**Talk proposals:**
+ 
+ If you want to give a talk or make a tool demo, please use the [submission form](https://forms.office.com/e/xd4DT6XFpy). The deadline for talk proposals is **May 25**. 
+ Contact the organizers if you have any question regarding the submission process.
 
 <!-- In all cases, please [fill the same form](https://docs.google.com/forms/d/1TeOnw5RDcjfXmrayhQ6qBkYx4tqfooBW9Bmeqku1ltc).
   * **Case 1**: _You have a cool talk proposal_: please fill out the _optional_ fields of title, duration, and abstract.
