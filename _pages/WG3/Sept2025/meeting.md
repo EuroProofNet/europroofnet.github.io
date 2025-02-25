@@ -14,22 +14,7 @@ This will be the final meeting of the WG3. It is part of the [Final EuroProofNet
 
 **Organizers:** [Adrián Riesco](https://maude.sip.ucm.es/~adrian/), [Alicia Villanueva](https://personales.upv.es/alvilga1/), [Burkhart Wolff](https://www.lri.fr/~wolff/)
 
-**Registration/funding requests:** fill in this [form](https://forms.gle/JWH48nfBay9uCjhPA)
-
-**Important dates:**
-- May 25: deadline for [funding requests](https://forms.gle/JWH48nfBay9uCjhPA)
-- June 1st: notification
-
-<!--
-**Output**
-
-* Final [Report](./Report_WG3meetingOrsay.pdf).
-* Some presentations and video recordings have been addded to the [program page](https://europroofnet.github.io/wg3-orsay25-program/).
-
-**Program:** see [here](https://europroofnet.github.io/wg3-orsay24-program/) 
--->
-
-**Program:**
+**Meeting description:**
 
 This WG3 meeting will consist of a three-day meeting allowing members of the software formal verification community to share their work on the objectives and deliverables of WG3. More specifically, we aim to
 
@@ -40,9 +25,34 @@ This WG3 meeting will consist of a three-day meeting allowing members of the sof
 
 The program will be composed of talks and discussion sessions on these topics, taking advantage of the participation of experts on verification and proof systems.
 
-**Objectives:**
 
-The meeting aims to:
+**Important dates:**
+- May 25: deadline for [funding requests](https://forms.gle/JWH48nfBay9uCjhPA)
+- June 1st: notification
+
+
+**Talk proposals:**
+ 
+ If you want to give a talk or make a tool demo, please use the [submission form](https://forms.office.com/e/xd4DT6XFpy). The deadline for talk proposals is **May 25**. 
+ Contact the organizers if you have any question regarding the submission process.
+
+ **Registration/funding requests:** fill in this [form](https://forms.gle/JWH48nfBay9uCjhPA)
+
+
+
+<!--
+**Output**
+
+* Final [Report](./Report_WG3meetingOrsay.pdf).
+* Some presentations and video recordings have been addded to the [program page](https://europroofnet.github.io/wg3-orsay25-program/).
+
+**Program:** see [here](https://europroofnet.github.io/wg3-orsay24-program/) 
+-->
+
+
+**Meeting Objectives:**
+
+<!--The meeting aims to:-->
 
   * bring together members of the different communities, 
   * identify and share verification challenges with recipes,

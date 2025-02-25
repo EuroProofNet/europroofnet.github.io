@@ -12,7 +12,11 @@ This will be the final meeting of the WG2. It is part of the [Final EuroProofNet
 
 **Venue:**  [Institut Pascal](https://www.institut-pascal.universite-paris-saclay.fr/), 530 Rue André Rivière, 91400 Orsay [[access]](access.md) [[hotels]](hotels.md) [[food options]](food.md)
 
+**Organizers** [Mathias Fleury](https://cca.informatik.uni-freiburg.de/fleury/) and [Sophie Tourret](https://members.loria.fr/sophie.tourret/)
+
 **Registration/funding requests:** fill in this [form](https://forms.gle/JWH48nfBay9uCjhPA)
+
+**Talks** If you want to give a talk, please send an email to [Mathias Fleury](https://cca.informatik.uni-freiburg.de/fleury/)
 
 **Important dates:**
 - May 25: deadline for [funding requests](https://forms.gle/JWH48nfBay9uCjhPA)
