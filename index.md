@@ -40,7 +40,7 @@ corner).
 
 - 17-18 April 2025: [WG6 meeting](../wg6-genoa/), co-located with the [2025 Workshop on Homotopy Type Theory / Univalent Foundations](https://hott-uf.github.io/2025/) (HoTT/UF), Genoa, Italy
 
-- 3-5 June 2025: WG2 meeting on ATPs for geometry, Krakow, Poland
+- 3-5 June 2025: [WG2 meeting on ATPs for geometry](../wg2-geo25), Krakow, Poland
 
 - 5-6 June 2025: [Workshop on Reasoning with Quantitative Types](https://europroofnet.github.io/WRQT2025/), Porto, Portugal
 
