@@ -30,7 +30,7 @@ This school is part of the [EuroProofNet Symposium](../Symposium). See the sympo
 </tr>
 
 <tr>
-<td><a href="https://www.andrej.com/"><img src="/_pages/schools/LFPSI25/andrej.jpg"/></a></td>
+<td><a href="https://www.andrej.com/"><img src="/_pages/schools/LFPSI25/andrej.jpg" style="height:75%;"/></a></td>
 <td>Andrej Bauer: Programming language techniques to implement proof-assistants</td>
 </tr>
 
