@@ -22,13 +22,31 @@ This school is part of the [EuroProofNet Symposium](../Symposium). See the sympo
 
 **Programme:**
 
-* [Ambrus Kaposi](https://akaposi.github.io/): [second-order generalized algebraic theories](../LFPSI25-Ambrus)
+<table>
+<tr>
+<td><a href="https://akaposi.github.io/"><img src="/_pages/schools/LFPSI25/ambrus.jpg"/></a>
+<td>Ambrus Kaposi
 
-* [Andrej Bauer](https://www.andrej.com/): programming language techniques to implement proof-assistants
+[second-order generalized algebraic theories](../LFPSI25-Ambrus)
 
-* [Florian Rabe](https://kwarc.info/people/frabe/): [Modular Logic Design](../LFPSI25-Florian)
+<tr>
+<td><a href="https://www.andrej.com/"><img src="http://fpsac2019.fmf.uni-lj.si/img/invited_speakers/bauer.jpg"/></a>
+<td>Andrej Bauer
 
-* [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/): [λΠ-calculus modulo rewriting: theory and application to proof systems interoperability](../LFPSI25-Frédéric)
+programming language techniques to implement proof-assistants
+
+<tr>
+<td><img src="https://kwarc.info/people/frabe/florian_rabe_small.jpg">
+<td>Florian Rabe
+
+[Modular Logic Design](../LFPSI25-Florian)
+
+<tr>
+<td><a href="https://blanqui.gitlabpages.inria.fr/"><img src="https://blanqui.gitlabpages.inria.fr/img/photo.jpg"></a>
+<td>Frédéric Blanqui
+
+[λΠ-calculus modulo rewriting: theory and application to proof systems interoperability](../LFPSI25-Frédéric)
+</table>
 
 **Schedule:**
 
