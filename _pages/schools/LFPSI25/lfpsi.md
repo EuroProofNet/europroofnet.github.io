@@ -26,7 +26,7 @@ This school is part of the [EuroProofNet Symposium](../Symposium). See the sympo
 
 * [Andrej Bauer](https://www.andrej.com/): programming language techniques to implement proof-assistants
 
-* [Florian Rabe](https://kwarc.info/people/frabe/): modular logic formalization in MMT/LF
+* [Florian Rabe](https://kwarc.info/people/frabe/): [Modular Logic Design](../LFPSI25-Florian)
 
 * [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/): [λΠ-calculus modulo rewriting: theory and application to proof systems interoperability](../LFPSI25-Frédéric)
 
