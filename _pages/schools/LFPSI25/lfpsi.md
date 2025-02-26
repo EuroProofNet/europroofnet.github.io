@@ -28,7 +28,7 @@ This school is part of the [EuroProofNet Symposium](../Symposium). See the sympo
 
 * [Florian Rabe](https://kwarc.info/people/frabe/): modular logic formalization in MMT/LF
 
-* [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/): [λΠ-calculus modulo rewriting: theory and applications](../LFPSI25-Frédéric)
+* [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/): [λΠ-calculus modulo rewriting: theory and application to proof systems interoperability](../LFPSI25-Frédéric)
 
 **Schedule:**
 
