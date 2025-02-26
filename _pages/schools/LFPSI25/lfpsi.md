@@ -20,7 +20,7 @@ This school is part of the [EuroProofNet Symposium](../Symposium). See the sympo
 - May 25: deadline for [funding requests](https://forms.gle/JWH48nfBay9uCjhPA)
 - June 1st: notification
 
-**Lecturers:**
+**Programme:**
 
 * [Ambrus Kaposi](https://akaposi.github.io/): [second-order generalized algebraic theories](../LFPSI25-Ambrus)
 
@@ -28,7 +28,7 @@ This school is part of the [EuroProofNet Symposium](../Symposium). See the sympo
 
 * [Florian Rabe](https://kwarc.info/people/frabe/): modular logic formalization in MMT/LF
 
-* [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/): proof systems interoperability
+* [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/): [λΠ-calculus modulo rewriting: theory and applications](../LFPSI25-Frédéric)
 
 **Schedule:**
 
@@ -51,7 +51,7 @@ We are very grateful to the following organizations for their support:
 
 <table>
 <tr>
-<td><img src="https://www.universite-paris-saclay.fr/sites/default/files/styles/2400xauto/public/2021-05/GS-informatique-h.png?itok=px6yldkB"/></td>
+<td><a href="https://www.universite-paris-saclay.fr/en/graduate-schools/graduate-school-computer-science"><img src="https://www.universite-paris-saclay.fr/sites/default/files/styles/2400xauto/public/2021-05/GS-informatique-h.png?itok=px6yldkB"/></a></td>
 <td><a href="https://www.universite-paris-saclay.fr/en/graduate-schools/graduate-school-computer-science">Graduate School of Computer Science</a> of the <a href="https://www.universite-paris-saclay.fr/en">Université Paris Saclay</a></td>
 </tr>
 </table>
