@@ -30,13 +30,13 @@ This school is part of the [EuroProofNet Symposium](../Symposium). See the sympo
 </tr>
 
 <tr>
-<td><a href="https://www.andrej.com/"><img src="http://fpsac2019.fmf.uni-lj.si/img/invited_speakers/bauer.jpg"/></a></td>
+<td><a href="https://www.andrej.com/"><img src="/_pages/schools/LFPSI25/andrej.jpg"/></a></td>
 <td>Andrej Bauer: Programming language techniques to implement proof-assistants</td>
 </tr>
 
 <tr>
 <td><a href="https://kwarc.info/people/frabe/"><img src="https://kwarc.info/people/frabe/florian_rabe_small.jpg"></a></td>
-<td>Florian Rabe: <a href="https://europroofnet.github.io/LFPSI25-Florian">Modular Logic Design</a></td>
+<td>Florian Rabe: <a href="https://europroofnet.github.io/LFPSI25-Florian">Modular logic design</a></td>
 </tr>
 
 <tr>
@@ -59,7 +59,7 @@ This school is part of the [EuroProofNet Symposium](../Symposium). See the sympo
 | 16:00-17:30 | FR    | FB    | AB    | AK    |
 | 17:30-18:30 | (*)   |       |       | (*)   |
 
-(*) happy hour
+<h6>(*) happy hour</h6>
 
 **Sponsors:**
 
