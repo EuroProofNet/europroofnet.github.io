@@ -52,7 +52,6 @@ We are very grateful to the following organizations for their support:
 <table>
 <tr>
 <td><img src="https://www.universite-paris-saclay.fr/sites/default/files/styles/2400xauto/public/2021-05/GS-informatique-h.png?itok=px6yldkB"/></td>
-<td>[Graduate School of Computer Science](https://www.universite-paris-saclay.fr/en/graduate-schools/graduate-school-computer-science) of the [Université Paris Saclay](https://www.universite-paris-saclay.fr/en)</td>
+<td><a href="https://www.universite-paris-saclay.fr/en/graduate-schools/graduate-school-computer-science">Graduate School of Computer Science</a> of the <a href="https://www.universite-paris-saclay.fr/en">Université Paris Saclay</a></td>
 </tr>
 </table>
-
