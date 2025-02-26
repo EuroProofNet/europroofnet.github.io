@@ -1,5 +1,5 @@
 ---
-title: "1st International School on Logical Frameworks and Proof Systems Interoperability (LFPSI)"
+title: "International School on Logical Frameworks and Proof Systems Interoperability (LFPSI)"
 layout: single
 permalink: /LFPSI25/
 author_profile: true
@@ -23,29 +23,27 @@ This school is part of the [EuroProofNet Symposium](../Symposium). See the sympo
 **Programme:**
 
 <table>
-<tr>
-<td><a href="https://akaposi.github.io/"><img src="/_pages/schools/LFPSI25/ambrus.jpg"/></a>
-<td>Ambrus Kaposi
-
-[second-order generalized algebraic theories](../LFPSI25-Ambrus)
 
 <tr>
-<td><a href="https://www.andrej.com/"><img src="http://fpsac2019.fmf.uni-lj.si/img/invited_speakers/bauer.jpg"/></a>
-<td>Andrej Bauer
-
-programming language techniques to implement proof-assistants
-
-<tr>
-<td><img src="https://kwarc.info/people/frabe/florian_rabe_small.jpg">
-<td>Florian Rabe
-
-[Modular Logic Design](../LFPSI25-Florian)
+<td><a href="https://akaposi.github.io/"><img src="/_pages/schools/LFPSI25/ambrus.jpg"/></a></td>
+<td>[second-order generalized algebraic theories](../LFPSI25-Ambrus), Ambrus Kaposi</td>
+</tr>
 
 <tr>
-<td><a href="https://blanqui.gitlabpages.inria.fr/"><img src="https://blanqui.gitlabpages.inria.fr/img/photo.jpg"></a>
-<td>Frédéric Blanqui
+<td><a href="https://www.andrej.com/"><img src="http://fpsac2019.fmf.uni-lj.si/img/invited_speakers/bauer.jpg"/></a></td>
+<td>Programming language techniques to implement proof-assistants, Andrej Bauer</td>
+</tr>
 
-[λΠ-calculus modulo rewriting: theory and application to proof systems interoperability](../LFPSI25-Frédéric)
+<tr>
+<td><img src="https://kwarc.info/people/frabe/florian_rabe_small.jpg"></td>
+<td>[Modular Logic Design](../LFPSI25-Florian), Florian Rabe</td>
+</tr>
+
+<tr>
+<td><a href="https://blanqui.gitlabpages.inria.fr/"><img src="https://blanqui.gitlabpages.inria.fr/img/photo.jpg"></a></td>
+<td>[λΠ-calculus modulo rewriting: theory and application to proof systems interoperability](../LFPSI25-Frédéric), Frédéric Blanqui</td>
+</tr>
+
 </table>
 
 **Schedule:**
