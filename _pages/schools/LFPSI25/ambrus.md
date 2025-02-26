@@ -1,12 +1,12 @@
 ---
-title: "LFPSI'25: Second-Order Generalized Algebraic Theories"
+title: "LFPSI'25 lecture: Second-Order Generalized Algebraic Theories"
 layout: single
 permalink: /LFPSI25-Ambrus/
 author_profile: true
 breadcrumbs: true
 ---
 
-As part of the [International School on Logical Frameworks and Proof Systems Interoperability](../LFPSI25) (LFPSI'25).
+In the [International School on Logical Frameworks and Proof Systems Interoperability](../LFPSI25).
 
 **Lecturer:** [Ambrus Kaposi](https://akaposi.github.io/)
 
