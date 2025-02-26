@@ -57,16 +57,16 @@ a language is its initial model, in which there are only well-typed
 automatically a congruence with respect to conversion and every
 operation is stable under substitution. Planned schedule:
 
-    1. Examples of languages as SOGATs and programming in a language. We
-    will cover some of the following: Simply typed lambda calculus, PCF,
-    first-order logic, System F, the lambda cube, call by value lambda
-    calculus, Martin-Löf type theory, the language of SOGAT signatures.
-    2. What is a model of a SOGAT? Translation from SOGATs to GATs through
-    examples. Notion of syntax.
-    3. Proofs about closed syntactic terms (such as canonicity) staying at
-    the SOGAT level of abstraction.
-    4. Proofs about open syntactic terms (such as normalisation) staying
-    at the SOGAT level of abstraction.
+  1. Examples of languages as SOGATs and programming in a language. We
+  will cover some of the following: Simply typed lambda calculus, PCF,
+  first-order logic, System F, the lambda cube, call by value lambda
+  calculus, Martin-Löf type theory, the language of SOGAT signatures.
+  2. What is a model of a SOGAT? Translation from SOGATs to GATs through
+  examples. Notion of syntax.
+  3. Proofs about closed syntactic terms (such as canonicity) staying at
+  the SOGAT level of abstraction.
+  4. Proofs about open syntactic terms (such as normalisation) staying
+  at the SOGAT level of abstraction.
 
 Related ideas are higher-order abstract syntax, logical frameworks,
 two-level type theories, synthethic Tait computability. We will rely on
@@ -76,11 +76,9 @@ theory, the third lecture will introduce presheaf models of type theory
 gently. We plan to have exercise sessions as well. We will rely directly
 on two papers, but we won't assume the knowledge of these from the
 participants:
-
-    - Ambrus Kaposi, Szumi Xie: [Second-Order Generalised Algebraic Theories:
+  - Ambrus Kaposi, Szumi Xie: [Second-Order Generalised Algebraic Theories:
     Signatures and First-Order Semantics](https://doi.org/10.4230/LIPIcs.FSCD.2024.10). FSCD 2024:10:1-10:24.
-
-    - Rafaël Bocquet, Ambrus Kaposi, Christian Sattler: [For the Metatheory of
+  - Rafaël Bocquet, Ambrus Kaposi, Christian Sattler: [For the Metatheory of
     Type Theory, Internal Sconing Is Enough](https://doi.org/10.4230/LIPIcs.FSCD.2023.18). FSCD 2023:18:1-18:23.
 
 * [Andrej Bauer](https://www.andrej.com/): programming language techniques to implement proof-assistants
