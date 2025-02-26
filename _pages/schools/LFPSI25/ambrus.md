@@ -8,6 +8,8 @@ breadcrumbs: true
 
 In the [International School on Logical Frameworks and Proof Systems Interoperability](../LFPSI25).
 
+<img src="ambrus.jpg"/>
+
 **Lecturer:** [Ambrus Kaposi](https://akaposi.github.io/)
 
 In this lecture series, we will study non-substructural programming
