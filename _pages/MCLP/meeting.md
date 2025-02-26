@@ -6,7 +6,6 @@ author_profile: true
 breadcrumbs: true
 ---
 
-(Page under development.)
 
 This conference is part of the [EuroProofNet Symposium](../Symposium). See the symposium page to get information on the other co-located events.
 
@@ -14,15 +13,31 @@ This conference is part of the [EuroProofNet Symposium](../Symposium). See the s
 
 **Venue:** [Institut Pascal](https://www.institut-pascal.universite-paris-saclay.fr/), 530 Rue André Rivière, 91400 Orsay [[access]](access.md) [[hotels]](hotels.md) [[food options]](food.md)
 
-**Organizer:** Roussanka Loukanova
+**Organizer:** Roussanka Loukanova (rloukanova@gmail.com)
+
+Registration is required for participation and, in addition, for funding requests.
 
 **Registration/funding requests:** fill in this [form](https://forms.gle/JWH48nfBay9uCjhPA)
 
 **Important dates:**
-- May 25: deadline for [funding requests](https://forms.gle/JWH48nfBay9uCjhPA)
+- May 25: deadline for (free of registration fees) and funding requests [funding requests](https://forms.gle/JWH48nfBay9uCjhPA)
 - June 1st: notification
 
 **Invited Speakers:** To Be Announced
+
+To give a talk, the submission Web page for proposed titles and abstracts for MCLP 2025, is EasyChair of MCLP 2025:
+
+[Submission:] (https://easychair.org/conferences?conf=mclp2025)
+
+**Deadline:** May 25
+
+Please use LaTeX with Springer LNCS package or Microsoft Proceedings Word Templates.
+
+The abstract should be short, about 1/2 page, and in addition, as many references as you reasonably need. You will have the possibility to update it around the time of the MCLP.
+
+I shall arrange publications in two stages:
+(1) by Institut Pascal, proceedings of talks and presentations
+(2) post conference special volume of extended papers
 
 **DESCRIPTION:**
 Mathematical and computational linguistics for proofs. Mathematical linguistics (MathLing) is an interdisciplinary area providing theoretical foundations of computer science, as well as syntax and semantics of formal and natural languages of mathematical logic in theorem provers and proof assistants, model checkers, verification of programs, software and hardware.
