@@ -44,3 +44,15 @@ This school is part of the [EuroProofNet Symposium](../Symposium). See the sympo
 | 17:30-18:30 | (*)   |       |       | (*)   |
 
 (*) happy hour
+
+**Sponsors:**
+
+We are very grateful to the following organizations for their support:
+
+<table>
+<tr>
+<td><img src="https://www.universite-paris-saclay.fr/sites/default/files/styles/2400xauto/public/2021-05/GS-informatique-h.png?itok=px6yldkB"/></td>
+<td>[Graduate School of Computer Science](https://www.universite-paris-saclay.fr/en/graduate-schools/graduate-school-computer-science) of the [Université Paris Saclay](https://www.universite-paris-saclay.fr/en)</td>
+</tr>
+</table>
+
