@@ -15,6 +15,8 @@ Villa Giustiniani-Cambiaso,
 Scuola Politecnica, Università di Genova  
 via Montallegro 1, Genova 16145  
 
+⚠️⚠️ Please beware of accommodation-related scam emails targeting this specific event. ⚠️⚠️
+
 Co-located with the [HoTT/UF 2025 Workshop](https://hott-uf.github.io/2025/).  
 
 The aim of this meeting series is to bring together researchers working on the topics of [Working Group 6 of EuroProofNet](https://europroofnet.github.io/wg6/). The main focus is thus on the syntax and semantics of type theory.
