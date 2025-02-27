@@ -8,13 +8,17 @@ breadcrumbs: true
 
 **Organizer:**  [Pedro Quaresma](http://www.mat.uc.pt/~pedro/)
 
-**Local Organizer:**  [Anna Petiurenko]
+**Local Organizer:**  [Anna Petiurenko](https://www.researchgate.net/profile/Anna-Petiurenko)
 
 **Date:** 3-5 June 2025
 
+Remark: the official dates of the meeting taken into account for reimbursements are from 2 to 5 of May (3 days). However, since most people will arrive on the 1st and leave on the 6th, some planning for those days is foressen.
+
 **Venue:** [Institute of Mathematics, UKEN](https://matematyka-old.uken.krakow.pl/en/) Instytut Matematyki University of the National Education Commission, Krakow; 30-084 Kraków ul. 
 
-**How to get there?** T.B.A.Building a common database of theorems. The need for a common database of theorems for geometric automated theorem provers is felt for many years now. Efforts like the TGTP, Thousand of Geometric problems for geometric Theorem Provers and the different set of examples contained in the various GATP currently available, must be rethink, fused, remade or a new system should emerge. A common format for geometry, interGeo, was the output of a former COST action, but it didn't support geometric problems, only geometric constructions, and in any case is now defunct. Instead, we want to  define a signature on top of the (widely used) FOF (first-order-format) of TPTP, Thousands of Problems for Theorem Provers problem library, a second step a browsable library of problems must be specified, and then filters from/to the library and the GATPs must be built.
+**How to get there?** T.B.A.
+
+**Programme:** Building a common database of theorems. The need for a common database of theorems for geometric automated theorem provers is felt for many years now. Efforts like the TGTP, Thousand of Geometric problems for geometric Theorem Provers and the different set of examples contained in the various GATP currently available, must be rethink, fused, remade or a new system should emerge. A common format for geometry, interGeo, was the output of a former COST action, but it didn't support geometric problems, only geometric constructions, and in any case is now defunct. Instead, we want to  define a signature on top of the (widely used) FOF (first-order-format) of TPTP, Thousands of Problems for Theorem Provers problem library, a second step a browsable library of problems must be specified, and then filters from/to the library and the GATPs must be built.
 
 **Objectives/Deliverables:**
 
