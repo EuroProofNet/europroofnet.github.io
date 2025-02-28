@@ -39,7 +39,7 @@ The workshop features 27 contributions, a panel discussion and a poster session.
 A detailed schedule is available via [EasyChair](https://easychair.org/smart-program/EuroProofNet-WG5/).
 
 # Registration
-We are expecting a large number of participants, and therefore registration is **mandatory**. Registration is [online](https://www.epay.ed.ac.uk/conferences-and-events/college-of-science-and-engineering/school-of-informatics/informatics-events/workshop-on-theorem-proving-and-machine-learning-in-the-age-of-llms), and will close on the 12th March 2025 at 1600 UK time.
+We are expecting a large number of participants, and therefore registration is **mandatory**. Registration is [online](https://www.epay.ed.ac.uk/conferences-and-events/college-of-science-and-engineering/school-of-informatics/informatics-events/workshop-on-theorem-proving-and-machine-learning-in-the-age-of-llms), and will close on the 10th March 2025 at 1600 UK time.
 
 ## Workshop Dinner
 There is an optional workshop dinner at the [Surgeon's Hall](https://museum.rcsed.ac.uk/) at a cost of £63 per person.
@@ -49,6 +49,13 @@ These options will be available at the time of registration.
 # Location
 
 [Postgraduate Centre Heriot-Watt](https://maps.app.goo.gl/vBKoBeCjZBNVnqeb9), Heriot-Watt University, Edinburgh, EH14 4AL, UK. More information about the campus from [Heriot-Watt](https://www.hw.ac.uk/uk/edinburgh/maps-directions.htm).
+
+## Accommodation
+- The only hotel on the HWU campus is the [Marriott Courtyard Hotel](https://www.hw.ac.uk/visit-us/visitor-accommodation).
+- If booking accommodation in town, expect travel times of at least 25 minutes.
+
+## Dinner
+To get to Surgeon's Hall from Heriot-Watt University, the easiest possibility is to take the [45 or 35 bus](https://www.google.de/maps/dir/Heriot-Watt+University+Edinburgh+Campus,+Edinburgh/Surgeons'+Hall+Museums,+Surgeons+Hall+Museums,+Nicolson+St,+Edinburgh+EH8+9DW/@55.9245221,-3.293701,13z/data=!4m15!4m14!1m5!1m1!1s0x4887c46af06eff31:0xea463bd59d93b226!2m2!1d-3.320646!2d55.9095155!1m5!1m1!1s0x4887c784231b81f9:0xdd38e56f5febdafc!2m2!1d-3.1853423!2d55.946636!3e3!5i3?entry=ttu&g_ep=EgoyMDI1MDIxOS4xIKXMDSoJLDEwMjExNDU1SAFQAw%3D%3D).
 
 ## UK Electronic Travel Authorisation
 The UK has introduced an Electronic Travel Authorisation system.
