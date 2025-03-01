@@ -32,7 +32,7 @@ Week 1:
 
 | Mo8                 | Tu9                 | We10                | Th11                     | Fr12                     | Sa13                             | Su14   |
 | [LFPSI](../LFPSI25) | [LFPSI](../LFPSI25) | [LFPSI](../LFPSI25) | [LFPSI](../LFPSI25)      |                          |                                  |        |
-|                     |                     |                     | [WG2](../wg2-symposium/) | [WG2](../wg2-symposium/) | [WG2](../wg2-symposium/)/ WHOOPS | WHOOPS |
+|                     |                     |                     | [WG2](../wg2-symposium/) | [WG2](../wg2-symposium/) | [WG2/ WHOOPS](../wg2-symposium/) | [WHOOPS](../wg2-symposium/) |
 | (*)                 |                     |                     | (*)                      |                          |                                  |        |
 
 Week 2:
