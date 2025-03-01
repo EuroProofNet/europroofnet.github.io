@@ -17,10 +17,10 @@ This conference is part of the [EuroProofNet Symposium](../Symposium). See the s
 
 Registration is required for participation and, in addition, for funding requests.
 
-**Registration/funding requests:** fill in this [form](https://forms.gle/JWH48nfBay9uCjhPA)
+**Registration/funding requests:** fill in this [form](https://forms.gle/QLFzh3Ugv5WgkhZr7)
 
 **Important dates:**
-- May 25: deadline for (free of registration fees) and funding requests [funding requests](https://forms.gle/JWH48nfBay9uCjhPA)
+- May 25: deadline for (free of registration fees) and funding requests [funding requests](https://forms.gle/QLFzh3Ugv5WgkhZr7)
 - June 1st: notification
 
 **Invited Speakers:** To Be Announced

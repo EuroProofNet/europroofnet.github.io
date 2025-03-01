@@ -14,12 +14,12 @@ This will be the final meeting of the WG2 and the International Workshop on High
 
 **Organizers** [Mathias Fleury](https://cca.informatik.uni-freiburg.de/fleury/) and [Sophie Tourret](https://members.loria.fr/sophie.tourret/)
 
-**Registration/funding requests:** fill in this [form](https://forms.gle/JWH48nfBay9uCjhPA)
+**Registration/funding requests:** fill in this [form](https://forms.gle/QLFzh3Ugv5WgkhZr7)
 
 **Talks** If you want to give a talk, please send an email to [Mathias Fleury](https://cca.informatik.uni-freiburg.de/fleury/)
 
 **Important dates:**
-- May 25: deadline for [funding requests](https://forms.gle/JWH48nfBay9uCjhPA)
+- May 25: deadline for [funding requests](https://forms.gle/QLFzh3Ugv5WgkhZr7)
 - June 1st: notification
 
 **Objective:** The aim of this meeting series is to bring together researchers working on the topics of [working group 2 of EuroProofNet](https://europroofnet.github.io/wg2/). Our work focuses on two topics: Our first aim is to work and improve automated theorem provers. Our second aim is to make them correct by improving proof logging -- both in an attempt to produce short proofs but also to work on proof formats that support many features instead of having one format for each required feature. Proof logging is an important topic, as it makes it possible to check the work of a solver without trusting it. Our third aim is to translate proofs via the Dedukti proof system.

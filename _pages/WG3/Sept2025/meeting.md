@@ -27,7 +27,7 @@ The program will be composed of talks and discussion sessions on these topics, t
 
 
 **Important dates:**
-- May 25: deadline for [funding requests](https://forms.gle/JWH48nfBay9uCjhPA)
+- May 25: deadline for [funding requests](https://forms.gle/QLFzh3Ugv5WgkhZr7)
 - June 1st: notification
 
 
@@ -36,7 +36,7 @@ The program will be composed of talks and discussion sessions on these topics, t
  If you want to give a talk or make a tool demo, please use the [submission form](https://forms.office.com/e/xd4DT6XFpy). The deadline for talk proposals is **May 25**. 
  Contact the organizers if you have any question regarding the submission process.
 
- **Registration/funding requests:** fill in this [form](https://forms.gle/JWH48nfBay9uCjhPA)
+ **Registration/funding requests:** fill in this [form](https://forms.gle/QLFzh3Ugv5WgkhZr7)
 
 
 
