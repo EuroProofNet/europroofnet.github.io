@@ -14,8 +14,8 @@ The Workshop on Reasoning with Quantitative Types is a two day event, supported 
 - TBA
 
 ## Call for contributions
-* Abstract submission deadline: May 4, 2025
-* Author notification:  May 11, 2025
+* Abstract submission deadline: April 28, 2025
+* Author notification:  May 4, 2025
 
 The workshop is going to be an informal event and both original and previously submitted works will be considered.
 Contributed talks should be supported by an extended abstract of up to 2 pages, excluding references. Please use the EasyChair style for formatting your submission (EasyChair Style Guidelines).
@@ -37,7 +37,7 @@ The EuroProofNet COST action can provide funding for a limited amount of partici
 
 Funding application form: to appear.
 
-Note that it is possible to arrive a few days before and leave a few days after the workshop but a maximum of 2.4 daily allowances will be reimbursed.
+Note that it is possible to arrive a few days before and leave a few days after the workshop but a maximum of 3.4 daily allowances will be reimbursed.
 
 Please contact the organisers if you have any problem during the application for funding process, including reluctance to use google forms.
 
