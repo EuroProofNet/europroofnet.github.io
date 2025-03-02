@@ -26,22 +26,22 @@ This school is part of the [EuroProofNet Symposium](../Symposium). See the sympo
 
 <tr>
 <td><a href="https://akaposi.github.io/"><img src="/_pages/schools/LFPSI25/ambrus.jpg"/></a></td>
-<td>Ambrus Kaposi<br/><a href="https://europroofnet.github.io/LFPSI25-Ambrus">Second-order generalized algebraic theories</a></td>
+<td>Ambrus Kaposi<br/><a href="/LFPSI25-Ambrus/">Second-order generalized algebraic theories</a></td>
 </tr>
 
 <tr>
-<td><a href="https://www.andrej.com/"><img src="/_pages/schools/LFPSI25/andrej.jpg"/></a></td>
-<td>Andrej Bauer<br/>Programming language techniques to implement proof-assistants</td>
+<td style="width: 25%;"><a href="https://www.andrej.com/"><img src="/_pages/schools/LFPSI25/andrej.jpg"/></a></td>
+<td>Andrej Bauer<br/><a href="/LFPSI25-Andrej/">Programming language techniques for proof assistants</a></td>
 </tr>
 
 <tr>
 <td><a href="https://kwarc.info/people/frabe/"><img src="https://kwarc.info/people/frabe/florian_rabe_small.jpg"></a></td>
-<td>Florian Rabe<br/><a href="https://europroofnet.github.io/LFPSI25-Florian">Modular logic design</a></td>
+<td>Florian Rabe<br/><a href="/LFPSI25-Florian/">Modular logic design</a></td>
 </tr>
 
 <tr>
 <td><a href="https://blanqui.gitlabpages.inria.fr/"><img src="https://blanqui.gitlabpages.inria.fr/img/photo.jpg"></a></td>
-<td>Frédéric Blanqui<br/><a href="https://europroofnet.github.io/LFPSI25-Frédéric">λΠ-calculus modulo rewriting: theory and application to proof systems interoperability</a></td>
+<td>Frédéric Blanqui<br/><a href="/LFPSI25-Frédéric/">λΠ-calculus modulo rewriting: theory and application to proof systems interoperability</a></td>
 </tr>
 
 </table>
