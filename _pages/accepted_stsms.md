@@ -83,7 +83,7 @@ The grant amounts below are initial estimations and not necessarily the final am
   Grant: 600 EUR  
   Dates: 2025-02-23 to 2025-03-02
 
-* **Adding Extensionality to Lean** [application](/_pages/stsm/vaishnav-app.pdf)   
+* **Adding Extensionality to Lean** [application](/_pages/stsm/vaishnav-app25.pdf)   
   Visitor: Rishikesh Vaishnav   
   Host: Sebastian Ullrich   
   Grant: 1576 EUR  
