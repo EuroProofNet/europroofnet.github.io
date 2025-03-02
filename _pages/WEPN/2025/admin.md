@@ -12,9 +12,9 @@ breadcrumbs: true
 
 - [x] The organizer gives to the chair the exact address, and the starting and ending dates and times:
 
-    * [x] complete address: 
-    * [x] starting date and time: 
-    * [x] ending date and time: 
+    * [x] complete address: University of Strathclyde's Learning and Teaching Building. 16 Richmond Street, Glasgow G1 1XQ, Scotland
+    * [x] starting date and time: June 10, 2025 - 14h00
+    * [x] ending date and time: June 10, 2025 - 16h00
 
 - [] The organizer checks the prices of accommodations and restaurants around the place of the meeting at the dates of the meeting, and sends to the chair a proposal for the daily allowance.
 
