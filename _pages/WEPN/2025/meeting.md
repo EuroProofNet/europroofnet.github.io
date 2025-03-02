@@ -43,7 +43,7 @@ Details about application for funding will be published closer to the event. Bef
 
 Note that it is possible to arrive a few days before and leave a few days after the workshop but a maximum of 2.4 daily allowances will be reimbursed.
 
-Please contact [Sandra Alves](sandra@fc.up.pt) if you have any problem during the application for funding process, including reluctance to use google forms.
+Please contact the organisers if you have any problem during the application for funding process, including reluctance to use google forms.
 
 ### Program
 
