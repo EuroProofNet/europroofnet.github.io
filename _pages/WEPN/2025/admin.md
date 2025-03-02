@@ -1,5 +1,5 @@
 ---
-title: "Administration page for the WEPN25 meeting to be collocated with Formalization of Mathematics workshop in Bonn"
+title: "Administration page for the WEPN25 meeting to be collocated with TYPES 2025"
 layout: single
 permalink: /women-epn-2025-admin/
 author_profile: true
