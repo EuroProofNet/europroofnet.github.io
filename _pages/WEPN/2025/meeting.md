@@ -19,8 +19,11 @@ The talks will be followed by a discussion on gender balance issues, subconsciou
 TBA
 
 ## Call for contributions
-* Abstract submission deadline: TBA (May, 2025)
-* Author notification:  TBA (May, 2025)
+* Abstract submission deadline: April 25, 2025
+* Author notification: May 2, 2025
+* Funding application deadline: May 5, 2025
+* Early registration deadline: TBA
+* Event: June 10, 2025
 
 The contributed talks are meant as a platform to disseminate research done by women in the community. Only women (including transgender women) are invited to submit a contributed talk. Abstracts should be written in English and should not exceed 1-2 pages. Please use the EasyChair style for formatting your submission (EasyChair Style Guidelines). Additional details about the submission of contributed talks will be made available closer to the event.
 
