@@ -59,7 +59,7 @@ This school is part of the [EuroProofNet Symposium](../Symposium). See the sympo
 | 16:00-17:30 | FR    | FB    | AB    | AK    |
 | 17:30-18:30 | (*)   |       |       | (*)   |
 
-<h6>(*) happy hour</h6>
+(*) happy hour
 
 **Sponsors:**
 
