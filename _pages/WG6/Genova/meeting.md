@@ -30,8 +30,12 @@ The meeting will be in person with support for remote participation and is open 
 **Invited speakers**
 
 * [Francesco Gavazzo](https://sites.google.com/view/francescogavazzo/home) (Università di Padova)
-* [András Kovács](https://andraskovacs.github.io/) (Chalmers & Göteborgs universitet)
-* [Thomas Lamiaux](https://thomas-lamiaux.github.io/) (Nantes Université)
+* [András Kovács](https://andraskovacs.github.io/) (Chalmers & Göteborgs universitet)  
+*A generalized logical framework*
+<!--[A generalized logical framework](programme#akovacs)-->
+* [Thomas Lamiaux](https://thomas-lamiaux.github.io/) (Nantes Université)  
+*A unified Framework for Initial Semantics, and it is 2 functorial*
+<!--[A unified Framework for Initial Semantics, and it is 2 functorial](programme#tlamiaux)-->
 * [Paige Randall North](https://paigenorth.github.io/) (Universiteit Utrecht)
 
 
@@ -42,8 +46,8 @@ The meeting will be in person with support for remote participation and is open 
 * Funding request: Friday 7 March
 * Registration: Friday 28 March
 
-**Submission of talk proposals**:
-Please fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSe7yLhQDEdegdPDhP0IRlW2p-3KjvP3lT3CbvaEGgbfu9rVCw/viewform?usp=preview) to submit a proposal for a contributed talk.
+**Submission of talk proposals**: closed.
+<!--Please fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSe7yLhQDEdegdPDhP0IRlW2p-3KjvP3lT3CbvaEGgbfu9rVCw/viewform?usp=preview) to submit a proposal for a contributed talk.-->
 
 **Registration & funding:**
 To register, please fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSdaGDgt4Znuzn4mz6mZjoVMQnLgK-2HtbuZX6WupfpxwtRqZg/viewform?usp=preview).
