@@ -33,6 +33,10 @@ The cost of a meal for non-local people at a university restaurant (RU) is about
 
 - [Cafétéria L’Amphi](https://www.crous-versailles.fr/restaurant/cafeteria-lamphi-2/), 8:00-16:00, Bâtiment 332, 91440 Bures-sur-Yvette, 1700 m (25 minutes)
 
+**Option on Rue Joliot Curie (950 m, 13 minutes):**
+
+- [Campanile](https://paris-saclay.campanile.com/fr-fr/#Restauration), 9 Ter Rue Joliot Curie 91192 Gif Sur Yvette, 950 m (13 minutes), restaurant open Monday to Thursday from 19:00 to 22:00, breakfast every day from 6:00 to 9:00 (7:00 to 10:00 on week-end), bar open every day from 11:00 to 23:00
+
 **Options on Mail Pierre Potier at Gif-sur-Yvette (1500 m, 20 minutes):**
 
 - [Brass & Co](https://www.brassandco.fr/), open Monday to Friday from 11:30 to 23:30.
@@ -47,6 +51,20 @@ The cost of a meal for non-local people at a university restaurant (RU) is about
 
 - FO Pizza au feu de bois, open every day from 11:00 to 15:00 (except Sunday), and from 18:00 to 22:30.
 
-**Other option at 950 m (13 minutes):**
+**Options in Orsay:**
 
-- [Campanile](https://paris-saclay.campanile.com/fr-fr/#Restauration), 9 Ter Rue Joliot Curie 91192 Gif Sur Yvette, 950 m (13 minutes), restaurant open Monday to Thursday from 19:00 to 22:00, breakfast every day from 6:00 to 9:00 (7:00 to 10:00 on week-end), bar open every day from 11:00 to 23:00
+- [Le Gramophone](https://le-gramophone-restaurant-orsay.eatbu.com),
+open Monday-Friday 12:00-14:00, 17:30-22:00, Saturday 17:30-22:00, 27
+boulevard Dubreuil 91400 Orsay, 1.5 km 23 minutes.
+
+- [Papaye Verte](https://www.papayeverte.net/), open Tuesday-Saturday 12:00-14:30, 19:00-22:00, 4 bis rue Archange 91400 Orsay, 1.8 km 25 minutes.
+
+- [Trattoria Belinda](https://www.trattoriabelinda.fr/), open Tuesday-Saturday 12:00-13:45, 18:00-21:30, 46 rue de Paris 91400 Orsay, 2 km 29 minutes.
+
+- [Le Palais d'Orsay](https://www.lepalaisdorsay.com/), opan Monday-Saturday 11:00-14:30, 17:45-22:30, Sunday 17:45-22:30, 9 Rue Docteur Ernest Lauriat 91400 Orsay, 2 km 29 minutes.
+
+**Options in Palaiseau:**
+
+- [Le Julie's](https://lejulies.fr/), opan Monday-Thursday 07:00-23:30, Friday 07:00-01:30, Saturday 17:00-01:30, 40 Cr Pierre Vasseur 91120 Palaiseau, 2.5 km 37 minutes, 23 minutes by bus
+
+- [Living Room](https://palaiseau-lr.fr/), open Monday-Saturday 12:00-14:30, 19:00-22:00, 10 boulevard Gaspard Monge 91120 Palaiseau, 3 km 44 minutes, 20 minutes by bus
