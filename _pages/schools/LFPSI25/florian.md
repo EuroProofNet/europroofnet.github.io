@@ -13,9 +13,9 @@ In the [International School on Logical Frameworks and Proof Systems Interoperab
 **Lecturer:** [Florian Rabe](https://kwarc.info/people/frabe/)
 
 In this course, I will show how the design and formalization of logics can apply the same modularity principles as commonplace in software design.
-Using LF-like logical frameworks together with the MMT module system, we can define the syntax and proof theory as well as the semantics of translations between logics elegantly.
+Using LF-like logical frameworks together with the [MMT](https://uniformal.github.io/) module system, we can define the syntax and proof theory as well as the semantics of translations between logics elegantly.
 
-As concrete examples, the course will give a tour of the LATIN logic atlas, which holding hundreds of modular building blocks for formal systems, organized multi-dimensionally by (among others)
+As concrete examples, the course will give a tour of the [LATIN logic atlas](https://gl.mathhub.info/MMT/LATIN2), which holds hundreds of modular building blocks for formal systems, organized multi-dimensionally by (among others)
 - ontology: typed, soft-typed, untyped, ...
 - type system features: functions, products, refinements, ...
 - logical features: propositional, modal, first-order, higher-order, ...
