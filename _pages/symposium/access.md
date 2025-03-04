@@ -1,6 +1,7 @@
 ---
 title: "How to come to the Institut Pascal?"
 layout: single
+permalink: /Access/
 author_profile: true
 breadcrumbs: true
 ---

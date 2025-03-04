@@ -1,6 +1,7 @@
 ---
 title: "Food options"
 layout: single
+permalink: /Food/
 author_profile: true
 breadcrumbs: true
 ---

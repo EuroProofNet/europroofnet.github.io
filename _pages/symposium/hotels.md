@@ -1,6 +1,7 @@
 ---
 title: "Hotels"
 layout: single
+permalink: /Hotels/
 author_profile: true
 breadcrumbs: true
 ---

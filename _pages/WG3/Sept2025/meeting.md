@@ -10,7 +10,7 @@ This will be the final meeting of the WG3. It is part of the [Final EuroProofNet
 
 **Date:** 17-19 September 2025
 
-**Venue:**  [Institut Pascal](https://www.institut-pascal.universite-paris-saclay.fr/), 530 Rue André Rivière, 91400 Orsay [[access]](access.md) [[hotels]](hotels.md) [[food options]](food.md)
+**Venue:**  [Institut Pascal](https://www.institut-pascal.universite-paris-saclay.fr/), 530 Rue André Rivière, 91400 Orsay [[access]](../Access) [[hotels]](../Hotels) [[food options]](../Food)
 
 **Organizers:** [Adrián Riesco](https://maude.sip.ucm.es/~adrian/), [Alicia Villanueva](https://personales.upv.es/alvilga1/), [Burkhart Wolff](https://www.lri.fr/~wolff/)
 
