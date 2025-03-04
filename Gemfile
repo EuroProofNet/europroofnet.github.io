@@ -8,6 +8,7 @@ gem "nokogiri", ">= 1.13.6"
 gem "commonmarker", ">= 0.23.6"
 gem "webrick", "~> 1.8"
 gem "octokit", ">= 4.25.0"
+gem "uri", ">= 0.13.2"
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
