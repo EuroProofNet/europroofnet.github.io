@@ -8,9 +8,9 @@ breadcrumbs: true
 
 From Châtelet Les Halles, center of Paris:
 
-- Take RER B until Massy-Palaiseau (32 minutes)
-    
-- Take RER B until Le Guichet (37 minutes)
+- Take RER B until Massy-Palaiseau (32 minutes) or
+
+- Take RER B until Le Guichet (37 minutes).
 
 From Massy-Palaiseau:
 
@@ -22,4 +22,4 @@ From Le Guichet:
 
 From Orly airport:
 
-- Take Orlyval until Antony (6 minutes) and then the RER B until Massy or Le Guichet (11 minutes)
+- Take Orlyval until Antony (6 minutes) and then the RER B until Massy or Le Guichet (11 minutes).
