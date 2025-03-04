@@ -6,7 +6,7 @@ author_profile: true
 breadcrumbs: true
 ---
 
-Opening hours are subject to changes. Please check them on the Internet.
+Opening hours are subject to changes. Please check them on the Internet. Warning: the only food options below that are open on Sunday are the Supermarket Intermarché Express on Sunday morning, and Le Palais d'Orsay on Sunday evening.
 
 **University restaurants open from Monday to Friday (only 2 are open for dinner):**
 
