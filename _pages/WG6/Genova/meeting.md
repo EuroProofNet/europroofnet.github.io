@@ -31,12 +31,14 @@ The meeting will be in person with support for remote participation and is open 
 
 * [Francesco Gavazzo](https://sites.google.com/view/francescogavazzo/home) (Università di Padova)
 * [András Kovács](https://andraskovacs.github.io/) (Chalmers & Göteborgs universitet)  
-*A generalized logical framework*
-<!--[A generalized logical framework](programme#akovacs)-->
+*A generalized logical framework*  
+[[Abstract](programme#akovacs)]
 * [Thomas Lamiaux](https://thomas-lamiaux.github.io/) (Nantes Université)  
-*A unified Framework for Initial Semantics, and it is 2 functorial*
-<!--[A unified Framework for Initial Semantics, and it is 2 functorial](programme#tlamiaux)-->
-* [Paige Randall North](https://paigenorth.github.io/) (Universiteit Utrecht)
+*A unified Framework for Initial Semantics, and it is 2 functorial*  
+[[Abstract](programme#tlamiaux)]
+* [Paige Randall North](https://paigenorth.github.io/) (Universiteit Utrecht)  
+*Comparing semantic frameworks for dependently-sorted algebraic theories*  
+[[Abstract](programme#prnorth)]
 
 
 **Deadlines (AoE)**
