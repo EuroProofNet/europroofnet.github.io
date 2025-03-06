@@ -21,6 +21,8 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 
 - 8-19 September 2025: [EuroProofNet Symposium](../symposium), Institut Pascal, Orsay, France
 
+- 31 August - 5 September: [10th Conference on Artificial Intelligence and Theorem Proving](https://aitp-conference.org/2025/) (AITP'25), Aussois, France
+
 - 28 July - 2 August 2025: [30th international Conference on Automated Deduction](https://www.dhbw-stuttgart.de/cade-30/) (CADE'25), Stuttgart, Germany
 
 - 14-20 July 2025: [10th International Conference on Formal Structures for Computation and Deduction](https://fscd2025.github.io/) (FSCD'25), Birmingham, UK
