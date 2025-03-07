@@ -14,7 +14,7 @@ The cost of a meal for non-local people at a university restaurant (RU) is about
 
 - [Restaurant CESFO Plateau](https://cesfo.fr/), 11:15-13:30, rue André Rivière, 91400 Orsay, 50 m only but a meal costs 17.5 euros for non-local people.
 
-- Hudi (private company, not on Google map yet), 12:00-14:00, coffee 08:00-15:00, rue Alfred Kastler, 500 m (7 minutes), meal from 12 euros.
+- Hudi (private company, not on Google map yet), 12:00-14:00, coffee 08:00-15:00, rue Alfred Kastler 91400 Orsay, 500 m (7 minutes), meal from 12 euros.
 
 - [RU Lieu de Vie](https://www.crous-versailles.fr/restaurant/ru-lieu-de-vie-2/), 11:30-14:00, 13 bis rue Joliot Curie 91190 Gif-sur-Yvette, 800 m (11 minutes).
 
