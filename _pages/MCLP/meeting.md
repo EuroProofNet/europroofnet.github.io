@@ -13,7 +13,7 @@ This conference is part of the [EuroProofNet Symposium](../Symposium). See the s
 
 **Venue:** [Institut Pascal](https://www.institut-pascal.universite-paris-saclay.fr/), 530 Rue André Rivière, 91400 Orsay [[access]](../Access) [[hotels]](../Hotels) [[food options]](../Food)
 
-**Organizer:** Roussanka Loukanova (rloukanova@gmail.com)
+**Organizer:** [Roussanka Loukanova](mailto:rloukanova@gmail.com)
 
 Registration is required for participation and, in addition, for funding requests.
 
@@ -25,9 +25,9 @@ Registration is required for participation and, in addition, for funding request
 
 **Invited Speakers:** To Be Announced
 
-To give a talk, the submission Web page for proposed titles and abstracts for MCLP 2025, is EasyChair of MCLP 2025:
+For giving talks at MCLP 2025, the submission Web page for proposed titles and abstracts is EasyChair of MCLP 2025:
 
-[Submission:] (https://easychair.org/conferences?conf=mclp2025)
+Submission: [https://easychair.org/conferences?conf=mclp2025](https://easychair.org/conferences?conf=mclp2025)
 
 **Deadline:** May 25
 
