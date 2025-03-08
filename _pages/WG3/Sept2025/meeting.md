@@ -25,6 +25,7 @@ This WG3 meeting will consist of a three-day meeting allowing members of the sof
 
 The program will be composed of talks and discussion sessions on these topics, taking advantage of the participation of experts on verification and proof systems.
 
+**Registration:** fill in this [form](https://forms.gle/QLFzh3Ugv5WgkhZr7) (registration is free but mandatory) (registration is free but mandatory)
 
 **Important dates:**
 - May 25: deadline for [funding requests](https://forms.gle/QLFzh3Ugv5WgkhZr7)
