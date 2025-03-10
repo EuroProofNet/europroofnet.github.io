@@ -47,6 +47,15 @@ Week 2:
 
 (*) 17:30-18:30: happy hour
 
+**Sponsors:**
+
+<table>
+<tr>
+<td><a href="https://www.inria.fr/en/centre-inria-de-saclay"><img src="/_pages/symposium/RF-Inria_logo_signat.jpg"/>
+<td><a href="<a href="https://www.inria.fr/en/centre-inria-de-saclay">">Inria Saclay Center</a></a>
+</tr>
+</table>
+
 **Steering committee:**
 - [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/) (INRIA & LMF, chair of EuroProofNet)
 - [Patrick Massot](https://www.imo.universite-paris-saclay.fr/~patrick.massot/) (LMO, University Paris Saclay)
