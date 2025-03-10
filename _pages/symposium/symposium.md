@@ -52,7 +52,7 @@ Week 2:
 <table>
 <tr>
 <td><a href="https://www.inria.fr/en/centre-inria-de-saclay"><img src="/_pages/symposium/RF-Inria_logo_signat.jpg"/></a></td>
-<td><a href="<a href="https://www.inria.fr/en/centre-inria-de-saclay">">Inria Saclay Center</a></td>
+<td><a href="https://www.inria.fr/en/centre-inria-de-saclay">Inria Saclay Center</a></td>
 </tr>
 </table>
 
