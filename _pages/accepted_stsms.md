@@ -77,7 +77,7 @@ The grant amounts below are initial estimations and not necessarily the final am
   Grant: 1486 EUR  
   Dates: 2025-03-09 to 2025-03-16
 
-* **Generalization in typed languages and quantitative theories** [application](/_pages/stsm/kutsia-app.pdf)   
+* **Generalization in typed languages and quantitative theories** [application](/_pages/stsm/kutsia-app.pdf)  [report](/_pages/stsm/kutsia-rep.pdf)   
   Visitor: Temur Kutsia   
   Host: David Cerna      
   Grant: 600 EUR  
