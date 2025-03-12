@@ -36,7 +36,7 @@ The workshop features 27 contributions, a panel discussion and a poster session.
 - *Machine Learning for Mathematics Research*: [Sergei Gukov](http://theory.caltech.edu/~gukov/) (Caltech & Dublin Inst. Adv. Studies)
 - *Machine Learning in Theorem Proving*: [Josef Urban](https://people.ciirc.cvut.cz/~urbanjo3/) (CIIRC/CVUT)
 
-A detailed schedule is available via [EasyChair](https://easychair.org/smart-program/EuroProofNet-WG5/).
+A [detailed schedule](https://easychair.org/smart-program/EuroProofNet-WG5/) is available.
 
 # Registration
 We are expecting a large number of participants, and therefore registration is **mandatory**. Registration is [online](https://www.epay.ed.ac.uk/conferences-and-events/college-of-science-and-engineering/school-of-informatics/informatics-events/workshop-on-theorem-proving-and-machine-learning-in-the-age-of-llms), and will close on the 12th March 2025 at 1600 UK time.
@@ -76,4 +76,4 @@ We are grateful for support from the following organisations in addition to Euro
 [<img alt="AISEC" src="https://www.macs.hw.ac.uk/aisec/assets/img/front_page_logo.png" width=200>](https://www.macs.hw.ac.uk/aisec/)
 [<img alt="Heriot-Watt University" src="https://www.hw.ac.uk/uk/services/img/HWU-global-logo.jpg" width=200>](https://www.hw.ac.uk/)
 [![GAIL](gail.jpg)](https://gail.ed.ac.uk/)
-![Kodamai](kodamai.jpg)
+![Kodamai](kodamai.png)
