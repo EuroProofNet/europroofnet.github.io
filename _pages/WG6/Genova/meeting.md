@@ -30,7 +30,7 @@ The meeting will be in person with support for remote participation and is open 
 **Invited speakers**
 
 * [Francesco Gavazzo](https://sites.google.com/view/francescogavazzo/home) (Università di Padova)  
-A Mathematical Theory of Term Relations  
+*A Mathematical Theory of Term Relations*  
 [[Abstract](programme#fgavazzo)]
 * [András Kovács](https://andraskovacs.github.io/) (Chalmers & Göteborgs universitet)  
 *A generalized logical framework*  
