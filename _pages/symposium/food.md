@@ -38,6 +38,8 @@ The cost of a meal for non-local people at a university restaurant (RU) is about
 
 **Option on Rue Joliot Curie (950 m, 13 minutes):**
 
+- La Ruche, 9 bis, rue Joliot-Curie 91190 Gif-sur-Yvette, restaurant open Monday to Friday from 11:30 to 13:30 (menu from around 20 euros).
+
 - [Campanile](https://paris-saclay.campanile.com/fr-fr/#Restauration), 9 Ter Rue Joliot Curie 91192 Gif Sur Yvette, 950 m (13 minutes), restaurant open Monday to Thursday from 19:00 to 22:00, breakfast every day from 6:00 to 9:00 (7:00 to 10:00 on week-end), bar open every day from 11:00 to 23:00.
 
 **Options on Mail Pierre Potier at Gif-sur-Yvette (1500 m, 20 minutes):**
