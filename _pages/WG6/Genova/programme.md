@@ -15,7 +15,15 @@ TBA
 ### Invited talks
 
 
-###### Francesco Gavazzo: TBA {#fgavazzo}
+###### Francesco Gavazzo: A Mathematical Theory of Term Relations {#fgavazzo}
+
+Syntactic methods play a central role in many fields of Logic and Theoretical Computer Science, including type theory, programming language semantics, proof theory and its computational interpretations, algebra, and rewriting systems. These methods characterise various behaviours resting solely on syntax, thereby avoiding the (notoriously difficult) introduction of `extra-linguistic' semantic objects such as term meanings. Unfortunately, their inherent syntax-dependence prevents syntactic methods to scale from a collection of application-specific methodologies to a an abstract mathematical theory readily  applicable across diverse logical and computational formalisms: how frequently must critical properties—such as confluence, termination, type safety, cut-elimination, congruence, and compositionality—be proven anew?
+
+A recurring concept within syntactic methodologies is that of a \emph{term relation}, a relation, broadly intended, between syntactic terms (programs, proofs, types, agents, formulas, etc.): examples of term relations include rewriting and conversion, program equivalences and metrics, bisimulation, logical relations, and type elaboration. However, despite their pervasiveness, term relations have rarely been studied systematically, and never as an abstract and (language-)independent mathematical object.
+
+In this talk, we present the foundations for a general mathematical theory of term relations. We begin by illustrating how term relations emerge naturally as a relational counterpart to the categorical theory of syntax interpretation, as exemplified by the initial algebra semantics paradigm. We then explore the algebraic structure inherent in the space of term relations, revealing how this structure underpins a synthetic theory that abstracts away from specific  syntax structures. Accordingly, we axiomatically define term relations through suitable extensions of relation algebras, dubbed \emph{Term Relation Algebras} (TRAs).
+
+Remarkably, TRAs allow numerous operational and syntactic properties to be proven abstractly, independent of specific languages or syntactic notions, transforming typically cumbersome and error-prone syntactic proofs into concise algebraic calculations. Among those results, we will mention confluence theorems (e.g. Tait and Martin-Löf confluence techniques), theories of program dynamics, and congruence results for various notions of program equivalence (e.g. applicative bisimilarity).
 
 ###### András Kovács: A generalized logical framework {#akovacs}
 
