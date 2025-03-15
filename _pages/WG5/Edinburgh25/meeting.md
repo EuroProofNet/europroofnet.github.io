@@ -8,6 +8,7 @@ breadcrumbs: true
 
 will take place in Edinburgh, Scotland, UK, April 7th-8th 2025, organised by Ekaterina Komendantskaya,  Elizabeth Polgreen, Christian Saemann, Kathrin Stark, and Michael Rawson. The event is supported by the Cost Action CA20111 - European Research Network on Formal Proofs.
 
+*There will be no remote participation, but recordings will be uploaded where possible*.
 
 # Aims
 
