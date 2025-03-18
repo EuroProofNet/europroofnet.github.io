@@ -11,6 +11,10 @@ author_profile: true
 
 **Past events:**
 
+**2025**
+
+- 11-13 February 2025: [WG1 meeting](../Nogent25/), Nogent-sur-Seine, France
+
 **2024**
 
 - 26-27 September 2024: [WG1+2+4 meeting](../Fontainebleau24), Fontainebleau, France
