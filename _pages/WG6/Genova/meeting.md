@@ -15,7 +15,7 @@ Villa Giustiniani-Cambiaso,
 Scuola Politecnica, Università di Genova  
 via Montallegro 1, Genova 16145  
 
-⚠️⚠️ Please beware of accommodation-related scam emails targeting this specific event. ⚠️⚠️
+⚠️⚠️ Please beware of accommodation-related scam emails targeting this specific event.⚠️⚠️
 
 Co-located with the [HoTT/UF 2025 Workshop](https://hott-uf.github.io/2025/).  
 
@@ -30,17 +30,71 @@ The meeting will be in person with support for remote participation and is open 
 **Invited speakers**
 
 * [Francesco Gavazzo](https://sites.google.com/view/francescogavazzo/home) (Università di Padova)  
-*A Mathematical Theory of Term Relations*  
+*A Mathematical Theory of Term Relations*
 [[Abstract](programme#fgavazzo)]
 * [András Kovács](https://andraskovacs.github.io/) (Chalmers & Göteborgs universitet)  
-*A generalized logical framework*  
+*A generalized logical framework*
 [[Abstract](programme#akovacs)]
 * [Thomas Lamiaux](https://thomas-lamiaux.github.io/) (Nantes Université)  
-*A unified Framework for Initial Semantics, and it is 2 functorial*  
+*A unified Framework for Initial Semantics, and it is 2 functorial*
 [[Abstract](programme#tlamiaux)]
 * [Paige Randall North](https://paigenorth.github.io/) (Universiteit Utrecht)  
-*Comparing semantic frameworks for dependently-sorted algebraic theories*  
+*Comparing semantic frameworks for dependently-sorted algebraic theories*
 [[Abstract](programme#prnorth)]
+
+
+**Contributed talks**
+* Thorsten Altenkirch (University of Nottingham)  
+*Containers in Higher Kinds*
+[[Abstract](programme#taltenkirch)]
+* Mathis Bouverot-Dupuis (Ecole Normale Supérieure Paris)  
+*Code Generation via Meta-programming in Dependently Typed Proof Assistants*
+[[Abstract](programme#mbouverot)]
+* Cipriano Junior Cioffo (University of Pisa)  
+*A categorical account of the setoid model*
+[[Abstract](programme#ccioffo)]
+* Stefania Damato (University of Nottingham)  
+*Distributive Laws for Monadic Containers*
+[[Abstract](programme#sdamato)]
+* Michele De Pascalis (Tallinn University of Technology)  
+*Monoid Structures on Indexed Containers*
+[[Abstract](programme#mdepascalis)]
+* Maximilian Doré (University of Oxford)  
+*Linear Types with Dynamic Multiplicities in Dependent Type Theory*
+[[Abstract](programme#mdore)]
+* Andrea Giusto (University of Genoa)  
+*Fibrations with comprehension and their completion*
+[[Abstract](programme#agiusto)]
+* Andrea Laretto (Tallinn University of Technology)  
+*Directed equality for (co)end calculus*
+[[Abstract](programme#alaretto)]
+* Niyousha Najmaei (Ecole Polytechnique Palaiseau)  
+*Syntax for non-full comprehension categories*
+[[Abstract](programme#nnajmaei)]
+* Jacob Neumann (University of Nottingham)  
+*GATs, Cats, and CwFs: A Celestial Dance*
+[[Abstract](programme#jneumann)]
+* Samuel Novotný (Technical University of Košice)  
+*Towards Resolving Type Inconsistencies in Transparent Intensional Logic*
+[[Abstract](programme#snovotny)]
+* Lorenzo Perticone (Chalmers University of Technology)  
+*Parametric Distributive Laws: uniform monad composition*
+[[Abstract](programme#lperticone)]
+* Iosif Petrakis (University of Verona)  
+*Categories with dependent and codependent arrows*
+[[Abstract](programme#ipetrakis)]
+* Daniel Ranalter (University of Innsbruck)  
+*Erasure-Respecting Semantics for DHOL*
+[[Abstract](programme#dranalter)]
+* Pietro Sabelli (Czech Academy of Sciences)  
+*On the conservativity of type theories with classical logic over arithmetic*
+[[Abstract](programme#psabelli)]
+* Matteo Spadetto (Università degli Studi di Udine)  
+*A 2-categorical approach to the sematics of axiomatic dependent type theory*
+[[Abstract](programme#mspadetto)]
+* Théo Winterhalter (INRIA Saclay)  
+*Local abstraction over computation in type theory*
+[[Abstract](programme#twinterhalter)]
 
 
 **Deadlines (AoE)**
@@ -53,13 +107,13 @@ The meeting will be in person with support for remote participation and is open 
 **Submission of talk proposals**: closed.
 <!--Please fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSe7yLhQDEdegdPDhP0IRlW2p-3KjvP3lT3CbvaEGgbfu9rVCw/viewform?usp=preview) to submit a proposal for a contributed talk.-->
 
-**Registration & funding:**
+**Registration:**
 To register, please fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSdaGDgt4Znuzn4mz6mZjoVMQnLgK-2HtbuZX6WupfpxwtRqZg/viewform?usp=preview).
-The form also gives the option to submit a funding request.
+<!--& funding The form also gives the option to submit a funding request.
 Funding consists of reimbursement of travel expenses and a daily allowance for the meeting's dates (but recepits of both travel and accommodation expenses have to be provided).
 The daily allowance has been fixed to 140 euros.
 We recommend those interested in applying to read the official information regarding reimbursement available [here](../reimbursement-rules).
-In particular, note that to receive funding you will be asked to register as a member of EuroProofNet if you are not already.
+In particular, note that to receive funding you will be asked to register as a member of EuroProofNet if you are not already.-->
 
 **Local information:** Please see [here](local-info).
 
