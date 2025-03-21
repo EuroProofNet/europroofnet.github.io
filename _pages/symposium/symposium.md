@@ -54,7 +54,7 @@ Week 2:
 |                       |                       |                        |                        | [MC](../mc-meetings)   |
 | (*)                   |                       | (*)                    |                        |                        |
 
-<p style="font-size: 6px">(*) 17:30-18:30: happy hour</p>
+<p style="font-size: 12px">(*) 17:30-18:30: happy hour</p>
 
 **Steering committee:**
 - [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/) (INRIA & LMF, chair of EuroProofNet)
