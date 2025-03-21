@@ -31,7 +31,7 @@ breadcrumbs: true
 <table>
  <tr>
   <td><a href="https://www.inria.fr/en/centre-inria-de-saclay"><img src="/_pages/symposium/RF-Inria_logo_signat.jpg"/></a></td>
-  <td><a href="https://www.cnrs.fr/"><img height="50%" src="https://www.cnrs.fr/sites/default/files/logo/logo.svg"/></a></td>
+  <td><a href="https://www.cnrs.fr/"><img src="/_pages/symposium/cnrs.jpg"/></a></td>
  </tr>
 </table>
 
@@ -54,7 +54,7 @@ Week 2:
 |                       |                       |                        |                        | [MC](../mc-meetings)   |
 | (*)                   |                       | (*)                    |                        |                        |
 
-<h6>(*) 17:30-18:30: happy hour</h6>
+<p style="font-size: 6px">(*) 17:30-18:30: happy hour</p>
 
 **Steering committee:**
 - [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/) (INRIA & LMF, chair of EuroProofNet)
