@@ -26,6 +26,19 @@ breadcrumbs: true
 * [WG3: Workshop on Program Verification](../wg3-Sept2025)
 * [MC: Report on EuroProofNet results](../mc-meetings)
 
+**Sponsors:**
+
+<table>
+ <tr>
+  <td><a href="https://www.inria.fr/en/centre-inria-de-saclay"><img src="/_pages/symposium/RF-Inria_logo_signat.jpg"/></a></td>
+  <td><a href="https://www.inria.fr/en/centre-inria-de-saclay">Inria Saclay Center</a></td>
+ </tr>
+
+ <tr>
+  <td><a href="https://www.cnrs.fr/"><img src="https://www.cnrs.fr/sites/default/files/logo/logo.svg"/></a></td>
+ </tr>
+</table>
+
 **Schedule:**
 
 Week 1:
@@ -45,17 +58,7 @@ Week 2:
 |                       |                       |                        |                        | [MC](../mc-meetings)   |
 | (*)                   |                       | (*)                    |                        |                        |
 
-(*) 17:30-18:30: happy hour
-
-**Sponsors:**
-
-<table>
-<tr>
-<td><a href="https://www.inria.fr/en/centre-inria-de-saclay"><img src="/_pages/symposium/RF-Inria_logo_signat.jpg"/></a></td>
-<td><a href="https://www.inria.fr/en/centre-inria-de-saclay">Inria Saclay Center</a></td>
-<td><a href="https://www.cnrs.fr/"><img src="https://www.cnrs.fr/sites/default/files/logo/logo.svg"/></a></td>
-</tr>
-</table>
+<h6>(*) 17:30-18:30: happy hour</h6>
 
 **Steering committee:**
 - [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/) (INRIA & LMF, chair of EuroProofNet)
