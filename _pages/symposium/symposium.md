@@ -31,11 +31,7 @@ breadcrumbs: true
 <table>
  <tr>
   <td><a href="https://www.inria.fr/en/centre-inria-de-saclay"><img src="/_pages/symposium/RF-Inria_logo_signat.jpg"/></a></td>
-  <td><a href="https://www.inria.fr/en/centre-inria-de-saclay">Inria Saclay Center</a></td>
- </tr>
-
- <tr>
-  <td><a href="https://www.cnrs.fr/"><img src="https://www.cnrs.fr/sites/default/files/logo/logo.svg"/></a></td>
+  <td><a href="https://www.cnrs.fr/"><img height="50%" src="https://www.cnrs.fr/sites/default/files/logo/logo.svg"/></a></td>
  </tr>
 </table>
 
