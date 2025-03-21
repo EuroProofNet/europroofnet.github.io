@@ -72,9 +72,9 @@ The travel and accommodation of a number of participants (approximately 12) will
 Applications have now closed.
 
 # Further Acknowledgements
-We are grateful for support from the following organisations in addition to EuroProofNet.  
+We are grateful for support from the following organisations in addition to EuroProofNet.
 [<img alt="EPSRC" src="https://www.ukri.org/wp-content/uploads/2022/03/ukri-epsrc-square-logo.png" width=200>](https://www.ukri.org/councils/epsrc/)
 [<img alt="AISEC" src="https://www.macs.hw.ac.uk/aisec/assets/img/front_page_logo.png" width=200>](https://www.macs.hw.ac.uk/aisec/)
 [<img alt="Heriot-Watt University" src="https://www.hw.ac.uk/uk/services/img/HWU-global-logo.jpg" width=200>](https://www.hw.ac.uk/)
 [![GAIL](gail.jpg)](https://gail.ed.ac.uk/)
-![Kodamai](kodamai.png)
+[![Kodamai](kodamai.png)](https://www.kodamai.com/)
