@@ -12,9 +12,9 @@ breadcrumbs: true
 
 - [x] The organizer gives to the chair the exact address, and the starting and ending dates and times:
 
-    * [x] complete address: 
-    * [x] starting date and time: 
-    * [x] ending date and time: 
+    * [x] complete address: DCC-FCUP, Rua do Campo Alegre 1055, 4169-007 Porto, Portugal
+    * [x] starting date and time: 05/06/2025 - 9h00
+    * [x] ending date and time:  06/06/2025 - 18h00
 
 - [] The organizer checks the prices of accommodations and restaurants around the place of the meeting at the dates of the meeting, and sends to the chair a proposal for the daily allowance.
 
