@@ -25,8 +25,8 @@ Contributed talks should be supported by a small abstract of 1 page. Please use 
 
 
 ## Organization
-Sandra Alves - University of Porto
-Miguel Ramos - University of Porto
+* Sandra Alves - University of Porto
+* Miguel Ramos - University of Porto
 ### Venue
 
 Department of Computer Science
