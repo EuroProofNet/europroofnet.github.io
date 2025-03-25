@@ -137,7 +137,7 @@ In this talk we will describe a universal construction that freely adds the comp
 This is joint work with Jacopo Emmenegger (DIMA, UniGe) and Francesco Dagnino (DIBRIS, UniGe).
 
 
-###### Andrea Laretto: Directed equality for (co)end calculus {#alaretto}
+###### Andrea Laretto: Directed First-Order Logic {#alaretto}
 
 We present syntax and semantics for a proof-irrelevant first-order directed type theory equipped with a "asymmetric" directed notion of propositional equality (which can be thought of as transitions/rewrites between terms), where the main semantics interprets types as preorders. We then provide a universal property to such "directed equalities" by describing introduction and elimination rules that allows them to be contracted only with certain syntactic restrictions, based on polarity, which do not allow for symmetry to be derived. We give a characterization of such directed equality as a relative left adjoint, generalizing the idea by Lawvere of equality as left adjoint. The logic is equipped with a precise syntactic system of polarities, inspired by dinaturality, that keeps track of the occurrence of variables (positive/negative/both). The semantics of this logic and its system of variances is then captured categorically using the notion of directed doctrine, which we prove sound and complete with respect to the syntax.
 

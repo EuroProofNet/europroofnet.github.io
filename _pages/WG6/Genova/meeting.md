@@ -69,7 +69,7 @@ The meeting will be in person with support for remote participation and is open 
 *Fibrations with comprehension and their completion*
 [[Abstract](programme#agiusto)]
 * Andrea Laretto (Tallinn University of Technology)  
-*Directed equality for (co)end calculus*
+*Directed First-Order Logic*
 [[Abstract](programme#alaretto)]
 * Niyousha Najmaei (Ecole Polytechnique Palaiseau)  
 *Syntax for non-full comprehension categories*
