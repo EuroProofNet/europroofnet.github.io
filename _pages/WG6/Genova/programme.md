@@ -6,9 +6,26 @@ author_profile: true
 breadcrumbs: true
 ---
 
-### Programme
+### Programme {#schedule}
 
-TBA
+| | Thu 17 | Fri 18 |
+|:---:|:---:|:---:|
+| 09:05-09:30 | [Altenkirch](#taltenkirch) | - |
+| 09:30-09:55 | [De Pascalis](#mdepascalis) | [Winterhalter](#twinterhalter) |
+| 09:55-10:20 | [Damato](#sdamato) | [Bouverot-Dupuis](#mbouverot) |
+| 10:20-11:00 | _break_ | _break_ |
+| 11:00-11:50 | [Gavazzo](#fgavazzo) | [North](#prnorth) |
+| 11:50-12:00 | _break_ | _break_ |
+| 12:00-12:25 | [Cioffo](#ccioffo) | [Giusto](#agiusto) |
+| 12:25-12:50 | [Spadetto](#mspadetto) | [Najmaei](#nnajmaei) |
+| 12:50-14:20 | _lunch_ | _lunch_ |
+| 14:20-15:10 | [Lamiaux](#tlamiaux) | [Kovács](#akovacs) |
+| 15:10-15:20 | _break_ | _break_ |
+| 15:20-15:45 | [Doré](#mdore) | [Neumann](#jneumann) |
+| 15:45-16:10 | [Perticone](#lperticone) | [Petrakis](#ipetrakis) |
+| 16:10-16:40 | _break_ | _break_ |
+| 16:40-17:05 | [Laretto](#alaretto) | [Sabelli](#psabelli) |
+| 17:05-17:30 | [Ranalter](#dranalter) | [Novotny](#snovotny) |
 
 
 

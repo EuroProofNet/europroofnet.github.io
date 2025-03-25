@@ -27,6 +27,9 @@ This includes, but is not limited to the goal of WG6:
 The meeting will be in person with support for remote participation and is open to anyone interested in type theory. Talks can present published work or work in progress.
 
 
+**Schedule and abstracts:** please see [here](programme#schedule).
+
+
 **Invited speakers**
 
 * [Francesco Gavazzo](https://sites.google.com/view/francescogavazzo/home) (Università di Padova)  
