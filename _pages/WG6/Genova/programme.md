@@ -10,6 +10,7 @@ breadcrumbs: true
 
 | | Thu 17 | Fri 18 |
 |:---:|:---:|:---:|
+| 08:50-09:05 | registration | - |
 | 09:05-09:30 | [Altenkirch](#taltenkirch) | - |
 | 09:30-09:55 | [De Pascalis](#mdepascalis) | [Winterhalter](#twinterhalter) |
 | 09:55-10:20 | [Damato](#sdamato) | [Bouverot-Dupuis](#mbouverot) |
