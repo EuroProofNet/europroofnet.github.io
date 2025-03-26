@@ -48,6 +48,7 @@ Please contact the organisers if you have any problem during the application for
 The following is a tentative combined program (subject to change).
 
 #### Day 1 - June 5, 2025
+
 | Time        | Session |
 | ----------- | ----------- |
 | 09:00-09:30 | Opening & Welcome |
@@ -62,6 +63,7 @@ The following is a tentative combined program (subject to change).
 
 
 #### Day 2 - June 6, 2025 
+
 | Time        | Session |
 | ----------- | ----------- |
 | 09:30-10:30 | Tutorial - Andrej Dudenhefner |
