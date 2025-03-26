@@ -23,7 +23,7 @@ The talks will be followed by a discussion on gender balance issues, subconsciou
 * Funding application deadline: May 5, 2025
 * Event: June 10, 2025
 
-The contributed talks are meant as a platform to disseminate research done by women in the community. Only women (including transgender women) are invited to submit a contributed talk. Abstracts should be written in English and should not exceed 1-2 pages. Please use the EasyChair style for formatting your submission (EasyChair Style Guidelines). Please send your contri
+The contributed talks are meant as a platform to disseminate research done by women in the community. Only women (including transgender women) are invited to submit a contributed talk. Abstracts should be written in English and should not exceed 1-2 pages. Please use the EasyChair style for formatting your submission (EasyChair Style Guidelines). Submit your abstracts as a PDF file via email to (sandra@fc.up.pt) before the submission deadline on April 25, 2025 (anywhere on Earth).
 
 ### Venue
 
