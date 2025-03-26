@@ -41,19 +41,19 @@ The grant amounts below are initial estimations and not necessarily the final am
   Grant: 800 EUR  
   Dates: 2025-06-08 to 2025-06-13
 
-* **The (∞,1)-category of ∞-groupoids in the spirit of Lawvere ** [application](/_pages/stsm/mikhail-app.pdf)   
+* **The (∞,1)-category of ∞-groupoids in the spirit of Lawvere** [application](/_pages/stsm/mikhail-app.pdf)   
   Visitor: Thomas Jan Mikhail  
   Host: Christian Sattler  
   Grant: 1050 EUR  
   Dates: 2025-05-11 to 2025-05-24
 
-* **Model Representation Formalisms for Constrained Horn Clauses over Algebraic Data Types ** [application](/_pages/stsm/moehle-rotondi-app.pdf)   
+* **Model Representation Formalisms for Constrained Horn Clauses over Algebraic Data Types** [application](/_pages/stsm/moehle-rotondi-app.pdf)   
   Visitor: Sibylle Moehle-Rotondi  
   Host: Viktor Kunčak  
   Grant: 1189 EUR  
   Dates: 2025-06-16 to 2025-06-27
 
-* **Informalization and Autoformalization with Dedukti and GF ** [application](/_pages/stsm/ranta-app.pdf)   
+* **Informalization and Autoformalization with Dedukti and GF** [application](/_pages/stsm/ranta-app.pdf)   
   Visitor: Aarne Ranta  
   Host: Frédéric Blanqui  
   Grant: 1548 EUR  
