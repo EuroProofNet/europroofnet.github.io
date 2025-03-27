@@ -17,6 +17,8 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 
 **2024**
 
+- [Shared Terms and Cached Rewriting](https://eprover.org/EVENTS/IWIL-2024/IWIL-24-Preproceedings.pdf), Stephan Schulz. IWIL'24
+- [Lazy and Eager Patterns in High-Performance Automated Theorem Proving](https://doi.org/10.29007/9hw9), Stephan Schulz. Vampire'24
 - [Towards Multilingual Autoformalization and Informalization of Mathematics](https://sltc2024.github.io/abstracts/ranta.pdf), Aarne Ranta. SLTC'24
 - [Automating Boundary Filling in Cubical Agda](https://doi.org/10.4230/LIPIcs.FSCD.2024.22), Maximilian Doré, Evan Cavallo, Anders Mörtberg. FSCD'24
 - [Isabelle-Verified Correctness of Datalog Programs for Program Analysis](https://doi.org/10.1145/3605098.3636091), Anders Schlichtkrull, René Rydhof Hansen, Flemming Nielson. SAC'24
