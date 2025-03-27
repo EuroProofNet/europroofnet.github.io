@@ -28,7 +28,7 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 - [A Sound and Complete Algorithm to Identify Independent Variables in a Reactive System Specification](https://doi.org/10.23919/DATE58400.2024.10546630), Josu Oca, Montserrat Hermo, Alexander Bolotov. DATE'24
 - [Learning Structure-Aware Representations of Dependent Types](https://arxiv.org/abs/2402.02104), Konstantinos Kogkalidis, Orestis Melkonian, Jean-Philippe Bernardy. [NeurIPS'24](https://neurips.cc/)
 - [Type-Theory of Algorithms with Chain-Free Memory](https://doi.org/10.1007/978-3-031-82073-1_7), Roussanka Loukanova. DCAI'24
-- [Formal Specification and Verification of Architecturally-Defined Attestation Mechanisms in Arm CCA and Intel TDX](https://doi.org/10.1109/ACCESS.2023.3346501), Muhammad Usama Sardar, Arto Niemi, Hannes Tschofenig, Thomas Fossati. IEEE Access
+- [Towards Validation of TLS 1.3 Formal Model and Vulnerabilities in Intel's RA-TLS Protocol](https://doi.org/10.1109/ACCESS.2024.3497184), Muhammad Usama Sardar, Arto Niemi, Hannes Tschofenig, Thomas Fossati. *IEEE Access*
 - [Mechanized HOL Reasoning in Set Theory](https://doi.org/10.4230/LIPIcs.ITP.2024.18), Simon Guilloud, Sankalp Gambhir, Andrea Gilot, Viktor Kunčak. ITP'24
 - [SC-TPTP: An Extension of the TPTP Derivation Format for Sequent-Based Calculus](https://ceur-ws.org/Vol-3717/paper2.pdf), Julie Cailler, Simon Guilloud. PAAR'24
 - [Orthologic with Axioms](https://doi.org/10.1007/978-3-031-50524-9_11), Simon Guilloud, Viktor Kunčak. POPL'24
