@@ -17,6 +17,8 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 
 **2024**
 
+- [Automating Boundary Filling in Cubical Agda](https://doi.org/10.4230/LIPIcs.FSCD.2024.22), Maximilian Doré, Evan Cavallo, Anders Mörtberg. FSCD'24
+- [Isabelle-Verified Correctness of Datalog Programs for Program Analysis](https://doi.org/10.1145/3605098.3636091), Anders Schlichtkrull, René Rydhof Hansen, Flemming Nielson. SAC'24
 - [Reasoning in Transformers - Mitigating Spurious Correlations and Reasoning Shortcuts](https://doi.org/10.1007/978-3-031-71170-1_18), Daniel Enström, Viktor Kjellberg, Moa Johansson. NeSy'24
 - [Lemma Discovery and Strategies for Automated Induction](https://doi.org/10.1007/978-3-031-63498-7_13), Sólrún Halla Einarsdóttir, Márton Hajdú, Moa Johansson, Nicholas Smallbone, Martin Suda. IJCAR'24
 - [Specify What? Enhancing Neural Specification Synthesis by Symbolic Methods](https://doi.org/10.1007/978-3-031-76554-4_19), George Granberry, Wolfgang Ahrendt, Moa Johansson, IFM'24
