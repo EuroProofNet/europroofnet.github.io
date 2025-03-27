@@ -17,6 +17,10 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 
 **2024**
 
+- [Proof-carrying Parameters in Certified Symbolic Execution](https://doi.org/10.1093/jigpal/jzad008), Andrei Arusoaie, Dorel Lucanu, [*LJIGPL*](https://academic.oup.com/jigpal)
+- [Alk: A Formal-Methods-based Educational Platform for Enhancing Algorithmic Thinking](https://doi.org/10.47743/SACS.2024.1.39), Alexandru{-}Ioan Lungu, Vlad Teodorescu, Andrei Zaborila, Oana Andrei, Dorel Lucanu. *Sci. Ann. Comput. Sci.*
+- [G3-style Sequent Calculi for Gurevich Logic and Its Neighbors](https://doi.org/10.1007/s11225-024-10139-9), Norihiro Kamide, Sara Negri, *Studia Logica*
+- [A Proof-Theoretic Approach to Formal Epistemology](https://doi.org/10.1007/978-3-031-57635-5_12), Sara Negri, Edi Pavlović. *Saul Kripke on Modal Logic*
 - [Shared Terms and Cached Rewriting](https://eprover.org/EVENTS/IWIL-2024/IWIL-24-Preproceedings.pdf), Stephan Schulz. IWIL'24
 - [Lazy and Eager Patterns in High-Performance Automated Theorem Proving](https://doi.org/10.29007/9hw9), Stephan Schulz. Vampire'24
 - [Towards Multilingual Autoformalization and Informalization of Mathematics](https://sltc2024.github.io/abstracts/ranta.pdf), Aarne Ranta. SLTC'24
@@ -57,7 +61,7 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 - [A Modular Formalization of Superposition in Isabelle/HOL](https://doi.org/10.4230/LIPIcs.ITP.2024.12), Martin Desharnais, Balázs Tóth, Uwe Waldmann, Jasmin Blanchette, Sophie Tourret. ITP'24
 - [HOL Light to Isabelle/HOL Translation, Rebooted](https://files.sketis.net/Isabelle_Workshop_2024/Isabelle_2024_paper_2.pdf), Ghilain Bergeron, Stéphane Glondu, Sophie Tourret. Isabelle'24
 - [Towards Producing Shorter Congruence Closure Proofs in a State-of-the-art SMT Solver (Extended Abstract)](https://ceur-ws.org/Vol-3717/short1.pdf), Bruno Andreotti, Haniel Barbosa, Oliver Flatt. PAAR'24
-- [Who finds the short proof?](https://doi.org/10.1093/jigpal/jzac082), Christoph Benzmüller, David Fuenmayor, Alexander Steen, Geoff Sutcliffe. *Log. J. IGPL*
+- [Who finds the short proof?](https://doi.org/10.1093/jigpal/jzac082), Christoph Benzmüller, David Fuenmayor, Alexander Steen, Geoff Sutcliffe. [*LJIGPL*](https://academic.oup.com/jigpal)
 - [The New TPTP Format for Interpretations](https://doi.org/10.48550/arXiv.2406.06108), Geoff Sutcliffe, Alexander Steen, Pascal Fontaine
 
 **2023**
@@ -110,8 +114,7 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 - [On modified Halpern and Tikhonov-Mann iterations](https://doi.org/10.1007/s10957-023-02192-6), Horațiu Cheval, Ulrich Kohlenbach, Laurentiu Leustean, [*J. Optim. Theor. Appl.*](https://www.springer.com/journal/10957)
 - [Operationally-based program equivalence proofs using LCTRSs](https://doi.org/10.1016/j.jlamp.2023.100894), Ştefan Ciobâcă, Dorel Lucanu, Andrei Sebastian Buruiană, [*JLAMP*](https://www.sciencedirect.com/journal/journal-of-logical-and-algebraic-methods-in-programming)
 - [Parameterized Algebraic Protocols](https://doi.org/10.1145/3591277), Andreia Mordido, Janek Spaderna, Peter Thiemann, Vasco T. Vasconcelos, [PLDI'23](https://pldi23.sigplan.org)
-- [Program Synthesis in Saturation](https://doi.org/10.1007/978-3-031-38499-8_18), Petra Hozzová, Laura Kovács, Chase Norman, Andrei Voronkov, [CADE-29](https://easyconferences.eu/cade2023/) 
-- [Proof-carrying parameters in certified symbolic execution](https://doi.org/10.1093/jigpal/jzad008), Andrei Arusoaie, Dorel Lucanu, [*LJIGPL*](https://academic.oup.com/jigpal)
+- [Program Synthesis in Saturation](https://doi.org/10.1007/978-3-031-38499-8_18), Petra Hozzová, Laura Kovács, Chase Norman, Andrei Voronkov, [CADE-29](https://easyconferences.eu/cade2023/)
 - [Propositional Forms of Judgemental Interpretations](https://doi.org/10.1007/s10849-023-09397-y), Tao Xue, Zhaohui Luo, Stergios Chatzikyriakidis, [*J. Log. Lang. Inf.*](https://www.springer.com/journal/10849)
 - [QSMA: A New Algorithm for Quantified Satisfiability Modulo Theory and Assignment](https://doi.org/10.1007/978-3-031-38499-8_5), Maria Paola Bonacina, Stéphane Graham-Lengrand, Christophe Vauthier, [CADE'23](https://easyconferences.eu/cade2023/)
 - [Rates of asymptotic regularity for the alternating Halpern-Mann iteration](https://doi.org/10.1007/s11590-023-02002-y), Laurentiu Leustean, Pedro Pinto, [*Optimization Letters*](https://www.springer.com/journal/11590)
