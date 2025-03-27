@@ -13,11 +13,16 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 
 **2025**
 
+- [A Predicative Approach to the Constructive Integration Theory of Locally Compact Metric Spaces](http://logicandanalysis.org/index.php/jla/article/view/513), Fabian Lukas Grubmüller, Iosif Petrakis. *J. Log. Anal.*
 - [Barendregt Convenes with Knaster and Tarski: Strong Rule Induction for Syntax with Bindings](https://doi.org/10.1145/3704893), Jan van Brügge, James McKinna, Andrei Popescu, Dmitriy Traytel. POPL'25
 
 **2024**
 
-- [Equational Anti-unification over Absorption Theories](https://doi.org/10.1007/978-3-031-63501-4_17), Mauricio Ayala-Rincón, David M. Cerna, Andres Felipe Gonzalez Barragan, Temur Kutsia, IJCAR'24
+- [The Grothendieck Computability Model](https://ceur-ws.org/Vol-3811/paper180.pdf), Luis Gambarte, Iosif Petrakis. ICTCS'24
+- [Pre-measure Spaces and Pre-integration Spaces in Predicative Bishop-Cheng Measure Theory](https://doi.org/10.46298/lmcs-20(4:2)2024), Iosif Petrakis, Max Zeuner. [*LMCS*](https://lmcs.episciences.org)
+- [Sets Completely Separated by Functions in Bishop Set Theory](https://doi.org/10.1215/00294527-2024-0010), Iosif Petrakis. *Notre Dame J. Formal Logic*
+- [Complemented Subsets and Boolean-valued, Partial Functions](https://doi.org/10.3233/COM-230462), Daniel Misselbeck-Wessel, Iosif Petrakis, *Comput.*
+- [Equational Anti-unification over Absorption Theories](https://doi.org/10.1007/978-3-031-63501-4_17), Mauricio Ayala-Rincón, David M. Cerna, Andres Felipe Gonzalez Barragan, Temur Kutsia. IJCAR'24
 - [A Formalization of the General Theory of Quaternions](https://doi.org/10.4230/LIPIcs.ITP.2024.11), Thaynara Arielly de Lima, André Luiz Galdino, Bruno Berto de Oliveira Ribeiro, Mauricio Ayala-Rincón. ITP'24
 - [Proof-carrying Parameters in Certified Symbolic Execution](https://doi.org/10.1093/jigpal/jzad008), Andrei Arusoaie, Dorel Lucanu, [*LJIGPL*](https://academic.oup.com/jigpal)
 - [Alk: A Formal-Methods-based Educational Platform for Enhancing Algorithmic Thinking](https://doi.org/10.47743/SACS.2024.1.39), Alexandru{-}Ioan Lungu, Vlad Teodorescu, Andrei Zaborila, Oana Andrei, Dorel Lucanu. *Sci. Ann. Comput. Sci.*
