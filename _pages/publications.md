@@ -12,50 +12,51 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 - [STSM reports](../accepted_stsms)
 
 **2025**
-- [Learning Structure-Aware Representations of Dependent Types](https://arxiv.org/abs/2402.02104), Konstantinos Kogkalidis, Orestis Melkonian, Jean-Philippe Bernardy, 38th Annual Conference on Neural Information Processing Systems ([NeurIPS'24](https://neurips.cc/)).
-- Type-Theory of Algorithms with Chain-Free Memory, Roussanka Loukanova, 21st International Conference on Distributed Computing and Artificial Intelligence (DCAI'24).
+
+- [Barendregt Convenes with Knaster and Tarski: Strong Rule Induction for Syntax with Bindings](https://doi.org/10.1145/3704893), Jan van Brügge, James McKinna, Andrei Popescu, Dmitriy Traytel. POPL'25
 
 **2024**
-- [Formal Specification and Verification of Architecturally-Defined Attestation Mechanisms in Arm CCA and Intel TDX](https://ieeexplore.ieee.org/document/10752524), Muhammad Usama Sardar, Arto Niemi, Hannes Tschofenig, Thomas Fossati, IEEE Access, pp. 173670-173685, vol 12.
-- [Semantics of Propositional Attitudes in Type-Theory of Algorithms](https://doi.org/10.1007/978-3-031-60878-0_15), Roussanka Loukanova, Logic and Engineering of Natural Language Semantics (LENLS) 2023, LNCS 14569.
-- [Mechanized HOL Reasoning in Set Theory](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ITP.2024.18). Simon Guilloud, Sankalp Gambhir, Andrea Gilot, Viktor Kunčak. ITP 2024.
-- [SC-TPTP: An Extension of the TPTP Derivation Format for Sequent-Based Calculus](https://infoscience.epfl.ch/entities/publication/d0a5cbd0-9bf3-4769-9516-00c21cf04595). Julie Cailler, Simon Guilloud. PAAR 2024.
-- [Orthologic with Axioms](https://dl.acm.org/doi/10.1145/3632881). Simon Guilloud, Viktor Kunčak. POPL 2024.
-- [Interpolation and Quantifiers in Ortholattices](https://dl.acm.org/doi/10.1007/978-3-031-50524-9_11). Simon Guilloud, Sankalp Gambhir, Viktor Kunčak. VMCAI 2024.
-- [Differentiable Inductive Logic Programming in
-High-Dimensional Space](https://arxiv.org/abs/2208.06652), Stanisław J. Purgał, David M. Cerna, Cezary Kaliszyk, IJCLR 2024, September 20th-22th 2024.
-- [Learning Rules Explaining Interactive Theorem
-Proving Tactic Prediction](https://www.lamda.nju.edu.cn/ijclr24/index.html), Liao Zhang, David M. Cerna, Cezary Kaliszyk, IJCLR 2024, September 20th-22th 2024.
-- [Equational Anti-Unification over Absorption Theories](https://arxiv.org/abs/2310.11136), Mauricio Ayala-Rincon, David M. Cerna, Andres Felipe Gonzalez Barragan, Temur Kutsia, IJCAR 2024, July 1st-6th 2024.
-- [Learning Guided Automated Reasoning: A Brief Survey](https://link.springer.com/chapter/10.1007/978-3-031-61716-4_4), Lasse Blaauwbroek, David M. Cerna, Thibault Gauthier, Jan Jakubův, Cezary Kaliszyk, Martin Suda, Josef Urban, Logics and Type Systems in Theory and Practice 2024.
-- [Generalisation through Negation and Predicate Invention](https://doi.org/10.48550/arXiv.2301.07629), David M. Cerna and Andrew Cropper, AAAI-24, Feb. 22-25.
-- [A Sound and Complete Substitution Algorithm for Multimode Type Theory](https://doi.org/10.4230/LIPIcs.TYPES.2023.4). Joris Ceulemans, Andreas Nuyts, and Dominique Devriese. 2024. In 29th International Conference on Types for Proofs and Programs (TYPES 2023) (Leibniz International Proceedings in Informatics (LIPIcs)), Schloss Dagstuhl – Leibniz-Zentrum für Informatik, Dagstuhl, Germany, 4:1-4:23.
-- [Formal Specification and Verification of Architecturally-Defined Attestation Mechanisms in Arm CCA and Intel TDX](https://doi.org/10.1109/access.2023.3346501), M. U. Sardar, T. Fossati, S. Frost, S. Xiong, IEEE Access, pp. 361-381, vol 12.
-- [Translating HOL-Light proofs to Coq](https://doi.org/10.29007/6k4x), Frédéric Blanqui, 25th International Conference on Logic for Programming, Artificial Intelligence and Reasoning (LPAR).
-- [Sharing proofs with predicative theories through universe-polymorphic elaboration](https://doi.org/10.46298/lmcs-20(3:23)2024), Thiago Felicissimo and Frédéric Blanqui, Logical Methods in Computer Science, Volume 20, Issue 3. 
-- [Maude2Lean: Theorem proving for Maude specifications using Lean](https://doi.org/10.1016/j.jlamp.2024.101005), Rubén Rubio and Adrián Riesco, [*JLAMP*](https://www.sciencedirect.com/journal/journal-of-logical-and-algebraic-methods-in-programming)
-- [Comodule Representations of Second-Order Functionals](https://arxiv.org/abs/2409.17664), Danel Ahman and Andrej Bauer
-- [Transpension: The Right Adjoint to the Pi-type](https://doi.org/10.46298/lmcs-20(2:16)2024). Andreas Nuyts and Dominique Devriese. 2024. Logical Methods in Computer Science Volume 20, Issue 2, (June 2024).
-- [Kuroda’s Translation for the λΠ-Calculus Modulo Theory and Dedukti](http://dx.doi.org/10.4204/EPTCS.404.3), Thomas Traversié, Logical Frameworks and Meta-Languages: Theory and Practice (LFMTP 2024).
-- [Proofs for Free in the λΠ-Calculus Modulo Theory](https://dx.doi.org/10.4204/EPTCS.404.4), Thomas Traversié, Logical Frameworks and Meta-Languages: Theory and Practice (LFMTP 2024).
-- [Internal and Observational Parametricity for Cubical Agda](https://doi.org/10.1145/3632850). Antoine Van Muylder, Andreas Nuyts, and Dominique Devriese. 2024. Proc. ACM Program. Lang. 8, POPL (January 2024).
-- [The MoXI Model Exchange Tool Suite](https://link.springer.com/chapter/10.1007/978-3-031-65627-9_10), Chris Johannsen, Karthik Nukala, Rohit Dureja, Ahmed Irfan, Natarajan Shankar, Cesare Tinelli, Moshe Y. Vardi, Kristin Yvonne Rozier, CAV 2024
-- [Satisfiability Modulo Theories: A Beginner's Tutorial](https://link.springer.com/chapter/10.1007/978-3-031-71177-0_31), Clark W. Barrett, Cesare Tinelli, HanielBarbosa, Aina Niemetz, Mathias Preiner, Andrew Reynolds, Yoni Zohar. FM 2024
-- [A Matroid-Based Automatic Prover and Coq Proof Generator for Projective Incidence Geometry](https://link.springer.com/article/10.1007/s10817-023-09690-2), David Braun, NicolasMagaud, Pascal Schreck, JAR 2024.
-- [Automatic Verification of SMT Rewrites in Isabelle/HOL](https://doi.org/10.1007/978-3-031-57246-3_17), Hanna Lachnitt and  Mathias Fleury and  Leni Aniva and  Andrew Reynolds and Haniel Barbosa and   Andres Nötzli and   Clark W. Barrett and Cesare Tinelli. TACAS 2024.
-- [Certifying Incremental SAT Solving](https://easychair.org/publications/paper/TbPs), Katalin Fazekas, Florian Pollitt, Mathias Fleury and Armin Biere. LPAR 2024.
-- [A Modular Formalization of Superposition in Isabelle/HOL](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ITP.2024.12), Martin Desharnais, Balázs Tóth, Uwe Waldmann, Jasmin Blanchette, Sophie Tourret. ITP 2024.
-- [HOL Light to Isabelle/HOL Translation, Rebooted](https://files.sketis.net/Isabelle_Workshop_2024/Isabelle_2024_paper_2.pdf), Ghilain Bergeron, Stéphane Glondu and Sophie Tourret. Isabelle workshop 2024.
-- [Towards Producing Shorter Congruence Closure Proofs in a State-of-the-art SMT Solver (Extended Abstract)](https://ceur-ws.org/Vol-3717/short1.pdf), Bruno Andreotti and Haniel Barbosa and Oliver Flatt. PAAR 2024.
-- [Who finds the short proof?](https://doi.org/10.1093/jigpal/jzac082). Christoph Benzmüller, David Fuenmayor, Alexander Steen, Geoff Sutcliffe. Log. J. IGPL 2024.
-- [The New TPTP Format for Interpretations](https://arxiv.org/pdf/2406.06108). Geoff Sutcliffe, Alexander Steen, Pascal Fontaine.
+
+- [Learning Structure-Aware Representations of Dependent Types](https://arxiv.org/abs/2402.02104), Konstantinos Kogkalidis, Orestis Melkonian, Jean-Philippe Bernardy. [NeurIPS'24](https://neurips.cc/)
+- [Type-Theory of Algorithms with Chain-Free Memory](https://doi.org/10.1007/978-3-031-82073-1_7), Roussanka Loukanova. DCAI'24
+- [Formal Specification and Verification of Architecturally-Defined Attestation Mechanisms in Arm CCA and Intel TDX](https://doi.org/10.1109/ACCESS.2023.3346501), Muhammad Usama Sardar, Arto Niemi, Hannes Tschofenig, Thomas Fossati. IEEE Access
+- [Mechanized HOL Reasoning in Set Theory](https://doi.org/10.4230/LIPIcs.ITP.2024.18). Simon Guilloud, Sankalp Gambhir, Andrea Gilot, Viktor Kunčak. ITP'24
+- [SC-TPTP: An Extension of the TPTP Derivation Format for Sequent-Based Calculus](https://ceur-ws.org/Vol-3717/paper2.pdf). Julie Cailler, Simon Guilloud. PAAR'24
+- [Orthologic with Axioms](https://doi.org/10.1007/978-3-031-50524-9_11). Simon Guilloud, Viktor Kunčak. POPL'24
+- [Interpolation and Quantifiers in Ortholattices](https://dl.acm.org/doi/10.1007/978-3-031-50524-9_11). Simon Guilloud, Sankalp Gambhir, Viktor Kunčak. VMCAI'24
+- [Differentiable Inductive Logic Programming in High-Dimensional Space](https://doi.org/10.48550/arXiv.2208.06652), Stanisław J. Purgał, David M. Cerna, Cezary Kaliszyk. IJCLR'24
+- [Learning Rules Explaining Interactive Theorem Proving Tactic Prediction](https://doi.org/10.48550/arXiv.2411.01188), Liao Zhang, David M. Cerna, Cezary Kaliszyk. IJCLR'24
+- [Equational Anti-Unification over Absorption Theories](https://doi.org/10.1007/978-3-031-63501-4_17), Mauricio Ayala-Rincon, David M. Cerna, Andres Felipe Gonzalez Barragan, Temur Kutsia. IJCAR'24
+- [Learning Guided Automated Reasoning: A Brief Survey](https://doi.org/10.1007/978-3-031-61716-4_4), Lasse Blaauwbroek, David M. Cerna, Thibault Gauthier, Jan Jakubův, Cezary Kaliszyk, Martin Suda, Josef Urban. Logics and Type Systems in Theory and Practice 2024
+- [Generalisation through Negation and Predicate Invention](https://doi.org/10.48550/arXiv.2301.07629), David M. Cerna and Andrew Cropper, AAAI'24
+- [Formal Specification and Verification of Architecturally-Defined Attestation Mechanisms in Arm CCA and Intel TDX](https://doi.org/10.1109/access.2023.3346501), M. U. Sardar, T. Fossati, S. Frost, S. Xiong, IEEE Access
+- [Translating HOL-Light proofs to Coq](https://doi.org/10.29007/6k4x), Frédéric Blanqui. LPAR'24
+- [Sharing proofs with predicative theories through universe-polymorphic elaboration](https://doi.org/10.46298/lmcs-20(3:23)2024), Thiago Felicissimo and Frédéric Blanqui, Logical Methods in Computer Science
+- [Maude2Lean: Theorem proving for Maude specifications using Lean](https://doi.org/10.1016/j.jlamp.2024.101005), Rubén Rubio, Adrián Riesco, [*JLAMP*](https://www.sciencedirect.com/journal/journal-of-logical-and-algebraic-methods-in-programming)
+- [Comodule Representations of Second-Order Functionals](https://arxiv.org/abs/2409.17664), Danel Ahman, Andrej Bauer
+- [Transpension: The Right Adjoint to the Pi-type](https://doi.org/10.46298/lmcs-20(2:16)2024). Andreas Nuyts, Dominique Devriese. Logical Methods in Computer Science
+- [Kuroda’s Translation for the λΠ-Calculus Modulo Theory and Dedukti](http://dx.doi.org/10.4204/EPTCS.404.3), Thomas Traversié. LFMTP'24
+- [Proofs for Free in the λΠ-Calculus Modulo Theory](https://dx.doi.org/10.4204/EPTCS.404.4), Thomas Traversié, LFMTP'24
+- [Internal and Observational Parametricity for Cubical Agda](https://doi.org/10.1145/3632850). Antoine Van Muylder, Andreas Nuyts, Dominique Devriese. POPL'24
+- [The MoXI Model Exchange Tool Suite](https://doi.org/10.1007/978-3-031-65627-9_10), Chris Johannsen, Karthik Nukala, Rohit Dureja, Ahmed Irfan, Natarajan Shankar, Cesare Tinelli, Moshe Y. Vardi, Kristin Yvonne Rozier, CAV'24
+- [Satisfiability Modulo Theories: A Beginner's Tutorial](https://doi.org/10.1007/978-3-031-71177-0_31), Clark W. Barrett, Cesare Tinelli, Haniel Barbosa, Aina Niemetz, Mathias Preiner, Andrew Reynolds, Yoni Zohar. FM'24
+- [A Matroid-Based Automatic Prover and Coq Proof Generator for Projective Incidence Geometry](https://doi.org/10.1007/s10817-023-09690-2), David Braun, NicolasMagaud, Pascal Schreck, JAR
+- [Automatic Verification of SMT Rewrites in Isabelle/HOL](https://doi.org/10.1007/978-3-031-57246-3_17), Hanna Lachnitt,  Mathias Fleury, Leni Aniva, Andrew Reynolds, Haniel Barbosa, Andres Nötzli,   Clark W. Barrett, Cesare Tinelli. TACAS'24
+- [Certifying Incremental SAT Solving](https://doi.org/10.29007/pdcc), Katalin Fazekas, Florian Pollitt, Mathias Fleury, Armin Biere. LPAR'24
+- [A Modular Formalization of Superposition in Isabelle/HOL](https://doi.org/10.4230/LIPIcs.ITP.2024.12), Martin Desharnais, Balázs Tóth, Uwe Waldmann, Jasmin Blanchette, Sophie Tourret. ITP'24
+- [HOL Light to Isabelle/HOL Translation, Rebooted](https://files.sketis.net/Isabelle_Workshop_2024/Isabelle_2024_paper_2.pdf), Ghilain Bergeron, Stéphane Glondu, Sophie Tourret. Isabelle'24
+- [Towards Producing Shorter Congruence Closure Proofs in a State-of-the-art SMT Solver (Extended Abstract)](https://ceur-ws.org/Vol-3717/short1.pdf), Bruno Andreotti, Haniel Barbosa, Oliver Flatt. PAAR'24
+- [Who finds the short proof?](https://doi.org/10.1093/jigpal/jzac082). Christoph Benzmüller, David Fuenmayor, Alexander Steen, Geoff Sutcliffe. Log. J. IGPL
+- [The New TPTP Format for Interpretations](https://doi.org/10.48550/arXiv.2406.06108). Geoff Sutcliffe, Alexander Steen, Pascal Fontaine
 
 **2023**
 
-- [Logic Operators and Quantifiers in Type-Theory of Algorithms](https://doi.org/10.1007/978-3-031-43977-3_11), Roussanka Loukanova, Logic and Engineering of Natural Language Semantics (LENLS) 2022, LNCS 14213.
-- [CICM’22 System Entries](10.1007/978-3-031-16681-5_24), P. Koepke, A. Lorenzen, B. Shminke, Intelligent Computer Mathematics. CICM 2022. Lecture Notes in Computer Science, vol 13467.
-- [Formalising Szemerédi's Regularity Lemma and Roth's Theorem on Arithmetic Progressions in Isabelle/HOL](https://doi.org/10.1007/s10817-022-09650-2), Chelsea Edmonds, Angeliki Koutsoukou-Argyraki and Lawrence C. Paulson. Journal of Automated Reasoning, volume 67, Article number: 2 (2023).
-- [A Formalisation of the Balog-Szemerédi-Gowers Theorem in Isabelle/HOL](https://dl.acm.org/doi/10.1145/3573105.3575680), Angeliki Koutsoukou-Argyraki, Mantas Bakšys and Chelsea Edmonds. In Proceedings of the 12th ACM SIGPLAN International Conference on Certified Programs and Proofs (CPP ’23), January 16–17, 2023, Boston, MA, USA. ACM, New York, NY, USA.
+
+- [A Sound and Complete Substitution Algorithm for Multimode Type Theory](https://doi.org/10.4230/LIPIcs.TYPES.2023.4). Joris Ceulemans, Andreas Nuyts, Dominique Devriese. TYPES'23
+- [Semantics of Propositional Attitudes in Type-Theory of Algorithms](https://doi.org/10.1007/978-3-031-60878-0_15), Roussanka Loukanova. LENLS'23
+- [CICM’22 System Entries](10.1007/978-3-031-16681-5_24), P. Koepke, A. Lorenzen, B. Shminke. CICM'22
+- [Formalising Szemerédi's Regularity Lemma and Roth's Theorem on Arithmetic Progressions in Isabelle/HOL](https://doi.org/10.1007/s10817-022-09650-2), Chelsea Edmonds, Angeliki Koutsoukou-Argyraki and Lawrence C. Paulson. [*JAR*](https://www.springer.com/journal/10817)
+- [A Formalisation of the Balog-Szemerédi-Gowers Theorem in Isabelle/HOL](https://dl.acm.org/doi/10.1145/3573105.3575680), Angeliki Koutsoukou-Argyraki, Mantas Bakšys and Chelsea Edmonds. In Proceedings of the 12th ACM SIGPLAN International Conference on Certified Programs and Proofs (CPP ’23), January 16–17, 2023, Boston, MA, USA. ACM, New York, NY, USA
 - [Quantitative Global Memory](http://doi.org/10.1007/978-3-031-39784-4_4), Sandra Alves, Delia Kesner, Miguel Ramos, [WoLLIC'23](https://www.mathstat.dal.ca/wollic2023/)
 - [A Rewriting Coherence Theorem with Applications in Homotopy Type Theory](https://doi.org/10.1017/S0960129523000026), Nicolai Kraus, Jakob von Raumer, [*MSCS*](https://www.cambridge.org/core/journals/mathematical-structures-in-computer-science)
 - [A Semantics of 𝕂 into Dedukti](https://doi.org/10.4230/LIPIcs.TYPES.2022.12), Amélie Ledein, Valentin Blot, Catherine Dubois, [TYPES'22](https://types22.inria.fr/)
@@ -122,16 +123,19 @@ Proving Tactic Prediction](https://www.lamda.nju.edu.cn/ijclr24/index.html), Lia
 - [Verification of the ROS NavFn planner using executable specification languages](https://doi.org/10.1016/j.jlamp.2023.100860), Enrique Martín, Manuel Montenegro, Adrián Riesco, Juan Rodríguez-Hortalá, Rubén Rubio, [*JLAMP*](https://www.sciencedirect.com/journal/journal-of-logical-and-algebraic-methods-in-programming)
 - [VizAR: Visualization of Automated Reasoning Proofs &endash; System Description](https://doi.org/10.1007/978-3-031-42753-4_22), Jan Jakubův, Cezary Kaliszyk, [CICM'23](https://cicm-conference.org/2023/cicm.php)
 - [Who Finds the Short Proof? An Exploration of Variants of Boolos' Curious Inference using Higher-order Automated Theorem Provers](http://doi.org/10.1093/jigpal/jzac082), Christoph Benzmüller, David Fuenmayor, Alexander Steen, Geoff Sutcliffe. [*LJIGPL*](https://academic.oup.com/jigpal)
-- [Quantitative Global Memory](https://doi.org/10.1007/978-3-031-39784-4_4), Sandra Alves, Delia Kesner, Miguel Ramos. WoLLIC 2023, Lecture Notes in Computer Science, vol 13923. Springer.
+- [Quantitative Global Memory](https://doi.org/10.1007/978-3-031-39784-4_4), Sandra Alves, Delia Kesner, Miguel Ramos. WoLLIC'23
+- [A More Pragmatic {CDCL} for IsaSAT and Targetting {LLVM} (Short Paper)](https://doi.org/10.1007/978-3-031-38499-8_12). Mathias Fleury and Peter Lammich. CADE'29 (2023)
 
 
 
 **2022**
- 
-- [Irrationality and Transcendence Criteria for Infinite Series in Isabelle/HOL](https://doi.org/10.1080/10586458.2021.1980465), Angeliki Koutsoukou-Argyraki, Wenda Li, and Lawrence C. Paulson, Experimental Mathematics, Special Issue on Interactive Theorem Proving in Mathematics Research, Volume 31, 2022 - Issue 2, pages 401-412. 
-- [Formalising Ordinal Partition Relations Using Isabelle/HOL](https://doi.org/10.1080/10586458.2021.1980464), Mirna Džamonja, Angeliki Koutsoukou-Argyraki, and Lawrence C. Paulson, Experimental Mathematics, Special Issue on Interactive Theorem Proving in Mathematics Research, Volume 31, 2022 - Issue 2, pages 383-400.
- - [Formal Entity Graphs as Complex Networks: Assessing Centrality Metrics of the Archive of Formal Proofs](https://doi.org/10.1007/978-3-031-16681-5_10), Fabian Huch, In International Conference on Intelligent Computer Mathematics. 
- - [Re-imagining the Isabelle Archive of Formal Proofs](https://doi.org/10.1007/978-3-031-16681-5_11), MacKenzie, C., Huch, F., Vaughan, J., and Fleuriot, J. In International Conference on Intelligent Computer Mathematics. 
+
+
+- [Logic Operators and Quantifiers in Type-Theory of Algorithms](https://doi.org/10.1007/978-3-031-43977-3_11), Roussanka Loukanova, LENLS 2022. 
+- [Irrationality and Transcendence Criteria for Infinite Series in Isabelle/HOL](https://doi.org/10.1080/10586458.2021.1980465), Angeliki Koutsoukou-Argyraki, Wenda Li, and Lawrence C. Paulson, Experimental Mathematics, Special Issue on Interactive Theorem Proving in Mathematics Research 
+- [Formalising Ordinal Partition Relations Using Isabelle/HOL](https://doi.org/10.1080/10586458.2021.1980464), Mirna Džamonja, Angeliki Koutsoukou-Argyraki, and Lawrence C. Paulson, Experimental Mathematics, Special Issue on Interactive Theorem Proving in Mathematics Research, Volume 31, 2022 - Issue 2, pages 383-400
+ - [Formal Entity Graphs as Complex Networks: Assessing Centrality Metrics of the Archive of Formal Proofs](https://doi.org/10.1007/978-3-031-16681-5_10), Fabian Huch. CICM'22
+ - [Re-imagining the Isabelle Archive of Formal Proofs](https://doi.org/10.1007/978-3-031-16681-5_11), MacKenzie, C., Huch, F., Vaughan, J., and Fleuriot. CICM'22
 - [A Matching Logic Foundation for Alk](https://doi.org/10.1007/978-3-031-17715-6_19), Alexandru-Ioan Lungu, Dorel Lucanu, [ICTAC'22](https://viam.science.tsu.ge/clas2022/ictac/)
 - [A Metatheoretic Analysis of Subtype Universes](https://doi.org/10.4230/LIPIcs.TYPES.2022.9), Felix Bradley, Zhaohui Luo, [TYPES'22](https://types22.inria.fr)
 - [Adequate and Computational Encodings in the Logical Framework Dedukti](https://doi.org/10.4230/LIPIcs.FSCD.2022.25), Thiago Felicissimo, [FSCD'22](https://www.cs.tau.ac.il/~nachumd/FSCD/)
@@ -142,7 +146,7 @@ Proving Tactic Prediction](https://www.lamda.nju.edu.cn/ijclr24/index.html), Lia
 - [An extensible equality checking algorithm for dependent type theories](https://doi.org/10.46298/lmcs-18(1:17)2022), Andrej Bauer, Anja Petkovic Komel, [*LMCS*](https://lmcs.episciences.org)
 - [Analysis and Transformation of Constrained Horn Clauses for Program Verification](https://doi.org/10.1017/S1471068421000211), Emanuele De Angelis, Fabio Fioravanti, John P. Gallagher, Manuel V. Hermenegildo, Alberto Pettorossi, Maurizio Proietti, [*TPLP*](https://www.cambridge.org/core/journals/theory-and-practice-of-logic-programming)
 - [Automated Reasoning in Non-classical Logics in the TPTP World](http://ceur-ws.org/Vol-3201/), Alexander Steen, David Fuenmayor, Tobias Gleißner, Geoff Sutcliffe, Christoph Benzmüller, [PAAR'22](https://paar2022.github.io/)
-- [Automated Synthesis of Software Contracts with KINDSPEC](https://doi.org/10.1007/978-3-031-31476-6_3), María Alpuente, Alicia Villanueva. Analysis, Verification and Transformation for Declarative Programming and Intelligent Systems. Lecture Notes in Computer Science, volume 13160, Springer.
+- [Automated Synthesis of Software Contracts with KINDSPEC](https://doi.org/10.1007/978-3-031-31476-6_3), María Alpuente, Alicia Villanueva. Analysis, Verification and Transformation for Declarative Programming and Intelligent Systems
 - [Bécassine à la chasse au Coq](https://hal.archives-ouvertes.fr/hal-03604902), Valentin Blot, Louise Dubois de Prisque, Chantal Keller, Pierre Vial, [JFLA'22](http://jfla.inria.fr/jfla2022.html)
 - [Bridging between LegalRuleML and TPTP for Automated Normative Reasoning](https://doi.org/10.1007/978-3-031-21541-4_16), Alexander Steen, David Fuenmayor, [RuleML+RR'22](https://2022.declarativeai.net/events/ruleml-rr)
 - [CDSAT for nondisjoint theories with shared predicates: arrays with abstract length](https://ceur-ws.org/Vol-3185/paper9712.pdf), Maria Paola Bonacina, Stéphane Graham-Lengrand, Natarajan Shankar, [SMT'22](https://smt-workshop.cs.uiowa.edu/2022/)
@@ -172,11 +176,9 @@ Proving Tactic Prediction](https://www.lamda.nju.edu.cn/ijclr24/index.html), Lia
 - [Strict computability models over categories and presheaves](https://doi.org/10.1093/logcom/exac077), Iosif Petrakis, [*J. Log. Comput.*](https://academic.oup.com/logcom)
 - [The Logic Languages of the TPTP World](https://doi.org/10.1093/jigpal/jzac068), Geoff Sutcliffe, [*LJIGPL*](https://academic.oup.com/jigpal)
 - [Theorem Proving for Maude Specifications Using Lean](https://doi.org/10.1007/978-3-031-17244-1_16), Rubén Rubio, Adrián Riesco, [ICFEM'22](https://maude.ucm.es/ICFEM22)
-- [Verifying Catamorphism-Based Contracts using Constrained Horn Clauses](https://doi.org/10.1017/S1471068422000175), 
-Emanuele De Angelis, Maurizio Proietti, Fabio Fioravanti, Alberto Pettorossi, [*TPLP*](https://www.cambridge.org/core/journals/theory-and-practice-of-logic-programming)
+- [Verifying Catamorphism-Based Contracts using Constrained Horn Clauses](https://doi.org/10.1017/S1471068422000175),  Emanuele De Angelis, Maurizio Proietti, Fabio Fioravanti, Alberto Pettorossi, [*TPLP*](https://www.cambridge.org/core/journals/theory-and-practice-of-logic-programming)
 - [Vers une traduction de K en Dedukti](https://hal.archives-ouvertes.fr/hal-03604962) (Towards a translation of K in Dedukti), Amélie Ledein, Valentin Blot, Catherine Dubois, [JFLA'22](http://jfla.inria.fr/jfla2022.html)
 - [What Can Formal Systems Do For Mathematics? A Discussion Through The Lens Of Proof Assistants: Some Recent Advances](https://www.researchgate.net/publication/359592051_What_Can_Formal_Systems_Do_For_Mathematics_A_Discussion_Through_The_Lens_Of_Proof_Assistants_Some_Recent_Advances), Angeliki Koutsoukou-Argyraki Q&A with Jeremy Avigad, Jasmin Blanchette, Frédéric Blanqui, Kevin Buzzard, Johan Commelin, Manuel Eberl, Timothy Gowers, Peter Koepke, Assia Mahboubi, Ursula Martin, Lawrence C. Paulson, Special Issue for the 60th Anniversary of the DVMLG (German Association for Mathematical Logic and for Basic Research in the Exact Sciences), Benedikt Löwe, Deniz Sarikaya (eds.), College Publications, 2022
-- [A More Pragmatic {CDCL} for IsaSAT and Targetting {LLVM} (Short Paper)](https://doi.org/10.1007/978-3-031-38499-8_12). Mathias Fleury and Peter Lammich. CADE'29 (2023).
 
 
 **Reports**
