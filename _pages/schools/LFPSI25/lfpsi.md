@@ -67,7 +67,8 @@ We are very grateful to the following organizations for their support:
 
 <table>
 <tr>
-  <td><a href="https://www.inria.fr/en/centre-inria-de-saclay"><img src="/_pages/symposium/RF-Inria_logo_signat.jpg"/></a></td>
-  <td><a href="https://www.universite-paris-saclay.fr/en/graduate-schools/graduate-school-computer-science"><img src="https://www.universite-paris-saclay.fr/sites/default/files/styles/2400xauto/public/2021-05/GS-informatique-h.png?itok=px6yldkB"/></a></td>
+  <td><a href="https://www.inria.fr/en/centre-inria-de-saclay"><img src="/_pages/symposium/logo-inria.jpg"/></a></td>
+  <td><a href="https://www.universite-paris-saclay.fr/en/graduate-schools/graduate-school-computer-science"><img src="/_pages/symposium/logo-gs-isn.png"/></a></td>
+  <!--https://www.universite-paris-saclay.fr/sites/default/files/styles/2400xauto/public/2021-05/GS-informatique-h.png?itok=px6yldkB-->
 </tr>
 </table>

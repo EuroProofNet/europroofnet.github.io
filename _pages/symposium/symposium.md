@@ -30,8 +30,8 @@ breadcrumbs: true
 
 <table>
  <tr>
-  <td><a href="https://www.inria.fr/en/centre-inria-de-saclay"><img src="/_pages/symposium/RF-Inria_logo_signat.jpg"/></a></td>
-  <td><a href="https://www.cnrs.fr/"><img src="/_pages/symposium/cnrs.jpg"/></a></td>
+  <td><a href="https://www.inria.fr/en/centre-inria-de-saclay"><img src="/_pages/symposium/logo-inria.jpg"/></a></td>
+  <td><a href="https://www.cnrs.fr/"><img src="/_pages/symposium/logo-cnrs.jpg"/></a></td>
  </tr>
 </table>
 
