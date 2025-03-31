@@ -20,7 +20,7 @@ Registration is required for participation and, in addition, for funding request
 **Registration/funding requests:** fill in this [form](https://forms.gle/QLFzh3Ugv5WgkhZr7) (registration is free but mandatory)
 
 **Important dates:**
-- May 25: deadline for funding requests [funding requests](https://forms.gle/QLFzh3Ugv5WgkhZr7)
+- May 25 CEST: deadline for funding requests [funding requests](https://forms.gle/QLFzh3Ugv5WgkhZr7)
 - June 1st: notification
 
 **Invited speakers:** To Be Announced
