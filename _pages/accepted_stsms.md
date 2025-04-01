@@ -116,7 +116,7 @@ The grant amounts below are initial estimations and not necessarily the final am
   Grant: 1124 EUR  
   Dates: 2025-03-10 to 2025-03-21
 
-* **Array logics and aggregation functions for program verification** [application](/_pages/stsm/herrmann-app.pdf)   
+* **Array logics and aggregation functions for program verification** [application](/_pages/stsm/herrmann-app.pdf) [report](/_pages/stsm/herrmann-rep.pdf)   
   Visitor: Roland Herrmann    
   Host: Dilian Gurov      
   Grant: 1486 EUR  
@@ -185,7 +185,7 @@ The grant amounts below are initial estimations and not necessarily the final am
   Grant: 2850 EUR    
   Dates: 2024-09-09 to 2024-09-24
 
-* **Strictification of the syntax of type theory** [application](/_pages/stsm/pujet-app.pdf)    
+* **Strictification of the syntax of type theory** [application](/_pages/stsm/pujet-app.pdf) [report](/_pages/stsm/pujet-rep.pdf)    
   Visitor: Loïc Pujet   
   Host: Ambrus Kaposi     
   Grant: 1430 EUR   
