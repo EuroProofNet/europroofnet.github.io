@@ -8,6 +8,7 @@ breadcrumbs: true
 
 will take place in Edinburgh, Scotland, UK, April 7th-8th 2025, organised by Ekaterina Komendantskaya,  Elizabeth Polgreen, Christian Saemann, Kathrin Stark, and Michael Rawson. The event is supported by the Cost Action CA20111 - European Research Network on Formal Proofs.
 
+*There will be no remote participation, but recordings will be uploaded where possible*.
 
 # Aims
 
@@ -36,7 +37,7 @@ The workshop features 27 contributions, a panel discussion and a poster session.
 - *Machine Learning for Mathematics Research*: [Sergei Gukov](http://theory.caltech.edu/~gukov/) (Caltech & Dublin Inst. Adv. Studies)
 - *Machine Learning in Theorem Proving*: [Josef Urban](https://people.ciirc.cvut.cz/~urbanjo3/) (CIIRC/CVUT)
 
-A detailed schedule is available via [EasyChair](https://easychair.org/smart-program/EuroProofNet-WG5/).
+A [detailed schedule](https://easychair.org/smart-program/EuroProofNet-WG5/) is available.
 
 # Registration
 We are expecting a large number of participants, and therefore registration is **mandatory**. Registration is [online](https://www.epay.ed.ac.uk/conferences-and-events/college-of-science-and-engineering/school-of-informatics/informatics-events/workshop-on-theorem-proving-and-machine-learning-in-the-age-of-llms), and will close on the 12th March 2025 at 1600 UK time.
@@ -71,9 +72,9 @@ The travel and accommodation of a number of participants (approximately 12) will
 Applications have now closed.
 
 # Further Acknowledgements
-We are grateful for support from the following organisations in addition to EuroProofNet.  
+We are grateful for support from the following organisations in addition to EuroProofNet.
 [<img alt="EPSRC" src="https://www.ukri.org/wp-content/uploads/2022/03/ukri-epsrc-square-logo.png" width=200>](https://www.ukri.org/councils/epsrc/)
 [<img alt="AISEC" src="https://www.macs.hw.ac.uk/aisec/assets/img/front_page_logo.png" width=200>](https://www.macs.hw.ac.uk/aisec/)
 [<img alt="Heriot-Watt University" src="https://www.hw.ac.uk/uk/services/img/HWU-global-logo.jpg" width=200>](https://www.hw.ac.uk/)
 [![GAIL](gail.jpg)](https://gail.ed.ac.uk/)
-![Kodamai](kodamai.jpg)
+[![Kodamai](kodamai.png)](https://www.kodamai.com/)

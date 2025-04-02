@@ -15,7 +15,7 @@ breadcrumbs: true
 **Registration/funding requests:** fill in this [form](https://forms.gle/QLFzh3Ugv5WgkhZr7) (registration is free but mandatory)
 
 **Important dates:**
-- May 25: deadline for [funding requests](https://forms.gle/QLFzh3Ugv5WgkhZr7)
+- May 25 CEST: deadline for [funding requests](https://forms.gle/QLFzh3Ugv5WgkhZr7)
 - June 1st: notification
 
 **Events:**
@@ -25,6 +25,15 @@ breadcrumbs: true
 * [MCLP: Conference on Mathematical and Computational Linguistics for Proofs](../MCLP)
 * [WG3: Workshop on Program Verification](../wg3-Sept2025)
 * [MC: Report on EuroProofNet results](../mc-meetings)
+
+**Sponsors:**
+
+<table>
+ <tr>
+  <td><a href="https://www.inria.fr/en/centre-inria-de-saclay"><img src="/_pages/symposium/logo-inria.jpg"/></a></td>
+  <td><a href="https://www.cnrs.fr/"><img src="/_pages/symposium/logo-cnrs.jpg"/></a></td>
+ </tr>
+</table>
 
 **Schedule:**
 
@@ -45,7 +54,7 @@ Week 2:
 |                       |                       |                        |                        | [MC](../mc-meetings)   |
 | (*)                   |                       | (*)                    |                        |                        |
 
-(*) 17:30-18:30: happy hour
+<p style="font-size: 12px">(*) 17:30-18:30: happy hour</p>
 
 **Steering committee:**
 - [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/) (INRIA & LMF, chair of EuroProofNet)

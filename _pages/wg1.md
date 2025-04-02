@@ -13,6 +13,8 @@ by developing tools to translate proofs from one system to another.
 
 ### Activities
 
+- 11-13 February 2025: [WG1 meeting](../Nogent25/), Nogent-sur-Seine, France
+
 - 26-27 September 2024: [WG1+2+4 meeting](../Fontainebleau24), Fontainebleau, France
 
 - 23-25 January 2024: [WG1 meeting](../wg1-gruissan24), Gruissan, France

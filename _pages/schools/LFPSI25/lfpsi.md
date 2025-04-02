@@ -14,10 +14,10 @@ This school is part of the [EuroProofNet Symposium](../Symposium). See the sympo
 
 **Venue:** [Institut Pascal](https://www.institut-pascal.universite-paris-saclay.fr/), 530 Rue André Rivière, 91400 Orsay [[access]](../Access) [[hotels]](../Hotels) [[food options]](../Food)
 
-**Registration/funding requests:** fill in this [form](https://forms.gle/QLFzh3Ugv5WgkhZr7)
+**Registration/funding requests:** fill in this [form](https://forms.gle/QLFzh3Ugv5WgkhZr7) (registration is free but mandatory)
 
 **Important dates:**
-- May 25: deadline for [funding requests](https://forms.gle/QLFzh3Ugv5WgkhZr7)
+- May 25 CEST: deadline for [funding requests](https://forms.gle/QLFzh3Ugv5WgkhZr7)
 - June 1st: notification
 
 **Programme:**
@@ -59,7 +59,7 @@ This school is part of the [EuroProofNet Symposium](../Symposium). See the sympo
 | 16:00-17:30 | FR    | FB    | AB    | AK    |
 | 17:30-18:30 | (*)   |       |       | (*)   |
 
-(*) happy hour
+<p style="font-size: 12px">(*) happy hour</p>
 
 **Sponsors:**
 
@@ -67,7 +67,8 @@ We are very grateful to the following organizations for their support:
 
 <table>
 <tr>
-<td><a href="https://www.universite-paris-saclay.fr/en/graduate-schools/graduate-school-computer-science"><img src="https://www.universite-paris-saclay.fr/sites/default/files/styles/2400xauto/public/2021-05/GS-informatique-h.png?itok=px6yldkB"/></a></td>
-<td><a href="https://www.universite-paris-saclay.fr/en/graduate-schools/graduate-school-computer-science">Graduate School of Computer Science</a> of the <a href="https://www.universite-paris-saclay.fr/en">Université Paris Saclay</a></td>
+  <td><a href="https://www.inria.fr/en/centre-inria-de-saclay"><img src="/_pages/symposium/logo-inria.jpg"/></a></td>
+  <td><a href="https://www.universite-paris-saclay.fr/en/graduate-schools/graduate-school-computer-science"><img src="/_pages/symposium/logo-gs-isn.png"/></a></td>
+  <!--https://www.universite-paris-saclay.fr/sites/default/files/styles/2400xauto/public/2021-05/GS-informatique-h.png?itok=px6yldkB-->
 </tr>
 </table>

@@ -13,23 +13,23 @@ This conference is part of the [EuroProofNet Symposium](../Symposium). See the s
 
 **Venue:** [Institut Pascal](https://www.institut-pascal.universite-paris-saclay.fr/), 530 Rue André Rivière, 91400 Orsay [[access]](../Access) [[hotels]](../Hotels) [[food options]](../Food)
 
-**Organizer:** Roussanka Loukanova (rloukanova@gmail.com)
+**Organizer:** [Roussanka Loukanova](http://www.math.bas.bg/logic/loukanovarp/) (rloukanova - gmail)
 
 Registration is required for participation and, in addition, for funding requests.
 
-**Registration/funding requests:** fill in this [form](https://forms.gle/QLFzh3Ugv5WgkhZr7)
+**Registration/funding requests:** fill in this [form](https://forms.gle/QLFzh3Ugv5WgkhZr7) (registration is free but mandatory)
 
 **Important dates:**
-- May 25: deadline for (free of registration fees) and funding requests [funding requests](https://forms.gle/QLFzh3Ugv5WgkhZr7)
+- May 25 CEST: deadline for [funding requests](https://forms.gle/QLFzh3Ugv5WgkhZr7)
 - June 1st: notification
 
-**Invited Speakers:** To Be Announced
+**Invited speakers:** To Be Announced
 
-To give a talk, the submission Web page for proposed titles and abstracts for MCLP 2025, is EasyChair of MCLP 2025:
+To give a talk or demo, the submission Web page for proposed titles and abstracts is EasyChair of MCLP 2025:
 
-[Submission:] (https://easychair.org/conferences?conf=mclp2025)
+[Submission: https://easychair.org/conferences?conf=mclp2025](https://easychair.org/conferences?conf=mclp2025)
 
-**Deadline:** May 25
+**Deadline:** May 25 CEST
 
 Please use LaTeX with Springer LNCS package or Microsoft Proceedings Word Templates.
 
@@ -40,7 +40,7 @@ I shall arrange publications in two stages:
 (2) post conference special volume of extended papers
 
 **DESCRIPTION:**
-Mathematical and computational linguistics for proofs. Mathematical linguistics (MathLing) is an interdisciplinary area providing theoretical foundations of computer science, as well as syntax and semantics of formal and natural languages of mathematical logic in theorem provers and proof assistants, model checkers, verification of programs, software and hardware.
+Mathematical and computational linguistics for proofs. Mathematical linguistics (MathLing) is an interdisciplinary area providing theoretical foundations of computer science, as well as syntax and semantics of natural and formal languages, including for mathematical logic in theorem provers, proof assistants, model checkers, verification of programs, software and hardware.
 
 Computational linguistics (CompLing) is a subfield of MathLing, which provides computational processing of formal and natural (human) languages by computational theories and algorithms for:
 

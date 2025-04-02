@@ -15,6 +15,51 @@ author_profile: true
 
 The grant amounts below are initial estimations and not necessarily the final amounts.
 
+## 13th call (16th March  2025)
+
+* **String Solving with Parametrized Automata** [application](/_pages/stsm/alber-app.pdf)   
+  Visitor: Franziska Alber   
+  Host: Laura Kovács   
+  Grant: 1243 EUR  
+  Dates: 2025-05-25 to 2025-06-01
+
+* **Indexing and web search for cross libraries Proofs** [application](/_pages/stsm/alidra-app.pdf)   
+  Visitor: Abdelghani Alidra  
+  Host: Claudio Sacerdoti Coen  
+  Grant: 1413 EUR  
+  Dates: 2025-04-14 to 2025-04-24
+
+* **Tree Transformers for Symbolic Mathematics** [application](/_pages/stsm/barket-app.pdf)   
+  Visitor: Rashid Barket  
+  Host: François Lemaire  
+  Grant: 966 EUR  
+  Dates: 2025-06-30 to 2025-07-13
+
+* **Formal verification of rule-based geometry** [application](/_pages/stsm/boutry-app.pdf)   
+  Visitor: Pierre Boutry  
+  Host: Vesna Marinković  
+  Grant: 800 EUR  
+  Dates: 2025-06-08 to 2025-06-13
+
+* **The (∞,1)-category of ∞-groupoids in the spirit of Lawvere** [application](/_pages/stsm/mikhail-app.pdf)   
+  Visitor: Thomas Jan Mikhail  
+  Host: Christian Sattler  
+  Grant: 1050 EUR  
+  Dates: 2025-05-11 to 2025-05-24
+
+* **Model Representation Formalisms for Constrained Horn Clauses over Algebraic Data Types** [application](/_pages/stsm/moehle-rotondi-app.pdf)   
+  Visitor: Sibylle Moehle-Rotondi  
+  Host: Viktor Kunčak  
+  Grant: 1189 EUR  
+  Dates: 2025-06-16 to 2025-06-27
+
+* **Informalization and Autoformalization with Dedukti and GF** [application](/_pages/stsm/ranta-app.pdf)   
+  Visitor: Aarne Ranta  
+  Host: Frédéric Blanqui  
+  Grant: 1548 EUR  
+  Dates: 2025-04-09 to 2025-04-16
+
+
 ## 12th call (24th November  2024)
 
 * **Verification of Higher-Order Logic Automated Reasoning within the Dedukti Framework** [application](/_pages/stsm/taprogge-app25.pdf)   
@@ -71,13 +116,13 @@ The grant amounts below are initial estimations and not necessarily the final am
   Grant: 1124 EUR  
   Dates: 2025-03-10 to 2025-03-21
 
-* **Array logics and aggregation functions for program verification** [application](/_pages/stsm/herrmann-app.pdf)   
+* **Array logics and aggregation functions for program verification** [application](/_pages/stsm/herrmann-app.pdf) [report](/_pages/stsm/herrmann-rep.pdf)   
   Visitor: Roland Herrmann    
   Host: Dilian Gurov      
   Grant: 1486 EUR  
   Dates: 2025-03-09 to 2025-03-16
 
-* **Generalization in typed languages and quantitative theories** [application](/_pages/stsm/kutsia-app.pdf)   
+* **Generalization in typed languages and quantitative theories** [application](/_pages/stsm/kutsia-app.pdf)  [report](/_pages/stsm/kutsia-rep.pdf)   
   Visitor: Temur Kutsia   
   Host: David Cerna      
   Grant: 600 EUR  
@@ -89,13 +134,13 @@ The grant amounts below are initial estimations and not necessarily the final am
   Grant: 1576 EUR  
   Dates: 2025-02-17 to 2025-03-02
 
- * **Developing a graded type system for a resource-aware workflow modelling language** [application](/_pages/stsm/pun-app25.pdf)   
+ * **Developing a graded type system for a resource-aware workflow modelling language** [application](/_pages/stsm/pun-app25.pdf)  [report](/_pages/stsm/pun-rep25.pdf)   
   Visitor: Violet Ka I Pun     
   Host: Elena Zucca      
   Grant: 1520 EUR  
   Dates: 2025-02-16 to 2025-02-22
 
-* **Translation templates for Dedukti** [application](/_pages/stsm/traversie-app.pdf)   
+* **Translation templates for Dedukti** [application](/_pages/stsm/traversie-app.pdf)  [report](/_pages/stsm/traversie-rep.pdf)   
   Visitor: Thomas Traversie  
   Host: Florian Rabe     
   Grant: 1530 EUR  
@@ -140,7 +185,7 @@ The grant amounts below are initial estimations and not necessarily the final am
   Grant: 2850 EUR    
   Dates: 2024-09-09 to 2024-09-24
 
-* **Strictification of the syntax of type theory** [application](/_pages/stsm/pujet-app.pdf)    
+* **Strictification of the syntax of type theory** [application](/_pages/stsm/pujet-app.pdf) [report](/_pages/stsm/pujet-rep.pdf)    
   Visitor: Loïc Pujet   
   Host: Ambrus Kaposi     
   Grant: 1430 EUR   

@@ -15,20 +15,15 @@ The talks will be followed by a discussion on gender balance issues, subconsciou
 **People of all genders are invited to participate in the event and the discussion**.
 
 ## Invited Speaker
-
-TBA
+[Ornela Dardha](https://www.dcs.gla.ac.uk/~ornela/)
 
 ## Call for contributions
 * Abstract submission deadline: April 25, 2025
 * Author notification: May 2, 2025
 * Funding application deadline: May 5, 2025
-* Early registration deadline: TBA
 * Event: June 10, 2025
 
-The contributed talks are meant as a platform to disseminate research done by women in the community. Only women (including transgender women) are invited to submit a contributed talk. Abstracts should be written in English and should not exceed 1-2 pages. Please use the EasyChair style for formatting your submission (EasyChair Style Guidelines). Additional details about the submission of contributed talks will be made available closer to the event.
-
-
-## Organization
+The contributed talks are meant as a platform to disseminate research done by women in the community. Only women (including transgender women) are invited to submit a contributed talk. Abstracts should be written in English and should not exceed 1-2 pages. Please use the EasyChair style for formatting your submission (EasyChair Style Guidelines). Submit your abstracts as a PDF file via email to (sandra@fc.up.pt) before the submission deadline on April 25, 2025 (anywhere on Earth).
 
 ### Venue
 
@@ -36,7 +31,7 @@ University of Strathclyde, Glasgow, Scotland
 
 ### Registration and Funding applications:
 
-Participation at the WEPN 2025 is free. Details about registration will be made available closer to the deadline.
+Participation at the WEPN 2025 is free. Registration is mandatory and can be done using the [application form](https://docs.google.com/forms/d/e/1FAIpQLSfctGSOyAWU-YsrZXa9jlSzvdA8nJmIcQuWIElMDO_YRgS4iQ/viewform?usp=dialog).
 
 The EuroProofNet COST action can provide funding for a limited amount of participants - **all genders welcome to apply for funding**! 
 Details about application for funding will be published closer to the event. Before applying for funding see [reimbursement rules](../reimbursement-rules).

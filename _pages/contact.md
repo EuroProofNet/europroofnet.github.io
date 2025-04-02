@@ -33,8 +33,8 @@ the [Grant Holder](mailto:saf-saclay-recettes@inria.fr).
   * vice coordinator: [Dmitriy Traytel](https://traytel.bitbucket.io/)
 
 - Grant awarding
-  * coordinator: [Simona Prokić](http://imft.ftn.uns.ac.rs/simona/)
-  * vice coordinator: [Ambrus Kaposi](https://akaposi.github.io/)
+  * coordinator: [Ambrus Kaposi](https://akaposi.github.io/)
+  * vice coordinator: [Simona Prokić](http://imft.ftn.uns.ac.rs/simona/)
 
 - Training
   * coordinator: [Luigia Petre](http://users.abo.fi/lpetre/)

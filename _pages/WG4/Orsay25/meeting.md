@@ -16,10 +16,10 @@ The objective is to have talks and demos like in the [1st Workshop on the develo
 
 **Organizers:** [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/), [Claudio Sacerdoti](http://www.cs.unibo.it/~sacerdot/), [Patrick Massot](https://www.imo.universite-paris-saclay.fr/~patrick.massot/)
 
-**Registration/funding requests:** fill in this [form](https://forms.gle/QLFzh3Ugv5WgkhZr7)
+**Registration/funding requests:** fill in this [form](https://forms.gle/QLFzh3Ugv5WgkhZr7) (registration is free but mandatory)
 
 **Important dates:**
-- May 25: deadline for [funding requests](https://forms.gle/QLFzh3Ugv5WgkhZr7) and talk proposals
+- May 25 CEST: deadline for [funding requests](https://forms.gle/QLFzh3Ugv5WgkhZr7) and talk proposals
 - June 1st: notification
 
 **Talk/demo proposals:** If you want to give a talk or make a tool demo, send a mail to [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/) with a title and abstract before May 25.
