@@ -19,16 +19,81 @@ The School on Symbolic and Statistical Methods for Reasoning and Processing Form
 - Symbolic techniques for solving quantitative constraints ([Temur Kutsia](https://www3.risc.jku.at/people/tkutsia/))
 - Runtime Verification as contiguous formula progression and SMT solving ([Martin Leucker](https://www.isp.uni-luebeck.de/leucker))
 
+- Towards GPU-accelerated automated reasoning ([Martin Berger](https://martinfriedrichberger.net/))
+
 
 ### Schedule
 
-| Time         | July 7      | July 8     | July 9      | July 10       | July 11       |
-|--------------|------------|-------------|---------------|--------------|
-| 10:00-11:30  | Maribel Fernandez     | Giovanni Ciatto     | Dinner and Excursion       | Temur Kutsia      | Martin Leucker |
-| 11:30-14:00  | Lunch Break | Lunch Break | Dinner and Excursion   | Lunch Break  | Lunch Break |
-| 14:00-15:30  | Giovanni Ciatto     | Elena Umili     | Dinner and Excursion       | Santiago Escobar      | Santiago Escobar |
-| 15:30-16:00  | Coffee Break | Coffee Break | Dinner and Excursion | Coffee Break | Coffee Break |
-| 16:00-17:30  | Elena Umili     | Maribel Fernandez     | Dinner and Excursion       | Temur Kutsia      | Martin Leucker |
+<table border="1" cellspacing="0" cellpadding="4">
+  <tr>
+    <th></th>
+    <th>July 7</th>
+    <th>July 8</th>
+    <th>July 9</th>
+    <th>July 10</th>
+    <th>July 11</th>
+  </tr>
+  <!-- Early Morning -->
+  <tr>
+    <td>9:00</td>
+    <td></td>
+    <td></td>
+    <td rowspan="3">Martin Berger</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>9:30</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>10:00</td>
+    <td rowspan="3">Maribel Fernandez</td>
+    <td rowspan="3">Giovanni Ciatto</td>
+    <td rowspan="3">Temur Kutsia</td>
+    <td rowspan="3">Martin Leucker</td>
+  </tr>
+  <tr>
+    <td>10:30</td>
+    <td rowspan="3">Giovanni Ciatto</td>
+  </tr>
+  <tr>
+    <td>11:00</td>
+  </tr>
+  <tr>
+    <td>11:30</td>
+    <td rowspan="2" colspan="2">Lunch break</td>
+    <td rowspan="2" colspan="2">Lunch break</td>
+  </tr>
+  <tr>
+    <td>12:00-13:30</td>
+    <td rowspan="4">Dinner and Excursion</td>
+
+  </tr>
+  <!-- Session 14:00–15:30 -->
+  <tr>
+    <td>14:00-15:30</td>
+    <td>Martin Berger</td>
+    <td>Elena Umili</td>
+    <td>Santiago Escobar</td>
+    <td>Santiago Escobar</td>
+  </tr>
+  <tr>
+    <td>15:30-16:00</td>
+    <td colspan="2">Coffee Break</td>
+    <td colspan="2">Coffee Break</td>
+  </tr>
+  <tr>
+    <td>16:00-17:30</td>
+    <td>Elena Umili</td>
+    <td>Maribel Fernandez</td>
+    <td>Temur Kutsia</td>
+    <td>Martin Leucker</td>
+  </tr>
+</table>
 
 ### Directions:
 
