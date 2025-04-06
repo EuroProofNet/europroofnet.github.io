@@ -38,6 +38,7 @@ The workshop features 27 contributions, a panel discussion and a poster session.
 - *Machine Learning in Theorem Proving*: [Josef Urban](https://people.ciirc.cvut.cz/~urbanjo3/) (CIIRC/CVUT)
 
 A [detailed schedule](https://easychair.org/smart-program/EuroProofNet-WG5/) is available.
+For the panel session on the 8th, we invite all participants to [propose](https://app.sli.do/event/tBCNKKKuPEphx8wp9Y3NfC) suitable questions to the panelists. We will choose 5 questions to discuss in detail.
 
 # Registration
 We are expecting a large number of participants, and therefore registration is **mandatory**. Registration is [online](https://www.epay.ed.ac.uk/conferences-and-events/college-of-science-and-engineering/school-of-informatics/informatics-events/workshop-on-theorem-proving-and-machine-learning-in-the-age-of-llms), and will close on the 12th March 2025 at 1600 UK time.
