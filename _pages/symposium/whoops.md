@@ -1,7 +1,7 @@
 ---
-title: "2nd International Workshop on Highlights in Organizing and Optimizing Proof-logging Systems (WHOOPS '25)"
+title: "2nd International Workshop on Highlights in Organizing and Optimizing Proof-logging Systems (WHOOPS'25)"
 layout: single
-permalink: /Symposium/whoops
+permalink: /whoops/
 author_profile: true
 breadcrumbs: true
 ---
