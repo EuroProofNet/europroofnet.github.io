@@ -5,7 +5,9 @@ permalink: /news/
 author_profile: true
 ---
 
-August 2024: [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/), chair of EuroProofNet, has been invited to give a series of lectures at the [14th International School on Rewriting](http://cl-informatik.uibk.ac.at/isr24/) (ISR'24,), Obergurgl, Austria.
+13 September 2024: [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/), chair of EuroProofNet, has been invited a talk on translating libraries of definitions and theorems between proof systems at the [15th International Conference on Interactive Theorem Proving](https://www.viam.science.tsu.ge/itp2024/) (ITP'24), Tbilisi, Georgia
+
+25 August 2024: [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/), chair of EuroProofNet, has been invited to give a series of lectures at the [14th International School on Rewriting](http://cl-informatik.uibk.ac.at/isr24/) (ISR'24), Obergurgl, Austria.
 
 20 October 2023: [Gilles Dowek](http://www.lsv.fr/~dowek/) received the [Grand Prix Inria - Académie des Sciences 2023](https://www.inria.fr/fr/gilles-dowek-methodes-formelles-grand-prix-scientifique-inria-academie-des-sciences-2023).
 
