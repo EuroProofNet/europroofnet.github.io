@@ -66,3 +66,20 @@ The hotels closest to the venue are in the Brignole area:
 * [Toya Sushi](https://maps.app.goo.gl/BwkQoNX8zgGt2MPw5) (asian fusion)
 * [Vegia Arbà](https://maps.app.goo.gl/MrAJDShGaVE6rviT6) (dinner only, Genoese)
 -->
+
+### Workshop dinner {#dinner}
+
+We'll have a dinner on Thursday at 19:00 at
+
+[Osteria degli Artisti](https://maps.app.goo.gl/pxWzWTvdZKTgMpmC7)  
+via Boccadasse 35 (red)
+
+Two menus are available:
+
+| | Menu 1 | Menu 2 |
+|:---:|:---:|:---:|
+| Starters | focaccia, Genoese savoury pies, "Russian salad" with squids and artichokes | focaccia, Genoese savoury pies |
+| Mains | Venere rice with squid sauce, Pansoti (traditional fresh pasta filled with cheese and spinach) with walnut sauce, Baked fish fillet with vegetables | Venere rice with vegetable sauce, Pansoti (traditional fresh pasta filled with cheese and spinach) with walnut sauce, Cheese focaccia |
+| Dessert | Millefoglie with panera | Millefoglie with panera |
+
+Please get in touch with the organisers in case you want to participate but haven't given your preference of menu.

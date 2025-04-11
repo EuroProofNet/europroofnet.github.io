@@ -27,6 +27,7 @@ breadcrumbs: true
 | 16:10-16:40 | _break_ | _break_ |
 | 16:40-17:05 | [Laretto](#alaretto) | [Sabelli](#psabelli) |
 | 17:05-17:30 | [Ranalter](#dranalter) | [Novotny](#snovotny) |
+| 19:00- | [Dinner](/wg6-genoa/local-info#dinner) |  |
 
 
 
