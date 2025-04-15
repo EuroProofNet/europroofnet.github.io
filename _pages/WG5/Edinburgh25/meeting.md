@@ -72,6 +72,42 @@ The chairs are investigating the possibility of organising a special journal iss
 The travel and accommodation of a number of participants (approximately 12) will be supported by the [Cost Action CA20111 - European Research Network on Formal Proofs](https://europroofnet.github.io/).
 Applications have now closed.
 
+# Abstracts
+[Steven Obua: Abstraction Logic Is All You Need](abstracts/1.pdf)  
+[Alberto Gandolfi: How LLMs could Fool a Proof Checker: The Risks of Inconsistent Assumptions in Automated Proof Systems](abstracts/2.pdf)  
+[Markus Pantsar: The need for ethical guidelines in mathematical research in the time of generative AI](abstracts/3.pdf)  
+[Tim Fernando: Between min cost search and least action](abstracts/4.pdf)  
+[Konstantinos Kogkalidis, Orestis Melkonian and Jean-Philippe Bernardy: Structure-Aware Neural Representations of Agda Programs](abstracts/5.pdf)  
+[Huajian Xin: Frontier of Formal Theorem Proving with Large Language Models: Insights from the DeepSeek-Prover](abstracts/6.pdf)  
+[Samuel Teuber and Bernhard Beckert: Towards LLM-support for Deductive Verification of Java Programs](abstracts/7.pdf)  
+[Jonathan Julian Huerta Y Munive: DeepIsaHOL progress report: current machine learning for the Isabelle proof assistant](abstracts/8.pdf)  
+[Job Petrovčič, Sebastian Mežnar and Ljupčo Todorovski: Kernel-level expression generator](abstracts/9.pdf)  
+[Robin Rawiel and Lukas Niehaus: Reinforcement Learning for Term Rewrite Systems](abstracts/10.pdf)  
+[Laetitia Teodorescu, Guillaume Baudart, Emilio Jesús Gallego Arias and Marc Lelarge: NLIR: Natural Language Intermediate Representation for Mechanized Theorem Proving](abstracts/11.pdf)  
+[Aleksandr Shefer, Igor Engel, Stanislav Alekseev, Daniil Berezun, Ekaterina Verbitskaia and Anton Podkopaev: Are LLMs Ready for Software Verification?](abstracts/12.pdf)  
+[Alexandra Fikiori, Asterios Gkantzounis, Foivos Skarpelos and Petros Stefaneas: On Abstract Logics for Interacting Provers](abstracts/13.pdf)  
+[Guy Axelrod, Moa Johansson and Andrea Silvi: Intrinsic Motivation To Construct Terms In A Dependent Type Theory](abstracts/14.pdf)  
+[Gleb Solovev, Nikita Khramov, Andrei Kozyrev and Anton Podkopaev: CoqPilot benchmarking framework](abstracts/15.pdf)  
+[Jules Viennot, Guillaume Baudart, Emilio Jesús Gallego Arias and Marc Lelarge: MiniF2F in Rocq: Automatic Translation Between Proof Assistants — A Case Study](abstracts/16.pdf)  
+[Rashid Barket, Uzma Shafiq, Matthew England and Jürgen Gerhard: Transformers to Predict the Applicability of Symbolic Integration Routines](abstracts/17.pdf)  
+[Artjoms Sinkarovs: Correct by Construction Machine Learning](abstracts/18.pdf)  
+[Irina Starikova: Mathematics and Creative AI](abstracts/19.pdf)  
+[Luca Pasetto and Christoph Benzmüller: The Fatio Protocol for Formal Dialogue in Isabelle/HOL](abstracts/20.pdf)  
+[Maxim Zyskin: Chessboard covers and AI.](abstracts/21.txt)  
+[Richard Thompson, Adam Pease, Angelos Toutsios, Roberto Milanese Jr. and Jarrad Singley: Formalizing Natural Language: Cultivating LLM Translations Using Automated Theorem Proving](abstracts/22.pdf)  
+[Cameron Freer, Alexander Lew, Timothy O'Donnell and Vikash Mansinghka: Autoformalization and autoinformalization via probabilistic reasoning](abstracts/23.pdf)  
+[Yutaka Nagashima and Daniel Sebastian Goc: Proof By Abduction in Isabelle/HOL](abstracts/24.pdf)  
+[Stephan Schulz: Automated Theorem Provers as the Hub of the AI Math Ecosystem](abstracts/25.pdf)  
+[Yousef Alhessi, Sólrún Halla Einarsdóttir, Emily First, George Granberry, Moa Johansson and Nicholas Smallbone: Neuro-Symbolic Lemma Conjecturing](abstracts/26.pdf)  
+[Alexei Lisitsa: In search of simplicity: a case study in ML and LLM assisted applications of ATP in mathematics](abstracts/27.pdf)  
+[Bartosz Naskręcki: From Mathematical Theory to Machine Learning: Detecting Symmetry Groups in Crystallographic Tilings](abstracts/28.txt)  
+
+# Photos
+![sunny Edinburgh](photos/sun.jpg)
+![welcome](photos/welcome.jpg)
+![group photo](photos/group.jpg)
+![panel discussion](photos/panel.jpg)
+
 # Further Acknowledgements
 We are grateful for support from the following organisations in addition to EuroProofNet.
 [<img alt="EPSRC" src="https://www.ukri.org/wp-content/uploads/2022/03/ukri-epsrc-square-logo.png" width=200>](https://www.ukri.org/councils/epsrc/)
