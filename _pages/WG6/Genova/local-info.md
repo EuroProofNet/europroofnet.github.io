@@ -69,7 +69,7 @@ The hotels closest to the venue are in the Brignole area:
 
 ### Workshop dinner {#dinner}
 
-We'll have a dinner on Thursday at 19:00 at
+We'll have a dinner on Thursday at 19:15 at
 
 [Osteria degli Artisti](https://maps.app.goo.gl/pxWzWTvdZKTgMpmC7)  
 via Boccadasse 35 (red)
