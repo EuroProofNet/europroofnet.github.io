@@ -86,7 +86,7 @@ The grant amounts below are initial estimations and not necessarily the final am
   Grant: 1631 EUR  
   Dates: 2025-04-14 to 2025-04-25
 
-* **Mapping the Landscape Between Proof Schemata and Cyclic Proofs** [application](/_pages/stsm/rowe-app.pdf)   
+* **Mapping the Landscape Between Proof Schemata and Cyclic Proofs** [application](/_pages/stsm/rowe-app.pdf)  [report](/_pages/stsm/rowe-rep.pdf)   
   Visitor: Reuben Rowe    
   Host:  Anela Lolić    
   Grant: 1677 EUR  
@@ -110,7 +110,7 @@ The grant amounts below are initial estimations and not necessarily the final am
   Grant: 755 EUR  
   Dates: 2025-03-17 to 2025-03-27
 
-* **From Dedukti to MMT: A Comparative Study of Modular Frameworks for Logical System** [application](/_pages/stsm/dunne-app.pdf)   
+* **From Dedukti to MMT: A Comparative Study of Modular Frameworks for Logical System** [application](/_pages/stsm/dunne-app.pdf)  [report](/_pages/stsm/dunne-rep.pdf)   
   Visitor: Ciarán Dunne    
   Host: Michael Kohlhase      
   Grant: 1124 EUR  
@@ -146,7 +146,7 @@ The grant amounts below are initial estimations and not necessarily the final am
   Grant: 1530 EUR  
   Dates: 2025-02-02 to 2025-02-14
 
-* **Modern algebraic perspectives on dualities and control effects** [application](/_pages/stsm/choudhury-app.pdf)   
+* **Modern algebraic perspectives on dualities and control effects** [application](/_pages/stsm/choudhury-app.pdf)  [report](/_pages/stsm/choudhury-rep.pdf)   
   Visitor: Vikraman Choudhury    
   Host: Marcelo Fiore     
   Grant: 1131 EUR  
