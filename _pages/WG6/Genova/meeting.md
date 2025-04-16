@@ -118,6 +118,8 @@ The daily allowance has been fixed to 140 euros.
 We recommend those interested in applying to read the official information regarding reimbursement available [here](../reimbursement-rules).
 In particular, note that to receive funding you will be asked to register as a member of EuroProofNet if you are not already.-->
 
+**Participants:** Please see [here](participants).
+
 **Local information:** Please see [here](local-info).
 
 **Organizers:** [Francesco Dagnino](https://fdgn.github.io/) and [Jacopo Emmenegger](https://jacopoemmenegger.wordpress.com/)
