@@ -34,7 +34,7 @@ breadcrumbs: true
 25.	Philipp	Joram
 26.	Moana	Jubert
 27.	Ambrus	Kaposi
-28.	ivan	Kobe
+28.	Ivan	Kobe
 29.	András	Kovács
 30.	Thomas	Lamiaux
 31.	Andrea	Laretto
