@@ -31,7 +31,7 @@ University of Strathclyde, Glasgow, Scotland
 
 ### Registration and Funding applications:
 
-Participation at the WEPN 2025 is free. Registration is mandatory and can be done using the [application form](https://docs.google.com/forms/d/e/1FAIpQLSfctGSOyAWU-YsrZXa9jlSzvdA8nJmIcQuWIElMDO_YRgS4iQ/viewform?usp=dialog).
+Participation at the WEPN 2025 is free. Registration is mandatory if you are a speaker and/or applying for funding, and can be done using the [application form](https://docs.google.com/forms/d/e/1FAIpQLSfctGSOyAWU-YsrZXa9jlSzvdA8nJmIcQuWIElMDO_YRgS4iQ/viewform?usp=dialog).
 
 The EuroProofNet COST action can provide funding for a limited amount of participants - **all genders welcome to apply for funding**! 
 Details about application for funding will be published closer to the event. Before applying for funding see [reimbursement rules](../reimbursement-rules).

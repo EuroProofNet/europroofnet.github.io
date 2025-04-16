@@ -15,18 +15,19 @@ breadcrumbs: true
 | 09:30-09:55 | [De Pascalis](#mdepascalis) | [Winterhalter](#twinterhalter) |
 | 09:55-10:20 | [Damato](#sdamato) | [Bouverot-Dupuis](#mbouverot) |
 | 10:20-11:00 | _break_ | _break_ |
-| 11:00-11:50 | [Gavazzo](#fgavazzo) | [North](#prnorth) |
+| 11:00-11:50 | [Lamiaux](#tlamiaux) | [North](#prnorth) |
 | 11:50-12:00 | _break_ | _break_ |
 | 12:00-12:25 | [Cioffo](#ccioffo) | [Giusto](#agiusto) |
 | 12:25-12:50 | [Spadetto](#mspadetto) | [Najmaei](#nnajmaei) |
 | 12:50-14:20 | _lunch_ | _lunch_ |
-| 14:20-15:10 | [Lamiaux](#tlamiaux) | [Kovács](#akovacs) |
+| 14:20-15:10 | [Gavazzo](#fgavazzo) | [Kovács](#akovacs) |
 | 15:10-15:20 | _break_ | _break_ |
 | 15:20-15:45 | [Doré](#mdore) | [Neumann](#jneumann) |
 | 15:45-16:10 | [Perticone](#lperticone) | [Petrakis](#ipetrakis) |
 | 16:10-16:40 | _break_ | _break_ |
 | 16:40-17:05 | [Laretto](#alaretto) | [Sabelli](#psabelli) |
 | 17:05-17:30 | [Ranalter](#dranalter) | [Novotny](#snovotny) |
+| 19:15- | [Dinner](/wg6-genoa/local-info#dinner) |  |
 
 
 
@@ -134,7 +135,7 @@ One of the distinctive features of dependent type theories is the possibility of
 
 In this talk we will describe a universal construction that freely adds the comprehension structure to an arbitrary fibration. In the last part we will also briefly study the relation between the two notions of comprehension named above.
 
-This is joint work with Jacopo Emmenegger (DIMA, UniGe) and Francesco Dagnino (DIBRIS, UniGe).
+This is joint work with Francesco Dagnino (DIBRIS, UniGe) and Jacopo Emmenegger (DIMA, UniGe).
 
 
 ###### Andrea Laretto: Directed First-Order Logic {#alaretto}

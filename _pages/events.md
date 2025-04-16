@@ -13,6 +13,7 @@ author_profile: true
 
 **2025**
 
+- 7-8 April 2025: [WG5 meeting on Theorem Proving with LLMs: SoA and Future Perspectives](../wg5-edinburgh25), Edinburgh, UK
 - 11-13 February 2025: [WG1 meeting](../Nogent25/), Nogent-sur-Seine, France
 
 **2024**
