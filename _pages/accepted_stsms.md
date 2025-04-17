@@ -98,7 +98,7 @@ The grant amounts below are initial estimations and not necessarily the final am
   Grant: 1580 EUR  
   Dates: 2025-04-05 to 2025-04-12
 
-* **Algorithmic foundations of graded coalgebraic semantics** [application](/_pages/stsm/ford-app.pdf)   
+* **Algorithmic foundations of graded coalgebraic semantics** [application](/_pages/stsm/ford-app.pdf) [report](/_pages/stsm/ford-rep.pdf)   
   Visitor: Chase Ford     
   Host: Lutz Schröder     
   Grant: 1358 EUR  
