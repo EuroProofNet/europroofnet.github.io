@@ -104,7 +104,7 @@ The grant amounts below are initial estimations and not necessarily the final am
   Grant: 1358 EUR  
   Dates: 2025-03-23 to 2025-03-29      
 
-* **Higher-Order Equational Unification and Anti-Unification for Program Verification** [application](/_pages/stsm/nantes-app.pdf)   
+* **Higher-Order Equational Unification and Anti-Unification for Program Verification** [application](/_pages/stsm/nantes-app.pdf) [report](/_pages/stsm/nantes-rep.pdf)   
   Visitor: Daniele Nantes    
   Host: David Cerna     
   Grant: 755 EUR  
