@@ -12,7 +12,7 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 - [STSM reports](../accepted_stsms)
 
 **2025**
-- [Scalable Knowledge Refactoring using Constrained Optimisation](https://arxiv.org/abs/2408.11530), Minghao Liu, David M. Cerna, Filipe Gouveia, Andrew Cropper. AAAI'25
+- [Scalable Knowledge Refactoring using Constrained Optimisation](https://ojs.aaai.org/index.php/AAAI/article/view/33650), Minghao Liu, David M. Cerna, Filipe Gouveia, Andrew Cropper. AAAI'25
 - [A Predicative Approach to the Constructive Integration Theory of Locally Compact Metric Spaces](http://logicandanalysis.org/index.php/jla/article/view/513), Fabian Lukas Grubmüller, Iosif Petrakis. *J. Log. Anal.*
 - [Barendregt Convenes with Knaster and Tarski: Strong Rule Induction for Syntax with Bindings](https://doi.org/10.1145/3704893), Jan van Brügge, James McKinna, Andrei Popescu, Dmitriy Traytel. POPL'25
 
