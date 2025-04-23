@@ -92,7 +92,7 @@ The grant amounts below are initial estimations and not necessarily the final am
   Grant: 1677 EUR  
   Dates: 2025-04-06 to 2025-04-13
 
-* **Designing a high-level software specification language for deductive verification** [application](/_pages/stsm/boukir-app.pdf)   
+* **Designing a high-level software specification language for deductive verification** [application](/_pages/stsm/boukir-app.pdf) [report](/_pages/stsm/boukir-rep.pdf)   
   Visitor: Khaoula Boukir    
   Host: Dilian Gurov     
   Grant: 1580 EUR  
