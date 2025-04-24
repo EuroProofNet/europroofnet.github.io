@@ -6,6 +6,8 @@ author_profile: true
 breadcrumbs: true
 ---
 
+![Workshop group photo](./EPN-WG6-Genoa.jpg)
+
 **Dates:** 17-18 April 2025
 
 **Place:** Genova, Italy
