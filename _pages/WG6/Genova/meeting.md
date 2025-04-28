@@ -17,10 +17,11 @@ Villa Giustiniani-Cambiaso,
 Scuola Politecnica, Università di Genova  
 via Montallegro 1, Genova 16145  
 
-
+<!--
 ⚠️⚠️ **On Thursday 17** all parks in Genoa will be closed due to strong wind. **The venue can be reached only through an entrance from viale Cambiaso**, more or less [here](https://maps.app.goo.gl/SFrJfeMmESh558zu7). You will have to enter a courtyard, reach the very end of it and turn right to a first flight of steps, then left to another flight of steps, and after those you will see the building. You will find some signs along the path. ⚠️⚠️
 
 ⚠️⚠️ Please beware of accommodation-related scam emails targeting this specific event.⚠️⚠️
+-->
 
 Co-located with the [HoTT/UF 2025 Workshop](https://hott-uf.github.io/2025/).  
 
