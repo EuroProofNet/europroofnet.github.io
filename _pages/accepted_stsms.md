@@ -53,7 +53,7 @@ The grant amounts below are initial estimations and not necessarily the final am
   Grant: 1189 EUR  
   Dates: 2025-06-16 to 2025-06-27
 
-* **Informalization and Autoformalization with Dedukti and GF** [application](/_pages/stsm/ranta-app.pdf)   
+* **Informalization and Autoformalization with Dedukti and GF** [application](/_pages/stsm/ranta-app.pdf) [report](/_pages/stsm/ranta-rep.pdf)   
   Visitor: Aarne Ranta  
   Host: Frédéric Blanqui  
   Grant: 1548 EUR  
