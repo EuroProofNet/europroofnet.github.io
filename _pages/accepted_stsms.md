@@ -80,7 +80,7 @@ The grant amounts below are initial estimations and not necessarily the final am
   Grant: 1819 EUR  
   Dates: 2025-05-07 to 2025-05-20
 
-* **Model-Checking Smart Contracts** [application](/_pages/stsm/konjoh-selabi-app.pdf)   
+* **Model-Checking Smart Contracts** [application](/_pages/stsm/konjoh-selabi-app.pdf) [report](/_pages/stsm/konjoh-selabi-rep.pdf)   
   Visitor: Elvis Gerardin Konjoh Selabi    
   Host: Alberto Lluch Lafuente     
   Grant: 1631 EUR  
