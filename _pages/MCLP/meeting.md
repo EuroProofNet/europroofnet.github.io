@@ -13,7 +13,7 @@ This conference is part of the [EuroProofNet Symposium](../Symposium). See the s
 
 **Venue:** [Institut Pascal](https://www.institut-pascal.universite-paris-saclay.fr/), 530 Rue André Rivière, 91400 Orsay [[access]](../Access) [[hotels]](../Hotels) [[food options]](../Food)
 
-**Organizer:** [Roussanka Loukanova](http://www.math.bas.bg/logic/loukanovarp/) (rloukanova - gmail)
+**Organizer:** [Roussanka Loukanova](https://staff.math.su.se/rloukanova/) (rloukanova - gmail)
 
 Registration is required for participation and, in addition, for funding requests.
 
