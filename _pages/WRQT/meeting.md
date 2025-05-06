@@ -21,10 +21,6 @@ The Workshop on Reasoning with Quantitative Types is a two day event, supported 
 The workshop is going to be an informal event and both original and previously submitted works will be considered.
 Contributed talks should be supported by a small abstract of 1 page. Please use the EasyChair style for formatting your submission [(EasyChair Style Guidelines)](https://easychair.org/publications/for_authors). Abstracts will not be peer-reviewed, but only those that are relevant and of good quality will be considered. Submit your abstracts as a PDF file via email to (sandra@fc.up.pt) before the submission deadline on April 28, 2025 (anywhere on Earth).
 
-## Organization
-* Sandra Alves - University of Porto
-* Miguel Ramos - University of Porto
-
 ### Venue
 Department of Computer Science
 Faculty of Sciences - University of Porto
@@ -62,6 +58,7 @@ The following is a tentative program (subject to change).
 | 16:00-16:30 | _Coffee Tea Break_ |
 | 16:30-17:15 | Adrienne Lancelot: _"Separating Terms by means of Multi Types, Coinductively"_ |
 | 17:15-18:00 | TBA
+
 #### Day 2 - June 6, 2025 
 
 | Time        | Session |
@@ -75,5 +72,6 @@ The following is a tentative program (subject to change).
 | 16:00-16:30 | _Coffee Tea Break_ |
 | 16:30 | Closing |
 
+## Organization
 * [Sandra Alves](https://www.dcc.fc.up.pt/~sandra/Home/Home.html)
 * [Miguel Ramos](https://boilnkettle.github.io)
