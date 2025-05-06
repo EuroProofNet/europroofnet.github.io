@@ -70,8 +70,10 @@ The following is a tentative program (subject to change).
 | 10:30-11:00 |  _Coffee Tea Break_ |
 | 11:00-12:30 | Tutorial - Andrej Dudenhefner: _"Mechanization of Non-idempotent Intersection Types in the Coq Proof Assistant"_ |
 | 12:30-14:30 | _Lunch_ |
-| 14:30-16:00 | TBA |
+| 14:30-15:30 | Delia Kesner: _"Quantitative Types for Call-by-Value"_|  
+| 15:30-16:00 | TBA |  
 | 16:00-16:30 | _Coffee Tea Break_ |
+| 16:30 | Closing |
 
 * [Sandra Alves](https://www.dcc.fc.up.pt/~sandra/Home/Home.html)
 * [Miguel Ramos](https://boilnkettle.github.io)
