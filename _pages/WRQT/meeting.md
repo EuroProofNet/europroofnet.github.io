@@ -30,9 +30,10 @@ Rua do Campo Alegre 1055,
 
 ### Registration and Funding applications:
 * Application deadline: April 28, 2025
+* Extended application deadline: **May 18,2025** (applications will be consider in order of arrival) 
 * Notification:  May 4, 2025
   
-Participation at the WRQT 2025 is free, but registration is mandatory. To register, please use the [registration form](https://docs.google.com/forms/d/e/1FAIpQLScsgv1wwGScshkAaPRPQFFX8ztxz5w1GGokRoVvSntObzawDA/viewform?usp=dialog).
+Participation at the WRQT 2025 is free, but registration is mandatory. To register, please use the [registration form/funding application](https://docs.google.com/forms/d/e/1FAIpQLSe6uXqOorYKbeaSn_LfnVH6HHL_CeMX0UeqvOFNbAeWMy0OLw/viewform?usp=sf_link).
 
 The EuroProofNet COST action can provide funding for a limited amount of participants. Before applying for funding see [reimbursement rules](../reimbursement-rules). 
 
