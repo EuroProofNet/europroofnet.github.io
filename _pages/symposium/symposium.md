@@ -21,6 +21,7 @@ breadcrumbs: true
 **Events:**
 * [LFPSI: 1st International School on Logical Frameworks and Proof Systems Interoperability](../LFPSI25)
 * [WG2: Workshop on Automated Reasoning and Proof Logging](../wg2-symposium)
+* [WHOOPS: 2nd International Workshop on Highlights in Organizing and Optimizing Proof-logging Systems](../whoops/)
 * [WG4: Workshop on Proof Libraries](../WG4_Orsay25)
 * [MCLP: Conference on Mathematical and Computational Linguistics for Proofs](../MCLP)
 * [WG3: Workshop on Program Verification](../wg3-Sept2025)
