@@ -6,7 +6,9 @@ author_profile: true
 breadcrumbs: true
 ---
 
-**Date:** 13-14 September 2025
+as part of the [Final EuroProofNet Symposium](https://europroofnet.github.io/Symposium/).
+
+**Dates:** 13 September 2025 (together with the [WG2 meeting on automated reasoning and proof logging](../wg2-symposium)), and 14 September 2025.
 
 **Venue:** [Institut Pascal](https://www.institut-pascal.universite-paris-saclay.fr/), 530 Rue André Rivière, 91400 Orsay [[access]](../Access) [[hotels]](../Hotels) [[food options]](../Food)
 
