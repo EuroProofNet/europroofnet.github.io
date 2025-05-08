@@ -34,8 +34,6 @@ corner).
 
 **Coming events:**
 
-- 17-18 April 2025: [WG6 meeting](../wg6-genoa/), co-located with the [2025 Workshop on Homotopy Type Theory / Univalent Foundations](https://hott-uf.github.io/2025/) (HoTT/UF), Genoa, Italy
-
 - 3-5 June 2025: [WG2 meeting on ATPs for geometry](../wg2-geo25), Krakow, Poland
 
 - 3-5 June 2025: [School on Natural Language Formalizations](https://naproche.github.io/school/) (SoNaLF), Bonn, Germany
