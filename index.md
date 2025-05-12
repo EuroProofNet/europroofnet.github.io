@@ -15,7 +15,7 @@ EuroProofNet is the European research network on digital proofs.
 **EuroProofNet aims at boosting the interoperability and usability of
 proof systems**.
 It is a [COST](http://cost.eu) action started on November 2021
-gathering more than [577 researchers](https://www.cost.eu/actions/CA20111/#tabs+Name:Working%20Groups%20and%20Membership) from 46 different countries, chaired by [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/) and a [Core group](../contact).
+gathering more than [578 researchers](https://www.cost.eu/actions/CA20111/#tabs+Name:Working%20Groups%20and%20Membership) from 47 different countries, chaired by [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/) and a [Core group](../contact).
 EuroProofNet organizes meetings and schools (see coming events below), and provides
 [grants](../grants) to its members for short-term scientific missions
 in another country. [Learn more...](../description) &nbsp; [Objectives](../objectives) &nbsp; [Deliverables](../deliverables) &nbsp; [Questions?](../contact)
