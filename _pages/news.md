@@ -5,6 +5,10 @@ permalink: /news/
 author_profile: true
 ---
 
+19 July 2025: [David Cerna](https://ermine516.github.io/), WG5 leader, has been invited to give a talk at the [Annual Meeting of IFIP Working Group 1.6: Rewriting](https://ifip-wg-rewriting.cs.ru.nl/events/event-2025.html) (IFIP-WG1.6 2025) co-located with FSCD'25, Birmingham, United Kingdom
+
+14 July 2025: [David Cerna](https://ermine516.github.io/), WG5 leader, has been invited to give a talk at the [39th International Workshop on Unification](https://cs.newpaltz.edu/unif2025/) (UNIF'25) co-located with FSCD'25, Birmingham, United Kingdom
+
 13 September 2024: [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/), chair of EuroProofNet, has been invited a talk on translating libraries of definitions and theorems between proof systems at the [15th International Conference on Interactive Theorem Proving](https://www.viam.science.tsu.ge/itp2024/) (ITP'24), Tbilisi, Georgia
 
 25 August 2024: [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/), chair of EuroProofNet, has been invited to give a series of lectures at the [14th International School on Rewriting](http://cl-informatik.uibk.ac.at/isr24/) (ISR'24), Obergurgl, Austria.
