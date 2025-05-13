@@ -24,6 +24,11 @@ The objective is to have talks and demos like in the [1st Workshop on the develo
 
 **Talk/demo proposals:** If you want to give a talk or make a tool demo, send a mail to [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/) with a title and abstract before May 25.
 
+**Speakers:**
+- [Cyril Cohen](https://perso.crans.org/cohen/), Hierarchy builder
+- [Sylvie Boldo](https://pages.saclay.inria.fr/sylvie.boldo/), The Coq library on numerical analysis
+- ... (more to come)
+
 **Previous workshops:**
 - [1st Workshop on the development, maintenance, refactoring and search of large libraries of proofs](../wg4-meeting1), Tbilisi, Georgia, 23-24 September 2022
 - [Workshop on Libraries of Formal Proofs and Natural Mathematical Language](../cambridge-2023), Cambridge, UK, 7-8 September 2023
