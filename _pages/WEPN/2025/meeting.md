@@ -15,7 +15,7 @@ The talks will be followed by a discussion on gender balance issues, subconsciou
 **People of all genders are invited to participate in the event and the discussion**.
 
 ## Invited Speaker
-[Ornela Dardha](https://www.dcs.gla.ac.uk/~ornela/)
+[Elaine Pimentel](https://sites.google.com/site/elainepimentel/)
 
 ## Call for contributions
 * Abstract submission deadline: April 25, 2025
@@ -41,8 +41,21 @@ Note that it is possible to arrive a few days before and leave a few days after 
 Please contact the organisers if you have any problem during the application for funding process, including reluctance to use google forms.
 
 ### Program
+The event is scheduled as a half-day meeting.
+<!--- Tentative program schedule (subject to change):
 
-TBA
+| Time        | Session |
+| ----------- | ----------- |
+| 14h00 | Opening & Welcome |
+| 14:05-15:00 | Invited talk - Elaine Pimentel|
+| | Irina Starikova: _"Why Types: Natural Structures of Mind or Artificial Formal Tools?"_|
+| | _Coffee Break_ |
+| | Malin Altenmuller: _"Reasoning with strict symmetric monoidal categories in Agda"_|
+| | Roussanka Loukanova: _"Type Theory of Acyclic and Cyclic Algorithms without Chain
+Memory"_|
+| | Discussion on gender balance issues |
+| | Group photo |
+-->
 
 ### Booklet of best practices
 Within the cost action European Network For Gender Balance in Informatics ([EUGAIN](https://eugain.eu/)) a [Booklet “From Ph.D. to Professor”](https://eugain.eu/results/deliverables/) of best practices was developed to address some of the gender balance issues, particularly in the stage between PhD and professorship. The booklet is going to be updated during the life of the EUGAIN action.
