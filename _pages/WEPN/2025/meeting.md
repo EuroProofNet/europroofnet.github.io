@@ -42,20 +42,20 @@ Please contact the organisers if you have any problem during the application for
 
 ### Program
 The event is scheduled as a half-day meeting.
-<!--- Tentative program schedule (subject to change):
+Tentative program schedule (subject to change):
 
 | Time        | Session |
 | ----------- | ----------- |
-| 14h00 | Opening & Welcome |
-| 14:05-15:00 | Invited talk - Elaine Pimentel|
-| | Irina Starikova: _"Why Types: Natural Structures of Mind or Artificial Formal Tools?"_|
-| | _Coffee Break_ |
-| | Malin Altenmuller: _"Reasoning with strict symmetric monoidal categories in Agda"_|
-| | Roussanka Loukanova: _"Type Theory of Acyclic and Cyclic Algorithms without Chain
+| 14h10 | Opening & Welcome |
+| 14:15-15:15 | Invited talk - Elaine Pimentel|
+| 15h15 - 15h45| _Coffee Break_ |
+| 15:45 - 16:15| Irina Starikova: _"Why Types: Natural Structures of Mind or Artificial Formal Tools?"_|
+| 16:15 - 16:45| Malin Altenmuller: _"Reasoning with strict symmetric monoidal categories in Agda"_|
+| 16:45 - 17:15| Roussanka Loukanova: _"Type Theory of Acyclic and Cyclic Algorithms without Chain
 Memory"_|
-| | Discussion on gender balance issues |
-| | Group photo |
--->
+| 17h15 - 17h30| _Coffee Break_ |
+| 17:30 - 18:30| Discussion on gender balance issues |
+
 
 ### Booklet of best practices
 Within the cost action European Network For Gender Balance in Informatics ([EUGAIN](https://eugain.eu/)) a [Booklet “From Ph.D. to Professor”](https://eugain.eu/results/deliverables/) of best practices was developed to address some of the gender balance issues, particularly in the stage between PhD and professorship. The booklet is going to be updated during the life of the EUGAIN action.
