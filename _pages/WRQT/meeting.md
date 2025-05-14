@@ -59,7 +59,7 @@ The following is a tentative program (subject to change).
 | 15:30-16:00 | Mário Florido: _"Structural Rules and Algebraic Properties of Intersection Types"_|
 | 16:00-16:30 | _Coffee Tea Break_ |
 | 16:30-17:15 | Adrienne Lancelot: _"Separating Terms by means of Multi Types, Coinductively"_ |
-| 17:15-18:00 | TBA
+| 17:15-18:00 | Giulio Guerrieri: _"Strong Call-by-Value and Multi Types"_
 
 #### Day 2 - June 6, 2025 
 
@@ -70,7 +70,7 @@ The following is a tentative program (subject to change).
 | 11:00-12:30 | Tutorial - Andrej Dudenhefner: _"Mechanization of Non-idempotent Intersection Types in the Coq Proof Assistant"_ |
 | 12:30-14:30 | _Lunch_ |
 | 14:30-15:30 | Delia Kesner: _"Quantitative Types for Call-by-Value"_|  
-| 15:30-16:00 | TBA |  
+| 15:30-16:00 | Michał J. Gajda: _"Constructive contradiction in ultrafinitist logic"_ |  
 | 16:00-16:30 | _Coffee Tea Break_ |
 | 16:30 | Closing |
 
