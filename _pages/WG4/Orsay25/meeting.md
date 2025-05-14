@@ -28,6 +28,7 @@ The objective is to have talks and demos like in the [1st Workshop on the develo
 - [Julien Narboux](https://www.irif.fr/~narboux/), [Pierre Boutry](https://pierre-boutry.fr/), [Nicolas Magaud](https://dpt-info.u-strasbg.fr/~magaud/), the Coq library on Geometry
 - [Cyril Cohen](https://perso.crans.org/cohen/), Hierarchy Builder
 - [Sylvie Boldo](https://pages.saclay.inria.fr/sylvie.boldo/), the Coq library on numerical analysis
+- [Yannick Forster](https://yforster.de/), the Coq Library of Undecidability Proofs
 - ... (more to come)
 
 **Previous workshops:**
