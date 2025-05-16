@@ -30,6 +30,7 @@ The objective is to have talks and demos like in the [1st Workshop on the develo
 - [Sylvie Boldo](https://pages.saclay.inria.fr/sylvie.boldo/), the Coq library on numerical analysis
 - [Yannick Forster](https://yforster.de/), the Coq Library of undecidability proofs
 - [Niels van der Weide](https://nmvdw.github.io/), the Unimath Coq library
+- [Kathrin Stark](https://www.k-stark.de/), Autosubst
 - ... (more to come)
 
 **Previous workshops:**
