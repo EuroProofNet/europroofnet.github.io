@@ -70,7 +70,7 @@ The following is a tentative program (subject to change).
 | 11:00-12:30 | Tutorial - Andrej Dudenhefner: _"Mechanization of Non-idempotent Intersection Types in the Coq Proof Assistant"_ |
 | 12:30-14:30 | _Lunch_ |
 | 14:30-15:30 | Delia Kesner: _"Quantitative Types for Call-by-Value"_|  
-| 15:30-16:00 | Michał J. Gajda: _"Constructive contradiction in ultrafinitist logic"_ |  
+| 15:30-16:00 | Michał J. Gajda: _"Dependent type system for Ultrafinitist Logic"_ |  
 | 16:00-16:30 | _Coffee Tea Break_ |
 | 16:30 | Closing |
 
