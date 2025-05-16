@@ -25,10 +25,11 @@ The objective is to have talks and demos like in the [1st Workshop on the develo
 **Talk/demo proposals:** If you want to give a talk or make a tool demo, send a mail to [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/) with a title and abstract before May 25.
 
 **Speakers:**
-- [Julien Narboux](https://www.irif.fr/~narboux/), [Pierre Boutry](https://pierre-boutry.fr/), [Nicolas Magaud](https://dpt-info.u-strasbg.fr/~magaud/), the Coq library on Geometry
+- [Julien Narboux](https://www.irif.fr/~narboux/), [Pierre Boutry](https://pierre-boutry.fr/), [Nicolas Magaud](https://dpt-info.u-strasbg.fr/~magaud/), the Coq library on geometry
 - [Cyril Cohen](https://perso.crans.org/cohen/), Hierarchy Builder
 - [Sylvie Boldo](https://pages.saclay.inria.fr/sylvie.boldo/), the Coq library on numerical analysis
-- [Yannick Forster](https://yforster.de/), the Coq Library of Undecidability Proofs
+- [Yannick Forster](https://yforster.de/), the Coq Library of undecidability proofs
+- [Niels van der Weide](https://nmvdw.github.io/), the Unimath Coq library
 - ... (more to come)
 
 **Previous workshops:**
