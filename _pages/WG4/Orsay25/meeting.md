@@ -25,6 +25,7 @@ The objective is to have talks and demos like in the [1st Workshop on the develo
 **Talk/demo proposals:** If you want to give a talk or make a tool demo, send a mail to [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/) with a title and abstract before May 25.
 
 **Speakers:**
+- [Markus Himmel](https://github.com/TwoFX), the Lean standard library: development methodology and tooling
 - [Julien Narboux](https://www.irif.fr/~narboux/), [Pierre Boutry](https://pierre-boutry.fr/), [Nicolas Magaud](https://dpt-info.u-strasbg.fr/~magaud/), the Coq library on geometry
 - [Cyril Cohen](https://perso.crans.org/cohen/), Hierarchy Builder
 - [Sylvie Boldo](https://pages.saclay.inria.fr/sylvie.boldo/), the Coq library on numerical analysis
