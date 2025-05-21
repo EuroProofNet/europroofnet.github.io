@@ -1,12 +1,12 @@
 ---
-title: "EuroProofNet WG3 final meeting"
+title: "EuroProofNet Workshop on Program Verification"
 layout: single
 permalink: /wg3-Sept2025/
 author_profile: true
 breadcrumbs: true
 ---
 
-This will be the final meeting of the WG3. It is part of the [Final EuroProofNet Symposium](https://europroofnet.github.io/Symposium/).
+This will be the final meeting of the EuroProofNet Working Group 3 on Program Verification. It is part of the [Final EuroProofNet Symposium](https://europroofnet.github.io/Symposium/).
 
 **Date:** 17-19 September 2025
 
