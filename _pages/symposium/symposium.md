@@ -21,7 +21,7 @@ breadcrumbs: true
 **Events:**
 * [LFPSI: 1st International School on Logical Frameworks and Proof Systems Interoperability](../LFPSI25)
 * [WG2: Workshop on Automated Reasoning and Proof Logging](../wg2-symposium)
-* [WHOOPS: 2nd International Workshop on Highlights in Organizing and Optimizing Proof-logging Systems](../whoops/)
+* [WHOOPS: 2nd International Workshop on Highlights in Organizing and Optimizing Proof-logging Systems](https://jakobnordstrom.se/WHOOPS25/)
 * [WG4: Workshop on Proof Libraries](../WG4_Orsay25)
 * [MCLP: Conference on Mathematical and Computational Linguistics for Proofs](../MCLP)
 * [WG3: Workshop on Program Verification](../wg3-Sept2025)
@@ -43,7 +43,7 @@ Week 1:
 | Mo8                 | Tu9                 | We10                | Th11                     | Fr12                     | Sa13                        | Su14                        |
 | [LFPSI](../LFPSI25) | [LFPSI](../LFPSI25) | [LFPSI](../LFPSI25) | [LFPSI](../LFPSI25)      |                          |                             |                             |
 |                     |                     |                     | [WG2](../wg2-symposium/) | [WG2](../wg2-symposium/) | [WG2](../wg2-symposium/)    |                             |
-|                     |                     |                     |                          |                          | [WHOOPS](../whoops/) | [WHOOPS](../whoops/) |
+|                     |                     |                     |                          |                          | [WHOOPS](https://jakobnordstrom.se/WHOOPS25/) | [WHOOPS](https://jakobnordstrom.se/WHOOPS25/) |
 | (*)                 |                     |                     | (*)                      |                          |                             |                             |
 
 Week 2:
