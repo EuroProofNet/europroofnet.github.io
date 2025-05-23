@@ -14,6 +14,8 @@ as part of the [Final EuroProofNet Symposium](https://europroofnet.github.io/Sym
 
 **Registration/funding requests:** fill in this [form](https://forms.gle/QLFzh3Ugv5WgkhZr7) (registration is free but mandatory)
 
+**Organisation:** see the separate [page](https://jakobnordstrom.se/WHOOPS25/).
+
 **Background and Purpose**
 
 Since the turn of the millennium there have been dramatic improvements in algorithms for combinatorial solving and optimization. The flipside of this is that as the methods get increasingly sophisticated, it becomes increasingly harder to avoid bugs sneaking in during algorithm design and implementation, and it is well documented that even the most mature tools currently available sometimes return incorrect results. Software testing, while important, has not been sufficient to resolve this problem, and formal verification methods are far from being able to scale to the level of complexity in modern combinatorial solvers. During the last ten years the Boolean satisfiability (SAT) solving community has instead successfully introduced proof logging, meaning that the SAT solvers have to output, along the answer to a problem, a machine-verifiable proof that this answer is correct. Such solvers are also referred to as certifying algorithms.
