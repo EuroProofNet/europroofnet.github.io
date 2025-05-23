@@ -47,6 +47,8 @@ for the moment, we have 8 talks
 
 <!--The Lean standard library is part of the Lean distribution and provides users with tools for functional programming, software verification and verified software development. Its main goals are comprehensiveness, consistency and a smooth out-of-the-box experience. Achieving these high standards requires a systematic approach to standard library development and maintenance. In this presentation, I will show a tool that the Lean FRO is using to detect and track defects in the Lean standard library such as missing material or inconsistencies within the library. The tool is integrated into the GitHub PR workflow to enable merging of contributions without having to fear that new inconsistencies are introduced into the library.-->
 
+- [Manuel Eberl](http://cl-informatik.uibk.ac.at/users/meberl//), the Isabelle Archive of Formal Proofs
+
 - [Julien Narboux](https://www.irif.fr/~narboux/), [Pierre Boutry](https://pierre-boutry.fr/), the Coq library on geometry
 
 - [Nicolas Magaud](https://dpt-info.u-strasbg.fr/~magaud/), optimisation of Coq proof scripts
