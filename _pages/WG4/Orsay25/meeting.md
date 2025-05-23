@@ -32,7 +32,7 @@ we have 2 days
 each day: 8 45-minutes talks or 12 30-minutes talks
 total: 16 45-minutes talks or 24 30-minutes talks
 
-for the moment, we have 8 talks
+for the moment, we have 11 talks
 
 09:00-10:30 talks
 10:30-11:00 break
@@ -45,15 +45,20 @@ for the moment, we have 8 talks
 
 - [Markus Himmel](https://github.com/TwoFX), the Lean standard library: development methodology and tooling
 
-<!--The Lean standard library is part of the Lean distribution and provides users with tools for functional programming, software verification and verified software development. Its main goals are comprehensiveness, consistency and a smooth out-of-the-box experience. Achieving these high standards requires a systematic approach to standard library development and maintenance. In this presentation, I will show a tool that the Lean FRO is using to detect and track defects in the Lean standard library such as missing material or inconsistencies within the library. The tool is integrated into the GitHub PR workflow to enable merging of contributions without having to fear that new inconsistencies are introduced into the library.-->
+<!-- The Lean standard library is part of the Lean distribution and provides users with tools for functional programming, software verification and verified software development. Its main goals are comprehensiveness, consistency and a smooth out-of-the-box experience. Achieving these high standards requires a systematic approach to standard library development and maintenance. In this presentation, I will show a tool that the Lean FRO is using to detect and track defects in the Lean standard library such as missing material or inconsistencies within the library. The tool is integrated into the GitHub PR workflow to enable merging of contributions without having to fear that new inconsistencies are introduced into the library.-->
+
+- [Michael Rothgang](https://www.math.uni-bonn.de/people/rothgang/), Growing Lean mathlib: review and triage tooling for a large formalised mathematics library
+
+<!-- Lean's mathematical library mathlib is one of the fastest-growing libraries of formalised mathematics. It is developed in the open by a large and diverse community of various backgrounds.
+Review and triage of all incoming contributions presents an ongoing challenge as mathlib's growth continues. I'll present mathlib's processes and tools to enable review to scale. A core component is a custom editorial dashboard (built jointly with Johan Commelin) which keeps track of each contribution's status over time. This allows for efficient triage, enables intelligent automatic reviewer assignment and ensuring no contribution is left behind.-->
 
 - [Manuel Eberl](http://cl-informatik.uibk.ac.at/users/meberl//), the Isabelle Archive of Formal Proofs
-
-- [Julien Narboux](https://www.irif.fr/~narboux/), [Pierre Boutry](https://pierre-boutry.fr/), the Coq library on geometry
 
 - [Nicolas Magaud](https://dpt-info.u-strasbg.fr/~magaud/), optimisation of Coq proof scripts
 
 - [Cyril Cohen](https://perso.crans.org/cohen/), Hierarchy Builder
+
+- [Julien Narboux](https://www.irif.fr/~narboux/), [Pierre Boutry](https://pierre-boutry.fr/), the Coq library on geometry
 
 - [Sylvie Boldo](https://pages.saclay.inria.fr/sylvie.boldo/), the Coq library on numerical analysis
 
@@ -62,6 +67,8 @@ for the moment, we have 8 talks
 - [Niels van der Weide](https://nmvdw.github.io/), the Unimath Coq library
 
 - [Kathrin Stark](https://www.k-stark.de/), Autosubst
+
+- [Matthieu Sozeau](https://sozeau.gitlabpages.inria.fr/www/), MetaCoq
 
 - ... (more to come)
 
