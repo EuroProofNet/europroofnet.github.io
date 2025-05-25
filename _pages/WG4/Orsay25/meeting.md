@@ -47,16 +47,16 @@ for the moment, we have 13 talks
 
 <!-- The Lean standard library is part of the Lean distribution and provides users with tools for functional programming, software verification and verified software development. Its main goals are comprehensiveness, consistency and a smooth out-of-the-box experience. Achieving these high standards requires a systematic approach to standard library development and maintenance. In this presentation, I will show a tool that the Lean FRO is using to detect and track defects in the Lean standard library such as missing material or inconsistencies within the library. The tool is integrated into the GitHub PR workflow to enable merging of contributions without having to fear that new inconsistencies are introduced into the library.-->
 
-- [Michael Rothgang](https://www.math.uni-bonn.de/people/rothgang/), Growing Lean mathlib: review and triage tooling for a large formalised mathematics library
+- [Michael Rothgang](https://www.math.uni-bonn.de/people/rothgang/), Growing Lean mathlib: review and triage tooling for a large formalised mathematics library [[link]](https://leanprover-community.github.io/mathlib-overview.html)
 
 <!-- Lean's mathematical library mathlib is one of the fastest-growing libraries of formalised mathematics. It is developed in the open by a large and diverse community of various backgrounds.
 Review and triage of all incoming contributions presents an ongoing challenge as mathlib's growth continues. I'll present mathlib's processes and tools to enable review to scale. A core component is a custom editorial dashboard (built jointly with Johan Commelin) which keeps track of each contribution's status over time. This allows for efficient triage, enables intelligent automatic reviewer assignment and ensuring no contribution is left behind.-->
 
-- [Manuel Eberl](http://cl-informatik.uibk.ac.at/users/meberl//), the Isabelle Archive of Formal Proofs
+- [Manuel Eberl](http://cl-informatik.uibk.ac.at/users/meberl//), the Isabelle Archive of Formal Proofs [[link]](https://www.isa-afp.org/)
 
 - [Nicolas Magaud](https://dpt-info.u-strasbg.fr/~magaud/), optimisation of Coq proof scripts
 
-- [Cyril Cohen](https://perso.crans.org/cohen/), Hierarchy Builder
+- [Cyril Cohen](https://perso.crans.org/cohen/), Hierarchy Builder [[github]](https://github.com/math-comp/hierarchy-builder/)
 
 - [Mohammad Abdulaziz](https://mabdula.github.io/), An Isabelle Library of Combinatorial Optimisation Results [[github]](https://github.com/mabdula/Isabelle-Graph-Library)
 
@@ -64,19 +64,19 @@ Review and triage of all incoming contributions presents an ongoing challenge as
 
 In this talk I will describe an ongoing development of a formal mathematical library of results from the theory of combinatorial optimisation. The library currently has most results covered in a standard textbook on the subject, including algorithms for solving all the standard problems. Notable results include Edmonds' blossom shrinking algorithm, Orlin's scaling algorithm for minimum-cost flows, and the AdWords algorithm for matching online advertisements on search engines.-->
 
-- [Julien Narboux](https://www.irif.fr/~narboux/), [Pierre Boutry](https://pierre-boutry.fr/), the Coq library on geometry
+- [Julien Narboux](https://www.irif.fr/~narboux/), [Pierre Boutry](https://pierre-boutry.fr/), the Coq library on geometry [[link]](https://geocoq.github.io/GeoCoq/)
 
-- [Sylvie Boldo](https://pages.saclay.inria.fr/sylvie.boldo/), the Coq library on numerical analysis
+- [Sylvie Boldo](https://pages.saclay.inria.fr/sylvie.boldo/), the Coq library on numerical analysis [[link]](https://lipn.univ-paris13.fr/coq-num-analysis/)
 
-- [Joseph Tooby-Smith](https://josephtoobysmith.com/), PhysLean: Digitalizing Physics in Lean 4
+- [Joseph Tooby-Smith](https://josephtoobysmith.com/), PhysLean: Digitalizing Physics in Lean [[link]](https://physlean.com/)
 
-- [Yannick Forster](https://yforster.de/), the Coq Library of undecidability proofs
+- [Yannick Forster](https://yforster.de/), the Coq Library of undecidability proofs [[github]](https://github.com/uds-psl/coq-library-undecidability)
 
-- [Niels van der Weide](https://nmvdw.github.io/), the Unimath Coq library
+- [Niels van der Weide](https://nmvdw.github.io/), the Unimath Coq library [[link]](https://unimath.github.io/UniMath/)
 
-- [Kathrin Stark](https://www.k-stark.de/), Autosubst
+- [Kathrin Stark](https://www.k-stark.de/), Autosubst [[link]](https://www.ps.uni-saarland.de/extras/autosubst2/)
 
-- [Matthieu Sozeau](https://sozeau.gitlabpages.inria.fr/www/), MetaCoq
+- [Matthieu Sozeau](https://sozeau.gitlabpages.inria.fr/www/), MetaCoq [[link]](https://metarocq.github.io/)
 
 - ... (more to come)
 
