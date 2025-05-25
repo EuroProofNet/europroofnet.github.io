@@ -32,7 +32,7 @@ we have 2 days
 each day: 8 45-minutes talks or 12 30-minutes talks
 total: 16 45-minutes talks or 24 30-minutes talks
 
-for the moment, we have 11 talks
+for the moment, we have 13 talks
 
 09:00-10:30 talks
 10:30-11:00 break
@@ -58,9 +58,17 @@ Review and triage of all incoming contributions presents an ongoing challenge as
 
 - [Cyril Cohen](https://perso.crans.org/cohen/), Hierarchy Builder
 
+- [Mohammad Abdulaziz](https://mabdula.github.io/), An Isabelle Library of Combinatorial Optimisation Results [[github]](https://github.com/mabdula/Isabelle-Graph-Library)
+
+<!-- Combinatorial optimisation is a fundamental area of computer science, and applied mathematics. It involves solving computational problems optimally w.r.t. a given metric. Important problems in the area include shortest path, minimum spanning trees, maximum flows, minimum-cost flows, maximum cardinality/weight matching, and linear programming. Practically, these problems are some of the most impactful in computer science, where they used in applications ranging from logistics to kidney-donor-patient matching. Theoretically, work in this area has led to many important breakthroughs in the theory of computing, including the realisation that polynomial time computation is a notion of efficient computation, the primal-dual paradigm to designing algorithms, and the characterisation of computational problems as polytopes.
+
+In this talk I will describe an ongoing development of a formal mathematical library of results from the theory of combinatorial optimisation. The library currently has most results covered in a standard textbook on the subject, including algorithms for solving all the standard problems. Notable results include Edmonds' blossom shrinking algorithm, Orlin's scaling algorithm for minimum-cost flows, and the AdWords algorithm for matching online advertisements on search engines.-->
+
 - [Julien Narboux](https://www.irif.fr/~narboux/), [Pierre Boutry](https://pierre-boutry.fr/), the Coq library on geometry
 
 - [Sylvie Boldo](https://pages.saclay.inria.fr/sylvie.boldo/), the Coq library on numerical analysis
+
+- [Joseph Tooby-Smith](https://josephtoobysmith.com/), PhysLean: Digitalizing Physics in Lean 4
 
 - [Yannick Forster](https://yforster.de/), the Coq Library of undecidability proofs
 
