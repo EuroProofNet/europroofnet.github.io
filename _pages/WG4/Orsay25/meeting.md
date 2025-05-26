@@ -32,7 +32,7 @@ we have 2 days
 each day: 8 45-minutes talks or 12 30-minutes talks
 total: 16 45-minutes talks or 24 30-minutes talks
 
-for the moment, we have 13 talks
+for the moment, we have 14 talks
 
 09:00-10:30 talks
 10:30-11:00 break
@@ -43,46 +43,44 @@ for the moment, we have 13 talks
 16:00-17:30 talks
 -->
 
-- [Markus Himmel](https://github.com/TwoFX), the Lean standard library: development methodology and tooling
+- [Markus Himmel](https://github.com/TwoFX) (Lean FRO, Germany), the Lean standard library: development methodology and tooling
 
 <!-- The Lean standard library is part of the Lean distribution and provides users with tools for functional programming, software verification and verified software development. Its main goals are comprehensiveness, consistency and a smooth out-of-the-box experience. Achieving these high standards requires a systematic approach to standard library development and maintenance. In this presentation, I will show a tool that the Lean FRO is using to detect and track defects in the Lean standard library such as missing material or inconsistencies within the library. The tool is integrated into the GitHub PR workflow to enable merging of contributions without having to fear that new inconsistencies are introduced into the library.-->
 
-- [Michael Rothgang](https://www.math.uni-bonn.de/people/rothgang/), Growing Lean mathlib: review and triage tooling for a large formalised mathematics library [[link]](https://leanprover-community.github.io/mathlib-overview.html)
+- [Michael Rothgang](https://www.math.uni-bonn.de/people/rothgang/) (U. Bonn, Germany), growing Lean mathlib: review and triage tooling for a large formalised mathematics library [[link]](https://leanprover-community.github.io/mathlib-overview.html)
 
 <!-- Lean's mathematical library mathlib is one of the fastest-growing libraries of formalised mathematics. It is developed in the open by a large and diverse community of various backgrounds.
 Review and triage of all incoming contributions presents an ongoing challenge as mathlib's growth continues. I'll present mathlib's processes and tools to enable review to scale. A core component is a custom editorial dashboard (built jointly with Johan Commelin) which keeps track of each contribution's status over time. This allows for efficient triage, enables intelligent automatic reviewer assignment and ensuring no contribution is left behind.-->
 
-- [Manuel Eberl](http://cl-informatik.uibk.ac.at/users/meberl//), the Isabelle Archive of Formal Proofs [[link]](https://www.isa-afp.org/)
+- [Manuel Eberl](http://cl-informatik.uibk.ac.at/users/meberl/) (U. Innsbruck, Austria), the Isabelle Archive of Formal Proofs [[link]](https://www.isa-afp.org/)
 
-- [Nicolas Magaud](https://dpt-info.u-strasbg.fr/~magaud/), optimisation of Coq proof scripts
+- [Nicolas Magaud](https://dpt-info.u-strasbg.fr/~magaud/) (U. Strasbourg, France), optimisation of Coq proof scripts
 
-- [Cyril Cohen](https://perso.crans.org/cohen/), Hierarchy Builder [[github]](https://github.com/math-comp/hierarchy-builder/)
+- [Cyril Cohen](https://perso.crans.org/cohen/) (Inria Lyon, France), Hierarchy Builder [[github]](https://github.com/math-comp/hierarchy-builder/)
 
-- [Mohammad Abdulaziz](https://mabdula.github.io/), An Isabelle Library of Combinatorial Optimisation Results [[github]](https://github.com/mabdula/Isabelle-Graph-Library)
+- [Mohammad Abdulaziz](https://mabdula.github.io/) (King's College London, UK), an Isabelle Library of Combinatorial Optimisation Results [[github]](https://github.com/mabdula/Isabelle-Graph-Library)
 
 <!-- Combinatorial optimisation is a fundamental area of computer science, and applied mathematics. It involves solving computational problems optimally w.r.t. a given metric. Important problems in the area include shortest path, minimum spanning trees, maximum flows, minimum-cost flows, maximum cardinality/weight matching, and linear programming. Practically, these problems are some of the most impactful in computer science, where they used in applications ranging from logistics to kidney-donor-patient matching. Theoretically, work in this area has led to many important breakthroughs in the theory of computing, including the realisation that polynomial time computation is a notion of efficient computation, the primal-dual paradigm to designing algorithms, and the characterisation of computational problems as polytopes.
 
 In this talk I will describe an ongoing development of a formal mathematical library of results from the theory of combinatorial optimisation. The library currently has most results covered in a standard textbook on the subject, including algorithms for solving all the standard problems. Notable results include Edmonds' blossom shrinking algorithm, Orlin's scaling algorithm for minimum-cost flows, and the AdWords algorithm for matching online advertisements on search engines.-->
 
-- [Julien Narboux](https://www.irif.fr/~narboux/), [Pierre Boutry](https://pierre-boutry.fr/), the Coq library on geometry [[link]](https://geocoq.github.io/GeoCoq/)
+- [Julien Narboux](https://www.irif.fr/~narboux/) (U. Paris Cité, France) and [Pierre Boutry](https://pierre-boutry.fr/) (U. Strasbourg, France), the Coq library on geometry [[link]](https://geocoq.github.io/GeoCoq/)
 
-- Christian Merten (Utrech University), Algebraic Geometry in Lean's mathematical library mathlib
+- Christian Merten (U. Utrech, Netherlands), algebraic geometry in Lean's mathematical library mathlib
 
 <!-- Since the first definition of schemes in Lean by Kevin Buzzard et al. in 2018, the algebraic geometry library in mathlib has undergone significant development. In an effort led by Andrew Yang, many fundamental tools and results in scheme theory were established. I will give an overview of where we are at, what we are missing and speculate why it remains difficult to attract new contributors to this part of the library.-->
 
-- [Sylvie Boldo](https://pages.saclay.inria.fr/sylvie.boldo/), the Coq library on numerical analysis [[link]](https://lipn.univ-paris13.fr/coq-num-analysis/)
+- [Sylvie Boldo](https://pages.saclay.inria.fr/sylvie.boldo/) (Inria Saclay, France), the Coq library on numerical analysis [[link]](https://lipn.univ-paris13.fr/coq-num-analysis/)
 
-- [Joseph Tooby-Smith](https://josephtoobysmith.com/), PhysLean: Digitalizing Physics in Lean [[link]](https://physlean.com/)
+- [Joseph Tooby-Smith](https://josephtoobysmith.com/) (U. Reykjavik, Iceland), PhysLean: Digitalizing Physics in Lean [[link]](https://physlean.com/)
 
-- [Yannick Forster](https://yforster.de/), the Coq Library of undecidability proofs [[github]](https://github.com/uds-psl/coq-library-undecidability)
+- [Yannick Forster](https://yforster.de/) (Inria Paris, France), the Coq Library of undecidability proofs [[github]](https://github.com/uds-psl/coq-library-undecidability)
 
-- [Niels van der Weide](https://nmvdw.github.io/), the Unimath Coq library [[link]](https://unimath.github.io/UniMath/)
+- [Niels van der Weide](https://nmvdw.github.io/) (U. Radboud, Netherlands), the Unimath Coq library [[link]](https://unimath.github.io/UniMath/)
 
-- [Kathrin Stark](https://www.k-stark.de/), Autosubst [[link]](https://www.ps.uni-saarland.de/extras/autosubst2/)
+- [Kathrin Stark](https://www.k-stark.de/) (U. Heriot-Watt, UK), Autosubst [[link]](https://www.ps.uni-saarland.de/extras/autosubst2/)
 
-- [Matthieu Sozeau](https://sozeau.gitlabpages.inria.fr/www/), MetaCoq [[link]](https://metarocq.github.io/)
-
-- ... (more to come)
+- [Matthieu Sozeau](https://sozeau.gitlabpages.inria.fr/www/) (Inria Nantes, France), MetaCoq [[link]](https://metarocq.github.io/)
 
 **Previous workshops:**
 - [1st Workshop on the development, maintenance, refactoring and search of large libraries of proofs](../wg4-meeting1), Tbilisi, Georgia, 23-24 September 2022
