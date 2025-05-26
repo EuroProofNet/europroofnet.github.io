@@ -66,6 +66,10 @@ In this talk I will describe an ongoing development of a formal mathematical lib
 
 - [Julien Narboux](https://www.irif.fr/~narboux/), [Pierre Boutry](https://pierre-boutry.fr/), the Coq library on geometry [[link]](https://geocoq.github.io/GeoCoq/)
 
+- Christian Merten (Utrech University), Algebraic Geometry in Lean's mathematical library mathlib
+
+<!-- Since the first definition of schemes in Lean by Kevin Buzzard et al. in 2018, the algebraic geometry library in mathlib has undergone significant development. In an effort led by Andrew Yang, many fundamental tools and results in scheme theory were established. I will give an overview of where we are at, what we are missing and speculate why it remains difficult to attract new contributors to this part of the library.-->
+
 - [Sylvie Boldo](https://pages.saclay.inria.fr/sylvie.boldo/), the Coq library on numerical analysis [[link]](https://lipn.univ-paris13.fr/coq-num-analysis/)
 
 - [Joseph Tooby-Smith](https://josephtoobysmith.com/), PhysLean: Digitalizing Physics in Lean [[link]](https://physlean.com/)
