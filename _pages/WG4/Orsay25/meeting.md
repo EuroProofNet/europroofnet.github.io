@@ -32,7 +32,7 @@ we have 2 days
 each day: 8 45-minutes talks or 12 30-minutes talks
 total: 16 45-minutes talks or 24 30-minutes talks
 
-for the moment, we have 14 talks
+for the moment, we have 15 talks
 
 09:00-10:30 talks
 10:30-11:00 break
@@ -70,9 +70,20 @@ In this talk I will describe an ongoing development of a formal mathematical lib
 
 <!-- Since the first definition of schemes in Lean by Kevin Buzzard et al. in 2018, the algebraic geometry library in mathlib has undergone significant development. In an effort led by Andrew Yang, many fundamental tools and results in scheme theory were established. I will give an overview of where we are at, what we are missing and speculate why it remains difficult to attract new contributors to this part of the library.-->
 
-- [Sylvie Boldo](https://pages.saclay.inria.fr/sylvie.boldo/) (Inria Saclay, France), the Coq library on numerical analysis [[link]](https://lipn.univ-paris13.fr/coq-num-analysis/)
+- [Sylvie Boldo](https://pages.saclay.inria.fr/sylvie.boldo/) (Inria Saclay, France), Numerical Analysis in Rocq -- Simplicial Lagrange Finite Elements [[link]](https://lipn.univ-paris13.fr/coq-num-analysis/)
+
+<!-- The finite elements method is a popular method to numerically solve partial differential equations. In the long-term goal of proving its correctness, we focus here on the formal definition of what is a finite element: a record in the Rocq proof assistant with both values and proofs of validity, including the main one called unisolvence. We then instantiate this record with the most popular and useful, the simplicial Lagrange finite elements for any dimension and any polynomial degree.
+These proofs require many results (definitions, lemmas, canonical structures) about finite families, affine spaces, multidimensional polynomials, in the context of finite or infinite-dimensional spaces.
+
+This is common work with F. Clément, V. Martin, M. Mayero, and H. Mouhcine.-->
 
 - [Joseph Tooby-Smith](https://josephtoobysmith.com/) (U. Reykjavik, Iceland), PhysLean: Digitalizing Physics in Lean [[link]](https://physlean.com/)
+
+<!-- PhysLean is a project to create a monolithic library of results from physics in Lean 4, akin to Mathlib for mathematics. 
+It contains results from a range of different areas of physics including classical mechanics, relativity, condensed matter physics, quantum field theory, string theory etc.
+In this talk I will give a high-level overview of the current content of PhysLean.
+I will also explain how formalizing results from physics, for physicists, differs to formalizing results from mathematics, for mathematicians, and what features we have 
+put in place to make this as an efficient and open process as possible.-->
 
 - [Yannick Forster](https://yforster.de/) (Inria Paris, France), the Coq Library of undecidability proofs [[github]](https://github.com/uds-psl/coq-library-undecidability)
 
@@ -81,6 +92,10 @@ In this talk I will describe an ongoing development of a formal mathematical lib
 - [Kathrin Stark](https://www.k-stark.de/) (U. Heriot-Watt, UK), Autosubst [[link]](https://www.ps.uni-saarland.de/extras/autosubst2/)
 
 - [Matthieu Sozeau](https://sozeau.gitlabpages.inria.fr/www/) (Inria Nantes, France), MetaCoq [[link]](https://metarocq.github.io/)
+
+- [Patrick Massot](https://www.imo.universite-paris-saclay.fr/~patrick.massot/) (U. Paris-Saclay, France), coordinating large formalization projects
+
+<!-- Formalized mathematics has a rich history of large formalization projects involving many participants. In this talk I will first review past experiences coordinating such projects. Then I will focus on the main tools currently used by the Lean users community, including the Zulip web chat software, GitHub infrastructure and the LeanBlueprint plasTeX plugin.-->
 
 **Previous workshops:**
 - [1st Workshop on the development, maintenance, refactoring and search of large libraries of proofs](../wg4-meeting1), Tbilisi, Georgia, 23-24 September 2022
