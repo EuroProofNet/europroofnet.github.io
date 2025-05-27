@@ -58,6 +58,12 @@ Review and triage of all incoming contributions presents an ongoing challenge as
 
 - [Cyril Cohen](https://perso.crans.org/cohen/), Hierarchy Builder [[github]](https://github.com/math-comp/hierarchy-builder/)
 
+<!-- Libraries of machine checked code are, nowadays, organized around hierarchies of algebraic structures. Unfortunately the language of Type Theory and the features provided by the Coq system make the construction of a hierarchy hard even for expert users. The difficulty begins with the non-orthogonal choices, between storing information as record fields or parameters, and between using type classes and canonical structures for inference. To this, one may add the concerns about performance and about the usability, by a non expert, of the final hierarchy.
+
+HB gives the library designer a language to describe the building blocks of algebraic structures and to assemble them into a hierarchy. Similarly it provides the final user linguistic constructs to build instances (examples) of structures and to teach the elaborator of Coq how to take advantage of this knowledge during type inference. Finally HB lets the library designer improve the usability of his library by providing alternative interfaces to the primitive ones, a feature that can also be used to accommodate changes to the hierarchy without breaking user code.
+
+This is a joint work with Kazuhiko Sakaguchi, Pierre Roux and Enrico Tassi.-->
+
 - [Mohammad Abdulaziz](https://mabdula.github.io/), An Isabelle Library of Combinatorial Optimisation Results [[github]](https://github.com/mabdula/Isabelle-Graph-Library)
 
 <!-- Combinatorial optimisation is a fundamental area of computer science, and applied mathematics. It involves solving computational problems optimally w.r.t. a given metric. Important problems in the area include shortest path, minimum spanning trees, maximum flows, minimum-cost flows, maximum cardinality/weight matching, and linear programming. Practically, these problems are some of the most impactful in computer science, where they used in applications ranging from logistics to kidney-donor-patient matching. Theoretically, work in this area has led to many important breakthroughs in the theory of computing, including the realisation that polynomial time computation is a notion of efficient computation, the primal-dual paradigm to designing algorithms, and the characterisation of computational problems as polytopes.
