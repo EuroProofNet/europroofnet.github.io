@@ -12,6 +12,20 @@ author_profile: true
   Grant: 0 EUR__
   Dates: 2023-03-01 to 2023-04-01__
 -->
+## 6th call (4th May 2025)
+
+* **Proof Theory of Semi-Associative Substructural Logics** [application](/_pages/stsm/wan-app.pdf) [report](/_pages/stsm/wan-rep.pdf)  
+  Grantee: Cheng-Syuan Wan  
+  Conference:  Proof, Argumentation, Computation, Modalities And Negation (PACM∧N)  
+  Grant: 1241 EUR  
+  Dates: 2025-05-13 to 2025-05-17  
+
+* **Expansion in a Calculus with Explicit Substitutions** [application](/_pages/stsm/almeida-app.pdf)  
+  Grantee: Ana Jorge Almeida  
+  Conference: 31st International Conference on Types for Proofs and Programs (TYPES 2025)  
+  Grant: 1800 EUR  
+  Dates: 2025-06-08 to 2025-06-14  
+
 ## 5th call (31st July 2024)
 
 * **Term Search in Rust**  [application](/_pages/stsm/annus-app.pdf) [report](/_pages/stsm/annus-rep.pdf)    

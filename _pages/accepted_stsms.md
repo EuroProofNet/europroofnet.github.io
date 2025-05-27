@@ -68,7 +68,7 @@ The grant amounts below are initial estimations and not necessarily the final am
   Grant: 1624 EUR  
   Dates: 2025-05-19 to 2025-05-30
 
-* **Proof mining libraries for Lean** [application](/_pages/stsm/cheval-app25.pdf)   
+* **Proof mining libraries for Lean** [application](/_pages/stsm/cheval-app25.pdf) [repor](/_pages/stsm/cheval-rep25.pdf)   
   Visitor: Horatiu Cheval   
   Host: Thomas Powell    
   Grant: 1716 EUR  
