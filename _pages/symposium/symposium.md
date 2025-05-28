@@ -16,7 +16,7 @@ breadcrumbs: true
 
 **Important dates:**
 - May 25 CEST: deadline for [funding requests](https://forms.gle/QLFzh3Ugv5WgkhZr7)
-- June 1st: notification
+- June 4: notification
 
 **Events:**
 * 8-11 September: [LFPSI: 1st International School on Logical Frameworks and Proof Systems Interoperability](../LFPSI25)

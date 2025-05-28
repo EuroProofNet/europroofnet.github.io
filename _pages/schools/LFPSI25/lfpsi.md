@@ -18,7 +18,7 @@ This school is part of the [EuroProofNet Symposium](../Symposium). See the sympo
 
 **Important dates:**
 - May 25 CEST: deadline for [funding requests](https://forms.gle/QLFzh3Ugv5WgkhZr7)
-- June 1st: notification
+- June 4: notification
 
 **Programme:**
 

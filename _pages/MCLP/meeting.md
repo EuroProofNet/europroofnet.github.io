@@ -22,7 +22,7 @@ Registration is required for participation and, in addition, for funding request
 
 **Important dates:**
 - May 25 CEST: deadline for [funding requests](https://forms.gle/QLFzh3Ugv5WgkhZr7)
-- June 1st: notification
+- June 4: notification
 
 **Invited speakers:** To Be Announced
 

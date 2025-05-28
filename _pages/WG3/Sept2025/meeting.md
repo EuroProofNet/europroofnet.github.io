@@ -29,7 +29,7 @@ The program will be composed of talks and discussion sessions on these topics, t
 
 **Important dates:**
 - May 25 CEST: deadline for [funding requests](https://forms.gle/QLFzh3Ugv5WgkhZr7)
-- June 1st: notification
+- June 4: notification
 
 
 **Talk proposals:**
