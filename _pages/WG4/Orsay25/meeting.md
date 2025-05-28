@@ -24,8 +24,6 @@ The objective is to have talks and demos like in the [1st Workshop on the develo
 
 **Talk/demo proposals:** If you want to give a talk or make a tool demo, send a mail to [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/) with a title and abstract before May 25.
 
-**Talks:**
-
 <!--
 we have 2 days
 
@@ -42,6 +40,44 @@ for the moment, we have 15 talks
 15:30-16:00 break
 16:00-17:30 talks
 -->
+
+<!--
+
+**Schedule:**
+
+| time | Monday 15 September |
+|-|-|
+| 08:30-09:00 | welcome |
+| 09:00-09:45 | [Manuel Eberl](http://cl-informatik.uibk.ac.at/users/meberl/) (U. Innsbruck, Austria), the Isabelle Archive of Formal Proofs |
+| 09:45-10:30 | [Michael Rothgang](https://www.math.uni-bonn.de/people/rothgang/) (U. Bonn, Germany), growing Lean mathlib: review and triage tooling for a large formalised mathematics library |
+| 10:30-11:00 | break   |
+| 11:00-11:45 | [Nicolas Magaud](https://dpt-info.u-strasbg.fr/~magaud/) (U. Strasbourg, France), optimisation of Coq proof scripts |
+| 11:45-12:30 | [Cyril Cohen](https://perso.crans.org/cohen/) (Inria Lyon, France), Hierarchy Builder |
+| 12:30-14:00 | lunch   |
+| 14:00-14:45 | [Mohammad Abdulaziz](https://mabdula.github.io/) (King's College London, UK), an Isabelle Library of Combinatorial Optimisation Results |
+| 14:45-15:30 | [Yannick Forster](https://yforster.de/) (Inria Paris, France), the Coq Library of undecidability proofs |
+| 15:30-16:00 | break   |
+| 16:00-16:45 | [Julien Narboux](https://www.irif.fr/~narboux/) (U. Paris Cité, France) and [Pierre Boutry](https://pierre-boutry.fr/) (U. Strasbourg, France), the Coq library on geometry |
+| 16:45-17:30 | Christian Merten (U. Utrech, Netherlands), algebraic geometry in Lean's mathematical library mathlib |
+
+| time | Tuesday 16 September |
+|-|-|
+| 09:00-09:45 | [Sylvie Boldo](https://pages.saclay.inria.fr/sylvie.boldo/) (Inria Saclay, France), Numerical Analysis in Rocq -- Simplicial Lagrange Finite Elements |
+| 09:45-10:30 | [Joseph Tooby-Smith](https://josephtoobysmith.com/) (U. Reykjavik, Iceland), PhysLean: Digitalizing Physics in Lean |
+| 10:30-11:00 | break   |
+| 11:00-11:45 | [Kathrin Stark](https://www.k-stark.de/) (U. Heriot-Watt, UK), Autosubst |
+| 11:45-12:30 | [Matthieu Sozeau](https://sozeau.gitlabpages.inria.fr/www/) (Inria Nantes, France), MetaCoq |
+| 12:30-14:00 | lunch   |
+| 14:00-14:45 | [Markus Himmel](https://github.com/TwoFX) (Lean FRO, Germany), the Lean standard library: development methodology and tooling |
+| 14:45-15:30 | [Patrick Massot](https://www.imo.universite-paris-saclay.fr/~patrick.massot/) (U. Paris-Saclay, France), coordinating large formalization projects |
+| 15:30-16:00 | break   |
+| 16:00-16:45 | [Niels van der Weide](https://nmvdw.github.io/) (U. Radboud, Netherlands), the Unimath Coq library |
+| 16:45-17:30 |  |
+| 17:30-18:30 | happy hour |
+
+-->
+
+**Speakers:**
 
 - [Markus Himmel](https://github.com/TwoFX) (Lean FRO, Germany), the Lean standard library: development methodology and tooling
 
