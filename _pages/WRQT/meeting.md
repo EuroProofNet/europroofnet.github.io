@@ -52,7 +52,7 @@ The following is a tentative program (subject to change).
 | 09:00-09:30 | Opening & Welcome |
 | 09:30-10:30 | Invited talk - Delia Kesner: _"An Introduction to Quantitative Types"_|
 | 10:30-11:00 |  _Coffee Tea Break_ |
-| 11:00-11:45 | Giulio Guerrieri: _"Relational semantics: from simple to non-idempotent intersection types and back"_ |
+| 11:00-11:45 | Vincent Sommella: _"Relational semantics: from simple to non-idempotent intersection types and back"_ |
 | 11:45-12:30 | Daniele Pautasso: _"Typability in Simple Restrictions of Non-idempotent Intersection Types"_|
 | 12:30-14:00 | _Lunch_ |
 | 14:30-15:30 | Invited talk - Beniamino Accattoli: _"Measuring Space via Multi Types"_|
