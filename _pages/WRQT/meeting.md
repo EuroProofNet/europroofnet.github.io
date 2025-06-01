@@ -21,10 +21,6 @@ The Workshop on Reasoning with Quantitative Types is a two day event, supported 
 The workshop is going to be an informal event and both original and previously submitted works will be considered.
 Contributed talks should be supported by a small abstract of 1 page. Please use the EasyChair style for formatting your submission [(EasyChair Style Guidelines)](https://easychair.org/publications/for_authors). Abstracts will not be peer-reviewed, but only those that are relevant and of good quality will be considered. Submit your abstracts as a PDF file via email to (sandra@fc.up.pt) before the submission deadline on April 28, 2025 (anywhere on Earth).
 
-## Organization
-* Sandra Alves - University of Porto
-* Miguel Ramos - University of Porto
-
 ### Venue
 Department of Computer Science
 Faculty of Sciences - University of Porto
@@ -33,46 +29,51 @@ Rua do Campo Alegre 1055,
 
 
 ### Registration and Funding applications:
-* Application deadline: April 28, 2025
-* Notification:  May 4, 2025
+* Application deadline: ~~April 28, 2025~~
+* Notification:  ~~May 4, 2025~~
+* **Extended application deadline: May 18,2025** (applications will be consider in order of arrival) 
+
   
 Participation at the WRQT 2025 is free, but registration is mandatory. To register, please use the [registration/funding application form](https://docs.google.com/forms/d/e/1FAIpQLSe6uXqOorYKbeaSn_LfnVH6HHL_CeMX0UeqvOFNbAeWMy0OLw/viewform?usp=sf_link).
 
-The EuroProofNet COST action can provide funding for a limited amount of participants. Before applying for funding see [reimbursement rules](../reimbursement-rules).
+The EuroProofNet COST action can provide funding for a limited amount of participants. Before applying for funding see [reimbursement rules](../reimbursement-rules). 
 
 Note that it is possible to arrive a few days before and leave a few days after the workshop but a maximum of 3.4 daily allowances will be reimbursed.
 
 Please contact the organisers if you have any problem during the application for funding process, including reluctance to use google forms.
 
 ### Program
-The following is a tentative combined program (subject to change).
+The following is a tentative program (subject to change).
 
 #### Day 1 - June 5, 2025
 
 | Time        | Session |
 | ----------- | ----------- |
 | 09:00-09:30 | Opening & Welcome |
-| 09:30-10:30 | Invited talk -  Delia Kesner|
+| 09:30-10:30 | Invited talk - Delia Kesner: _"An Introduction to Quantitative Types"_|
 | 10:30-11:00 |  _Coffee Tea Break_ |
-| 11:00-12:30 | Contributed talks |
-| 12:00-14:00 | _Lunch_ |
-| 14:30-15:30 | Invited takl - Beniamino Accattoli |
-| 15:30-16:00 | Contributed talks |
+| 11:00-11:45 | Vincent Sommella: _"Relational semantics: from simple to non-idempotent intersection types and back"_ |
+| 11:45-12:30 | Daniele Pautasso: _"Typability in Simple Restrictions of Non-idempotent Intersection Types"_|
+| 12:30-14:00 | _Lunch_ |
+| 14:30-15:30 | Invited talk - Beniamino Accattoli: _"Measuring Space via Multi Types"_|
+| 15:30-16:00 | Mário Florido: _"Structural Rules and Algebraic Properties of Intersection Types"_|
 | 16:00-16:30 | _Coffee Tea Break_ |
-| 16:30-18:00 | Contributed talks |
-
+| 16:30-17:15 | Adrienne Lancelot: _"Separating Terms by means of Multi Types, Coinductively"_ |
+| 17:15-18:00 | Giulio Guerrieri: _"Strong Call-by-Value and Multi Types"_
 
 #### Day 2 - June 6, 2025 
 
 | Time        | Session |
 | ----------- | ----------- |
-| 09:30-10:30 | Tutorial - Andrej Dudenhefner |
+| 09:30-10:30 | Tutorial - Andrej Dudenhefner: _"Mechanization of Non-idempotent Intersection Types in the Coq Proof Assistant"_ |
 | 10:30-11:00 |  _Coffee Tea Break_ |
-| 11:00-12:30 | Tutorial - Andrej Dudenhefner |
+| 11:00-12:30 | Tutorial - Andrej Dudenhefner: _"Mechanization of Non-idempotent Intersection Types in the Coq Proof Assistant"_ |
 | 12:30-14:30 | _Lunch_ |
-| 14:30-16:00 | Contributed talks |
+| 14:30-15:30 | Delia Kesner: _"Quantitative Types for Call-by-Value"_|  
+| 15:30-16:00 | Michał J. Gajda: _"Dependent type system for Ultrafinitist Logic"_ |  
 | 16:00-16:30 | _Coffee Tea Break_ |
-| 16:30-18:00 | Contributed talks |
+| 16:30 | Closing |
 
+## Organization
 * [Sandra Alves](https://www.dcc.fc.up.pt/~sandra/Home/Home.html)
 * [Miguel Ramos](https://boilnkettle.github.io)

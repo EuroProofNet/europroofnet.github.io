@@ -1,18 +1,18 @@
 ---
-title: "EuroProofNet WG3 final meeting"
+title: "EuroProofNet Workshop on Program Verification"
 layout: single
 permalink: /wg3-Sept2025/
 author_profile: true
 breadcrumbs: true
 ---
 
-This will be the final meeting of the WG3. It is part of the [Final EuroProofNet Symposium](https://europroofnet.github.io/Symposium/).
+This will be the final meeting of the EuroProofNet Working Group 3 on Program Verification. It is part of the [Final EuroProofNet Symposium](https://europroofnet.github.io/Symposium/).
 
 **Date:** 17-19 September 2025
 
 **Venue:**  [Institut Pascal](https://www.institut-pascal.universite-paris-saclay.fr/), 530 Rue André Rivière, 91400 Orsay [[access]](../Access) [[hotels]](../Hotels) [[food options]](../Food)
 
-**Organizers:** [Adrián Riesco](https://maude.sip.ucm.es/~adrian/), [Alicia Villanueva](https://personales.upv.es/alvilga1/), [Burkhart Wolff](https://www.lri.fr/~wolff/)
+**Organizers:** [Adrián Riesco](https://maude.sip.ucm.es/~adrian/), [Alicia Villanueva](https://personales.upv.es/alvilga1/)
 
 **Meeting description:**
 
@@ -29,7 +29,7 @@ The program will be composed of talks and discussion sessions on these topics, t
 
 **Important dates:**
 - May 25 CEST: deadline for [funding requests](https://forms.gle/QLFzh3Ugv5WgkhZr7)
-- June 1st: notification
+- June 4: notification
 
 
 **Talk proposals:**

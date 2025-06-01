@@ -19,6 +19,7 @@ guidance and premise selection in automated theorem provers.
     - [Learning Guided Automated Reasoning: A Brief Survey](https://link.springer.com/chapter/10.1007/978-3-031-61716-4_4) Lasse Blaauwbroek, David M. Cerna, Thibault Gauthier, Jan Jakubův, Cezary Kaliszyk, Martin Suda, Josef Urban, Logics and Type Systems in Theory and Practice 2024.
 - White paper on including restricted natural language proof formats to existing proof libraries. 
 ### Activities
+- 3-5 June 2025: [School on Natural Language Formalizations](https://naproche.github.io/school/) (SoNaLF), Bonn, Germany
 - 7-8 April 2025: [Theorem Proving with LLMs: SoA and Future Perspectives](/wg5-edinburgh25), Edinburgh, Scotland, UK
 - 24-27 June 2024: [EuroProofNet Summer School on AI for Reasoning and Processing of Mathematics](/Kutaisi24), Kutaisi, Georgia
 - 25-26 March 2024: [Workshop on Alignment of Proof Systems and Machine Learning](/wg5-vienna24), Vienna, Austria

@@ -28,3 +28,29 @@ the entire collection nor of the system that was used to develop the proofs.
 - 24 June 2022: [Introduction to WG4 by Claudio Sacerdoti](https://europroofnet.github.io/_pages/WG1/Jun2022/claudio.pdf)
 
 - 24-25 June 2022: school on [Dedukti](https://deducteam.github.io/) and the encoding of proofs of various systems in Dedukti, and a workshop on Women in EuroProofNet, in co-location with the [TYPES'22](https://types22.inria.fr/) conference at Nantes (France).
+
+### Grants
+
+* **Indexing and web search for cross libraries Proofs** [application](/_pages/stsm/alidra-app.pdf)   
+  Visitor: Abdelghani Alidra  
+  Host: Claudio Sacerdoti Coen  
+  Grant: 1413 EUR  
+  Dates: 2025-04-14 to 2025-04-24
+
+* **Proof mining libraries for Lean** [application](/_pages/stsm/cheval-app25.pdf)   
+  Visitor: Horatiu Cheval   
+  Host: Thomas Powell    
+  Grant: 1716 EUR  
+  Dates: 2025-05-11 to 2025-05-17
+
+* **Centralized indexing and search for LambdaPi/Dedukti Proofs** [application](/_pages/stsm/coen-app25.pdf)   
+  Visitor: Claudio Sacerdoti Coen    
+  Host: Frédéric Blanqui      
+  Grant: 1690 EUR  
+  Dates: 2025-01-21 to 2025-01-30       
+
+* **Indexing and retrieval of formal proofs in an heterogeneous settings** [application](/_pages/stsm/sacerdoti-app.pdf) [report](/_pages/stsm/sacerdoti-rep.pdf)   
+  Visitor: Claudio Sacerdoti Coen (Alma Mater Studiorum - Università di Bologna, Italy)   
+  Host: Frédéric Blanqui (Ecole Normale Superieure Paris-Saclay, France)   
+  Grant: 1037 EUR  
+  Dates: 2023-04-16 to 2023-04-21

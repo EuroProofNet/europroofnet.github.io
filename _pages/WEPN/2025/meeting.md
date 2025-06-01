@@ -15,7 +15,7 @@ The talks will be followed by a discussion on gender balance issues, subconsciou
 **People of all genders are invited to participate in the event and the discussion**.
 
 ## Invited Speaker
-[Ornela Dardha](https://www.dcs.gla.ac.uk/~ornela/)
+[Elaine Pimentel](https://sites.google.com/site/elainepimentel/)
 
 ## Call for contributions
 * Abstract submission deadline: April 25, 2025
@@ -31,7 +31,7 @@ University of Strathclyde, Glasgow, Scotland
 
 ### Registration and Funding applications:
 
-Participation at the WEPN 2025 is free. Registration is mandatory and can be done using the [application form](https://docs.google.com/forms/d/e/1FAIpQLSfctGSOyAWU-YsrZXa9jlSzvdA8nJmIcQuWIElMDO_YRgS4iQ/viewform?usp=dialog).
+Participation at the WEPN 2025 is free. Registration is mandatory if you are a speaker and/or applying for funding, and can be done using the [application form](https://docs.google.com/forms/d/e/1FAIpQLSfctGSOyAWU-YsrZXa9jlSzvdA8nJmIcQuWIElMDO_YRgS4iQ/viewform?usp=dialog).
 
 The EuroProofNet COST action can provide funding for a limited amount of participants - **all genders welcome to apply for funding**! 
 Details about application for funding will be published closer to the event. Before applying for funding see [reimbursement rules](../reimbursement-rules).
@@ -41,8 +41,20 @@ Note that it is possible to arrive a few days before and leave a few days after 
 Please contact the organisers if you have any problem during the application for funding process, including reluctance to use google forms.
 
 ### Program
+The event is scheduled as a half-day meeting.
+Tentative program schedule (subject to change):
 
-TBA
+| Time        | Session |
+| ----------- | ----------- |
+| 14h10 | Opening & Welcome |
+| 14:15-15:15 | Invited talk - Elaine Pimentel|
+| 15h15 - 15h45| _Coffee Break_ |
+| 15:45 - 16:15| Irina Starikova: _"Why Types: Natural Structures of Mind or Artificial Formal Tools?"_|
+| 16:15 - 16:45| Malin Altenmuller: _"Reasoning with strict symmetric monoidal categories in Agda"_|
+| 16:45 - 17:15| Roussanka Loukanova: _"Type Theory of Acyclic and Cyclic Algorithms without Chain Memory"_|
+| 17h15 - 17h30| _Coffee Break_ |
+| 17:30 - 18:30| Discussion on gender balance issues |
+
 
 ### Booklet of best practices
 Within the cost action European Network For Gender Balance in Informatics ([EUGAIN](https://eugain.eu/)) a [Booklet “From Ph.D. to Professor”](https://eugain.eu/results/deliverables/) of best practices was developed to address some of the gender balance issues, particularly in the stage between PhD and professorship. The booklet is going to be updated during the life of the EUGAIN action.

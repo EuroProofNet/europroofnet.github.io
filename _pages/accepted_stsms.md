@@ -15,7 +15,7 @@ author_profile: true
 
 The grant amounts below are initial estimations and not necessarily the final amounts.
 
-## 13th call (16th March  2025)
+## 13th call (16th March 2025)
 
 * **String Solving with Parametrized Automata** [application](/_pages/stsm/alber-app.pdf)   
   Visitor: Franziska Alber   
@@ -53,7 +53,7 @@ The grant amounts below are initial estimations and not necessarily the final am
   Grant: 1189 EUR  
   Dates: 2025-06-16 to 2025-06-27
 
-* **Informalization and Autoformalization with Dedukti and GF** [application](/_pages/stsm/ranta-app.pdf)   
+* **Informalization and Autoformalization with Dedukti and GF** [application](/_pages/stsm/ranta-app.pdf) [report](/_pages/stsm/ranta-rep.pdf)   
   Visitor: Aarne Ranta  
   Host: Frédéric Blanqui  
   Grant: 1548 EUR  
@@ -68,7 +68,7 @@ The grant amounts below are initial estimations and not necessarily the final am
   Grant: 1624 EUR  
   Dates: 2025-05-19 to 2025-05-30
 
-* **Proof mining libraries for Lean** [application](/_pages/stsm/cheval-app25.pdf)   
+* **Proof mining libraries for Lean** [application](/_pages/stsm/cheval-app25.pdf) [repor](/_pages/stsm/cheval-rep25.pdf)   
   Visitor: Horatiu Cheval   
   Host: Thomas Powell    
   Grant: 1716 EUR  
@@ -80,37 +80,37 @@ The grant amounts below are initial estimations and not necessarily the final am
   Grant: 1819 EUR  
   Dates: 2025-05-07 to 2025-05-20
 
-* **Model-Checking Smart Contracts** [application](/_pages/stsm/konjoh-selabi-app.pdf)   
+* **Model-Checking Smart Contracts** [application](/_pages/stsm/konjoh-selabi-app.pdf) [report](/_pages/stsm/konjoh-selabi-rep.pdf)   
   Visitor: Elvis Gerardin Konjoh Selabi    
   Host: Alberto Lluch Lafuente     
   Grant: 1631 EUR  
   Dates: 2025-04-14 to 2025-04-25
 
-* **Mapping the Landscape Between Proof Schemata and Cyclic Proofs** [application](/_pages/stsm/rowe-app.pdf)   
+* **Mapping the Landscape Between Proof Schemata and Cyclic Proofs** [application](/_pages/stsm/rowe-app.pdf)  [report](/_pages/stsm/rowe-rep.pdf)   
   Visitor: Reuben Rowe    
   Host:  Anela Lolić    
   Grant: 1677 EUR  
   Dates: 2025-04-06 to 2025-04-13
 
-* **Designing a high-level software specification language for deductive verification** [application](/_pages/stsm/boukir-app.pdf)   
+* **Designing a high-level software specification language for deductive verification** [application](/_pages/stsm/boukir-app.pdf) [report](/_pages/stsm/boukir-rep.pdf)   
   Visitor: Khaoula Boukir    
   Host: Dilian Gurov     
   Grant: 1580 EUR  
   Dates: 2025-04-05 to 2025-04-12
 
-* **Algorithmic foundations of graded coalgebraic semantics** [application](/_pages/stsm/ford-app.pdf)   
+* **Algorithmic foundations of graded coalgebraic semantics** [application](/_pages/stsm/ford-app.pdf) [report](/_pages/stsm/ford-rep.pdf)   
   Visitor: Chase Ford     
   Host: Lutz Schröder     
   Grant: 1358 EUR  
   Dates: 2025-03-23 to 2025-03-29      
 
-* **Higher-Order Equational Unification and Anti-Unification for Program Verification** [application](/_pages/stsm/nantes-app.pdf)   
+* **Higher-Order Equational Unification and Anti-Unification for Program Verification** [application](/_pages/stsm/nantes-app.pdf) [report](/_pages/stsm/nantes-rep.pdf)   
   Visitor: Daniele Nantes    
   Host: David Cerna     
   Grant: 755 EUR  
   Dates: 2025-03-17 to 2025-03-27
 
-* **From Dedukti to MMT: A Comparative Study of Modular Frameworks for Logical System** [application](/_pages/stsm/dunne-app.pdf)   
+* **From Dedukti to MMT: A Comparative Study of Modular Frameworks for Logical System** [application](/_pages/stsm/dunne-app.pdf)  [report](/_pages/stsm/dunne-rep.pdf)   
   Visitor: Ciarán Dunne    
   Host: Michael Kohlhase      
   Grant: 1124 EUR  
@@ -146,7 +146,7 @@ The grant amounts below are initial estimations and not necessarily the final am
   Grant: 1530 EUR  
   Dates: 2025-02-02 to 2025-02-14
 
-* **Modern algebraic perspectives on dualities and control effects** [application](/_pages/stsm/choudhury-app.pdf)   
+* **Modern algebraic perspectives on dualities and control effects** [application](/_pages/stsm/choudhury-app.pdf)  [report](/_pages/stsm/choudhury-rep.pdf)   
   Visitor: Vikraman Choudhury    
   Host: Marcelo Fiore     
   Grant: 1131 EUR  
@@ -462,7 +462,7 @@ The grant amounts below are initial estimations and not necessarily the final am
   Grant: 2702 EUR  
   Dates: 2023-08-28 to 2023-09-08
 
-* **An interface for category theory in coq, applied to univalent foundations** [application](/_pages/stsm/chabassier-app.pdf)  [report](/_pages/stsm/chabassier-app.pdf)   
+* **An interface for category theory in Coq, applied to univalent foundations** [application](/_pages/stsm/chabassier-app.pdf)  [report](/_pages/stsm/chabassier-app.pdf)   
   Visitor: Luc Chabassier  
   Host: Benedikt Ahrens  
   Grant: 2082 EUR  

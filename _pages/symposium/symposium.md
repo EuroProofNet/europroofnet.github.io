@@ -16,15 +16,16 @@ breadcrumbs: true
 
 **Important dates:**
 - May 25 CEST: deadline for [funding requests](https://forms.gle/QLFzh3Ugv5WgkhZr7)
-- June 1st: notification
+- June 4: notification
 
 **Events:**
-* [LFPSI: 1st International School on Logical Frameworks and Proof Systems Interoperability](../LFPSI25)
-* [WG2: Workshop on Automated Reasoning and Proof Logging](../wg2-symposium)
-* [WG4: Workshop on Proof Libraries](../WG4_Orsay25)
-* [MCLP: Conference on Mathematical and Computational Linguistics for Proofs](../MCLP)
-* [WG3: Workshop on Program Verification](../wg3-Sept2025)
-* [MC: Report on EuroProofNet results](../mc-meetings)
+* 8-11 September: [LFPSI: 1st International School on Logical Frameworks and Proof Systems Interoperability](../LFPSI25)
+* 11-13 September: [WG2: Workshop on Automated Reasoning and Proof Logging](../wg2-symposium)
+* 13-14 September: [WHOOPS: 2nd International Workshop on Highlights in Organizing and Optimizing Proof-logging Systems](https://jakobnordstrom.se/WHOOPS25/)
+* 15-16 September: [WG4: Workshop on Proof Libraries](../WG4_Orsay25)
+* 15-18 September: [MCLP: Conference on Mathematical and Computational Linguistics for Proofs](../MCLP)
+* 17-19 September: [WG3: Workshop on Program Verification](../wg3-Sept2025)
+* 19 September: [MC: Report on EuroProofNet results](../mc-meetings)
 
 **Sponsors:**
 
@@ -42,7 +43,7 @@ Week 1:
 | Mo8                 | Tu9                 | We10                | Th11                     | Fr12                     | Sa13                        | Su14                        |
 | [LFPSI](../LFPSI25) | [LFPSI](../LFPSI25) | [LFPSI](../LFPSI25) | [LFPSI](../LFPSI25)      |                          |                             |                             |
 |                     |                     |                     | [WG2](../wg2-symposium/) | [WG2](../wg2-symposium/) | [WG2](../wg2-symposium/)    |                             |
-|                     |                     |                     |                          |                          | [WHOOPS](../wg2-symposium/) | [WHOOPS](../wg2-symposium/) |
+|                     |                     |                     |                          |                          | [WHOOPS](https://jakobnordstrom.se/WHOOPS25/) | [WHOOPS](https://jakobnordstrom.se/WHOOPS25/) |
 | (*)                 |                     |                     | (*)                      |                          |                             |                             |
 
 Week 2:
