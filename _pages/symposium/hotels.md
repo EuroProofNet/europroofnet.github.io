@@ -6,7 +6,7 @@ author_profile: true
 breadcrumbs: true
 ---
 
-The Institut Pascal negociated reduced prices for a limited number of rooms at the Hôtel d'Orsay (102.53 euros including tourist tax for <= 6 nights, 98.53 euros for > 6 nights) and at Residhome (99.53 euros for <= 4 nights, 86.53 euros for > 4 nights): if you reserve in those hotels, please indicate that this is for the EuroProofNet symposium at the Institut Pascal.
+The Institut Pascal negociated reduced prices for a limited number of rooms at the Hôtel d'Orsay (102.53 euros including tourist tax for <= 6 nights, 98.53 euros for > 6 nights) and at Residhome (99.53 euros for <= 4 nights, 86.53 euros for > 4 nights). If you reserve in those hotels, please indicate that this is for the EuroProofNet symposium at the Institut Pascal.
 
 - [Residhome Appart Hotel Bures la Guyonnerie](https://www.residhome.com/residence-hoteliere-aparthotel-buressuryvette-183.html), 1A rue de la Guyonnerie 91440 Bures-sur-Yvette, 1300 m (18 minutes).
 
