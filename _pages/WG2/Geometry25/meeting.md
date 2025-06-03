@@ -30,5 +30,22 @@ Remark: the official dates of the meeting taken into account for reimbursements 
 
 Nuno Baeta (U. Coimbra, Portugal); Predrag Janicic (U. Belgrade, Serbia); Zoltán Kovács (Public Univ. of Education Diocese Linz, Austria); Filip Maric (U. Belgrade Serbia); Julien Narboux (U. Paris, France); Pedro Quaresma (U. Coimbra, Portugal); Alexander Vujic  (Public Univ. of Education Diocese Linz,Austria) Anna Petiurenko (U. of the National Education Commission, Krakow, Poland) and also joining the group Philip Hallwirth (U. of the National Education Commission, Krakow, Poland); Adan Trybus (Jagiellonian University, Krakow, Poland).
 
+**Photographies of the Event:** 
+
+![WhatsApp Image 2025-06-03 at 12 20 22](https://github.com/user-attachments/assets/2e9a2501-86d3-4743-8f57-a61b6a7e6b56)
+
+![WhatsApp Image 2025-06-03 at 10 22 31](https://github.com/user-attachments/assets/acea8ed5-8d5c-4da9-b9b5-03ebd2fc86ce)
+
+![WhatsApp Image 2025-06-02 at 18 53 10](https://github.com/user-attachments/assets/d9c0e637-ed9d-48e5-9bdc-228e640b57e0)
+
+![WhatsApp Image 2025-06-02 at 18 53 09](https://github.com/user-attachments/assets/a6beba3f-bb68-4436-8b76-2dda93fec3ee)
+
+![WhatsApp Image 2025-06-02 at 13 44 32](https://github.com/user-attachments/assets/bb7e1d63-30d0-40df-8113-39b78c921189)
+
+![WhatsApp Image 2025-06-02 at 13 43 12](https://github.com/user-attachments/assets/32c32212-7e58-4109-a692-2c8a0cc9bc25)
+
+
+
+
 **Cost:** Participants have to organize their travel by themselves. The hotel rooms are 80euros per night including breakfast, lunch is 8 euros.  See the [reimbursement rules](https://europroofnet.github.io/reimbursement-rules/) for more details. The daily allowance is fixed at 110 euros.
 
