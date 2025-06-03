@@ -27,7 +27,7 @@ Remark: the official dates of the meeting taken into account for reimbursements 
 
 **Registered participants:** 
 
-Nuno Baeta (U. Coimbra, Portugal); Predrag Janicic (U. Belgrade, Serbia); Zoltán Kovács (Public Univ. of Education Diocese Linz, Austria); Filip Maric (U. Belgrade Serbia); Julien Narboux (U. Paris, France); Pedro Quaresma (U. Coimbra, Portugal); Alexander Vujic  (Public Univ. of Education Diocese Linz,Austria) Anna Petiurenko (U. of the National Education Commission, Krakow, Poland) and also joining the group Philip Hallwirth (U. of the National Education Commission, Krakow, Poland); Adan Trybus (Jagiellonian University, Krakow, Poland).
+Nuno Baeta (U. Coimbra, Portugal); Predrag Janičić (U. Belgrade, Serbia); Zoltán Kovács (Private U. of Education Diocese Linz, Austria); Filip Marić (U. Belgrade Serbia); Julien Narboux (U. Paris, France); Pedro Quaresma (U. Coimbra, Portugal); Alexander Vujic (Private U. of Education Diocese Linz, Austria) Anna Petiurenko (U. of the National Education Commission, Krakow, Poland) and also joining the group Philip Hallwirth (Private U. of Education Diocese Linz, Austria); Adam Trybus (Jagiellonian University, Krakow, Poland).
 
 **Photographies of the Event:** 
 
