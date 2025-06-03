@@ -26,16 +26,9 @@ Remark: the official dates of the meeting taken into account for reimbursements 
 
 * a browsable library of problems for geometric automated theorem provers
 
+**Registered participants:** 
 
-**Application procedure:** The number of participants is limited. If you want to be funded, check the [eligibility rules](https://europroofnet.github.io/eligibility/) and send a mail to [Pedro Quaresma](mailto:pedro@mat.uc.pt) with the following information and documents:
-
-  * URL of your homepage
-  * planned date and time of arrival
-  * planned date and time of departure
-  * cost of travel in euros with quote (screen capture)
-  * work plan: describe what you would like to do
-
-Application deadline: 8/3/2025
+Nuno Baeta (U. Coimbra, Portugal); Predrag Janicic (U. Belgrade, Serbia); Zoltán Kovács (Public Univ. of Education Diocese Linz, Austria); Filip Maric (U. Belgrade Serbia); Julien Narboux (U. Paris, France); Pedro Quaresma (U. Coimbra, Portugal); Alexander Vujic  (Public Univ. of Education Diocese Linz,Austria) Anna Petiurenko (U. of the National Education Commission, Krakow, Poland) and also joining the group Philip Hallwirth (U. of the National Education Commission, Krakow, Poland); Adan Trybus (Jagiellonian University, Krakow, Poland).
 
 **Cost:** Participants have to organize their travel by themselves. The hotel rooms are 80euros per night including breakfast, lunch is 8 euros.  See the [reimbursement rules](https://europroofnet.github.io/reimbursement-rules/) for more details. The daily allowance is fixed at 110 euros.
 
