@@ -47,7 +47,7 @@ Tentative program schedule (subject to change):
 | Time        | Session |
 | ----------- | ----------- |
 | 14h10 | Opening & Welcome |
-| 14:15-15:15 | Invited talk - Elaine Pimentel|
+| 14:15-15:15 | Invited talk - Elaine Pimentel: _"Ecumenical logic"_|
 | 15h15 - 15h45| _Coffee Break_ |
 | 15:45 - 16:15| Irina Starikova: _"Why Types: Natural Structures of Mind or Artificial Formal Tools?"_|
 | 16:15 - 16:45| Malin Altenmuller: _"Reasoning with strict symmetric monoidal categories in Agda"_|
