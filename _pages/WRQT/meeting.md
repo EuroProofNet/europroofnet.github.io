@@ -8,6 +8,12 @@ breadcrumbs: true
 
 ## June 5-6, 2025
 The Workshop on Reasoning with Quantitative Types is a two day event, supported by the European Research Network on Formal Proofs.  Intersection types were introduced near the end of the 1970s to overcome the limitations of Curry's type assignment system and to provide a characterization of the strongly normalizing terms of the Lambda Calculus. The non-idempotent type discipline, introduced almost two decades later, was inspired by linear logic and has since been considered as an adequate model to reason about resources. This workshop aims at bringing together researchers who are currently developing theory and applications in this area, to foster their interaction and provide a forum for presenting new ideas and work in progress, as well as to enable newcomers to learn about current activities in this field.
+## Location
+
+Department of Computer Science
+Faculty of Science - University of Porto
+Rua Campo Alegre 1055 / 4169-007 Porto
+Room 029
 
 ## Invited Speakers
 - Delia Kesner 
