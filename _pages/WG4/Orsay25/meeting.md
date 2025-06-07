@@ -57,7 +57,7 @@ for the moment, we have 15 talks
 | 14:00-14:45 | [Mohammad Abdulaziz](https://mabdula.github.io/) (King's College London, UK), an Isabelle Library of Combinatorial Optimisation Results |
 | 14:45-15:30 | [Yannick Forster](https://yforster.de/) (Inria Paris, France), the Coq Library of undecidability proofs |
 | 15:30-16:00 | break   |
-| 16:00-16:45 | [Julien Narboux](https://www.irif.fr/~narboux/) (U. Paris Cité, France) and [Pierre Boutry](https://pierre-boutry.fr/) (U. Strasbourg, France), the Coq library on geometry |
+| 16:00-16:45 | [Julien Narboux](https://www.irif.fr/~narboux/) (U. Paris Cité, France) and [Pierre Boutry](https://pierre-boutry.fr/) (U. Strasbourg, France), GeoCoq: a library for foundations of geometry |
 | 16:45-17:30 | Christian Merten (U. Utrech, Netherlands), algebraic geometry in Lean's mathematical library mathlib |
 
 | time | Tuesday 16 September |
@@ -106,7 +106,9 @@ Combinatorial optimisation is a fundamental area of computer science, and applie
 
 In this talk I will describe an ongoing development of a formal mathematical library of results from the theory of combinatorial optimisation. The library currently has most results covered in a standard textbook on the subject, including algorithms for solving all the standard problems. Notable results include Edmonds' blossom shrinking algorithm, Orlin's scaling algorithm for minimum-cost flows, and the AdWords algorithm for matching online advertisements on search engines.
 
-- [Julien Narboux](https://www.irif.fr/~narboux/) (U. Paris Cité, France) and [Pierre Boutry](https://pierre-boutry.fr/) (U. Strasbourg, France), the Coq library on geometry [[link]](https://geocoq.github.io/GeoCoq/)
+- [Julien Narboux](https://www.irif.fr/~narboux/) (U. Paris Cité, France) and [Pierre Boutry](https://pierre-boutry.fr/) (U. Strasbourg, France), GeoCoq: a library for foundations of geometry [[link]](https://geocoq.github.io/GeoCoq/)
+
+GeoCoq is a library about the foundations of geometry. It contains a formalization of the axioms systems of Euclid, Hilbert, and Tarski, along with a model of these axioms, proofs of mutual interpretations between different variants of these axiom systems, and a systematic development of geometry culminating in the so-called arithmetization of geometry that connects the synthetic approach to the analytic geometry. In this talk, we will provide a brief overview of the library's content and report on its porting to other proof assistants. GeoCoq has been partially ported semi-automatically to Mizar and Isabelle by Roland Coghetto, and using more foundational techniques by translating to Dedukti by Yoan Géran and Pierre Boutry. We will discuss the advantages and drawbacks of both approaches.GeoCoq’s team has also taken part recently in the ADGLib initiative, trying to define a standard language and tools for the manipulation of geometric knowledge.If time permits, we will mention the current effort to obtain a constructive version of the library.
 
 - Christian Merten (U. Utrech, Netherlands), algebraic geometry in Lean's mathematical library mathlib
 
