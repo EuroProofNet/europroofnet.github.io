@@ -137,7 +137,7 @@ We invite contributed talks, in the above areas, relevant to the following topic
 | 16:45-17:30 | [Jørgen Villadsen](https://people.compute.dtu.dk/jovi/), Technical University of Denmark, Denmark | On Natural Deduction and Axioms for Propositional and First-Order Logic | 
 | 17:30-18:30 | (*) 
 
-**Thursday, Sep 18 2025 Joint Session: MCLP and WG3**
+**Thursday, Sep 18 2025; Joint Sessions from 11:00, MCLP and WG3**
 
 | | | | 
 |------------- | ------------- | ------------- | 
