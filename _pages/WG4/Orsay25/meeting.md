@@ -131,6 +131,10 @@ put in place to make this as an efficient and open process as possible.
 
 - [Yannick Forster](https://yforster.de/) (Inria Paris, France), the Coq Library of undecidability proofs [[github]](https://github.com/uds-psl/coq-library-undecidability)
 
+The Rocq library of undecidable problems is a collaborative formalisation of undecidability proofs, mostly carried out in the form of student projects. I will explain how this library can be helpful for novel research results, how it was developed by undergraduate students, how Rocq facilitated such a development, and how it could be ported to other proof assistants.
+
+The library has contributions by Dominique Larchey-Wendling, Dominik Kirst, Andrej Dudenhefner, Johannes Hostert, Fabian Kunze, Marc Hermes, Mark Koch, Benjamin Peters, Dominik Wehr, Lennard Gäher, Niklas Mück, Hizbullah Jabbar, Simon Spies, Maximilian Wuttke, Edith Heiter, and Gert Smolka.
+
 - [Niels van der Weide](https://nmvdw.github.io/) (U. Radboud, Netherlands), the Unimath Coq library [[link]](https://unimath.github.io/UniMath/)
 
 - [Kathrin Stark](https://www.k-stark.de/) (U. Heriot-Watt, UK), On Autosubst: Mechanising binders in Coq [[link]](https://www.ps.uni-saarland.de/extras/autosubst2/)
