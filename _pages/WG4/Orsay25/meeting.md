@@ -51,7 +51,7 @@ for the moment, we have 15 talks
 | 09:00-09:45 | [Manuel Eberl](http://cl-informatik.uibk.ac.at/users/meberl/) (U. Innsbruck, Austria), the Isabelle Archive of Formal Proofs |
 | 09:45-10:30 | [Michael Rothgang](https://www.math.uni-bonn.de/people/rothgang/) (U. Bonn, Germany), growing Lean mathlib: review and triage tooling for a large formalised mathematics library |
 | 10:30-11:00 | break   |
-| 11:00-11:45 | [Nicolas Magaud](https://dpt-info.u-strasbg.fr/~magaud/) (U. Strasbourg, France), optimisation of Coq proof scripts |
+| 11:00-11:45 | [Nicolas Magaud](https://dpt-info.u-strasbg.fr/~magaud/) (U. Strasbourg, France), Optimization of Rocq proof scripts |
 | 11:45-12:30 | [Cyril Cohen](https://perso.crans.org/cohen/) (Inria Lyon, France), Hierarchy Builder |
 | 12:30-14:00 | lunch   |
 | 14:00-14:45 | [Mohammad Abdulaziz](https://mabdula.github.io/) (King's College London, UK), an Isabelle Library of Combinatorial Optimisation Results |
@@ -90,7 +90,10 @@ Review and triage of all incoming contributions presents an ongoing challenge as
 
 - [Manuel Eberl](http://cl-informatik.uibk.ac.at/users/meberl/) (U. Innsbruck, Austria), the Isabelle Archive of Formal Proofs [[link]](https://www.isa-afp.org/)
 
-- [Nicolas Magaud](https://dpt-info.u-strasbg.fr/~magaud/) (U. Strasbourg, France), optimisation of Coq proof scripts
+- [Nicolas Magaud](https://dpt-info.u-strasbg.fr/~magaud/) (U. Strasbourg, France) and Alexandre Jean, Optimization of Rocq proof scripts
+
+Proof assistants like Rocq are becoming mainstream tools to help mathematicians carry out proofs of the results they conjecture. However, formal proofs remain highly technical and are increasingly larger both in terms of script size and script execution/compilation time. We present a generic framework, called coq-ditto which aims at post-processing correct proof scripts and at transforming them into some  equivalent proof scripts, optimized according to some given criteria. The first available transformations include factorizing proof steps into a single-line proof scripts, replacing calls to automatic tactics such as auto with the actual proof steps they suggested.  We choose to develop a generic framework which allows to combine and revert proof scripts transformations depending on the user needs.
+We apply our tool to various proof developments including the standard library of Rocq and the library GeoCoq which formalizes geometry. 
 
 - [Cyril Cohen](https://perso.crans.org/cohen/) (Inria Lyon, France), Hierarchy Builder [[github]](https://github.com/math-comp/hierarchy-builder/)
 
@@ -135,7 +138,13 @@ The Rocq library of undecidable problems is a collaborative formalisation of und
 
 The library has contributions by Dominique Larchey-Wendling, Dominik Kirst, Andrej Dudenhefner, Johannes Hostert, Fabian Kunze, Marc Hermes, Mark Koch, Benjamin Peters, Dominik Wehr, Lennard Gäher, Niklas Mück, Hizbullah Jabbar, Simon Spies, Maximilian Wuttke, Edith Heiter, and Gert Smolka.
 
-- [Niels van der Weide](https://nmvdw.github.io/) (U. Radboud, Netherlands), the Unimath Coq library [[link]](https://unimath.github.io/UniMath/)
+- [Niels van der Weide](https://nmvdw.github.io/) (U. Radboud, Netherlands), the Unimath Rocq library [[link]](https://unimath.github.io/UniMath/)
+
+In this talk, we discuss the UniMath, which is a library in Rocq based on univalent foundations. UniMath covers various areas in mathematics ranging from (higher) category theory and homological algebra to algebraic theories and substitution systems. Specifically, we discuss the basics of univalent foundations, and how it affects the development of (higher) category theory.
+
+Univalent foundations is a version of dependent type theory extended with the univalence axiom. Roughly speaking, this axiom states that two types are identified if they are equivalent, and as a consequence we get a more refined treatment of identity. In addition, this axiom gives us new and interesting perspectives on mathematics, and, in particular, category theory. 
+
+Categories come with multiple notions of equivalence, namely isomorphism and adjoint equivalence. This bifurcation is reflected in univalent foundations, where one can distinguish between two kinds of categories. On the one hand, one has setcategories, which are identified up to isomorphism, and on the other hand, one has univalent categories, which are identified up to adjoint equivalence. These notions come with suitable equivalence principles that allows us to transport structure and properties. While such principles usually have to be proven by hand, they are automatic in univalent foundations.
 
 - [Kathrin Stark](https://www.k-stark.de/) (U. Heriot-Watt, UK), On Autosubst: Mechanising binders in Coq [[link]](https://www.ps.uni-saarland.de/extras/autosubst2/)
 
