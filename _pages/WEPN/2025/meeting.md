@@ -49,11 +49,11 @@ Tentative program schedule (subject to change):
 | 14h10 | Opening & Welcome |
 | 14:15-15:15 | Invited talk - Elaine Pimentel: _"Ecumenical logic"_|
 | 15h15 - 15h45| _Coffee Break_ |
-| 15:45 - 16:15| Irina Starikova: _"Why Types: Natural Structures of Mind or Artificial Formal Tools?"_|
-| 16:15 - 16:45| Malin Altenmuller: _"Reasoning with strict symmetric monoidal categories in Agda"_|
-| 16:45 - 17:15| Roussanka Loukanova: _"Type Theory of Acyclic and Cyclic Algorithms without Chain Memory"_|
-| 17h15 - 17h30| _Coffee Break_ |
-| 17:30 - 18:30| Discussion on gender balance issues |
+| ~~15:45 - 16:15~~| ~~Irina Starikova: _"Why Types: Natural Structures of Mind or Artificial Formal Tools?"_~~|
+| 15:45 - 16:15| Malin Altenmuller: _"Reasoning with strict symmetric monoidal categories in Agda"_|
+| 16:15 - 16:45| Roussanka Loukanova: _"Type Theory of Acyclic and Cyclic Algorithms without Chain Memory"_|
+| 16h45 - 17h00| _Short Break_ |
+| 17:00 - 18:30| Discussion on gender balance issues |
 
 
 ### Booklet of best practices
