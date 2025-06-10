@@ -5,6 +5,7 @@ permalink: /women-epn-2025/
 author_profile: true
 breadcrumbs: true
 ---
+<img src="/_pages/WEPN/2025/group-photo.png"/>
 
 ## June 10, 2025
 
