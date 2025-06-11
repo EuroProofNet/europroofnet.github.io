@@ -34,7 +34,7 @@ The program will be composed of talks and discussion sessions on these topics, t
 
 **Talk proposals:**
  
- If you want to give a talk or make a tool demo, please use the [submission form](https://forms.office.com/e/xd4DT6XFpy). The deadline for talk proposals is **May 25**. 
+ If you want to give a talk or make a tool demo, please use the [submission form](https://forms.office.com/e/xd4DT6XFpy). 
  Contact the organizers if you have any question regarding the submission process.
 
  **Registration/funding requests:** fill in this [form](https://forms.gle/QLFzh3Ugv5WgkhZr7)
@@ -76,3 +76,49 @@ The program will be composed of talks and discussion sessions on these topics, t
  * Membership of at least one WG of EPN is mandatory for reimbursement. Please [join here](https://e-services.cost.eu/action/CA20111/working-groups/apply) if you are not already a member.
  * Please note that any transport <100 km is not reimbursed as they are included in the daily allowance. Please check the [reimbursement rules](https://europroofnet.github.io/reimbursement-rules/) carefully so that there is no bad surprise after the meeting. The daily allowance (covering accommodation, local transport and meals) is fixed at 130 Euros.
 -->
+
+
+### Program
+
+The event is scheduled as a two and a half-day meeting. 
+
+Use the following links to access
+* [List of talks](https://europroofnet.github.io/wg3-sept2025-talks).
+* Full program (_upcoming_).
+
+Program schedule (_tentative_): 
+
+**Day 1 / Sept. 17**
+
+| Time      | Session |
+| ----------- | ----------- |
+| 09:00-09:30      | Opening & Presentation       |
+| 09:30-10:30   | Session 1        |
+| 10:30-11:00 | _Break_ |
+| 11:00-12:30 | Session 2: Talks |
+| 12:30-14:00 | _Lunch_ |
+| 14:00-15:30 | Session 3: Talks |
+| 15:30-16:00 | _Break_ |
+| 16:00-17:30 | Session 4: Talks & Discussion |
+
+**Day 2 / Sept. 18**
+
+| Time      | Session |
+| ----------- | ----------- |
+| 09:00-10:30  | Session 5: Talks        |
+| 10:30-11:00 | _Break_ |
+| 11:00-12:30 | Joint session with MCLP |
+| 12:30-14:00 | _Lunch_ |
+| 14:00-15:00 | Joint session with MCLP |
+| 15:00-15:30 | WG3 Verification Challenges |
+| 15:30-16:00 | _Break_ |
+| 16:00-17:30 | Session 6: Talks & Discussion |
+
+**Day 3 / Sept. 19**
+
+| Time      | Session |
+| ----------- | ----------- |
+| 09:00-10:30  | Session 7: Talks        |
+| 10:30-11:00 | _Break_ |
+| 11:00-12:30 | Session 8: Discussion & Closing |
+| 12:30-14:00 | _Lunch_ |
