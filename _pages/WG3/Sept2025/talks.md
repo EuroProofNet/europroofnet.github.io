@@ -19,7 +19,7 @@ breadcrumbs: true
 - _Prove your Colorings: Formal Verification of Cache Coloring of Bao Hypervisor_. Nikolai Kosmatov (Thales Research and Technology)
 - _TBA_. Sibylle Möhle (University of Regensburg, Germany)
 - _A Global Specification Model for Data-Aware Coordination (with an application to smart contracts)_. António Ravara (NOVA School of Science and Technology)
-- _Singular and Plural Functions_. Adrián Riesco (UCM, Spain)
+- (MCLP) _Singular and Plural Functions_. Adrián Riesco (UCM, Spain)
 - _Formal Analysis of Attested TLS in Industrial Settings_. Usama Sardar (TU Dresden)
+- (MCLP) _A Lean-based Language for Teaching Proof in High-school_.  Frédéric Tran Minh (UGA-Grenoble INP-Esisar), Laure Gonnord (Grenoble-INP / LCIS), and Julien Narboux (RIF - Université Paris Cité)
 - _Sound and Complete Invariant-Based Heap Encodings_. Esen Zafer (Uppsala University)
-- (MCLP) _A Lean-based Language for Teaching Proof in High-school_.  
