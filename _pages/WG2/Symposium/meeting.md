@@ -26,6 +26,21 @@ This will be the final meeting of the WG2 and the [International Workshop on Hig
 
 The program will be composed of talks and sessions to work alone or in small groups on the development of tools for automated theorem proving and proofs (in particular Dedukti proofs), taking advantage of the participation of experts on Dedukti, formula and proof exchange standards, and theorem provers and solvers, and to make progress on EuroProofNet objectives and deliverables.
 
+**Program** Preliminary version:
+
+	
+| Time           | Thursday               | Friday                 | Saturday        |
+|----------------|------------------------|------------------------|-----------------|
+| 09:00 -- 9:30  | Opening & Presentation | AR                     | VeriPB tutorial |
+| 09:30 -- 10:30 | Dedukti session (I)    | AR                     |                 |
+| 10:30 -- 11:00 | (Break)                | (Break)                |                 |
+| 11:00 -- 12:30 | Dedukti session (II)   | AR                     |                 |
+| 12:30 -- 14:00 | (Lunch)                | (Lunch)                |                 |
+| 14:00 -- 15:30 | Alethe (I)             | Other proof techniques |                 |
+| 15:30 -- 16:00 | (Break)                | (Break)                |                 |
+| 16:00 -- 17:00 | Alethe (II)            | Other proof techniques |                 |
+| 17:00 -- 17:30 | Discussion             | Discussion             |                 |
+
 <!--
 **Objectives/Deliverables:**
   - D10. Release of software for translating proofs coming from important proof systems based on set theory like Mizar, Atelier B or TLAPS to Dedukti and back.
