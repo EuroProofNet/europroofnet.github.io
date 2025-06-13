@@ -53,7 +53,7 @@ Week 2:
 | [MCLP](../MCLP)       | [MCLP](../MCLP)       | [MCLP](../MCLP)        | [MCLP](../MCLP)        |                        |
 |                       |                       | [WG3](../wg3-Sept2025) | [WG3](../wg3-Sept2025) | [WG3](../wg3-Sept2025) |
 |                       |                       |                        |                        | [MC](../mc-meetings)   |
-| (*)                   |                       | (*)                    |                        |                        |
+| (*)                   |                       |                        | (*)                    |                        |
 
 <p style="font-size: 12px">(*) 17:30-18:30: happy hour</p>
 
