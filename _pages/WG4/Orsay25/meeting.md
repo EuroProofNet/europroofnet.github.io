@@ -41,8 +41,6 @@ for the moment, we have 15 talks
 16:00-17:30 talks
 -->
 
-<!--
-
 **Schedule:**
 
 | time | Monday 15 September |
@@ -66,7 +64,7 @@ for the moment, we have 15 talks
 | 09:45-10:30 | [Joseph Tooby-Smith](https://josephtoobysmith.com/) (U. Reykjavik, Iceland), PhysLean: Digitalizing Physics in Lean |
 | 10:30-11:00 | break   |
 | 11:00-11:45 | [Kathrin Stark](https://www.k-stark.de/) (U. Heriot-Watt, UK), On Autosubst: Mechanising binders in Coq |
-| 11:45-12:30 | [Matthieu Sozeau](https://sozeau.gitlabpages.inria.fr/www/) (Inria Nantes, France), MetaCoq |
+| 11:45-12:30 | [Matthieu Sozeau](https://sozeau.gitlabpages.inria.fr/www/) (Inria Nantes, France), MetaRocq: Metaprogramming and Mechanization of Rocq in Rocq |
 | 12:30-14:00 | lunch   |
 | 14:00-14:45 | [Markus Himmel](https://github.com/TwoFX) (Lean FRO, Germany), the Lean standard library: development methodology and tooling |
 | 14:45-15:30 | [Patrick Massot](https://www.imo.universite-paris-saclay.fr/~patrick.massot/) (U. Paris-Saclay, France), coordinating large formalization projects |
@@ -75,9 +73,7 @@ for the moment, we have 15 talks
 | 16:45-17:30 |  |
 | 17:30-18:30 | happy hour |
 
--->
-
-**Speakers and abstracts:**
+**Abstracts:**
 
 - [Markus Himmel](https://github.com/TwoFX) (Lean FRO, Germany), the Lean standard library: development methodology and tooling
 
@@ -150,7 +146,21 @@ Categories come with multiple notions of equivalence, namely isomorphism and adj
 
 Mechanising metatheory in the Coq proof assistant is often considered tedious as reasoning with binders without native support requires a lot of uninteresting technicalities. To relieve users from so-produced boilerplate, the Autosubst compiler automates working with de Bruijn terms. Autosubst translates second-order HOAS specifications into the corresponding pure or scoped de Bruijn algebra: It hence generates a corresponding instantiation operation for parallel substitutions, several equational substitution lemmas, and tactics that among others implement automation for assumption-free substitution lemmas. In this talk, we outline the design and usage of Autosubst; including recent plans for extensibility.
 
-- [Matthieu Sozeau](https://sozeau.gitlabpages.inria.fr/www/) (Inria Nantes, France), MetaCoq [[link]](https://metarocq.github.io/)
+- [Matthieu Sozeau](https://sozeau.gitlabpages.inria.fr/www/) (Inria Nantes, France), MetaRocq: Metaprogramming and Mechanization of Rocq in Rocq [[link]](https://metarocq.github.io/)
+
+The MetaRocq library is a library and set of plugins for Rocq that 
+provides metaprogramming facilities on top of Rocq and develops the 
+metatheory of the core type theory of Rocq with accompanying verified
+implementations of type-checking and extraction. In this talk, I will present
+the different components of the library and the challenges and solutions we 
+developed to make the proof development scale to the large language and 
+specifications we study. I will also discus possible improvements to the proof 
+assistant that would help in our development and future research directions.
+
+The MetaRocq library was developed collaboratively by Abhishek Anand, 
+Danil Annenkov, Simon Boulier, Cyril Cohen, Yannick Forster, Jason Gross, 
+Meven Lennon-Bertrand, Kenji Maillard, Gregory Malecha, Jakob Botsch Nielsen,
+Matthieu Sozeau, Nicolas Tabareau and Théo Winterhalter.
 
 - [Patrick Massot](https://www.imo.universite-paris-saclay.fr/~patrick.massot/) (U. Paris-Saclay, France), coordinating large formalization projects
 
