@@ -17,7 +17,7 @@ The grant amounts below are initial estimations and not necessarily the final am
 
 ## 13th call (16th March 2025)
 
-* **String Solving with Parametrized Automata** [application](/_pages/stsm/alber-app.pdf)   
+* **String Solving with Parametrized Automata** [application](/_pages/stsm/alber-app.pdf) [report](/_pages/stsm/alber-rep.pdf)   
   Visitor: Franziska Alber   
   Host: Laura Kovács   
   Grant: 1243 EUR  
@@ -41,7 +41,7 @@ The grant amounts below are initial estimations and not necessarily the final am
   Grant: 800 EUR  
   Dates: 2025-06-08 to 2025-06-13
 
-* **The (∞,1)-category of ∞-groupoids in the spirit of Lawvere** [application](/_pages/stsm/mikhail-app.pdf)   
+* **The (∞,1)-category of ∞-groupoids in the spirit of Lawvere** [application](/_pages/stsm/mikhail-app.pdf) [report](/_pages/stsm/mikhail-rep.pdf)   
   Visitor: Thomas Jan Mikhail  
   Host: Christian Sattler  
   Grant: 1050 EUR  
@@ -62,7 +62,7 @@ The grant amounts below are initial estimations and not necessarily the final am
 
 ## 12th call (24th November  2024)
 
-* **Verification of Higher-Order Logic Automated Reasoning within the Dedukti Framework** [application](/_pages/stsm/taprogge-app25.pdf)   
+* **Verification of Higher-Order Logic Automated Reasoning within the Dedukti Framework** [application](/_pages/stsm/taprogge-app25.pdf) [report](/_pages/stsm/taprogge-rep25.pdf)   
   Visitor: Melanie Taprogge  
   Host: Alexander Steen      
   Grant: 1624 EUR  
@@ -74,7 +74,7 @@ The grant amounts below are initial estimations and not necessarily the final am
   Grant: 1716 EUR  
   Dates: 2025-05-11 to 2025-05-17
 
- * **Dinatural Semantics of Directed Type Theory** [application](/_pages/stsm/neumann-app25.pdf)   
+ * **Dinatural Semantics of Directed Type Theory** [application](/_pages/stsm/neumann-app25.pdf) [report](/_pages/stsm/neumann-rep25.pdf)   
   Visitor: Jacob Neumann   
   Host: Niccolò Veltri     
   Grant: 1819 EUR  
