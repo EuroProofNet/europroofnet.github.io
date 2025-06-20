@@ -40,24 +40,24 @@ Please note that you have to organize yourself for lunches (and dinners), but th
 | 15:30-16:00 | break | break | 
 | 16:00-17:00 | [Lars Hellan](https://www.ntnu.edu/employees/lars.hellan), Norwegian University of Science and Technology, Trondheim | Valence Aspects of Discourse over Logic (Invited) | 
 | 17:00-17:30 | S | T | 
-| 17:30-18:30 | (*)
+| 17:30-18:30 | (*) happy hour 
 
 **Tuesday, Sep 16 2025**
 
 | | | | 
 |------------- | ------------- | ------------- | 
-| 09:00-10:00 | [Sandra Alves](https://www.dcc.fc.up.pt/~sandra/Home/Home.html), University of Porto | TBA (Invited) | 
+| 09:00-10:00 | [Sandra Alves](https://www.dcc.fc.up.pt/~sandra/Home/Home.html), University of Porto | Structural Rules and Algebraic Properties of Intersection Types (Invited) | 
 | 10:00-10:30 | S | T | 
 | 10:30-11:00 | break | break | 
-| 11:00-12:00 | [Roussanka Loukanova](https://www.math.bas.bg/logic/loukanovarp/), Bulgarian Academy of Sciences | Pure vs Generalized Quantifiers | 
+| 11:00-12:00 | [Roussanka Loukanova](https://www.math.bas.bg/logic/loukanovarp/), Bulgarian Academy of Sciences | Pure versus Generalised Quantifiers | 
 | 12:00-12:30 | S | T | 
 | 12:30-14:00 | [lunch](../Food) | [lunch](../Food) | 
 | 14:00-15:00 | [Daisuke Bekki](https://daisukebekki.github.io), Ochanomizu University | A Proof-theoretic Investigation of Natural Language Semantics (Invited) | 
 | 15:00-15:30 | [Denis Bechet](http://pagesperso.ls2n.fr/~bechet-d/contact.html), LS2N - Nantes University and [Annie Foret](http://www.irisa.fr/prive/foret/english.html), IRISA and Univ Rennes 1 | Categorial Dependency Grammars Extended with Typed Barriers | 
 | 15:30-16:00 | break | break | 
 | 16:00-17:00 | [Wojciech Buszkowski](https://wmi.amu.edu.pl/wydzial/pracownicy/wojciech-buszkowski), Adam Mickiewicz University | TBA (Invited) | 
-| 17:00-17:30 / 18:00 | [Philippe de Groote](https://members.loria.fr/PDegroote/), Inria Nancy - Grand Est, France | TBA (Invited) | 
-| 18:00-18:30 | (*) 
+| 17:00-18:00 | [Philippe de Groote](https://members.loria.fr/PDegroote/), Inria Nancy - Grand Est, France | TBA (Invited) | 
+| 18:00-18:30 | S | T | 
 
 **Wednesday, Sep 17 2025**
 
@@ -75,7 +75,7 @@ Please note that you have to organize yourself for lunches (and dinners), but th
 | 15:30-16:00 | break | break | 
 | 16:00-16:45 |  [Sana Stojanovic-Durdevic](https://poincare.matf.bg.ac.rs/~sana.stojanovic.djurdjevic/) and [Danijela Simic](https://poincare.matf.bg.ac.rs/~danijela.simic/), University of Belgrade, Faculty of Mathematics | Proof by Cases in Euclidean Geometry | 
 | 16:45-17:30 | [Jørgen Villadsen](https://people.compute.dtu.dk/jovi/), Technical University of Denmark, Denmark | On Natural Deduction and Axioms for Propositional and First-Order Logic | 
-| 17:30-18:30 | (*) 
+| 17:30-18:30  | S | T | 
 
 **Thursday, Sep 18 2025; Joint Sessions from 11:00, MCLP and WG3**
 
@@ -90,11 +90,11 @@ Please note that you have to organize yourself for lunches (and dinners), but th
 | 14:00-15:00 | [Adrian Riesco](http://maude.sip.ucm.es/~adrian/) and Juan Rodriguez-Hortala, Universidad Complutense de Madrid | Singular and Plural Functions (Invited) | 
 | 15:00-15:30 | S | T | 
 | 15:30-16:00 | break | break | 
-| 16:00-17:30 |[Lawrence S. Moss](https://iulg.sitehost.iu.edu/moss/), Indiana University, Bloomington, US | Natural Logic: Proof Systems for Reasoning in Natural Language (KeyNote)| 
-| 17:30-18:30 | (*) 
+| 16:00-17:00 |[Lawrence S. Moss](https://iulg.sitehost.iu.edu/moss/), Indiana University, Bloomington, US | Natural Logic: Proof Systems for Reasoning in Natural Language (KeyNote)| 
+| 17:00-17:30 | S | T | 
+| 17:30-18:30 | (*) happy hour 
 
 **Speakers and Abstracts**
-
 <!-- (14) -->
 - [Reinhard Muskens](https://staff.fnwi.uva.nl/r.a.muskens/), University of Amsterdam, The Netherlands
 
@@ -112,26 +112,9 @@ joint sessions: MCLP + WG3
 Natural Logic: Proof Systems for Reasoning in Natural Language (KeyNote)
 
 Abstract:
-This talk has two goals. The first is to give a very general introduction to the program of ""natural logic'' (Sanchez-Valencia. 1991). The overall idea is to do logic in natural language as much as possible, ideally without translation into standard logical systems like first-order logic. There is a large and growing family of such logical systems, together with soundness/completeness theorems and in some cases with implementations. The main difference between the proof systems here and more familiar ones is that we start with the simplest systems in logic, syllogistic systems and their extensions, and then slowly incorporate more grammatical features.
+This talk has two goals. The first is to give a very general introduction to the program of "natural logic'' (Sanchez-Valencia. 1991). The overall idea is to do logic in natural language as much as possible, ideally without translation into standard logical systems like first-order logic. There is a large and growing family of such logical systems, together with soundness/completeness theorems and in some cases with implementations. The main difference between the proof systems here and more familiar ones is that we start with the simplest systems in logic, syllogistic systems and their extensions, and then slowly incorporate more grammatical features.
 
 The other goal of the talk is to connect with people in the EuroProofNet area, especially people interested in the MCLP Conference and perhaps also with the Workshop on Program Verification. I will talk about some relatively new work (joint with Antonio Badia) on connections of natural logic and description logic, and also on ongoing work on running systems for natural language inference which have as a component the logical systems from this area.
-
-<!-- (17) -->
-- [Adrian Riesco](http://maude.sip.ucm.es/~adrian/),
-Universidad Complutense de Madrid
-and Juan Rodriguez-Hortala
-
-joint sessions: MCLP + WG3
-
-Singular and Plural Functions (Invited Talk)
-
-Abstract: 
-Modern functional logic programming languages use non-terminating and non-confluent constructor systems as programs in order to define non-strict and non-deterministic functions. Two semantic alternatives have been usually considered for parameter passing with this kind of functions: call-time choice and run-time choice. While the former is the standard choice of modern FLP languages, the latter lacks some basic properties – mainly compositionality – that have prevented its use in practical FLP systems. Traditionally it has been considered that call-time choice induces a singular denotational semantics, while run-time choice induces a plural semantics. We have discovered that this latter identification is wrong when pattern matching is involved, and thus in this paper we propose two novel compositional plural semantics for CSs that are different from run-time choice.
-
-<!-- (18) -->
-- [Wojciech Buszkowski](https://wmi.amu.edu.pl/wydzial/pracownicy/wojciech-buszkowski), Adam Mickiewicz University, Poznan, Poland
-
-TBA (Invited Talk)
 
 <!-- (2) --> 
 - [Daisuke Bekki](https://daisukebekki.github.io),
@@ -139,10 +122,10 @@ Ochanomizu University, Japan
 
 A Proof-theoretic Investigation of Natural Language Semantics (Invited Talk)
 
-Abstract: 
+Abstract:
 Type-theoretical semantics (TTS) offers a proof-theoretic alternative to model-theoretic semantics, using dependent types for meaning representation. Dependent type semantics (DTS), a form of TTS, employs unspecified types (@-types) to compositionally analyze anaphora and presuppositions, serving as a proof-theoretic counterpart to dynamic semantics. DTS can explain certain anaphoric phenomena other frameworks cannot, highlighting the importance of "types depending on proofs" in natural language semantics. The talk will overview DTS and demonstrate its application to linguistic phenomena like anaphora resolution, presupposition binding, and inference within a unified framework, emphasizing proof theory's fundamental role in meaning.
 
-<!-- (5) --> 
+<!-- (5) -->
 - [Aarne Ranta](https://www.cse.chalmers.se/~aarne/), Chalmers University of Technology and University of Gothenburg, Sweden
 
 Symbolic Informalization: Fluent, Productive, Multilingual (Invited Talk)
@@ -170,9 +153,8 @@ Valence Aspects of Discourse over Logic (Invited Talk)
 
 Abstract: 
 The present research is based on the following resources:
-
-   - A valence dictionary of Norwegian, called NorVal, containing about 17,500 valence-specific entries over 7,500 verb lexemes (cf. Hellan 2022), and a subpart of it, referred to as NorVal-1956, representing about 10,000 valence-specific entries over 1956 verb lexemes, but, with a new system of semantic specification, tentatively called ‘Semantic Meta-Features’ (cf. Hellan 2025), semantic annotations added to all the verbs. 340 types of valence frames are defined, and 25 semantic features.
-   - A valence dictionary of English, called EngVal, derived from NorVal-1956 through verb translation equivalents and valence frame equivalents accommodated from NorVal-1956, thus with approximately the same 340 types of valence frames and the same 25 semantic features cf. Hellan ms, 2025).
+    - A valence dictionary of Norwegian, called NorVal, containing about 17,500 valence-specific entries over 7,500 verb lexemes (cf. Hellan 2022), and a subpart of it, referred to as NorVal-1956, representing about 10,000 valence-specific entries over 1956 verb lexemes, but, with a new system of semantic specification, tentatively called ‘Semantic Meta-Features’ (cf. Hellan 2025), semantic annotations added to all the verbs. 340 types of valence frames are defined, and 25 semantic features.
+    - A valence dictionary of English, called EngVal, derived from NorVal-1956 through verb translation equivalents and valence frame equivalents accommodated from NorVal-1956, thus with approximately the same 340 types of valence frames and the same 25 semantic features cf. Hellan ms, 2025).
 The encoding of the these types of specification is primarily done within the Typed Feature Structure formalism of Carpenter 1990 and Copestake 2002, and ported to a simple string-format called ‘Construction Labeling’ (Hellan 2023) over which ontologies of verbal construction types can be systematically constructed.
 We assume that for many types of discourse, characteristic profiles of valence frames and semantic meta-features can be constructed, and in the present paper we consider possible such profiles in the domain of (verbal) discourse over logical, mathematical and semantic matters.
 
@@ -183,12 +165,7 @@ University of Bonn, Germany
 Natural Language Understanding In Natural Proof Checking (Invited Talk)
 
 Abstract: 
-The Naproche project aims to model informal mathematical English and facilitate natural mathematical proof checking through the implementation of the Naproche interactive theorem prover. In this talk, I will present the syntax and semantics of Naproche-ZF and discuss the processing techniques employed in the theorem proving software.
-
-<!-- (19) -->
-- [Philippe de Groote](https://members.loria.fr/PDegroote/), Inria Nancy - Grand Est, France
-
-TBA (Invited Talk)
+The Naproche project aims to model informal mathematical English and facilitate natural mathematical proof checking through the implementation of the Naproche interactive theorem prover. In this talk, I will present the syntax and semantics of Naproche-ZF and discuss the processing techniques employed in the theorem proving software. 
 
 <!-- (1) --> 
 - [Denis Bechet](http://pagesperso.ls2n.fr/~bechet-d/contact.html), 
@@ -212,19 +189,11 @@ The University of Manchester, United Kingdom
 Extending Flexible Boolean Semantics for the Language of Mathematics
 
 Abstract: 
-In this talk, we discuss how the linguistic phenomena of coordination, definite descriptions, distributive and collective predicates, and selectional restrictions give rise to different entailment patterns in the Language of Mathematics (LoM).
-LoM refers to the English prose and symbolic expressions found in pure mathematics textbooks and research articles.
+In this talk, we discuss how the linguistic phenomena of coordination, definite descriptions, distributive and collective predicates, and selectional restrictions give rise to different entailment patterns in the Language of Mathematics (LoM).  LoM refers to the English prose and symbolic expressions found in pure mathematics textbooks and research articles.
 
-We use flexible Boolean semantics as our semantic framework.
-Boolean semantics is a branch of compositional model-theoretic semantics that leverages Boolean algebraic properties of semantic domains to analyse natural language.
-While standard Boolean semantics typically relies solely on function application to combine denotations, flexible Boolean semantics extends it by employing phonologically covert operators as well.
+We use flexible Boolean semantics as our semantic framework.  Boolean semantics is a branch of compositional model-theoretic semantics that leverages Boolean algebraic properties of semantic domains to analyse natural language.  While standard Boolean semantics typically relies solely on function application to combine denotations, flexible Boolean semantics extends it by employing phonologically covert operators as well.
 
-Winter applies flexible Boolean semantics to analyse how coordination and definite descriptions interact with distributive and collective predicates in English.
-In this talk, we evaluate his framework using data from LoM.
-The lack of vagueness in LoM makes it an ideal testbed for semantic theories.
-Concerning applications, developing semantic theories for LoM can support the construction of mathematical formalisation tools.
-We first present an example from LoM where Winter’s theory fails to yield satisfactory results.
-We then propose extensions to the type system and operators, and demonstrate how these modifications address the issue.
+Winter applies flexible Boolean semantics to analyse how coordination and definite descriptions interact with distributive and collective predicates in English.  In this talk, we evaluate his framework using data from LoM.  The lack of vagueness in LoM makes it an ideal testbed for semantic theories.  Concerning applications, developing semantic theories for LoM can support the construction of mathematical formalisation tools.  We first present an example from LoM where Winter’s theory fails to yield satisfactory results.  We then propose extensions to the type system and operators, and demonstrate how these modifications address the issue.
 
 <!-- (6) -->
 - [Frédéric Tran Minh](https://lcis.fr/members/frederic-tran-minh),
@@ -239,26 +208,50 @@ joint sessions: MCLP + WG3
 A Lean-based Language for Teaching Proof in High-school
 
 Abstract: 
-Now pervasive in many mathematics and computer science
-research domains, proof assistants have recently gained importance in
-education, mostly during the college years. In this talk, we propose a
-new learning environment as a layer above the Lean proof assistant, specially targeting high-school level proofs. Inspired by other adaptations of
-proof assistants for teaching such as Lean-Verbose, Coq Waterproof and
-Proof Buddy, and also by coherent logic, we designed Yalep, a declarative
-controlled natural language, with a minimal number of syntactic constructions, that favors forward-chaining of facts. Yalep provides convenience
-for type theory hiding, and functions defined on type subsets. This paper
-presents the design choices and implementation of these features.
+Now pervasive in many mathematics and computer science research domains, proof assistants have recently gained importance in education, mostly during the college years. In this talk, we propose a new learning environment as a layer above the Lean proof assistant, specially targeting high-school level proofs. Inspired by other adaptations of proof assistants for teaching such as Lean-Verbose, Coq Waterproof and Proof Buddy, and also by coherent logic, we designed Yalep, a declarative controlled natural language, with a minimal number of syntactic constructions, that favors forward-chaining of facts. Yalep provides convenience for type theory hiding, and functions defined on type subsets. This paper presents the design choices and implementation of these features.
 
-<!-- (20) -->
+<!-- (17) -->
+- [Adrian Riesco](http://maude.sip.ucm.es/~adrian/),
+Universidad Complutense de Madrid
+and Juan Rodriguez-Hortala
+
+joint sessions: MCLP + WG3
+
+Singular and Plural Functions (Invited Talk)
+
+Abstract: 
+Modern functional logic programming languages use non-terminating and non-confluent constructor systems as programs in order to define non-strict and non-deterministic functions. Two semantic alternatives have been usually considered for parameter passing with this kind of functions: call-time choice and run-time choice. While the former is the standard choice of modern FLP languages, the latter lacks some basic properties – mainly compositionality – that have prevented its use in practical FLP systems. Traditionally it has been considered that call-time choice induces a singular denotational semantics, while run-time choice induces a plural semantics. We have discovered that this latter identification is wrong when pattern matching is involved, and thus in this paper we propose two novel compositional plural semantics for CSs that are different from run-time choice.
+
+<!-- (18) -->
+- [Sandra Alves](https://www.dcc.fc.up.pt/~sandra/Home/Home.html), University of Porto
+
+Structural Rules and Algebraic Properties of Intersection Types (Invited Talk)
+
+Abstract: 
+In this talk we define several notions of term expansion, used to define terms with less sharing, but with the same computational properties of terms typable in an intersection type system. Expansion relates terms typed by associative, commutative and idempotent intersections with terms typed in the Curry type system and the relevant type system; terms typed by non-idempotent intersections with terms typed in the affine and linear type systems; and terms typed by non-idempotent and non-commutative intersections with terms typed in an ordered type system.
+
+<!-- (19) -->
 - [Roussanka Loukanova](https://www.math.bas.bg/logic/loukanovarp/), 
 Bulgarian Academy of Sciences (BAS), Bulgaria
 
-Pure vs Generalized Quantifiers
+Pure versus Generalised Quantifiers
 
-<!-- (21) -->
-- [Sandra Alves](https://www.dcc.fc.up.pt/~sandra/Home/Home.html), University of Porto
+Abstract: 
+In my talk, I will present several approaches to representing quantificational sentences of natural language (NL) by formal languages of logic. I will focus on computational syntax-semantics of domain-dependent fragments of NL of mathematics, covering mathematical descriptions, definitions, statements, and proofs, by translations between NL expressions and formal languages of logic.
 
-TBA (Invited Talk)
+In the major part of the talk, I will introduce a development of Moschovakis (2006) type-theory of recursion (TTR) and algorithms (TTA), their formal languages and reduction calculi. Adding a criterion for termination, by the Acyclicity Constraint, TTR and TTA are limited to type-theory of acyclic recursion (TTAR) and acyclic algorithms (TTAA). TTR has two layers of computational semantics: algorithmic and denotational semantics. The canonical form of each algorithmically meaningful term determines the algorithm for computing its denotation. TTR provides special algorithmic and semantic adequateness to computational syntax-semantics of formal and natural languages.
+
+TTR is a proper, strict extension of the language LCF introduced by Gordon Plotkin (1977). TTR provides an algorithmic generalisation of the let-operator, for the let-expressions originally introduced by Dana S. Scott (1993). Moschovakis (2006) and Loukanova (2023, 2024) prove that TTR is a proper, strict extension of Gallin TY2. Thus, TTR is a strict extension of Montague Intensional Logic (MIL), via Gallin (1975) interpretation of MIL into TY2. In TTR, there are recursion terms that are neither algorithmically nor otherwise semantically equivalent to any lambda-terms.
+
+In addition to algorithmic semantics, TTR provides more subtle semantic interpretations and distinctions for formal and natural languages. Essentially, TTR supports rich varieties of quantification, over all types, via terms of:
+
+(1) generalised quantifiers (Loukanova, 2016-2025)
+
+(2) pure logic quantifiers (Loukanova, 2019-2025)
+
+The choice between various terms depends on the computational grammars of NL and the associated syntax-semantics analyses of NL expressions in the respective grammars. Typically, the proof and verification systems use pure quantifiers. I will introduce rules for translations between pure logic quantifiers and corresponding generalised ones, at the object level of TTR.
+
+The implementation of translators between NL expressions and formal languages of proof and verification systems is productive work, which is open, promising, and provides reliability. The algorithmic characteristics of TTAR and its semantic expressiveness make it valuable for computational syntax-semantics interfaces in computational grammars of NL, and, especially for computational transfers between NL of mathematics and systems of proof and verification.
 
 <!-- (7) -->
 - [Jørgen Villadsen](https://people.compute.dtu.dk/jovi/), Technical University of Denmark,
