@@ -7,6 +7,12 @@ author_profile: true
 
 To contribute to the web site, please open an [issue](https://github.com/EuroProofNet/europroofnet.github.io/issues), create a [pull request](https://github.com/EuroProofNet/europroofnet.github.io) or send a mail to the [science communication coordinators](../contact).
 
+- 8-11 September 2025: [International School on Logical Frameworks and Proof Systems Interoperability](../LFPSI25)
+
+- 21-25 July 2025: [Scottish Programming Languages and Verification School](https://spli.scot/splv/2025-edinburgh/), Edinburgh, UK
+
+- 7-11 July 2025: [School on Symbolic and Statistical Methods for Reasoning and Processing Formal Expressions](../Kutaisi25), Kutaisi, Georgia
+
 - 3-5 June 2025: [School on Natural Formal Mathematics](https://naproche.github.io/school/), Bonn, Germany
 
 - 15-21 September 2024: school on [Proof & Computation](http://www.mathematik.uni-muenchen.de/~schwicht/pc24.php), Fischbachau, Germany

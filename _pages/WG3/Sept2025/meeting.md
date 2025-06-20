@@ -27,19 +27,10 @@ The program will be composed of talks and discussion sessions on these topics, t
 
 **Registration:** fill in this [form](https://forms.gle/QLFzh3Ugv5WgkhZr7) (registration is free but mandatory) (registration is free but mandatory)
 
-**Important dates:**
-- May 25 CEST: deadline for [funding requests](https://forms.gle/QLFzh3Ugv5WgkhZr7)
-- June 4: notification
-
-
 **Talk proposals:**
  
  If you want to give a talk or make a tool demo, please use the [submission form](https://forms.office.com/e/xd4DT6XFpy). 
  Contact the organizers if you have any question regarding the submission process.
-
- **Registration/funding requests:** fill in this [form](https://forms.gle/QLFzh3Ugv5WgkhZr7)
-
-
 
 <!--
 **Output**
@@ -50,7 +41,6 @@ The program will be composed of talks and discussion sessions on these topics, t
 **Program:** see [here](https://europroofnet.github.io/wg3-orsay24-program/) 
 -->
 
-
 **Meeting Objectives:**
 
 <!--The meeting aims to:-->
@@ -60,7 +50,6 @@ The program will be composed of talks and discussion sessions on these topics, t
   * celebrate results that advance the state of the art in the context of the WG3 goals and deliverables,
   * transfer knowledge in terms of expertise and scientific tools across the different disciplines and between academia and industry, and
   * foster collaborations and build synergies among participants to ease the path to more fruitful results beyond the end of the Action.
-
 
 <!-- In all cases, please [fill the same form](https://docs.google.com/forms/d/1TeOnw5RDcjfXmrayhQ6qBkYx4tqfooBW9Bmeqku1ltc).
   * **Case 1**: _You have a cool talk proposal_: please fill out the _optional_ fields of title, duration, and abstract.
@@ -77,7 +66,6 @@ The program will be composed of talks and discussion sessions on these topics, t
  * Please note that any transport <100 km is not reimbursed as they are included in the daily allowance. Please check the [reimbursement rules](https://europroofnet.github.io/reimbursement-rules/) carefully so that there is no bad surprise after the meeting. The daily allowance (covering accommodation, local transport and meals) is fixed at 130 Euros.
 -->
 
-
 ### Program
 
 The event is scheduled as a two and a half-day meeting. 
@@ -88,6 +76,8 @@ Use the following links to access
 
 Program schedule (_tentative_): 
 
+Please note that you have to organize yourself for lunches (and dinners), but there are many [[options]](../Food) around.
+
 **Day 1 / Sept. 17**
 
 | Time      | Session |
@@ -96,7 +86,7 @@ Program schedule (_tentative_):
 | 09:30-10:30   | Session 1        |
 | 10:30-11:00 | _Break_ |
 | 11:00-12:30 | Session 2: Talks |
-| 12:30-14:00 | _Lunch_ |
+| 12:30-14:00 | [[lunch]](../Food) |
 | 14:00-15:30 | Session 3: Talks |
 | 15:30-16:00 | _Break_ |
 | 16:00-17:30 | Session 4: Talks & Discussion |
@@ -108,11 +98,12 @@ Program schedule (_tentative_):
 | 09:00-10:30  | Session 5: Talks        |
 | 10:30-11:00 | _Break_ |
 | 11:00-12:30 | Joint session with MCLP |
-| 12:30-14:00 | _Lunch_ |
+| 12:30-14:00 | [[lunch]](../Food) |
 | 14:00-15:00 | Joint session with MCLP |
 | 15:00-15:30 | WG3 Verification Challenges |
 | 15:30-16:00 | _Break_ |
 | 16:00-17:30 | Session 6: Talks & Discussion |
+| 17:30-18:30 | happy hour |
 
 **Day 3 / Sept. 19**
 
@@ -121,4 +112,6 @@ Program schedule (_tentative_):
 | 09:00-10:30  | Session 7: Talks        |
 | 10:30-11:00 | _Break_ |
 | 11:00-12:30 | Session 8: Discussion & Closing |
-| 12:30-14:00 | _Lunch_ |
+| 12:30-14:00 | [[lunch]](../Food) |
+| 14:00-16:00 | [EuroProofNet Management Committee meeting](../mc-meetings) |
+| 16:00-16:30 | _Break_ |

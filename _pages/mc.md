@@ -5,6 +5,8 @@ title: "Management Committee Meetings"
 
 **Meeting 5: 19 September 2025 at 14:00 (Paris time)**
 
+In this last meeting, we will present a summary of the achievements of the action and of each working group.
+
 **Meeting 4: 11 October 2024**
 
 - [minutes](MC/meeting4/minutes.md)

@@ -16,13 +16,7 @@ This conference is part of the [EuroProofNet Symposium](../Symposium). See the s
 **Organizers:** [Roussanka Loukanova](https://www.math.bas.bg/logic/loukanovarp/) (rloukanova - gmail) 
 and [Axel Ljungström](https://aljungstrom.github.io/)
 
-Registration is required for participation and, in addition, for funding requests.
-
-**Registration/funding requests:** fill in this [form](https://forms.gle/QLFzh3Ugv5WgkhZr7) (registration is free but mandatory)
-
-**Important dates:**
-- May 25 CEST: deadline for [funding requests](https://forms.gle/QLFzh3Ugv5WgkhZr7)
-- June 4: notification
+**Registration:** fill in this [form](https://forms.gle/QLFzh3Ugv5WgkhZr7) (registration is free but mandatory)
 
 **Invited speakers:** Listed Below, more TBA
 
@@ -85,6 +79,8 @@ We invite contributed talks, in the above areas, relevant to the following topic
 
 **Program (tentative)**
 
+Please note that you have to organize yourself for lunches (and dinners), but there are many [[options]](../Food) around.
+
 **Monday, Sep 15 2025**
 
 | | | | 
@@ -94,7 +90,7 @@ We invite contributed talks, in the above areas, relevant to the following topic
 | 10:30-11:00 | break | break | 
 | 11:00-12:00 | [Aarne Ranta](https://www.cse.chalmers.se/~aarne/), Chalmers University of Technology and University of Gothenburg | Symbolic Informalization: Fluent, Productive, Multilingual (Invited) | 
 | 12:00-12:30 | S | T | 
-| 12:30-14:00 | lunch | lunch | 
+| 12:30-14:00 | [[lunch]](../Food) | [[lunch]](../Food) | 
 | 14:00-15:00 | [Krasimir Angelov](https://www.cse.chalmers.se/~krasimir/), Chalmers University of Technology and University of Gothenburg | Multilingual Natural Language Generation on a Large Scale (Invited) | 
 | 15:00-15:30 | S | T | 
 | 15:30-16:00 | break | break | 
@@ -111,7 +107,7 @@ We invite contributed talks, in the above areas, relevant to the following topic
 | 10:30-11:00 | break | break | 
 | 11:00-12:00 | [Roussanka Loukanova](https://www.math.bas.bg/logic/loukanovarp/), Bulgarian Academy of Sciences | Pure vs Generalized Quantifiers | 
 | 12:00-12:30 | S | T | 
-| 12:30-14:00 | lunch | lunch | 
+| 12:30-14:00 | [[lunch]](../Food) | [[lunch]](../Food) | 
 | 14:00-15:00 | [Daisuke Bekki](https://daisukebekki.github.io), Ochanomizu University | A Proof-theoretic Investigation of Natural Language Semantics (Invited) | 
 | 15:00-15:30 | [Denis Bechet](http://pagesperso.ls2n.fr/~bechet-d/contact.html), LS2N - Nantes University and [Annie Foret](http://www.irisa.fr/prive/foret/english.html), IRISA and Univ Rennes 1 | Categorial Dependency Grammars Extended with Typed Barriers | 
 | 15:30-16:00 | break | break | 
@@ -129,10 +125,10 @@ We invite contributed talks, in the above areas, relevant to the following topic
 | 11:00-11:30 | [Shashank Pathak](https://pkshashank.github.io), The University of Manchester | Extending Flexible Boolean Semantics for the Language of Mathematics | 
 | 11:30-12:30 | S | T | 
 | 12:00-12:30 | S | T | 
-| 12:30-14:00 | lunch | lunch | 
+| 12:30-14:00 | [[lunch]](../Food) | [[lunch]](../Food) | 
 | 14:00-15:00 | [Andrija Urosevic](https://poincare.matf.bg.ac.rs/~andrija.urosevic/) and [Sana Stojanovic-Durdevic](https://poincare.matf.bg.ac.rs/~sana.stojanovic.djurdjevic/), University of Belgrade, Faculty of Mathematics | From Formal Natural Deduction Proofs to LaTeX Proof Trees | 
 | 15:00-15:30 | S | T | 
-| 15:30-16:00 | lunch | lunch | 
+| 15:30-16:00 | [[lunch]](../Food) | [[lunch]](../Food) | 
 | 16:00-16:45 |  [Sana Stojanovic-Durdevic](https://poincare.matf.bg.ac.rs/~sana.stojanovic.djurdjevic/) and [Danijela Simic](https://poincare.matf.bg.ac.rs/~danijela.simic/), University of Belgrade, Faculty of Mathematics | Proof by Cases in Euclidean Geometry | 
 | 16:45-17:30 | [Jørgen Villadsen](https://people.compute.dtu.dk/jovi/), Technical University of Denmark, Denmark | On Natural Deduction and Axioms for Propositional and First-Order Logic | 
 | 17:30-18:30 | (*) 
@@ -146,7 +142,7 @@ We invite contributed talks, in the above areas, relevant to the following topic
 | 10:00-10:30 | [Georgios V. Pitsiladis](https://www.gpits.me) and Petros Stefaneas, National Technical University of Athens | Using the Theory of Institutions for Semiotic–Argumentational Treatment of Mathematical Proof | 
 | 10:30-11:00 | break | break | 
 | 11:00-12:30 | [Frédéric Tran Minh](https://lcis.fr/members/frederic-tran-minh), UGA-Grenoble INP-Esisar, [Laure Gonnord](https://laure.gonnord.org/pro/), Grenoble-INP / LCIS, and [Julien Narboux](https://www.irif.fr/~narboux/), RIF - Université Paris Cité | A Lean-based Language for Teaching Proof in High-school | 
-| 12:30-14:00 | lunch | lunch | 
+| 12:30-14:00 | [[lunch]](../Food) | [[lunch]](../Food) | 
 | 14:00-15:00 | [Adrian Riesco](http://maude.sip.ucm.es/~adrian/) and Juan Rodriguez-Hortala, Universidad Complutense de Madrid | Singular and Plural Functions (Invited) | 
 | 15:00-15:30 | S | T | 
 | 15:30-16:00 | break | break | 

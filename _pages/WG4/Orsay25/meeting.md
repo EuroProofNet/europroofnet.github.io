@@ -16,13 +16,15 @@ The objective is to have talks and demos like in the [1st Workshop on the develo
 
 **Organizers:** [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/), [Claudio Sacerdoti](http://www.cs.unibo.it/~sacerdot/), [Patrick Massot](https://www.imo.universite-paris-saclay.fr/~patrick.massot/)
 
-**Registration/funding requests:** fill in this [form](https://forms.gle/QLFzh3Ugv5WgkhZr7) (registration is free but mandatory)
+**Registration:** fill in this [form](https://forms.gle/QLFzh3Ugv5WgkhZr7) (registration is free but mandatory)
 
+<!--
 **Important dates:**
 - May 25 CEST: deadline for [funding requests](https://forms.gle/QLFzh3Ugv5WgkhZr7) and talk proposals
 - June 4: notification
 
 **Talk/demo proposals:** If you want to give a talk or make a tool demo, send a mail to [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/) with a title and abstract before May 25.
+-->
 
 <!--
 we have 2 days
@@ -43,6 +45,8 @@ for the moment, we have 15 talks
 
 **Schedule:**
 
+Please note that you have to organize yourself for lunches (and dinners), but there are many [[options]](../Food) around.
+
 | time | Monday 15 September |
 |-|-|
 | 08:30-09:00 | welcome |
@@ -51,7 +55,7 @@ for the moment, we have 15 talks
 | 10:30-11:00 | break   |
 | 11:00-11:45 | [Nicolas Magaud](https://dpt-info.u-strasbg.fr/~magaud/) (U. Strasbourg, France), Optimization of Rocq proof scripts |
 | 11:45-12:30 | [Cyril Cohen](https://perso.crans.org/cohen/) (Inria Lyon, France), Hierarchy Builder |
-| 12:30-14:00 | lunch   |
+| 12:30-14:00 | [[lunch]](../Food) |
 | 14:00-14:45 | [Mohammad Abdulaziz](https://mabdula.github.io/) (King's College London, UK), an Isabelle Library of Combinatorial Optimisation Results |
 | 14:45-15:30 | [Yannick Forster](https://yforster.de/) (Inria Paris, France), the Coq Library of undecidability proofs |
 | 15:30-16:00 | break   |
@@ -65,7 +69,7 @@ for the moment, we have 15 talks
 | 10:30-11:00 | break   |
 | 11:00-11:45 | [Kathrin Stark](https://www.k-stark.de/) (U. Heriot-Watt, UK), On Autosubst: Mechanising binders in Coq |
 | 11:45-12:30 | [Matthieu Sozeau](https://sozeau.gitlabpages.inria.fr/www/) (Inria Nantes, France), MetaRocq: Metaprogramming and Mechanization of Rocq in Rocq |
-| 12:30-14:00 | lunch   |
+| 12:30-14:00 | [[lunch]](../Food) |
 | 14:00-14:45 | [Markus Himmel](https://github.com/TwoFX) (Lean FRO, Germany), the Lean standard library: development methodology and tooling |
 | 14:45-15:30 | [Patrick Massot](https://www.imo.universite-paris-saclay.fr/~patrick.massot/) (U. Paris-Saclay, France), coordinating large formalization projects |
 | 15:30-16:00 | break   |

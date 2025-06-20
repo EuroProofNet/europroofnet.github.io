@@ -14,11 +14,7 @@ This school is part of the [EuroProofNet Symposium](../Symposium). See the sympo
 
 **Venue:** [Institut Pascal](https://www.institut-pascal.universite-paris-saclay.fr/), 530 Rue André Rivière, 91400 Orsay [[access]](../Access) [[hotels]](../Hotels) [[food options]](../Food)
 
-**Registration/funding requests:** fill in this [form](https://forms.gle/QLFzh3Ugv5WgkhZr7) (registration is free but mandatory)
-
-**Important dates:**
-- May 25 CEST: deadline for [funding requests](https://forms.gle/QLFzh3Ugv5WgkhZr7)
-- June 4: notification
+**Registration:** fill in this [form](https://forms.gle/QLFzh3Ugv5WgkhZr7) (registration is free but mandatory)
 
 **Programme:**
 
@@ -48,12 +44,14 @@ This school is part of the [EuroProofNet Symposium](../Symposium). See the sympo
 
 **Schedule:**
 
+Please note that you have to organize yourself for lunches (and dinners), but there are many [[options]](../Food) around.
+
 |             | Mo8   | Tu9   | We10  | Th11  |
 | 08:30-09:00 |welcome|       |       |       |
 | 09:00-10:30 | FB    | FR    | AK    | AB    |
 | 10:30-11:00 | break | break | break | break |
 | 11:00-12:30 | AB    | FB    | FR    | AK    |
-| 12:30-14:00 | lunch | lunch | lunch | lunch |
+| 12:30-14:00 | [[lunch]](../Food) | [[lunch]](../Food) | [[lunch]](../Food) | [[lunch]](../Food) |
 | 14:00-15:30 | AK    | AB    | FB    | FR    |
 | 15:30-16:00 | break | break | break | break |
 | 16:00-17:30 | FR    | AK    | AB    | FB    |
