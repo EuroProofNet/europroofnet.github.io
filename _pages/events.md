@@ -13,6 +13,7 @@ author_profile: true
 
 **2025**
 
+- 10 June 2025: [Women in EuroProofNet workshop](https://europroofnet.github.io/women-epn-2025/) at the [31st International Conference on Types for Proofs and Programs](https://msp.cis.strath.ac.uk/types2025/) (TYPES'25), University of Strathclyde, Glasgow, UK
 - 5-6 June 2025: [Workshop on Reasoning with Quantitative Types](https://europroofnet.github.io/WRQT2025/), Porto, Portugal
 - 3-5 June 2025: [WG2 meeting on ATPs for geometry](../wg2-geo25), Krakow, Poland
 - 3-5 June 2025: [School on Natural Formal Mathematics](https://naproche.github.io/school/), Bonn, Germany

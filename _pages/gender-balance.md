@@ -29,6 +29,10 @@ If you are organizing an event within the action or if you have other questions/
 
 - 31 July 2023: [Women in EuroProofNet 2023](../women-epn-2023/): event dedicated to gender balance in the community (talks + discussion).
 
+- 6 July 2024: [Women in EuroProofNet](../women-epn-2024), Bonn, Germany, just before the [Workshop on Bridging between informal and formal mathematics](https://www.mathematics.uni-bonn.de/him/programs/future/tp_2024_05)
+
+- 10 June 2025: [Women in EuroProofNet workshop](https://europroofnet.github.io/women-epn-2025/) at the [31st International Conference on Types for Proofs and Programs](https://msp.cis.strath.ac.uk/types2025/) (TYPES'25), University of Strathclyde, Glasgow, UK
+
 
 ## Useful links:
 

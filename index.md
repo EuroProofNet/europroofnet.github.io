@@ -34,8 +34,6 @@ corner).
 
 **Coming events:**
 
-- 10 June 2025: [Women in EuroProofNet workshop](https://europroofnet.github.io/women-epn-2025/) at the [31st International Conference on Types for Proofs and Programs](https://msp.cis.strath.ac.uk/types2025/) (TYPES'25), University of Strathclyde, Glasgow, UK
-
 - 7-11 July 2025: [School on Symbolic and Statistical Methods for Reasoning and Processing Formal Expressions](../Kutaisi25), Kutaisi, Georgia
 
 - 21-25 July 2025: [Scottish Programming Languages and Verification School](https://spli.scot/splv/2025-edinburgh/), Edinburgh, UK
