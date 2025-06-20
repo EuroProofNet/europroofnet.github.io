@@ -76,7 +76,7 @@ Use the following links to access
 
 Program schedule (_tentative_): 
 
-Please note that you have to organize yourself for lunches (and dinners), but there are many [[options]](../Food) around.
+Please note that you have to organize yourself for lunches (and dinners), but there are many [options](../Food) around.
 
 **Day 1 / Sept. 17**
 
@@ -86,7 +86,7 @@ Please note that you have to organize yourself for lunches (and dinners), but th
 | 09:30-10:30   | Session 1        |
 | 10:30-11:00 | _Break_ |
 | 11:00-12:30 | Session 2: Talks |
-| 12:30-14:00 | [[lunch]](../Food) |
+| 12:30-14:00 | [Lunch](../Food) |
 | 14:00-15:30 | Session 3: Talks |
 | 15:30-16:00 | _Break_ |
 | 16:00-17:30 | Session 4: Talks & Discussion |
@@ -98,7 +98,7 @@ Please note that you have to organize yourself for lunches (and dinners), but th
 | 09:00-10:30  | Session 5: Talks        |
 | 10:30-11:00 | _Break_ |
 | 11:00-12:30 | Joint session with MCLP |
-| 12:30-14:00 | [[lunch]](../Food) |
+| 12:30-14:00 | [Lunch](../Food) |
 | 14:00-15:00 | Joint session with MCLP |
 | 15:00-15:30 | WG3 Verification Challenges |
 | 15:30-16:00 | _Break_ |
@@ -112,6 +112,6 @@ Please note that you have to organize yourself for lunches (and dinners), but th
 | 09:00-10:30  | Session 7: Talks        |
 | 10:30-11:00 | _Break_ |
 | 11:00-12:30 | Session 8: Discussion & Closing |
-| 12:30-14:00 | [[lunch]](../Food) |
+| 12:30-14:00 | [Lunch](../Food) |
 | 14:00-16:00 | [EuroProofNet Management Committee meeting](../mc-meetings) |
 | 16:00-16:30 | _Break_ |

@@ -34,7 +34,7 @@ breadcrumbs: true
 
 **Schedule:**
 
-Please note that you have to organize yourself for lunches (and dinners), but there are many [[options]](../Food) around, except on Sunday.
+Please note that you have to organize yourself for lunches (and dinners), but there are many [options](../Food) around, except on Sunday.
 
 Week 1:
 

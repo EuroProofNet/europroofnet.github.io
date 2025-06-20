@@ -42,26 +42,7 @@ This school is part of the [EuroProofNet Symposium](../Symposium). See the sympo
 
 </table>
 
-**Schedule:**
-
-Please note that you have to organize yourself for lunches (and dinners), but there are many [[options]](../Food) around.
-
-|             | Mo8   | Tu9   | We10  | Th11  |
-| 08:30-09:00 |welcome|       |       |       |
-| 09:00-10:30 | FB    | FR    | AK    | AB    |
-| 10:30-11:00 | break | break | break | break |
-| 11:00-12:30 | AB    | FB    | FR    | AK    |
-| 12:30-14:00 | [[lunch]](../Food) | [[lunch]](../Food) | [[lunch]](../Food) | [[lunch]](../Food) |
-| 14:00-15:30 | AK    | AB    | FB    | FR    |
-| 15:30-16:00 | break | break | break | break |
-| 16:00-17:30 | FR    | AK    | AB    | FB    |
-| 17:30-18:30 | (*)   |       |       | (*)   |
-
-<p style="font-size: 12px">(*) happy hour</p>
-
 **Sponsors:**
-
-We are very grateful to the following organizations for their support:
 
 <table>
 <tr>
@@ -70,3 +51,20 @@ We are very grateful to the following organizations for their support:
   <!--https://www.universite-paris-saclay.fr/sites/default/files/styles/2400xauto/public/2021-05/GS-informatique-h.png?itok=px6yldkB-->
 </tr>
 </table>
+
+**Schedule:**
+
+Please note that you have to organize yourself for lunches (and dinners), but there are many [options](../Food) around.
+
+|             | Mo8   | Tu9   | We10  | Th11  |
+| 08:30-09:00 |welcome|       |       |       |
+| 09:00-10:30 | FB    | FR    | AK    | AB    |
+| 10:30-11:00 | break | break | break | break |
+| 11:00-12:30 | AB    | FB    | FR    | AK    |
+| 12:30-14:00 | [lunch](../Food) | [lunch](../Food) | [lunch](../Food) | [lunch](../Food) |
+| 14:00-15:30 | AK    | AB    | FB    | FR    |
+| 15:30-16:00 | break | break | break | break |
+| 16:00-17:30 | FR    | AK    | AB    | FB    |
+| 17:30-18:30 | (*)   |       |       | (*)   |
+
+<p style="font-size: 12px">(*) happy hour</p>

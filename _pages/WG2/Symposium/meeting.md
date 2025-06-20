@@ -24,7 +24,7 @@ The program will be composed of talks and sessions to work alone or in small gro
 
 **Program** Preliminary version:
 
-Please note that you have to organize yourself for lunches (and dinners), but there are many [[options]](../Food) around.
+Please note that you have to organize yourself for lunches (and dinners), but there are many [options](../Food) around.
 
 | Time           | Thursday               | Friday                 | Saturday                                               |
 |----------------|------------------------|------------------------|--------------------------------------------------------|
@@ -32,9 +32,9 @@ Please note that you have to organize yourself for lunches (and dinners), but th
 | 09:30 -- 10:30 | Dedukti session (I)    | AR                     | [VeriPB tutorial](https://jakobnordstrom.se/WHOOPS25/) |
 | 10:30 -- 11:00 | Break                | Break                | [VeriPB tutorial](https://jakobnordstrom.se/WHOOPS25/) |
 | 11:00 -- 12:30 | Dedukti session (II)   | AR                     | [VeriPB tutorial](https://jakobnordstrom.se/WHOOPS25/) |
-| 12:30 -- 14:00 | [[Lunch]](../Food)                | [[Lunch]](../Food)                |                                                        |
+| 12:30 -- 14:00 | [lunch](../Food)                | [lunch](../Food)                | [lunch](../Food)                                                       |
 | 14:00 -- 15:30 | Alethe (I)             | Other proof techniques |                                                        |
-| 15:30 -- 16:00 | Break                | Break                |                                                        |
+| 15:30 -- 16:00 | Break                | Break                | Break                                                       |
 | 16:00 -- 17:00 | Alethe (II)            | Other proof techniques |                                                        |
 | 17:00 -- 17:30 | Discussion             | Discussion             |                                                        |
 | 17:30 -- 18:30 |                          | Happy hour           |                                                        |

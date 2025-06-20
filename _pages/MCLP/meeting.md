@@ -6,7 +6,6 @@ author_profile: true
 breadcrumbs: true
 ---
 
-
 This conference is part of the [EuroProofNet Symposium](../Symposium). See the symposium page to get information on the other co-located events.
 
 **Date:** 15-18 September 2025
@@ -18,68 +17,13 @@ and [Axel Ljungström](https://aljungstrom.github.io/)
 
 **Registration:** fill in this [form](https://forms.gle/QLFzh3Ugv5WgkhZr7) (registration is free but mandatory)
 
+**Talk proposals:** [procedure](../MCLP_submission)
+
 **Invited speakers:** Listed Below, more TBA
-
-To give a talk or demo, the submission Web page for proposed titles and abstracts is EasyChair of MCLP 2025:
-
-[Submission: https://easychair.org/conferences?conf=mclp2025](https://easychair.org/conferences?conf=mclp2025)
-
-**Deadline:** May 25 CEST
-
-Please use LaTeX with Springer LNCS package or Microsoft Proceedings Word Templates.
-
-The abstract should be short, about 1/2 page, and in addition, as many references as you reasonably need. You will have the possibility to update it around the time of the MCLP.
-
-I shall arrange publications in two stages:
-(1) by Institut Pascal, proceedings of talks and presentations
-(2) post conference special volume of extended papers
-
-**DESCRIPTION:**
-Mathematical and computational linguistics for proofs. Mathematical linguistics (MathLing) is an interdisciplinary area providing theoretical foundations of computer science, as well as syntax and semantics of natural and formal languages, including for mathematical logic in theorem provers, proof assistants, model checkers, verification of programs, software and hardware.
-
-Computational linguistics (CompLing) is a subfield of MathLing, which provides computational processing of formal and natural (human) languages by computational theories and algorithms for:
-
-- Parsing formal and natural languages in mathematics
-- Computational syntax-semantics interfaces
-- Computational processing of language, by mathematical logic and other approaches, e.g., graphical, diagrammatic, numerical, algebraic, statistical, and other related methods
-- New hybrid integrations of approaches of mathematical logic and other methods.
-
-**OBJECTIVES:**
-MCLP aims at initiating new directions of research on the use of natural language in proof assistants, provers, and other related systems.
-
-MCLP covers the following areas of theories and applications, from the perspectives of current and future use of natural language in proof systems:
-
-- Mathematical theories, with a focus on computational approaches to formal and natural languages
-- Type Theories, including Dependent Type Theories
-- Applications in domain specific areas, for using provers, in areas of mathematics
-- Applications to other domain specific areas, e.g., health systems, medical sciences, forensics, judiciary proceedings, legal laws, transport, etc.
-- Specialised formal, specification, and natural languages, e.g., specific fragments and instances depending on domains of specific areas, or generalized over groups of domains.
-
-The program of MCLP shall include talks, presentations, and sessions of discussions.
-The focus is on computational approaches to natural language used in mathematical texts.
-
-**TOPICS:**
-We invite contributed talks, in the above areas, relevant to the following topics, with a focus on formal and natural language in proof and verification systems, without being limited to them:
-
-- Theories of Computation
-- Theories of Information
-- Type Theories
-- Computational Methods of Inferences in Natural Language
-- Computational Theories and Systems of Reasoning in Natural Language
-- Transfer of reasoning in natural language to theorem provers, or vice versa
-- Transfer of reasoning between natural language, theorem provers, model checkers, and various computational assistants
- - Translations between natural language of mathematics and formal languages of proof and verification systems
-- Computational Grammar, Syntax, Semantics, Syntax-Semantics Interfaces
-- Interfaces between morphology, lexicon, syntax, semantics, speech, text, pragmatics, with a focus on mathematical texts
-- Parsing of formal and natural language
-- Multilingual Processing
-- Large-Scale Grammars of Natural Languages
-- Controlled Languages of Mathematics
-- Interdisciplinary, Integrated, and Hybrid Methods
 
 **Program (tentative)**
 
-Please note that you have to organize yourself for lunches (and dinners), but there are many [[options]](../Food) around.
+Please note that you have to organize yourself for lunches (and dinners), but there are many [options](../Food) around.
 
 **Monday, Sep 15 2025**
 
@@ -90,7 +34,7 @@ Please note that you have to organize yourself for lunches (and dinners), but th
 | 10:30-11:00 | break | break | 
 | 11:00-12:00 | [Aarne Ranta](https://www.cse.chalmers.se/~aarne/), Chalmers University of Technology and University of Gothenburg | Symbolic Informalization: Fluent, Productive, Multilingual (Invited) | 
 | 12:00-12:30 | S | T | 
-| 12:30-14:00 | [[lunch]](../Food) | [[lunch]](../Food) | 
+| 12:30-14:00 | [lunch](../Food) | [lunch](../Food) | 
 | 14:00-15:00 | [Krasimir Angelov](https://www.cse.chalmers.se/~krasimir/), Chalmers University of Technology and University of Gothenburg | Multilingual Natural Language Generation on a Large Scale (Invited) | 
 | 15:00-15:30 | S | T | 
 | 15:30-16:00 | break | break | 
@@ -107,7 +51,7 @@ Please note that you have to organize yourself for lunches (and dinners), but th
 | 10:30-11:00 | break | break | 
 | 11:00-12:00 | [Roussanka Loukanova](https://www.math.bas.bg/logic/loukanovarp/), Bulgarian Academy of Sciences | Pure vs Generalized Quantifiers | 
 | 12:00-12:30 | S | T | 
-| 12:30-14:00 | [[lunch]](../Food) | [[lunch]](../Food) | 
+| 12:30-14:00 | [lunch](../Food) | [lunch](../Food) | 
 | 14:00-15:00 | [Daisuke Bekki](https://daisukebekki.github.io), Ochanomizu University | A Proof-theoretic Investigation of Natural Language Semantics (Invited) | 
 | 15:00-15:30 | [Denis Bechet](http://pagesperso.ls2n.fr/~bechet-d/contact.html), LS2N - Nantes University and [Annie Foret](http://www.irisa.fr/prive/foret/english.html), IRISA and Univ Rennes 1 | Categorial Dependency Grammars Extended with Typed Barriers | 
 | 15:30-16:00 | break | break | 
@@ -125,10 +69,10 @@ Please note that you have to organize yourself for lunches (and dinners), but th
 | 11:00-11:30 | [Shashank Pathak](https://pkshashank.github.io), The University of Manchester | Extending Flexible Boolean Semantics for the Language of Mathematics | 
 | 11:30-12:30 | S | T | 
 | 12:00-12:30 | S | T | 
-| 12:30-14:00 | [[lunch]](../Food) | [[lunch]](../Food) | 
+| 12:30-14:00 | [lunch](../Food) | [lunch](../Food) | 
 | 14:00-15:00 | [Andrija Urosevic](https://poincare.matf.bg.ac.rs/~andrija.urosevic/) and [Sana Stojanovic-Durdevic](https://poincare.matf.bg.ac.rs/~sana.stojanovic.djurdjevic/), University of Belgrade, Faculty of Mathematics | From Formal Natural Deduction Proofs to LaTeX Proof Trees | 
 | 15:00-15:30 | S | T | 
-| 15:30-16:00 | [[lunch]](../Food) | [[lunch]](../Food) | 
+| 15:30-16:00 | break | break | 
 | 16:00-16:45 |  [Sana Stojanovic-Durdevic](https://poincare.matf.bg.ac.rs/~sana.stojanovic.djurdjevic/) and [Danijela Simic](https://poincare.matf.bg.ac.rs/~danijela.simic/), University of Belgrade, Faculty of Mathematics | Proof by Cases in Euclidean Geometry | 
 | 16:45-17:30 | [Jørgen Villadsen](https://people.compute.dtu.dk/jovi/), Technical University of Denmark, Denmark | On Natural Deduction and Axioms for Propositional and First-Order Logic | 
 | 17:30-18:30 | (*) 
@@ -142,7 +86,7 @@ Please note that you have to organize yourself for lunches (and dinners), but th
 | 10:00-10:30 | [Georgios V. Pitsiladis](https://www.gpits.me) and Petros Stefaneas, National Technical University of Athens | Using the Theory of Institutions for Semiotic–Argumentational Treatment of Mathematical Proof | 
 | 10:30-11:00 | break | break | 
 | 11:00-12:30 | [Frédéric Tran Minh](https://lcis.fr/members/frederic-tran-minh), UGA-Grenoble INP-Esisar, [Laure Gonnord](https://laure.gonnord.org/pro/), Grenoble-INP / LCIS, and [Julien Narboux](https://www.irif.fr/~narboux/), RIF - Université Paris Cité | A Lean-based Language for Teaching Proof in High-school | 
-| 12:30-14:00 | [[lunch]](../Food) | [[lunch]](../Food) | 
+| 12:30-14:00 | [lunch](../Food) | [lunch](../Food) | 
 | 14:00-15:00 | [Adrian Riesco](http://maude.sip.ucm.es/~adrian/) and Juan Rodriguez-Hortala, Universidad Complutense de Madrid | Singular and Plural Functions (Invited) | 
 | 15:00-15:30 | S | T | 
 | 15:30-16:00 | break | break | 
