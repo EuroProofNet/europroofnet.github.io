@@ -11,7 +11,7 @@ This conference is part of the [EuroProofNet Symposium](../Symposium). See the s
 
 **Date:** 15-18 September 2025
 
-**Venue:** [Institut Pascal](https://www.institut-pascal.universite-paris-saclay.fr/), 530 Rue André Rivière, 91400 Orsay [[access]](../Access) [[hotels]](../Hotels) [[food options]](../Food)
+**Venue:** [Institut Pascal](https://www.institut-pascal.universite-paris-saclay.fr/), 530 Rue André Rivière, 91400 Orsay [[access]](../Access) [[hotels]](../Hotels) [[food]](../Food)
 
 **Organizers:** [Roussanka Loukanova](https://www.math.bas.bg/logic/loukanovarp/) (rloukanova - gmail) 
 and [Axel Ljungström](https://aljungstrom.github.io/)

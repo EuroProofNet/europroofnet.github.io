@@ -10,13 +10,9 @@ breadcrumbs: true
 
 **Date:** 8-19 September 2025
 
-**Venue:** [Institut Pascal](https://www.institut-pascal.universite-paris-saclay.fr/), 530 Rue André Rivière, 91400 Orsay [[access]](../Access) [[hotels]](../Hotels) [[food options]](../Food)
+**Venue:** [Institut Pascal](https://www.institut-pascal.universite-paris-saclay.fr/), 530 Rue André Rivière, 91400 Orsay [[access]](../Access) [[hotels]](../Hotels) [[food]](../Food)
 
-**Registration/funding requests:** fill in this [form](https://forms.gle/QLFzh3Ugv5WgkhZr7) (registration is free but mandatory)
-
-**Important dates:**
-- May 25 CEST: deadline for [funding requests](https://forms.gle/QLFzh3Ugv5WgkhZr7)
-- June 4: notification
+**Registration:** fill in this [form](https://forms.gle/QLFzh3Ugv5WgkhZr7) (registration is free but mandatory)
 
 **Events:**
 * 8-11 September: [LFPSI: 1st International School on Logical Frameworks and Proof Systems Interoperability](../LFPSI25)
@@ -37,6 +33,8 @@ breadcrumbs: true
 </table>
 
 **Schedule:**
+
+Please note that you have to organize yourself for lunches (and dinners), but there are many [[options]](../Food) around, except on Sunday.
 
 Week 1:
 
