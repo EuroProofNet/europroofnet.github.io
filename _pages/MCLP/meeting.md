@@ -38,7 +38,7 @@ Please note that you have to organize yourself for lunches (and dinners), but th
 | 14:00-15:00 | [Krasimir Angelov](https://www.cse.chalmers.se/~krasimir/), Chalmers University of Technology and University of Gothenburg | Multilingual Natural Language Generation on a Large Scale (Invited) | 
 | 15:00-15:30 | S | T | 
 | 15:30-16:00 | break | break | 
-| 16:00-17:00 | [Lars Hellan](https://www.ntnu.edu/employees/lars.hellan), Norwegian University of Science and Technology, Trondheim | Valence Aspects of Discourse over Logic (Invited) | 
+| 16:00-17:00 | S | T | 
 | 17:00-17:30 | S | T | 
 | 17:30-18:30 | (*) happy hour 
 
@@ -145,19 +145,6 @@ Multilingual Natural Language Generation on a Large Scale (Invited Talk)
 Abstract: 
 Natural Language Generation has been studied predominantly within a single language, most often English. In this talk we will see that this does not have to be the case. Moreover, the generation can span wide domains and be deployed on a large scale. This is made possible by the semi-automatic creation of multilingual resources for over 200 languages.
 
-<!-- (15) --> 
-- [Lars Hellan](https://www.ntnu.edu/employees/lars.hellan), 
-Norwegian University of Science and Technology, Trondheim, Norway
-
-Valence Aspects of Discourse over Logic (Invited Talk)
-
-Abstract: 
-The present research is based on the following resources:
-    - A valence dictionary of Norwegian, called NorVal, containing about 17,500 valence-specific entries over 7,500 verb lexemes (cf. Hellan 2022), and a subpart of it, referred to as NorVal-1956, representing about 10,000 valence-specific entries over 1956 verb lexemes, but, with a new system of semantic specification, tentatively called ‘Semantic Meta-Features’ (cf. Hellan 2025), semantic annotations added to all the verbs. 340 types of valence frames are defined, and 25 semantic features.
-    - A valence dictionary of English, called EngVal, derived from NorVal-1956 through verb translation equivalents and valence frame equivalents accommodated from NorVal-1956, thus with approximately the same 340 types of valence frames and the same 25 semantic features cf. Hellan ms, 2025).
-The encoding of the these types of specification is primarily done within the Typed Feature Structure formalism of Carpenter 1990 and Copestake 2002, and ported to a simple string-format called ‘Construction Labeling’ (Hellan 2023) over which ontologies of verbal construction types can be systematically constructed.
-We assume that for many types of discourse, characteristic profiles of valence frames and semantic meta-features can be constructed, and in the present paper we consider possible such profiles in the domain of (verbal) discourse over logical, mathematical and semantic matters.
-
 <!-- (4) -->
 - [Adrian De Lon](https://adelon.net), 
 University of Bonn, Germany
@@ -239,7 +226,7 @@ Pure versus Generalised Quantifiers
 Abstract: 
 In my talk, I will present several approaches to representing quantificational sentences of natural language (NL) by formal languages of logic. I will focus on computational syntax-semantics of domain-dependent fragments of NL of mathematics, covering mathematical descriptions, definitions, statements, and proofs, by translations between NL expressions and formal languages of logic.
 
-In the major part of the talk, I will introduce a development of Moschovakis (2006) type-theory of recursion (TTR) and algorithms (TTA), their formal languages and reduction calculi. Adding a criterion for termination, by the Acyclicity Constraint, limits TTR and TTA to type-theory of acyclic recursion (TTAR) and acyclic algorithms (TTAA). TTR has two layers of computational semantics: algorithmic and denotational semantics. The canonical form of each algorithmically meaningful term determines the algorithm for computing its denotation. TTR provides special algorithmic and semantic adequateness to computational syntax-semantics of formal and natural languages.
+In the major part of the talk, I will introduce a development of Moschovakis (2006) of type-theory of recursion (TTR) and algorithms (TTA), their versions, formal languages, and reduction calculi. Adding a criterion for termination, by the Acyclicity Constraint, limits TTR and TTA to type-theory of acyclic recursion (TTAR) and acyclic algorithms (TTAA). TTR has two layers of computational semantics: algorithmic and denotational semantics. The canonical form of each algorithmically meaningful term determines the algorithm for computing its denotation. TTR provides special algorithmic and semantic adequateness to computational syntax-semantics of formal and natural languages.
 
 TTR is a proper, strict extension of the language LCF introduced by Gordon Plotkin (1977). TTR provides an algorithmic generalisation of the let-operator, for the let-expressions originally introduced by Dana S. Scott (1993). Moschovakis (2006) and Loukanova (2023, 2024) prove that TTR is a proper, strict extension of Gallin TY2. Thus, TTR is a strict extension of Montague Intensional Logic (MIL), via Gallin (1975) interpretation of MIL into TY2. In TTR, there are recursion terms that are neither algorithmically nor otherwise semantically equivalent to any lambda-terms.
 
