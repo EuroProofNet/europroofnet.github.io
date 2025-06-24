@@ -45,7 +45,7 @@ for the moment, we have 15 talks
 
 **Schedule:**
 
-Please note that you have to organize yourself for lunches (and dinners), but there are many [[options]](../Food) around.
+Please note that you have to organize yourself for lunches (and dinners), but there are many [options](../Food) around.
 
 | time | Monday 15 September |
 |-|-|
