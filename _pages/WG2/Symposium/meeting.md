@@ -26,18 +26,50 @@ The program will be composed of talks and sessions to work alone or in small gro
 
 Please note that you have to organize yourself for lunches (and dinners), but there are many [options](../Food) around.
 
-| Time           | Thursday               | Friday                 | Saturday                                               |
-|----------------|------------------------|------------------------|--------------------------------------------------------|
-| 09:00 -- 9:30  | Opening & Presentation | AR                     | [VeriPB tutorial](https://jakobnordstrom.se/WHOOPS25/) |
-| 09:30 -- 10:30 | Dedukti session (I)    | AR                     | [VeriPB tutorial](https://jakobnordstrom.se/WHOOPS25/) |
-| 10:30 -- 11:00 | Break                | Break                | [VeriPB tutorial](https://jakobnordstrom.se/WHOOPS25/) |
-| 11:00 -- 12:30 | Dedukti session (II)   | AR                     | [VeriPB tutorial](https://jakobnordstrom.se/WHOOPS25/) |
-| 12:30 -- 14:00 | [lunch](../Food)                | [lunch](../Food)                | [lunch](../Food)                                                       |
-| 14:00 -- 15:30 | Alethe (I)             | Other proof techniques |                                                        |
-| 15:30 -- 16:00 | Break                | Break                | Break                                                       |
-| 16:00 -- 17:00 | Alethe (II)            | Other proof techniques |                                                        |
-| 17:00 -- 17:30 | Discussion             | Discussion             |                                                        |
-| 17:30 -- 18:30 |                          | Happy hour           |                                                        |
+| Time           | Thursday               | Friday                                | Saturday                                               |
+|----------------|------------------------|---------------------------------------|--------------------------------------------------------|
+| 09:00 -- 9:30  | Opening & Presentation | AR                                    | [VeriPB tutorial](https://jakobnordstrom.se/WHOOPS25/) |
+| 09:30 -- 10:30 | Dedukti session (I)    | AR                                    | [VeriPB tutorial](https://jakobnordstrom.se/WHOOPS25/) |
+| 10:30 -- 11:00 | Break                  | Break                                 | [VeriPB tutorial](https://jakobnordstrom.se/WHOOPS25/) |
+| 11:00 -- 12:30 | Dedukti session (II)   | AR                                    | [VeriPB tutorial](https://jakobnordstrom.se/WHOOPS25/) |
+| 12:30 -- 14:00 | [lunch](../Food)       | [lunch](../Food)                      | [lunch](../Food)                                       |
+| 14:00 -- 15:30 | Alethe (I)             | Other proof techniques & Applications |                                                        |
+| 15:30 -- 16:00 | Break                  | Break                                 | Break                                                  |
+| 16:00 -- 17:00 | Alethe (II)            | Other proof techniques                |                                                        |
+| 17:00 -- 17:30 | Discussion             | Discussion                            |                                                        |
+| 17:30 -- 18:30 |                        | Happy hour                            |                                                        |
+
+
+**Talks**
+
++ Anja Petković Komel and Micheal Rawson, Dedukti proof output mode in the automated theorem prover Vampire
+
++ Hai Xia, Uncovering and Verifying Optimal Graph Modularity: A MaxSAT Approach
+
+Abstract: Network modularity is central to understanding phenomena in
+diverse domains, from biology and social science to engineering and
+computational physics. However, computing the optimal modularity—an
+NP-hard measure quantifying community strength—has remained
+computationally intractable at large scales. Most approaches resort to
+heuristics without formal optimality guarantees. This paper
+contributes to the computational science of complex systems by
+introducing a novel MaxSAT-based framework that can compute optimal
+network modularity values for larger networks than previously
+possible. Leveraging this new capability, we extensively evaluate
+heuristic solutions and, for the first time, include the
+state-of-the-art memetic graph clustering heuristic
+VieClus. Remarkably, VieClus identifies optimal modularity values for
+all tested networks, ranging from 103 previously studied instances to
+52 new, larger ones, and does so in seconds. This result contrasts
+with earlier conclusions that heuristics frequently fail to find the
+optimal modularity. By combining a powerful MaxSAT encoding, which
+supports proof logging for verification, with a fast and effective
+heuristic, we demonstrate that even intricate network structures can
+be tackled efficiently. This synergy brings us closer to making
+complex network analysis and community detection tractable, robust,
+and verifiable—a goal firmly aligned with the core mission of
+computational science.
+
 
 <!--
 **Objectives/Deliverables:**
