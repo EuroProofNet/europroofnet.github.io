@@ -42,7 +42,7 @@ Please note that you have to organize yourself for lunches (and dinners), but th
 
 **Talks**
 
-+ Anja Petković Komel and Micheal Rawson, Dedukti proof output mode in the automated theorem prover Vampire
++ Anja Petković Komel and Micheal Rawson, (TBD)
 
 + Hai Xia, Uncovering and Verifying Optimal Graph Modularity: A MaxSAT Approach
 
