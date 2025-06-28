@@ -21,7 +21,7 @@ and [Axel Ljungström](https://aljungstrom.github.io/)
 
 **Invited speakers:** Listed Below, more TBA
 
-**Program (tentative)**
+**Program (tentative)** Abstracts are given after the schedule.
 
 Please note that you have to organize yourself for lunches (and dinners), but there are many [options](../Food) around.
 
