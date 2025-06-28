@@ -10,7 +10,9 @@ To give a talk or demo, the submission Web page for proposed titles and abstract
 
 [Submission: https://easychair.org/conferences?conf=mclp2025](https://easychair.org/conferences?conf=mclp2025)
 
-**Deadline:** May 25 CEST
+**Deadline:** Open
+
+**Contact:** Roussanka Loukanova (rloukanova - gmail)
 
 Please use LaTeX with Springer LNCS package or Microsoft Proceedings Word Templates.
 
