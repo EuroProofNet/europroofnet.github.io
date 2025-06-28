@@ -14,7 +14,7 @@ To give a talk or demo, the submission Web page for proposed titles and abstract
 
 **Contact:** Roussanka Loukanova (rloukanova - gmail)
 
-Please use LaTeX with Springer LNCS package or Microsoft Proceedings Word Templates.
+Please use LaTeX with Springer LNCS package (or, if necessary, Microsoft Proceedings Word Templates).
 
 The abstract should be short, about 1/2 page, and in addition, as many references as you reasonably need. You will have the possibility to update it around the time of the MCLP.
 
