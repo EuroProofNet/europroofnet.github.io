@@ -17,11 +17,13 @@ and [Axel Ljungström](https://aljungstrom.github.io/)
 
 **Registration:** fill in this [form](https://forms.gle/QLFzh3Ugv5WgkhZr7) (registration is free but mandatory)
 
-**Talk proposals:** [procedure](../MCLP_submission)
+**Talk proposals:** Open [procedure](../MCLP_submission)
+
+**Registration:** fill in this [form](https://forms.gle/QLFzh3Ugv5WgkhZr7) (registration is free but mandatory)
 
 **Invited speakers:** Listed Below, more TBA
 
-**Program (tentative)**
+**Program (tentative)** Abstracts are given after the schedule.
 
 Please note that you have to organize yourself for lunches (and dinners), but there are many [options](../Food) around.
 
