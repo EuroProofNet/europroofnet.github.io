@@ -72,7 +72,7 @@ The event is scheduled as a two and a half-day meeting.
 
 Use the following links to access
 * [List of talks](https://europroofnet.github.io/wg3-Sept2025-talks).
-* Full program (_upcoming_).
+* [Full program](https://europroofnet.github.io/wg3-Sept2025-program).
 
 Program schedule (_tentative_): 
 
