@@ -37,11 +37,11 @@ The event is scheduled as a two and a half-day meeting. Times are CET.
   - _Prove your Colorings: Formal Verification of Cache Coloring of Bao Hypervisor_. Nikolai Kosmatov (Thales Research and Technology,France)
 * WG3 + MCLP Session (11:00-12:30)
   - _A Lean-based Language for Teaching Proof in High-school_. Frédéric Tran Minh (UGA-Grenoble INP-Esisar), Laure Gonnord (Grenoble-INP / LCIS), and Julien Narboux (RIF - Université Paris Cité)
-* WG3 + MCLP Session (14:00-15:00)
+* WG3 + MCLP Session (14:00-15:30)
   - _Singular and Plural Functions_. Adrian Riesco* and Juan Rodriguez-Hortala (Universidad Complutense de Madrid, Spain)
-* Discussion (15:00-15:30)
+  - _TBA_. Roussanka Loukanova, (Bulgarian Academy of Sciences)
 * WG3 + MCLP Session (16:00-17:00)
-  - _Natural Logic: Proof Systems for Reasoning in Natural Language_. Lawrence S. Moss*, (Indiana University, USA)
+  - _Natural Logic: Proof Systems for Reasoning in Natural Language_. Lawrence S. Moss* (Indiana University, USA)
 * Closing the day
 
 **Day 3**
