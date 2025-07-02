@@ -42,9 +42,11 @@ Please note that you have to organize yourself for lunches (and dinners), but th
 
 **Talks**
 
-+ Anja Petković Komel and Micheal Rawson, (TBD)
++ Anja Petković Komel (Argot Collective), Michael Rawson (University of Southampton), and Martin Suda (Czech Technical University in Prague): Verified Vampire Proofs in the λΠ-calculus Modulo
 
-+ Hai Xia, Uncovering and Verifying Optimal Graph Modularity: A MaxSAT Approach
+Abstract: The Vampire automated theorem prover is extended to output machine-checkable proofs in the Dedukti concrete syntax for the λΠ-calculus modulo. This significantly reduces the trusted computing base, and in principle eases proof reconstruction in other proof-checking systems. Existing theory is adapted to deal with Vampire’s internal logic and inference system. To our knowledge this is the first time this has been attempted in a system as complex as Vampire. We will report on the implementation experience, give an overview of the extent of the proof translation and how Vampire’s Avatar architecture is handled, and present some of the first experimental results looking into the overhead proof reconstruction entails. 
+
++ Hai Xia (TU Wien), Uncovering and Verifying Optimal Graph Modularity: A MaxSAT Approach
 
 Abstract: Network modularity is central to understanding phenomena in
 diverse domains, from biology and social science to engineering and
