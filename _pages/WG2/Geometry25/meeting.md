@@ -12,6 +12,8 @@ breadcrumbs: true
 
 **Date:** 3-5 June 2025
 
+**Report on the WG2-GEO25 meeting:** The document summarising the meeting achievements, <a href="report_WG2-_GEO25_Meeting.pdf">Report WG2-GEO2025</a>.
+
 Remark: the official dates of the meeting taken into account for reimbursements are from 2 to 5 of May (3 days). However, since most people will arrive on the 1st and leave on the 6th, some planning for those days is foressen.
 
 **Venue:** [Novotel Krakow City West](https://all.accor.com/hotel/3407/index.en.shtml) Novotel Krakow City West, Al. Armii Krajowej 11, 30-150 CRACOW, Poland.
