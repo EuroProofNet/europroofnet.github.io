@@ -12,7 +12,7 @@ breadcrumbs: true
 
 **Date:** 3-5 June 2025
 
-**Report on the WG2-GEO25 meeting:** The document summarising the meeting achievements, <a href="report_WG2-_GEO25_Meeting.pdf">Report WG2-GEO2025</a>.
+**Report on the WG2-GEO25 meeting:** The document summarising the meeting achievements, <a href="https://www.mat.uc.pt/~pedro/EuroProofNetWG2Geo/report_WG2_GEO25_Meeting.pdf">Report WG2-GEO2025</a>.
 
 ===//===
 
