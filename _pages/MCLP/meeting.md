@@ -32,13 +32,13 @@ Please note that you have to organize yourself for lunches (and dinners), but th
 | 09:00-10:00 | [Reinhard Muskens](https://staff.fnwi.uva.nl/r.a.muskens/), University of Amsterdam | Linguistic Interpretation---from Left to Right (KeyNote) | 
 | 10:00-10:30 | S | T | 
 | 10:30-11:00 | break | break | 
-| 11:00-12:00 | [Aarne Ranta](https://www.cse.chalmers.se/~aarne/), Chalmers University of Technology and University of Gothenburg | Symbolic Informalization: Fluent, Productive, Multilingual (Invited) | 
+| 11:00-12:00 | [Stephan Schulz](https://wwwlehre.dhbw-stuttgart.de/~sschulz/DHBW_Stephan_Schulz/Stephan_Schulz.html), DHBW Stuttgart | TBA (KeyNote) | 
 | 12:00-12:30 | S | T | 
 | 12:30-14:00 | [lunch](../Food) | [lunch](../Food) | 
-| 14:00-15:00 | [Krasimir Angelov](https://www.cse.chalmers.se/~krasimir/), Chalmers University of Technology and University of Gothenburg | Multilingual Natural Language Generation on a Large Scale (Invited) | 
+| 14:00-15:00 | [Aarne Ranta](https://www.cse.chalmers.se/~aarne/), Chalmers University of Technology and University of Gothenburg | Symbolic Informalization: Fluent, Productive, Multilingual (Invited) | 
 | 15:00-15:30 | S | T | 
 | 15:30-16:00 | break | break | 
-| 16:00-17:00 | S | T | 
+| 16:00-17:00 | [Krasimir Angelov](https://www.cse.chalmers.se/~krasimir/), Chalmers University of Technology and University of Gothenburg | Multilingual Natural Language Generation on a Large Scale (Invited) | 
 | 17:00-17:30 | S | T | 
 | 17:30-18:30 | (*) happy hour 
 
@@ -55,7 +55,7 @@ Please note that you have to organize yourself for lunches (and dinners), but th
 | 14:00-15:00 | [Daisuke Bekki](https://daisukebekki.github.io), Ochanomizu University | A Proof-theoretic Investigation of Natural Language Semantics (Invited) | 
 | 15:00-15:30 | [Denis Bechet](http://pagesperso.ls2n.fr/~bechet-d/contact.html), LS2N - Nantes University and [Annie Foret](http://www.irisa.fr/prive/foret/english.html), IRISA and Univ Rennes 1 | Categorial Dependency Grammars Extended with Typed Barriers | 
 | 15:30-16:00 | break | break | 
-| 16:00-17:00 | [Wojciech Buszkowski](https://wmi.amu.edu.pl/wydzial/pracownicy/wojciech-buszkowski), Adam Mickiewicz University | TBA (Invited) | 
+| 16:00-17:00 | [Wojciech Buszkowski](https://wmi.amu.edu.pl/wydzial/pracownicy/wojciech-buszkowski), Adam Mickiewicz University | Sequent systems for Lambek calculi: a survey of recent results (Invited) | 
 | 17:00-18:00 | [Philippe de Groote](https://members.loria.fr/PDegroote/), Inria Nancy - Grand Est, France | TBA (Invited) | 
 | 18:00-18:30 | S | T | 
 
@@ -73,9 +73,9 @@ Please note that you have to organize yourself for lunches (and dinners), but th
 | 14:00-15:00 | [Andrija Urosevic](https://poincare.matf.bg.ac.rs/~andrija.urosevic/) and [Sana Stojanovic-Durdevic](https://poincare.matf.bg.ac.rs/~sana.stojanovic.djurdjevic/), University of Belgrade, Faculty of Mathematics | From Formal Natural Deduction Proofs to LaTeX Proof Trees | 
 | 15:00-15:30 | S | T | 
 | 15:30-16:00 | break | break | 
-| 16:00-16:45 |  [Sana Stojanovic-Durdevic](https://poincare.matf.bg.ac.rs/~sana.stojanovic.djurdjevic/) and [Danijela Simic](https://poincare.matf.bg.ac.rs/~danijela.simic/), University of Belgrade, Faculty of Mathematics | Proof by Cases in Euclidean Geometry | 
-| 16:45-17:30 | [Jørgen Villadsen](https://people.compute.dtu.dk/jovi/), Technical University of Denmark, Denmark | On Natural Deduction and Axioms for Propositional and First-Order Logic | 
-| 17:30-18:30  | S | T | 
+| 16:00-17:00 |  [Sana Stojanovic-Durdevic](https://poincare.matf.bg.ac.rs/~sana.stojanovic.djurdjevic/) and [Danijela Simic](https://poincare.matf.bg.ac.rs/~danijela.simic/), University of Belgrade, Faculty of Mathematics | Proof by Cases in Euclidean Geometry | 
+| 17:00-17:45 | [Jørgen Villadsen](https://people.compute.dtu.dk/jovi/), Technical University of Denmark, Denmark | On Natural Deduction and Axioms for Propositional and First-Order Logic | 
+| 17:45-18:30  | S | T | 
 
 **Thursday, Sep 18 2025; Joint Sessions from 11:00, MCLP and WG3**
 
