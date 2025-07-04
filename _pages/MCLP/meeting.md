@@ -74,8 +74,8 @@ Please note that you have to organize yourself for lunches (and dinners), but th
 | 15:00-15:30 | S | T | 
 | 15:30-16:00 | break | break | 
 | 16:00-17:00 |  [Sana Stojanovic-Durdevic](https://poincare.matf.bg.ac.rs/~sana.stojanovic.djurdjevic/) and [Danijela Simic](https://poincare.matf.bg.ac.rs/~danijela.simic/), University of Belgrade, Faculty of Mathematics | Proof by Cases in Euclidean Geometry | 
-| 17:00-17:45 | [Jørgen Villadsen](https://people.compute.dtu.dk/jovi/), Technical University of Denmark, Denmark | On Natural Deduction and Axioms for Propositional and First-Order Logic | 
-| 17:45-18:30  | S | T | 
+| 17:00-18:00 | [Jørgen Villadsen](https://people.compute.dtu.dk/jovi/), Technical University of Denmark, Denmark | On Natural Deduction and Axioms for Propositional and First-Order Logic | 
+| 18:00-18:30  | S | T | 
 
 **Thursday, Sep 18 2025; Joint Sessions from 11:00, MCLP and WG3**
 
