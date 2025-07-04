@@ -46,6 +46,7 @@ Please note that you have to organize yourself for lunches (and dinners), but th
 
 Abstract: The Vampire automated theorem prover is extended to output machine-checkable proofs in the Dedukti concrete syntax for the λΠ-calculus modulo. This significantly reduces the trusted computing base, and in principle eases proof reconstruction in other proof-checking systems. Existing theory is adapted to deal with Vampire’s internal logic and inference system. To our knowledge this is the first time this has been attempted in a system as complex as Vampire. We will report on the implementation experience, give an overview of the extent of the proof translation and how Vampire’s Avatar architecture is handled, and present some of the first experimental results looking into the overhead proof reconstruction entails. 
 
+
 + Hai Xia (TU Wien), Uncovering and Verifying Optimal Graph Modularity: A MaxSAT Approach
 
 Abstract: Network modularity is central to understanding phenomena in
@@ -71,6 +72,11 @@ be tackled efficiently. This synergy brings us closer to making
 complex network analysis and community detection tractable, robust,
 and verifiable—a goal firmly aligned with the core mission of
 computational science.
+
+
++ Roussanka Loukanova (Bulgarian Academy of Sciences), Logging Information by Moschovakis Type-Theory of Algorithms
+
+Abstract: Presenting Moschovakis Type-Theory of Recursion and Algorithms for logging information during algorithmic calculations, by its recursion or iteration assignments in memory locations.
 
 
 <!--
