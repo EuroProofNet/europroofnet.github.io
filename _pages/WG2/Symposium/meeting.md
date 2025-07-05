@@ -47,7 +47,7 @@ Please note that you have to organize yourself for lunches (and dinners), but th
 |                |                              |                                       |                                                        |
 | 15:30 -- 16:00 | Break                        | Break                                 | Break                                                  |
 | 16:00 -- 17:00 | Alethe (II)                  | Other proof techniques                |                                                        |
-|                |                              | Geoff Sutcliff (remote)               |                                                        |
+|                |                              | Geoff Sutcliffe (remote)               |                                                        |
 |                |                              |                                       |                                                        |
 |                |                              |                                       |                                                        |
 | 17:00 -- 17:30 | Discussion                   | Discussion                            |                                                        |
@@ -92,7 +92,7 @@ computational science.
 
 Abstract: Presenting Moschovakis Type-Theory of Recursion and Algorithms for logging information during algorithmic calculations, by its recursion or iteration assignments in memory locations.
 
-+ Geoff Sutcliff (University of Miami), TBA  <!-- Friday -->
++ Geoff Sutcliffe (University of Miami), TBA  <!-- Friday -->
 
 <!--
 **Objectives/Deliverables:**
