@@ -78,7 +78,7 @@ computational science.
 
 Abstract: Presenting Moschovakis Type-Theory of Recursion and Algorithms for logging information during algorithmic calculations, by its recursion or iteration assignments in memory locations.
 
-+ Geoff Sutcliff, TBA  <!-- Friday -->
++ Geoff Sutcliff (University of Miami), TBA  <!-- Friday -->
 
 <!--
 **Objectives/Deliverables:**
