@@ -17,7 +17,7 @@ and [Axel Ljungström](https://aljungstrom.github.io/)
 
 **Registration:** fill in this [form](https://forms.gle/QLFzh3Ugv5WgkhZr7) (registration is free but mandatory)
 
-**Talk proposals and updates by authors:** [procedure](../MCLP_submission)
+**Talk proposals and updates by authors:** [instructions, procedure](../MCLP_submission)
 
 **Submission and Updates** by authors of titles and abstracts of their talks and demos:
 [https://easychair.org/conferences?conf=mclp2025](https://easychair.org/conferences?conf=mclp2025)
