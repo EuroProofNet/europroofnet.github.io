@@ -94,6 +94,13 @@ Abstract: Presenting Moschovakis Type-Theory of Recursion and Algorithms for log
 
 + Geoff Sutcliffe (University of Miami), TBA  <!-- Friday -->
 
++ Bruno Andreotti (Universidade Federal de Minas Gerais), TBA  <!-- Friday -->
+
++ Hans-Jörg Schurr (University of Iowa), TBA  <!-- Friday -->
+
++ Ciarán Dunne (Inria Saclay), TBA  <!-- Friday -->
+
+
 <!--
 **Objectives/Deliverables:**
   - D10. Release of software for translating proofs coming from important proof systems based on set theory like Mizar, Atelier B or TLAPS to Dedukti and back.
