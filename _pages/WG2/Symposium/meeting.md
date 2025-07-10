@@ -94,11 +94,15 @@ Abstract: Presenting Moschovakis Type-Theory of Recursion and Algorithms for log
 
 + Geoff Sutcliffe (University of Miami), TBA  <!-- Friday -->
 
-+ Bruno Andreotti (Universidade Federal de Minas Gerais), TBA  <!-- Friday -->
++ Bruno Andreotti (Universidade Federal de Minas Gerais), TBA  <!-- Thursday afternoon -->
 
-+ Hans-Jörg Schurr (University of Iowa), TBA  <!-- Friday -->
++ Hans-Jörg Schurr (University of Iowa), TBA  <!-- Thursday afternoon -->
 
-+ Ciarán Dunne (Inria Saclay), TBA  <!-- Friday -->
++ Ciarán Dunne (Inria Saclay), TBA
+
++ Vincent Trélat (Inria Saclay), TBA
+
++ Alessio Coltellacci (University of Lorraine, CNRS, Inria, Nancy), TBA
 
 
 <!--
