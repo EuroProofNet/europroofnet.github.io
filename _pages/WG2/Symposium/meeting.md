@@ -100,9 +100,9 @@ Abstract: Presenting Moschovakis Type-Theory of Recursion and Algorithms for log
 
 + Ciarán Dunne (Inria Saclay), TBA
 
-+ Vincent Trélat (Inria Saclay), TBA
++ Vincent Trélat (Inria Saclay), TBA  <!-- methode B smtlib -->
 
-+ Alessio Coltellacci (University of Lorraine, CNRS, Inria, Nancy), TBA
++ Alessio Coltellacci (University of Lorraine, CNRS, Inria, Nancy), TBA <!-- long-->
 
 
 <!--
