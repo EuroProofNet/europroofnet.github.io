@@ -28,7 +28,9 @@ The cost of a meal for non-local people at a university restaurant (RU) is about
 
 **Cafeterias (sandwichs, salads, etc.) open from Monday to Friday (and Saturday for the Cafeteria Le Tropical):**
 
-- [Cafétéria libre-service Henri Moissan](https://www.crous-versailles.fr/restaurant/cafeteria-libre-service-henri-moissan-2/), 8:30-16:00, 15 avenue des Sciences 91190 Gif-sur-Yvette, 900 (12 minutes).
+- [La Cafet du club ATO](https://www.ato-club.com/restaurant/), 12:00-14:00, rue Nicolas Appert 91400 Orsay, 350 m (5 minutes), meal from 18 euros
+
+- [Cafétéria libre-service Henri Moissan](https://www.crous-versailles.fr/restaurant/cafeteria-libre-service-henri-moissan-2/), 8:30-16:00, 15 avenue des Sciences 91190 Gif-sur-Yvette, 900 m (12 minutes).
 
 - [Cafétéria Le Tropical](https://www.crous-versailles.fr/restaurant/cafeteria-le-tropical-2/), 8:00-18:00 and Saturday 9:00-14:00, Bâtiment 406, rue Claude Bernard 91400 Orsay, 750 m (12 minutes).
 
