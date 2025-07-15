@@ -47,11 +47,8 @@ Participants invited at a meeting or school, and people having an approved ITCG,
 **During the travel:**
 
   Keep all the receipts and tickets of your transports and accommodations:
-
     * Transport expenses will be reimbursed according to your real expenses on presentation of the transport invoice in your name with details of dates, times and place of transport. Proof of travel in the form of boarding passes, train tickets or toll tickets is mandatory.
-
     * Accommodation expenses will be reimbursed in the form of an accommodation allowance (65% of daily allowance) on presentation of the accommodation invoice in your name.
-
     * Meal expenses will be paid in the form of a meal allowance for lunch (17,50% of daily allowance) and for dinner (17,50% of daily allowance).
 
 **After the travel:**
