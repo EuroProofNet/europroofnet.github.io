@@ -104,6 +104,10 @@ Abstract: Presenting Moschovakis Type-Theory of Recursion and Algorithms for log
 
 + Alessio Coltellacci (University of Lorraine, CNRS, Inria, Nancy), TBA <!-- long-->
 
++ Melanie Tapproge (University Greifswald), Encoding and Verifying Leo-III Proofs in the Dedukti Framework
+
+Abstract: 
+The diversity of output encodings of different reasoning systems hinders proof verification and interoperability. The Dedukti framework addresses this issue by implementing the λΠ-calculus modulo, enabling proofs from different frameworks to be expressed, combined, and checked automatically. We identify common challenges and requirements for verifying proofs of automated theorem provers for higher-order logic, and develop general strategies for systematically deriving encodings of calculus rules and proof steps. Building on these strategies, we propose a modular encoding approach, which we demonstrate and evaluate using the higher-order logic prover Leo-III. This effort has already led to the discovery and resolution of minor bugs in the original prover.
 
 <!--
 **Objectives/Deliverables:**
