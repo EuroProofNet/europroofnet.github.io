@@ -58,7 +58,7 @@ Please note that you have to organize yourself for lunches (and dinners), but th
 | 14:00-15:00 | [Daisuke Bekki](https://daisukebekki.github.io), Ochanomizu University | A Proof-theoretic Investigation of Natural Language Semantics (Invited) | 
 | 15:00-15:30 | [Denis Bechet](http://pagesperso.ls2n.fr/~bechet-d/contact.html), LS2N - Nantes University and [Annie Foret](http://www.irisa.fr/prive/foret/english.html), IRISA and Univ Rennes 1 | Categorial Dependency Grammars Extended with Typed Barriers | 
 | 15:30-16:00 | break | break | 
-| 16:00-17:00 | [Wojciech Buszkowski](https://wmi.amu.edu.pl/wydzial/pracownicy/wojciech-buszkowski), Adam Mickiewicz University | Sequent systems for Lambek calculi: a survey of recent results (Invited) | 
+| 16:00-17:00 | [Wojciech Buszkowski](https://wmi.amu.edu.pl/wydzial/pracownicy/wojciech-buszkowski), Adam Mickiewicz University | Sequent systems for Lambek calculi and their extensions: a survey of recent results (Invited) | 
 | 17:00-18:00 | [Philippe de Groote](https://members.loria.fr/PDegroote/), Inria Nancy - Grand Est, France | TBA (Invited) | 
 | 18:00-18:30 | S | T | 
 
@@ -346,3 +346,12 @@ Automatically formalizing mathematical statements allows mathematicians to take 
 Ambiguous informal mathematical statements admit multiple possible formalizations (shown as Lean fragments). Ambiguity can arise from uncertain variable domains (left), pronoun referents (center), or order of quantifiers (right). We score each formalization according to multiple signals (including computational models of human cognition, mathematics domain knowledge, and type-checking/validity checks from Lean) in order to contextually ground symbols and types based on surrounding text and usage.
 
 Bayesian approaches can be effective at disambiguation, incorporating both domain knowledge and intuitive plausibility. We perform Bayesian inference via language model probabilistic programming to choose among multiple plausible formalizations, using sequential Monte Carlo (SMC) to sample from an LLM constrained by hard syntactic requirements and soft preferences over the likely intentions of a human mathematician. These constraints allow us to disambiguate texts by balancing cognitive plausibility, context, syntactic parsing, and mathematical correctness.
+
+<!-- (20) -->
+- [Wojciech Buszkowski](https://wmi.amu.edu.pl/wydzial/pracownicy/wojciech-buszkowski), Adam Mickiewicz University, Poznan, Poland
+
+Sequent systems for Lambek calculi and their extensions: a survey of recent results (Invited Talk)
+
+Abstract:
+This talk presents sequent systems for different extensions of Lambek calculi L and NL (non-associative L). We focus on two important proof-theoretic properties of these systems: cut elimination and interpolation. We survey the cut-elimination theorems for several systems, also enriched with non-logical axioms (assumptions). Interpolation for non-associative logics is more efficient than for associative logics: the interpolant is a subformula of some formula appearing in the provable sequent or in an assumption. We show some consequences of these properties, which are interesting for computational linguistics.
+
