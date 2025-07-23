@@ -28,7 +28,7 @@ The event is scheduled as a two and a half-day meeting. Times are CET.
   - :large_blue_circle: _Formal Analysis of Attested TLS in Industrial Settings_. Usama Sardar (TU Dresden, Germany)
   - _TBA_
 * Talks and Discussion (16:00-17:30)
-  - _TBA_. Catherine Dubois (ENSIIE, France).
+  - :white_circle: _Formally verified domains in Why3_. Catherine Dubois (ENSIIE, France).
 
 **Day 2**
 
