@@ -24,8 +24,9 @@ breadcrumbs: true
  </tr>
 </table>
 
+**Programme:**
+
 <!--
-**Events:**
 * 8-11 September: [LFPSI: 1st International School on Logical Frameworks and Proof Systems Interoperability](../LFPSI25)
 * 11-13 September: [WG2: Workshop on Automated Reasoning and Proof Logging](../wg2-symposium)
 * 13-14 September: [WHOOPS: 2nd International Workshop on Highlights in Organizing and Optimizing Proof-logging Systems](https://jakobnordstrom.se/WHOOPS25/)
@@ -33,8 +34,6 @@ breadcrumbs: true
 * 15-18 September: [MCLP: Conference on Mathematical and Computational Linguistics for Proofs](../MCLP)
 * 17-19 September: [WG3: Workshop on Program Verification](../wg3-Sept2025)
 * 19 September: [MC: Report on EuroProofNet results](../mc-meetings)
-
-**Schedule:**
 -->
 
 | Mo8                 | Tu9                 | We10                | Th11                     | Fr12                     | Sa13                        | Su14                        |
