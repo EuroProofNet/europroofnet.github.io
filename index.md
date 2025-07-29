@@ -32,9 +32,13 @@ useful links on [gender](../gender-balance) balance issues,
 etc. (check the tabs on the top and the menu icon on the top right
 corner).
 
-**Coming events:**
+**Sad news:**
 
-- 21-25 July 2025: [Scottish Programming Languages and Verification School](https://spli.scot/splv/2025-edinburgh/), Edinburgh, UK
+<img src="https://deducteam.gitlabpages.inria.fr/img/gilles.jpg" width="50%"/>
+
+EuroProofNet is sad to announce that Gilles Dowek, founder of [Deducteam](https://deducteam.gitlabpages.inria.fr/) and the [Dedukti](https://deducteam.github.io/) logical framework, which plays a central role in EuroProofNet, died on 21 July 2025 at 58 years old. He was vice leader of the WG4 on proof libraries from 2021 to 2022. He made important contributions not only in logic (unification, automated theorem proving, type theory) but also in quantum programming languages and philosophy. He received several awards from the French Academy of Sciences. He was a brilliant speaker and teacher, and published several books in computer science, logic and philosophy. He has been very active in promoting the teaching of computer science in high school and contributed to the definition of the corresponding cursus. Finally, he supervised or co-supervised many PhD students. We are going to miss him a lot.
+
+**Coming events:**
 
 - 8-19 September 2025: [EuroProofNet Symposium](../Symposium), Institut Pascal, Orsay, France, with:
     - 8-11 September 2025: [International School on Logical Frameworks and Proof Systems Interoperability](../LFPSI25)
