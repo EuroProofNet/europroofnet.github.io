@@ -18,7 +18,7 @@ breadcrumbs: true
 
 <table>
  <tr>
-  <td><a href="https://www.institut-pascal.universite-paris-saclay.fr/"><img src="https://www.institut-pascal.universite-paris-saclay.fr/sites/default/files/media/2021-07/Pascal-h.svg" width="10%"/></a></td>
+  <td><a href="https://www.institut-pascal.universite-paris-saclay.fr/"><img src="/_pages/symposium/logo-ipa.jpg"/></a></td>
   <td><a href="https://www.inria.fr/en/centre-inria-de-saclay"><img src="/_pages/symposium/logo-inria.jpg"/></a></td>
   <td><a href="https://www.cnrs.fr/"><img src="/_pages/symposium/logo-cnrs.jpg"/></a></td>
  </tr>
