@@ -12,8 +12,19 @@ breadcrumbs: true
 
 **Venue:** [Institut Pascal](https://www.institut-pascal.universite-paris-saclay.fr/), 530 Rue André Rivière, 91400 Orsay [[access]](../Access) [[hotels]](../Hotels) [[food]](../Food)
 
-**Registration:** fill in this [form](https://forms.gle/QLFzh3Ugv5WgkhZr7) (registration is free but mandatory)
+**Registration:** fill in this [form](https://forms.gle/QLFzh3Ugv5WgkhZr7) (registration is free but mandatory). Please note that you have to organize yourself for lunches (and dinners), but there are many [options](../Food) around, except on Sunday.
 
+**Sponsors:**
+
+<table>
+ <tr>
+  <td><a href="https://www.institut-pascal.universite-paris-saclay.fr/"><img src="https://www.institut-pascal.universite-paris-saclay.fr/sites/default/files/media/2021-07/Pascal-h.svg" width="10%"/></a></td>
+  <td><a href="https://www.inria.fr/en/centre-inria-de-saclay"><img src="/_pages/symposium/logo-inria.jpg"/></a></td>
+  <td><a href="https://www.cnrs.fr/"><img src="/_pages/symposium/logo-cnrs.jpg"/></a></td>
+ </tr>
+</table>
+
+<!--
 **Events:**
 * 8-11 September: [LFPSI: 1st International School on Logical Frameworks and Proof Systems Interoperability](../LFPSI25)
 * 11-13 September: [WG2: Workshop on Automated Reasoning and Proof Logging](../wg2-symposium)
@@ -23,28 +34,14 @@ breadcrumbs: true
 * 17-19 September: [WG3: Workshop on Program Verification](../wg3-Sept2025)
 * 19 September: [MC: Report on EuroProofNet results](../mc-meetings)
 
-**Sponsors:**
-
-<table>
- <tr>
-  <td><a href="https://www.inria.fr/en/centre-inria-de-saclay"><img src="/_pages/symposium/logo-inria.jpg"/></a></td>
-  <td><a href="https://www.cnrs.fr/"><img src="/_pages/symposium/logo-cnrs.jpg"/></a></td>
- </tr>
-</table>
-
 **Schedule:**
-
-Please note that you have to organize yourself for lunches (and dinners), but there are many [options](../Food) around, except on Sunday.
-
-Week 1:
+-->
 
 | Mo8                 | Tu9                 | We10                | Th11                     | Fr12                     | Sa13                        | Su14                        |
 | [LFPSI](../LFPSI25) | [LFPSI](../LFPSI25) | [LFPSI](../LFPSI25) | [LFPSI](../LFPSI25)      |                          |                             |                             |
 |                     |                     |                     | [WG2](../wg2-symposium/) | [WG2](../wg2-symposium/) | [WG2](../wg2-symposium/)    |                             |
 |                     |                     |                     |                          |                          | [WHOOPS](https://jakobnordstrom.se/WHOOPS25/) | [WHOOPS](https://jakobnordstrom.se/WHOOPS25/) |
 | (*)                 |                     |                     | (*)                      |                          |                             |                             |
-
-Week 2:
 
 | Mo15                  | Tu16                  | We17                   | Th18                   | Fr19                   |
 | [WG4](../WG4_Orsay25) | [WG4](../WG4_Orsay25) |                        |                        |                        |
@@ -54,6 +51,10 @@ Week 2:
 | (*)                   |                       |                        | (*)                    |                        |
 
 <p style="font-size: 12px">(*) 17:30-18:30: happy hour</p>
+
+<img src="https://deducteam.gitlabpages.inria.fr/img/gilles.jpg" width="50%"/>
+
+This symposium is dedicated to the memory of [Gilles Dowek](https://lsv.ens-paris-saclay.fr/~dowek/), who died on 21 July 2025 at 58 years old. Gilles was the founder of [Deducteam](https://deducteam.gitlabpages.inria.fr/) and of the [Dedukti](https://deducteam.github.io/) logical framework, which plays a central role in EuroProofNet. He was vice leader of the WG4 on proof libraries from 2021 to 2022. He made important contributions not only in logic (unification, automated theorem proving, type theory) but also in quantum programming languages and philosophy. He received several awards from the French Academy of Sciences. He was a brilliant speaker and teacher, and published several books in computer science, logic and philosophy. He has been very active in promoting the teaching of computer science in high school and contributed to the definition of the corresponding cursus. Finally, he supervised or co-supervised many PhD students.
 
 **Steering committee:**
 - [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/) (INRIA & LMF, chair of EuroProofNet)
