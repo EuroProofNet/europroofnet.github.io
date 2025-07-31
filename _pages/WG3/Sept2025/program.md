@@ -26,7 +26,7 @@ The event is scheduled as a two and a half-day meeting. Times are CET.
   - :white_circle: _TBA_. Sibylle Möhle (Max Planck Institute for Informatics, Germany)
 * Talks (14:00-15:30)
   - :large_blue_circle: _Formal Analysis of Attested TLS in Industrial Settings_. Usama Sardar (TU Dresden, Germany)
-  - _TBA_
+  - :white_circle: _Separation Logic is incomplete_. Hans-Dieter Hiep (NLnet Foundation)
 * Talks and Discussion (16:00-17:30)
   - :white_circle: _Formally verified domains in Why3_. Catherine Dubois (ENSIIE, France).
 
