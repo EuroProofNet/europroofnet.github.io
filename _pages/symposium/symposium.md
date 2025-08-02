@@ -10,7 +10,7 @@ breadcrumbs: true
 
 **Date:** 8-19 September 2025
 
-**Venue:** [Institut Pascal](https://www.institut-pascal.universite-paris-saclay.fr/), 530 Rue André Rivière, 91400 Orsay [[access]](../Access) [[hotels]](../Hotels) [[food]](../Food)
+**Venue:** [Institut Pascal](https://www.institut-pascal.universite-paris-saclay.fr/), 530 Rue André Rivière, 91400 Orsay [[access]](../Access) [[hotels]](../Hotels) [[food]](../Food) [[possible activities around]](./Activities)
 
 **Registration:** fill in this [form](https://forms.gle/QLFzh3Ugv5WgkhZr7) (registration is free but mandatory). Please note that you have to organize yourself for lunches (and dinners), but there are many [options](../Food) around, except on Sunday.
 
