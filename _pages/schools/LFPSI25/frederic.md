@@ -1,5 +1,5 @@
 ---
-title: "LFPSI'25 lecture: λΠ-calculus modulo rewriting: theory and applications to proof systems interoperability"
+title: "LFPSI'25 lecture: λΠ-calculus modulo rewriting: theory and application to proof systems interoperability"
 layout: single
 permalink: /LFPSI25-Frédéric/
 author_profile: true
