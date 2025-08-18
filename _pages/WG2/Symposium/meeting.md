@@ -32,7 +32,7 @@ Please note that you have to organize yourself for lunches (and dinners), but th
 |                |                              |                                       |                                                        |
 |                |                              |                                       |                                                        |
 | 09:30 -- 10:30 | Dedukti session (I)          | AR                                    | [VeriPB tutorial](https://jakobnordstrom.se/WHOOPS25/) |
-|                |                              |                                       |                                                        |
+|                | Alessio Coltellacci          |                                       |                                                        |
 |                |                              |                                       |                                                        |
 |                |                              |                                       |                                                        |
 | 10:30 -- 11:00 | Break                        | Break                                 | [VeriPB tutorial](https://jakobnordstrom.se/WHOOPS25/) |
@@ -47,7 +47,7 @@ Please note that you have to organize yourself for lunches (and dinners), but th
 |                |                              |                                       |                                                        |
 | 15:30 -- 16:00 | Break                        | Break                                 | Break                                                  |
 | 16:00 -- 17:00 | Alethe (II)                  | Other proof techniques                |                                                        |
-|                |                              | Geoff Sutcliffe (remote)               |                                                        |
+|                |                              | Geoff Sutcliffe (remote)              |                                                        |
 |                |                              |                                       |                                                        |
 |                |                              |                                       |                                                        |
 | 17:00 -- 17:30 | Discussion                   | Discussion                            |                                                        |
@@ -105,6 +105,10 @@ Abstract: Presenting Moschovakis Type-Theory of Recursion and Algorithms for log
 + Alessio Coltellacci (University of Lorraine, CNRS, Inria, Nancy), TBA <!-- long-->
 
 + Melanie Tapproge (University Greifswald), Encoding and Verifying Leo-III Proofs in the Dedukti Framework
+
++ Mathias Fleury (University Freiburg) <!-- alethe proof reconstruction: the Isabelle view -->
+
++ Florian Pollitt (University Freiburg) <!-- deterministic strategy changes -->
 
 Abstract: 
 The diversity of output encodings of different reasoning systems hinders proof verification and interoperability. The Dedukti framework addresses this issue by implementing the λΠ-calculus modulo, enabling proofs from different frameworks to be expressed, combined, and checked automatically. We identify common challenges and requirements for verifying proofs of automated theorem provers for higher-order logic, and develop general strategies for systematically deriving encodings of calculus rules and proof steps. Building on these strategies, we propose a modular encoding approach, which we demonstrate and evaluate using the higher-order logic prover Leo-III. This effort has already led to the discovery and resolution of minor bugs in the original prover.
