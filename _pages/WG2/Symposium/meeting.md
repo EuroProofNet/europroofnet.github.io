@@ -106,11 +106,34 @@ Abstract: Presenting Moschovakis Type-Theory of Recursion and Algorithms for log
 
 + Melanie Tapproge (University Greifswald), Encoding and Verifying Leo-III Proofs in the Dedukti Framework
 
+Abstract: The diversity of output encodings of different reasoning
+systems hinders proof verification and interoperability. The Dedukti
+framework addresses this issue by implementing the λΠ-calculus modulo,
+enabling proofs from different frameworks to be expressed, combined,
+and checked automatically. We identify common challenges and
+requirements for verifying proofs of automated theorem provers for
+higher-order logic, and develop general strategies for systematically
+deriving encodings of calculus rules and proof steps. Building on
+these strategies, we propose a modular encoding approach, which we
+demonstrate and evaluate using the higher-order logic prover
+Leo-III. This effort has already led to the discovery and resolution
+of minor bugs in the original prover.
+
+
 + Mathias Fleury (University Freiburg) <!-- alethe proof reconstruction: the Isabelle view -->
 
-+ Florian Pollitt (University Freiburg) <!-- deterministic strategy changes -->
++ Florian Pollitt (University Freiburg), Deterministic Scheduling
 
-Abstract: 
+Abstract: SAT solvers are complex systems with many algorithms and
+heuristics competing in a portfolio approach.  Furthermore they are
+used in critical systems where performance regressions and brittleness
+of results can be detrimental. As such, guaranteeing deterministic and
+reproducible results is a big feature of SAT solvers.  This talk
+focuses on the practical application of one solution to this
+scheduling problem in the cadical SAT solver.
+
+
+
 The diversity of output encodings of different reasoning systems hinders proof verification and interoperability. The Dedukti framework addresses this issue by implementing the λΠ-calculus modulo, enabling proofs from different frameworks to be expressed, combined, and checked automatically. We identify common challenges and requirements for verifying proofs of automated theorem provers for higher-order logic, and develop general strategies for systematically deriving encodings of calculus rules and proof steps. Building on these strategies, we propose a modular encoding approach, which we demonstrate and evaluate using the higher-order logic prover Leo-III. This effort has already led to the discovery and resolution of minor bugs in the original prover.
 
 <!--
