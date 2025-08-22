@@ -132,6 +132,7 @@ reproducible results is a big feature of SAT solvers.  This talk
 focuses on the practical application of one solution to this
 scheduling problem in the cadical SAT solver.
 
++ Julie Cailler (Loria)
 
 
 The diversity of output encodings of different reasoning systems hinders proof verification and interoperability. The Dedukti framework addresses this issue by implementing the λΠ-calculus modulo, enabling proofs from different frameworks to be expressed, combined, and checked automatically. We identify common challenges and requirements for verifying proofs of automated theorem provers for higher-order logic, and develop general strategies for systematically deriving encodings of calculus rules and proof steps. Building on these strategies, we propose a modular encoding approach, which we demonstrate and evaluate using the higher-order logic prover Leo-III. This effort has already led to the discovery and resolution of minor bugs in the original prover.
