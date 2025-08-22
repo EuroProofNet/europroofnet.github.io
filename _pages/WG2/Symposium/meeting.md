@@ -29,26 +29,26 @@ Please note that you have to organize yourself for lunches (and dinners), but th
 | Time           | Thursday                     | Friday                                | Saturday                                               |
 |----------------|------------------------------|---------------------------------------|--------------------------------------------------------|
 | 09:00 -- 9:30  | Opening & Presentation       | AR                                    | [VeriPB tutorial](https://jakobnordstrom.se/WHOOPS25/) |
-|                |                              |                                       |                                                        |
-|                |                              |                                       |                                                        |
+|                |                              | Vincent Trélat                        |                                                        |
+|                |                              | Julie Cailler                         |                                                        |
 | 09:30 -- 10:30 | Dedukti session (I)          | AR                                    | [VeriPB tutorial](https://jakobnordstrom.se/WHOOPS25/) |
-|                | Alessio Coltellacci          |                                       |                                                        |
-|                |                              |                                       |                                                        |
+|                | Alessio Coltellacci          | Florian Pollitt                       |                                                        |
+|                | Ciarán Dunne                 | Hai Xia                               |                                                        |
 |                |                              |                                       |                                                        |
 | 10:30 -- 11:00 | Break                        | Break                                 | [VeriPB tutorial](https://jakobnordstrom.se/WHOOPS25/) |
 | 11:00 -- 12:30 | Dedukti session (II)         | AR                                    | [VeriPB tutorial](https://jakobnordstrom.se/WHOOPS25/) |
 |                | Anja Petković Komel (remote) |                                       |                                                        |
-|                |                              |                                       |                                                        |
+|                | Melanie Tapproge             |                                       |                                                        |
 |                |                              |                                       |                                                        |
 | 12:30 -- 14:00 | [lunch](../Food)             | [lunch](../Food)                      | [lunch](../Food)                                       |
 | 14:00 -- 15:30 | Alethe (I)                   | Other proof techniques & Applications |                                                        |
-|                |                              |                                       |                                                        |
+|                |                              | Roussanka Loukanova                   |                                                        |
 |                |                              |                                       |                                                        |
 |                |                              |                                       |                                                        |
 | 15:30 -- 16:00 | Break                        | Break                                 | Break                                                  |
 | 16:00 -- 17:00 | Alethe (II)                  | Other proof techniques                |                                                        |
-|                |                              | Geoff Sutcliffe (remote)              |                                                        |
-|                |                              |                                       |                                                        |
+|                | Bruno Andreotti              | Geoff Sutcliffe (remote)              |                                                        |
+|                | Hans-Jörg Schurr             |                                       |                                                        |
 |                |                              |                                       |                                                        |
 | 17:00 -- 17:30 | Discussion                   | Discussion                            |                                                        |
 | 17:30 -- 18:30 |                              | Happy hour                            |                                                        |
