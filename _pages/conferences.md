@@ -63,11 +63,11 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 
 - 5-9 August 2024: [17th Conference on Intelligent Computer Mathematics](https://cicm-conference.org/2024/) (CICM'24), Montréal, Canada
 
-- 29 July - 2 August 2024: [Workshop on Libraries of Digital Math](https://www.him.uni-bonn.de/programs/future-programs/future-trimester-programs/prospects-of-formal-mathematics/libraries-of-digital-math/), Bonn, Germany
+- 29 July - 2 August 2024: [Workshop on Libraries of Digital Math](https://www.mathematics.uni-bonn.de/him/programs/past/him-trimester-program-prospects-of-formal-mathematics), Bonn, Germany
 
 - 10-13 July 2024: [9th International Conference on Formal Structures for Computation and Deduction](https://cs.ioc.ee/fscd24/) (FSCD'24), Tallinn, Estonia
 
-- 8-12 July 2024: [Workshop on Bridging between informal and formal mathematics](https://www.him.uni-bonn.de/programs/future-programs/future-trimester-programs/prospects-of-formal-mathematics/workshop-bridging-between-informal-and-formal-july-8-12-2024/), Bonn, Germany
+- 8-12 July 2024: [Workshop on Bridging between informal and formal mathematics](https://www.mathematics.uni-bonn.de/him/programs/past/him-trimester-program-prospects-of-formal-mathematics), Bonn, Germany
 
 - 8-12 July 2024: [39th Annual ACM/IEEE Symposium on Logic in Computer Science](https://lics.siglog.org/lics24/) (LICS'24), Tallinn, Estonia
 
@@ -77,7 +77,7 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 
 - 24-28 June 2024: [Logic Colloquium](https://lc2024.se/), Göteborg, Sweden
 
-- 17-21 June 2024: [Workshop on Formalization of Mathematics](https://www.him.uni-bonn.de/programs/future-programs/future-trimester-programs/prospects-of-formal-mathematics/formalization-of-mathematics/), Bonn, Germany
+- 17-21 June 2024: [Workshop on Formalization of Mathematics](https://www.mathematics.uni-bonn.de/him/programs/past/him-trimester-program-prospects-of-formal-mathematics), Bonn, Germany
 
 - 10-14 June 2024: [International Conference on Types for Proofs and Programs](https://types2024.itu.dk/Index.html) (TYPES'24), Copenhagen, Denmark
 
@@ -87,7 +87,7 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 
 - 20-24 May 2024: [1st International Workshop on Highlights in Organizing and Optimizing Proof-logging Systems](https://jakobnordstrom.se/WHOOPS24/) (WHOOPS'24), Copenhagen, Denmark
 
-- 6 May - 16 August 2024: [Trimester on Prospects of formal mathematics](https://www.him.uni-bonn.de/programs/future-programs/future-trimester-programs/prospects-of-formal-mathematics/description/), Hausdorff research institute for mathematics, Bonn, Germany
+- 6 May - 16 August 2024: [Trimester on Prospects of formal mathematics](https://www.mathematics.uni-bonn.de/him/programs/past/him-trimester-program-prospects-of-formal-mathematics), Hausdorff research institute for mathematics, Bonn, Germany
 
 - 22-23 April 2024: [Workshop on Theory and Applications of Craig Interpolation and Beth Definability](https://cibd.bitbucket.io), Amsterdam, Netherlands
 
