@@ -31,7 +31,7 @@ Please note that you have to organize yourself for lunches (and dinners), but th
 | 09:00 -- 9:30  | Opening & Presentation       | AR                                    | [VeriPB tutorial](https://jakobnordstrom.se/WHOOPS25/) |
 |                |                              | Julie Cailler                         |                                                        |
 | 09:30 -- 10:30 | Dedukti session (I)          |                                       | [VeriPB tutorial](https://jakobnordstrom.se/WHOOPS25/) |
-|                | Alessio Coltellacci (long)   | Vincent Trélat                        |                                                        |
+|                | Alessio Coltellacci (long)   | Vincent Trélat (long)                 |                                                        |
 |                |                              |                                       |                                                        |
 |                |                              |                                       |                                                        |
 | 10:30 -- 11:00 | Break                        | Break                                 | [VeriPB tutorial](https://jakobnordstrom.se/WHOOPS25/) |
