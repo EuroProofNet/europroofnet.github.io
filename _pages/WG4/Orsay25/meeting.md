@@ -57,10 +57,10 @@ Please note that you have to organize yourself for lunches (and dinners), but th
 | 11:45-12:30 | [Julien Narboux](https://www.irif.fr/~narboux/) (U. Paris Cité, France) and [Pierre Boutry](https://pierre-boutry.fr/) (U. Strasbourg, France), GeoCoq: a library for foundations of geometry |
 | 12:30-14:00 | [lunch](../Food) |
 | 14:00-14:45 | Christian Merten (U. Utrech, Netherlands), algebraic geometry in Lean's mathematical library mathlib |
-| 14:45-15:30 | [Nicolas Magaud](https://dpt-info.u-strasbg.fr/~magaud/) (U. Strasbourg, France), Optimization of Rocq proof scripts |
+| 14:45-15:30 | [Niels van der Weide](https://nmvdw.github.io/) (U. Radboud, Netherlands), the Unimath Coq library |
 | 15:30-16:00 | break   |
-| 16:00-16:45 | [Yannick Forster](https://yforster.de/) (Inria Paris, France), the Coq Library of undecidability proofs |
-| 16:45-17:30 | [Mohammad Abdulaziz](https://mabdula.github.io/) (King's College London, UK), an Isabelle Library of Combinatorial Optimisation Results |
+| 16:00-16:45 | [Nicolas Magaud](https://dpt-info.u-strasbg.fr/~magaud/) (U. Strasbourg, France), Optimization of Rocq proof scripts |
+| 16:45-17:30 | [Yannick Forster](https://yforster.de/) (Inria Paris, France), the Coq Library of undecidability proofs |
 | 17:30-18:30 | happy hour |
 
 | time | Tuesday 16 September |
@@ -71,7 +71,7 @@ Please note that you have to organize yourself for lunches (and dinners), but th
 | 11:00-11:45 | [Kathrin Stark](https://www.k-stark.de/) (U. Heriot-Watt, UK), On Autosubst: Mechanising binders in Coq |
 | 11:45-12:30 | [Matthieu Sozeau](https://sozeau.gitlabpages.inria.fr/www/) (Inria Nantes, France), MetaRocq: Metaprogramming and Mechanization of Rocq in Rocq |
 | 12:30-14:00 | [lunch](../Food) |
-| 14:00-14:45 | [Niels van der Weide](https://nmvdw.github.io/) (U. Radboud, Netherlands), the Unimath Coq library |
+| 14:00-14:45 | [Mohammad Abdulaziz](https://mabdula.github.io/) (King's College London, UK), an Isabelle Library of Combinatorial Optimisation Results |
 | 14:45-15:30 | [Cyril Cohen](https://perso.crans.org/cohen/) (Inria Lyon, France), Hierarchy Builder |
 | 15:30-16:00 | break   |
 | 16:00-16:45 | [Markus Himmel](https://github.com/TwoFX) (Lean FRO, Germany), the Lean standard library: development methodology and tooling |
