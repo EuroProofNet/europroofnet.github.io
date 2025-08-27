@@ -70,7 +70,7 @@ Please note that you have to organize yourself for lunches (and dinners), but th
 | 10:00-10:30 | S | T | 
 | 10:30-11:00 | break | break | 
 | 11:00-11:30 | [Shashank Pathak](https://pkshashank.github.io), The University of Manchester | Extending Flexible Boolean Semantics for the Language of Mathematics | 
-| 11:30-12:30 | S | T | 
+| 11:30-12:30 | [Michael Kohlhase](https://kwarc.info/people/mkohlhase/), Computer Science, FAU Erlangen-Nürnberg, Germany | Active Flexiformal Mathematics (in particular Proofs) - Methods, Resources, and Applications (Invited) | 
 | 12:00-12:30 | S | T | 
 | 12:30-14:00 | [lunch](../Food) | [lunch](../Food) | 
 | 14:00-15:00 | [Andrija Urosevic](https://poincare.matf.bg.ac.rs/~andrija.urosevic/) and [Sana Stojanovic-Durdevic](https://poincare.matf.bg.ac.rs/~sana.stojanovic.djurdjevic/), University of Belgrade, Faculty of Mathematics | From Formal Natural Deduction Proofs to LaTeX Proof Trees | 
@@ -355,3 +355,17 @@ Sequent systems for Lambek calculi and their extensions: a survey of recent resu
 Abstract:
 This talk presents sequent systems for different extensions of Lambek calculi L and NL (non-associative L). We focus on two important proof-theoretic properties of these systems: cut elimination and interpolation. We survey the cut-elimination theorems for several systems, also enriched with non-logical axioms (assumptions). Interpolation for non-associative logics is more efficient than for associative logics: the interpolant is a subformula of some formula appearing in the provable sequent or in an assumption. We show some consequences of these properties, which are interesting for computational linguistics.
 
+<!-- (21) -->
+- [Michael Kohlhase](https://kwarc.info/people/mkohlhase/), Computer Science, FAU Erlangen-Nürnber, Germany
+
+Active Flexiformal Mathematics (in particular Proofs) - Methods, Resources, and Application (Invited Talk)
+
+Abstract:
+In the last decades we have developed a paradigm of flexiformal modular representation of mathematics, where semantic annotations can be exploited for reader/learner support services that can be integrated into dynamic (HTML-based) presentations: active documents. We have tested active documents as a basis for AI-supported education and scientific communication on over 500-1000 students per semester over the last years.
+
+This endeavor crucially depends on the understanding and processing of mathematical
+language. This talk will concentrate on two aspects.
+
+I will present the OMDoc annotation ontology (with a special emphasis on flexiformal proofs), and its implementation in the sTeX (semantic LaTeX) package, as well as the sTeX corpus (ca. 10.000 pages of foundations and course materials in Math and CS). Particular focus will be on how that corpus can be used for the generation of linguistic resources for rigorous mathematical language. I will present on a collaborative project to generate a semantic lexicon (with formula notations) for mathematics (MathLex) and discuss how that can profit from the sTeX corpus.
+
+In formal mathematics, the transport of theorems via theory (or record type) interpretations is well-established. I contend that in flexiformal mathematics, this is even more important: more objects, e.g. problems/solutions can be transported; and the interpretations are important learning objects in themselves. I will report on recent work to lift the transport (called relocalization in the flexiformal setting) to the level of natural language transformation and report on how this can be implemented using GF abstract syntax trees.
