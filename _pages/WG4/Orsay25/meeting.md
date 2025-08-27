@@ -53,7 +53,7 @@ Please note that you have to organize yourself for lunches (and dinners), but th
 | 09:00-09:45 | [Manuel Eberl](http://cl-informatik.uibk.ac.at/users/meberl/) (U. Innsbruck, Austria), the Isabelle Archive of Formal Proofs |
 | 09:45-10:30 | [Michael Rothgang](https://www.math.uni-bonn.de/people/rothgang/) (U. Bonn, Germany), growing Lean mathlib: review and triage tooling for a large formalised mathematics library |
 | 10:30-11:00 | break   |
-| 11:00-11:45 | Justin Asher, LeanExplore: A search engine for Lean 4 declarations |
+| 11:00-11:45 | [Justin Asher](https://justinasher.me), LeanExplore: A search engine for Lean 4 declarations |
 | 11:45-12:30 | [Julien Narboux](https://www.irif.fr/~narboux/) (U. Paris Cité, France) and [Pierre Boutry](https://pierre-boutry.fr/) (U. Strasbourg, France), GeoCoq: a library for foundations of geometry |
 | 12:30-14:00 | [lunch](../Food) |
 | 14:00-14:45 | Christian Merten (U. Utrech, Netherlands), algebraic geometry in Lean's mathematical library mathlib |
@@ -86,7 +86,7 @@ Please note that you have to organize yourself for lunches (and dinners), but th
 Lean's mathematical library mathlib is one of the fastest-growing libraries of formalised mathematics. It is developed in the open by a large and diverse community of various backgrounds.
 Review and triage of all incoming contributions presents an ongoing challenge as mathlib's growth continues. I'll present mathlib's processes and tools to enable review to scale. A core component is a custom editorial dashboard (built jointly with Johan Commelin) which keeps track of each contribution's status over time. This allows for efficient triage, enables intelligent automatic reviewer assignment and ensuring no contribution is left behind.
 
-- [Justin Asher](https://justinasher.me/) (USA),  LeanExplore: A search engine for Lean 4 declarations [[web]](https://www.leanexplore.com/)
+- [Justin Asher](https://justinasher.me/) (Axiom Math, USA), LeanExplore: A search engine for Lean 4 declarations [[web]](https://www.leanexplore.com/)
 
 The rapid growth of Lean 4 libraries like Mathlib makes finding relevant theorems a significant challenge. This talk introduces LeanExplore, a search engine that enables semantic search of Lean declarations using natural language. We present a hybrid ranking strategy that combines multi-source semantic embeddings, keyword relevance (BM25+), and a PageRank-based score for declaration importance. A key feature is our use of an LLM to generate informal English translations for formal statements, significantly improving search accuracy. Accessible via a website and Python API, LeanExplore also integrates with AI assistants through the model context protocol (MCP), creating new opportunities for AI-driven theorem proving.
 
