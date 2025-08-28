@@ -55,8 +55,7 @@ the [Grant Holder](mailto:saf-saclay-recettes@inria.fr).
   * vice leader: [Adrián Riesco](https://maude.ucm.es/~adrian/)
 
 - [WG4 on libraries](/wg4)
-  * leader: [Angeliki Koutsoukou-Argyraki](https://www.cl.cam.ac.uk/~ak2110/)
-  * vice leader: [Claudio Sacerdoti Coen](http://www.cs.unibo.it/~sacerdot/)
+  * leader: [Claudio Sacerdoti Coen](http://www.cs.unibo.it/~sacerdot/)
 
 - [WG5 on machine learning](/wg5)
   * leader: [David Cerna](https://www.cs.cas.cz/dcerna/)
