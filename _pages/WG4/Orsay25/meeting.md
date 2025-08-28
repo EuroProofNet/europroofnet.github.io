@@ -53,7 +53,7 @@ Please note that you have to organize yourself for lunches (and dinners), but th
 | 09:00-09:45 | [Manuel Eberl](http://cl-informatik.uibk.ac.at/users/meberl/) (U. Innsbruck, Austria), the Isabelle Archive of Formal Proofs |
 | 09:45-10:30 | [Michael Rothgang](https://www.math.uni-bonn.de/people/rothgang/) (U. Bonn, Germany), growing Lean mathlib: review and triage tooling for a large formalised mathematics library |
 | 10:30-11:00 | break   |
-| 11:00-11:45 | [Justin Asher](https://justinasher.me), LeanExplore: A search engine for Lean 4 declarations |
+| 11:00-11:45 | [Patrick Massot](https://www.imo.universite-paris-saclay.fr/~patrick.massot/) (U. Paris-Saclay, France), coordinating large formalization projects |
 | 11:45-12:30 | [Julien Narboux](https://www.irif.fr/~narboux/) (U. Paris Cité, France) and [Pierre Boutry](https://pierre-boutry.fr/) (U. Strasbourg, France), GeoCoq: a library for foundations of geometry |
 | 12:30-14:00 | [lunch](../Food) |
 | 14:00-14:45 | Christian Merten (U. Utrech, Netherlands), algebraic geometry in Lean's mathematical library mathlib |
@@ -75,7 +75,7 @@ Please note that you have to organize yourself for lunches (and dinners), but th
 | 14:45-15:30 | [Cyril Cohen](https://perso.crans.org/cohen/) (Inria Lyon, France), Hierarchy Builder |
 | 15:30-16:00 | break   |
 | 16:00-16:45 | [Markus Himmel](https://github.com/TwoFX) (Lean FRO, Germany), the Lean standard library: development methodology and tooling |
-| 16:45-17:30 | [Patrick Massot](https://www.imo.universite-paris-saclay.fr/~patrick.massot/) (U. Paris-Saclay, France), coordinating large formalization projects |
+| 16:45-17:30 | [Justin Asher](https://justinasher.me), LeanExplore: A search engine for Lean 4 declarations |
 
 **Abstracts:**
 
