@@ -12,9 +12,13 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 - [STSM reports](../accepted_stsms)
 
 **2025**
-- [Scalable Knowledge Refactoring using Constrained Optimisation](https://doi.org/10.1609/aaai.v39i14.33650), Minghao Liu, David M. Cerna, Filipe Gouveia, Andrew Cropper. AAAI'25
 - [A Predicative Approach to the Constructive Integration Theory of Locally Compact Metric Spaces](https://doi.org/10.4115/jla.2025.17.FDS4), Fabian Lukas Grubmüller, Iosif Petrakis. *J. Log. Anal.*
 - [Barendregt Convenes with Knaster and Tarski: Strong Rule Induction for Syntax with Bindings](https://doi.org/10.1145/3704893), Jan van Brügge, James McKinna, Andrei Popescu, Dmitriy Traytel. POPL'25
+- [Continuous and algebraic domains in univalent foundations](https://doi.org/10.1016/j.jpaa.2025.108072), Tom de Jong, Martín Hötzel Escardó. [Journal of Pure and Applied Algebra](https://www.sciencedirect.com/journal/journal-of-pure-and-applied-algebra) (to appear)
+- [Epimorphisms and Acyclic Types in Univalent Foundations](https://doi.org/10.1017/jsl.2024.76), Ulrik Buchholtz, Tom de Jong, Egbert Rijke. [Journal of Symbolic Logic](https://www.cambridge.org/core/journals/journal-of-symbolic-logic)
+- [Formalizing Equivalences Without Tears](https://doi.org/10.4230/LIPIcs.TYPES.2024.1), Tom de Jong. [TYPES'24 post-proceedings](https://drops.dagstuhl.de/entities/volume/LIPIcs-volume-336)
+- [Ordinal Exponentiation in Homotopy Type Theory](https://arxiv.org/abs/2501.14542), Tom de Jong, Nicolai Kraus, Fredrik Nordvall Forsberg, Chuangjie Xu. [LICS'25](https://lics.siglog.org/lics25/)
+- [Scalable Knowledge Refactoring using Constrained Optimisation](https://doi.org/10.1609/aaai.v39i14.33650), Minghao Liu, David M. Cerna, Filipe Gouveia, Andrew Cropper. AAAI'25
 
 **2024**
 
