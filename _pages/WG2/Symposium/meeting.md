@@ -26,31 +26,31 @@ The program will be composed of talks and sessions to work alone or in small gro
 
 Please note that you have to organize yourself for lunches (and dinners), but there are many [options](../Food) around.
 
-| Time           | Thursday                     | Friday                                | Saturday                                               |
-|----------------|------------------------------|---------------------------------------|--------------------------------------------------------|
-| 09:00 -- 9:30  | Opening & Presentation       | AR                                    | [VeriPB tutorial](https://jakobnordstrom.se/WHOOPS25/) |
-|                |                              | Julie Cailler                         |                                                        |
-| 09:30 -- 10:30 | Dedukti session (I)          |                                       | [VeriPB tutorial](https://jakobnordstrom.se/WHOOPS25/) |
-|                | Alessio Coltellacci (long)   | Vincent Trélat (long)                 |                                                        |
-|                |                              |                                       |                                                        |
-|                |                              |                                       |                                                        |
-| 10:30 -- 11:00 | Break                        | Break                                 | [VeriPB tutorial](https://jakobnordstrom.se/WHOOPS25/) |
-| 11:00 -- 12:30 | Dedukti session (II)         | AR                                    | [VeriPB tutorial](https://jakobnordstrom.se/WHOOPS25/) |
-|                | Anja Petković Komel (remote) | Florian Pollitt                       |                                                        |
-|                | Melanie Tapproge             | Hai Xia                               |                                                        |
-|                |                              |                                       |                                                        |
-| 12:30 -- 14:00 | [lunch](../Food)             | [lunch](../Food)                      | [lunch](../Food)                                       |
-| 14:00 -- 15:30 | Alethe (I)                   | Other proof techniques & Applications |                                                        |
-|                | Mathias Fleury               | Roussanka Loukanova                   |                                                        |
-|                | Ciarán Dunne                 |                                       |                                                        |
-|                |                              |                                       |                                                        |
-| 15:30 -- 16:00 | Break                        | Break                                 | Break                                                  |
-| 16:00 -- 17:00 | Alethe (II)                  | Discussion                            |                                                        |
-|                | Bruno Andreotti              | EPN Goals and what did we achieve?    |                                                        |
-|                | Hanna Lachnitt               |                                       |                                                        |
-|                | Hans-Jörg Schurr             |                                       |                                                        |
-| 17:00 -- 17:30 | Discussion                   | Geoff Sutcliffe (remote)              |                                                        |
-| 17:30 -- 18:30 |                              | Happy hour                            |                                                        |
+| Time           | Thursday                     | Friday                             | Saturday                                               |
+|----------------|------------------------------|------------------------------------|--------------------------------------------------------|
+| 09:00 -- 9:30  | Opening & Presentation       | AR                                 | [VeriPB tutorial](https://jakobnordstrom.se/WHOOPS25/) |
+|                |                              | Julie Cailler                      |                                                        |
+| 09:30 -- 10:30 | Dedukti session (I)          |                                    | [VeriPB tutorial](https://jakobnordstrom.se/WHOOPS25/) |
+|                | Alessio Coltellacci (long)   | Vincent Trélat (long)              |                                                        |
+|                |                              |                                    |                                                        |
+|                |                              |                                    |                                                        |
+| 10:30 -- 11:00 | Break                        | Break                              | [VeriPB tutorial](https://jakobnordstrom.se/WHOOPS25/) |
+| 11:00 -- 12:30 | Dedukti session (II)         | AR                                 | [VeriPB tutorial](https://jakobnordstrom.se/WHOOPS25/) |
+|                | Anja Petković Komel (remote) | Florian Pollitt                    |                                                        |
+|                | Melanie Tapproge             | Hai Xia                            |                                                        |
+|                |                              |                                    |                                                        |
+| 12:30 -- 14:00 | [lunch](../Food)             | [lunch](../Food)                   | [lunch](../Food)                                       |
+| 14:00 -- 15:30 | Alethe (I)                   | AR & Other proof techniques        |                                                        |
+|                | Mathias Fleury               | Maria Paola Bonacina               |                                                        |
+|                | Ciarán Dunne                 | Roussanka Loukanova                |                                                        |
+|                |                              |                                    |                                                        |
+| 15:30 -- 16:00 | Break                        | Break                              | Break                                                  |
+| 16:00 -- 17:00 | Alethe (II)                  | Discussion                         |                                                        |
+|                | Bruno Andreotti              | EPN Goals and what did we achieve? |                                                        |
+|                | Hanna Lachnitt               |                                    |                                                        |
+|                | Hans-Jörg Schurr             |                                    |                                                        |
+| 17:00 -- 17:30 | Discussion                   | Geoff Sutcliffe (remote)           |                                                        |
+| 17:30 -- 18:30 |                              | Happy hour                         |                                                        |
 
 
 **Talks**
@@ -131,6 +131,8 @@ focuses on the practical application of one solution to this
 scheduling problem in the cadical SAT solver.
 
 + Julie Cailler (Loria)
+
++ Maria Paola Bonacina (Università degli Studi di Verona), Nondisjoint CDSAT: arrays, maps, and vectors with abstract domain
 
 
 **Discussion**
