@@ -21,6 +21,7 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 
 - [TPTP](https://www.tptp.org): Thousands of Problems for Theorem Provers
 - [TGTP](http://hilbert.mat.uc.pt/TGTP/index.php): Thousand of Geometric Problems for Geometric Theorem Provers
+- [ADGLib](https://github.com/ADG-Foundation/ADG-Lib): Axiom systems, standard signature and library of problems for Geometric Theorem Provers
 
 **Proof data bases**
 
