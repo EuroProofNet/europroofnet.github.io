@@ -156,6 +156,7 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 - [Verification of mutable linear data structures and iterator-based algorithms in Dafny](https://doi.org/10.1016/j.jlamp.2023.100875), Jorge Blázquez, Manuel Montenegro, Clara Segura, [*JLAMP*](https://www.sciencedirect.com/journal/journal-of-logical-and-algebraic-methods-in-programming)
 - [Verification of the ROS NavFn planner using executable specification languages](https://doi.org/10.1016/j.jlamp.2023.100860), Enrique Martín, Manuel Montenegro, Adrián Riesco, Juan Rodríguez-Hortalá, Rubén Rubio, [*JLAMP*](https://www.sciencedirect.com/journal/journal-of-logical-and-algebraic-methods-in-programming)
 - [VizAR: Visualization of Automated Reasoning Proofs &endash; System Description](https://doi.org/10.1007/978-3-031-42753-4_22), Jan Jakubův, Cezary Kaliszyk, [CICM'23](https://cicm-conference.org/2023/cicm.php)
+- [Automated generation of illustrated proofs in geometry and beyond](https://doi.org/10.1007/s10472-023-09857-y), Predrag Janičić, Julien Narboux, Annals of Mathematics and Artificial Intelligence, [AMAI]
 
 **2022**
 
