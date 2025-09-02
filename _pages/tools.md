@@ -21,6 +21,7 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 
 - [TPTP](https://www.tptp.org): Thousands of Problems for Theorem Provers
 - [TGTP](http://hilbert.mat.uc.pt/TGTP/index.php): Thousand of Geometric Problems for Geometric Theorem Provers
+- [ADGLib](https://github.com/ADG-Foundation/ADG-Lib): Axiom systems, standard signature and library of problems for Geometric Theorem Provers
 
 **Proof data bases**
 
@@ -84,6 +85,7 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 - [E](https://www.eprover.org): High-performance equational theorem prover for first-order logic (and
   increasingly higher-order logic), creating proof objects in TPTP format.
 - [Eldarica](https://github.com/uuverifiers/eldarica): SMT solver for problems in the constrained Horn fragment. Can output models of Horn clauses in SMT-LIB, and proofs of unsatisfiability in several formats.
+- [Goéland](https://github.com/GoelandProver/Goeland): A first-order concurrent tableau-based automated theorem prover with equality and management of theories with DMT that produce proofs in Rocq, LambdaPi, TPTP and Lisa. 
 - [Larus](https://github.com/janicicpredrag/Larus): Larus is a theorem prover for coherent logic that uses SAT/SMT provers to construct proofs. Larus can generate natural language proofs (in LaTeX) and machine checkable proofs (Coq/Isabelle/Mizar).
 - [Leo-III](https://github.com/leoprover/Leo-III): ATP for (polymorphic) higher-order logic, providing proofs in TPTP format.
 - [Princess](https://github.com/uuverifiers/princess): ATP and SMT solver for first-order logic modulo various theories, with support for outputting proofs in different formats.
