@@ -14,7 +14,7 @@ This will be the final meeting of the WG2 and the [International Workshop on Hig
 
 **Organizers** [Mathias Fleury](https://cca.informatik.uni-freiburg.de/fleury/) and [Sophie Tourret](https://members.loria.fr/sophie.tourret/)
 
-**Registration:** fill in this [form](https://forms.gle/QLFzh3Ugv5WgkhZr7) (registration is free but mandatory)
+**Registrations are closed** <!--fill in this [form](https://forms.gle/QLFzh3Ugv5WgkhZr7) (registration is free but mandatory)-->
 
 **Talks** If you want to give a talk, please send an email to [Mathias Fleury](https://cca.informatik.uni-freiburg.de/fleury/)
 

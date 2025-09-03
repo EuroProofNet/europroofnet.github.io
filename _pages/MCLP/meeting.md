@@ -15,7 +15,7 @@ This conference is part of the [EuroProofNet Symposium](../Symposium). See the s
 **Organizers:** [Roussanka Loukanova](https://www.math.bas.bg/logic/loukanovarp/) (rloukanova - gmail) 
 and [Axel Ljungström](https://aljungstrom.github.io/) (axel.ljungstrom at math.su.se)
 
-**Registration:** fill in this [form](https://forms.gle/QLFzh3Ugv5WgkhZr7) (registration is free but mandatory)
+**Registrations are closed** <!--fill in this [form](https://forms.gle/QLFzh3Ugv5WgkhZr7) (registration is free but mandatory)-->
 
 **Talk proposals and updates by authors:** [instructions, procedure](../MCLP_submission)
 

@@ -16,7 +16,7 @@ The objective is to have talks and demos like in the [1st Workshop on the develo
 
 **Organizers:** [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/), [Claudio Sacerdoti](http://www.cs.unibo.it/~sacerdot/), [Patrick Massot](https://www.imo.universite-paris-saclay.fr/~patrick.massot/)
 
-**Registration:** fill in this [form](https://forms.gle/QLFzh3Ugv5WgkhZr7) (registration is free but mandatory)
+**Registrations are closed** <!--fill in this [form](https://forms.gle/QLFzh3Ugv5WgkhZr7) (registration is free but mandatory)-->
 
 <!--
 **Important dates:**
