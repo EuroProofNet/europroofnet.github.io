@@ -68,6 +68,7 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 - [SC-TPTP: An Extension of the TPTP Derivation Format for Sequent-Based Calculus](https://ceur-ws.org/Vol-3717/paper2.pdf), Julie Cailler, Simon Guilloud. PAAR'24
 - [Satisfiability Modulo Theories: A Beginner's Tutorial](https://doi.org/10.1007/978-3-031-71177-0_31), Clark W. Barrett, Cesare Tinelli, Haniel Barbosa, Aina Niemetz, Mathias Preiner, Andrew Reynolds, Yoni Zohar. FM'24
 - [Sets Completely Separated by Functions in Bishop Set Theory](https://doi.org/10.1215/00294527-2024-0010), Iosif Petrakis. *Notre Dame J. Formal Logic*
+- [Second-Order Generalised Algebraic Theories: Signatures and First-Order Semantics](https://doi.org/10.4230/LIPIcs.FSCD.2024.10), Ambrus Kaposi, Szumi Xie, [FSCD'24](https://cs.ioc.ee/fscd24/)
 - [Shared Terms and Cached Rewriting](https://eprover.org/EVENTS/IWIL-2024/IWIL-24-Preproceedings.pdf), Stephan Schulz. IWIL'24
 - [Sharing proofs with predicative theories through universe-polymorphic elaboration](https://doi.org/10.46298/lmcs-20(3:23)2024), Thiago Felicissimo, Frédéric Blanqui, [*LMCS*](https://lmcs.episciences.org)
 - [Specify What? Enhancing Neural Specification Synthesis by Symbolic Methods](https://doi.org/10.1007/978-3-031-76554-4_19), George Granberry, Wolfgang Ahrendt, Moa Johansson, IFM'24
