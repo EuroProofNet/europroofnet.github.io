@@ -10,7 +10,7 @@ This will be the final meeting of the WG2 and the [International Workshop on Hig
 
 **Date:** Thursday 11th to Saturday 13th (WG2), Saturday 13th and Sunday 14th (WHOOPS'25)
 
-**Venue:**  [Institut Pascal](https://www.institut-pascal.universite-paris-saclay.fr/), 530 Rue André Rivière, 91400 Orsay [[access]](../Access) [[hotels]](../Hotels) [[food]](../Food)
+**Venue:**  [Institut Pascal](https://www.institut-pascal.universite-paris-saclay.fr/), 530 Rue André Rivière, 91400 Orsay [[access]](../Access) [[hotels]](../Hotels) [[food]](../Food). Remark that there might be a strike on the day before.
 
 **Organizers** [Mathias Fleury](https://cca.informatik.uni-freiburg.de/fleury/) and [Sophie Tourret](https://members.loria.fr/sophie.tourret/)
 
