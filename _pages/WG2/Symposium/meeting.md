@@ -41,8 +41,8 @@ Please note that you have to organize yourself for lunches (and dinners), but th
 |                |                              |                                    |                                                        |
 | 12:30 -- 14:00 | [lunch](../Food)             | [lunch](../Food)                   | [lunch](../Food)                                       |
 | 14:00 -- 15:30 | Alethe (I)                   | AR & Other proof techniques        |                                                        |
-|                | Mathias Fleury               | Maria Paola Bonacina               |                                                        |
-|                | Ciarán Dunne                 | Roussanka Loukanova                |                                                        |
+|                | Ciarán Dunne                 | Maria Paola Bonacina               |                                                        |
+|                | Mathias Fleury               | Roussanka Loukanova                |                                                        |
 |                |                              |                                    |                                                        |
 | 15:30 -- 16:00 | Break                        | Break                              | Break                                                  |
 | 16:00 -- 17:00 | Alethe (II)                  | Discussion                         |                                                        |
