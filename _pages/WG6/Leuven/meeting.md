@@ -6,21 +6,21 @@ author_profile: true
 breadcrumbs: true
 ---
 
+![Workshop group photo](./leuven-group-photo.jpg)
+
 **Date:** 4-5 April 2024, in co-location with the [HoTT/UF 2024 Workshop](https://hott-uf.github.io/2024/).
 
 **Place:** Leuven, Belgium
 
-**Venue:** Dept. of Computer Science
+**Venue:** Dept. of Computer Science <br/>
+Celestijnenlaan 200A <br/>
+3001 Heverlee (Leuven) <br/>
+**Talks:** Auditorium Erik Duval, 200A.00.225 <br/>
+**Collaborative room:** Seminar room 200A.00.144 <br/>
+**Livestream:** <https://livestream.kuleuven.be/?pin=829052> <br/>
+Note: If it freezes or does not load, reloading can help.
 
-Celestijnenlaan 200A
-
-3001 Heverlee (Leuven)
-
-**Talks:** Auditorium Erik Duval, 200A.00.225
-
-**Collaborative room:** Seminar room 200A.00.144 
-
-**[Local information](https://anuyts.github.io/2024/venue.html)**
+**[Local information](https://anuyts.github.io/2024/venue.html)** - ⚠️⚠️ Please beware of accommodation-related scam emails targetting this specific event. ⚠️⚠️
 
 The aim of this meeting series is to bring together researchers working on the topics of [working group 6 of EuroProofNet](https://europroofnet.github.io/wg6/). The main focus is thus on the syntax and semantics of type theory.
 This includes, but is not limited to the goal of WG6:
@@ -34,27 +34,38 @@ progress. Submissions of open questions and topics to be discussed
 collectively are also welcome: please use the same form and clearly mark your
 entry as a discussion proposal, we will try to organize a few short discussion sessions.
 
+**Schedule and abstracts:** Please see [here](programme)
+
 **Invited speakers**
 
-- [Meven Lennon-Bertrand](https://www.meven.ac/)
-- [Dmitrij Szamozvancev](https://www.cl.cam.ac.uk/~ds709/)
-- [Maaike Zwart](https://maaikezwart.com/)
+- [Liang-Ting Chen](https://l-tchen.github.io/) (Institute of Information Science, Academia Sinica, Taiwan): *From Datatype Genericity to Language Genericity* ([Abstract](programme#ltchen) - [Slides](./slides/ltchen.pdf) - [Video](https://youtu.be/nQ66pqBFLhA))
+- [Meven Lennon-Bertrand](https://www.meven.ac/) (University of Cambrige, UK): *Towards a certified type theoretic kernel* ([Abstract](programme#lennonbertrand) - [Slides](./slides/lennonbertrand.pdf) - [Video](https://youtu.be/dak5fVWAgwc))
+- [Dmitrij Szamozvancev](https://www.cl.cam.ac.uk/~ds709/) (University of Cambrige, UK): *Functorial models of scope-safe syntax* ([Abstract](programme#szamozvancev) - [Slides](./slides/szamozvancev.pdf) - [Video](https://youtu.be/mYcuK-UaqIo))
+- [Maaike Zwart](https://maaikezwart.com/) (IT University of Copenhagen, Denmark): *What monads can and cannot do with a bit of extra time* ([Abstract](programme#zwart) - [Slides](./slides/zwart.pdf) - [Video](https://youtu.be/mNI8ykJfuyw))
 
 **Contributed talks**
-TBD
 
-**Schedule and abstracts:**
-TBD
-
-**Participants:** Please see [here](participants)
+- Vincent R.B. Blazy, Hugo Herbelin & Pierre Letouzey (Université Paris Cité): *Explicit Cumulativity in CC_ω* ([Abstract](programme#blazy-herbelin-letouzey) - [Slides](./slides/blazy.pdf) - [Video](https://youtu.be/YQ-6FRln4Os))
+- Joris Ceulemans, Andreas Nuyts, Dominique Devriese (KU Leuven): *Admissibility of Substitution for Multimode Type Theory* ([Abstract](programme#ceulemans-nuyts-devriese) - [Slides](./slides/ceulemans.pdf) - [Video](https://youtu.be/_TLdMxUk2pE))
+- Joshua Chen, Nicolai Kraus (University of Nottingham): *Constructing inverse diagrams in homotopical type theory* ([Abstract](programme#chen-kraus) - [Slides](./slides/jchen.pdf) - [Video](https://youtu.be/cB9hml8YBj4))
+- Thiago Felicissimo (Inria/LMF/Deducteam): *Generic bidirectional typing for dependent type theories* ([Abstract](programme#felicissimo) - [Slides](./slides/felicissimo.pdf) - [Video](https://youtu.be/1XulDpHuDs8))
+- Jonas Frey (Carnegie Mellon University): *The shape of contexts* ([Abstract](programme#frey) - [Slides](./slides/frey.pdf) - [Video](https://youtu.be/fqyF30n8pj8))
+- Ambroise Lafont, Thomas Lamiaux, Benedikt Ahrens (École Polytechnique, ENS Saclay, Delft University of Technology): *Initial semantics for polymorphic type systems* ([Abstract](programme#lafont-lamiaux-ahrens) - [Slides](./slides/ahrens.pdf))
+- Roussanka Loukanova (Department of Algebra and Logic, Institute of Mathematics and Informatics, Bulgarian Academy of Sciences): *Relations between let-Terms of Lambda-Calculus and where-Terms of Type-Theory of Recursion* ([Abstract](programme#loukanova) - [Slides](./slides/loukanova.pdf) - [Video](https://youtu.be/3Arq90N_Yjw))
+- Jacob Neumann (University of Nottingham): *Towards Modal SOGATs* ([Abstract](programme#neumann) - [Blackboard](./slides/neumann.jpg) - [Video](https://youtu.be/HhOfutONahc))
+- Josselin Poiret (Nantes Université and Inria, Galinette Team): *A multiverse type theory* ([Abstract](programme#poiret) - [Slides](./slides/poiret.pdf) - [Video](https://youtu.be/nw1zMFjmwsI))
+- Stelios Tsampas (Friedrich-Alexander-Universität Erlangen-Nürnberg): *Logical Relations in Higher-Order Mathematical Operational Semantics* ([Abstract](programme#tsampas) - [Slides](./slides/tsampas.pdf) - [Video](https://youtu.be/6i-GPv0Eit4))
+- Théo Winterhalter (Inria Saclay): *Dependent ghosts enjoy reflection for free* ([Abstract](programme#winterhalter) - [Slides](./slides/lennonbertrand.pdf) - [Video](https://youtu.be/zNlq5m3AXr4))
 
 **Deadlines**
 
-- Submission of talk proposals: ~~2 February 2024~~ 9 February 2024 (AoE)
-- Author notification: 16 February 2024
-- Funding requests: 23 February 2024 (AoE)
+- ~~Submission of talk proposals: 2 February 2024 / 9 February 2024 (AoE)~~
+- ~~Author notification: 16 February 2024~~
+- ~~Funding requests: 23 February 2024 (AoE)~~
+  - ~~Please register also as EuroProofNet member (see below) by this deadline.~~
 - Funding notification: 4 March 2024
-- Registration: 8 March 2024 (AoE)
+- Registration: ~~8 March 2024~~ **15 March 2024 (AoE)**
+- Meeting itself: 4-5 April 2024
 
 **Funding:**
 The reimbursement concerns the official dates of the WG6 meeting: Apr 4-5 (so not the co-located event).
@@ -67,13 +78,21 @@ objectives and deliverables of the action; inclusive target countries; age; gend
 team with low resources; balance over the action life time between people, teams,
 countries and working groups.
 
-To apply for funding, simply fill out the 
+To apply for funding, fill out the 
 [funding and registration form](http://lipn.univ-paris13.fr/limesurvey/index.php/736237?lang=en)
 before February 23.
 You can still confirm or cancel your registration after a decision on awarding funding has been made.
 
+Please note that, in order to be eligible for reimbursement, **you ALSO need to register as a EuroProofNet member.**
+Information on how to apply can be found on the [EuroProofNet home page](https://europroofnet.github.io/),
+and the link to register as a EuroProofNet member is <https://e-services.cost.eu/action/CA20111/working-groups/apply>.
+Choose any work groups you like, but in particular WG6.
+
+Current membership can be checked [here](https://www.cost.eu/actions/CA20111/#tabs+Name:Working%20Groups%20and%20Membership) (not alphabetical, despite appearances).
+
 **Submission of proposals:**
-[Submission form](https://lipn.univ-paris13.fr/limesurvey/index.php/752657?lang=en)
+~~[Submission form](https://lipn.univ-paris13.fr/limesurvey/index.php/752657?lang=en)~~
+(Submission is closed.)
 
 **Registration:**
 [Registration form](http://lipn.univ-paris13.fr/limesurvey/index.php/736237?lang=en)

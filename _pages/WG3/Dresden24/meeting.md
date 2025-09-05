@@ -11,10 +11,15 @@ breadcrumbs: true
 **Date:** 27-28 March 2024
 
 **Venue:** TU Dresden, Germany <br>
-Address: Nöthnitzer Str. 46, 01069 Dresden <br>
-Room: [APB E023](https://navigator.tu-dresden.de/raum/542100.2310)
+Address: [Nöthnitzer Str. 46, 01069 Dresden](https://maps.app.goo.gl/m6nAt82gL8DdB8p39) <br>
+Room: [APB E023](https://navigator.tu-dresden.de/etplan/apb/00/raum/542100.2310) on ground floor
 
-**Tentative program:** see [here](https://europroofnet.github.io/wg3-dresden24-program/) 
+**Output**
+
+* Final [Report](./Report_WG3meetingDresden.pdf).
+* Some presentations and video recordings have been addded to the [program page](https://europroofnet.github.io/wg3-dresden24-program/).
+
+**Program:** see [here](https://europroofnet.github.io/wg3-dresden24-program/) 
 
 **Main idea:** Despite significant advances in formal methods, there remains a huge barrier to the adoption of formal methods in the industry. The key idea of this event is to bring together industry designers and formal methods research community to share ideas and experiences on how to improve the tools to reduce the barrier to adoption.
 
@@ -28,13 +33,15 @@ Room: [APB E023](https://navigator.tu-dresden.de/raum/542100.2310)
 **Confirmed speakers:** The event will have talks from young researchers as well as academic and industrial experts, including: 
 
   * **Confidential Computing/Attestation** 
-    * Hannes Tschofenig (Siemens, Austria)
+    * Hannes Tschofenig (University of Applied Sciences Bonn-Rhein-Sieg, Siemens/Germany)
     * Ionut Mihalcea (Arm, UK)
     * Thomas Fossati (Linaro, Switzerland)
     * Arto Niemi (Huawei, Finland)
     * Angelo	Ruocco (IBM Research, Switzerland)
     * Samuel Ortiz (Rivos Inc, France)
     * Ghada Arfaoui (Orange, France)
+    * Tobias Reiher (AdaCore, Germany)
+    * Ian	Oliver	(University of Jyväskylä,	Finland)
     * Andreas	Berg	(gematik GmbH,	Germany)
     * Carsten Weinhold	(Barkhausen Institut,	Germany)
     * Richard	Zak	(Enarx maintainer,	USA)
@@ -42,13 +49,13 @@ Room: [APB E023](https://navigator.tu-dresden.de/raum/542100.2310)
       
   * **Formal methods for security** 
     * Vincent Cheval (University of Oxford, UK)
-    * Lilia Georgieva (Microsoft, UK)
+    * Lilia Georgieva (Microsoft/Heriot-Watt University, UK)
+    * Ilias Cherkaoui (Walton Institute, Ireland)
     * Georgio	Nicolas	(KU Leuven,	Belgium)
     * Jannik	Mähn	(Barkhausen Institut,	Germany)
     * Dorel	Lucanu and Andrei	Mogage	(Alexandru Ioan Cuza University, Romania)
     * Horatiu Cheval	(University of Bucharest,	Romania)
     * Volker	Stolz	(Høgskulen på Vestlandet,	Norway)
-    * Ayşe	Sayin	(Istanbul Technical University,	Turkey)
 
 **Important dates:**
   * Submission of talk proposals: 22 December 2023
@@ -78,7 +85,7 @@ Room: [APB E023](https://navigator.tu-dresden.de/raum/542100.2310)
 
 **Local transportation:**
 * [Taxi](https://www.dresden.de/en/living/09/Taxi.php): For those funded by EuroProofNet, please note that taxis are not reimbursed.
-* [Trams and buses](https://www.dvb.de/en/Homepage/): The nearest stops to the venue are:
+* [Trams and buses](https://www.dvb.de/en-GB/): The nearest stops to the venue are:
   * "Helmholtzstraße" for Bus 85 and
   * "Münchner Platz" for tram 3.
 

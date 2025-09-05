@@ -20,17 +20,19 @@ breadcrumbs: true
 
     * [X] daily allowance: 120 euros
 
-- [ ] The chair sets up the event on https://e-services.cost.eu/, but not the LOS yet (this will be done later).
+- [X] The chair sets up the event on https://e-services.cost.eu/, but not the LOS yet (this will be done later).
 
-- [ ] The chair asks the organizer details about the LOS. By the way, the chair asks the organizer to carefully read the rules concerning LOS in the COST annotated rules (see https://www.cost.eu/Annotated_Rules_for_COST_Actions_C page 92). Note in particular that VAT is not reimbursed.
+- [X] The chair asks the organizer details about the LOS. By the way, the chair asks the organizer to carefully read the rules concerning LOS in the COST annotated rules (see https://www.cost.eu/Annotated_Rules_for_COST_Actions_C page 92). Note in particular that VAT is not reimbursed.
 
-- [ ] The organizer sends to the chair and the Grant Holder the details of the LOS.
+- [X] The organizer sends to the chair and the Grant Holder the details of the LOS.
 
-- [ ] The Grant Holder checks the eligibility of the LOS and sends the result to the organizer and the chair.
+    * no LOS
+    
+- [X] The Grant Holder checks the eligibility of the LOS and sends the result to the organizer and the chair.
 
-- [ ] The chair and the organizer fix the deadline for reimbursement applications at least 1 month before the meeting, and the date of an online core group meeting within 1 week after the deadline, to decide which participants will be reimbursed, if this cannot be decided by email.
+- [X] The chair and the organizer fix the deadline for reimbursement applications at least 1 month before the meeting, and the date of an online core group meeting within 1 week after the deadline, to decide which participants will be reimbursed, if this cannot be decided by email.
 
-    * deadline:
+    * deadline: May 26
 
 - [ ] The organizer adds a web page for the meeting on https://europroofnet.github.io/, possibly with the help of the science communication coordinators, with the following information: date, times, place, program, possible hotels, indication on how to get there, participation application procedure, reimbursement application procedure, link to [reimbursement rules](../reimbursement-rules), daily allowance, deadlines.
 
@@ -38,9 +40,9 @@ breadcrumbs: true
 
 - [ ] The organizer collects data and files from participants willing to be reimbursed (name, email, country, address, gender, age, dates of arrival and departure, quote for transport, university certificates for master students). To this end, we strongly suggest the organizer to use forms like https://docs.google.com/forms/d/1WgAdt6_BkJiT9u6lSqIQ5p_7955CHFEjbxG2Ucj5gRg or https://docs.google.com/forms/d/12YxrDK-dupOFj5R5CdINvlc6xzW6C5DpEr58JoVmBIg .
 
-- [ ] The Grant Holder contacts the organizer to collect the additional data it needs for the LOS.
+- [X] The Grant Holder contacts the organizer to collect the additional data it needs for the LOS.
 
-- [ ] The organizer provides the Grant Holder with the additional data it needs for the LOS.
+- [X] The organizer provides the Grant Holder with the additional data it needs for the LOS.
 
 ### at least 1 month before the meeting:
 

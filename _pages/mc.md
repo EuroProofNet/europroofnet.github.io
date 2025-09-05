@@ -3,6 +3,22 @@ permalink: /mc-meetings/
 title: "Management Committee Meetings"
 ---
 
+**Meeting 5: 19 September 2025 at 14:00 (Paris time)**
+
+In this last meeting, we will present a summary of the achievements of the action and of each working group.
+
+**Meeting 4: 11 October 2024**
+
+- [minutes](MC/meeting4/minutes.md)
+- [summary of activities on Nov 23 - Oct 24](MC/meeting4/summary.pdf)
+- [summary of STSMs and ITCGs](MC/meeting4/grants.pdf)
+- [summary of WG1](MC/meeting4/wg1.md)
+- [summary of WG2](MC/meeting4/wg2.pdf)
+- [summary of WG3](MC/meeting4/wg3.pdf)
+- [summary of WG4](MC/meeting4/wg4.pdf)
+- [summary of WG5](MC/meeting4/wg5.pdf)
+- [program of Nov 24 - Oct 25](MC/meeting4/plan.pdf)
+
 **Meeting 3: 9 October 2023**
 
 - [minutes](MC/meeting3/minutes.pdf)
@@ -14,7 +30,6 @@ title: "Management Committee Meetings"
 - [summary of WG5](MC/meeting3/wg5.pdf)
 - [summary of WG6](MC/meeting3/wg6.pdf)
 - [program of Nov 23 - Oct 24](MC/meeting3/plan.pdf)
-<!-- [work and budget plan for Nov 22 - Oct 23](MC/meeting2/WBP-AGA-CA20111-3_16455.pdf)-->
 
 **Meeting 2: 24 October 2022**
 

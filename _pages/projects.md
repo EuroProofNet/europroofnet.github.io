@@ -7,22 +7,25 @@ author_profile: true
 
 To contribute to the web site, please open an [issue](https://github.com/EuroProofNet/europroofnet.github.io/issues), create a [pull request](https://github.com/EuroProofNet/europroofnet.github.io) or send a mail to the [science communication coordinators](../contact).
 
+- 2024-2029: [CertiFOX](https://www.bartbogaerts.eu/projects/certifox), Certified First-Order Model Expansion
+
 - 2024-2027: [APPAM](https://appam.icube.unistra.fr/): proof assistants for learning mathematics
 
 - 2022-2026: ForCUTT, Formalisation of Constructive Univalent Type Theory (ERC Advanced Grant to [Thierry Coquand](http://www.cse.chalmers.se/~coquand/))
 
-- 2021- : [Hoskinson Center for Formal Mathematics](https://www.cmu.edu/hoskinson/) [[news]](https://www.cmu.edu/news/stories/archives/2021/september/hoskinson-center-for-formal-mathematics.html)
+- 2022-2025: [ICSPA](https://www.clearsy.com/recherche-et-developpement/icspa/), Interoperable and Confident Set-based Proof Assistants
 
-- 2021- : [LISA](https://github.com/epfl-lara/lisa): Proof assistant based on set theory (SNF Grant 2021-2024)
+- 2021- : [Hoskinson Center for Formal Mathematics](https://www.cmu.edu/hoskinson/) [[news]](https://www.cmu.edu/news/stories/archives/2021/september/hoskinson-center-for-formal-mathematics.html)
 
 - 2021-2026: [Type Theory for Mathematics and Computer Science](https://kaw.wallenberg.org/en/research/software-checks-proof)
 
-- 2022-2025: [ICSPA](https://www.clearsy.com/recherche-et-developpement/icspa/), Interoperable and Confident Set-based Proof Assistants
+- 2020-2025: [TydiForm](https://tydiform.fmf.uni-lj.si/): Type Theory for Data-Intensive Formalization
+
+- 2021-2024: [LISA](https://github.com/epfl-lara/lisa): Proof assistant based on set theory
 
 - 2017-2022: [Alexandria](https://www.cl.cam.ac.uk/~lp15/Grants/Alexandria/), Large-Scale Formal Proof for the Working Mathematician
 
-- 2017-2022: [SMART](https://project-smart.uibk.ac.at/), Strong
-Modular Proof Assistance Reasoning Across Theories
+- 2017-2022: [SMART](https://project-smart.uibk.ac.at/), Strong Modular Proof Assistance Reasoning Across Theories
 
 Smaller projects
 ----------------

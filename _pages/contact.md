@@ -29,12 +29,12 @@ the [Grant Holder](mailto:saf-saclay-recettes@inria.fr).
 - Vice chair: [Sandra Alves](https://www.dcc.fc.up.pt/~sandra/)
 
 - Science communication
-  * coordinator: [Natasa Stojkovik](natasa.stojkovik@ugd.edu.mk)
+  * coordinator: Natasa Stojkovik
   * vice coordinator: [Dmitriy Traytel](https://traytel.bitbucket.io/)
 
 - Grant awarding
-  * coordinator: [Simona Prokić](http://imft.ftn.uns.ac.rs/simona/)
-  * vice coordinator: [Ambrus Kaposi](https://akaposi.github.io/)
+  * coordinator: [Ambrus Kaposi](https://akaposi.github.io/)
+  * vice coordinator: [Simona Prokić](http://imft.ftn.uns.ac.rs/simona/)
 
 - Training
   * coordinator: [Luigia Petre](http://users.abo.fi/lpetre/)
@@ -47,28 +47,27 @@ the [Grant Holder](mailto:saf-saclay-recettes@inria.fr).
   * vice leader: [Catherine Dubois](http://web4.ensiie.fr/~catherine.dubois/)
 
 - [WG2 on automated theorem provers](/wg2)
-  * leader: [Alexander Steen](https://www.alexandersteen.de/)
-  * vice leader: [Mathias Fleury](https://cca.informatik.uni-freiburg.de/fleury/)
+  * leader: [Mathias Fleury](https://cca.informatik.uni-freiburg.de/fleury/)
+  * vice leader: [Sophie Tourret](https://www.mpi-inf.mpg.de/departments/automation-of-logic/people/sophie-tourret)
   
 - [WG3 on program verification](/wg3)
   * leader: [Alicia Villanueva](http://personales.upv.es/alvilga1/)
-  * vice leader: [Mădălina Eraşcu](https://merascu.github.io/)
+  * vice leader: [Adrián Riesco](https://maude.ucm.es/~adrian/)
 
 - [WG4 on libraries](/wg4)
-  * leader: [Angeliki Koutsoukou-Argyraki](https://www.cl.cam.ac.uk/~ak2110/)
-  * vice leader: [Claudio Sacerdoti Coen](http://www.cs.unibo.it/~sacerdot/)
+  * leader: [Claudio Sacerdoti Coen](http://www.cs.unibo.it/~sacerdot/)
 
 - [WG5 on machine learning](/wg5)
   * leader: [David Cerna](https://www.cs.cas.cz/dcerna/)
   * vice leader: [Adrian de Lon](https://adelon.net)
 
 - [WG6 on type theory](/wg6)
-  * leader: [Benedikt Ahrens](https://benediktahrens.gitlab.io/)
-  * vice leader: [Roussanka Loukanova](https://staff.math.su.se/rloukanova/)
+  * leader: [Roussanka Loukanova](https://staff.math.su.se/rloukanova/)
+  * vice-leader: [Benedikt Ahrens](https://benediktahrens.gitlab.io/)
 
 **Management Committee/Country representatives**
 
-Each COST (cooperating) member country can have one or two representatives. There are currently 34/42 countries represented in EuroProofNet. We are looking for representatives for Armenia, Bosnia and Herzegovina, Cyprus, Latvia, Malta, the Republic of Moldova, Montenegro, Ukraine. If you are interested, please contact the chair.
+Each COST (cooperating) member country can have one or two representatives. There are currently 36/42 countries represented in EuroProofNet. We are looking for representatives for Armenia, Cyprus, Latvia, Malta, the Republic of Moldova, Montenegro. If you are interested, please contact the chair.
 
 - Albania: Elda Xhumari
 - Austria: [Laura Kovács](http://lkovacs.com/) and [Cezary Kaliszyk](http://cl-informatik.uibk.ac.at/cek/)

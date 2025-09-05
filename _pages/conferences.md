@@ -7,17 +7,67 @@ author_profile: true
 
 To contribute to the web site, please open an [issue](https://github.com/EuroProofNet/europroofnet.github.io/issues), create a [pull request](https://github.com/EuroProofNet/europroofnet.github.io) or send a mail to the [science communication coordinators](../contact).
 
+**2026**
+
+- 13-29 July 2026: [Federated Logic Conference](https://www.floc26.org/) (FLOC'26), Lisbon, Portugal
+
+- 22 June - 3 July 2026: [Formal Mathematics and Proof Systems Interoperability](https://europroofnet.github.io/FMPSI26/) (FMPSI), Orsay, France
+
+- 11-16 Avril 2026: [International Joint Conferences On Theory and Practice of Software ](https://etaps.org/2026/) (ETAPS'26), Torino, Italy
+
+- 11-17 January 2026: [53rd ACM SIGPLAN Symposium on Principles of Programming Languages](https://popl26.sigplan.org/) (POPL'26), Rennes, France
+
+**2025**
+
+- 25-28 November 2025: [22nd International Colloquium on Theoretical Aspects of Computing](https://ictac2025.digital-hub.sh/) (ICTAC'25), Marrakech, Marocco
+
+- 6-11 October 2025: [18th Conference on Intelligent Computer Mathematics](https://cicm-conference.org/2025/) (CICM'25), Brasília, Brazil
+
+- 27 September - 3 October 2025: [FroCoS/ITP/TABLEAUX'25](https://icetcs.github.io/frocos-itp-tableaux25/), Reykjavik, Iceland
+
+- 8-19 September 2025: [EuroProofNet Symposium](../symposium), Institut Pascal, Orsay, France
+
+- 31 August - 5 September: [10th Conference on Artificial Intelligence and Theorem Proving](https://aitp-conference.org/2025/) (AITP'25), Aussois, France
+
+- 28 July - 2 August 2025: [30th international Conference on Automated Deduction](https://www.dhbw-stuttgart.de/cade-30/) (CADE'25), Stuttgart, Germany
+
+- 14-20 July 2025: [10th International Conference on Formal Structures for Computation and Deduction](https://fscd2025.github.io/) (FSCD'25), Birmingham, UK
+
+- 23-26 June 2025: [40th Annual ACM/IEEE Symposium on Logic in Computer Science](https://lics.siglog.org/lics25/) (LICS'25), Singapore
+
+- 9-13 June 2025: [31st International Conference on Types for Proofs and Programs](https://msp.cis.strath.ac.uk/types2025/) (TYPES'25), University of Strathclyde, Glasgow, UK
+
+- 3-8 May 2025: [28th International Joint Conferences On Theory and Practice of Software](https://etaps.org/2025) (ETAPS'25), Hamilton, Canada
+
+- 28-31 January 2025: [36e Journées Francophones des Langages Applicatifs](http://jfla.inria.fr/jfla2025.html) (JFLA'24), Roiffé, France
+
+- 20-21 January 2025: [Certified Programs and Proofs](https://popl25.sigplan.org/home/CPP-2025) (CPP'25), Denver, USA
+
+- 19-25 January 2025: [52nd ACM SIGPLAN Symposium on Principles of Programming Languages](https://popl25.sigplan.org/) (POPL'25), Denver, USA
+
+**2024**
+
 - 25-29 November 2024: [21st International Colloquium on Theoretical Aspects of Computing](https://ictac2024.cs.ait.ac.th/) (ICTAC'24), Bangkok, Thailand
 
-- 9-14 September 2024: [15th conference on Interactive Theorem Proving](https://itp-conference.github.io/) (ITP'24), Tbilisi, Georgia
+- 18-20 September 2024: [19th Logical and Semantic Frameworks with Applications](https://sites.google.com/ufg.br/lsfa2024) (LSFA'24), Goiânia, Brazil
 
-- 5-9 August 2024: [17th Conference on Intelligent Computer Mathematics](https://cicm-conference.org/2024/) (CICM'24), Montréal, Canda
+- 9-14 September 2024: [15th conference on Interactive Theorem Proving](https://www.viam.science.tsu.ge/itp2024/) (ITP'24), Tbilisi, Georgia
 
-- 29 July - 2 August 2024: [Workshop on Libraries of Digital Math](https://www.him.uni-bonn.de/programs/future-programs/future-trimester-programs/prospects-of-formal-mathematics/libraries-of-digital-math/), Bonn, Germany
+- 3-11 September 2024: [Toposes in Mondovì](https://ctta.igrothendieck.org/), Mondovi, Italy
+
+- 2-7 September 2024: [ 29th ACM SIGPLAN International Conference on Functional Programming](https://icfp24.sigplan.org/) (ICFP'24), Milan, Italy
+
+- 1-6 September 2024: [Artificial Intelligence and Theorem Proving](http://aitp-conference.org/2024) (AITP'24), Aussois, France
+
+- 9 August 2024: [1st Workshop on Women in Formal Methods](https://cicm-conference.org/2024/cicm.php?event=wifm&menu=general) (WiFM'24), Montréal, Canada
+
+- 5-9 August 2024: [17th Conference on Intelligent Computer Mathematics](https://cicm-conference.org/2024/) (CICM'24), Montréal, Canada
+
+- 29 July - 2 August 2024: [Workshop on Libraries of Digital Math](https://www.mathematics.uni-bonn.de/him/programs/past/him-trimester-program-prospects-of-formal-mathematics), Bonn, Germany
 
 - 10-13 July 2024: [9th International Conference on Formal Structures for Computation and Deduction](https://cs.ioc.ee/fscd24/) (FSCD'24), Tallinn, Estonia
 
-- 8-12 July 2024: [Workshop on Bridging between informal and formal mathematics](https://www.him.uni-bonn.de/programs/future-programs/future-trimester-programs/prospects-of-formal-mathematics/workshop-bridging-between-informal-and-formal-july-8-12-2024/), Bonn, Germany
+- 8-12 July 2024: [Workshop on Bridging between informal and formal mathematics](https://www.mathematics.uni-bonn.de/him/programs/past/him-trimester-program-prospects-of-formal-mathematics), Bonn, Germany
 
 - 8-12 July 2024: [39th Annual ACM/IEEE Symposium on Logic in Computer Science](https://lics.siglog.org/lics24/) (LICS'24), Tallinn, Estonia
 
@@ -27,15 +77,19 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 
 - 24-28 June 2024: [Logic Colloquium](https://lc2024.se/), Göteborg, Sweden
 
-- 17-21 June 2024: [Workshop on Formalization of Mathematics](https://www.him.uni-bonn.de/programs/future-programs/future-trimester-programs/prospects-of-formal-mathematics/formalization-of-mathematics/), Bonn, Germany
+- 17-21 June 2024: [Workshop on Formalization of Mathematics](https://www.mathematics.uni-bonn.de/him/programs/past/him-trimester-program-prospects-of-formal-mathematics), Bonn, Germany
 
-- 10-14 June 2024: International Conference on Types for Proofs and Programs, Copenhagen, Denmark
+- 10-14 June 2024: [International Conference on Types for Proofs and Programs](https://types2024.itu.dk/Index.html) (TYPES'24), Copenhagen, Denmark
 
-- 10-13 June 2024: [30th Workshop on Logic, Language, Information and Computation](https://wollic2024.inf.unibe.ch/), Bern, Switzerland
+- 10-13 June 2024: [30th Workshop on Logic, Language, Information and Computation](https://wollic2024.inf.unibe.ch/) (WOLLIC'24), Bern, Switzerland
 
 - 26-31 May 2024: [25th Conference on Logic for Programming, Artificial Intelligence and Reasoning](http://www.lpar-25.info) (LPAR'24), Mauritius
 
-- 6 May - 16 August 2024: [Trimester on Prospects of formal mathematics](https://www.him.uni-bonn.de/programs/future-programs/future-trimester-programs/prospects-of-formal-mathematics/description/), Hausdorff research institute for mathematics, Bonn, Germany
+- 20-24 May 2024: [1st International Workshop on Highlights in Organizing and Optimizing Proof-logging Systems](https://jakobnordstrom.se/WHOOPS24/) (WHOOPS'24), Copenhagen, Denmark
+
+- 6 May - 16 August 2024: [Trimester on Prospects of formal mathematics](https://www.mathematics.uni-bonn.de/him/programs/past/him-trimester-program-prospects-of-formal-mathematics), Hausdorff research institute for mathematics, Bonn, Germany
+
+- 22-23 April 2024: [Workshop on Theory and Applications of Craig Interpolation and Beth Definability](https://cibd.bitbucket.io), Amsterdam, Netherlands
 
 - 6-11 April 2024: [European joint conferences on theory and practice of software](https://etaps.org/) (ETAPS'24), Luxembourg
 
@@ -44,6 +98,10 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 - 17-19 January 2024: [51st ACM SIGPLAN Symposium on Principles of Programming Languages](https://popl24.sigplan.org/) (POPL'24), London, UK
 
 - 15-16 January 2024: [26th International Symposium on Practical Aspects of Declarative Languages](https://popl24.sigplan.org/home/PADL-2024) (PADL'24), London, United Kingdom
+
+- 15-16 January 2024: [Certified Programs and Proofs](https://popl24.sigplan.org/home/CPP-2024) (CPP'24), London, UK
+
+**2023**
 
 - 21-22 September 2023: [7th Working Formal Methods Symposium](https://from2023.cs.unibuc.ro/) (FROM'23), Bucharest, Romania
 
@@ -86,6 +144,8 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 - 16-17 January 2023: [24th International Conference on Verification, Model Checking, and Abstract Interpretation](https://popl23.sigplan.org/home/VMCAI-2023) (VMCAI'23), Boston, USA
 
 - 15-21 January 2023: [50th ACM SIGPLAN Symposium on Principles of Programming Languages](https://popl23.sigplan.org/) (POPL'23), Boston, USA
+
+**2022**
 
 - 11-12 November 2022: [Autumn Workshop Proof Theory](https://uswpt.sites.uu.nl/), Utrecht, Netherlands
 

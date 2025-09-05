@@ -10,11 +10,11 @@ breadcrumbs: true
 
 - [X] The chair asks the organizer the exact address, the starting and ending dates and times of the meeting, and the daily allowance. The daily allowance should cover the cost of an hotel night + the meals + local transport if hotels are far from the meeting place. It has to be fixed at the right level so that people get reimbursed of what they need to spend but not too much so that we can invite more people. Note that the daily allowance cannot be changed once invitations have been sent.
 
-- [ ] The organizer gives to the chair the exact address, and the starting and ending dates and times:
+- [X] The organizer gives to the chair the exact address, and the starting and ending dates and times:
 
     * [X] complete address: Hôtel Restaurant Campanile Nice Aéroport, Nice, France 
-    * [ ] starting date and time: 28 May, 9:00?
-    * [ ] ending date and time: 30 May, 17:00? 
+    * [x] starting date and time: 28 May, 9:00
+    * [x] ending date and time: 30 May, 17:00 
 
 - [X] The organizer checks the prices of accommodations and restaurants around the place of the meeting at the dates of the meeting, and sends to the chair a proposal for the daily allowance.
 
@@ -30,41 +30,41 @@ breadcrumbs: true
 
 - [X] The Grant Holder checks the eligibility of the LOS and sends the result to the organizer and the chair.
 
-- [ ] The chair and the organizer fix the deadline for reimbursement applications at least 1 month before the meeting, and the date of an online core group meeting within 1 week after the deadline, to decide which participants will be reimbursed, if this cannot be decided by email.
+- [X] The chair and the organizer fix the deadline for reimbursement applications at least 1 month before the meeting, and the date of an online core group meeting within 1 week after the deadline, to decide which participants will be reimbursed, if this cannot be decided by email.
 
-    * deadline:
+    * deadline: 29 February
 
-- [ ] The organizer adds a web page for the meeting on https://europroofnet.github.io/, possibly with the help of the science communication coordinators, with the following information: date, times, place, program, possible hotels, indication on how to get there, participation application procedure, reimbursement application procedure, link to [reimbursement rules](../reimbursement-rules), daily allowance, deadlines.
+- [X] The organizer adds a web page for the meeting on https://europroofnet.github.io/, possibly with the help of the science communication coordinators, with the following information: date, times, place, program, possible hotels, indication on how to get there, participation application procedure, reimbursement application procedure, link to [reimbursement rules](../reimbursement-rules), daily allowance, deadlines.
 
 - [ ] The chair sends the call for participation and reimbursement applications to all action members, at least 1 month before the deadline.
 
-- [ ] The organizer collects data and files from participants willing to be reimbursed (name, email, country, address, gender, age, dates of arrival and departure, quote for transport, university certificates for master students). To this end, we strongly suggest the organizer to use forms like https://docs.google.com/forms/d/1WgAdt6_BkJiT9u6lSqIQ5p_7955CHFEjbxG2Ucj5gRg or https://docs.google.com/forms/d/12YxrDK-dupOFj5R5CdINvlc6xzW6C5DpEr58JoVmBIg .
+- [X] The organizer collects data and files from participants willing to be reimbursed (name, email, country, address, gender, age, dates of arrival and departure, quote for transport, university certificates for master students). To this end, we strongly suggest the organizer to use forms like https://docs.google.com/forms/d/1WgAdt6_BkJiT9u6lSqIQ5p_7955CHFEjbxG2Ucj5gRg or https://docs.google.com/forms/d/12YxrDK-dupOFj5R5CdINvlc6xzW6C5DpEr58JoVmBIg .
 
-- [ ] The Grant Holder contacts the organizer to collect the additional data it needs for the LOS.
+- [X] The Grant Holder contacts the organizer to collect the additional data it needs for the LOS.
 
 - [ ] The organizer provides the Grant Holder with the additional data it needs for the LOS.
 
 ### at least 1 month before the meeting:
 
-- [ ] The organizer and the chair check the eligibility of the applicants.
+- [X] The organizer and the chair check the eligibility of the applicants.
 
-- [ ] Core group meeting to select the participants who will be reimbursed.
+- [X] Core group meeting to select the participants who will be reimbursed.
 
-- [ ] The organizer informs the applicants of the result.
+- [x] The organizer informs the applicants of the result.
 
-- [ ] The chair invites on https://e-services.cost.eu/ the participants who have been selected.
+- [X] The chair invites on https://e-services.cost.eu/ the participants who have been selected.
 
-- [ ] Participants have 2 weeks maximum to accept their invitation on https://e-services.cost.eu/. After this delay, the invitation is cancelled.
+- [X] Participants have 2 weeks maximum to accept their invitation on https://e-services.cost.eu/. After this delay, the invitation is cancelled.
 
-- [ ] The chair sends to the Grant Holder the list of selected participants.
+- [X] The chair sends to the Grant Holder the list of selected participants.
 
-- [ ] The Grant Holder contacts the selected participants to collect the data it needs.
+- [x] The Grant Holder contacts the selected participants to collect the data it needs.
 
 - [ ] The selected participants provide the Grant Holder with the data it needs.
 
 ### at least 1 day before the meeting:
 
-- [ ] The chair sends to the organizer the attendance sheets generated by https://e-services.cost.eu/ for every day of the meeting.
+- [x] The chair sends to the organizer the attendance sheets generated by https://e-services.cost.eu/ for every day of the meeting.
 
 - [ ] The organizer prints the attendance sheets sent by the chair.
 

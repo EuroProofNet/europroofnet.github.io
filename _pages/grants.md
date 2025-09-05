@@ -10,26 +10,30 @@ EuroProofNet can provide two kinds of grants:
 - Short-Term Scientific Mission (STSM) -- see [past STSMs](../accepted_stsms)
 
 - Inclusiveness Target Country Conference Grants (ITCG) -- see [past ITCGs](../accepted_itcgs)
-  
+
 **Upcoming deadlines**
 
-- 7 January 2024: for STSMs and ITCGs between February and August 2024. We especially welcome proposals from the working groups 4 and 3, and from [inclusive-target countries](../eligibility) and [women](../gender-balance).
+- 16 March 2025: submission deadline for STSM proposals between beginning of April and end of August 2025
+
+- 4 May 2025: submission deadline for ITCG proposals between end of May and end of August 2025
 
 **Application web sites**
 
-[Excel sheet to compute your grant estimation](stsm.xlsx)
+[Excel sheet to compute your grant estimation](grant.xlsx)
 
-- [STSM](https://e-services.cost.eu/activity/grants/add?type=STSM)
-- [ITCG](https://e-services.cost.eu/activity/grants/add?type=ITCG)
+- STSM [[template]](STSM-application-template.docx)
+  [[website]](https://e-services.cost.eu/activity/grants/add?type=STSM)
+- ITCG [[template]](ITCG-application-template.docx)
+  [[website]](https://e-services.cost.eu/activity/grants/add?type=ITCG)
 
 **What is an ITCG?**
 
-ITC Conference Grants are given to young (<= 40 years old at the time
-of the conference) researchers affiliated in an [Inclusiveness Target
-Country or Near Neighbour Country](../eligibility) to present a work
-related to EuroProofNet in a high-level conference fully organized by
-a third party, i.e. not organized nor co-organized by
-EuroProofNet. Reimbursement rules are the same as for STSMs.
+ITC Conference Grants are given researchers affiliated in an
+[Inclusiveness Target Country or Near Neighbour
+Country](../eligibility) to present a work related to EuroProofNet in
+a high-level conference fully organized by a third party, i.e. not
+organized nor co-organized by EuroProofNet. Reimbursement rules are
+the same as for STSMs.
 
 **What is an STSM?**
 
@@ -49,39 +53,34 @@ The main points about STSMs are:
 
 Check the [eligibility rules](../eligibility) to know whether you can get an STSM.
 
-**Reimbursement rules**
+**Reimbursement rules for STSMs**
 
-The beneficiary of an STSM will be reimbursed only of his/her travel
-expenses plus a [daily allowance](../stsm-daily-allowance) depending
-on the host country for each day of his/her stay, if the conditions
-described [here](../reimbursement-rules) are satisfied. Therefore, the
-amount awarded to a beneficiary of an STSM is only indicative and the
-final amount will be based on reimbursement rules and receipts
-available.
+Beneficiaries of an STSM must pay their travel by themselves. They receive the grant after their STSM if they provide **within 2 weeks after the end of their STSM** a report following this [template](/_pages/STSM-report-template.docx), **signed by their host** and approved by the core group. The amount of the grant is fixed before the STSM, based on an estimation of their travel expenses. Note that, since this is a grant and not a reimbursement, it may not cover all the final expenses. On the other hand, STSM beneficiaries do not have to provide tickets or bills.
 
-See [reimbursement rules](../reimbursement-rules) for more details.
+**Reimbursement rules for ITCGs**
+
+Beneficiaries of an ITCG are reimbursed of their travel expenses and registration fees, plus a [daily allowance](../itcg-daily-allowance) depending on the host country for each day of his/her stay, in the limit of 2000 euros, if after their ITCG they provide **within 2 weeks after the end of their ITCG** a report following this [template](ITCG-report-template.docx), approved by the core group. See [reimbursement rules](../reimbursement-rules) for more details. Note that the amount initially awarded to a beneficiary of an ITCG is only indicative and the final amount will be based on the provided receipts. Candidate can use this Excel [sheet](grant.xlsx) to estimate the amount of your grant.
 
 **Documents to provide for STSMs**
 
 Proposals must be made through the [e-COST system](https://e-services.cost.eu/activity/grants/add?type=STSM) (you need to add a bank account on your profile first). The following documents must be uploaded:
 
-- The application form provided by e-COST which requires:
-  - Details of the STSM (title and dates)
+- The application [template](STSM-application-template.docx) which requires:
+  - Details of the STSM (title, dates and cost)
   - Goals of the STSM (max 200 words)
   - Working plan (max 500 words)
   - Expected outputs and contribution to the Action MoU [objectives and deliverables](../description) (max 500 words). Clearly indicate the main WG it contributes to.
-- A letter from the host confirming that he or she will receive the applicant.
+- A letter from the host confirming that he or she will receive the applicant at the desired dates.
 - A quote for the travel in euros (screen capture).
+- A quote for the hotel in euros (screen capture).
 
-Be careful to check flight/train tickets that you
-can modify or cancel for free or at little cost (possibly by taking
-some insurance).
+Be careful to check flight/train tickets that you can modify or cancel for free or at little cost (possibly by taking some insurance).
 
 **Documents to provide for ITCGs**
 
 Proposals must be made through the [e-COST system](https://e-services.cost.eu/activity/grants/add?type=ITCG) (you need to add a bank account on your profile first). The following documents must be uploaded:
 
-- The application form provided by e-COST which requires:
+- The application [template](ITCG-application-template.docx) which requires:
   - Details of the conference (title and dates)
   - Details of the presentation (title, abstract)
   - Relevance wrt EuroProofNet [objectives](../description) (max 500 words)
@@ -106,20 +105,12 @@ The criteria according to which funding will be decided are in order:
 
 **Preparing your mission**
 
-If your STSM proposal is accepted, you are responsible to buy the
+If your STSM or ITCG proposal is accepted, you are responsible to buy the
 necessary flight/train tickets and accommodation by yourself, at your
 own name and address, as soon as possible to get the best price. Be
 careful to take flight/train tickets and accommodations that you can
 modify or cancel for free or at little cost (possibly by taking some
 insurance).
-
-The final price of your ticket should not be significantly bigger
-(>10%) than the one given in your proposal. In case of significant
-increase, you should ask confirmation from the
-[chair](https://blanqui.gitlabpages.inria.fr/) beforehand. Finally,
-you should communicate the final cost of your flight or train ticket
-to the [chair](https://blanqui.gitlabpages.inria.fr/) as soon as
-possible.
 
 **Advance on mission costs**
 
@@ -127,24 +118,16 @@ This facility is not available at the moment.
 
 **During your mission**
 
-Keep your tickets and accommodation bills, as well as the receipts of
-every meal (lunch and diner).
-
-**Reimbursement rules**
-
-To be reimbursed, a short scientific report signed by the host must be
-submitted through the e-cost system along with the travel tickets and
-meal receipts, **within 2 weeks after the end of the STSM.** See the
-[reimbursement rules](../reimbursement-rules) for more details.
+In case of an ITCG, keep your tickets and bills for your transports and hotels. They are mandatory to be reimbursed.
 
 **Date changes and cancelation**
 
 In case you need to change the dates of an accepted STSM, you have to
 inform the STSM coordinators as soon as possible and provide new dates
-so that the STSM ends by the end of September.
+so that the STSM ends before the end of September.
 
 In case you need to cancel an accepted STSM or ITCG, you need to inform the
-STSM coordinators as soon as possible.
+chair and the STSM coordinators as soon as possible.
 
 **Acknowledgements in publications**
 
@@ -158,7 +141,7 @@ Technology, www.cost.eu)".
 
 For any question, please contact the two coordinators for STSMs: [Simona Prokić](http://imft.ftn.uns.ac.rs/simona/) (University of Belgrade, Serbia) **AND** [Ambrus Kaposi](http://akaposi.web.elte.hu) (Eötvös Loránd University, Hungary). Please, contact them both in case one is not available.
 
-If you have questions concerning reimbursements, please contact
+If you have questions concerning grants and reimbursements, please contact
 the [Grant Holder](mailto:saf-saclay-recettes@inria.fr).
 
 **Attributed grants**

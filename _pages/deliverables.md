@@ -27,7 +27,7 @@ author_profile: true
     
 **March 2024:**
 
-- D8. Detailed technical report on the evaluation of techniques for learning proof search guidance and premise selection in automated theorem provers.
+- D8. Detailed technical report on the evaluation of techniques for learning proof search guidance and premise selection in automated theorem provers. [[link]](https://arxiv.org/abs/2403.04017)
 
 **January 2025:**
 
@@ -37,11 +37,11 @@ author_profile: true
 
 - D10. Release of software for translating proofs coming from important proof systems based on set theory like Mizar, Atelier B or TLAPS to Dedukti and back. [[link]](../deliverable10)
     
-- D11. Collection of verification challenges with summary of working recipes for verifying them.
+- D11. Collection of verification challenges with summary of working recipes for verifying them. [[link]](../deliverable11)
 
-- D12. Technique for syntax-semantics interface for program verification with or without type systems.
+- D12. Technique for syntax-semantics interface for program verification with or without type systems. [[link]](../deliverable12)
 
-- D13. Extension of the database and associated tools to other systems like Agda, Minlog, PVS, Lean, Mizar, Atelier B, TLAPS.
+- D13. Extension of the database and associated tools to other systems like Agda, Minlog, PVS, Lean, Mizar, Atelier B, TLAPS. [[link]](../deliverable1)
 
 - D14. White paper on including restricted natural language proof formats to existing proof libraries.
 

@@ -62,6 +62,12 @@ Groups marked with (EPN) have members participating to EuroProofNet.
 
 **Germany**
 
+- [HCM Interdisciplinary Research Unit 2: Formalized mathematics and computer-assisted proofs](https://florisvandoorn.com/formalized-mathematics), Bonn
+- [Mathematical Logic Group](https://www.math.uni-bonn.de/ag/logik/), Bonn (EPN)
+- [Chair for Logic and Verification](https://www21.in.tum.de/), Munich (EPN)
+- [KWARC](https://kwarc.info/), Erlangen (EPN)
+- [Research Group Formal Methods and theoretical Computer Science](https://www.uni-koblenz.de/en/computer-science/ics/sofronie-stokkermans), Koblenz
+
 **Greece**
 
 **Hungary**
@@ -161,5 +167,7 @@ Groups marked with (EPN) have members participating to EuroProofNet.
 - [Logic Group](https://eps.leeds.ac.uk/maths-pure-mathematics/doc/logic), University of Leeds (EPN)
 - [Mathematically Structured Programming Group](http://msp.cis.strath.ac.uk/), University of Strathclyde (EPN)
 - [Programming, Logic, and Semantics Group](https://www.cl.cam.ac.uk/research/pls/index.html), University of Cambridge (EPN)
+- [Human-Oriented Automatic Theorem Proving Project](https://wtgowers.github.io/human-style-atp/), Cambridge
 - [Software Systems group](https://www.kcl.ac.uk/research/ssy), King's College London (EPN)
 - [Theory of Computation](https://www.birmingham.ac.uk/research/activity/computer-science/theory-of-computation/index.aspx), University of Birmingham (EPN)
+- [Department of Computer Science](https://www.royalholloway.ac.uk/research-and-teaching/departments-and-schools/computer-science/), Royal Holloway, University of London
