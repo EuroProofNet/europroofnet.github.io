@@ -75,7 +75,7 @@ Please note that you have to organize yourself for lunches (and dinners), but th
 | 14:45-15:30 | [Cyril Cohen](https://perso.crans.org/cohen/) (Inria Lyon, France), Hierarchy Builder |
 | 15:30-16:00 | break   |
 | 16:00-16:45 | [Markus Himmel](https://github.com/TwoFX) (Lean FRO, Germany), the Lean standard library: development methodology and tooling |
-| 16:45-17:30 | [Justin Asher](https://justinasher.me), LeanExplore: A search engine for Lean 4 declarations |
+| 16:45-17:30 | [Justin Asher](https://justinasher.me), LeanExplore: A search engine for Lean 4 declarations (online) |
 
 **Abstracts:**
 
