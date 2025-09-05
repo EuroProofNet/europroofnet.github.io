@@ -27,6 +27,8 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 - [Comodule Representations of Second-Order Functionals](https://doi.org/10.1016/j.jlamp.2025.101071), Danel Ahman, Andrej Bauer. *JLAMP*
 - [Formalising Inductive and Coinductive Containers](https://arxiv.org/abs/2409.02603), Stefania Damato, Thorsten Altenkirch, Axel Ljungström. [ITP '25](https://icetcs.github.io/frocos-itp-tableaux25/itp/) (to appear)
 - [Proof Verification with GDV and LambdaPi - It's a Matter of Trust](https://doi.org/10.32473/flairs.38.1.138642), Geoff Sutcliffe, Frédéric Blanqui, Guillaume Burel. FLAIRS 2025
+- [The Cost of Skeletal Call-by-Need, Smoothly](https://doi.org/10.4230/LIPIcs.FSCD.2025.5), Beniamino Accattoli, Francesco Magliocca, Loïc Peyrot, Claudio Sacerdoti Coen. [FSCD'25](https://fscd2025.github.io/).
+
 
 **2024**
 
@@ -84,6 +86,7 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 - [Type-Theory of Algorithms with Chain-Free Memory](https://doi.org/10.1007/978-3-031-82073-1_7), Roussanka Loukanova. DCAI'24
 - [Who finds the short proof?](https://doi.org/10.1093/jigpal/jzac082), Christoph Benzmüller, David Fuenmayor, Alexander Steen, Geoff Sutcliffe. [*LJIGPL*](https://academic.oup.com/jigpal)
 - [Shoggoth: A Formal Foundation for Strategic Rewriting](https://doi.org/10.1145/3633211), Xueying Qin, Liam O'Connor, Rob van Glabbeek, Peter Höfner, Ohad Kammar, and Michel Steuwer. POPL'24.
+- [IMELL Cut Elimination with Linear Overhead](https://doi.org/10.4230/LIPIcs.FSCD.2024.24), Beniamino Accattoli, Claudio Sacerdoti Coen. [FSCD'24](https://cs.ioc.ee/fscd24/)
 
 
 **2023**
@@ -159,6 +162,7 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 - [Verification of the ROS NavFn planner using executable specification languages](https://doi.org/10.1016/j.jlamp.2023.100860), Enrique Martín, Manuel Montenegro, Adrián Riesco, Juan Rodríguez-Hortalá, Rubén Rubio, [*JLAMP*](https://www.sciencedirect.com/journal/journal-of-logical-and-algebraic-methods-in-programming)
 - [VizAR: Visualization of Automated Reasoning Proofs &endash; System Description](https://doi.org/10.1007/978-3-031-42753-4_22), Jan Jakubův, Cezary Kaliszyk, [CICM'23](https://cicm-conference.org/2023/cicm.php)
 - [Automated generation of illustrated proofs in geometry and beyond](https://doi.org/10.1007/s10472-023-09857-y), Predrag Janičić, Julien Narboux, Annals of Mathematics and Artificial Intelligence, [AMAI]
+- [Formalizing Functions as Processes](https://doi.org/10.4230/LIPIcs.ITP.2023.5), Beniamino Accattoli, Horace Blanc, Claudio Sacerdoti Coen [ITP'23](https://mizar.uwb.edu.pl/ITP2023/)
 
 **2022**
 
