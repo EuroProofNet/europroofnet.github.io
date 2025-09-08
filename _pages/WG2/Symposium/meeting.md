@@ -134,6 +134,23 @@ scheduling problem in the cadical SAT solver.
 
 + Maria Paola Bonacina (Università degli Studi di Verona), Nondisjoint CDSAT: arrays, maps, and vectors with abstract domain
 
+Abstract: Arrays in programming languages are finite, whereas sequences in
+mathematics and computer science can be infinite. The basic operations in the
+theory of arrays are read and write, so that the theory of arrays has been
+considered for years the best candidate to reason about the computer memory. The
+basic operation in the theory of sequences is associative concatenation, so that
+sequences form a monoid with the empty sequence as unit. Surprisingly, a current
+approach in satisfiability modulo theories proposes to reason about finite
+arrays (and computer memory) by using theories of finite sequences, even if the
+practical problems and benchmarks to be solved are about arrays.  In this talk I
+explain the issues that led to this unexpected turn, I present a theory of
+arrays with abstract domains that solves all these issues, and two variants
+thereof that model maps and vectors (i.e., dynamic arrays).  The extension of
+the CDSAT method for theory combination to unions of theories that share
+predicate symbols other than equality makes it possible to reason about these
+theories.
+
+(Joint work in progress with Stéphane Graham-Lengrand and Natarajan Shankar)
 
 **Discussion**
 
