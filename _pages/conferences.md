@@ -13,6 +13,8 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 
 - 22 June - 3 July 2026: [Formal Mathematics and Proof Systems Interoperability](https://europroofnet.github.io/FMPSI26/) (FMPSI), Orsay, France
 
+- 4-8 May 2026: [31st International Conference on Types for Proofs and Programs](https://sites.google.com/view/thetypesconferences/next-types-meeting) (TYPES'26), Göteborg, Sweden
+
 - 11-16 Avril 2026: [International Joint Conferences On Theory and Practice of Software ](https://etaps.org/2026/) (ETAPS'26), Torino, Italy
 
 - 11-17 January 2026: [53rd ACM SIGPLAN Symposium on Principles of Programming Languages](https://popl26.sigplan.org/) (POPL'26), Rennes, France
