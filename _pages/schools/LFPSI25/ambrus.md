@@ -55,4 +55,4 @@ participants:
   - Rafaël Bocquet, Ambrus Kaposi, Christian Sattler: [For the Metatheory of
     Type Theory, Internal Sconing Is Enough](https://doi.org/10.4230/LIPIcs.FSCD.2023.18). FSCD 2023:18:1-18:23.
 
-Course notes will be uploaded soon.
+[Course notes (under construction)](https://akaposi.github.io/sogat-paris.pdf).
