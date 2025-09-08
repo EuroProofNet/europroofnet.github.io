@@ -17,7 +17,7 @@ In this course, we are going to see how dependent types and rewriting rules (aka
 **Outline:**
 
 1. Introduction to proof systems interoperability, λ-calculus and
-   dependent types.
+   dependent types. [[slides](https://files.inria.fr/blanqui/lfpsi25/1.pdf)]
 
     (To prepare the practical session tomorrow, please install [Lambdapi](https://github.com/Deducteam/lambdapi) on your machine.)
 
