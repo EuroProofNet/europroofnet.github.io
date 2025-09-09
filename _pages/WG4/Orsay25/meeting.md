@@ -81,6 +81,8 @@ Please note that you have to organize yourself for lunches (and dinners), but th
 
 - [Manuel Eberl](http://cl-informatik.uibk.ac.at/users/meberl/) (U. Innsbruck, Austria), the Isabelle Archive of Formal Proofs [[link]](https://www.isa-afp.org/)
 
+The Archive of Formal Proofs has been the main repository for Isabelle developments since 2004. It now contains over 900 entries, totalling almost 5 million lines and covering a large range of topics from computer science, mathematics, and logic. In this talk, I will talk as an editor about its history, the day-to-day process of running it, and the challenges in keeping it running.
+
 - [Michael Rothgang](https://www.math.uni-bonn.de/people/rothgang/) (U. Bonn, Germany), growing Lean mathlib: review and triage tooling for a large formalised mathematics library [[link]](https://leanprover-community.github.io/mathlib-overview.html)
 
 Lean's mathematical library mathlib is one of the fastest-growing libraries of formalised mathematics. It is developed in the open by a large and diverse community of various backgrounds.
