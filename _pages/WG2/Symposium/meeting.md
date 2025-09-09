@@ -91,7 +91,22 @@ computational science.
 
 Abstract: Presenting Moschovakis Type-Theory of Recursion and Algorithms for logging information during algorithmic calculations, by its recursion or iteration assignments in memory locations.
 
-+ Geoff Sutcliffe (University of Miami), TBA  <!-- Friday -->
++ Geoff Sutcliffe (University of Miami), [Proof Verification with GDV and LambdaPi It's a Matter of Trust](https://tptp.org/Seminars/GDVLambdaPiTrust/Abstract.html)
+
+Abstract: Automated Theorem Proving (ATP) is concerned with the development and
+use of software that automates sound reasoning. An ATP system can be required to
+output a proof that serves as a certificate for the system's claim. To ensure
+that a proof is correct, verification can be required. If the verifier outputs
+evidence in a form that can be independently checked, that evidence serves as a
+certificate for the verifier's claim. The sequence of finding a proof, verifying
+the proof, and certifying the verification, builds an increasing level of trust
+in the system. This talk traces one such path for TPTP format proofs generated
+by ATP systems, via the GDV derivation verifier, and ending at the LambdaPi
+checker.
+
+
+
+
 
 + Bruno Andreotti (Universidade Federal de Minas Gerais), TBA  <!-- Thursday afternoon -->
 
@@ -118,7 +133,6 @@ demonstrate and evaluate using the higher-order logic prover
 Leo-III. This effort has already led to the discovery and resolution
 of minor bugs in the original prover.
 
-+ Mathias Fleury (University Freiburg) <!-- alethe proof reconstruction: the Isabelle view -->
 
 + Florian Pollitt (University Freiburg), Deterministic Scheduling
 
