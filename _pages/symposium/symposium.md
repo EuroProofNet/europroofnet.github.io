@@ -12,7 +12,7 @@ breadcrumbs: true
 
 **Venue:** [Institut Pascal](https://www.institut-pascal.universite-paris-saclay.fr/), 530 Rue André Rivière, 91400 Orsay [[access]](../Access) [[hotels]](../Hotels) [[food]](../Food) [[possible activities around]](../Activities)
 
-**Registrations are closed** <!--fill in this [form](https://forms.gle/QLFzh3Ugv5WgkhZr7) (registration is free but mandatory). Please note that you have to organize yourself for lunches (and dinners), but there are many [options](../Food) around, except on Sunday.-->
+**Participation:** If you want to attend the symposium on site, send a mail to [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/). It is also possible to attend it remotely on Zoom (links are provided on the EuroProofNet Zulip chat). <!--fill in this [form](https://forms.gle/QLFzh3Ugv5WgkhZr7) (registration is free but mandatory). Please note that you have to organize yourself for lunches (and dinners), but there are many [options](../Food) around, except on Sunday.-->
 
 **Sponsors:**
 
