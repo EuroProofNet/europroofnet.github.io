@@ -68,3 +68,10 @@ Please note that you have to organize yourself for lunches (and dinners), but th
 | 17:30-18:30 | (*)   |       |       | (*)   |
 
 <p style="font-size: 12px">(*) happy hour</p>
+
+<img src="/_pages/schools/LFPSI25/1.jpeg"/>
+<img src="/_pages/schools/LFPSI25/2.jpeg"/>
+<img src="/_pages/schools/LFPSI25/3.jpeg"/>
+<img src="/_pages/schools/LFPSI25/4.jpeg"/>
+<img src="/_pages/schools/LFPSI25/5.jpeg"/>
+<img src="/_pages/schools/LFPSI25/6.jpeg"/>
