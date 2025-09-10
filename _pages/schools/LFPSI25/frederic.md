@@ -21,8 +21,8 @@ In this course, we are going to see how dependent types and rewriting rules (aka
 
     (To prepare the practical session tomorrow, please install [Lambdapi](https://github.com/Deducteam/lambdapi) on your machine.)
 
-2. Introduction to pure type systems, rewriting, λΠ/R and the Lambdapi proof assistant. Practical session on Lambdapi.
+2. Introduction to pure type systems, rewriting, λΠ/R and the Lambdapi proof assistant. Practical session on Lambdapi. [[slides](https://files.inria.fr/blanqui/lfpsi25/2.pdf)]
 
-3. Encoding logics in λΠ/R: first-order logic, polymorphism, higher-order logic, pure type systems, …
+3. Encoding logics in λΠ/R: first-order logic, polymorphism, higher-order logic, pure type systems, … [[slides](https://files.inria.fr/blanqui/lfpsi25/3.pdf)]
 
-4. Properties of λΠ/R: decidability of type-checking, subject-reduction, confluence, termination, dependencies between these properties.
+4. Properties of λΠ/R: decidability of type-checking, subject-reduction, confluence, termination, dependencies between these properties. [[slides](https://files.inria.fr/blanqui/lfpsi25/4.pdf)]
