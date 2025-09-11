@@ -75,3 +75,4 @@ Please note that you have to organize yourself for lunches (and dinners), but th
 <img src="/_pages/schools/LFPSI25/4.jpeg"/>
 <img src="/_pages/schools/LFPSI25/5.jpeg"/>
 <img src="/_pages/schools/LFPSI25/6.jpeg"/>
+<img src="/_pages/schools/LFPSI25/7.jpeg"/>
