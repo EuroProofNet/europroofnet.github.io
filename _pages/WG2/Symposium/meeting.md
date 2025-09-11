@@ -110,7 +110,7 @@ checker.
 
 + Bruno Andreotti (Universidade Federal de Minas Gerais), TBA  <!-- Thursday afternoon -->
 
-+ Hans-Jörg Schurr (University of Iowa), TBA  <!-- Thursday afternoon -->
++ Hans-Jörg Schurr (University of Iowa), System ϒ --- Solid Foundations for SMT Proofs  <!-- Thursday afternoon -->
 
 + Ciarán Dunne (Inria Saclay), TBA
 
