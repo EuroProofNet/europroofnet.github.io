@@ -30,6 +30,7 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 - [Coq Opam Packages](https://coq.inria.fr/opam/www/)
 - [Isabelle Archive of Formal Proofs](https://www.isa-afp.org/)
 - [Mizar Mathematical Library](http://mizar.org/library/)
+- [Lean MathLib](https://github.com/leanprover-community/mathlib4)
 
 **Proof data bases tools**
 
@@ -42,9 +43,9 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 **Proof translation tools**
 
 - [Agda2Dedukti](https://github.com/Deducteam/Agda2Dedukti): Agda to Dedukti/Agda or Lambdapi/Agda
-- [Vodk](https://github.com/Deducteam/CoqInE): Coq to Dedukti/Coq
+- [CoqInE](https://github.com/Deducteam/CoqInE): Coq to Dedukti/Coq
 - [Dk2agda](https://github.com/Deducteam/dk2agda): Dedukti to Agda
-- [Ekstrakto](https://github.com/Deducteam/ekstrakto): TSTP to TPTP and Lambdapi/FOL
+- [Ekstrakto](https://github.com/Deducteam/ekstrakto): TSTP to TPTP and Lambdapi/FOL (subsumed by GDV-LP)
 - [GDV-LP](https://github.com/orgs/TPTPWorld/repositories): TPTP to Lambdapi/FOL ([doc](https://www.tptp.org/Seminars/GDV/GDV-LP.html))
 - [Hol2dk](https://github.com/Deducteam/hol2dk): HOL-Light to Dedukti and Lambdapi
 - [Holide](https://github.com/Deducteam/Holide): OpenTheory to Dedukti/STTfa

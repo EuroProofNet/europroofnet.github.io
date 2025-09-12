@@ -29,7 +29,6 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 - [Proof Verification with GDV and LambdaPi - It's a Matter of Trust](https://doi.org/10.32473/flairs.38.1.138642), Geoff Sutcliffe, Frédéric Blanqui, Guillaume Burel. FLAIRS 2025
 - [The Cost of Skeletal Call-by-Need, Smoothly](https://doi.org/10.4230/LIPIcs.FSCD.2025.5), Beniamino Accattoli, Francesco Magliocca, Loïc Peyrot, Claudio Sacerdoti Coen. [FSCD'25](https://fscd2025.github.io/).
 
-
 **2024**
 
 - [A Formalization of the General Theory of Quaternions](https://doi.org/10.4230/LIPIcs.ITP.2024.11), Thaynara Arielly de Lima, André Luiz Galdino, Bruno Berto de Oliveira Ribeiro, Mauricio Ayala-Rincón. ITP'24
