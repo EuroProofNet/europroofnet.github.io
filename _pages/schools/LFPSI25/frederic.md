@@ -17,12 +17,12 @@ In this course, we are going to see how dependent types and rewriting rules (aka
 **Outline:**
 
 1. Introduction to proof systems interoperability, λ-calculus and
-   dependent types. [[slides](https://files.inria.fr/blanqui/lfpsi25/1.pdf)]
+   dependent types. [[slides](https://blanqui.gitlabpages.inria.fr/lectures/lfpsi1.pdf)]
 
     (To prepare the practical session tomorrow, please install [Lambdapi](https://github.com/Deducteam/lambdapi) on your machine.)
 
-2. Introduction to pure type systems, rewriting, λΠ/R and the Lambdapi proof assistant. Practical session on Lambdapi. [[slides](https://files.inria.fr/blanqui/lfpsi25/2.pdf)]
+2. Introduction to pure type systems, rewriting, λΠ/R and the Lambdapi proof assistant. Practical session on Lambdapi. [[slides](https://blanqui.gitlabpages.inria.fr/lectures/lfpsi2.pdf)]
 
-3. Encoding logics in λΠ/R: first-order logic, polymorphism, higher-order logic, pure type systems, … [[slides](https://files.inria.fr/blanqui/lfpsi25/3.pdf)]
+3. Encoding logics in λΠ/R: first-order logic, polymorphism, higher-order logic, pure type systems, … [[slides](https://blanqui.gitlabpages.inria.fr/lectures/lfpsi3.pdf)]
 
-4. Properties of λΠ/R: decidability of type-checking, subject-reduction, confluence, termination, dependencies between these properties. [[slides](https://files.inria.fr/blanqui/lfpsi25/4.pdf)]
+4. Properties of λΠ/R: decidability of type-checking, subject-reduction, confluence, termination, dependencies between these properties. [[slides](https://blanqui.gitlabpages.inria.fr/lectures/lfpsi4.pdf)]
