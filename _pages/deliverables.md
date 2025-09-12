@@ -45,4 +45,4 @@ author_profile: true
 
 - D14. White paper on including restricted natural language proof formats to existing proof libraries.
 
-- D15. Prototype implementation of the mathematical framework, with basic user interface, user documentation and gallery of examples of type theories.
+- D15. Prototype implementation of the mathematical framework, with basic user interface, user documentation and gallery of examples of type theories. [[link]](../deliverable15)
