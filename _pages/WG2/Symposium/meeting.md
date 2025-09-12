@@ -178,3 +178,7 @@ important information.
 **Objectives/Deliverables:**
   - D10. Release of software for translating proofs coming from important proof systems based on set theory like Mizar, Atelier B or TLAPS to Dedukti and back.
 -->
+
+<img src="/_pages/WG2/Symposium/1.jpeg"/>
+<img src="/_pages/WG2/Symposium/2.jpeg"/>
+<img src="/_pages/WG2/Symposium/3.jpeg"/>

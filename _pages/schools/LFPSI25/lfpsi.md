@@ -6,7 +6,7 @@ author_profile: true
 breadcrumbs: true
 ---
 
-<!--img src="/_pages/WG1/Sep2023/IMG_20230927_130736.jpg"/-->
+<img src="/_pages/schools/LFPSI25/group.jpeg"/>
 
 This school is part of the [EuroProofNet Symposium](../Symposium). See the symposium page to get information on the other co-located events.
 
@@ -76,3 +76,8 @@ Please note that you have to organize yourself for lunches (and dinners), but th
 <img src="/_pages/schools/LFPSI25/5.jpeg"/>
 <img src="/_pages/schools/LFPSI25/6.jpeg"/>
 <img src="/_pages/schools/LFPSI25/7.jpeg"/>
+<img src="/_pages/schools/LFPSI25/8.jpeg"/>
+<img src="/_pages/schools/LFPSI25/9.jpeg"/>
+<img src="/_pages/schools/LFPSI25/10.jpeg"/>
+<img src="/_pages/schools/LFPSI25/11.jpeg"/>
+<img src="/_pages/schools/LFPSI25/12.jpeg"/>
