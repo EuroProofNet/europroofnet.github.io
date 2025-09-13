@@ -112,11 +112,11 @@ checker.
 
 + Hans-Jörg Schurr (University of Iowa), System ϒ --- Solid Foundations for SMT Proofs  <!-- Thursday afternoon -->
 
-+ Ciarán Dunne (Inria Saclay), TBA
++ Ciarán Dunne (Inria Saclay), e2lp -- from Eunoia to LamdaPi
 
-+ Vincent Trélat (Inria Saclay), TBA  <!-- methode B smtlib -->
++ Vincent Trélat (Inria Saclay), Safely Encoding B Proof Obligations in SMT-LIB
 
-+ Alessio Coltellacci (University of Lorraine, CNRS, Inria, Nancy), TBA <!-- long-->
++ Alessio Coltellacci (University of Lorraine, CNRS, Inria, Nancy), Reconstructung SMT Proofs in Lambdapi
 
 + Melanie Tapproge (University Greifswald), Encoding and Verifying Leo-III Proofs in the Dedukti Framework
 
@@ -144,7 +144,7 @@ reproducible results is a big feature of SAT solvers.  This talk
 focuses on the practical application of one solution to this
 scheduling problem in the cadical SAT solver.
 
-+ Julie Cailler (Loria)
++ Julie Cailler (Loria), Deskolemization: From Tableaux to Machine-Checkable Proofs
 
 + Maria Paola Bonacina (Università degli Studi di Verona), Nondisjoint CDSAT: arrays, maps, and vectors with abstract domain
 
