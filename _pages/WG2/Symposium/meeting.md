@@ -183,3 +183,5 @@ important information.
 <img src="/_pages/WG2/Symposium/2.jpeg"/>
 <img src="/_pages/WG2/Symposium/3.jpeg"/>
 <img src="/_pages/WG2/Symposium/4.jpeg"/>
+<img src="/_pages/WG2/Symposium/5.jpeg"/>
+<img src="/_pages/WG2/Symposium/whoops.jpeg"/>
