@@ -13,7 +13,7 @@ This conference is part of the [EuroProofNet Symposium](../Symposium). See the s
 **Venue:** [Institut Pascal](https://www.institut-pascal.universite-paris-saclay.fr/), 530 Rue André Rivière, 91400 Orsay [[access]](../Access) [[hotels]](../Hotels) [[food]](../Food)
 
 **Organizers:** [Roussanka Loukanova](https://www.math.bas.bg/logic/loukanovarp/) (rloukanova - gmail) 
-and [Axel Ljungström](https://aljungstrom.github.io/) (axel.ljungstrom at math.su.se)
+and [Axel Ljungström](https://aljungstrom.github.io/) (axel.ljungstrom - gmail)
 
 **Registrations are closed** <!--fill in this [form](https://forms.gle/QLFzh3Ugv5WgkhZr7) (registration is free but mandatory)-->
 
@@ -22,7 +22,7 @@ and [Axel Ljungström](https://aljungstrom.github.io/) (axel.ljungstrom at math.
 **Submission and Updates** by authors of titles and abstracts of their talks and demos:
 [https://easychair.org/conferences?conf=mclp2025](https://easychair.org/conferences?conf=mclp2025)
 
-**Invited speakers:** Listed Below, more TBA
+**Invited speakers:** Listed Below
 
 **Program (tentative)** Abstracts are given after the schedule.
 
@@ -35,7 +35,7 @@ Please note that you have to organize yourself for lunches (and dinners), but th
 | 09:00-10:00 | [Reinhard Muskens](https://staff.fnwi.uva.nl/r.a.muskens/), University of Amsterdam | Linguistic Interpretation---from Left to Right (KeyNote) | 
 | 10:00-10:30 | S | T | 
 | 10:30-11:00 | break | break | 
-| 11:00-12:00 | [Stephan Schulz](https://wwwlehre.dhbw-stuttgart.de/~sschulz/DHBW_Stephan_Schulz/Stephan_Schulz.html), DHBW Stuttgart | TBA (KeyNote) | 
+| 11:00-12:00 | [Stephan Schulz](https://wwwlehre.dhbw-stuttgart.de/~sschulz/DHBW_Stephan_Schulz/Stephan_Schulz.html), DHBW Stuttgart | LLM+ vs. Logic+ The Future of the AI Math Ecosystem (KeyNote) | 
 | 12:00-12:30 | S | T | 
 | 12:30-14:00 | [lunch](../Food) | [lunch](../Food) | 
 | 14:00-15:00 | [Aarne Ranta](https://www.cse.chalmers.se/~aarne/), Chalmers University of Technology and University of Gothenburg | Symbolic Informalization: Fluent, Productive, Multilingual (Invited) | 
@@ -59,7 +59,7 @@ Please note that you have to organize yourself for lunches (and dinners), but th
 | 15:00-15:30 | [Denis Bechet](http://pagesperso.ls2n.fr/~bechet-d/contact.html), LS2N - Nantes University and [Annie Foret](http://www.irisa.fr/prive/foret/english.html), IRISA and Univ Rennes 1 | Categorial Dependency Grammars Extended with Typed Barriers | 
 | 15:30-16:00 | break | break | 
 | 16:00-17:00 | [Wojciech Buszkowski](https://wmi.amu.edu.pl/wydzial/pracownicy/wojciech-buszkowski), Adam Mickiewicz University | Sequent systems for Lambek calculi and their extensions: a survey of recent results (Invited) | 
-| 17:00-18:00 | [Philippe de Groote](https://members.loria.fr/PDegroote/), Inria Nancy - Grand Est, France | TBA (Invited) | 
+| 17:00-18:00 | [Philippe de Groote](https://members.loria.fr/PDegroote/), Inria Nancy - Grand Est, France | Some observations about plurals in mathematics (Invited) | 
 | 18:00-18:30 | S | T | 
 
 **Wednesday, Sep 17 2025**
@@ -71,7 +71,6 @@ Please note that you have to organize yourself for lunches (and dinners), but th
 | 10:30-11:00 | break | break | 
 | 11:00-11:30 | [Shashank Pathak](https://pkshashank.github.io), The University of Manchester | Extending Flexible Boolean Semantics for the Language of Mathematics | 
 | 11:30-12:30 | [Michael Kohlhase](https://kwarc.info/people/mkohlhase/), Computer Science, FAU Erlangen-Nürnberg, Germany | Active Flexiformal Mathematics (in particular Proofs) - Methods, Resources, and Applications (Invited) | 
-| 12:00-12:30 | S | T | 
 | 12:30-14:00 | [lunch](../Food) | [lunch](../Food) | 
 | 14:00-15:00 | [Andrija Urosevic](https://poincare.matf.bg.ac.rs/~andrija.urosevic/) and [Sana Stojanovic-Durdevic](https://poincare.matf.bg.ac.rs/~sana.stojanovic.djurdjevic/), University of Belgrade, Faculty of Mathematics | From Formal Natural Deduction Proofs to LaTeX Proof Trees | 
 | 15:00-15:30 | S | T | 
@@ -84,11 +83,12 @@ Please note that you have to organize yourself for lunches (and dinners), but th
 
 | | | | 
 |------------- | ------------- | ------------- | 
-| 09:00-09:30 | [Fabian Zaiser](https://www.fabianzaiser.com), MIT, US, at al. | Automatic (In)formalization of Mathematics via Language-Model Probabilistic Programming and Cycle Consistency | 
-| 9:30- 10:00 | Barba da Costa, MIT, US, at al. | Disambiguating Natural Language Proofs with Bayesian Inference | 
+| 09:00-09:30 | Barba da Costa, MIT, US, at al. | Disambiguating Natural Language Proofs with Bayesian Inference | 
+| 09:30-10:00 | [Fabian Zaiser](https://www.fabianzaiser.com), MIT, US, at al. | Automatic (In)formalization of Mathematics via Language-Model Probabilistic Programming and Cycle Consistency | 
 | 10:00-10:30 | [Georgios V. Pitsiladis](https://www.gpits.me) and Petros Stefaneas, National Technical University of Athens | Using the Theory of Institutions for Semiotic–Argumentational Treatment of Mathematical Proof | 
 | 10:30-11:00 | break | break | 
-| 11:00-12:30 | [Frédéric Tran Minh](https://lcis.fr/members/frederic-tran-minh), UGA-Grenoble INP-Esisar, [Laure Gonnord](https://laure.gonnord.org/pro/), Grenoble-INP / LCIS, and [Julien Narboux](https://www.irif.fr/~narboux/), RIF - Université Paris Cité | A Lean-based Language for Teaching Proof in High-school | 
+| 11:00-12:00 | [Frédéric Tran Minh](https://lcis.fr/members/frederic-tran-minh), UGA-Grenoble INP-Esisar, [Laure Gonnord](https://laure.gonnord.org/pro/), Grenoble-INP / LCIS, and [Julien Narboux](https://www.irif.fr/~narboux/), RIF - Université Paris Cité | A Lean-based Language for Teaching Proof in High-school | 
+| 12:00-12:30 | S | T |
 | 12:30-14:00 | [lunch](../Food) | [lunch](../Food) | 
 | 14:00-15:00 | [Adrian Riesco](http://maude.sip.ucm.es/~adrian/) and Juan Rodriguez-Hortala, Universidad Complutense de Madrid | Singular and Plural Functions (Invited) | 
 | 15:00-15:30 | S | T | 
@@ -105,6 +105,16 @@ Linguistic Interpretation---from Left to Right (KeyNote)
 
 Abstract: 
 In this talk I will show how it is possible to model the interpretation of ordinary language "from left to right'', following the linguistic precedence order, that is. Given the expected audience, I will focus on explaining some of the central aims of linguistic semantics and on showcasing how logical techniques can play a pivotal role in linguistic theory formation.
+
+<!-- (21) -->
+- [Stephan Schulz](https://wwwlehre.dhbw-stuttgart.de/~sschulz/DHBW_Stephan_Schulz/Stephan_Schulz.html), DHBW Stuttgart, Germany
+
+LLM+ vs. Logic+ The Future of the AI Math Ecosystem (KeyNote)
+
+Abstract:
+We compare and contrast an LLM+ and a Logic+ architecture for future AI-based mathematical tools. We argue that the underlying knowledge representation of the computerized mathematics ecosystem must be based on formal logic, not on distributed weights modelling probabilities, and that hence the Logic+ approach is technically more viable.
+
+In a Logic+ architecture, theorem provers maintain the integrity of mathematical knowledge both by consistency checking and by ensuring sound derivation for new results. However, other AI techniques, including LLMs, can help, e.g., in auto-formalisation of mathematical knowledge, in search control, and in the hypothesis generation part of automatic theory exploration.
 
 <!-- (16) -->
 - [Lawrence S. Moss](https://iulg.sitehost.iu.edu/moss/), 
@@ -369,3 +379,11 @@ language. This talk will concentrate on two aspects.
 I will present the OMDoc annotation ontology (with a special emphasis on flexiformal proofs), and its implementation in the sTeX (semantic LaTeX) package, as well as the sTeX corpus (ca. 10.000 pages of foundations and course materials in Math and CS). Particular focus will be on how that corpus can be used for the generation of linguistic resources for rigorous mathematical language. I will present on a collaborative project to generate a semantic lexicon (with formula notations) for mathematics (MathLex) and discuss how that can profit from the sTeX corpus.
 
 In formal mathematics, the transport of theorems via theory (or record type) interpretations is well-established. I contend that in flexiformal mathematics, this is even more important: more objects, e.g. problems/solutions can be transported; and the interpretations are important learning objects in themselves. I will report on recent work to lift the transport (called relocalization in the flexiformal setting) to the level of natural language transformation and report on how this can be implemented using GF abstract syntax trees.
+
+<!-- (22) -->
+- [Philippe de Groote](https://members.loria.fr/PDegroote/), Inria Nancy - Grand Est, France
+
+Some observations about plurals in mathematics (Invited Talk)
+
+Abstract:
+In this talk, we will review issues related to the semantics of plurals in natural language and demonstrate how these issues arise in the case of mathematical texts.  In particular, we will focus on the distinction between collective and distributive predicates. Then, we will sketch the lines of a compositional treatment of plurals in textual mathematics.
