@@ -6,7 +6,7 @@ author_profile: true
 breadcrumbs: true
 ---
 
-<img src="/_pages/WG2/Symposium/whoops.jpeg"/>
+<img src="/_pages/WG2/Symposium/5.jpeg"/>
 
 This will be the final meeting of the WG2 and the [International Workshop on Highlights in Organizing and Optimizing Proof-logging Systems](https://jakobnordstrom.se/WHOOPS25/) (WHOOPS'25). It is part of the [Final EuroProofNet Symposium](https://europroofnet.github.io/Symposium/).
 
@@ -185,4 +185,4 @@ important information.
 <img src="/_pages/WG2/Symposium/2.jpeg"/>
 <img src="/_pages/WG2/Symposium/3.jpeg"/>
 <img src="/_pages/WG2/Symposium/4.jpeg"/>
-<img src="/_pages/WG2/Symposium/5.jpeg"/>
+<img src="/_pages/WG2/Symposium/whoops.jpeg"/>
