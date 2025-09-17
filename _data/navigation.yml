@@ -5,16 +5,16 @@ main:
     url: /events/
   - title: "Grants"
     url: /grants/
-  - title: "Publications"
+  - title: "Papers"
     url: /publications/
   - title: "Tools"
     url: /tools/
   - title: "Schools"
     url: /schools/
-  - title: "Jobs"
-    url: /jobs/
   - title: "Conferences"
     url: /conferences/
+  - title: "Jobs"
+    url: /jobs/
   - title: "Teaching"
     url: /teaching/
   - title: "Gender balance"
