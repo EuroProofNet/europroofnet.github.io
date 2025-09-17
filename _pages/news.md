@@ -5,6 +5,8 @@ permalink: /news/
 author_profile: true
 ---
 
+21 July 2025: EuroProofNet is sad to announce that [Gilles Dowek](https://lsv.ens-paris-saclay.fr/~dowek/), founder of [Deducteam](https://deducteam.gitlabpages.inria.fr/) and the [Dedukti](https://deducteam.github.io/) logical framework, which plays a central role in EuroProofNet, died on 21 July 2025 at 58 years old. He was vice leader of the WG4 on proof libraries from 2021 to 2022. He made important contributions not only in logic (unification, automated theorem proving, type theory) but also in quantum programming languages and philosophy. He received several awards from the French Academy of Sciences. He was a brilliant speaker and teacher, and published several books in computer science, logic and philosophy. He has been very active in promoting the teaching of computer science in high school and contributed to the definition of the corresponding cursus. Finally, he supervised or co-supervised many PhD students.
+
 19 July 2025: [David Cerna](https://ermine516.github.io/), WG5 leader, has been invited to give a talk at the [Annual Meeting of IFIP Working Group 1.6: Rewriting](https://ifip-wg-rewriting.cs.ru.nl/events/event-2025.html) (IFIP-WG1.6 2025) co-located with FSCD'25, Birmingham, United Kingdom
 
 14 July 2025: [David Cerna](https://ermine516.github.io/), WG5 leader, has been invited to give a talk at the [39th International Workshop on Unification](https://cs.newpaltz.edu/unif2025/) (UNIF'25) co-located with FSCD'25, Birmingham, United Kingdom
