@@ -49,8 +49,7 @@ The event is scheduled as a two and a half-day meeting. Times are CET.
 * Talks (9:00-10:30)
   - :large_blue_circle: _A Global Specification Model for Data-Aware Coordination (with an application to smart contracts)_. António Ravara (New University of Lisbon, Portugal)
   - :white_circle: _MongoDB Specification in Maude_. Beatriz Alcaide (UCM, Madrid)
-* Talks & Conclusion (11:00-12:30)
-  - _TBA_
+* Closing discussion (11:00-12:30)
 
 ### List of participants:
 
