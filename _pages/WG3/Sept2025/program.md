@@ -39,7 +39,7 @@ The event is scheduled as a two and a half-day meeting. Times are CET.
   - :clipboard: _A Lean-based Language for Teaching Proof in High-school_. Frédéric Tran Minh (UGA-Grenoble INP-Esisar), Laure Gonnord (Grenoble-INP / LCIS), and Julien Narboux (RIF - Université Paris Cité)
 * WG3 + MCLP Session (14:00-15:30)
   - :large_blue_circle: _Singular and Plural Functions_. Adrian Riesco* and Juan Rodriguez-Hortala (Universidad Complutense de Madrid, Spain)
-  - _TBA_. Roussanka Loukanova, (Bulgarian Academy of Sciences)
+  - _Pure versus Generalised Quantifiers_. Roussanka Loukanova, (Bulgarian Academy of Sciences)
 * WG3 + MCLP Session (16:00-17:00)
   - :large_blue_circle: _Natural Logic: Proof Systems for Reasoning in Natural Language_. Lawrence S. Moss* (Indiana University, USA)
 * Closing the day
