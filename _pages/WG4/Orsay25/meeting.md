@@ -50,32 +50,32 @@ Please note that you have to organize yourself for lunches (and dinners), but th
 | time | Monday 15 September |
 |-|-|
 | 08:30-09:00 | welcome |
-| 09:00-09:45 | [Manuel Eberl](http://cl-informatik.uibk.ac.at/users/meberl/) (U. Innsbruck, Austria), [the Isabelle Archive of Formal Proofs](eberl.pdf) |
-| 09:45-10:30 | [Michael Rothgang](https://www.math.uni-bonn.de/people/rothgang/) (U. Bonn, Germany), growing Lean mathlib: review and triage tooling for a large formalised mathematics library |
+| 09:00-09:45 | [Manuel Eberl](http://cl-informatik.uibk.ac.at/users/meberl/) (U. Innsbruck, Austria), [The Isabelle Archive of Formal Proofs](eberl.pdf) |
+| 09:45-10:30 | [Michael Rothgang](https://www.math.uni-bonn.de/people/rothgang/) (U. Bonn, Germany), [Growing Lean mathlib: review and triage tooling for a large formalised mathematics library](rothgang.pdf) |
 | 10:30-11:00 | break   |
-| 11:00-11:45 | [Cyril Cohen](https://perso.crans.org/cohen/) (Inria Lyon, France), Hierarchy Builder |
-| 11:45-12:30 | [Julien Narboux](https://www.irif.fr/~narboux/) (U. Paris Cité, France) and [Pierre Boutry](https://pierre-boutry.fr/) (U. Strasbourg, France), GeoCoq: a library for foundations of geometry |
+| 11:00-11:45 | [Cyril Cohen](https://perso.crans.org/cohen/) (Inria Lyon, France), [Hierarchy Builder](cohen.pdf) |
+| 11:45-12:30 | [Julien Narboux](https://www.irif.fr/~narboux/) (U. Paris Cité, France) and [Pierre Boutry](https://pierre-boutry.fr/) (U. Strasbourg, France), [GeoCoq: a library for foundations of geometry](boutry-narboux.pdf) |
 | 12:30-14:00 | [lunch](../Food) |
-| 14:00-14:45 | Christian Merten (U. Utrech, Netherlands), algebraic geometry in Lean's mathematical library mathlib |
-| 14:45-15:30 | [Niels van der Weide](https://nmvdw.github.io/) (U. Radboud, Netherlands), the Unimath Coq library |
+| 14:00-14:45 | Christian Merten (U. Utrech, Netherlands), [Algebraic geometry in Lean's mathematical library mathlib](merten.pdf) |
+| 14:45-15:30 | [Niels van der Weide](https://nmvdw.github.io/) (U. Radboud, Netherlands), [The Unimath Coq library](weide.pdf) |
 | 15:30-16:00 | break   |
-| 16:00-16:45 | [Nicolas Magaud](https://dpt-info.u-strasbg.fr/~magaud/) (U. Strasbourg, France), Optimization of Rocq proof scripts |
-| 16:45-17:30 | [Yannick Forster](https://yforster.de/) (Inria Paris, France), the Coq Library of undecidability proofs |
+| 16:00-16:45 | [Nicolas Magaud](https://dpt-info.u-strasbg.fr/~magaud/) (U. Strasbourg, France), [Optimization of Rocq proof scripts](magaud.pdf) |
+| 16:45-17:30 | [Yannick Forster](https://yforster.de/) (Inria Paris, France), [The Coq Library of undecidability proofs](forster.pdf) |
 | 17:30-18:30 | happy hour |
 
 | time | Tuesday 16 September |
 |-|-|
-| 09:00-09:45 | [Joseph Tooby-Smith](https://josephtoobysmith.com/) (U. Reykjavik, Iceland), PhysLean: Digitalizing Physics in Lean |
-| 09:45-10:30 | [Sylvie Boldo](https://pages.saclay.inria.fr/sylvie.boldo/) (Inria Saclay, France), Numerical Analysis in Rocq -- Simplicial Lagrange Finite Elements |
+| 09:00-09:45 | [Joseph Tooby-Smith](https://josephtoobysmith.com/) (U. Reykjavik, Iceland), [PhysLean: Digitalizing Physics in Lean](https://josephtoobysmith.com/Slides/Orsay2025.html#/) |
+| 09:45-10:30 | [Sylvie Boldo](https://pages.saclay.inria.fr/sylvie.boldo/) (Inria Saclay, France), [Numerical Analysis in Rocq -- Simplicial Lagrange Finite Elements](boldo.pdf) |
 | 10:30-11:00 | break   |
-| 11:00-11:45 | [Kathrin Stark](https://www.k-stark.de/) (U. Heriot-Watt, UK), On Autosubst: Mechanising binders in Coq |
-| 11:45-12:30 | [Matthieu Sozeau](https://sozeau.gitlabpages.inria.fr/www/) (Inria Nantes, France), MetaRocq: Metaprogramming and Mechanization of Rocq in Rocq |
+| 11:00-11:45 | [Kathrin Stark](https://www.k-stark.de/) (U. Heriot-Watt, UK), [On Autosubst: Mechanising binders in Coq](stark.pdf) |
+| 11:45-12:30 | [Matthieu Sozeau](https://sozeau.gitlabpages.inria.fr/www/) (Inria Nantes, France), [MetaRocq: Metaprogramming and Mechanization of Rocq in Rocq](sozeau.pdf) |
 | 12:30-14:00 | [lunch](../Food) |
-| 14:00-14:45 | [Mohammad Abdulaziz](https://mabdula.github.io/) (King's College London, UK), an Isabelle Library of Combinatorial Optimisation Results |
+| 14:00-14:45 | [Mohammad Abdulaziz](https://mabdula.github.io/) (King's College London, UK), [An Isabelle Library of Combinatorial Optimisation Results](abdulaziz.pdf) |
 | 14:45-15:30 | [Patrick Massot](https://www.imo.universite-paris-saclay.fr/~patrick.massot/) (U. Paris-Saclay, France), coordinating large formalization projects |
 | 15:30-16:00 | break   |
-| 16:00-16:45 | [Markus Himmel](https://github.com/TwoFX) (Lean FRO, Germany), the Lean standard library: development methodology and tooling |
-| 16:45-17:30 | [Justin Asher](https://justinasher.me), LeanExplore: A search engine for Lean 4 declarations (online) |
+| 16:00-16:45 | [Markus Himmel](https://github.com/TwoFX) (Lean FRO, Germany), [The Lean standard library: development methodology and tooling](himmel.pdf) |
+| 16:45-17:30 | [Justin Asher](https://justinasher.me), [LeanExplore: A search engine for Lean 4 declarations](asher.pdf) (online) |
 
 **Abstracts:**
 
