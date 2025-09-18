@@ -6,6 +6,8 @@ author_profile: true
 breadcrumbs: true
 ---
 
+<img src="/_pages/WG4/Orsay25/group.jpeg"/>
+
 This workshop/WG4 meeting is part of the [EuroProofNet Symposium](../Symposium). See the symposium page to get information on the other co-located events.
 
 The objective is to have talks and demos like in the [1st Workshop on the development, maintenance, refactoring and search of large libraries of proofs](../wg4-meeting1) and, if time permits, some common development sessions.
@@ -180,3 +182,7 @@ Formalized mathematics has a rich history of large formalization projects involv
 - [1st Workshop on the development, maintenance, refactoring and search of large libraries of proofs](../wg4-meeting1), Tbilisi, Georgia, 23-24 September 2022
 - [Workshop on Libraries of Formal Proofs and Natural Mathematical Language](../cambridge-2023), Cambridge, UK, 7-8 September 2023
 - [2nd Workshop on the development, maintenance, refactoring and search of large libraries of proofs](../wg4-tbilisi24), Tbilisi, Georgia, 13-14 September 2024
+
+<img src="/_pages/WG4/Orsay25/1.jpeg"/>
+<img src="/_pages/WG4/Orsay25/2.jpeg"/>
+<img src="/_pages/WG4/Orsay25/3.jpeg"/>
