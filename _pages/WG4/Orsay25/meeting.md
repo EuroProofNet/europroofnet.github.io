@@ -50,7 +50,7 @@ Please note that you have to organize yourself for lunches (and dinners), but th
 | time | Monday 15 September |
 |-|-|
 | 08:30-09:00 | welcome |
-| 09:00-09:45 | [Manuel Eberl](http://cl-informatik.uibk.ac.at/users/meberl/) (U. Innsbruck, Austria), the Isabelle Archive of Formal Proofs |
+| 09:00-09:45 | [Manuel Eberl](http://cl-informatik.uibk.ac.at/users/meberl/) (U. Innsbruck, Austria), [the Isabelle Archive of Formal Proofs](eberl.pdf) |
 | 09:45-10:30 | [Michael Rothgang](https://www.math.uni-bonn.de/people/rothgang/) (U. Bonn, Germany), growing Lean mathlib: review and triage tooling for a large formalised mathematics library |
 | 10:30-11:00 | break   |
 | 11:00-11:45 | [Cyril Cohen](https://perso.crans.org/cohen/) (Inria Lyon, France), Hierarchy Builder |
