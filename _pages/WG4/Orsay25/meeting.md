@@ -72,7 +72,7 @@ Please note that you have to organize yourself for lunches (and dinners), but th
 | 11:45-12:30 | [Matthieu Sozeau](https://sozeau.gitlabpages.inria.fr/www/) (Inria Nantes, France), MetaRocq: Metaprogramming and Mechanization of Rocq in Rocq [[slides](sozeau.pdf)] |
 | 12:30-14:00 | [lunch](../Food) |
 | 14:00-14:45 | [Mohammad Abdulaziz](https://mabdula.github.io/) (King's College London, UK), An Isabelle Library of Combinatorial Optimisation Results [[slides](abdulaziz.pdf)] |
-| 14:45-15:30 | [Patrick Massot](https://www.imo.universite-paris-saclay.fr/~patrick.massot/) (U. Paris-Saclay, France), coordinating large formalization projects |
+| 14:45-15:30 | [Patrick Massot](https://www.imo.universite-paris-saclay.fr/~patrick.massot/) (U. Paris-Saclay, France), Coordinating large formalization projects [[slides](massot.pdf)] |
 | 15:30-16:00 | break   |
 | 16:00-16:45 | [Markus Himmel](https://github.com/TwoFX) (Lean FRO, Germany), The Lean standard library: development methodology and tooling [[slides](himmel.pdf)] |
 | 16:45-17:30 | [Justin Asher](https://justinasher.me), LeanExplore: A search engine for Lean 4 declarations (online) [[slides](asher.pdf)] |
