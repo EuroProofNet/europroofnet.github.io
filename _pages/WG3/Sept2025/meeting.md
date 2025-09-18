@@ -6,6 +6,8 @@ author_profile: true
 breadcrumbs: true
 ---
 
+<img src="group.jpeg"/>
+
 This will be the final meeting of the EuroProofNet Working Group 3 on Program Verification. It is part of the [Final EuroProofNet Symposium](https://europroofnet.github.io/Symposium/).
 
 **Date:** 17-19 September 2025
