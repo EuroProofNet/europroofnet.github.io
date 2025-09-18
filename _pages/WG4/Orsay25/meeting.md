@@ -186,3 +186,5 @@ Formalized mathematics has a rich history of large formalization projects involv
 <img src="/_pages/WG4/Orsay25/1.jpeg"/>
 <img src="/_pages/WG4/Orsay25/2.jpeg"/>
 <img src="/_pages/WG4/Orsay25/3.jpeg"/>
+<img src="/_pages/WG4/Orsay25/4.jpeg"/>
+<img src="/_pages/WG4/Orsay25/5.jpeg"/>

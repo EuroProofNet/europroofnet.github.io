@@ -387,3 +387,8 @@ Some observations about plurals in mathematics (Invited Talk)
 
 Abstract:
 In this talk, we will review issues related to the semantics of plurals in natural language and demonstrate how these issues arise in the case of mathematical texts.  In particular, we will focus on the distinction between collective and distributive predicates. Then, we will sketch the lines of a compositional treatment of plurals in textual mathematics.
+
+<img src="/_pages/MCLP/1.jpeg"/>
+<img src="/_pages/MCLP/2.jpeg"/>
+<img src="/_pages/MCLP/3.jpeg"/>
+<img src="/_pages/MCLP/4.jpeg"/>
