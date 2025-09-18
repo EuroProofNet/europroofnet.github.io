@@ -6,6 +6,8 @@ author_profile: true
 breadcrumbs: true
 ---
 
+<img src="/_pages/WG4/Orsay25/group.jpeg"/>
+
 This conference is part of the [EuroProofNet Symposium](../Symposium). See the symposium page to get information on the other co-located events.
 
 **Date:** 15-18 September 2025
