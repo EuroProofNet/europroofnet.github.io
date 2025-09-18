@@ -6,7 +6,7 @@ author_profile: true
 breadcrumbs: true
 ---
 
-<img src="group.jpeg"/>
+<img src="/_pages/WG3/Sept2025/group.jpeg"/>
 
 This will be the final meeting of the EuroProofNet Working Group 3 on Program Verification. It is part of the [Final EuroProofNet Symposium](https://europroofnet.github.io/Symposium/).
 
@@ -117,3 +117,5 @@ Please note that you have to organize yourself for lunches (and dinners), but th
 | 12:30-14:00 | [Lunch](../Food) |
 | 14:00-16:00 | [EuroProofNet Management Committee meeting](../mc-meetings) |
 | 16:00-16:30 | _Break_ |
+
+<img src="/_pages/WG3/Sept2025/1.jpeg"/>
