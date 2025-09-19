@@ -29,6 +29,8 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 - [Formalising Inductive and Coinductive Containers](https://arxiv.org/abs/2409.02603), Stefania Damato, Thorsten Altenkirch, Axel Ljungström. [ITP '25](https://icetcs.github.io/frocos-itp-tableaux25/itp/) (to appear)
 - [Proof Verification with GDV and LambdaPi - It's a Matter of Trust](https://doi.org/10.32473/flairs.38.1.138642), Geoff Sutcliffe, Frédéric Blanqui, Guillaume Burel. FLAIRS 2025
 - [The Cost of Skeletal Call-by-Need, Smoothly](https://doi.org/10.4230/LIPIcs.FSCD.2025.5), Beniamino Accattoli, Francesco Magliocca, Loïc Peyrot, Claudio Sacerdoti Coen. [FSCD'25](https://fscd2025.github.io/).
+- [The CDSAT method for satisfiability modulo theories and assignments: an exposition](https://doi.org/10.1007/978-3-031-95908-0_1), Maria Paola Bonacina, [*CiE'25*](https://www.illc.uva.nl/NewsandEvents/Events/Conferences/newsitem/15213/14---18-July-2025-Computability-in-Europe-2025-CiE-2025-Lisbon-Portugal).
+- [The QSMA algorithm for quantifiers in SMT.](https://doi.org/0.1007/s10817-025-09727-8), Maria Paola Bonacina, Stéphane Graham-Lengrand, and Christophe Vauthier. [*JAR*](https://www.springer.com/journal/10817)
 
 **2024**
 
@@ -163,6 +165,9 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 - [VizAR: Visualization of Automated Reasoning Proofs &endash; System Description](https://doi.org/10.1007/978-3-031-42753-4_22), Jan Jakubův, Cezary Kaliszyk, [CICM'23](https://cicm-conference.org/2023/cicm.php)
 - [Automated generation of illustrated proofs in geometry and beyond](https://doi.org/10.1007/s10472-023-09857-y), Predrag Janičić, Julien Narboux, Annals of Mathematics and Artificial Intelligence, [AMAI]
 - [Formalizing Functions as Processes](https://doi.org/10.4230/LIPIcs.ITP.2023.5), Beniamino Accattoli, Horace Blanc, Claudio Sacerdoti Coen [ITP'23](https://mizar.uwb.edu.pl/ITP2023/)
+- [Reasoning about quantifiers in SMT: the QSMA algorithm (Abstract)](https://doi.org/10.34727/2023/isbn.978-3-85448-060-0_1), Maria Paola Bonacina. In Alexander Nadel and Kristin Yvonne Rozier (Eds.) Proceedings of the 23rd International Conference on Formal Methods in Computer-Aided Design (FMCAD), Ames, Iowa, USA, October 2023. TU Wien Academic Press, 1--1, 2023.
+- [QSMA: a new algorithm for quantified satisfiability modulo theory and assignment.](https://doi.org/10.1007/978-3-031-38499-8_5), Maria Paola Bonacina, Stéphane Graham-Lengrand, and Christophe Vauthier. In Brigitte Pientka and Cesare Tinelli (Eds.) Proceedings of the 29th International Conference on Automated Deduction (CADE), Rome, Italy, EU, July 2023. Springer, Lecture Notes in Artificial Intelligence 14132, 78-95, 2023.
+- [Semantically-guided goal-sensitive reasoning: decision procedures and the Koala prover](https://doi.org/10.1007/s10817-022-09656-w), Maria Paola Bonacina and Sarah Winkler. Journal of Automated Reasoning, 67(1):6, 42 pages, March 2023.
 
 **2022**
 
@@ -214,7 +219,11 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 - [Verifying Catamorphism-Based Contracts using Constrained Horn Clauses](https://doi.org/10.1017/S1471068422000175),  Emanuele De Angelis, Maurizio Proietti, Fabio Fioravanti, Alberto Pettorossi, [*TPLP*](https://www.cambridge.org/core/journals/theory-and-practice-of-logic-programming)
 - [Vers une traduction de K en Dedukti](https://hal.archives-ouvertes.fr/hal-03604962) (Towards a translation of K in Dedukti), Amélie Ledein, Valentin Blot, Catherine Dubois, [JFLA'22](http://jfla.inria.fr/jfla2022.html)
 - [What Can Formal Systems Do For Mathematics? A Discussion Through The Lens Of Proof Assistants: Some Recent Advances](https://www.researchgate.net/publication/359592051_What_Can_Formal_Systems_Do_For_Mathematics_A_Discussion_Through_The_Lens_Of_Proof_Assistants_Some_Recent_Advances), Angeliki Koutsoukou-Argyraki Q&A with Jeremy Avigad, Jasmin Blanchette, Frédéric Blanqui, Kevin Buzzard, Johan Commelin, Manuel Eberl, Timothy Gowers, Peter Koepke, Assia Mahboubi, Ursula Martin, Lawrence C. Paulson, Special Issue for the 60th Anniversary of the DVMLG (German Association for Mathematical Logic and for Basic Research in the Exact Sciences), Benedikt Löwe, Deniz Sarikaya (eds.), College Publications, 2022
-
+-  [Conflict-driven satisfiability for theory combination: lemmas, modules, and proofs](https://doi.org/10.1007/s10817-021-09606-y), Maria Paola Bonacina, Stéphane Graham-Lengrand, and Natarajan Shankar, Journal of Automated Reasoning, 66(1):43-91, February 2022
+- [CDSAT for nondisjoint theories with shared predicates: arrays with abstract length](https://ceur-ws.org/Vol-3185/paper9712.pdf), Maria Paola Bonacina, Stéphane Graham-Lengrand, and Natarajan Shankar. In Antti Hyvaerinen and David Déharbe (Eds.) Proceedings of the 20th International Workshop on Satisfiability Modulo Theories (SMT), satellite of the 11th IJCAR, 8th FLoC, Haifa, Israel, August 2022. CEUR Workshop Proceedings 3185, 18-37, 2022.
+- [Set of support, demodulation, paramodulation: a historical perspective](https://doi.org/0.1007/s10817-022-09628-0), Maria Paola Bonacina. Journal of Automated Reasoning, 66(4):463-497, November 2022.
+- [Larry Wos - Visions of automated reasoning](https://doi.org/10.1007/s10817-022-09620-8), Michael Beeson, Maria Paola Bonacina, Michael Kinyon, and Geoff Sutcliffe. Journal of Automated Reasoning, 66(4):439-461, November 2022.
+- [On SGGS and Horn clauses](https://ceur-ws.org/Vol-3201/paper6.pdf) Maria Paola Bonacina and Sarah Winkler. In Boris Konev, Claudia Schon, and Alexander Steen (Eds.) Proceedings of the 8th Workshop on Practical Aspects of Automated Reasoning (PAAR), satellite of the 11th IJCAR, 8th FLoC, Haifa, Israel, August 2022. CEUR Workshop Proceedings 3201, 1-20, 2022.
 
 
 **Reports**
