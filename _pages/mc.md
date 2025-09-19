@@ -7,14 +7,15 @@ title: "Management Committee Meetings"
 
 In this last meeting, we will present a summary of the achievements of the action and of each working group.
 
-- [Gender-balance final report](MC/meeting5/gender-balance.pdf)
-- summary of WG1
+- [Gilles Dowek's contributions to EuroProofNet](MC/meeting5/gilles.pdf)
+- [summary of activities on Nov 24 - Oct 25](MC/meeting5/summary.pdf)
+- [summary of gender-balance activities](MC/meeting5/gender-balance.pdf)
+- [summary of WG1](MC/meeting5/wg1.pdf)
 - [summary of WG2](MC/meeting5/wg2.pdf)
 - summary of WG3
 - summary of WG4
 - summary of WG5
 - summary of WG6 (no slides)
-
 
 **Meeting 4: 11 October 2024**
 
