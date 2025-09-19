@@ -10,7 +10,7 @@ In this last meeting, we will present a summary of the achievements of the actio
 - [Gilles Dowek's contributions to EuroProofNet](MC/meeting5/gilles.pdf)
 - [summary of activities on Nov 24 - Oct 25](MC/meeting5/summary.pdf)
 - [summary of gender-balance activities](MC/meeting5/gender-balance.pdf)
-- summary of grant awarding activities
+- [summary of grant awarding activities](MC/meeting5/grants.pdf)
 - [summary of WG1](MC/meeting5/wg1.pdf)
 - [summary of WG2](MC/meeting5/wg2.pdf)
 - summary of WG3
