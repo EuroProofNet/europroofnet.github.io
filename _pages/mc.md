@@ -7,6 +7,14 @@ title: "Management Committee Meetings"
 
 In this last meeting, we will present a summary of the achievements of the action and of each working group.
 
+- [Gender-balance final report](MC/meeting5/gender-balance.pdf)
+- summary of WG1
+- [summary of WG2](MC/meeting5/wg2.pdf)
+- summary of WG3
+- summary of WG4
+- summary of WG5
+
+
 **Meeting 4: 11 October 2024**
 
 - [minutes](MC/meeting4/minutes.md)
