@@ -78,7 +78,7 @@ Please note that you have to organize yourself for lunches (and dinners), but th
 | 15:00-15:30 | S | T | 
 | 15:30-16:00 | break | break | 
 | 16:00-17:00 |  [Sana Stojanovic-Durdevic](https://poincare.matf.bg.ac.rs/~sana.stojanovic.djurdjevic/) and [Danijela Simic](https://poincare.matf.bg.ac.rs/~danijela.simic/), University of Belgrade, Faculty of Mathematics | Proof by Cases in Euclidean Geometry | 
-| 17:00-18:00 | [Jørgen Villadsen](https://people.compute.dtu.dk/jovi/), Technical University of Denmark, Denmark | On Natural Deduction and Axioms for Propositional and First-Order Logic | 
+| 17:00-18:00 | [Jørgen Villadsen](https://people.compute.dtu.dk/jovi/), Technical University of Denmark, Denmark | On Natural Deduction and Axioms for Propositional and First-Order Logic (Invited) | 
 | 18:00-18:30  | S | T | 
 
 **Thursday, Sep 18 2025; Joint Sessions from 11:00, MCLP and WG3**
@@ -259,7 +259,7 @@ The implementation of translators between NL expressions and formal languages of
 - [Jørgen Villadsen](https://people.compute.dtu.dk/jovi/), Technical University of Denmark,
 Copenhagen, Denmark
 
-On Natural Deduction and Axioms for Propositional and First-Order Logic
+On Natural Deduction and Axioms for Propositional and First-Order Logic (Invited Talk)
 
 Abstract: 
 We present a concise formalization in the proof assistant Isabelle/HOL of classical propositional and first-order logic, based on natural deduction and axioms, and where the completeness theorem hold for languages of arbitrary cardinalities.
