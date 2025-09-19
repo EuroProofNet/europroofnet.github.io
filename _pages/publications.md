@@ -31,6 +31,7 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 - [The Cost of Skeletal Call-by-Need, Smoothly](https://doi.org/10.4230/LIPIcs.FSCD.2025.5), Beniamino Accattoli, Francesco Magliocca, Loïc Peyrot, Claudio Sacerdoti Coen. [FSCD'25](https://fscd2025.github.io/).
 - [The CDSAT method for satisfiability modulo theories and assignments: an exposition](https://doi.org/10.1007/978-3-031-95908-0_1), Maria Paola Bonacina, [*CiE'25*](https://www.illc.uva.nl/NewsandEvents/Events/Conferences/newsitem/15213/14---18-July-2025-Computability-in-Europe-2025-CiE-2025-Lisbon-Portugal).
 - [The QSMA algorithm for quantifiers in SMT.](https://doi.org/0.1007/s10817-025-09727-8), Maria Paola Bonacina, Stéphane Graham-Lengrand, and Christophe Vauthier. [*JAR*](https://www.springer.com/journal/10817)
+- [Improving the SMT Proof Reconstruction Pipeline in Isabelle/HOL](TODO) Hanna Lachnitt, Mathias Fleury, Haniel Barbosa, Andrew Reynolds, Jibiana Jakpor, Bruno Andreotti, Clark Barrett, Hans-Joerg Schurr, and Cesare Tinelli, [*ITP'25*](https://icetcs.github.io/frocos-itp-tableaux25/itp/)
 
 **2024**
 
@@ -89,7 +90,8 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 - [Who finds the short proof?](https://doi.org/10.1093/jigpal/jzac082), Christoph Benzmüller, David Fuenmayor, Alexander Steen, Geoff Sutcliffe. [*LJIGPL*](https://academic.oup.com/jigpal)
 - [Shoggoth: A Formal Foundation for Strategic Rewriting](https://doi.org/10.1145/3633211), Xueying Qin, Liam O'Connor, Rob van Glabbeek, Peter Höfner, Ohad Kammar, and Michel Steuwer. POPL'24.
 - [IMELL Cut Elimination with Linear Overhead](https://doi.org/10.4230/LIPIcs.FSCD.2024.24), Beniamino Accattoli, Claudio Sacerdoti Coen. [FSCD'24](https://cs.ioc.ee/fscd24/)
-
+- [Learn to Unlearn](https://doi.org/10.4230/LIPICS.SAT.2025.14), Bernhard Gstrein and Florian Pollitt and André Schidler and Mathias Fleury and Armin Biere. [*SAT'24*](https://satisfiability.org/SAT24/)
+- [Lazy Reimplication in Chronological Backtracking](https://doi.org/10.4230/LIPIcs.SAT.2024.9), Robin Coutelier, Mathias Fleury and Laura Kovács. [*SAT'24*](https://satisfiability.org/SAT24/)
 
 **2023**
 
