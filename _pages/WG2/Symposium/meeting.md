@@ -168,6 +168,8 @@ theories.
 
 (Joint work in progress with Stéphane Graham-Lengrand and Natarajan Shankar)
 
++ Hanna Lachnitt (Stanford University), Reconstruction of cvc5 Proofs in Isabelle/HOL
+
 **Discussion**
 
 + EPN Goals and what did we achieve?
