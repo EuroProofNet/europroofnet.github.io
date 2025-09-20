@@ -31,6 +31,10 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 - [The CDSAT method for satisfiability modulo theories and assignments: an exposition](https://doi.org/10.1007/978-3-031-95908-0_1), Maria Paola Bonacina, [*CiE'25*](https://www.illc.uva.nl/NewsandEvents/Events/Conferences/newsitem/15213/14---18-July-2025-Computability-in-Europe-2025-CiE-2025-Lisbon-Portugal).
 - [The QSMA algorithm for quantifiers in SMT.](https://doi.org/0.1007/s10817-025-09727-8), Maria Paola Bonacina, Stéphane Graham-Lengrand, and Christophe Vauthier. [*JAR*](https://www.springer.com/journal/10817)
 - [Improving the SMT Proof Reconstruction Pipeline in Isabelle/HOL](TODO) Hanna Lachnitt, Mathias Fleury, Haniel Barbosa, Andrew Reynolds, Jibiana Jakpor, Bruno Andreotti, Clark Barrett, Hans-Joerg Schurr, and Cesare Tinelli, [*ITP'25*](https://icetcs.github.io/frocos-itp-tableaux25/itp/)
+- [lean-smt: An SMT Tactic for Discharging Proof Goals in Lean.](https://doi.org/10.1007/978-3-031-98682-6_11), Abdalrhman Mohamed, Tomaz Mascarenhas, Muhammad Harun Ali Khan, Haniel Barbosa, Andrew Reynolds, Yicheng Qian, Cesare Tinelli, Clark W. Barrett.  [*CAV 2025*](https://conferences.i-cav.org/2025/)
+- [Ground Truth: Checking Vampire Proofs via Satisfiability Modulo Theories](https://doi.org/10.1007/978-3-031-99984-0_8), Michael Rawson, Andrei Voronkov, Johannes Schoisswohl, Anja Petkovic Komel. *CADE 2025*
+- [Case Study: Verified Vampire Proofs in the LambdaPi-calculus Modulo.](https://doi.org/10.48550/arXiv.2503.15541), Anja Petkovic Komel, Michael Rawson, Martin Suda. arXiv.
+
 
 **2024**
 
@@ -91,6 +95,10 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 - [IMELL Cut Elimination with Linear Overhead](https://doi.org/10.4230/LIPIcs.FSCD.2024.24), Beniamino Accattoli, Claudio Sacerdoti Coen. [FSCD'24](https://cs.ioc.ee/fscd24/)
 - [Learn to Unlearn](https://doi.org/10.4230/LIPICS.SAT.2025.14), Bernhard Gstrein and Florian Pollitt and André Schidler and Mathias Fleury and Armin Biere. [*SAT'24*](https://satisfiability.org/SAT24/)
 - [Lazy Reimplication in Chronological Backtracking](https://doi.org/10.4230/LIPIcs.SAT.2024.9), Robin Coutelier, Mathias Fleury and Laura Kovács. [*SAT'24*](https://satisfiability.org/SAT24/)
+- [Clausal Congruence Closure](https://doi.org/10.4230/LIPIcs.SAT.2024.9), Armin Biere, Katalin Fazekas, Mathias Fleury, Nils Froleyks. [*SAT 2024*]()
+- [Clausal Equivalence Sweeping](https://doi.org/10.34727/2024/isbn.978-3-85448-065-5_29), Armin Biere, Katalin Fazekas, Mathias Fleury, Nils Froleyks. [*FMCAD 2024*]()
+- [IsaRare: Automatic Verification of SMT Rewrites in Isabelle/HOL.](), Hanna Lachnitt, Mathias Fleury, Leni Aniva, Andrew Reynolds, Haniel Barbosa, Andres Nötzli, Clark W. Barrett, Cesare Tinelli. [*TACAS'24*]()
+- [Invited Talk: The Hows and Whys of Higher-Order SMT](https://ceur-ws.org/Vol-3725/invited1.pdf), Sophie Tourret, *SMT'24*
 
 **2023**
 
@@ -168,6 +176,11 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 - [Formalizing Functions as Processes](https://doi.org/10.4230/LIPIcs.ITP.2023.5), Beniamino Accattoli, Horace Blanc, Claudio Sacerdoti Coen [ITP'23](https://mizar.uwb.edu.pl/ITP2023/)
 - [Reasoning about quantifiers in SMT: the QSMA algorithm (Abstract)](https://doi.org/10.34727/2023/isbn.978-3-85448-060-0_1), Maria Paola Bonacina. In Alexander Nadel and Kristin Yvonne Rozier (Eds.) Proceedings of the 23rd International Conference on Formal Methods in Computer-Aided Design (FMCAD), Ames, Iowa, USA, October 2023. TU Wien Academic Press, 1--1, 2023.
 - [Semantically-guided goal-sensitive reasoning: decision procedures and the Koala prover](https://doi.org/10.1007/s10817-022-09656-w), Maria Paola Bonacina and Sarah Winkler. Journal of Automated Reasoning, 67(1):6, 42 pages, March 2023.
+  [Decidability of Difference Logic over the Reals with Uninterpreted Unary Predicates](https://link.springer.com/chapter/10.1007/978-3-031-38499-8_31), Bernard Boigelot, Pascal Fontaine, Baptiste Vergain. CADE 2023: 542-559
+- [Towards an Independent Version of Tarski's System of Geometry](https://doi.org/10.4204/EPTCS.398.11), Pierre Boutry, Stéphane Kastenbaum, Clément Saintier. *ADG 2023*
+- [Towards a geometry deductive database prover.](https://doi.org/10.1007/s10472-023-09839-0), Nuno Baeta, Pedro Quaresma. *Ann. Math. Artif. Intell. 91*
+- [Measuring the Readability of Geometric Proofs: The Area Method Case.](https://doi.org/10.1007/s10817-022-09652-0), Pedro Quaresma, Pierluigi Graziani. J. Autom. Reason. 67, 2023.
+- [Considerations on Approaches and Metrics in Automated Theorem Generation/Finding in Geometry.](https://doi.org/10.4204/EPTCS.398.12), Pedro Quaresma, Pierluigi Graziani, Stefano M. Nicoletti. *ADG 2023*
 
 **2022**
 
