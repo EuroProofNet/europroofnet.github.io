@@ -17,29 +17,29 @@ The event is scheduled as a two and a half-day meeting. Times are CET.
 
 **Day 1**
 
-* Opening & Presentation (09:00-09:30): _The EuroProofNet COST Action and WG3 "Program Verification"_. Adri&aacute;n Riesco
+* Opening & Presentation (09:00-09:30): _The EuroProofNet COST Action and WG3 "Program Verification"_. Adri&aacute;n Riesco [(slides)](./wg3_welcome.pdf) 
 * WG3 (9:30-10:30)
-  - Deliverables D11 & D12. Adri&aacute;n Riesco and Alicia Villanueva
+  - Deliverables D11 & D12. Adri&aacute;n Riesco and Alicia Villanueva [(slides)](./wg3_deliverables.pdf) 
   - Discussion
 * Talks (11:00-12:30)
-  - :large_blue_circle: _Sound and Complete Invariant-Based Heap Encodings_. Esen Zafer (Uppsala University, Sweden)
-  - :white_circle: _On Exact Propositional Model Counting and Enumeration and Automated Model Building in Predicate Logic_. Sibylle Möhle (University of Regensburg, Germany)
+  - :large_blue_circle: _Sound and Complete Invariant-Based Heap Encodings_. Esen Zafer (Uppsala University, Sweden) [(slides)](./presentation_Esen.pdf)
+  - :white_circle: _On Exact Propositional Model Counting and Enumeration and Automated Model Building in Predicate Logic_. Sibylle Möhle (University of Regensburg, Germany) [(slides)](./presentation_Moehle.pdf)
 * Talks (14:00-15:30)
   - :large_blue_circle: _Formal Analysis of Attested TLS in Industrial Settings_. Usama Sardar (TU Dresden, Germany)
   - :white_circle: _Separation Logic is incomplete_. Hans-Dieter Hiep (NLnet Foundation)
 * Talks and Discussion (16:00-17:30)
-  - :white_circle: _Formally verified domains in Why3_. Catherine Dubois (ENSIIE, France).
+  - :white_circle: _Formally verified domains in Why3_. Catherine Dubois (ENSIIE, France). [(slides)](./presentation_dubois.pdf)
 
 **Day 2**
 
 * Talks (09:00-10:30)
-  - :white_circle: _Verification tools_. Madalina Erascu (West University of Timisoara, Romania)
-  - :large_blue_circle: _Prove your Colorings: Formal Verification of Cache Coloring of Bao Hypervisor_. Nikolai Kosmatov (Thales Research and Technology,France)
+  - :white_circle: _Verification tools_. Madalina Erascu (West University of Timisoara, Romania) [(slides)](./presentation_erascu.pdf)
+  - :large_blue_circle: _Prove your Colorings: Formal Verification of Cache Coloring of Bao Hypervisor_. Nikolai Kosmatov (Thales Research and Technology,France) [(slides)](./presentation_Kosmatov_Cache_coloring_verrification.pdf)
 * WG3 + MCLP Session (11:00-12:30)
   - :clipboard: _A Lean-based Language for Teaching Proof in High-school_. Frédéric Tran Minh (UGA-Grenoble INP-Esisar), Laure Gonnord (Grenoble-INP / LCIS), and Julien Narboux (RIF - Université Paris Cité)
 * WG3 + MCLP Session (14:00-15:30)
-  - :large_blue_circle: _Singular and Plural Functions_. Adrian Riesco* and Juan Rodriguez-Hortala (Universidad Complutense de Madrid, Spain)
-  - _Pure versus Generalised Quantifiers_. Roussanka Loukanova, (Bulgarian Academy of Sciences)
+  - :large_blue_circle: _Singular and Plural Functions_. Adrian Riesco* and Juan Rodriguez-Hortala (Universidad Complutense de Madrid, Spain) [(slides)](./wg3_plural.pdf)
+  - _Parametric Information via Type Theory of Acyclic Algorithms_. Roussanka Loukanova, (Bulgarian Academy of Sciences) [(slides)](./Roussanka-parinfo-ttaa.pdf)
 * WG3 + MCLP Session (16:00-17:00)
   - :large_blue_circle: _Natural Logic: Proof Systems for Reasoning in Natural Language_. Lawrence S. Moss* (Indiana University, USA)
 * Closing the day
@@ -47,7 +47,7 @@ The event is scheduled as a two and a half-day meeting. Times are CET.
 **Day 3**
 
 * Talks (9:00-10:30)
-  - :large_blue_circle: _A Global Specification Model for Data-Aware Coordination (with an application to smart contracts)_. António Ravara (New University of Lisbon, Portugal)
+  - :large_blue_circle: _A Global Specification Model for Data-Aware Coordination (with an application to smart contracts)_. António Ravara (New University of Lisbon, Portugal) [(slides)](./presentation_ravara.pdf)
   - :white_circle: _MongoDB Specification in Maude_. Beatriz Alcaide (UCM, Madrid) &nbsp; [(slides)](./mongodb_europroof.pdf) 
 * Closing discussion (11:00-12:30)
 
