@@ -26,7 +26,7 @@ The event is scheduled as a two and a half-day meeting. Times are CET.
   - :white_circle: _On Exact Propositional Model Counting and Enumeration and Automated Model Building in Predicate Logic_. Sibylle Möhle (University of Regensburg, Germany) [(slides)](./presentation_Moehle.pdf)
 * Talks (14:00-15:30)
   - :large_blue_circle: _Formal Analysis of Attested TLS in Industrial Settings_. Usama Sardar (TU Dresden, Germany)
-  - :white_circle: _Separation Logic is incomplete_. Hans-Dieter Hiep (NLnet Foundation)
+  - :white_circle: _Separation Logic is incomplete_. Hans-Dieter Hiep (NLnet Foundation) [(slides)](./wg-3-hiep_Separation_Logic_is_incomplete.pdf)
 * Talks and Discussion (16:00-17:30)
   - :white_circle: _Formally verified domains in Why3_. Catherine Dubois (ENSIIE, France). [(slides)](./presentation_dubois.pdf)
 
