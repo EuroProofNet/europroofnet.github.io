@@ -36,7 +36,7 @@ The event is scheduled as a two and a half-day meeting. Times are CET.
   - :white_circle: _Verification tools_. Madalina Erascu (West University of Timisoara, Romania) [(slides)](./presentation_erascu.pdf)
   - :large_blue_circle: _Prove your Colorings: Formal Verification of Cache Coloring of Bao Hypervisor_. Nikolai Kosmatov (Thales Research and Technology,France) [(slides)](./presentation_Kosmatov_Cache_coloring_verrification.pdf)
 * WG3 + MCLP Session (11:00-12:30)
-  - :clipboard: _A Lean-based Language for Teaching Proof in High-school_. Frédéric Tran Minh (UGA-Grenoble INP-Esisar), Laure Gonnord (Grenoble-INP / LCIS), and Julien Narboux (RIF - Université Paris Cité)
+  - :clipboard: _A Lean-based Language for Teaching Proof in High-school_. Frédéric Tran Minh (UGA-Grenoble INP-Esisar), Laure Gonnord (Grenoble-INP / LCIS), and Julien Narboux (RIF - Université Paris Cité) [(slides)](./MCLP-2025-tran-minh-gonnord-narboux-yalep.pdf)
 * WG3 + MCLP Session (14:00-15:30)
   - :large_blue_circle: _Singular and Plural Functions_. Adrian Riesco* and Juan Rodriguez-Hortala (Universidad Complutense de Madrid, Spain) [(slides)](./wg3_plural.pdf)
   - _Parametric Information via Type Theory of Acyclic Algorithms_. Roussanka Loukanova, (Bulgarian Academy of Sciences) [(slides)](./Roussanka-parinfo-ttaa.pdf)
