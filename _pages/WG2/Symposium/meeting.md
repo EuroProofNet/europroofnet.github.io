@@ -48,7 +48,7 @@ Please note that you have to organize yourself for lunches (and dinners), but th
 |                |                                                               |                                                                                      |                                                        |
 | 15:30 -- 16:00 | Break                                                         | Break                                                                                | Break                                                  |
 | 16:00 -- 17:00 | Alethe (II)                                                   | [Geoff Sutcliffe](https://tptp.org/Seminars/GDVLambdaPiTrust/Contents.html) (remote) |                                                        |
-|                | Bruno Andreotti                                               | Discussion                                                                           |                                                        |
+|                | [Bruno Andreotti](./slides/Andreotti-slides.pdf)              | Discussion                                                                           |                                                        |
 |                | Hanna Lachnitt                                                | EPN Goals and what did we achieve?                                                   |                                                        |
 |                |                                                               |                                                                                      |                                                        |
 | 17:00 -- 17:30 | Hans-Jörg Schurr (WIP)                                        |                                                                                      |                                                        |
@@ -110,7 +110,7 @@ checker.
 
 
 
-+ Bruno Andreotti (Universidade Federal de Minas Gerais), TBA  <!-- Thursday afternoon -->
++ Bruno Andreotti (Universidade Federal de Minas Gerais), Carcara: A proof checker, elaborator and translator for Alethe  <!-- Thursday afternoon -->
 
 + Hans-Jörg Schurr (University of Iowa), System ϒ --- Solid Foundations for SMT Proofs  <!-- Thursday afternoon -->
 
