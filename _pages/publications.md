@@ -25,7 +25,7 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 - [Type Theory in Type Theory using a Strictified Syntax](https://doi.org/10.1145/3747535), Ambrus Kaposi, Loïc Pujet. ICFP 2025
 - [ADG Lib Initiative](https://github.com/ADG-Foundation/ADG-Lib), Pedro Quaresma, Predrag Janičić, Julien Narboux, Zoltán Kovács, Anna Petiurenko, Filip Marić and Nuno Baeta, extended abstract at ADG'25
 - [Comodule Representations of Second-Order Functionals](https://doi.org/10.1016/j.jlamp.2025.101071), Danel Ahman, Andrej Bauer. *JLAMP*
-- [Formalising Inductive and Coinductive Containers](https://arxiv.org/abs/2409.02603), Stefania Damato, Thorsten Altenkirch, Axel Ljungström. [ITP '25](https://icetcs.github.io/frocos-itp-tableaux25/itp/) (to appear)
+- [Formalising Inductive and Coinductive Containers](https://doi.org/10.4230/LIPIcs.ITP.2025.17), Stefania Damato, Thorsten Altenkirch, Axel Ljungström. [ITP '25](https://icetcs.github.io/frocos-itp-tableaux25/itp/)
 - [Proof Verification with GDV and LambdaPi - It's a Matter of Trust](https://doi.org/10.32473/flairs.38.1.138642), Geoff Sutcliffe, Frédéric Blanqui, Guillaume Burel. FLAIRS 2025
 - [The Cost of Skeletal Call-by-Need, Smoothly](https://doi.org/10.4230/LIPIcs.FSCD.2025.5), Beniamino Accattoli, Francesco Magliocca, Loïc Peyrot, Claudio Sacerdoti Coen. [FSCD'25](https://fscd2025.github.io/).
 - [The CDSAT method for satisfiability modulo theories and assignments: an exposition](https://doi.org/10.1007/978-3-031-95908-0_1), Maria Paola Bonacina, [*CiE'25*](https://www.illc.uva.nl/NewsandEvents/Events/Conferences/newsitem/15213/14---18-July-2025-Computability-in-Europe-2025-CiE-2025-Lisbon-Portugal).
