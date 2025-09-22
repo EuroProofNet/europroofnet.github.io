@@ -13,7 +13,7 @@ In this last meeting, we will present a summary of the achievements of the actio
 - [summary of grant awarding activities](MC/meeting5/grants.pdf)
 - [summary of WG1](MC/meeting5/wg1.pdf)
 - [summary of WG2](MC/meeting5/wg2.pdf)
-- summary of WG3
+- [summary of WG3](MC/meeting5/WG3-activities.pdf)
 - [summary of WG4](MC/meeting5/wg4.pdf)
 - [summary of WG5](MC/meeting5/wg5.pdf)
 - summary of WG6 (no slides)
