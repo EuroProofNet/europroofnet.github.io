@@ -16,7 +16,7 @@ In this last meeting, we will present a summary of the achievements of the actio
 - [summary of WG3](MC/meeting5/WG3-activities.pdf)
 - [summary of WG4](MC/meeting5/wg4.pdf)
 - [summary of WG5](MC/meeting5/wg5.pdf)
-- summary of WG6 (no slides)
+- [summary of WG6](MC/meeting5/wg6.pdf)
 
 **Meeting 4: 11 October 2024**
 
