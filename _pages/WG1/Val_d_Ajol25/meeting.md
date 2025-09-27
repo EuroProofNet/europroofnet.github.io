@@ -1,0 +1,73 @@
+---
+title: "Inter-WG developers meeting, Le Val d'Ajol, 24-26 September 2025"
+layout: single
+permalink: /inter-wg-25/
+author_profile: true
+breadcrumbs: true
+---
+
+<!--img src="/_pages/WG1/Val_d_Ajol24/IMG_20240423_195536.jpg"/-->
+
+**Organizer:** [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/)
+
+**Date:** 24-26 September 2025
+
+**Venue:** [La Résidence](https://la-residence.com/), 5 rue des Mousses, 88340 Le Val d’Ajol, France
+
+**Participants (15):** Frédéric Blanqui, Abdelghani Alidra, Bruno Barras, Benjamin Thibaut, Ewen Broudin-Caradec, Catherine Dubois, Ciarán Dunne, Olivier Hermant, Nicolas Margulies, Melanie Taprogge, Thomas Traversié, Rishikesh Vaishnav, Théo Winterhalter, Antoine Gontard, Ivan Martinez Comas.
+
+**Wednesday 24 September:**
+
+|13:00-14:30|lunch|
+|14:30-16:30|work session 1|
+|16:30-17:00|coffee break|
+|17:00-19:00|work session 2|
+|19:00-20:00|free time|
+|20:00-21:30|dinner|
+
+**Thursday 25 September:**
+
+|08:30-09:00|breakfast|
+|09:00-10:30|work session 3|
+|10:30-11:00|coffee break|
+|11:00-13:00|work session 4|
+|13:00-14:30|lunch|
+|14:30-16:30|work session 5|
+|16:30-17:00|coffee break|
+|17:00-19:00|work session 6|
+|19:00-20:00|free time|
+|20:00-21:30|dinner|
+
+**Friday 26 September:**
+
+|08:30-09:00|breakfast|
+|09:00-10:30|work session 7|
+|10:30-11:00|coffee break|
+|11:00-13:00|work session 8|
+|13:00-14:30|lunch|
+
+**Program:**
+- work session 1:
+  * organization of the meeting
+  * discussion on next seminars
+  * talk by Ivan Martinez Comas
+- work session 2:
+  * individual work
+  * initiation to lean2dk and lean4less by Rish
+- work session 3:
+  * individual work
+  * discussion on conservativity of Lean over Lean-
+- work session 4:
+  * individual work
+  * initiation to Lambdapi
+- work session 5:
+  * round table (part 1): mini-talks by every participant
+- work session 6:
+  * talk by Antoine Gontard
+  * individual work
+- work session 7:
+  * round table (part 2): mini-talks by every participant
+  * talk by Benjamin Thibaut
+- work session 8:
+  * discussion on the future of the project
+  * discussion on software maintenance

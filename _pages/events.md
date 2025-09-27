@@ -13,6 +13,15 @@ author_profile: true
 
 **2025**
 
+- 24-26 September 2025: [Inter-WG meeting](../inter-wg-25), Le Val d'Ajol, France
+- 8-19 September 2025: [EuroProofNet Symposium](../Symposium), Institut Pascal, Orsay, France, with:
+    - 8-11 September 2025: [International School on Logical Frameworks and Proof Systems Interoperability](../LFPSI25)
+    - 11-13 September 2025: [Workshop on automated reasoning and proof-logging](../wg2-symposium)
+    - 13-14 September 2025: [2nd International Workshop on Highlights in Organizing and Optimizing Proof-logging Systems]( https://jakobnordstrom.se/WHOOPS25/)
+    - 15-16 September 2025: [Workshop on proof libraries](../WG4_Orsay25)
+    - 15-18 September 2025: [Conference on Mathematical and Computational Linguistics for Proofs](../MCLP)
+    - 17-19 September 2025: [Workshop on program verification](../wg3-Sept2025)
+    - 19 September 2025 at 14:00 (Paris time): final Management Committee meeting
 - 21-25 July 2025: [Scottish Programming Languages and Verification School](https://spli.scot/splv/2025-edinburgh/), Edinburgh, UK
 - 7-11 July 2025: [School on Symbolic and Statistical Methods for Reasoning and Processing Formal Expressions](../Kutaisi25), Kutaisi, Georgia
 - 10 June 2025: [Women in EuroProofNet workshop](https://europroofnet.github.io/women-epn-2025/) at the [31st International Conference on Types for Proofs and Programs](https://msp.cis.strath.ac.uk/types2025/) (TYPES'25), University of Strathclyde, Glasgow, UK
