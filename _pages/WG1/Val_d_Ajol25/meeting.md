@@ -67,7 +67,7 @@ breadcrumbs: true
   * individual work
 - work session 7:
   * round table (part 2): mini-talks by every participant
-  * talk by Benjamin Thibaut
+  * talk by Benjamin Thibaut: [Generating Higher Identity Proofs in Homotopy Type Theory](benjamin.pdf)
 - work session 8:
   * discussion on the future of the project
   * discussion on software maintenance
