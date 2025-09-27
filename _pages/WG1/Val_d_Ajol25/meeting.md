@@ -77,7 +77,7 @@ breadcrumbs: true
   * round table (part 2): mini-talks by every participant
     - Abdelghani Alidra: online search engine for libraries translated in Dedukti or Lambdapi
     - Thomas Traversié: theory morphisms (joint work with Florian Rabe)
-    - Olivier Hermant: extension of Barr theorem to higher-order logic
+    - Olivier Hermant: extension of Barr theorem to higher-order logic (joint work with Thomas Traversié and Marc Aiguier)
   * talk by Benjamin Thibaut: [Generating Higher Identity Proofs in Homotopy Type Theory](benjamin.pdf)
 - work session 8:
   * discussion on the future of the project
