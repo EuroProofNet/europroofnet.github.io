@@ -56,7 +56,7 @@ breadcrumbs: true
   * initiation to lean2dk and lean4less by Rish
 - work session 3:
   * individual work
-  * discussion on conservativity of Lean over Lean-
+  * discussion on the conservativity of Lean over Lean-
 - work session 4:
   * individual work
   * initiation to Lambdapi by Frédéric
