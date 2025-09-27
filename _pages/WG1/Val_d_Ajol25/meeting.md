@@ -50,7 +50,7 @@ breadcrumbs: true
 - work session 1:
   * organization of the meeting
   * discussion on next seminars
-  * talk by Ivan Martinez Comas
+  * talk by Ivan Martinez Comas: algebraic effects in pure subtyping systems
 - work session 2:
   * individual work
   * initiation to lean2dk and lean4less by Rish
@@ -59,14 +59,25 @@ breadcrumbs: true
   * discussion on conservativity of Lean over Lean-
 - work session 4:
   * individual work
-  * initiation to Lambdapi
+  * initiation to Lambdapi by Frédéric
 - work session 5:
   * round table (part 1): mini-talks by every participant
+    - Bruno Barras: Coqine, rewriting modulo AC
+    - Ewen Broudin-Caradec: ghost types
+    - Catherine Dubois: formalization of the A* algorithm on graphs
+    - Ciarán Dunne: Eo2lp: translator from Eunoia to Lambdapi
+    - Nicolas Margulies: cubical type theory
+    - Melanie Taprogge: certification of LEO-III proof traces in Lambdapi
+    - Rishikesh Vaishnav: explicitation of proof irrelevance in Lean
+    - Théo Winterhalter: local rewriting in type theory
 - work session 6:
-  * talk by Antoine Gontard
+  * talk by Antoine Gontard: tactics to automatically proving the alignments of inductive type and recursive function definitions
   * individual work
 - work session 7:
   * round table (part 2): mini-talks by every participant
+    - Abdelghani Alidra: online search engine for libraries translated in Dedukti or Lambdapi
+    - Thomas Traversié: theory morphisms (joint work with Florian Rabe)
+    - Olivier Hermant: extension of Barr theorem to higher-order logic
   * talk by Benjamin Thibaut: [Generating Higher Identity Proofs in Homotopy Type Theory](benjamin.pdf)
 - work session 8:
   * discussion on the future of the project
