@@ -75,7 +75,7 @@ breadcrumbs: true
   * individual work
 - work session 7:
   * round table (part 2): mini-talks by every participant
-    - Abdelghani Alidra: online search engine for libraries translated in Dedukti or Lambdapi
+    - Abdelghani Alidra: online search engine for libraries translated in Dedukti or Lambdapi (joint work with Claudio Sacerdoti Coen)
     - Thomas Traversié: theory morphisms (joint work with Florian Rabe)
     - Olivier Hermant: extension of Barr theorem to higher-order logic (joint work with Thomas Traversié and Marc Aiguier)
   * talk by Benjamin Thibaut: [Generating Higher Identity Proofs in Homotopy Type Theory](benjamin.pdf)
