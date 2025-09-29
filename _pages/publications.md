@@ -13,27 +13,27 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 
 **2025**
 - [A Predicative Approach to the Constructive Integration Theory of Locally Compact Metric Spaces](https://doi.org/10.4115/jla.2025.17.FDS4), Fabian Lukas Grubmüller, Iosif Petrakis. *J. Log. Anal.*
+- [ADG Lib Initiative](https://github.com/ADG-Foundation/ADG-Lib), Pedro Quaresma, Predrag Janičić, Julien Narboux, Zoltán Kovács, Anna Petiurenko, Filip Marić and Nuno Baeta, extended abstract at ADG'25
 - [Barendregt Convenes with Knaster and Tarski: Strong Rule Induction for Syntax with Bindings](https://doi.org/10.1145/3704893), Jan van Brügge, James McKinna, Andrei Popescu, Dmitriy Traytel. POPL'25
-- [Frex: dependently-typed algebraic simplification](https://doi.org/10.1145/3747506), Guillaume Allais, Edwin Brady, Nathan Corbyn, Ohad Kammar, and Jeremy Yallop. ICFP'25.
-- [Coverage Semantics for Dependent Pattern Matching](https://doi.org/10.1007/978-3-031-91118-7_11), Joseph Eremondi and  Ohad Kammar. ESOP'25.
+- [Case Study: Verified Vampire Proofs in the LambdaPi-calculus Modulo.](https://doi.org/10.48550/arXiv.2503.15541), Anja Petkovic Komel, Michael Rawson, Martin Suda. arXiv.
+- [Comodule Representations of Second-Order Functionals](https://doi.org/10.1016/j.jlamp.2025.101071), Danel Ahman, Andrej Bauer. *JLAMP*
 - [Continuous and algebraic domains in univalent foundations](https://doi.org/10.1016/j.jpaa.2025.108072), Tom de Jong, Martín Hötzel Escardó. [Journal of Pure and Applied Algebra](https://www.sciencedirect.com/journal/journal-of-pure-and-applied-algebra) (to appear)
+- [Coverage Semantics for Dependent Pattern Matching](https://doi.org/10.1007/978-3-031-91118-7_11), Joseph Eremondi and  Ohad Kammar. ESOP'25.
 - [Epimorphisms and Acyclic Types in Univalent Foundations](https://doi.org/10.1017/jsl.2024.76), Ulrik Buchholtz, Tom de Jong, Egbert Rijke. [Journal of Symbolic Logic](https://www.cambridge.org/core/journals/journal-of-symbolic-logic)
 - [Formalizing Equivalences Without Tears](https://doi.org/10.4230/LIPIcs.TYPES.2024.1), Tom de Jong. [TYPES'24 post-proceedings](https://drops.dagstuhl.de/entities/volume/LIPIcs-volume-336)
-- [Ordinal Exponentiation in Homotopy Type Theory](https://arxiv.org/abs/2501.14542), Tom de Jong, Nicolai Kraus, Fredrik Nordvall Forsberg, Chuangjie Xu. [LICS'25](https://lics.siglog.org/lics25/) (to appear)
-- [Safely Encoding B Proof Obligations in SMT-LIB](https://link.springer.com/chapter/10.1007/978-3-031-94533-5_4), Vincent Trélat, [ABZ 2025](https://abz-conf.org/site/2025/)
-- [Scalable Knowledge Refactoring using Constrained Optimisation](https://doi.org/10.1609/aaai.v39i14.33650), Minghao Liu, David M. Cerna, Filipe Gouveia, Andrew Cropper. AAAI'25
-- [Type Theory in Type Theory using a Strictified Syntax](https://doi.org/10.1145/3747535), Ambrus Kaposi, Loïc Pujet. ICFP 2025
-- [ADG Lib Initiative](https://github.com/ADG-Foundation/ADG-Lib), Pedro Quaresma, Predrag Janičić, Julien Narboux, Zoltán Kovács, Anna Petiurenko, Filip Marić and Nuno Baeta, extended abstract at ADG'25
-- [Comodule Representations of Second-Order Functionals](https://doi.org/10.1016/j.jlamp.2025.101071), Danel Ahman, Andrej Bauer. *JLAMP*
 - [Formalising Inductive and Coinductive Containers](https://doi.org/10.4230/LIPIcs.ITP.2025.17), Stefania Damato, Thorsten Altenkirch, Axel Ljungström. [ITP '25](https://icetcs.github.io/frocos-itp-tableaux25/itp/)
-- [Proof Verification with GDV and LambdaPi - It's a Matter of Trust](https://doi.org/10.32473/flairs.38.1.138642), Geoff Sutcliffe, Frédéric Blanqui, Guillaume Burel. FLAIRS 2025
-- [The Cost of Skeletal Call-by-Need, Smoothly](https://doi.org/10.4230/LIPIcs.FSCD.2025.5), Beniamino Accattoli, Francesco Magliocca, Loïc Peyrot, Claudio Sacerdoti Coen. [FSCD'25](https://fscd2025.github.io/).
-- [The CDSAT method for satisfiability modulo theories and assignments: an exposition](https://doi.org/10.1007/978-3-031-95908-0_1), Maria Paola Bonacina, [*CiE'25*](https://www.illc.uva.nl/NewsandEvents/Events/Conferences/newsitem/15213/14---18-July-2025-Computability-in-Europe-2025-CiE-2025-Lisbon-Portugal).
-- [The QSMA algorithm for quantifiers in SMT.](https://doi.org/0.1007/s10817-025-09727-8), Maria Paola Bonacina, Stéphane Graham-Lengrand, and Christophe Vauthier. [*JAR*](https://www.springer.com/journal/10817)
+- [Frex: dependently-typed algebraic simplification](https://doi.org/10.1145/3747506), Guillaume Allais, Edwin Brady, Nathan Corbyn, Ohad Kammar, and Jeremy Yallop. ICFP'25.
+- [Ground Truth: Checking Vampire Proofs via Satisfiability Modulo Theories](https://doi.org/10.1007/978-3-031-99984-0_8), Michael Rawson, Andrei Voronkov, Johannes Schoisswohl, Anja Petkovic Komel. *CADE 2025*
 - [Improving the SMT Proof Reconstruction Pipeline in Isabelle/HOL](https://doi.org/10.4230/LIPIcs.ITP.2025.26) Hanna Lachnitt, Mathias Fleury, Haniel Barbosa, Andrew Reynolds, Jibiana Jakpor, Bruno Andreotti, Clark Barrett, Hans-Joerg Schurr, and Cesare Tinelli, [*ITP'25*](https://icetcs.github.io/frocos-itp-tableaux25/itp/)
 - [lean-smt: An SMT Tactic for Discharging Proof Goals in Lean.](https://doi.org/10.1007/978-3-031-98682-6_11), Abdalrhman Mohamed, Tomaz Mascarenhas, Muhammad Harun Ali Khan, Haniel Barbosa, Andrew Reynolds, Yicheng Qian, Cesare Tinelli, Clark W. Barrett.  [*CAV 2025*](https://conferences.i-cav.org/2025/)
-- [Ground Truth: Checking Vampire Proofs via Satisfiability Modulo Theories](https://doi.org/10.1007/978-3-031-99984-0_8), Michael Rawson, Andrei Voronkov, Johannes Schoisswohl, Anja Petkovic Komel. *CADE 2025*
-- [Case Study: Verified Vampire Proofs in the LambdaPi-calculus Modulo.](https://doi.org/10.48550/arXiv.2503.15541), Anja Petkovic Komel, Michael Rawson, Martin Suda. arXiv.
+- [Ordinal Exponentiation in Homotopy Type Theory](https://arxiv.org/abs/2501.14542), Tom de Jong, Nicolai Kraus, Fredrik Nordvall Forsberg, Chuangjie Xu. [LICS'25](https://lics.siglog.org/lics25/) (to appear)
+- [Proof Verification with GDV and LambdaPi - It's a Matter of Trust](https://doi.org/10.32473/flairs.38.1.138642), Geoff Sutcliffe, Frédéric Blanqui, Guillaume Burel. FLAIRS 2025
+- [Safely Encoding B Proof Obligations in SMT-LIB](https://link.springer.com/chapter/10.1007/978-3-031-94533-5_4), Vincent Trélat, [ABZ 2025](https://abz-conf.org/site/2025/)
+- [Scalable Knowledge Refactoring using Constrained Optimisation](https://doi.org/10.1609/aaai.v39i14.33650), Minghao Liu, David M. Cerna, Filipe Gouveia, Andrew Cropper. AAAI'25
+- [The CDSAT method for satisfiability modulo theories and assignments: an exposition](https://doi.org/10.1007/978-3-031-95908-0_1), Maria Paola Bonacina, [*CiE'25*](https://www.illc.uva.nl/NewsandEvents/Events/Conferences/newsitem/15213/14---18-July-2025-Computability-in-Europe-2025-CiE-2025-Lisbon-Portugal).
+- [The Cost of Skeletal Call-by-Need, Smoothly](https://doi.org/10.4230/LIPIcs.FSCD.2025.5), Beniamino Accattoli, Francesco Magliocca, Loïc Peyrot, Claudio Sacerdoti Coen. [FSCD'25](https://fscd2025.github.io/).
+- [The QSMA algorithm for quantifiers in SMT.](https://doi.org/0.1007/s10817-025-09727-8), Maria Paola Bonacina, Stéphane Graham-Lengrand, and Christophe Vauthier. [*JAR*](https://www.springer.com/journal/10817)
+- [Type Theory in Type Theory using a Strictified Syntax](https://doi.org/10.1145/3747535), Ambrus Kaposi, Loïc Pujet. ICFP 2025
 
 
 **2024**
