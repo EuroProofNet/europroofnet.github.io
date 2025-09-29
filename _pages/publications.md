@@ -30,6 +30,7 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 - [Proof Verification with GDV and LambdaPi - It's a Matter of Trust](https://doi.org/10.32473/flairs.38.1.138642), Geoff Sutcliffe, Frédéric Blanqui, Guillaume Burel. FLAIRS 2025
 - [Safely Encoding B Proof Obligations in SMT-LIB](https://link.springer.com/chapter/10.1007/978-3-031-94533-5_4), Vincent Trélat, [ABZ 2025](https://abz-conf.org/site/2025/)
 - [Scalable Knowledge Refactoring using Constrained Optimisation](https://doi.org/10.1609/aaai.v39i14.33650), Minghao Liu, David M. Cerna, Filipe Gouveia, Andrew Cropper. AAAI'25
+- [Solving Quantified Modal Logic Problems by Translation to Classical Logics](https://doi.org/10.1093/logcom/exaf006), Alexander Steen, Geoff Sutcliffe, Christoph Benzmüller. Journal of Logic and Computation
 - [The CDSAT method for satisfiability modulo theories and assignments: an exposition](https://doi.org/10.1007/978-3-031-95908-0_1), Maria Paola Bonacina, [*CiE'25*](https://www.illc.uva.nl/NewsandEvents/Events/Conferences/newsitem/15213/14---18-July-2025-Computability-in-Europe-2025-CiE-2025-Lisbon-Portugal).
 - [The Cost of Skeletal Call-by-Need, Smoothly](https://doi.org/10.4230/LIPIcs.FSCD.2025.5), Beniamino Accattoli, Francesco Magliocca, Loïc Peyrot, Claudio Sacerdoti Coen. [FSCD'25](https://fscd2025.github.io/).
 - [The QSMA algorithm for quantifiers in SMT.](https://doi.org/0.1007/s10817-025-09727-8), Maria Paola Bonacina, Stéphane Graham-Lengrand, and Christophe Vauthier. [*JAR*](https://www.springer.com/journal/10817)
@@ -109,6 +110,7 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 - [A modular construction of type theories](https://doi.org/10.46298/lmcs-19(1:12)2023), Frédéric Blanqui, Gilles Dowek, Emilie Grienenberger, Gabriel Hondet, François Thiré, [*LMCS*](https://lmcs.episciences.org)
 - [Admissible Types-to-PERs Relativizations in Higher-Order Logic](https://doi.org/10.1145/3571235), Andrei Popescu, Dmitriy Traytel, [POPL'23](https://popl23.sigplan.org)
 - [An Efficient Proof Checker and Elaborator for SMT Proofs in the Alethe Format](https://doi.org/10.1007/978-3-031-30823-9_19), Bruno Andreotti, Hanna Lachnitt, Haniel Barbosa, [TACAS'23](https://etaps.org/2023/conferences/)
+- [An Encoding of Abstract Dialectical Frameworks into Higher-Order Logic](http://doi.org/10.1093/logcom/exad079), Antoine Martina, Alexander Steen. Journal of Logic and Computation
 - [An Interactive Interpretation Viewer for Typed First-order Logic](https://doi.org/10.32473/flairs.36.133073), Jack McKeown, Geoff Sutcliffe, [FLAIRS'23](https://www.flairs-36.info)
 - [Anti-unification and Generalization: A Survey](https://doi.org/10.24963/ijcai.2023/736), David M. Cerna, Temur Kutsia, [IJCAI'23](https://ijcai-23.org)
 - [Automated Completion of Statements and Proofs in Synthetic Geometry: an Approach based on Constraint Solving](https://hal.science/hal-04226900), Salwa Tabet Gonzalez, Predrag Janičić, Julien Narboux, [ADG'23](https://adg2023.matf.bg.ac.rs/?content=general)
@@ -118,6 +120,7 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 - [CICM’22 System Entries](10.1007/978-3-031-16681-5_24), P. Koepke, A. Lorenzen, B. Shminke. CICM'22
 - [Capturing constrained constructor patterns in matching logic](https://doi.org/10.1016/j.jlamp.2022.100810), Xiaohong Chen, Dorel Lucanu, Grigore Roşu, [*JLAMP*](https://www.sciencedirect.com/journal/journal-of-logical-and-algebraic-methods-in-programming)
 - [Certified Compilation of Choreographies with hacc](https://doi.org/10.1007/978-3-031-35355-0_3), Luís Cruz-Filipe, Lovro Lugovic, Fabrizio Montesi, [FORTE'23](http://www.discotec.org/2023/forte.html)
+- [Challenges for Non-Classical Reasoning in Contemporary AI Applications](http://doi.org/10.1007/s13218-024-00855-8), Alexander Steen, Christoph Benzmüller, KI – Künstliche Intelligenz
 - [Combining Higher-Order Logic with Set Theory Formalizations](https://doi.org/10.1007/s10817-023-09663-5), Cezary Kaliszyk, Karol Pąk, [*JAR*](https://www.springer.com/journal/10817)
 - [Competition on Software Verification and Witness Validation: SV-COMP 2023](https://doi.org/10.1007/978-3-031-30820-8_29), Dirk Beyer, [TACAS'23](https://etaps.org/2023/conferences/)
 - [Composable partial multiparty session types for open systems](https://doi.org/10.1007/s10270-022-01040-x), Claude Stolze, Marino Miculan, Pietro Di Gianantonio, [SoSyM](https://www.springer.com/journal/10270)
