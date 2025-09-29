@@ -14,9 +14,9 @@ This school is part of the [EuroProofNet Symposium](../Symposium). See the sympo
 
 **Venue:** [Institut Pascal](https://www.institut-pascal.universite-paris-saclay.fr/), 530 Rue André Rivière, 91400 Orsay [[access]](../Access) [[hotels]](../Hotels) [[food]](../Food)
 
-**Registrations are closed** <!--fill in this [form](https://forms.gle/QLFzh3Ugv5WgkhZr7) (registration is free but mandatory)-->
-
 **Programme:**
+
+Lectures have been recorded and are available [here](https://www.youtube.com/playlist?list=PLaT9F1eDUuN0unk3K0SluSzmnaaM4w1kr).
 
 <table>
 
