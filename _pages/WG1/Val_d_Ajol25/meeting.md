@@ -6,7 +6,7 @@ author_profile: true
 breadcrumbs: true
 ---
 
-<!--img src="/_pages/WG1/Val_d_Ajol24/IMG_20240423_195536.jpg"/-->
+<img src="/_pages/WG1/Val_d_Ajol25/1.jpeg"/>
 
 **Organizer:** [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/)
 
@@ -82,3 +82,8 @@ breadcrumbs: true
 - work session 8:
   * discussion on the future of the project
   * discussion on software maintenance
+
+<img src="/_pages/WG1/Val_d_Ajol25/2.jpeg"/>
+<img src="/_pages/WG1/Val_d_Ajol25/3.jpeg"/>
+<img src="/_pages/WG1/Val_d_Ajol25/4.jpeg"/>
+<img src="/_pages/WG1/Val_d_Ajol25/5.jpeg"/>
