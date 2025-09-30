@@ -15,6 +15,7 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 - [A Predicative Approach to the Constructive Integration Theory of Locally Compact Metric Spaces](https://doi.org/10.4115/jla.2025.17.FDS4), Fabian Lukas Grubmüller, Iosif Petrakis. *J. Log. Anal.*
 - [ADG Lib Initiative](https://github.com/ADG-Foundation/ADG-Lib), Pedro Quaresma, Predrag Janičić, Julien Narboux, Zoltán Kovács, Anna Petiurenko, Filip Marić and Nuno Baeta, extended abstract at ADG'25
 - [Barendregt Convenes with Knaster and Tarski: Strong Rule Induction for Syntax with Bindings](https://doi.org/10.1145/3704893), Jan van Brügge, James McKinna, Andrei Popescu, Dmitriy Traytel. POPL'25
+- [BiSikkel: A Multimode Logical Framework in Agda.](https://doi.org/10.1145/3704844), Ceulemans, J., Nuyts, A., Devriese, D., PACMPL/POPL'25.
 - [Case Study: Verified Vampire Proofs in the LambdaPi-calculus Modulo.](https://doi.org/10.48550/arXiv.2503.15541), Anja Petkovic Komel, Michael Rawson, Martin Suda. arXiv.
 - [Comodule Representations of Second-Order Functionals](https://doi.org/10.1016/j.jlamp.2025.101071), Danel Ahman, Andrej Bauer. *JLAMP*
 - [Continuous and algebraic domains in univalent foundations](https://doi.org/10.1016/j.jpaa.2025.108072), Tom de Jong, Martín Hötzel Escardó. [Journal of Pure and Applied Algebra](https://www.sciencedirect.com/journal/journal-of-pure-and-applied-algebra) (to appear)
@@ -26,6 +27,7 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 - [Ground Truth: Checking Vampire Proofs via Satisfiability Modulo Theories](https://doi.org/10.1007/978-3-031-99984-0_8), Michael Rawson, Andrei Voronkov, Johannes Schoisswohl, Anja Petkovic Komel. *CADE 2025*
 - [Improving the SMT Proof Reconstruction Pipeline in Isabelle/HOL](https://doi.org/10.4230/LIPIcs.ITP.2025.26) Hanna Lachnitt, Mathias Fleury, Haniel Barbosa, Andrew Reynolds, Jibiana Jakpor, Bruno Andreotti, Clark Barrett, Hans-Joerg Schurr, and Cesare Tinelli, [*ITP'25*](https://icetcs.github.io/frocos-itp-tableaux25/itp/)
 - [lean-smt: An SMT Tactic for Discharging Proof Goals in Lean.](https://doi.org/10.1007/978-3-031-98682-6_11), Abdalrhman Mohamed, Tomaz Mascarenhas, Muhammad Harun Ali Khan, Haniel Barbosa, Andrew Reynolds, Yicheng Qian, Cesare Tinelli, Clark W. Barrett.  [*CAV 2025*](https://conferences.i-cav.org/2025/)
+- [Multimode Type Theory as a Library in Type Theory](https://lirias.kuleuven.be/retrieve/3e30c1ee-9ec5-4940-9402-0a55cb542226), Joris Ceulemans, Dominique Devriese (sup.), Andreas Nuyts (co-sup.), PhD dissertation @ KU Leuven
 - [Ordinal Exponentiation in Homotopy Type Theory](https://arxiv.org/abs/2501.14542), Tom de Jong, Nicolai Kraus, Fredrik Nordvall Forsberg, Chuangjie Xu. [LICS'25](https://lics.siglog.org/lics25/) (to appear)
 - [Proof Verification with GDV and LambdaPi - It's a Matter of Trust](https://doi.org/10.32473/flairs.38.1.138642), Geoff Sutcliffe, Frédéric Blanqui, Guillaume Burel. FLAIRS 2025
 - [Safely Encoding B Proof Obligations in SMT-LIB](https://link.springer.com/chapter/10.1007/978-3-031-94533-5_4), Vincent Trélat, [ABZ 2025](https://abz-conf.org/site/2025/)
@@ -44,7 +46,7 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 - [A Modular Formalization of Superposition in Isabelle/HOL](https://doi.org/10.4230/LIPIcs.ITP.2024.12), Martin Desharnais, Balázs Tóth, Uwe Waldmann, Jasmin Blanchette, Sophie Tourret. ITP'24
 - [A Proof-Theoretic Approach to Formal Epistemology](https://doi.org/10.1007/978-3-031-57635-5_12), Sara Negri, Edi Pavlović. *Saul Kripke on Modal Logic*
 - [A Sound and Complete Algorithm to Identify Independent Variables in a Reactive System Specification](https://doi.org/10.23919/DATE58400.2024.10546630), Josu Oca, Montserrat Hermo, Alexander Bolotov. DATE'24
-- [A Sound and Complete Substitution Algorithm for Multimode Type Theory](https://doi.org/10.4230/LIPIcs.TYPES.2023.4), Joris Ceulemans, Andreas Nuyts, Dominique Devriese. TYPES'23
+- [A Sound and Complete Substitution Algorithm for Multimode Type Theory](https://doi.org/10.4230/LIPIcs.TYPES.2023.4), Joris Ceulemans, Andreas Nuyts, Dominique Devriese. TYPES'23 post-proceedings.
 - [Alk: A Formal-Methods-based Educational Platform for Enhancing Algorithmic Thinking](https://doi.org/10.47743/SACS.2024.1.39), Alexandru{-}Ioan Lungu, Vlad Teodorescu, Andrei Zaborila, Oana Andrei, Dorel Lucanu. *Sci. Ann. Comput. Sci.*
 - [Automatic Verification of SMT Rewrites in Isabelle/HOL](https://doi.org/10.1007/978-3-031-57246-3_17), Hanna Lachnitt,  Mathias Fleury, Leni Aniva, Andrew Reynolds, Haniel Barbosa, Andres Nötzli,   Clark W. Barrett, Cesare Tinelli. TACAS'24
 - [Automating Boundary Filling in Cubical Agda](https://doi.org/10.4230/LIPIcs.FSCD.2024.22), Maximilian Doré, Evan Cavallo, Anders Mörtberg. FSCD'24
@@ -106,7 +108,7 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 - [A Formalisation of the Balog-Szemerédi-Gowers Theorem in Isabelle/HOL](https://dl.acm.org/doi/10.1145/3573105.3575680), Angeliki Koutsoukou-Argyraki, Mantas Bakšys and Chelsea Edmonds. CPP ’23
 - [A More Pragmatic {CDCL} for IsaSAT and Targetting {LLVM} (Short Paper)](https://doi.org/10.1007/978-3-031-38499-8_12), Mathias Fleury, Peter Lammich. CADE'29 (2023)
 - [A Rewriting Coherence Theorem with Applications in Homotopy Type Theory](https://doi.org/10.1017/S0960129523000026), Nicolai Kraus, Jakob von Raumer, [*MSCS*](https://www.cambridge.org/core/journals/mathematical-structures-in-computer-science)
-- [A Semantics of 𝕂 into Dedukti](https://doi.org/10.4230/LIPIcs.TYPES.2022.12), Amélie Ledein, Valentin Blot, Catherine Dubois, [TYPES'22](https://types22.inria.fr/)
+- [A Semantics of 𝕂 into Dedukti](https://doi.org/10.4230/LIPIcs.TYPES.2022.12), Amélie Ledein, Valentin Blot, Catherine Dubois, [TYPES'22 post-proceedings](https://types22.inria.fr/)
 - [A modular construction of type theories](https://doi.org/10.46298/lmcs-19(1:12)2023), Frédéric Blanqui, Gilles Dowek, Emilie Grienenberger, Gabriel Hondet, François Thiré, [*LMCS*](https://lmcs.episciences.org)
 - [Admissible Types-to-PERs Relativizations in Higher-Order Logic](https://doi.org/10.1145/3571235), Andrei Popescu, Dmitriy Traytel, [POPL'23](https://popl23.sigplan.org)
 - [An Efficient Proof Checker and Elaborator for SMT Proofs in the Alethe Format](https://doi.org/10.1007/978-3-031-30823-9_19), Bruno Andreotti, Hanna Lachnitt, Haniel Barbosa, [TACAS'23](https://etaps.org/2023/conferences/)
@@ -190,7 +192,7 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
  - [Formal Entity Graphs as Complex Networks: Assessing Centrality Metrics of the Archive of Formal Proofs](https://doi.org/10.1007/978-3-031-16681-5_10), Fabian Huch. CICM'22
  - [Re-imagining the Isabelle Archive of Formal Proofs](https://doi.org/10.1007/978-3-031-16681-5_11), MacKenzie, C., Huch, F., Vaughan, J., Fleuriot. CICM'22
 - [A Matching Logic Foundation for Alk](https://doi.org/10.1007/978-3-031-17715-6_19), Alexandru-Ioan Lungu, Dorel Lucanu, [ICTAC'22](https://viam.science.tsu.ge/clas2022/ictac/)
-- [A Metatheoretic Analysis of Subtype Universes](https://doi.org/10.4230/LIPIcs.TYPES.2022.9), Felix Bradley, Zhaohui Luo, [TYPES'22](https://types22.inria.fr)
+- [A Metatheoretic Analysis of Subtype Universes](https://doi.org/10.4230/LIPIcs.TYPES.2022.9), Felix Bradley, Zhaohui Luo, [TYPES'22 post-proceedings](https://types22.inria.fr)
 - [Adequate and Computational Encodings in the Logical Framework Dedukti](https://doi.org/10.4230/LIPIcs.FSCD.2022.25), Thiago Felicissimo, [FSCD'22](https://www.cs.tau.ac.il/~nachumd/FSCD/)
 - [Algebras of complemented subsets](https://doi.org/10.1007/978-3-031-08740-0_21), Iosif Petrakis, Daniel Wessel, [CiE'22](https://easychair.org/cfp/CiE2022)
 - [Algorithmic Dependent-Type Theory of Situated Information and Context Assessments](https://doi.org/10.1007/978-3-031-20859-1_4), Roussanka Loukanova, [DCAI'22](https://edition2022.dcai-conference.net/index.html)
