@@ -18,7 +18,7 @@ computer-assisted reasoning can be extended to proofs that are represented in
 guidance and premise selection in automated theorem provers.
     - [Learning Guided Automated Reasoning: A Brief Survey](https://link.springer.com/chapter/10.1007/978-3-031-61716-4_4) Lasse Blaauwbroek, David M. Cerna, Thibault Gauthier, Jan Jakubův, Cezary Kaliszyk, Martin Suda, Josef Urban, Logics and Type Systems in Theory and Practice 2024.
 - White paper on including restricted natural language proof formats to existing proof libraries.
-    - [Integration of controlled natural language in formal mathematics systems]()      
+    - [Integration of controlled natural language in formal mathematics systems](/WG5/EPN_Deliverable_14___CNL_white_paper.pdf)      
 ### Activities
 - 3-5 June 2025: [School on Natural Formal Mathematics](https://naproche.github.io/school/), Bonn, Germany
 - 7-8 April 2025: [Theorem Proving with LLMs: SoA and Future Perspectives](/wg5-edinburgh25), Edinburgh, Scotland, UK
