@@ -9,6 +9,8 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 
 **2026**
 
+- 27-30 January 2025: [36e Journées Francophones des Langages Applicatifs](http://jfla.inria.fr/jfla2026.html) (JFLA'26), Oberbronn, France
+
 - 13-29 July 2026: [Federated Logic Conference](https://www.floc26.org/) (FLOC'26), Lisbon, Portugal
 
 - 22 June - 3 July 2026: [Formal Mathematics and Proof Systems Interoperability](https://europroofnet.github.io/FMPSI26/) (FMPSI), Orsay, France
@@ -41,7 +43,7 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 
 - 3-8 May 2025: [28th International Joint Conferences On Theory and Practice of Software](https://etaps.org/2025) (ETAPS'25), Hamilton, Canada
 
-- 28-31 January 2025: [36e Journées Francophones des Langages Applicatifs](http://jfla.inria.fr/jfla2025.html) (JFLA'24), Roiffé, France
+- 28-31 January 2025: [36e Journées Francophones des Langages Applicatifs](http://jfla.inria.fr/jfla2025.html) (JFLA'25), Roiffé, France
 
 - 20-21 January 2025: [Certified Programs and Proofs](https://popl25.sigplan.org/home/CPP-2025) (CPP'25), Denver, USA
 
