@@ -43,6 +43,6 @@ author_profile: true
 
 - D13. Extension of the database and associated tools to other systems like Agda, Minlog, PVS, Lean, Mizar, Atelier B, TLAPS. [[link]](../deliverable1)
 
-- D14. White paper on including restricted natural language proof formats to existing proof libraries.
+- D14. White paper on including restricted natural language proof formats to existing proof libraries.[[link]](WG5/EPN_Deliverable_14___CNL_white_paper.pdf) 
 
 - D15. Prototype implementation of the mathematical framework, with basic user interface, user documentation and gallery of examples of type theories. [[link]](../deliverable15)
