@@ -17,6 +17,7 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 - [LISA](https://github.com/epfl-lara/lisa)
 - [Matita](http://matita.cs.unibo.it/)
 - [Mizar](http://mizar.org/)
+- [TLAPS](https://github.com/tlaplus/tlapm)
 
 **Automated theorem provers**
 
