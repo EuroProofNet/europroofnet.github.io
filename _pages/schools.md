@@ -7,7 +7,9 @@ author_profile: true
 
 To contribute to the web site, please open an [issue](https://github.com/EuroProofNet/europroofnet.github.io/issues), create a [pull request](https://github.com/EuroProofNet/europroofnet.github.io) or send a mail to the [science communication coordinators](../contact).
 
-- 8-11 September 2025: [International School on Logical Frameworks and Proof Systems Interoperability](../LFPSI25)
+- 12-16 July 2026: [15th International School on Rewriting](https://cs.ru.nl/~cynthiakop/isr/) (ISR'26), Nijmegen, Netherlands
+
+- 8-11 September 2025: [International School on Logical Frameworks and Proof Systems Interoperability](../LFPSI25), Orsay, France
 
 - 21-25 July 2025: [Scottish Programming Languages and Verification School](https://spli.scot/splv/2025-edinburgh/), Edinburgh, UK
 
