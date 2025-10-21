@@ -82,6 +82,7 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 - [CoqInE](https://github.com/Deducteam/CoqInE): Coq to Dedukti/Coq
 - [Dk2agda](https://github.com/Deducteam/dk2agda): Dedukti to Agda
 - [Ekstrakto](https://github.com/Deducteam/ekstrakto): TSTP to TPTP and Lambdapi/FOL (subsumed by GDV-LP)
+- [eo2lp](https://github.com/ciaran-matthew-dunne/eo2lp): Eunoia (EO) to LambdaPi (LP)
 - [GDV-LP](https://github.com/orgs/TPTPWorld/repositories): TPTP to Lambdapi/FOL ([doc](https://www.tptp.org/Seminars/GDV/GDV-LP.html))
 - [Hol2dk](https://github.com/Deducteam/hol2dk): HOL-Light to Dedukti and Lambdapi
 - [Holide](https://github.com/Deducteam/Holide): OpenTheory to Dedukti/STTfa
@@ -91,6 +92,7 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 - [Logipedia](https://github.com/Deducteam/Logipedia): Dedukti/STTfa to Coq, Lean, Matita, OpenTheory, HOL-Light, PVS
 - [Logic embedding tool](https://github.com/leoprover/logic-embedding): Translates non-classical proof obligations into higher-order logic
 - [Personoj](https://github.com/Deducteam/personoj): PVS to Lambdapi
+- [pp2lp](https://github.com/ciaran-matthew-dunne/pp2lp): Atelier B's Predicate Prover (PP) to LambdaPi (LP). 
 - [Skonverto](https://github.com/Deducteam/SKonverto): construct a proof of a formula from a proof of its skolemized version
 - [tptp-utils](https://github.com/leoprover/tptp-utils): Translates various TPTP/TSTP formats into each other
 - [Universo](https://github.com/Deducteam/universo): type universes rewriting tool
@@ -103,7 +105,6 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 - [Lean2dk](https://github.com/Deducteam/lean2dk): Lean4 to Dedukti
 - [Carcara-LP](https://github.com/NotBad4U/carcara/tree/lambdapi-translation): translator from Alethe to Lambdapi
 - [mml2lambdapi](https://github.com/arturkornilowicz/mml2lambdapi.git): translator from Mizar to Lambdapi
-- [eo2lp](https://github.com/ciaran-matthew-dunne/eo2lp): CPC to Lambdapi translator
 - [BEer](https://github.com/VTrelat/BEer): higher-order encoder for Atelier B proof obligations to SMT-LIB
 
 **AI models for theorem proving**
