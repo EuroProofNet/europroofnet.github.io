@@ -103,6 +103,7 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 - [Lean2dk](https://github.com/Deducteam/lean2dk): Lean4 to Dedukti
 - [Carcara](https://github.com/NotBad4U/carcara/tree/lambdapi-translation): translator from Alethe to Lambdapi
 - [mml2lambdapi](https://github.com/arturkornilowicz/mml2lambdapi.git): translator from Mizar to Lambdapi
+- [eo2lp](https://github.com/ciaran-matthew-dunne/eo2lp): CPC to Lambdapi translator
 
 **AI models for theorem proving**
 
