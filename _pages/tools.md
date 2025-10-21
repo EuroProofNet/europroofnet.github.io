@@ -101,7 +101,7 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 - [B-pog-translator](https://github.com/Deducteam/B-pog-translator): translator from Atelier B proof obligation files to Lambdapi
 - [Predicativize](https://github.com/Deducteam/predicativize): translate Dedukti proofs to Dedukti proofs with universe polymorphism, and translate them to Agda
 - [Lean2dk](https://github.com/Deducteam/lean2dk): Lean4 to Dedukti
-- [Carcara-LP](https://github.com/NotBad4U/carcara/tree/lambdapi-translation): translator from Alethe to Lambdapi
+- [Carcara-LP](https://github.com/NotBad4U/carcara/tree/lambdapi-translate): Alethe to Lambdapi translator
 - [mml2lambdapi](https://github.com/arturkornilowicz/mml2lambdapi.git): translator from Mizar to Lambdapi
 - [eo2lp](https://github.com/ciaran-matthew-dunne/eo2lp): CPC to Lambdapi translator
 - [BEer](https://github.com/VTrelat/BEer): higher-order encoder for Atelier B proof obligations to SMT-LIB
