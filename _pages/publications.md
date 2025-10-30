@@ -32,6 +32,7 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 - [Multimode Type Theory as a Library in Type Theory](https://lirias.kuleuven.be/retrieve/3e30c1ee-9ec5-4940-9402-0a55cb542226), Joris Ceulemans, Dominique Devriese (sup.), Andreas Nuyts (co-sup.), PhD dissertation @ KU Leuven
 - [Ordinal Exponentiation in Homotopy Type Theory](https://doi.org/10.1109/LICS65433.2025.00027), Tom de Jong, Nicolai Kraus, Fredrik Nordvall Forsberg, Chuangjie Xu. [LICS'25](https://lics.siglog.org/lics25/)
 - [Projective Delineability for Single Cell Construction](https://doi.org/10.48550/arXiv.2508.00512), Jasper Nalbach, Lucas Michel, Erika Ábrahám, Christopher W. Brown, James H. Davenport, Matthew England, Pierre Mathonet, Naïm Zénaïdi. arXiv
+- [Proof Search in Classical Propositional Logic with Partial Proof Terms](https://doi.org/10.1007/978-3-031-99536-1_18), José Espírito Santo, Ana Catarina Sousa. WoLLIC'25
 - [Proof Verification with GDV and LambdaPi - It's a Matter of Trust](https://doi.org/10.32473/flairs.38.1.138642), Geoff Sutcliffe, Frédéric Blanqui, Guillaume Burel. FLAIRS'25
 - [Proving Correctness of the Query Containment Solver SpeCS using SPARQL Set Semantics](https://doi.org/10.1016/j.websem.2025.100870), Mirko Spasić, Milena Vujošević Janičić. *J. Web Semant.*
 - [Safely Encoding B Proof Obligations in SMT-LIB](https://link.springer.com/chapter/10.1007/978-3-031-94533-5_4), Vincent Trélat, [ABZ 2025](https://abz-conf.org/site/2025/)
@@ -88,6 +89,7 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 - [On Projective Delineability](https://doi.org/10.1109/SYNASC65383.2024.00015), Lucas Michel, Jasper Nalbach, Pierre Mathonet, Naïm Zénaïdi, Christopher W. Brown, Erika Ábrahám, James H. Davenport, Matthew England. SYNASC'24
 - [OnlineProver: Experience with a Visualisation Tool for Teaching Formal Proofs](https://doi.org/10.4204/EPTCS.419.4), Ján Perhác, Samuel Novotný, Sergej Chodarev, Joachim Tilsted Kristensen, Lars Tveito, Oleks Shturmov, Michael Kirkedal Thomsen. ThEdu@CADE'24
 - [Orthologic with Axioms](https://doi.org/10.1007/978-3-031-50524-9_11), Simon Guilloud, Viktor Kunčak. POPL'24
+- [Partial Proof Terms in the Study of Idealized Proof Search](https://doi.org/10.1007/978-3-031-66997-2_16), José Espírito Santo, Ana Catarina Sousa. CICM'24
 - [Pre-measure Spaces and Pre-integration Spaces in Predicative Bishop-Cheng Measure Theory](https://doi.org/10.46298/lmcs-20(4:2)2024), Iosif Petrakis, Max Zeuner. [*LMCS*](https://lmcs.episciences.org)
 - [Proof-carrying Parameters in Certified Symbolic Execution](https://doi.org/10.1093/jigpal/jzad008), Andrei Arusoaie, Dorel Lucanu, [*LJIGPL*](https://academic.oup.com/jigpal)
 - [Proofs for Free in the λΠ-Calculus Modulo Theory](https://dx.doi.org/10.4204/EPTCS.404.4), Thomas Traversié, LFMTP'24
