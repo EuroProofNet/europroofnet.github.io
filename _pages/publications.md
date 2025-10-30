@@ -12,6 +12,7 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 - [STSM reports](../accepted_stsms)
 
 **2025**
+- [2-Functoriality of Initial Semantics, and Applications](https://doi.org/10.1145/3747527), Benedikt Ahrens, Ambroise Lafont, Thomas Lamiaux. ICFP'25
 - [A Predicative Approach to the Constructive Integration Theory of Locally Compact Metric Spaces](https://doi.org/10.4115/jla.2025.17.FDS4), Fabian Lukas Grubmüller, Iosif Petrakis. *J. Log. Anal.*
 - [ADG Lib Initiative](https://github.com/ADG-Foundation/ADG-Lib), Pedro Quaresma, Predrag Janičić, Julien Narboux, Zoltán Kovács, Anna Petiurenko, Filip Marić and Nuno Baeta, extended abstract at ADG'25
 - [Barendregt Convenes with Knaster and Tarski: Strong Rule Induction for Syntax with Bindings](https://doi.org/10.1145/3704893), Jan van Brügge, James McKinna, Andrei Popescu, Dmitriy Traytel. POPL'25
@@ -31,6 +32,7 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 - [Ordinal Exponentiation in Homotopy Type Theory](https://doi.org/10.1109/LICS65433.2025.00027), Tom de Jong, Nicolai Kraus, Fredrik Nordvall Forsberg, Chuangjie Xu. [LICS'25](https://lics.siglog.org/lics25/)
 - [Projective Delineability for Single Cell Construction](https://doi.org/10.48550/arXiv.2508.00512), Jasper Nalbach, Lucas Michel, Erika Ábrahám, Christopher W. Brown, James H. Davenport, Matthew England, Pierre Mathonet, Naïm Zénaïdi. arXiv
 - [Proof Verification with GDV and LambdaPi - It's a Matter of Trust](https://doi.org/10.32473/flairs.38.1.138642), Geoff Sutcliffe, Frédéric Blanqui, Guillaume Burel. FLAIRS'25
+- [Proving Correctness of the Query Containment Solver SpeCS using SPARQL Set Semantics](https://doi.org/10.1016/j.websem.2025.100870), Mirko Spasić, Milena Vujošević Janičić. *J. Web Semant.*
 - [Safely Encoding B Proof Obligations in SMT-LIB](https://link.springer.com/chapter/10.1007/978-3-031-94533-5_4), Vincent Trélat, [ABZ 2025](https://abz-conf.org/site/2025/)
 - [Scalable Knowledge Refactoring using Constrained Optimisation](https://doi.org/10.1609/aaai.v39i14.33650), Minghao Liu, David M. Cerna, Filipe Gouveia, Andrew Cropper. AAAI'25
 - [Separate but Together: Integrating Remote Attestation into TLS](https://www.usenix.org/conference/atc25/presentation/weinhold), Carsten Weinhold, Muhammad Usama Sardar, Ionut Mihalcea, Yogesh Deshpande, Hannes Tschofenig, Yaron Sheffer, Thomas Fossati, Michael Roitzsch, USENIX ATC'25
@@ -57,7 +59,7 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 - [Clausal Equivalence Sweeping](https://doi.org/10.34727/2024/isbn.978-3-85448-065-5_29), Armin Biere, Katalin Fazekas, Mathias Fleury, Nils Froleyks. FMCAD'24
 - [Comodule Representations of Second-Order Functionals](https://arxiv.org/abs/2409.17664), Danel Ahman, Andrej Bauer, arXiv
 - [Complemented Subsets and Boolean-valued, Partial Functions](https://doi.org/10.3233/COM-230462), Daniel Misselbeck-Wessel, Iosif Petrakis, *Comput.*
-- [Conway Normal Form: Bridging Approaches for Comprehensive Formalization of Surreal Numbers](https://doi.org/10.4230/LIPIcs.ITP.2024.29), Karol Pak, Cezary Kaliszyk, ITP'24
+- [Conway Normal Form: Bridging Approaches for Comprehensive Formalization of Surreal Numbers](https://doi.org/10.4230/LIPIcs.ITP.2024.29), Karol Pąk, Cezary Kaliszyk, ITP'24
 - [Differentiable Inductive Logic Programming in High-Dimensional Space](https://doi.org/10.48550/arXiv.2208.06652), Stanisław J. Purgał, David M. Cerna, Cezary Kaliszyk. IJCLR'24
 - [Equational Anti-unification over Absorption Theories](https://doi.org/10.1007/978-3-031-63501-4_17), Mauricio Ayala-Rincón, David M. Cerna, Andres Felipe Gonzalez Barragan, Temur Kutsia. IJCAR'24
 - [Formal Specification and Verification of Architecturally-Defined Attestation Mechanisms in Arm CCA and Intel TDX](https://doi.org/10.1109/access.2023.3346501), M. U. Sardar, T. Fossati, S. Frost, S. Xiong, *IEEE Access*
@@ -82,6 +84,7 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 - [Maude2Lean: Theorem proving for Maude specifications using Lean](https://doi.org/10.1016/j.jlamp.2024.101005), Rubén Rubio, Adrián Riesco, [*JLAMP*](https://www.sciencedirect.com/journal/journal-of-logical-and-algebraic-methods-in-programming)
 - [Mechanized HOL Reasoning in Set Theory](https://doi.org/10.4230/LIPIcs.ITP.2024.18), Simon Guilloud, Sankalp Gambhir, Andrea Gilot, Viktor Kunčak. ITP'24
 - [On Projective Delineability](https://doi.org/10.1109/SYNASC65383.2024.00015), Lucas Michel, Jasper Nalbach, Pierre Mathonet, Naïm Zénaïdi, Christopher W. Brown, Erika Ábrahám, James H. Davenport, Matthew England. SYNASC'24
+- [OnlineProver: Experience with a Visualisation Tool for Teaching Formal Proofs](https://doi.org/10.4204/EPTCS.419.4), Ján Perhác, Samuel Novotný, Sergej Chodarev, Joachim Tilsted Kristensen, Lars Tveito, Oleks Shturmov, Michael Kirkedal Thomsen. ThEdu@CADE'24
 - [Orthologic with Axioms](https://doi.org/10.1007/978-3-031-50524-9_11), Simon Guilloud, Viktor Kunčak. POPL'24
 - [Pre-measure Spaces and Pre-integration Spaces in Predicative Bishop-Cheng Measure Theory](https://doi.org/10.46298/lmcs-20(4:2)2024), Iosif Petrakis, Max Zeuner. [*LMCS*](https://lmcs.episciences.org)
 - [Proof-carrying Parameters in Certified Symbolic Execution](https://doi.org/10.1093/jigpal/jzad008), Andrei Arusoaie, Dorel Lucanu, [*LJIGPL*](https://academic.oup.com/jigpal)
