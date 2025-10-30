@@ -15,6 +15,7 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 - [2-Functoriality of Initial Semantics, and Applications](https://doi.org/10.1145/3747527), Benedikt Ahrens, Ambroise Lafont, Thomas Lamiaux. ICFP'25
 - [A Predicative Approach to the Constructive Integration Theory of Locally Compact Metric Spaces](https://doi.org/10.4115/jla.2025.17.FDS4), Fabian Lukas Grubmüller, Iosif Petrakis. *J. Log. Anal.*
 - [ADG Lib Initiative](https://github.com/ADG-Foundation/ADG-Lib), Pedro Quaresma, Predrag Janičić, Julien Narboux, Zoltán Kovács, Anna Petiurenko, Filip Marić and Nuno Baeta, extended abstract at ADG'25
+- [Animating MRBNFs: Truly Modular Binding-Aware Datatypes in Isabelle/HOL](https://doi.org/10.4230/LIPIcs.ITP.2025.11), Jan van Brügge, Andrei Popescu, Dmitriy Traytel. ITP'25
 - [Barendregt Convenes with Knaster and Tarski: Strong Rule Induction for Syntax with Bindings](https://doi.org/10.1145/3704893), Jan van Brügge, James McKinna, Andrei Popescu, Dmitriy Traytel. POPL'25
 - [BiSikkel: A Multimode Logical Framework in Agda.](https://doi.org/10.1145/3704844), Joris Ceulemans, Andreas Nuyts, Dominique Devriese. POPL'25
 - [Case Study: Verified Vampire Proofs in the LambdaPi-calculus Modulo.](https://doi.org/10.48550/arXiv.2503.15541), Anja Petkovic Komel, Michael Rawson, Martin Suda. arXiv
@@ -60,6 +61,7 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 - [Comodule Representations of Second-Order Functionals](https://arxiv.org/abs/2409.17664), Danel Ahman, Andrej Bauer, arXiv
 - [Complemented Subsets and Boolean-valued, Partial Functions](https://doi.org/10.3233/COM-230462), Daniel Misselbeck-Wessel, Iosif Petrakis, *Comput.*
 - [Conway Normal Form: Bridging Approaches for Comprehensive Formalization of Surreal Numbers](https://doi.org/10.4230/LIPIcs.ITP.2024.29), Karol Pąk, Cezary Kaliszyk, ITP'24
+- [Deductive Verification of Sparse Sets in Why3](https://doi.org/10.1007/978-3-031-86695-1_3), Catherine Dubois, VSTTE'24
 - [Differentiable Inductive Logic Programming in High-Dimensional Space](https://doi.org/10.48550/arXiv.2208.06652), Stanisław J. Purgał, David M. Cerna, Cezary Kaliszyk. IJCLR'24
 - [Equational Anti-unification over Absorption Theories](https://doi.org/10.1007/978-3-031-63501-4_17), Mauricio Ayala-Rincón, David M. Cerna, Andres Felipe Gonzalez Barragan, Temur Kutsia. IJCAR'24
 - [Formal Specification and Verification of Architecturally-Defined Attestation Mechanisms in Arm CCA and Intel TDX](https://doi.org/10.1109/access.2023.3346501), M. U. Sardar, T. Fossati, S. Frost, S. Xiong, *IEEE Access*
