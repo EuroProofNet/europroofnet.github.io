@@ -18,6 +18,7 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 - [Animating MRBNFs: Truly Modular Binding-Aware Datatypes in Isabelle/HOL](https://doi.org/10.4230/LIPIcs.ITP.2025.11), Jan van Brügge, Andrei Popescu, Dmitriy Traytel. ITP'25
 - [Barendregt Convenes with Knaster and Tarski: Strong Rule Induction for Syntax with Bindings](https://doi.org/10.1145/3704893), Jan van Brügge, James McKinna, Andrei Popescu, Dmitriy Traytel. POPL'25
 - [BiSikkel: A Multimode Logical Framework in Agda.](https://doi.org/10.1145/3704844), Joris Ceulemans, Andreas Nuyts, Dominique Devriese. POPL'25
+- [Boolean Rigs](https://doi.org/10.1007/s00012-025-00904-9), Daniel Misselbeck-Wessel, Iosif Petrakis. [*Algebra Universalis*](https://link.springer.com/journal/12)
 - [Case Study: Verified Vampire Proofs in the LambdaPi-calculus Modulo.](https://doi.org/10.48550/arXiv.2503.15541), Anja Petkovic Komel, Michael Rawson, Martin Suda. arXiv
 - [Comodule Representations of Second-Order Functionals](https://doi.org/10.1016/j.jlamp.2025.101071), Danel Ahman, Andrej Bauer. *JLAMP*
 - [Continuous and algebraic domains in univalent foundations](https://doi.org/10.1016/j.jpaa.2025.108072), Tom de Jong, Martín Hötzel Escardó. [*Journal of Pure and Applied Algebra*](https://www.sciencedirect.com/journal/journal-of-pure-and-applied-algebra) (to appear)
@@ -39,8 +40,10 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 - [Scalable Knowledge Refactoring using Constrained Optimisation](https://doi.org/10.1609/aaai.v39i14.33650), Minghao Liu, David M. Cerna, Filipe Gouveia, Andrew Cropper. AAAI'25
 - [Separate but Together: Integrating Remote Attestation into TLS](https://www.usenix.org/conference/atc25/presentation/weinhold), Carsten Weinhold, Muhammad Usama Sardar, Ionut Mihalcea, Yogesh Deshpande, Hannes Tschofenig, Yaron Sheffer, Thomas Fossati, Michael Roitzsch, USENIX ATC'25
 - [Solving Quantified Modal Logic Problems by Translation to Classical Logics](https://doi.org/10.1093/logcom/exaf006), Alexander Steen, Geoff Sutcliffe, Christoph Benzmüller. *Journal of Logic and Computation*
+- [Strong negation in the theory of computable functionals TCF](https://doi.org/10.46298/lmcs-21(2:1)2025), Nils Köpp, Iosif Petrakis. [*LMCS*](https://lmcs.episciences.org)
 - [The CDSAT method for satisfiability modulo theories and assignments: an exposition](https://doi.org/10.1007/978-3-031-95908-0_1), Maria Paola Bonacina, [CiE'25](https://www.illc.uva.nl/NewsandEvents/Events/Conferences/newsitem/15213/14---18-July-2025-Computability-in-Europe-2025-CiE-2025-Lisbon-Portugal)
 - [The Cost of Skeletal Call-by-Need, Smoothly](https://doi.org/10.4230/LIPIcs.FSCD.2025.5), Beniamino Accattoli, Francesco Magliocca, Loïc Peyrot, Claudio Sacerdoti Coen. [FSCD'25](https://fscd2025.github.io/)
+- [The Grothendieck Computability Model](https://doi.org/10.1016/j.tcs.2025.115550), Luis Gambarte, Iosif Petrakis. [*TCS*](https://www.sciencedirect.com/journal/theoretical-computer-science)
 - [The QSMA algorithm for quantifiers in SMT.](https://doi.org/0.1007/s10817-025-09727-8), Maria Paola Bonacina, Stéphane Graham-Lengrand, and Christophe Vauthier. [*JAR*](https://www.springer.com/journal/10817)
 - [Type Theory in Type Theory using a Strictified Syntax](https://doi.org/10.1145/3747535), Ambrus Kaposi, Loïc Pujet. ICFP'25
 
