@@ -50,6 +50,7 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 - [Safely Encoding B Proof Obligations in SMT-LIB](https://link.springer.com/chapter/10.1007/978-3-031-94533-5_4), Vincent Trélat, [ABZ 2025](https://abz-conf.org/site/2025/)
 - [Scalable Knowledge Refactoring using Constrained Optimisation](https://doi.org/10.1609/aaai.v39i14.33650), Minghao Liu, David M. Cerna, Filipe Gouveia, Andrew Cropper. AAAI'25
 - [Separate but Together: Integrating Remote Attestation into TLS](https://www.usenix.org/conference/atc25/presentation/weinhold), Carsten Weinhold, Muhammad Usama Sardar, Ionut Mihalcea, Yogesh Deshpande, Hannes Tschofenig, Yaron Sheffer, Thomas Fossati, Michael Roitzsch, USENIX ATC'25
+- [Shared Terms and Cached Rewriting](https://doi.org/10.29007/4vf1), Stephan Schulz. IWIL'24
 - [Solving Quantified Modal Logic Problems by Translation to Classical Logics](https://doi.org/10.1093/logcom/exaf006), Alexander Steen, Geoff Sutcliffe, Christoph Benzmüller. *Journal of Logic and Computation*
 - [Strong negation in the theory of computable functionals TCF](https://doi.org/10.46298/lmcs-21(2:1)2025), Nils Köpp, Iosif Petrakis. [*LMCS*](https://lmcs.episciences.org)
 - [The CDSAT method for satisfiability modulo theories and assignments: an exposition](https://doi.org/10.1007/978-3-031-95908-0_1), Maria Paola Bonacina, [CiE'25](https://www.illc.uva.nl/NewsandEvents/Events/Conferences/newsitem/15213/14---18-July-2025-Computability-in-Europe-2025-CiE-2025-Lisbon-Portugal)
@@ -122,7 +123,6 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 - [SC-TPTP: An Extension of the TPTP Derivation Format for Sequent-Based Calculus](https://ceur-ws.org/Vol-3717/paper2.pdf), Julie Cailler, Simon Guilloud. PAAR'24
 - [Second-Order Generalised Algebraic Theories: Signatures and First-Order Semantics](https://doi.org/10.4230/LIPIcs.FSCD.2024.10), Ambrus Kaposi, Szumi Xie, [FSCD'24](https://cs.ioc.ee/fscd24/)
 - [Sets Completely Separated by Functions in Bishop Set Theory](https://doi.org/10.1215/00294527-2024-0010), Iosif Petrakis. *Notre Dame J. Formal Logic*
-- [Shared Terms and Cached Rewriting](https://eprover.org/EVENTS/IWIL-2024/IWIL-24-Preproceedings.pdf), Stephan Schulz. IWIL'24
 - [Sharing proofs with predicative theories through universe-polymorphic elaboration](https://doi.org/10.46298/lmcs-20(3:23)2024), Thiago Felicissimo, Frédéric Blanqui, [*LMCS*](https://lmcs.episciences.org)
 - [Shoggoth: A Formal Foundation for Strategic Rewriting](https://doi.org/10.1145/3633211), Xueying Qin, Liam O'Connor, Rob van Glabbeek, Peter Höfner, Ohad Kammar, and Michel Steuwer. POPL'24
 - [Some Decidability Issues Concerning Cⁿ Real Functions](https://ceur-ws.org/Vol-3733/paper15.pdf), Gabriele Buriola, Domenico Cantone, Giuseppe Cincotti, Eugenio G. Omodeo, Giuseppe T. Spartà. CILC'24
