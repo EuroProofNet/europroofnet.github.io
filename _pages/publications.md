@@ -15,6 +15,7 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 - [2-Functoriality of Initial Semantics, and Applications](https://doi.org/10.1145/3747527), Benedikt Ahrens, Ambroise Lafont, Thomas Lamiaux. ICFP'25
 - [A New Approach for Showing Termination of Parameterized Transition Systems](https://doi.org/10.1007/978-3-032-02602-6_14), Roland Herrmann, Philipp Rümmer. CIAA'25
 - [A Predicative Approach to the Constructive Integration Theory of Locally Compact Metric Spaces](https://doi.org/10.4115/jla.2025.17.FDS4), Fabian Lukas Grubmüller, Iosif Petrakis. *J. Log. Anal.*
+- [A quantitative approach to global state composition](https://doi.org/10.1017/S0960129525100285), Sandra Alves, Delia Kesner, Miguel Ramos. [*MSCS*](https://www.cambridge.org/core/journals/mathematical-structures-in-computer-science)
 - [ADG Lib Initiative](https://github.com/ADG-Foundation/ADG-Lib), Pedro Quaresma, Predrag Janičić, Julien Narboux, Zoltán Kovács, Anna Petiurenko, Filip Marić and Nuno Baeta, extended abstract at ADG'25
 - [An iterative constructive Hilbert basis theorem](https://doi.org/10.1016/j.jalgebra.2025.03.027), Peter Schuster, Ihsen Yengui. [*J. Algebra](https://www.sciencedirect.com/journal/journal-of-algebra)
 - [Animating MRBNFs: Truly Modular Binding-Aware Datatypes in Isabelle/HOL](https://doi.org/10.4230/LIPIcs.ITP.2025.11), Jan van Brügge, Andrei Popescu, Dmitriy Traytel. ITP'25
@@ -22,7 +23,8 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 - [Barendregt Convenes with Knaster and Tarski: Strong Rule Induction for Syntax with Bindings](https://doi.org/10.1145/3704893), Jan van Brügge, James McKinna, Andrei Popescu, Dmitriy Traytel. POPL'25
 - [BiSikkel: A Multimode Logical Framework in Agda.](https://doi.org/10.1145/3704844), Joris Ceulemans, Andreas Nuyts, Dominique Devriese. POPL'25
 - [Boolean Rigs](https://doi.org/10.1007/s00012-025-00904-9), Daniel Misselbeck-Wessel, Iosif Petrakis. [*Algebra Universalis*](https://link.springer.com/journal/12)
-- [Case Study: Verified Vampire Proofs in the LambdaPi-calculus Modulo.](https://doi.org/10.48550/arXiv.2503.15541), Anja Petkovic Komel, Michael Rawson, Martin Suda. arXiv
+- [Case Study: Verified Vampire Proofs in the LambdaPi-calculus Modulo](https://doi.org/10.48550/arXiv.2503.15541), Anja Petkovic Komel, Michael Rawson, Martin Suda. arXiv
+- [Checking Linear Integer Arithmetic Proofs in LambdaPi](https://doi.org/10.1007/978-3-032-04167-8_20), Alessio Coltellacci, Stephan Merz. FroCoS'25
 - [Comodule Representations of Second-Order Functionals](https://doi.org/10.1016/j.jlamp.2025.101071), Danel Ahman, Andrej Bauer. *JLAMP*
 - [Complementable Normal Form of Parametrized Automata](https://doi.org/10.1007/978-3-032-02602-6_1), Franziska Alber, Philipp Rümmer. CIAA'25
 - [Conservation as translation](https://doi.org/10.1017/S1755020324000170), Giulio Fellin, Peter Schuster. [*Rev. Symb. Log.*](https://www.cambridge.org/core/journals/review-of-symbolic-logic)
@@ -206,7 +208,7 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 - [Radical theory of Scott-open filters](https://doi.org/10.1016/j.tcs.2022.12.027), Daniel Misselbeck-Wessel, Peter Schuster. [*TCS*](https://www.sciencedirect.com/journal/theoretical-computer-science)
 - [Rates of asymptotic regularity for the alternating Halpern-Mann iteration](https://doi.org/10.1007/s11590-023-02002-y), Laurentiu Leustean, Pedro Pinto, [*Optimization Letters*](https://www.springer.com/journal/11590)
 - [Reasoning about quantifiers in SMT: the QSMA algorithm (Abstract)](https://doi.org/10.34727/2023/isbn.978-3-85448-060-0_1), Maria Paola Bonacina. FMCAD'23
-- [Reconstruction of TLAPS Proofs Solved by VeriT in Lambdapi](https://doi.org/10.1007/978-3-031-33163-3_29), Coltellacci Alessio, [ABZ'23](https://abz2023.loria.fr/)
+- [Reconstruction of TLAPS Proofs Solved by VeriT in LambdaPi](https://doi.org/10.1007/978-3-031-33163-3_29), Coltellacci Alessio, [ABZ'23](https://abz2023.loria.fr/)
 - [Representation, Verification, and Visualization of Tarskian Interpretations for Typed First-order Logic](https://doi.org/10.29007/1rhx), Alexander Steen, Geoff Sutcliffe, Pascal Fontaine, Jack McKeown, [LPAR'23](https://easychair.org/smart-program/LPAR2023/)
 - [Restricted Computations and Parameters in Type-Theory of Acyclic Recursion](https://doi.org/10.14201/adcaij.29081), Roussanka Loukanova, [*ADCAIJ*](https://adcaij.usal.es)
 - [Semantically-guided goal-sensitive reasoning: decision procedures and the Koala prover](https://doi.org/10.1007/s10817-022-09656-w), Maria Paola Bonacina and Sarah Winkler. Journal of Automated Reasoning, 67(1):6, 42 pages, March 2023
