@@ -40,6 +40,7 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 - [lean-smt: An SMT Tactic for Discharging Proof Goals in Lean.](https://doi.org/10.1007/978-3-031-98682-6_11), Abdalrhman Mohamed, Tomaz Mascarenhas, Muhammad Harun Ali Khan, Haniel Barbosa, Andrew Reynolds, Yicheng Qian, Cesare Tinelli, Clark W. Barrett.  [CAV 2025](https://conferences.i-cav.org/2025/)
 - [Multimode Type Theory as a Library in Type Theory](https://lirias.kuleuven.be/retrieve/3e30c1ee-9ec5-4940-9402-0a55cb542226), Joris Ceulemans, Dominique Devriese (sup.), Andreas Nuyts (co-sup.), PhD dissertation @ KU Leuven
 - [Nominal Matching Logic with Fixpoints](https://doi.org/10.1145/3703595.3705872), Mircea Sebe, Maribel Fernández, James Cheney. CPP'25
+- [On the Limitations of ROBDDs in Deciding the Evasiveness of Boolean Functions](https://doi.org/10.47443/dml.2025.089), Jesús Aransay, Laureano Lambán, Julio Rubio. [*Discret. math. lett.*](https://www.dmlett.com)
 - [Ordinal Exponentiation in Homotopy Type Theory](https://doi.org/10.1109/LICS65433.2025.00027), Tom de Jong, Nicolai Kraus, Fredrik Nordvall Forsberg, Chuangjie Xu. [LICS'25](https://lics.siglog.org/lics25/)
 - [Practically Feasible Proof Logging for Pseudo-Boolean Optimization](https://doi.org/10.4230/LIPIcs.CP.2025.21), Wietze Koops, Daniel Le Berre, Magnus O. Myreen, Jakob Nordström, Andy Oertel, Yong Kiam Tan, Marc Vinyals. CP'25
 - [Projective Delineability for Single Cell Construction](https://doi.org/10.48550/arXiv.2508.00512), Jasper Nalbach, Lucas Michel, Erika Ábrahám, Christopher W. Brown, James H. Davenport, Matthew England, Pierre Mathonet, Naïm Zénaïdi. arXiv
@@ -53,6 +54,7 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 - [Shared Terms and Cached Rewriting](https://doi.org/10.29007/4vf1), Stephan Schulz. IWIL'24
 - [Solving Quantified Modal Logic Problems by Translation to Classical Logics](https://doi.org/10.1093/logcom/exaf006), Alexander Steen, Geoff Sutcliffe, Christoph Benzmüller. *Journal of Logic and Computation*
 - [Strong negation in the theory of computable functionals TCF](https://doi.org/10.46298/lmcs-21(2:1)2025), Nils Köpp, Iosif Petrakis. [*LMCS*](https://lmcs.episciences.org)
+- [Text Homology](https://doi.org/10.1080/09296174.2025.2578053), Jesús Aransay, Laureano Lambán, Julio Rubio. [*J. Quant. Linguistics*](https://www.tandfonline.com/journals/njql20)
 - [The CDSAT method for satisfiability modulo theories and assignments: an exposition](https://doi.org/10.1007/978-3-031-95908-0_1), Maria Paola Bonacina, [CiE'25](https://www.illc.uva.nl/NewsandEvents/Events/Conferences/newsitem/15213/14---18-July-2025-Computability-in-Europe-2025-CiE-2025-Lisbon-Portugal)
 - [The Cost of Skeletal Call-by-Need, Smoothly](https://doi.org/10.4230/LIPIcs.FSCD.2025.5), Beniamino Accattoli, Francesco Magliocca, Loïc Peyrot, Claudio Sacerdoti Coen. [FSCD'25](https://fscd2025.github.io/)
 - [The Grothendieck Computability Model](https://doi.org/10.1016/j.tcs.2025.115550), Luis Gambarte, Iosif Petrakis. [*TCS*](https://www.sciencedirect.com/journal/theoretical-computer-science)
