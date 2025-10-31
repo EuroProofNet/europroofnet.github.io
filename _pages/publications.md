@@ -38,6 +38,7 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 - [Ground Truth: Checking Vampire Proofs via Satisfiability Modulo Theories](https://doi.org/10.1007/978-3-031-99984-0_8), Michael Rawson, Andrei Voronkov, Johannes Schoisswohl, Anja Petkovic Komel. CADE 2025
 - [Improving the SMT Proof Reconstruction Pipeline in Isabelle/HOL](https://doi.org/10.4230/LIPIcs.ITP.2025.26), Hanna Lachnitt, Mathias Fleury, Haniel Barbosa, Andrew Reynolds, Jibiana Jakpor, Bruno Andreotti, Clark Barrett, Hans-Joerg Schurr, and Cesare Tinelli, [ITP'25](https://icetcs.github.io/frocos-itp-tableaux25/itp/)
 - [lean-smt: An SMT Tactic for Discharging Proof Goals in Lean.](https://doi.org/10.1007/978-3-031-98682-6_11), Abdalrhman Mohamed, Tomaz Mascarenhas, Muhammad Harun Ali Khan, Haniel Barbosa, Andrew Reynolds, Yicheng Qian, Cesare Tinelli, Clark W. Barrett.  [CAV 2025](https://conferences.i-cav.org/2025/)
+- [Modular Sequent Calculi for interpretability Logics](https://doi.org/10.1017/s1755020325100701), Cosimo Perini Brogi, Sara Negri, Nicola Olivetti. [*Rev. Symb. Log.*](https://www.cambridge.org/core/journals/review-of-symbolic-logic)
 - [Multimode Type Theory as a Library in Type Theory](https://lirias.kuleuven.be/retrieve/3e30c1ee-9ec5-4940-9402-0a55cb542226), Joris Ceulemans, Dominique Devriese (sup.), Andreas Nuyts (co-sup.), PhD dissertation @ KU Leuven
 - [Nominal Matching Logic with Fixpoints](https://doi.org/10.1145/3703595.3705872), Mircea Sebe, Maribel Fernández, James Cheney. CPP'25
 - [On the Limitations of ROBDDs in Deciding the Evasiveness of Boolean Functions](https://doi.org/10.47443/dml.2025.089), Jesús Aransay, Laureano Lambán, Julio Rubio. [*Discret. math. lett.*](https://www.dmlett.com)
@@ -62,6 +63,8 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 - [Type Theory in Type Theory using a Strictified Syntax](https://doi.org/10.1145/3747535), Ambrus Kaposi, Loïc Pujet. ICFP'25
 - [What's Decidable About Arrays With Sums?](https://doi.org/10.1007/978-3-031-99984-0_4), Roland Herrmann, Philipp Rümmer. CADE'25
 
+
+
 **2024**
 - [A Constraint Solving Approach to Parikh Images of Regular Languages](https://doi.org/10.1145/3649855), Amanda Stjerna, Philipp Rümmer. OOPSLA'24
 - [A Formalization of the General Theory of Quaternions](https://doi.org/10.4230/LIPIcs.ITP.2024.11), Thaynara Arielly de Lima, André Luiz Galdino, Bruno Berto de Oliveira Ribeiro, Mauricio Ayala-Rincón. ITP'24
@@ -73,6 +76,7 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 - [A Sound and Complete Substitution Algorithm for Multimode Type Theory](https://doi.org/10.4230/LIPIcs.TYPES.2023.4), Joris Ceulemans, Andreas Nuyts, Dominique Devriese. TYPES'23 post-proceedings
 - [A Tree Rewriting System for the Reflection Calculus](https://doi.org/10.48550/arXiv.2407.13619), Sofía Santiago-Fernández, Joost J. Joosten, David Fernández-Duque. AiML'24
 - [Alk: A Formal-Methods-based Educational Platform for Enhancing Algorithmic Thinking](https://doi.org/10.47743/SACS.2024.1.39), Alexandru{-}Ioan Lungu, Vlad Teodorescu, Andrei Zaborila, Oana Andrei, Dorel Lucanu. *Sci. Ann. Comput. Sci.*
+- [Analysing Collective Adaptive Systems by Proving Theorems](https://doi.org/10.1007/978-3-031-73709-1_14), Cosimo Perini Brogi, Marco Maggesi. ISoLA'24
 - [Automatic Verification of SMT Rewrites in Isabelle/HOL](https://doi.org/10.1007/978-3-031-57246-3_17), Hanna Lachnitt,  Mathias Fleury, Leni Aniva, Andrew Reynolds, Haniel Barbosa, Andres Nötzli,   Clark W. Barrett, Cesare Tinelli. TACAS'24
 - [Automating Boundary Filling in Cubical Agda](https://doi.org/10.4230/LIPIcs.FSCD.2024.22), Maximilian Doré, Evan Cavallo, Anders Mörtberg. FSCD'24
 - [Certified First-Order AC-Unification and Applications](https://doi.org/10.1007/s10817-024-09714-5), Mauricio Ayala-Rincón, Maribel Fernández, Gabriel Ferreira Silva, Temur Kutsia, Daniele Nantes-Sobrinho. [*JAR*](https://www.springer.com/journal/10817)
@@ -121,6 +125,7 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 - [Pseudo-Boolean Reasoning About States and Transitions to Certify Dynamic Programming and Decision Diagram Algorithms](https://doi.org/10.4230/LIPIcs.CP.2024.9), Emir Demirović, Ciaran McCreesh, Matthew McIlree, Jakob Nordström, Andy Oertel, Konstantin Sidorov. CP'24
 - [Reasoning in Transformers - Mitigating Spurious Correlations and Reasoning Shortcuts](https://doi.org/10.1007/978-3-031-71170-1_18), Daniel Enström, Viktor Kjellberg, Moa Johansson. NeSy'24
 - [Reifying dynamical algebra: Maximal ideals in countable rings, constructively](https://doi.org/10.3233/COM-230454), Ingo Blechschmidt, Peter Schuster. [*Computability*](https://journals.sagepub.com/home/COE)
+- [Rigorous Analysis of Idealised Pathfinding Ants in Higher-Order Logic](https://doi.org/10.1007/978-3-031-75107-3_18), Marco Maggesi, Cosimo Perini Brogi. ISoLA'24
 - [Satisfiability Modulo Theories: A Beginner's Tutorial](https://doi.org/10.1007/978-3-031-71177-0_31), Clark W. Barrett, Cesare Tinelli, Haniel Barbosa, Aina Niemetz, Mathias Preiner, Andrew Reynolds, Yoni Zohar. FM'24
 - [SC-TPTP: An Extension of the TPTP Derivation Format for Sequent-Based Calculus](https://ceur-ws.org/Vol-3717/paper2.pdf), Julie Cailler, Simon Guilloud. PAAR'24
 - [Second-Order Generalised Algebraic Theories: Signatures and First-Order Semantics](https://doi.org/10.4230/LIPIcs.FSCD.2024.10), Ambrus Kaposi, Szumi Xie, [FSCD'24](https://cs.ioc.ee/fscd24/)
@@ -141,6 +146,7 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 - [Translating HOL-Light proofs to Coq](https://doi.org/10.29007/6k4x), Frédéric Blanqui. LPAR'24
 - [Transpension: The Right Adjoint to the Pi-type](https://doi.org/10.46298/lmcs-20(2:16)2024), Andreas Nuyts, Dominique Devriese. [*LMCS*](https://lmcs.episciences.org)
 - [Type-Theory of Algorithms with Chain-Free Memory](https://doi.org/10.1007/978-3-031-82073-1_7), Roussanka Loukanova. DCAI'24
+- [Universal algebra in UniMath](https://doi.org/10.1017/s0960129524000367), Gianluca Amato, Matteo Calosci, Marco Maggesi, Cosimo Perini Brogi. [*MSCS*](https://www.cambridge.org/core/journals/mathematical-structures-in-computer-science)
 - [Who finds the short proof?](https://doi.org/10.1093/jigpal/jzac082), Christoph Benzmüller, David Fuenmayor, Alexander Steen, Geoff Sutcliffe. [*LJIGPL*](https://academic.oup.com/jigpal)
 
 **2023**
