@@ -120,6 +120,7 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 - [Orthologic with Axioms](https://doi.org/10.1007/978-3-031-50524-9_11), Simon Guilloud, Viktor Kunčak, POPL'24
 - [Partial Proof Terms in the Study of Idealized Proof Search](https://doi.org/10.1007/978-3-031-66997-2_16), José Espírito Santo, Ana Catarina Sousa, CICM'24
 - [Pre-measure Spaces and Pre-integration Spaces in Predicative Bishop-Cheng Measure Theory](https://doi.org/10.46298/lmcs-20(4:2)2024), Iosif Petrakis, Max Zeuner, [*LMCS*](https://lmcs.episciences.org)
+- [Proof exploration using dynamic geometry systems with integrated automated deduction capabilities](https://doi.org/10.1080/0020739X.2024.2377724), Pedro Quaresma, Vanda Santos, Joana Teles, [*IJMEST*](https://www.tandfonline.com/journals/tmes20)
 - [Proof Logging for the Circuit Constraint](https://doi.org/10.1007/978-3-031-60599-4_3), Matthew McIlree, Ciaran McCreesh, Jakob Nordström, CPAIOR'24
 - [Proof-carrying Parameters in Certified Symbolic Execution](https://doi.org/10.1093/jigpal/jzad008), Andrei Arusoaie, Dorel Lucanu, [*LJIGPL*](https://academic.oup.com/jigpal)
 - [Proofs for Free in the λΠ-Calculus Modulo Theory](https://dx.doi.org/10.4204/EPTCS.404.4), Thomas Traversié, LFMTP'24
@@ -140,6 +141,7 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 - [The Grothendieck Computability Model](https://ceur-ws.org/Vol-3811/paper180.pdf), Luis Gambarte, Iosif Petrakis, ICTCS'24
 - [The MoXI Model Exchange Tool Suite](https://doi.org/10.1007/978-3-031-65627-9_10), Chris Johannsen, Karthik Nukala, Rohit Dureja, Ahmed Irfan, Natarajan Shankar, Cesare Tinelli, Moshe Y. Vardi, Kristin Yvonne Rozier, CAV'24
 - [The New TPTP Format for Interpretations](https://doi.org/10.48550/arXiv.2406.06108), Geoff Sutcliffe, Alexander Steen, Pascal Fontaine
+- [Towards a Readability Criterion for Humans and Machines](https://doi.org/10.1007/978-3-031-94748-3_19), Pedro Quaresma, Pierluigi Graziani, SEFM'24
 - [Towards Multilingual Autoformalization and Informalization of Mathematics](https://sltc2024.github.io/abstracts/ranta.pdf), Aarne Ranta, SLTC'24
 - [Towards Producing Shorter Congruence Closure Proofs in a State-of-the-art SMT Solver (Extended Abstract)](https://ceur-ws.org/Vol-3717/short1.pdf), Bruno Andreotti, Haniel Barbosa, Oliver Flatt, PAAR'24
 - [Towards the Exact Complexity of Realizability for Safety LTL](https://doi.org/10.1016/j.jlamp.2024.101002), Noel Arteche, Montserrat Hermo, [*JLAMP*](https://www.sciencedirect.com/journal/journal-of-logical-and-algebraic-methods-in-programming)
