@@ -106,6 +106,8 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 - [Carcara-LP](https://github.com/NotBad4U/carcara/tree/lambdapi-translate): Alethe to Lambdapi translator
 - [mml2lambdapi](https://github.com/arturkornilowicz/mml2lambdapi.git): translator from Mizar to Lambdapi
 - [BEer](https://github.com/VTrelat/BEer): higher-order encoder for Atelier B proof obligations to SMT-LIB
+- [Kamelo](https://gitlab.com/semantiko/kamelo): translator from K(ore) to Dedukti
+- [MM2DK](https://gitlab.com/semantiko/): translator from Metamath to Dedukti
 
 **AI models for theorem proving**
 
