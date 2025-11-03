@@ -16,13 +16,9 @@ EuroProofNet is the European research network on digital proofs.
 proof systems**.
 
 Initially funded by [COST](http://cost.eu) between 2022 and 2025, it
-gathers more than [600 researchers](https://www.cost.eu/actions/CA20111/#tabs+Name:Working%20Groups%20and%20Membership) from 47 different countries.
+gathers more than [600 researchers](https://www.cost.eu/actions/CA20111/#tabs+Name:Working%20Groups%20and%20Membership) from 47 different countries. It organized meetings and schools, and provided [grants](../grants) to its members for short-term scientific missions in other countries. It was chaired by [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/) and a [Core group](../contact).
 
-It is chaired by [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/) and a [Core group](../contact).
-
-EuroProofNet organized meetings and schools, and provided
-[grants](../grants) to its members for short-term scientific missions
-in another country. [Learn more...](../description) &nbsp; [Objectives](../objectives) &nbsp; [Deliverables](../deliverables) &nbsp; [Questions?](../contact)
+[Learn more...](../description) &nbsp; [Objectives](../objectives) &nbsp; [Deliverables](../deliverables) &nbsp; [Questions?](../contact)
 
 <!--To join the action, simply
 [apply](https://e-services.cost.eu/action/CA20111/working-groups/apply)
@@ -38,13 +34,7 @@ corner).
 
 EuroProofNet also has a [Zulip chat](https://epn.zulipchat.com/) where you can post questions and announcements.
 
-**Sad news:**
-
-<img src="https://deducteam.gitlabpages.inria.fr/img/gilles.jpg" width="50%"/>
-
-EuroProofNet is sad to announce that [Gilles Dowek](https://lsv.ens-paris-saclay.fr/~dowek/), founder of [Deducteam](https://deducteam.gitlabpages.inria.fr/) and the [Dedukti](https://deducteam.github.io/) logical framework, which plays a central role in EuroProofNet, died on 21 July 2025 at 58 years old. He was vice leader of the WG4 on proof libraries from 2021 to 2022. He made important contributions not only in logic (unification, automated theorem proving, type theory) but also in quantum programming languages and philosophy. He received several awards from the French Academy of Sciences. He was a brilliant speaker and teacher, and published several books in computer science, logic and philosophy. He has been very active in promoting the teaching of computer science in high school and contributed to the definition of the corresponding cursus. Finally, he supervised or co-supervised many PhD students.
-
-**Coming events:**
+**Last events:**
 
 - 8-19 September 2025: [EuroProofNet Symposium](../Symposium), Institut Pascal, Orsay, France, with:
     - 8-11 September 2025: [International School on Logical Frameworks and Proof Systems Interoperability](../LFPSI25)

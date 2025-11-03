@@ -5,6 +5,8 @@ permalink: /grants/
 author_profile: true
 ---
 
+EuroProofNet has no available funding at the moment.
+
 EuroProofNet can provide two kinds of grants:
 
 - Short-Term Scientific Mission (STSM) -- see [past STSMs](../accepted_stsms)

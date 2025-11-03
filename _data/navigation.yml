@@ -1,8 +1,6 @@
 main:
   - title: "Tools"
     url: /tools/
-  - title: "Papers"
-    url: /publications/
   - title: "Schools"
     url: /schools/
   - title: "Confs"
@@ -21,6 +19,8 @@ main:
     url: /groups/
   - title: "Related projects"
     url: /projects/
+  - title: "Papers"
+    url: /publications/
   - title: "Grants"
     url: /grants/
   - title: "Events"
