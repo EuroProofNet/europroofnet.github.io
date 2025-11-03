@@ -14,23 +14,29 @@ layout: single
 EuroProofNet is the European research network on digital proofs.
 **EuroProofNet aims at boosting the interoperability and usability of
 proof systems**.
-It is a [COST](http://cost.eu) action started on November 2021
-gathering more than [600 researchers](https://www.cost.eu/actions/CA20111/#tabs+Name:Working%20Groups%20and%20Membership) from 47 different countries, chaired by [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/) and a [Core group](../contact).
-EuroProofNet organizes meetings and schools (see coming events below), and provides
+
+Initially funded by [COST](http://cost.eu) between 2022 and 2025, it
+gathers more than [600 researchers](https://www.cost.eu/actions/CA20111/#tabs+Name:Working%20Groups%20and%20Membership) from 47 different countries.
+
+It is chaired by [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/) and a [Core group](../contact).
+
+EuroProofNet organized meetings and schools, and provided
 [grants](../grants) to its members for short-term scientific missions
 in another country. [Learn more...](../description) &nbsp; [Objectives](../objectives) &nbsp; [Deliverables](../deliverables) &nbsp; [Questions?](../contact)
 
-To join the action, simply
+<!--To join the action, simply
 [apply](https://e-services.cost.eu/action/CA20111/working-groups/apply)
-to the [working groups](../wg) you are interested in (it is free and open to anyone interested by proof systems)!
+to the [working groups](../wg) you are interested in (it is free and open to anyone interested by proof systems)!-->
 
-The EuroProofNet website provides also many useful information about
+The EuroProofNet website provides many useful information about
 [proof tools](../tools), [research groups](../groups), third-party
 [schools](../schools) and [conferences](../conferences), [job
 offers](../jobs), [teaching](../teaching) material and websites,
 useful links on [gender](../gender-balance) balance issues,
 etc. (check the tabs on the top and the menu icon on the top right
 corner).
+
+EuroProofNet also has a [Zulip chat](https://epn.zulipchat.com/) where you can post questions and announcements.
 
 **Sad news:**
 

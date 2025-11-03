@@ -1,12 +1,8 @@
 main:
-  - title: "News"
-    url: /news/
-  - title: "Grants"
-    url: /grants/
-  - title: "Papers"
-    url: /publications/
   - title: "Tools"
     url: /tools/
+  - title: "Papers"
+    url: /publications/
   - title: "Schools"
     url: /schools/
   - title: "Confs"
@@ -17,11 +13,17 @@ main:
     url: /teaching/
   - title: "Gender balance"
     url: /gender-balance/
+  - title: "Contact"
+    url: /contact/
   - title: "Working Groups"
     url: /wg/
   - title: "Research Groups"
     url: /groups/
   - title: "Related projects"
     url: /projects/
-  - title: "Contact"
-    url: /contact/
+  - title: "Grants"
+    url: /grants/
+  - title: "Events"
+    url: /events/
+  - title: "News"
+    url: /news/
