@@ -9,6 +9,8 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 
 **2026**
 
+- 21-25 September 2026: [19th Conference on Intelligent Computer Mathematics](https://cicm-conference.org/2026/cicm.php) (CICM'26), Ljubljana, Slovenia
+
 - 13-29 July 2026: [Federated Logic Conference](https://www.floc26.org/) (FLOC'26), Lisbon, Portugal
 
 - 22 June - 3 July 2026: [Formal Mathematics and Proof Systems Interoperability](https://europroofnet.github.io/FMPSI26/) (FMPSI), Orsay, France
