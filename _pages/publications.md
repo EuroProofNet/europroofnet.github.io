@@ -304,7 +304,7 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 
 **Reports**
 
-- [3rd WG3 meeting)(../wg3-dresden), Dresden, 27-28 March, 2024, [slides&videos](https://europroofnet.github.io/wg3-dresden24-program/) [report](https://europroofnet.github.io/_pages/WG3/Dresden24/Report_WG3meetingDresden.pdf)
+- [3rd WG3 meeting](../wg3-dresden), Dresden, 27-28 March, 2024, [slides&videos](https://europroofnet.github.io/wg3-dresden24-program/) [report](https://europroofnet.github.io/_pages/WG3/Dresden24/Report_WG3meetingDresden.pdf)
 - [2nd WG3 meeting](../wg3-timisoara), Timisoara, 8-9 February 2023, [slides&videos](https://europroofnet.github.io/wg3-meeting-timisoara-program) [report](https://europroofnet.github.io/_pages/WG3/Feb2023/ReportWG3TimisoaraMeeting.pdf)
 
 - [1st WG3 meeting](../wg3-meeting1), Valencia, 10-11 February 2022 [slides&videos](https://europroofnet.github.io/wg3-meeting1-program) [report](https://europroofnet.github.io/_pages/WG3/Feb2022/ReportWG3meeting.pdf)
