@@ -150,6 +150,7 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 - [Transpension: The Right Adjoint to the Pi-type](https://doi.org/10.46298/lmcs-20(2:16)2024), Andreas Nuyts, Dominique Devriese, [*LMCS*](https://lmcs.episciences.org)
 - [Type-Theory of Algorithms with Chain-Free Memory](https://doi.org/10.1007/978-3-031-82073-1_7), Roussanka Loukanova, DCAI'24
 - [Universal algebra in UniMath](https://doi.org/10.1017/s0960129524000367), Gianluca Amato, Matteo Calosci, Marco Maggesi, Cosimo Perini Brogi, [*MSCS*](https://www.cambridge.org/core/journals/mathematical-structures-in-computer-science)
+- [UTC Time, Formally Verified](https://dl.acm.org/doi/10.1145/3636501.3636958), Ana de Almeida Borges, Mireia González Bedmar, Juan Conejero Rodríguez, Eduardo Hermo Reyes, Joaquim Casals Buñuel, Joost Joosten. [*CPP24*](https://popl24.sigplan.org/home/CPP-2024)
 - [What Monads Can and Cannot Do with a Bit of Extra Time](https://doi.org/10.4230/LIPIcs.CSL.2024.39), Rasmus Ejlers Møgelberg, Maaike Zwart, CSL'24
 - [Who finds the short proof?](https://doi.org/10.1093/jigpal/jzac082), Christoph Benzmüller, David Fuenmayor, Alexander Steen, Geoff Sutcliffe, [*LJIGPL*](https://academic.oup.com/jigpal)
 
