@@ -36,6 +36,8 @@ EuroProofNet also has a [Zulip chat](https://epn.zulipchat.com/) where you can p
 
 **Last events:**
 
+- The videos of the symposium talks are available on [Youtube](https://www.youtube.com/@institutpascal7781/playlists).
+
 - 8-19 September 2025: [EuroProofNet Symposium](../Symposium), Institut Pascal, Orsay, France, with:
     - 8-11 September 2025: [International School on Logical Frameworks and Proof Systems Interoperability](../LFPSI25)
     - 11-13 September 2025: [Workshop on automated reasoning and proof-logging](../wg2-symposium)

@@ -8,6 +8,8 @@ breadcrumbs: true
 
 <img src="/_pages/WG3/Sept2025/group.jpeg"/>
 
+The videos of the talks are available on [Youtube](https://www.youtube.com/watch?v=TMDOYRYQGV8&list=PLaT9F1eDUuN1IS5uAFtzurMuvHAMMCW3J).
+
 This will be the final meeting of the EuroProofNet Working Group 3 on Program Verification. It is part of the [Final EuroProofNet Symposium](https://europroofnet.github.io/Symposium/).
 
 **Date:** 17-19 September 2025

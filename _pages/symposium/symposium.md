@@ -8,6 +8,8 @@ breadcrumbs: true
 
 <img src="/_pages/symposium/ipa11.jpg"/>
 
+The videos of the talks are available on [Youtube](https://www.youtube.com/@institutpascal7781/playlists).
+
 **Date:** 8-19 September 2025
 
 **Venue:** [Institut Pascal](https://www.institut-pascal.universite-paris-saclay.fr/), 530 Rue André Rivière, 91400 Orsay [[access]](../Access) [[hotels]](../Hotels) [[food]](../Food) [[possible activities around]](../Activities)

@@ -8,6 +8,8 @@ breadcrumbs: true
 
 <img src="/_pages/WG4/Orsay25/group.jpeg"/>
 
+The videos of the talks are available on [Youtube](https://www.youtube.com/watch?v=i2_QwC1tMdI&list=PLaT9F1eDUuN1NFuCZmlbiHJOHNPrqh0xf).
+
 This workshop/WG4 meeting is part of the [EuroProofNet Symposium](../Symposium). See the symposium page to get information on the other co-located events.
 
 The objective is to have talks and demos like in the [1st Workshop on the development, maintenance, refactoring and search of large libraries of proofs](../wg4-meeting1) and, if time permits, some common development sessions.
