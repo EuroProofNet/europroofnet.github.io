@@ -13,6 +13,10 @@ by developing tools to translate proofs from one system to another.
 
 ### Activities
 
+- 24-26 September 2025: [Inter-WG meeting](../inter-wg-25), Le Val d'Ajol, France
+
+- 8-11 September 2025: [International School on Logical Frameworks and Proof Systems Interoperability](../LFPSI25)
+
 - 11-13 February 2025: [WG1 meeting](../Nogent25/), Nogent-sur-Seine, France
 
 - 26-27 September 2024: [WG1+2+4 meeting](../Fontainebleau24), Fontainebleau, France

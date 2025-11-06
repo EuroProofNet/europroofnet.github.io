@@ -108,6 +108,7 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 - [BEer](https://github.com/VTrelat/BEer): higher-order encoder for Atelier B proof obligations to SMT-LIB
 - [Kamelo](https://gitlab.com/semantiko/kamelo): translator from K(ore) to Dedukti
 - [MM2DK](https://gitlab.com/semantiko/): translator from Metamath to Dedukti
+- [EventB2LP](https://gitlab.irit.fr/evb2lp/evbrodin2lp/evb2lp): translator from EventB to Lambdapi
 
 **AI models for theorem proving**
 

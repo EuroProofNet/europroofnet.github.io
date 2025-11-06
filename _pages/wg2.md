@@ -14,12 +14,18 @@ a higher need of coordination.
 
 ### Documents and Deliverables
 
-We use a [git repository to store all our documents and deliverables](https://github.com/EuroProofNet/ATP).  In particular, we initiated [an inventory](https://github.com/EuroProofNet/ATP/wiki) of
+We use a [git repository to store all our documents and deliverables](https://github.com/EuroProofNet/ATP). In particular, we initiated [an inventory](https://github.com/EuroProofNet/ATP/wiki) of
 * automated theorem provers producing proofs
 * proof formats
 * checking tools for these proof formats.
 
 ### Activities
+
+* 11-13 September 2025: [Workshop on automated reasoning and proof-logging](../wg2-symposium)
+
+* 13-14 September 2025: [2nd International Workshop on Highlights in Organizing and Optimizing Proof-logging Systems]( https://jakobnordstrom.se/WHOOPS25/)
+
+* 3-5 June 2025: [WG2 meeting on ATPs for geometry](../wg2-geo25), Krakow, Poland
 
 * September 2024: [WG1+2+4 meeting](../Fontainebleau24), Fontainebleau, France
 

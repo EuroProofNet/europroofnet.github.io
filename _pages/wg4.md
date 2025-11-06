@@ -13,6 +13,8 @@ the entire collection nor of the system that was used to develop the proofs.
 
 ### Activities
 
+- 15-16 September 2025: [Workshop on proof libraries](../WG4_Orsay25)
+
 - 26-27 September 2024: [WG1+2+4 meeting](../Fontainebleau24), Fontainebleau, France
 
 - 13-14 September 2024: [WG4 meeting/2nd workshop on the development, maintenance, refactoring and mining of large libraries of proofs](../wg4-tbilisi24) in Tbilisi, Georgia, in co-location with [ITP'24](https://www.viam.science.tsu.ge/itp2024/)
