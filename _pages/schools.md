@@ -7,7 +7,11 @@ author_profile: true
 
 To contribute to the web site, please open an [issue](https://github.com/EuroProofNet/europroofnet.github.io/issues), create a [pull request](https://github.com/EuroProofNet/europroofnet.github.io) or send a mail to the [science communication coordinators](../contact).
 
+**2026**
+
 - 12-16 July 2026: [15th International School on Rewriting](https://cs.ru.nl/~cynthiakop/isr/) (ISR'26), Nijmegen, Netherlands
+
+**2025**
 
 - 8-11 September 2025: [International School on Logical Frameworks and Proof Systems Interoperability](../LFPSI25), Orsay, France
 
@@ -16,6 +20,8 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 - 7-11 July 2025: [School on Symbolic and Statistical Methods for Reasoning and Processing Formal Expressions](../Kutaisi25), Kutaisi, Georgia
 
 - 3-5 June 2025: [School on Natural Formal Mathematics](https://naproche.github.io/school/), Bonn, Germany
+
+**2024**
 
 - 15-21 September 2024: school on [Proof & Computation](http://www.mathematik.uni-muenchen.de/~schwicht/pc24.php), Fischbachau, Germany
 
@@ -27,11 +33,15 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 
 - 13-17 May 2024: [School on Formal Mathematics](https://www.him.uni-bonn.de/programs/future-programs/future-trimester-programs/prospects-of-formal-mathematics/school-on-formal-mathematics/), Bonn, Germany
 
+**2023**
+
 - 28 August - 1st September 2023: [School on Verification Technology, Systems & Applications](https://resources.mpi-inf.mpg.de/departments/rg1/conferences/vtsa23/), Nancy, France
 
 - 18-23 June 2023: [Proof assistants for Teaching](https://pat2023.icube.unistra.fr/), Val d'Ajol, France
 
 - 28 August - 1 September 2023: [Summer School on Reactive Synthesis](http://tcs.uniud.it/summer-school/), Udine, Italy
+
+**2022**
 
 - 7-10 November 2022: [Autumn School Proof Theory](https://uswpt.sites.uu.nl/), Utrecht, Netherlands
 
