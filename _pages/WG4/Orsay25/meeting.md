@@ -8,7 +8,7 @@ breadcrumbs: true
 
 <img src="/_pages/WG4/Orsay25/group.jpeg"/>
 
-The videos of the talks are available on [Youtube](https://www.youtube.com/watch?v=i2_QwC1tMdI&list=PLaT9F1eDUuN1NFuCZmlbiHJOHNPrqh0xf).
+The videos of the talks are available on [Youtube](https://www.youtube.com/playlist?list=PLaT9F1eDUuN1NFuCZmlbiHJOHNPrqh0xf).
 
 This workshop/WG4 meeting is part of the [EuroProofNet Symposium](../Symposium). See the symposium page to get information on the other co-located events.
 

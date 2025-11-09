@@ -8,7 +8,7 @@ breadcrumbs: true
 
 <img src="/_pages/WG2/Symposium/5.jpeg"/>
 
-The videos of the WG2 talks are available [here](https://www.youtube.com/watch?v=DtCTNjHZaao&list=PLaT9F1eDUuN35otNw390wa-Lx_MCO6izM) and the videos of the WHOOPS talks are available [there](https://www.youtube.com/watch?v=jXXQTgvLaZA&list=PLaT9F1eDUuN1hrdsSidWTFhuAxY4Yf_hy).
+The videos of the WG2 talks are available [here](https://www.youtube.com/playlist?list=PLaT9F1eDUuN35otNw390wa-Lx_MCO6izM) and the videos of the WHOOPS talks are available [there](https://www.youtube.com/playlist?list=PLaT9F1eDUuN1hrdsSidWTFhuAxY4Yf_hy).
 
 This will be the final meeting of the WG2 and the [International Workshop on Highlights in Organizing and Optimizing Proof-logging Systems](https://jakobnordstrom.se/WHOOPS25/) (WHOOPS'25). It is part of the [Final EuroProofNet Symposium](https://europroofnet.github.io/Symposium/).
 

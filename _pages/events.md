@@ -7,6 +7,8 @@ author_profile: true
 
 **2025**
 
+- The videos of the lectures and talks of the symposium are available on [Youtube](https://www.youtube.com/@institutpascal7781/playlists).
+
 - 24-26 September 2025: [Inter-WG meeting](../inter-wg-25), Le Val d'Ajol, France
 - 8-19 September 2025: [EuroProofNet Symposium](../Symposium), Institut Pascal, Orsay, France, with:
     - 8-11 September 2025: [International School on Logical Frameworks and Proof Systems Interoperability](../LFPSI25)

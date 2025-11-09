@@ -8,7 +8,7 @@ breadcrumbs: true
 
 <img src="/_pages/WG4/Orsay25/group.jpeg"/>
 
-The videos of the talks are available on [Youtube](https://www.youtube.com/watch?v=0USSdAzOJ3c&list=PLaT9F1eDUuN0FJAONMXxdGJrGGg2_x9Wb).
+The videos of the talks are available on [Youtube](https://www.youtube.com/playlist?list=PLaT9F1eDUuN0FJAONMXxdGJrGGg2_x9Wb).
 
 For more photos, scroll down to the end of the page.
 
