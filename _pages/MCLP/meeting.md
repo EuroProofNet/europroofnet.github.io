@@ -44,7 +44,7 @@ Please note that you have to organize yourself for lunches (and dinners), but th
 | 11:00-12:00 | [Stephan Schulz](https://wwwlehre.dhbw-stuttgart.de/~sschulz/DHBW_Stephan_Schulz/Stephan_Schulz.html), DHBW Stuttgart | LLM+ vs. Logic+ The Future of the AI Math Ecosystem (KeyNote) | 
 | 12:00-12:30 | S | T | 
 | 12:30-14:00 | [lunch](../Food) | [lunch](../Food) | 
-| 14:00-15:00 | [Aarne Ranta](https://www.cse.chalmers.se/~aarne/), Chalmers University of Technology and University of Gothenburg | Symbolic Informalization: Fluent, Productive, Multilingual (Invited) | 
+| 14:00-15:00 | [Aarne Ranta](https://www.cse.chalmers.se/~aarne/), Chalmers University of Technology and University of Gothenburg | Symbolic Informalization: Fluent, Productive, Multilingual (Invited) [(slides)](https://github.com/EuroProofNet/europroofnet.github.io/blob/main/_pages/MCLP/slides-MCLP/ranta-informath-mathcompling-2025.pdf) | 
 | 15:00-15:30 | S | T | 
 | 15:30-16:00 | break | break | 
 | 16:00-17:00 | [Krasimir Angelov](https://www.cse.chalmers.se/~krasimir/), Chalmers University of Technology and University of Gothenburg | Multilingual Natural Language Generation on a Large Scale (Invited) | 
