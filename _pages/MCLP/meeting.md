@@ -78,10 +78,10 @@ Please note that you have to organize yourself for lunches (and dinners), but th
 | 11:00-11:30 | [Shashank Pathak](https://pkshashank.github.io), The University of Manchester | Extending Flexible Boolean Semantics for the Language of Mathematics [(slides)](https://github.com/EuroProofNet/europroofnet.github.io/blob/main/_pages/MCLP/slides-MCLP/PathakMCLP.pdf) | 
 | 11:30-12:30 | [Michael Kohlhase](https://kwarc.info/people/mkohlhase/), Computer Science, FAU Erlangen-Nürnberg, Germany | Active Flexiformal Mathematics (in particular Proofs) - Methods, Resources, and Applications (Invited) | 
 | 12:30-14:00 | [lunch](../Food) | [lunch](../Food) | 
-| 14:00-15:00 | [Andrija Urosevic](https://poincare.matf.bg.ac.rs/~andrija.urosevic/) and [Sana Stojanovic-Durdevic](https://poincare.matf.bg.ac.rs/~sana.stojanovic.djurdjevic/), University of Belgrade, Faculty of Mathematics | From Formal Natural Deduction Proofs to LaTeX Proof Trees [(slides)](https://github.com/EuroProofNet/europroofnet.github.io/blob/main/_pages/MCLP/slides-MCLP/AndrijaMCLP.pdf)| 
+| 14:00-15:00 | [Andrija Urosevic](https://poincare.matf.bg.ac.rs/~andrija.urosevic/) and [Sana Stojanovic-Durdevic](https://poincare.matf.bg.ac.rs/~sana.stojanovic.djurdjevic/), University of Belgrade, Faculty of Mathematics | From Formal Natural Deduction Proofs to LaTeX Proof Trees [(slides)](https://github.com/EuroProofNet/europroofnet.github.io/blob/main/_pages/MCLP/slides-MCLP/AndrijaMCLP.pdf) | 
 | 15:00-15:30 | S | T | 
 | 15:30-16:00 | break | break | 
-| 16:00-17:00 |  [Sana Stojanovic-Durdevic](https://poincare.matf.bg.ac.rs/~sana.stojanovic.djurdjevic/) and [Danijela Simic](https://poincare.matf.bg.ac.rs/~danijela.simic/), University of Belgrade, Faculty of Mathematics | Proof by Cases in Euclidean Geometry | 
+| 16:00-17:00 |  [Sana Stojanovic-Durdevic](https://poincare.matf.bg.ac.rs/~sana.stojanovic.djurdjevic/) and [Danijela Simic](https://poincare.matf.bg.ac.rs/~danijela.simic/), University of Belgrade, Faculty of Mathematics | Proof by Cases in Euclidean Geometry [(slides)](https://github.com/EuroProofNet/europroofnet.github.io/blob/main/_pages/MCLP/slides-MCLP/2025-MCLP-Sana.pdf)| 
 | 17:00-18:00 | [Jørgen Villadsen](https://people.compute.dtu.dk/jovi/), Technical University of Denmark, Denmark | On Natural Deduction and Axioms for Propositional and First-Order Logic (Invited) | 
 | 18:00-18:30  | S | T | 
 
