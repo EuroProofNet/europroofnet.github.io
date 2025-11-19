@@ -97,7 +97,7 @@ Please note that you have to organize yourself for lunches (and dinners), but th
 | 12:00-12:30 | S | T |
 | 12:30-14:00 | [lunch](../Food) | [lunch](../Food) | 
 | 14:00-14:45 | [Adrian Riesco](http://maude.sip.ucm.es/~adrian/) and Juan Rodriguez-Hortala, Universidad Complutense de Madrid | Singular and Plural Functions  (Invited) | 
-| 14:45-15:30 | [Roussanka Loukanova](https://www.math.bas.bg/logic/loukanovarp/), Bulgarian Academy of Sciences | Parametric Information via Type Theory of Acyclic Algorithms [(slides)](https://github.com/EuroProofNet/europroofnet.github.io/_pages/MCLP/slides-MCLP/Roussanka-parinfo-ttaa.pdf) | 
+| 14:45-15:30 | [Roussanka Loukanova](https://www.math.bas.bg/logic/loukanovarp/), Bulgarian Academy of Sciences | Parametric Information via Type Theory of Acyclic Algorithms [(slides)](https://europroofnet.github.io/_pages/WG3/Sept2025/Roussanka-parinfo-ttaa.pdf) | 
 | 15:30-16:00 | break | break | 
 | 16:00-17:00 |[Lawrence S. Moss](https://iulg.sitehost.iu.edu/moss/), Indiana University, Bloomington, US | Natural Logic: Proof Systems for Reasoning in Natural Language (KeyNote)| 
 | 17:00-17:30 | S | T | 
