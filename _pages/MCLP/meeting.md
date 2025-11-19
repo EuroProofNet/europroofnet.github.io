@@ -65,7 +65,7 @@ Please note that you have to organize yourself for lunches (and dinners), but th
 | 15:00-15:30 | [Denis Bechet](http://pagesperso.ls2n.fr/~bechet-d/contact.html), LS2N - Nantes University and [Annie Foret](http://www.irisa.fr/prive/foret/english.html), IRISA and Univ Rennes 1 | Categorial Dependency Grammars Extended with Typed Barriers [(slides)](https://europroofnet.github.io/_pages/MCLP/slides-MCLP/Bechet-Foret-MCLP-2025.pdf) | 
 | 15:30-16:00 | break | break | 
 | 16:00-17:00 | [Wojciech Buszkowski](https://wmi.amu.edu.pl/wydzial/pracownicy/wojciech-buszkowski), Adam Mickiewicz University | Sequent systems for Lambek calculi and their extensions: a survey of recent results (Invited) [(slides)](https://europroofnet.github.io/_pages/MCLP/slides-MCLP/BuszkowskiSSLCTE.pdf) | 
-| 17:00-18:00 | [Philippe de Groote](https://members.loria.fr/PDegroote/), Inria Nancy - Grand Est, France | Some observations about plurals in mathematics (Invited) [(slides)](https://europroofnet.github.io/MCLP/slides-MCLP/deGroote.pdf) | 
+| 17:00-18:00 | [Philippe de Groote](https://members.loria.fr/PDegroote/), Inria Nancy - Grand Est, France | Some observations about plurals in mathematics (Invited) [(slides)](https://europroofnet.github.io/_pages/MCLP/slides-MCLP/deGroote.pdf) | 
 | 18:00-18:30 | S | T | 
 
 **Wednesday, Sep 17 2025**
