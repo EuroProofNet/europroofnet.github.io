@@ -47,7 +47,7 @@ Please note that you have to organize yourself for lunches (and dinners), but th
 | 14:00-15:00 | [Aarne Ranta](https://www.cse.chalmers.se/~aarne/), Chalmers University of Technology and University of Gothenburg | Symbolic Informalization: Fluent, Productive, Multilingual (Invited) [(slides)](https://github.com/EuroProofNet/europroofnet.github.io/blob/main/_pages/MCLP/slides-MCLP/ranta-informath-mathcompling-2025.pdf) | 
 | 15:00-15:30 | S | T | 
 | 15:30-16:00 | break | break | 
-| 16:00-17:00 | [Krasimir Angelov](https://www.cse.chalmers.se/~krasimir/), Chalmers University of Technology and University of Gothenburg | Multilingual Natural Language Generation on a Large Scale (Invited) [(slides](https://github.com/EuroProofNet/europroofnet.github.io/blob/main/_pages/MCLP/slides-MCLP/Angelov%20MCLP.pdf)| 
+| 16:00-17:00 | [Krasimir Angelov](https://www.cse.chalmers.se/~krasimir/), Chalmers University of Technology and University of Gothenburg | Multilingual Natural Language Generation on a Large Scale (Invited) [(slides)](https://github.com/EuroProofNet/europroofnet.github.io/blob/main/_pages/MCLP/slides-MCLP/Angelov%20MCLP.pdf)| 
 | 17:00-17:30 | S | T | 
 | 17:30-18:30 | (*) happy hour 
 
@@ -58,14 +58,14 @@ Please note that you have to organize yourself for lunches (and dinners), but th
 | 09:00-10:00 | [Sandra Alves](https://www.dcc.fc.up.pt/~sandra/Home/Home.html), University of Porto | Structural Rules and Algebraic Properties of Intersection Types (Invited) [(slides)](https://github.com/EuroProofNet/europroofnet.github.io/blob/main/_pages/MCLP/slides-MCLP/MCLP%20Alves.pdf) | 
 | 10:00-10:30 | S | T | 
 | 10:30-11:00 | break | break | 
-| 11:00-12:00 | [Roussanka Loukanova](https://www.math.bas.bg/logic/loukanovarp/), Bulgarian Academy of Sciences | Pure versus Generalised Quantifiers [(slides)](https://github.com/EuroProofNet/europroofnet.github.io/blob/main/_pages/MCLP/slides-MCLP/Roussanka-mclp.pdf| 
+| 11:00-12:00 | [Roussanka Loukanova](https://www.math.bas.bg/logic/loukanovarp/), Bulgarian Academy of Sciences | Pure versus Generalised Quantifiers [(slides)](https://github.com/EuroProofNet/europroofnet.github.io/blob/main/_pages/MCLP/slides-MCLP/Roussanka-mclp.pdf)| 
 | 12:00-12:30 | S | T | 
 | 12:30-14:00 | [lunch](../Food) | [lunch](../Food) | 
-| 14:00-15:00 | [Daisuke Bekki](https://daisukebekki.github.io), Ochanomizu University | A Proof-theoretic Investigation of Natural Language Semantics (Invited) | 
-| 15:00-15:30 | [Denis Bechet](http://pagesperso.ls2n.fr/~bechet-d/contact.html), LS2N - Nantes University and [Annie Foret](http://www.irisa.fr/prive/foret/english.html), IRISA and Univ Rennes 1 | Categorial Dependency Grammars Extended with Typed Barriers | 
+| 14:00-15:00 | [Daisuke Bekki](https://daisukebekki.github.io), Ochanomizu University | A Proof-theoretic Investigation of Natural Language Semantics (Invited) [(slides)](https://github.com/EuroProofNet/europroofnet.github.io/blob/main/_pages/MCLP/slides-MCLP/Bekki2025MCLP.pdf)| 
+| 15:00-15:30 | [Denis Bechet](http://pagesperso.ls2n.fr/~bechet-d/contact.html), LS2N - Nantes University and [Annie Foret](http://www.irisa.fr/prive/foret/english.html), IRISA and Univ Rennes 1 | Categorial Dependency Grammars Extended with Typed Barriers [(slides)](https://github.com/EuroProofNet/europroofnet.github.io/blob/main/_pages/MCLP/slides-MCLP/Bechet-Foret-MCLP-2025.pdf) | 
 | 15:30-16:00 | break | break | 
-| 16:00-17:00 | [Wojciech Buszkowski](https://wmi.amu.edu.pl/wydzial/pracownicy/wojciech-buszkowski), Adam Mickiewicz University | Sequent systems for Lambek calculi and their extensions: a survey of recent results (Invited) | 
-| 17:00-18:00 | [Philippe de Groote](https://members.loria.fr/PDegroote/), Inria Nancy - Grand Est, France | Some observations about plurals in mathematics (Invited) | 
+| 16:00-17:00 | [Wojciech Buszkowski](https://wmi.amu.edu.pl/wydzial/pracownicy/wojciech-buszkowski), Adam Mickiewicz University | Sequent systems for Lambek calculi and their extensions: a survey of recent results (Invited) [(slides)](https://github.com/EuroProofNet/europroofnet.github.io/blob/main/_pages/MCLP/slides-MCLP/BuszkowskiSSLCTE.pdf) | 
+| 17:00-18:00 | [Philippe de Groote](https://members.loria.fr/PDegroote/), Inria Nancy - Grand Est, France | Some observations about plurals in mathematics (Invited) [(slides)](https://github.com/EuroProofNet/europroofnet.github.io/blob/main/_pages/MCLP/slides-MCLP/deGroote.pdf) | 
 | 18:00-18:30 | S | T | 
 
 **Wednesday, Sep 17 2025**
