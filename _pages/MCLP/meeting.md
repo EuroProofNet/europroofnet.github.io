@@ -89,7 +89,7 @@ Please note that you have to organize yourself for lunches (and dinners), but th
 
 | | | | 
 |------------- | ------------- | ------------- | 
-| 09:00-09:30 | Barba da Costa, MIT, US, at al. | Disambiguating Natural Language Proofs with Bayesian Inference | 
+| 09:00-09:30 | Barba da Costa, MIT, US, at al. | Disambiguating Natural Language Proofs with Bayesian Inference [(slides)](https://github.com/EuroProofNet/europroofnet.github.io/blob/main/_pages/MCLP/slides-MCLP/MCLP_MAURICIO.pdf) | 
 | 09:30-10:00 | [Fabian Zaiser](https://www.fabianzaiser.com), MIT, US, at al. | Automatic (In)formalization of Mathematics via Language-Model Probabilistic Programming and Cycle Consistency | 
 | 10:00-10:30 | [Georgios V. Pitsiladis](https://www.gpits.me) and Petros Stefaneas, National Technical University of Athens | Using the Theory of Institutions for Semiotic–Argumentational Treatment of Mathematical Proof | 
 | 10:30-11:00 | break | break | 
