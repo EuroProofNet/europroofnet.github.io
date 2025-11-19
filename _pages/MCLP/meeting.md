@@ -44,10 +44,10 @@ Please note that you have to organize yourself for lunches (and dinners), but th
 | 11:00-12:00 | [Stephan Schulz](https://wwwlehre.dhbw-stuttgart.de/~sschulz/DHBW_Stephan_Schulz/Stephan_Schulz.html), DHBW Stuttgart | LLM+ vs. Logic+ The Future of the AI Math Ecosystem (KeyNote) | 
 | 12:00-12:30 | S | T | 
 | 12:30-14:00 | [lunch](../Food) | [lunch](../Food) | 
-| 14:00-15:00 | [Aarne Ranta](https://www.cse.chalmers.se/~aarne/), Chalmers University of Technology and University of Gothenburg | Symbolic Informalization: Fluent, Productive, Multilingual (Invited) [(slides)](https://github.com/EuroProofNet/europroofnet.github.io/blob/main/_pages/MCLP/slides-MCLP/ranta-informath-mathcompling-2025.pdf) | 
+| 14:00-15:00 | [Aarne Ranta](https://www.cse.chalmers.se/~aarne/), Chalmers University of Technology and University of Gothenburg | Symbolic Informalization: Fluent, Productive, Multilingual (Invited) [(slides)](https://europroofnet.github.io/_pages/MCLP/slides-MCLP/ranta-informath-mathcompling-2025.pdf) | 
 | 15:00-15:30 | S | T | 
 | 15:30-16:00 | break | break | 
-| 16:00-17:00 | [Krasimir Angelov](https://www.cse.chalmers.se/~krasimir/), Chalmers University of Technology and University of Gothenburg | Multilingual Natural Language Generation on a Large Scale (Invited) [(slides)](https://github.com/EuroProofNet/europroofnet.github.io/blob/main/_pages/MCLP/slides-MCLP/Angelov%20MCLP.pdf)| 
+| 16:00-17:00 | [Krasimir Angelov](https://www.cse.chalmers.se/~krasimir/), Chalmers University of Technology and University of Gothenburg | Multilingual Natural Language Generation on a Large Scale (Invited) [(slides)](https://europroofnet.github.io/_pages/MCLP/slides-MCLP/Angelov%20MCLP.pdf)| 
 | 17:00-17:30 | S | T | 
 | 17:30-18:30 | (*) happy hour 
 
@@ -55,41 +55,41 @@ Please note that you have to organize yourself for lunches (and dinners), but th
 
 | | | | 
 |------------- | ------------- | ------------- | 
-| 09:00-10:00 | [Sandra Alves](https://www.dcc.fc.up.pt/~sandra/Home/Home.html), University of Porto | Structural Rules and Algebraic Properties of Intersection Types (Invited) [(slides)](https://github.com/EuroProofNet/europroofnet.github.io/blob/main/_pages/MCLP/slides-MCLP/MCLP%20Alves.pdf) | 
+| 09:00-10:00 | [Sandra Alves](https://www.dcc.fc.up.pt/~sandra/Home/Home.html), University of Porto | Structural Rules and Algebraic Properties of Intersection Types (Invited) [(slides)](https://europroofnet.github.io/_pages/MCLP/slides-MCLP/MCLP%20Alves.pdf) | 
 | 10:00-10:30 | S | T | 
 | 10:30-11:00 | break | break | 
-| 11:00-12:00 | [Roussanka Loukanova](https://www.math.bas.bg/logic/loukanovarp/), Bulgarian Academy of Sciences | Pure versus Generalised Quantifiers [(slides)](https://github.com/EuroProofNet/europroofnet.github.io/blob/main/_pages/MCLP/slides-MCLP/Roussanka-mclp.pdf)| 
+| 11:00-12:00 | [Roussanka Loukanova](https://www.math.bas.bg/logic/loukanovarp/), Bulgarian Academy of Sciences | Pure versus Generalised Quantifiers [(slides)](https://europroofnet.github.io/_pages/MCLP/slides-MCLP/Roussanka-mclp.pdf)| 
 | 12:00-12:30 | S | T | 
 | 12:30-14:00 | [lunch](../Food) | [lunch](../Food) | 
-| 14:00-15:00 | [Daisuke Bekki](https://daisukebekki.github.io), Ochanomizu University | A Proof-theoretic Investigation of Natural Language Semantics (Invited) [(slides)](https://github.com/EuroProofNet/europroofnet.github.io/blob/main/_pages/MCLP/slides-MCLP/Bekki2025MCLP.pdf)| 
-| 15:00-15:30 | [Denis Bechet](http://pagesperso.ls2n.fr/~bechet-d/contact.html), LS2N - Nantes University and [Annie Foret](http://www.irisa.fr/prive/foret/english.html), IRISA and Univ Rennes 1 | Categorial Dependency Grammars Extended with Typed Barriers [(slides)](https://github.com/EuroProofNet/europroofnet.github.io/blob/main/_pages/MCLP/slides-MCLP/Bechet-Foret-MCLP-2025.pdf) | 
+| 14:00-15:00 | [Daisuke Bekki](https://daisukebekki.github.io), Ochanomizu University | A Proof-theoretic Investigation of Natural Language Semantics (Invited) [(slides)](https://europroofnet.github.io/_pages/MCLP/slides-MCLP/Bekki2025MCLP.pdf)| 
+| 15:00-15:30 | [Denis Bechet](http://pagesperso.ls2n.fr/~bechet-d/contact.html), LS2N - Nantes University and [Annie Foret](http://www.irisa.fr/prive/foret/english.html), IRISA and Univ Rennes 1 | Categorial Dependency Grammars Extended with Typed Barriers [(slides)](https://europroofnet.github.io/_pages/MCLP/slides-MCLP/Bechet-Foret-MCLP-2025.pdf) | 
 | 15:30-16:00 | break | break | 
-| 16:00-17:00 | [Wojciech Buszkowski](https://wmi.amu.edu.pl/wydzial/pracownicy/wojciech-buszkowski), Adam Mickiewicz University | Sequent systems for Lambek calculi and their extensions: a survey of recent results (Invited) [(slides)](https://github.com/EuroProofNet/europroofnet.github.io/blob/main/_pages/MCLP/slides-MCLP/BuszkowskiSSLCTE.pdf) | 
-| 17:00-18:00 | [Philippe de Groote](https://members.loria.fr/PDegroote/), Inria Nancy - Grand Est, France | Some observations about plurals in mathematics (Invited) [(slides)](https://github.com/EuroProofNet/europroofnet.github.io/blob/main/_pages/MCLP/slides-MCLP/deGroote.pdf) | 
+| 16:00-17:00 | [Wojciech Buszkowski](https://wmi.amu.edu.pl/wydzial/pracownicy/wojciech-buszkowski), Adam Mickiewicz University | Sequent systems for Lambek calculi and their extensions: a survey of recent results (Invited) [(slides)](https://europroofnet.github.io/_pages/MCLP/slides-MCLP/BuszkowskiSSLCTE.pdf) | 
+| 17:00-18:00 | [Philippe de Groote](https://members.loria.fr/PDegroote/), Inria Nancy - Grand Est, France | Some observations about plurals in mathematics (Invited) [(slides)](https://europroofnet.github.io/blob/MCLP/slides-MCLP/deGroote.pdf) | 
 | 18:00-18:30 | S | T | 
 
 **Wednesday, Sep 17 2025**
 
 | | | | 
 |------------- | ------------- | ------------- | 
-| 09:00-10:00 | [Adrian De Lon](https://adelon.net), University of Bonn, Germany | Natural Language Understanding In Natural Proof Checking (Invited) [(slides)](https://github.com/EuroProofNet/europroofnet.github.io/blob/main/_pages/MCLP/slides-MCLP/De_Lon_Natural_Language_Understanding_In_Natural_Proof_Checking.pdf) | 
+| 09:00-10:00 | [Adrian De Lon](https://adelon.net), University of Bonn, Germany | Natural Language Understanding In Natural Proof Checking (Invited) [(slides)](https://europroofnet.github.io/_pages/MCLP/slides-MCLP/De_Lon_Natural_Language_Understanding_In_Natural_Proof_Checking.pdf) | 
 | 10:00-10:30 | S | T | 
 | 10:30-11:00 | break | break | 
-| 11:00-11:30 | [Shashank Pathak](https://pkshashank.github.io), The University of Manchester | Extending Flexible Boolean Semantics for the Language of Mathematics [(slides)](https://github.com/EuroProofNet/europroofnet.github.io/blob/main/_pages/MCLP/slides-MCLP/PathakMCLP.pdf) | 
-| 11:30-12:30 | [Michael Kohlhase](https://kwarc.info/people/mkohlhase/), Computer Science, FAU Erlangen-Nürnberg, Germany | Active Flexiformal Mathematics (in particular Proofs) - Methods, Resources, and Applications (Invited) [(slides)](https://github.com/EuroProofNet/europroofnet.github.io/blob/main/_pages/MCLP/slides-MCLP/MCLP25%20Flexiformal.pdf)| 
+| 11:00-11:30 | [Shashank Pathak](https://pkshashank.github.io), The University of Manchester | Extending Flexible Boolean Semantics for the Language of Mathematics [(slides)](https://europroofnet.github.io/_pages/MCLP/slides-MCLP/PathakMCLP.pdf) | 
+| 11:30-12:30 | [Michael Kohlhase](https://kwarc.info/people/mkohlhase/), Computer Science, FAU Erlangen-Nürnberg, Germany | Active Flexiformal Mathematics (in particular Proofs) - Methods, Resources, and Applications (Invited) [(slides)](https://europroofnet.github.io/_pages/MCLP/slides-MCLP/MCLP25%20Flexiformal.pdf)| 
 | 12:30-14:00 | [lunch](../Food) | [lunch](../Food) | 
-| 14:00-15:00 | [Andrija Urosevic](https://poincare.matf.bg.ac.rs/~andrija.urosevic/) and [Sana Stojanovic-Durdevic](https://poincare.matf.bg.ac.rs/~sana.stojanovic.djurdjevic/), University of Belgrade, Faculty of Mathematics | From Formal Natural Deduction Proofs to LaTeX Proof Trees [(slides)](https://github.com/EuroProofNet/europroofnet.github.io/blob/main/_pages/MCLP/slides-MCLP/AndrijaMCLP.pdf) | 
+| 14:00-15:00 | [Andrija Urosevic](https://poincare.matf.bg.ac.rs/~andrija.urosevic/) and [Sana Stojanovic-Durdevic](https://poincare.matf.bg.ac.rs/~sana.stojanovic.djurdjevic/), University of Belgrade, Faculty of Mathematics | From Formal Natural Deduction Proofs to LaTeX Proof Trees [(slides)](https://europroofnet.github.io/_pages/MCLP/slides-MCLP/AndrijaMCLP.pdf) | 
 | 15:00-15:30 | S | T | 
 | 15:30-16:00 | break | break | 
-| 16:00-17:00 |  [Sana Stojanovic-Durdevic](https://poincare.matf.bg.ac.rs/~sana.stojanovic.djurdjevic/) and [Danijela Simic](https://poincare.matf.bg.ac.rs/~danijela.simic/), University of Belgrade, Faculty of Mathematics | Proof by Cases in Euclidean Geometry [(slides)](https://github.com/EuroProofNet/europroofnet.github.io/blob/main/_pages/MCLP/slides-MCLP/2025-MCLP-Sana.pdf)| 
-| 17:00-18:00 | [Jørgen Villadsen](https://people.compute.dtu.dk/jovi/), Technical University of Denmark, Denmark | On Natural Deduction and Axioms for Propositional and First-Order Logic (Invited) [(slides)](https://github.com/EuroProofNet/europroofnet.github.io/blob/main/_pages/MCLP/slides-MCLP/MCLP%20JVilladsen.pdf) | 
+| 16:00-17:00 |  [Sana Stojanovic-Durdevic](https://poincare.matf.bg.ac.rs/~sana.stojanovic.djurdjevic/) and [Danijela Simic](https://poincare.matf.bg.ac.rs/~danijela.simic/), University of Belgrade, Faculty of Mathematics | Proof by Cases in Euclidean Geometry [(slides)](https://europroofnet.github.io/_pages/MCLP/slides-MCLP/2025-MCLP-Sana.pdf)| 
+| 17:00-18:00 | [Jørgen Villadsen](https://people.compute.dtu.dk/jovi/), Technical University of Denmark, Denmark | On Natural Deduction and Axioms for Propositional and First-Order Logic (Invited) [(slides)](https://europroofnet.github.io/_pages/MCLP/slides-MCLP/MCLP%20JVilladsen.pdf) | 
 | 18:00-18:30  | S | T | 
 
 **Thursday, Sep 18 2025; Joint Sessions from 11:00, MCLP and WG3**
 
 | | | | 
 |------------- | ------------- | ------------- | 
-| 09:00-09:30 | Barba da Costa, MIT, US, at al. | Disambiguating Natural Language Proofs with Bayesian Inference [(slides)](https://github.com/EuroProofNet/europroofnet.github.io/blob/main/_pages/MCLP/slides-MCLP/MCLP_MAURICIO.pdf) | 
+| 09:00-09:30 | Barba da Costa, MIT, US, at al. | Disambiguating Natural Language Proofs with Bayesian Inference [(slides)](https://europroofnet.github.io/_pages/MCLP/slides-MCLP/MCLP_MAURICIO.pdf) | 
 | 09:30-10:00 | [Fabian Zaiser](https://www.fabianzaiser.com), MIT, US, at al. | Automatic (In)formalization of Mathematics via Language-Model Probabilistic Programming and Cycle Consistency [(slides)](https://europroofnet.github.io/_pages/MCLP/slides-MCLP/Zaiser%20-%20Automatic%20InFormalization%20via%20LLM%20ProbProg.pdf) | 
 | 10:00-10:30 | [Georgios V. Pitsiladis](https://www.gpits.me) and Petros Stefaneas, National Technical University of Athens | Using the Theory of Institutions for Semiotic–Argumentational Treatment of Mathematical Proof [(slides)](https://europroofnet.github.io/_pages/MCLP/slides-MCLP/pitsiladis-mclp2025-presentation.pdf) | 
 | 10:30-11:00 | break | break | 
