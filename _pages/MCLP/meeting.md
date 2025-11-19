@@ -72,7 +72,7 @@ Please note that you have to organize yourself for lunches (and dinners), but th
 
 | | | | 
 |------------- | ------------- | ------------- | 
-| 09:00-10:00 | [Adrian De Lon](https://adelon.net), University of Bonn, Germany | Natural Language Understanding In Natural Proof Checking (Invited) | 
+| 09:00-10:00 | [Adrian De Lon](https://adelon.net), University of Bonn, Germany | Natural Language Understanding In Natural Proof Checking (Invited) [(slides)](https://github.com/EuroProofNet/europroofnet.github.io/blob/main/_pages/MCLP/slides-MCLP/AndrijaMCLP.pdf) | 
 | 10:00-10:30 | S | T | 
 | 10:30-11:00 | break | break | 
 | 11:00-11:30 | [Shashank Pathak](https://pkshashank.github.io), The University of Manchester | Extending Flexible Boolean Semantics for the Language of Mathematics | 
