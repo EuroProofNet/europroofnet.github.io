@@ -96,7 +96,7 @@ Please note that you have to organize yourself for lunches (and dinners), but th
 | 11:00-12:00 | [Frédéric Tran Minh](https://lcis.fr/members/frederic-tran-minh), UGA-Grenoble INP-Esisar, [Laure Gonnord](https://laure.gonnord.org/pro/), Grenoble-INP / LCIS, and [Julien Narboux](https://www.irif.fr/~narboux/), RIF - Université Paris Cité | A Lean-based Language for Teaching Proof in High-school [(slides)](https://github.com/EuroProofNet/europroofnet.github.io/blob/main/_pages/MCLP/slides-MCLP/MCLP-2025-tran-minh-gonnord-narboux-yalep.pdf) | 
 | 12:00-12:30 | S | T |
 | 12:30-14:00 | [lunch](../Food) | [lunch](../Food) | 
-| 14:00-14:45 | [Adrian Riesco](http://maude.sip.ucm.es/~adrian/) and Juan Rodriguez-Hortala, Universidad Complutense de Madrid | Singular and Plural Functions  (Invited) | 
+| 14:00-14:45 | [Adrian Riesco](http://maude.sip.ucm.es/~adrian/) and Juan Rodriguez-Hortala, Universidad Complutense de Madrid | Singular and Plural Functions  (Invited) [(slides)](https://europroofnet.github.io/_pages/WG3/Sept2025/wg3_plural.pdf) | 
 | 14:45-15:30 | [Roussanka Loukanova](https://www.math.bas.bg/logic/loukanovarp/), Bulgarian Academy of Sciences | Parametric Information via Type Theory of Acyclic Algorithms [(slides)](https://europroofnet.github.io/_pages/WG3/Sept2025/Roussanka-parinfo-ttaa.pdf) | 
 | 15:30-16:00 | break | break | 
 | 16:00-17:00 |[Lawrence S. Moss](https://iulg.sitehost.iu.edu/moss/), Indiana University, Bloomington, US | Natural Logic: Proof Systems for Reasoning in Natural Language (KeyNote)| 
