@@ -55,7 +55,7 @@ Please note that you have to organize yourself for lunches (and dinners), but th
 
 | | | | 
 |------------- | ------------- | ------------- | 
-| 09:00-10:00 | [Sandra Alves](https://www.dcc.fc.up.pt/~sandra/Home/Home.html), University of Porto | Structural Rules and Algebraic Properties of Intersection Types (Invited) | 
+| 09:00-10:00 | [Sandra Alves](https://www.dcc.fc.up.pt/~sandra/Home/Home.html), University of Porto | Structural Rules and Algebraic Properties of Intersection Types (Invited) [(slides)](https://github.com/EuroProofNet/europroofnet.github.io/blob/main/_pages/MCLP/slides-MCLP/MCLP%20Alves.pdf) | 
 | 10:00-10:30 | S | T | 
 | 10:30-11:00 | break | break | 
 | 11:00-12:00 | [Roussanka Loukanova](https://www.math.bas.bg/logic/loukanovarp/), Bulgarian Academy of Sciences | Pure versus Generalised Quantifiers | 
