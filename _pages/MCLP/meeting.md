@@ -47,7 +47,7 @@ Please note that you have to organize yourself for lunches (and dinners), but th
 | 14:00-15:00 | [Aarne Ranta](https://www.cse.chalmers.se/~aarne/), Chalmers University of Technology and University of Gothenburg | Symbolic Informalization: Fluent, Productive, Multilingual (Invited) [(slides)](https://github.com/EuroProofNet/europroofnet.github.io/blob/main/_pages/MCLP/slides-MCLP/ranta-informath-mathcompling-2025.pdf) | 
 | 15:00-15:30 | S | T | 
 | 15:30-16:00 | break | break | 
-| 16:00-17:00 | [Krasimir Angelov](https://www.cse.chalmers.se/~krasimir/), Chalmers University of Technology and University of Gothenburg | Multilingual Natural Language Generation on a Large Scale (Invited) | 
+| 16:00-17:00 | [Krasimir Angelov](https://www.cse.chalmers.se/~krasimir/), Chalmers University of Technology and University of Gothenburg | Multilingual Natural Language Generation on a Large Scale (Invited) [(slides](https://github.com/EuroProofNet/europroofnet.github.io/blob/main/_pages/MCLP/slides-MCLP/Angelov%20MCLP.pdf)| 
 | 17:00-17:30 | S | T | 
 | 17:30-18:30 | (*) happy hour 
 
