@@ -41,6 +41,8 @@ page of the 1st edition [here](https://pat2023.icube.unistra.fr/)).
 - June 1st: notification
 -->
 
+**Organizers:** [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/) (INRIA & LMF, chair of EuroProofNet) and [Patrick Massot](https://www.imo.universite-paris-saclay.fr/~patrick.massot/) (LMO, University Paris Saclay)
+
 **Sponsor:**
 
 <table>
