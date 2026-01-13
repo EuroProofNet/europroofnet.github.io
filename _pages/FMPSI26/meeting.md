@@ -43,8 +43,34 @@ page of the 1st edition [here](https://pat2023.icube.unistra.fr/)).
 
 **Organizers:** [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/) (INRIA & LMF, chair of EuroProofNet) and [Patrick Massot](https://www.imo.universite-paris-saclay.fr/~patrick.massot/) (LMO, University Paris Saclay)
 
-**Sponsor:**
+**Participants:** (on January 13)<!-- in alphabetical order -->
+<!-- [Bruno Barras](https://lsv.ens-paris-saclay.fr/~barras/) (Gif-sur-Yvette, France)-->
+- [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/) (Gif-sur-Yvette, France)
+- [Guillaume Burel](https://web4.ensiie.fr/~guillaume.burel/) (Evry, France)
+- [Kevin Buzzard](https://profiles.imperial.ac.uk/k.buzzard) (London, UK)
+- [Mario Carneiro](https://digama0.github.io/) (Göteborg, Sweden)
+- [Cyril Cohen](https://perso.crans.org/cohen/) (Lyon, France)
+- [Johan Commelin](https://math.commelin.net/) (Utrecht, Netherlands)
+- Ben Eltschig (Berlin, Germany)
+- [Alessio Coltellacci](https://notbad4u.github.io/) (Nancy, France)
+- [María Inés de Frutos-Fernández](https://mariainesdff.github.io/) (Bonn, Germany)
+<!-- [Catherine Dubois](https://web4.ensiie.fr/~dubois/) (Evry, France)-->
+- [Antoine Gontard](https://agontard.github.io/) (Gif-sur-Yvette, France)
+<!-- [Olivier Hermant](https://www.cri.mines-paristech.fr/~hermant/) (Paris \& Fontainebleau, France)-->
+- Iván Martínez Comas (Gif-sur-Yvette, France)
+- [Patrick Massot](https://www.imo.universite-paris-saclay.fr/~patrick.massot/) (Orsay, France)
+- [Heather Macbeth](https://www.ma.imperial.ac.uk/~hmacbeth/) (London, UK)
+- [Sophie Morel](https://perso.ens-lyon.fr/sophie.morel/) (Lyon, France)
+- [Olivier Nash](http://olivernash.org/) (London, UK)
+- [Michael Rothgang](https://www.math.uni-bonn.de/people/rothgang/) (Bonn, Germany)
+- [Claudio Sacerdoti Coen](https://www.cs.unibo.it/~sacerdot/) (Bologna, Italy)
+- [Geoff Sutcliffe](https://www.cs.miami.edu/home/geoff/) (Miami, USA)
+- [Melanie Taprogge](https://melanie-taprogge.github.io/) (Gif-sur-Yvette, France)
+<!-- [Thomas Traversié](https://thomastraversie.github.io/) (Gif-sur-Yvette, France)-->
+<!-- [Rishikesh Vaishnav](https://rish987.github.io/) -->
+<!-- [Théo Winterhalter](https://theowinterhalter.github.io/) (Gif-sur-Yvette, France)-->
 
+**Sponsor:**
 <table>
  <tr>
   <td><a href="https://www.institut-pascal.universite-paris-saclay.fr/"><img src="/_pages/symposium/logo-ipa.jpg"/></a></td>
