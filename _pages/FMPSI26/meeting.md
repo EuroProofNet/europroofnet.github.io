@@ -31,7 +31,7 @@ page of the 1st edition [here](https://pat2023.icube.unistra.fr/)).
 
 **Date:** 22 June - 3 July 2026
 
-**Venue:** [Institut Pascal](https://www.institut-pascal.universite-paris-saclay.fr/), 530 Rue André Rivière, 91400 Orsay [[access]](../Access) <!--[[hotels]](../Hotels)--> [[food options]](../Food)
+**Venue:** [Institut Pascal](https://www.institut-pascal.universite-paris-saclay.fr/), 530 Rue André Rivière, 91400 Orsay [[access]](../Access) [[hotels]](../Hotels) [[restaurants]](../Food)
 
 <!--
 **Registration/funding requests:** fill in this [form](https://forms.gle/QLFzh3Ugv5WgkhZr7) (registration is free but mandatory)
