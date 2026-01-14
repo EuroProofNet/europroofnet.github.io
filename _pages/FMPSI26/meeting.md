@@ -43,7 +43,7 @@ page of the 1st edition [here](https://pat2023.icube.unistra.fr/)).
 
 **Organizers:** [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/) (INRIA & LMF, chair of EuroProofNet), [Patrick Massot](https://www.imo.universite-paris-saclay.fr/~patrick.massot/) (LMO, University Paris Saclay), [Assia Mahboubi](http://people.rennes.inria.fr/Assia.Mahboubi/) (INRIA Nantes) et [Florent Hivert](https://www.lri.fr/~hivert/) (LISN, University Paris Saclay)
 
-**Participants:** (on January 13)<!-- in alphabetical order -->
+**Participants:** (27 on January 14)<!-- in alphabetical order -->
 - [Reynald Affeldt](https://staff.aist.go.jp/reynald.affeldt/) (Tokyo, Japan)
 <!-- [Bruno Barras](https://lsv.ens-paris-saclay.fr/~barras/) (Gif-sur-Yvette, France)-->
 - [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/) (Gif-sur-Yvette, France)
@@ -76,7 +76,7 @@ page of the 1st edition [here](https://pat2023.icube.unistra.fr/)).
 - [Laurent Théry](https://www-sop.inria.fr/marelle/Laurent.Thery/) (Sophia-Antipolis, France)
 - [Thomas Traversié](https://thomastraversie.github.io/) (Gif-sur-Yvette, France)
 <!-- [Rishikesh Vaishnav](https://rish987.github.io/) -->
-<!-- [Théo Winterhalter](https://theowinterhalter.github.io/) (Gif-sur-Yvette, France)-->
+- [Théo Winterhalter](https://theowinterhalter.github.io/) (Gif-sur-Yvette, France)
 
 **Sponsor:**
 <table>
