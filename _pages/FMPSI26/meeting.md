@@ -44,8 +44,10 @@ page of the 1st edition [here](https://pat2023.icube.unistra.fr/)).
 **Organizers:** [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/) (INRIA & LMF, chair of EuroProofNet) and [Patrick Massot](https://www.imo.universite-paris-saclay.fr/~patrick.massot/) (LMO, University Paris Saclay)
 
 **Participants:** (on January 13)<!-- in alphabetical order -->
+- [Reynald Affeldt](https://staff.aist.go.jp/reynald.affeldt/) (Tokyo, Japan)
 <!-- [Bruno Barras](https://lsv.ens-paris-saclay.fr/~barras/) (Gif-sur-Yvette, France)-->
 - [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/) (Gif-sur-Yvette, France)
+- [Alessandro Bruni](https://alessandrobruni.name/) (Copenhagen, Denmark)
 - [Guillaume Burel](https://web4.ensiie.fr/~guillaume.burel/) (Evry, France)
 - [Kevin Buzzard](https://profiles.imperial.ac.uk/k.buzzard) (London, UK)
 - [Mario Carneiro](https://digama0.github.io/) (Göteborg, Sweden)
@@ -63,10 +65,14 @@ page of the 1st edition [here](https://pat2023.icube.unistra.fr/)).
 - [Sophie Morel](https://perso.ens-lyon.fr/sophie.morel/) (Lyon, France)
 - [Olivier Nash](http://olivernash.org/) (London, UK)
 - [Michael Rothgang](https://www.math.uni-bonn.de/people/rothgang/) (Bonn, Germany)
+- [Pierre Roux](https://www.onera.fr/fr/staff/pierre-roux) (Toulouse, France)
 - [Claudio Sacerdoti Coen](https://www.cs.unibo.it/~sacerdot/) (Bologna, Italy)
+- [Kazuhiko Sakagushi](https://github.com/pi8027/) (Lyon, France)
 - [Geoff Sutcliffe](https://www.cs.miami.edu/home/geoff/) (Miami, USA)
 - [Melanie Taprogge](https://melanie-taprogge.github.io/) (Gif-sur-Yvette, France)
-<!-- [Thomas Traversié](https://thomastraversie.github.io/) (Gif-sur-Yvette, France)-->
+- [Enrico Tassi](https://www-sop.inria.fr/members/Enrico.Tassi/) (Sophia-Antipolis, France)
+- [Laurent Théry](https://www-sop.inria.fr/marelle/Laurent.Thery/) (Sophia-Antipolis, France)
+- [Thomas Traversié](https://thomastraversie.github.io/) (Gif-sur-Yvette, France)
 <!-- [Rishikesh Vaishnav](https://rish987.github.io/) -->
 <!-- [Théo Winterhalter](https://theowinterhalter.github.io/) (Gif-sur-Yvette, France)-->
 
