@@ -41,7 +41,7 @@ page of the 1st edition [here](https://pat2023.icube.unistra.fr/)).
 - June 1st: notification
 -->
 
-**Organizers:** [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/) (INRIA & LMF, chair of EuroProofNet) and [Patrick Massot](https://www.imo.universite-paris-saclay.fr/~patrick.massot/) (LMO, University Paris Saclay)
+**Organizers:** [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/) (INRIA & LMF, chair of EuroProofNet), [Patrick Massot](https://www.imo.universite-paris-saclay.fr/~patrick.massot/) (LMO, University Paris Saclay), [Assia Mahboubi](http://people.rennes.inria.fr/Assia.Mahboubi/) (INRIA Nantes) et [Florent Hivert](https://www.lri.fr/~hivert/) (LISN, University Paris Saclay)
 
 **Participants:** (on January 13)<!-- in alphabetical order -->
 - [Reynald Affeldt](https://staff.aist.go.jp/reynald.affeldt/) (Tokyo, Japan)
@@ -59,6 +59,8 @@ page of the 1st edition [here](https://pat2023.icube.unistra.fr/)).
 <!-- [Catherine Dubois](https://web4.ensiie.fr/~dubois/) (Evry, France)-->
 - [Antoine Gontard](https://agontard.github.io/) (Gif-sur-Yvette, France)
 <!-- [Olivier Hermant](https://www.cri.mines-paristech.fr/~hermant/) (Paris \& Fontainebleau, France)-->
+- [Florent Hivert](https://www.lri.fr/~hivert/) (Gif-sur-Yvette, France)
+- [Assia Mahboubi](http://people.rennes.inria.fr/Assia.Mahboubi/) (Nantes, France)
 - Iván Martínez Comas (Gif-sur-Yvette, France)
 - [Patrick Massot](https://www.imo.universite-paris-saclay.fr/~patrick.massot/) (Orsay, France)
 - [Heather Macbeth](https://www.ma.imperial.ac.uk/~hmacbeth/) (London, UK)
