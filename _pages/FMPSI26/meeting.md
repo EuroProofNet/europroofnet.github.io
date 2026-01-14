@@ -71,7 +71,7 @@ page of the 1st edition [here](https://pat2023.icube.unistra.fr/)).
 - [Claudio Sacerdoti Coen](https://www.cs.unibo.it/~sacerdot/) (Bologna, Italy)
 - [Kazuhiko Sakagushi](https://github.com/pi8027/) (Lyon, France)
 - [Geoff Sutcliffe](https://www.cs.miami.edu/home/geoff/) (Miami, USA)
-- [Melanie Taprogge](https://melanie-taprogge.github.io/) (Gif-sur-Yvette, France)
+- [Melanie Taprogge](https://melanie-taprogge.github.io/) (Greifswald, Germany)
 - [Enrico Tassi](https://www-sop.inria.fr/members/Enrico.Tassi/) (Sophia-Antipolis, France)
 - [Laurent Théry](https://www-sop.inria.fr/marelle/Laurent.Thery/) (Sophia-Antipolis, France)
 - [Thomas Traversié](https://thomastraversie.github.io/) (Gif-sur-Yvette, France)
