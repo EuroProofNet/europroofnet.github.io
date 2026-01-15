@@ -43,9 +43,9 @@ page of the 1st edition [here](https://pat2023.icube.unistra.fr/)).
 
 **Organizers:** [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/) (INRIA & LMF, chair of EuroProofNet), [Patrick Massot](https://www.imo.universite-paris-saclay.fr/~patrick.massot/) (LMO, University Paris Saclay), [Assia Mahboubi](http://people.rennes.inria.fr/Assia.Mahboubi/) (INRIA Nantes) et [Florent Hivert](https://www.lri.fr/~hivert/) (LISN, University Paris Saclay)
 
-**Participants:** (28 on January 15)<!-- in alphabetical order -->
+**Participants:** (29 on January 15)<!-- in alphabetical order -->
 - [Reynald Affeldt](https://staff.aist.go.jp/reynald.affeldt/) (Tokyo, Japan)
-<!-- [Bruno Barras](https://lsv.ens-paris-saclay.fr/~barras/) (Gif-sur-Yvette, France)-->
+- [Bruno Barras](https://lsv.ens-paris-saclay.fr/~barras/) (Gif-sur-Yvette, France)
 - [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/) (Gif-sur-Yvette, France)
 - [Alessandro Bruni](https://alessandrobruni.name/) (Copenhagen, Denmark)
 - [Guillaume Burel](https://web4.ensiie.fr/~guillaume.burel/) (Evry, France)
@@ -55,6 +55,7 @@ page of the 1st edition [here](https://pat2023.icube.unistra.fr/)).
 - [Johan Commelin](https://math.commelin.net/) (Utrecht, Netherlands)
 - Ben Eltschig (Berlin, Germany)
 - [Alessio Coltellacci](https://notbad4u.github.io/) (Nancy, France)
+<!-- [Ciarán Dunne](https://ciaran-matthew-dunne.github.io/)-->
 - [María Inés de Frutos-Fernández](https://mariainesdff.github.io/) (Bonn, Germany)
 <!-- [Catherine Dubois](https://web4.ensiie.fr/~dubois/) (Evry, France)-->
 - [Antoine Gontard](https://agontard.github.io/) (Gif-sur-Yvette, France)
@@ -76,7 +77,7 @@ page of the 1st edition [here](https://pat2023.icube.unistra.fr/)).
 - [Enrico Tassi](https://www-sop.inria.fr/members/Enrico.Tassi/) (Sophia-Antipolis, France)
 - [Laurent Théry](https://www-sop.inria.fr/marelle/Laurent.Thery/) (Sophia-Antipolis, France)
 - [Thomas Traversié](https://thomastraversie.github.io/) (Gif-sur-Yvette, France)
-<!-- [Rishikesh Vaishnav](https://rish987.github.io/) -->
+<!-- [Rishikesh Vaishnav](https://rish987.github.io/)-->
 - [Théo Winterhalter](https://theowinterhalter.github.io/) (Gif-sur-Yvette, France)
 
 **Sponsor:**
