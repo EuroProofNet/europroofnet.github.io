@@ -43,7 +43,7 @@ page of the 1st edition [here](https://pat2023.icube.unistra.fr/)).
 
 **Organizers:** [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/) (INRIA & LMF, chair of EuroProofNet), [Patrick Massot](https://www.imo.universite-paris-saclay.fr/~patrick.massot/) (LMO, University Paris Saclay), [Assia Mahboubi](http://people.rennes.inria.fr/Assia.Mahboubi/) (INRIA Nantes) et [Florent Hivert](https://www.lri.fr/~hivert/) (LISN, University Paris Saclay)
 
-**Participants:** (27 on January 14)<!-- in alphabetical order -->
+**Participants:** (28 on January 15)<!-- in alphabetical order -->
 - [Reynald Affeldt](https://staff.aist.go.jp/reynald.affeldt/) (Tokyo, Japan)
 <!-- [Bruno Barras](https://lsv.ens-paris-saclay.fr/~barras/) (Gif-sur-Yvette, France)-->
 - [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/) (Gif-sur-Yvette, France)
@@ -66,6 +66,7 @@ page of the 1st edition [here](https://pat2023.icube.unistra.fr/)).
 - [Heather Macbeth](https://www.ma.imperial.ac.uk/~hmacbeth/) (London, UK)
 - [Sophie Morel](https://perso.ens-lyon.fr/sophie.morel/) (Lyon, France)
 - [Olivier Nash](http://olivernash.org/) (London, UK)
+- [Michael Rawson](https://rawsons.uk/michael/) (Southampton, UK)
 - [Michael Rothgang](https://www.math.uni-bonn.de/people/rothgang/) (Bonn, Germany)
 - [Pierre Roux](https://www.onera.fr/fr/staff/pierre-roux) (Toulouse, France)
 - [Claudio Sacerdoti Coen](https://www.cs.unibo.it/~sacerdot/) (Bologna, Italy)
