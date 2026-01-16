@@ -41,7 +41,36 @@ page of the 1st edition [here](https://pat2023.icube.unistra.fr/)).
 - June 1st: notification
 -->
 
-**Organizers:** [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/) (INRIA & LMF, chair of EuroProofNet), [Patrick Massot](https://www.imo.universite-paris-saclay.fr/~patrick.massot/) (LMO, University Paris Saclay), [Assia Mahboubi](http://people.rennes.inria.fr/Assia.Mahboubi/) (INRIA Nantes) et [Florent Hivert](https://www.lri.fr/~hivert/) (LISN, University Paris Saclay)
+**Organizers:** 
+- general chair: [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/) (INRIA & LMF, chair of EuroProofNet)
+- WG on interoperability: [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/) (INRIA & LMF, chair of EuroProofNet)
+- WG on formal math: [Patrick Massot](https://www.imo.universite-paris-saclay.fr/~patrick.massot/) (LMO, University Paris Saclay)
+- WG on computer algebra: [Assia Mahboubi](http://people.rennes.inria.fr/Assia.Mahboubi/) (INRIA Nantes), [Florent Hivert](https://www.lri.fr/~hivert/) (LISN, University Paris Saclay)
+- school: [Julien Narboux](https://www.irif.fr/~narboux/) (IRIF, Université Paris Cité)
+
+**Program:**
+
+approximative daily schedule:
+
+|-------|----------------|
+| 09:00 | welcome coffee |
+| 09:30 | work session   |
+| 12:30 | lunch          |
+| 13:30 | work session   |
+| 15:30 | talk           |
+| 16:00 | coffee break   |
+| 16:30 | work session   |
+| ...   | ...            |
+
+special sessions:
+
+|--------------------------|-------------------------------------|
+| Monday 22 June morning   | one self presentation and work plan |
+| Tuesday 23 June evening  | cocktail                            |
+| Thursday 25 June evening | dinner                              |
+| Tuesday 30 June evening  | cocktail                            |
+| Thursday 2 July evening  | dinner                              |
+| Friday 3 July afternoon  | restitution session                 |
 
 **Participants:** (29 on January 15)<!-- in alphabetical order -->
 - [Reynald Affeldt](https://staff.aist.go.jp/reynald.affeldt/) (Tokyo, Japan)
