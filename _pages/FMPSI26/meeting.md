@@ -61,7 +61,6 @@ approximative daily schedule:
 | 15:30 | talk           |
 | 16:00 | coffee break   |
 | 16:30 | work session   |
-| ...   | ...            |
 
 special sessions:
 
