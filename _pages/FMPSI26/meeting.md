@@ -52,11 +52,12 @@ page of the 1st edition [here](https://pat2023.icube.unistra.fr/)).
 
 approximative daily schedule:
 
+| time  | activity       |
 |-------|----------------|
 | 09:00 | welcome coffee |
 | 09:30 | work session   |
-| 12:30 | lunch          |
-| 13:30 | work session   |
+| 12:00 | lunch          |
+| 13:00 | work session   |
 | 15:30 | talk           |
 | 16:00 | coffee break   |
 | 16:30 | work session   |
@@ -64,6 +65,7 @@ approximative daily schedule:
 
 special sessions:
 
+| time                     | activity                            |
 |--------------------------|-------------------------------------|
 | Monday 22 June morning   | one self presentation and work plan |
 | Tuesday 23 June evening  | cocktail                            |
