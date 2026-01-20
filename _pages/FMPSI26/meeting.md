@@ -73,7 +73,7 @@ special sessions:
 | Thursday 2 July evening  | dinner                              |
 | Friday 3 July afternoon  | restitution session                 |
 
-**Participants:** (29 on January 15)<!-- in alphabetical order -->
+**Participants:** (28 on January 20)<!-- in alphabetical order -->
 - [Reynald Affeldt](https://staff.aist.go.jp/reynald.affeldt/) (Tokyo, Japan)
 - [Bruno Barras](https://lsv.ens-paris-saclay.fr/~barras/) (Gif-sur-Yvette, France)
 - [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/) (Gif-sur-Yvette, France)
@@ -82,7 +82,6 @@ special sessions:
 - [Kevin Buzzard](https://profiles.imperial.ac.uk/k.buzzard) (London, UK)
 - [Mario Carneiro](https://digama0.github.io/) (Göteborg, Sweden)
 - [Cyril Cohen](https://perso.crans.org/cohen/) (Lyon, France)
-- [Johan Commelin](https://math.commelin.net/) (Utrecht, Netherlands)
 - Ben Eltschig (Berlin, Germany)
 - [Alessio Coltellacci](https://notbad4u.github.io/) (Nancy, France)
 <!-- [Ciarán Dunne](https://ciaran-matthew-dunne.github.io/)-->
