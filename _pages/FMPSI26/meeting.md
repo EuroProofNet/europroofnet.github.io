@@ -66,48 +66,49 @@ special sessions:
 
 | time                     | activity                            |
 |--------------------------|-------------------------------------|
-| Monday 22 June morning   | one self presentation and work plan |
+| Monday 22 June morning   | one self prnesentation and work plan |
 | Tuesday 23 June evening  | cocktail                            |
 | Thursday 25 June evening | dinner                              |
 | Tuesday 30 June evening  | cocktail                            |
 | Thursday 2 July evening  | dinner                              |
 | Friday 3 July afternoon  | restitution session                 |
 
-**Participants:** (28 on January 20)<!-- in alphabetical order -->
-- [Reynald Affeldt](https://staff.aist.go.jp/reynald.affeldt/) (Tokyo, Japan)
+**Participants:** (29 on January 29)<!-- in alphabetical order -->
+- <!--confirmed-->[Reynald Affeldt](https://staff.aist.go.jp/reynald.affeldt/) (Tokyo, Japan)
 - [Bruno Barras](https://lsv.ens-paris-saclay.fr/~barras/) (Gif-sur-Yvette, France)
-- [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/) (Gif-sur-Yvette, France)
+- <!--confirmed-->[Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/) (Gif-sur-Yvette, France)
 - [Alessandro Bruni](https://alessandrobruni.name/) (Copenhagen, Denmark)
 - [Guillaume Burel](https://web4.ensiie.fr/~guillaume.burel/) (Evry, France)
-- [Kevin Buzzard](https://profiles.imperial.ac.uk/k.buzzard) (London, UK)
+- <!--confirmed, 1st week only-->[Kevin Buzzard](https://profiles.imperial.ac.uk/k.buzzard) (London, UK)
 - [Mario Carneiro](https://digama0.github.io/) (Göteborg, Sweden)
-- [Cyril Cohen](https://perso.crans.org/cohen/) (Lyon, France)
-- Ben Eltschig (Berlin, Germany)
+- <!--confirmed-->[Cyril Cohen](https://perso.crans.org/cohen/) (Lyon, France)
+- <!--confirmed-->Ben Eltschig (Berlin, Germany)
 - [Alessio Coltellacci](https://notbad4u.github.io/) (Nancy, France)
 <!-- [Ciarán Dunne](https://ciaran-matthew-dunne.github.io/)-->
-- [María Inés de Frutos-Fernández](https://mariainesdff.github.io/) (Bonn, Germany)
+- <!--confirmed-->[María Inés de Frutos-Fernández](https://mariainesdff.github.io/) (Bonn, Germany)
 <!-- [Catherine Dubois](https://web4.ensiie.fr/~dubois/) (Evry, France)-->
-- [Antoine Gontard](https://agontard.github.io/) (Gif-sur-Yvette, France)
+- <!--confirmed-->[Antoine Gontard](https://agontard.github.io/) (Gif-sur-Yvette, France)
 <!-- [Olivier Hermant](https://www.cri.mines-paristech.fr/~hermant/) (Paris \& Fontainebleau, France)-->
 - [Florent Hivert](https://www.lri.fr/~hivert/) (Gif-sur-Yvette, France)
 - [Assia Mahboubi](http://people.rennes.inria.fr/Assia.Mahboubi/) (Nantes, France)
-- Iván Martínez Comas (Gif-sur-Yvette, France)
+- <!--confirmed-->Iván Martínez Comas (Gif-sur-Yvette, France)
 - [Patrick Massot](https://www.imo.universite-paris-saclay.fr/~patrick.massot/) (Orsay, France)
 - [Heather Macbeth](https://www.ma.imperial.ac.uk/~hmacbeth/) (London, UK)
-- [Sophie Morel](https://perso.ens-lyon.fr/sophie.morel/) (Lyon, France)
+- <!--confirmed-->[Sophie Morel](https://perso.ens-lyon.fr/sophie.morel/) (Lyon, France)
+- <!--confirmed-->[Julien Narboux](https://www.irif.fr/~narboux/) (Paris, France)
 - [Olivier Nash](http://olivernash.org/) (London, UK)
-- [Michael Rawson](https://rawsons.uk/michael/) (Southampton, UK)
+- <!--confirmed-->[Michael Rawson](https://rawsons.uk/michael/) (Southampton, UK)
 - [Michael Rothgang](https://www.math.uni-bonn.de/people/rothgang/) (Bonn, Germany)
-- [Pierre Roux](https://www.onera.fr/fr/staff/pierre-roux) (Toulouse, France)
-- [Claudio Sacerdoti Coen](https://www.cs.unibo.it/~sacerdot/) (Bologna, Italy)
+- <!--confirmed, 1st week only-->[Pierre Roux](https://www.onera.fr/fr/staff/pierre-roux) (Toulouse, France)
+- <!--confirmed-->[Claudio Sacerdoti Coen](https://www.cs.unibo.it/~sacerdot/) (Bologna, Italy)
 - [Kazuhiko Sakagushi](https://github.com/pi8027/) (Lyon, France)
-- [Geoff Sutcliffe](https://www.cs.miami.edu/home/geoff/) (Miami, USA)
-- [Melanie Taprogge](https://melanie-taprogge.github.io/) (Greifswald, Germany)
-- [Enrico Tassi](https://www-sop.inria.fr/members/Enrico.Tassi/) (Sophia-Antipolis, France)
-- [Laurent Théry](https://www-sop.inria.fr/marelle/Laurent.Thery/) (Sophia-Antipolis, France)
-- [Thomas Traversié](https://thomastraversie.github.io/) (Gif-sur-Yvette, France)
+- <!--confirmed-->[Geoff Sutcliffe](https://www.cs.miami.edu/home/geoff/) (Miami, USA)
+- <!--confirmed-->[Melanie Taprogge](https://melanie-taprogge.github.io/) (Greifswald, Germany)
+- <!--confirmed, 1st week only-->[Enrico Tassi](https://www-sop.inria.fr/members/Enrico.Tassi/) (Sophia-Antipolis, France)
+- <!--confirmed, 1st week only-->[Laurent Théry](https://www-sop.inria.fr/marelle/Laurent.Thery/) (Sophia-Antipolis, France)
+- <!--confirmed-->[Thomas Traversié](https://thomastraversie.github.io/) (Gif-sur-Yvette, France)
 <!-- [Rishikesh Vaishnav](https://rish987.github.io/)-->
-- [Théo Winterhalter](https://theowinterhalter.github.io/) (Gif-sur-Yvette, France)
+- <!--confirmed-->[Théo Winterhalter](https://theowinterhalter.github.io/) (Gif-sur-Yvette, France)
 
 **Sponsor:**
 <table>
