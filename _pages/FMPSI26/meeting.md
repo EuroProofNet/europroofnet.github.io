@@ -8,7 +8,7 @@ breadcrumbs: true
 
 <table>
  <tr>
-  <td><a href="https://www.institut-pascal.universite-paris-saclay.fr/"><img src="/_pages/symposium/logo-ipa.jpg"/></a></td>
+  <td><a href="https://www.institut-pascal.universite-paris-saclay.fr/en/scientific-programs/formal-mathematics-and-proof-systems-interoperability-fmpsi"><img src="/_pages/symposium/logo-ipa.jpg"/></a></td>
  </tr>
 </table>
 
