@@ -89,14 +89,14 @@ special sessions:
 <!-- [Catherine Dubois](https://web4.ensiie.fr/~dubois/) (Evry, France)-->
 - <!--confirmed-->[Antoine Gontard](https://agontard.github.io/) (Gif-sur-Yvette, France)
 <!-- [Olivier Hermant](https://www.cri.mines-paristech.fr/~hermant/) (Paris \& Fontainebleau, France)-->
-- [Florent Hivert](https://www.lri.fr/~hivert/) (Gif-sur-Yvette, France)
-- [Assia Mahboubi](http://people.rennes.inria.fr/Assia.Mahboubi/) (Nantes, France)
+- <!--confirmed-->[Florent Hivert](https://www.lri.fr/~hivert/) (Gif-sur-Yvette, France)
+- <!--confirmed-->[Assia Mahboubi](http://people.rennes.inria.fr/Assia.Mahboubi/) (Nantes, France)
 - <!--confirmed-->Iván Martínez Comas (Gif-sur-Yvette, France)
 - [Patrick Massot](https://www.imo.universite-paris-saclay.fr/~patrick.massot/) (Orsay, France)
 - [Heather Macbeth](https://www.ma.imperial.ac.uk/~hmacbeth/) (London, UK)
 - <!--confirmed-->[Sophie Morel](https://perso.ens-lyon.fr/sophie.morel/) (Lyon, France)
 - <!--confirmed-->[Julien Narboux](https://www.irif.fr/~narboux/) (Paris, France)
-- [Olivier Nash](http://olivernash.org/) (London, UK)
+- [Oliver Nash](http://olivernash.org/) (London, UK)
 - <!--confirmed-->[Michael Rawson](https://rawsons.uk/michael/) (Southampton, UK)
 - [Michael Rothgang](https://www.math.uni-bonn.de/people/rothgang/) (Bonn, Germany)
 - <!--confirmed, 1st week only-->[Pierre Roux](https://www.onera.fr/fr/staff/pierre-roux) (Toulouse, France)
