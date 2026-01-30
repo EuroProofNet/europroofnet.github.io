@@ -6,6 +6,12 @@ author_profile: true
 breadcrumbs: true
 ---
 
+<table>
+ <tr>
+  <td><a href="https://www.institut-pascal.universite-paris-saclay.fr/"><img src="/_pages/symposium/logo-ipa.jpg"/></a></td>
+ </tr>
+</table>
+
 <img src="/_pages/symposium/ipa11.jpg"/>
 
 FMPSI'26 is a 2-weeks meeting aiming at gathering experts in formal
@@ -109,13 +115,6 @@ special sessions:
 - <!--confirmed-->[Thomas Traversié](https://thomastraversie.github.io/) (Gif-sur-Yvette, France)
 <!-- [Rishikesh Vaishnav](https://rish987.github.io/)-->
 - <!--confirmed-->[Théo Winterhalter](https://theowinterhalter.github.io/) (Gif-sur-Yvette, France)
-
-**Sponsor:**
-<table>
- <tr>
-  <td><a href="https://www.institut-pascal.universite-paris-saclay.fr/"><img src="/_pages/symposium/logo-ipa.jpg"/></a></td>
- </tr>
-</table>
 
 **Steering committee:**
 - [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/) (INRIA & LMF, chair of EuroProofNet)
