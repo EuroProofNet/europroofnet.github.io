@@ -13,7 +13,7 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 
 - 13-29 July 2026: [Federated Logic Conference](https://www.floc26.org/) (FLOC'26), Lisbon, Portugal
 
-- 22 June - 3 July 2026: [Formal Mathematics and Proof Systems Interoperability](https://europroofnet.github.io/FMPSI26/) (FMPSI), Orsay, France
+- 22 June - 3 July 2026: [Formal Mathematics and Proof Systems Interoperability](https://deducteam.gitlabpages.inria.fr/FMPSI26/) (FMPSI), Orsay, France
 
 - 4-8 May 2026: [31st International Conference on Types for Proofs and Programs](https://sites.google.com/view/thetypesconferences/next-types-meeting) (TYPES'26), Göteborg, Sweden
 
