@@ -10,7 +10,7 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 **Interactive theorem provers**
 
 - [Agda](https://wiki.portal.chalmers.se/agda/pmwiki.php)
-- [Coq](http://coq.inria.fr/)
+- [Rocq](http://rocq-prover.org)
 - [Isabelle](https://isabelle.in.tum.de/)
 - [Lean](http://leanprover.github.io/)
 - [Lambdapi](https://github.com/Deducteam/lambdapi)
@@ -27,7 +27,7 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
   increasingly higher-order logic), creating proof objects in TPTP format.
 - [Eldarica](https://github.com/uuverifiers/eldarica): SMT solver for problems in the constrained Horn fragment. Can output models of Horn clauses in SMT-LIB, and proofs of unsatisfiability in several formats.
 - [Goéland](https://github.com/GoelandProver/Goeland): A first-order concurrent tableau-based automated theorem prover with equality and management of theories with DMT that produce proofs in Rocq, LambdaPi, TPTP and Lisa. 
-- [Larus](https://github.com/janicicpredrag/Larus): Larus is a theorem prover for coherent logic that uses SAT/SMT provers to construct proofs. Larus can generate natural language proofs (in LaTeX) and machine checkable proofs (Coq/Isabelle/Mizar).
+- [Larus](https://github.com/janicicpredrag/Larus): Larus is a theorem prover for coherent logic that uses SAT/SMT provers to construct proofs. Larus can generate natural language proofs (in LaTeX) and machine checkable proofs (Rocq/Isabelle/Mizar).
 - [Leo-III](https://github.com/leoprover/Leo-III): ATP for (polymorphic) higher-order logic, providing proofs in TPTP format.
 - [Princess](https://github.com/uuverifiers/princess): ATP and SMT solver for first-order logic modulo various theories, with support for outputting proofs in different formats.
 - [Vampire](https://vprover.github.io/): ATP handing first-order and higher-order logic with equality and theories producing fine-grained TPTP compliant proofs.
@@ -51,10 +51,10 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 **Proof data bases**
 
 - [Lean MathLib](https://github.com/leanprover-community/mathlib4)
-- [Coq Opam Packages](https://coq.inria.fr/opam/www/)
+- [Rocq Opam Packages](https://github.com/rocq-prover/opam)
 - [Isabelle Archive of Formal Proofs](https://www.isa-afp.org/)
 - [Mizar Mathematical Library](http://mizar.org/library/)
-- [Logipedia](https://github.com/Deducteam/Logipedia): Matita arithmetic library translated to Dedukti/STTfa, Coq, Lean, OpenTheory, HOL-Light, PVS
+- [Logipedia](https://github.com/Deducteam/Logipedia): Matita arithmetic library translated to Dedukti/STTfa, Rocq, Lean, OpenTheory, HOL-Light, PVS
 - [Nubo](https://github.com/Deducteam/nubo): metadata on Dedukti libraries
 
 **Proof data bases tools**
@@ -79,7 +79,7 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 **Proof translation tools**
 
 - [Agda2Dedukti](https://github.com/Deducteam/Agda2Dedukti): Agda to Dedukti/Agda or Lambdapi/Agda
-- [CoqInE](https://github.com/Deducteam/CoqInE): Coq to Dedukti/Coq
+- [CoqInE](https://github.com/Deducteam/CoqInE): Rocq to Dedukti/Rocq
 - [Dk2agda](https://github.com/Deducteam/dk2agda): Dedukti to Agda
 - [Ekstrakto](https://github.com/Deducteam/ekstrakto): TSTP to TPTP and Lambdapi/FOL (subsumed by GDV-LP)
 - [eo2lp](https://github.com/ciaran-matthew-dunne/eo2lp): Eunoia (EO) to LambdaPi (LP)
@@ -89,17 +89,17 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 - [HOLLightToDk](https://github.com/Deducteam/HOLLightToDk): HOL-Light to Dedukti/STTfa
 - [Krajono](https://github.com/Deducteam/Krajono): Matita to Dedukti/Matita
 - [Isabelle\_dedukti](https://github.com/Deducteam/isabelle_dedukti): Isabelle to Dedukti or Lambdapi
-- [Logipedia](https://github.com/Deducteam/Logipedia): Dedukti/STTfa to Coq, Lean, Matita, OpenTheory, HOL-Light, PVS
+- [Logipedia](https://github.com/Deducteam/Logipedia): Dedukti/STTfa to Rocq, Lean, Matita, OpenTheory, HOL-Light, PVS
 - [Logic embedding tool](https://github.com/leoprover/logic-embedding): Translates non-classical proof obligations into higher-order logic
 - [Personoj](https://github.com/Deducteam/personoj): PVS to Lambdapi
 - [pp2lp](https://github.com/ciaran-matthew-dunne/pp2lp): Atelier B's Predicate Prover (PP) to LambdaPi (LP). 
 - [Skonverto](https://github.com/Deducteam/SKonverto): construct a proof of a formula from a proof of its skolemized version
 - [tptp-utils](https://github.com/leoprover/tptp-utils): Translates various TPTP/TSTP formats into each other
 - [Universo](https://github.com/Deducteam/universo): type universes rewriting tool
-- [SMTCoq](https://smtcoq.github.io/): reconstruct proofs from SMT solvers in Coq
-- [CoqHammer](https://coqhammer.github.io/): reconstruct proofs from ATPs in Coq
+- [SMTCoq](https://smtcoq.github.io/): reconstruct proofs from SMT solvers in Rocq
+- [CoqHammer](https://coqhammer.github.io/): reconstruct proofs from ATPs in Rocq
 - [Maude2Lean](https://fadoss.github.io/maude2lean/)
-- [Lean2Coq](https://coq.discourse.group/t/alpha-announcement-coq-is-a-lean-typechecker/581): Lean to Coq
+- [rocq-lean-import](https://github.com/rocq-community/rocq-lean-import): Lean to Rocq
 - [B-pog-translator](https://github.com/Deducteam/B-pog-translator): translator from Atelier B proof obligation files to Lambdapi
 - [Predicativize](https://github.com/Deducteam/predicativize): translate Dedukti proofs to Dedukti proofs with universe polymorphism, and translate them to Agda
 - [Lean2dk](https://github.com/Deducteam/lean2dk): Lean4 to Dedukti
