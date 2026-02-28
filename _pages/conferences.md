@@ -9,6 +9,8 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 
 **2026**
 
+- 11-13 November 2026: [23rd International Colloquium on Theoretical Aspects of Computing](https://ictac2026.github.io/) (ICTAC'26), Bariloche, Argentina
+
 - 21-25 September 2026: [19th Conference on Intelligent Computer Mathematics](https://cicm-conference.org/2026/cicm.php) (CICM'26), Ljubljana, Slovenia
 
 - 13-29 July 2026: [Federated Logic Conference](https://www.floc26.org/) (FLOC'26), Lisbon, Portugal
