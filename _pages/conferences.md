@@ -7,6 +7,10 @@ author_profile: true
 
 To contribute to the web site, please open an [issue](https://github.com/EuroProofNet/europroofnet.github.io/issues), create a [pull request](https://github.com/EuroProofNet/europroofnet.github.io) or send a mail to the [science communication coordinators](../contact).
 
+**2027**
+
+- 25-29 January 2027: [35th EACSL Annual Conference on Computer Science Logic](https://csl2027.github.io/), Brighton, UK
+
 **2026**
 
 - 11-13 November 2026: [23rd International Colloquium on Theoretical Aspects of Computing](https://ictac2026.github.io/) (ICTAC'26), Bariloche, Argentina
