@@ -9,7 +9,7 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 
 **2027**
 
-- 25-29 January 2027: [35th EACSL Annual Conference on Computer Science Logic](https://csl2027.github.io/), Brighton, UK
+- 25-29 January 2027: [35th EACSL Annual Conference on Computer Science Logic](https://csl2027.github.io/) (CSL'27), Brighton, UK
 
 **2026**
 
