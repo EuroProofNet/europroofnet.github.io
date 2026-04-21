@@ -9,6 +9,8 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 
 **2027**
 
+- 10-15 April 2027: [30th International Joint Conferences On Theory and Practice of Software](https://etaps.org/2027) (ETAPS'27), Copenhagen, Denmark
+
 - 25-29 January 2027: [35th EACSL Annual Conference on Computer Science Logic](https://csl2027.github.io/) (CSL'27), Brighton, UK
 
 **2026**
