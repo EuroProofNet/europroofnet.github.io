@@ -17,6 +17,8 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 
 - 11-13 November 2026: [23rd International Colloquium on Theoretical Aspects of Computing](https://ictac2026.github.io/) (ICTAC'26), Bariloche, Argentina
 
+- 25-30 October 2026: [26th Conference on Logic for Programming, Artificial Intelligence and Reasoning](https://lpar-26.info), Spetses, Greece
+
 - 21-25 September 2026: [19th Conference on Intelligent Computer Mathematics](https://cicm-conference.org/2026/cicm.php) (CICM'26), Ljubljana, Slovenia
 
 - 30 August - 4 September: [11th Conference on Artificial Intelligence and Theorem Proving](http://aitp-conference.org/2026) (AITP'26), Aussois, France
