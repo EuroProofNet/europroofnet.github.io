@@ -55,7 +55,7 @@ entry as a discussion proposal, we will try to organize a few short discussion s
 - Jacob Neumann (University of Nottingham): *Towards Modal SOGATs* ([Abstract](programme#neumann) - [Blackboard](./slides/neumann.jpg) - [Video](https://youtu.be/HhOfutONahc))
 - Josselin Poiret (Nantes Université and Inria, Galinette Team): *A multiverse type theory* ([Abstract](programme#poiret) - [Slides](./slides/poiret.pdf) - [Video](https://youtu.be/nw1zMFjmwsI))
 - Stelios Tsampas (Friedrich-Alexander-Universität Erlangen-Nürnberg): *Logical Relations in Higher-Order Mathematical Operational Semantics* ([Abstract](programme#tsampas) - [Slides](./slides/tsampas.pdf) - [Video](https://youtu.be/6i-GPv0Eit4))
-- Théo Winterhalter (Inria Saclay): *Dependent ghosts enjoy reflection for free* ([Abstract](programme#winterhalter) - [Slides](./slides/lennonbertrand.pdf) - [Video](https://youtu.be/zNlq5m3AXr4))
+- Théo Winterhalter (Inria Saclay): *Dependent ghosts enjoy reflection for free* ([Abstract](programme#winterhalter) - [Slides](./slides/winterhalter.pdf) - [Video](https://youtu.be/zNlq5m3AXr4))
 
 **Deadlines**
 
