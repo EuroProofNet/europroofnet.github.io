@@ -15,7 +15,9 @@ To contribute to the web site, please open an [issue](https://github.com/EuroPro
 
 **2026**
 
-- 11-13 November 2026: [23rd International Colloquium on Theoretical Aspects of Computing](https://ictac2026.github.io/) (ICTAC'26), Bariloche, Argentina
+- 1-5 December 2026 [24th Asian Symposium on Programming Languages and SystemsAPLAS & 24th International Symposium on Automated Technology for Verification and Analysis](https://conf.researchr.org/track/aplas-atva-2026/aplas-2026) (APLAS'26 and ATVA'26), Hong-Kong, China
+
+- 9-15 November 2026: [23rd International Colloquium on Theoretical Aspects of Computing](https://ictac2026.github.io/) (ICTAC'26), Bariloche, Argentina
 
 - 25-30 October 2026: [26th Conference on Logic for Programming, Artificial Intelligence and Reasoning](https://lpar-26.info) (LPAR'26), Spetses, Greece
 
