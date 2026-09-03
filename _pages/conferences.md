@@ -18,6 +18,9 @@ Netherands
 
 - 19-23 July 2027: [20th Conference on Intelligent Computer Mathematics](https://cicm-conference.org/2027/cicm.php) (CICM'27), Erlangen, Germany
 
+- 21-24 June 2027: [42nd Symposium on Logic in Computer
+Science](https://lics.siglog.org/lics27/) (LICS'27), Montréal, Canada
+
 - 10-15 April 2027: [30th International Joint Conferences On Theory and Practice of Software](https://etaps.org/2027) (ETAPS'27), Copenhagen, Denmark
 
 - 25-29 January 2027: [35th EACSL Annual Conference on Computer Science Logic](https://csl2027.github.io/) (CSL'27), Brighton, UK
