@@ -14,7 +14,7 @@ Structures for Computation and
 Deduction](https://fscd-cade.science.ru.nl/) (FSCD'27) and [29th
 International Conference on Automated
 Deduction](https://fscd-cade.science.ru.nl/) (CADE'27), Nijmegen,
-Netherands
+Netherlands
 
 - 19-23 July 2027: [20th Conference on Intelligent Computer Mathematics](https://cicm-conference.org/2027/cicm.php) (CICM'27), Erlangen, Germany
 
